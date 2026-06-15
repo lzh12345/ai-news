@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 15 Jun 2026 19:38:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 22:11:20 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>GitHub Copilot CLI 初学者指南：常用斜杠命令概览</title>
+<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/</link>
+<guid isPermaLink="false">https://github.blog/?p=96773</guid>
+<pubDate>Mon, 15 Jun 2026 20:15:31 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】GitHub Copilot CLI 初学者指南：了解如何使用斜杠命令控制终端AI代理。本文最初发布于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>通过新的开放数据集加速研究人员和开发者构建多语言AI</title>
 <link>https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/</link>
@@ -128,12 +136,44 @@
 <description><![CDATA[【the-decoder.com】微软CEO萨提亚·纳德拉呼吁企业在积累人力资本的同时，构建“代币资本”——即基于内部数据和专有学习循环打造自身AI能力。他警告称，若不如此，少数大型模型可能吞噬整个行业的价值。这一论点恰好也契合其Azure平台的商业逻辑。本文《微软CEO萨提亚·纳德拉警告“少数AI系统将攫取全部经济回报”》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>认识 Flash-KMeans：一种 IO 感知的精确 K-Means 算法，在 GPU 上比 FAISS 快 200 倍以上</title>
+<link>https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80521</guid>
+<pubDate>Mon, 15 Jun 2026 09:16:09 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Flash-KMeans 是一种开源的、IO 感知的标准 Lloyd K-Means 实现，基于 Triton GPU 内核。它不改变数学原理或进行近似计算。FlashAssign 消除了距离矩阵的物化；Sort-Inverse Update 消除了原子竞争。在 NVIDIA H200 上，它报告端到端性能提升 17.9 倍，相比 cuML 提升 33 倍，相比 FAISS 提升超过 200 倍。本文《Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>AI裁员潮正成为火药桶</title>
 <link>https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3132765</guid>
 <pubDate>Mon, 15 Jun 2026 07:25:41 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】引发这一危险局面的原因在于：就在数万名员工被扫地出门之际，一小批AI内部人士正以难以想象的规模变得富有。<br/><br/><a href="https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Z.ai发布GLM-5.2：支持可用百万Token上下文、两种思考努力级别，发布时未附带基准测试</title>
+<link>https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80518</guid>
+<pubDate>Mon, 15 Jun 2026 06:10:23 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Z.ai于2026年6月13日在其所有GLM编程计划层级中推出了GLM-5.2。其亮点在于支持可用的百万Token上下文窗口，以及高和最大两种努力级别。该模型通过兼容Anthropic的端点集成到Claude Code、Cline和OpenClaw中。发布时未附带任何基准测试结果，并承诺下周开放MIT权重。文章《Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Code 指南 2026：25 项功能详解及示例 + 演示</title>
+<link>https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80513</guid>
+<pubDate>Mon, 15 Jun 2026 01:04:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Claude Code 是一款分层式智能编码工具，而非单一聊天提示。本指南详细解析了 25 项功能，涵盖 CLAUDE.md、技能、子代理、钩子、MCP 及自动模式等。文中包含对比表格、可运行代码示例、实际应用案例，以及可供尝试的交互式演示。该文章《Claude Code Guide 2026: 25 Features with Examples + Demo》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>FineWeb实战教程：流式处理、过滤、去重、分词及大规模网络语料分析</title>
+<link>https://www.marktechpost.com/2026/06/14/a-coding-hands-on-on-fineweb-for-streaming-filtering-deduplication-tokenization-and-large-scale-web-corpus-analytics/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80510</guid>
+<pubDate>Sun, 14 Jun 2026 20:45:32 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们通过一个高级实战工作流探索FineWeb数据集。我们无需下载整个数TB的语料库，即可流式获取数据集的可管理样本，检查其模式与元数据，并分析URL、语言、语言评分及词元计数等关键字段。我们还复现了FineWeb质量过滤管道的简化版本，并应用了……该文章《A Coding Hands-On on FineWeb for Streaming, Filtering, Deduplication, Tokenization, and Large-Scale Web Corpus Analytics》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/14/a-coding-hands-on-on-fineweb-for-streaming-filtering-deduplication-tokenization-and-large-scale-web-corpus-analytics/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI合作伙伴网络正式推出</title>
@@ -192,6 +232,14 @@
 <description><![CDATA[【the-decoder.com】据报道，亚马逊CEO安迪·贾西及其他科技公司高管向特朗普政府警告了Anthropic的Fable模型存在安全漏洞，尽管亚马逊是Anthropic最大的投资者之一。数小时内，白宫通过一项出口管制令迫使该模型下线。此举很可能是一项合法的安全政策决定，但也可解读为对一家不便合作的公司展示强硬姿态。本文《亚马逊等五家公司据报引发政府对Anthropic的Fable模型采取打压行动》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Databricks 开源 Omnigent：一个跨 Claude Code、Codex 和 Pi 编排、治理和共享 AI 代理的元框架</title>
+<link>https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80505</guid>
+<pubDate>Sun, 14 Jun 2026 05:01:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Databricks 已开源 Omnigent，这是一个位于 Claude Code、Codex 和 Pi 等编码代理之上的元框架。它在终端、网页、桌面和移动端通过统一界面添加了编排、上下文策略和实时会话共享功能。该项目采用 Apache 2.0 许可，目前处于 alpha 阶段。本文最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Anthropic暂停新模型访问，印度热议AI未来</title>
 <link>https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3132702</guid>
@@ -224,12 +272,36 @@
 <description><![CDATA[【techcrunch.com】亚马逊CEO安迪·贾西可能是导致Anthropic于周五在全球范围内切断两个模型访问权限的安全担忧的源头。<br/><br/><a href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>如何构建具备自定义技能、模型提供商、控制台访问和流式API测试的QwenPaw智能体工作空间</title>
+<link>https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80502</guid>
+<pubDate>Sat, 13 Jun 2026 17:27:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们实现了一个QwenPaw工作流，为构建和测试智能体驱动的助手提供了实用环境。我们安装并初始化QwenPaw，配置其工作目录，设置身份验证，通过Colab密钥连接可选的模型提供商，并创建包含自定义技能和本地知识文件的结构化工作空间。我们还启动了……该文章《如何构建具备自定义技能、模型提供商、控制台访问和流式API测试的QwenPaw智能体工作空间》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI 面临州检察长调查</title>
 <link>https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3132685</guid>
 <pubDate>Sat, 13 Jun 2026 16:47:18 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】目前尚不清楚涉及哪些州，但调查内容涵盖从OpenAI的广告政策到其处理健康数据的各个方面。<br/><br/><a href="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 应美国政府命令禁用 Claude Fable 5 和 Mythos 5</title>
+<link>https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80488</guid>
+<pubDate>Sat, 13 Jun 2026 08:15:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】此次关闭源于美国政府依据国家安全权力发布的出口管制指令。Anthropic 所有其他模型，包括 Opus 4.8，仍可正常使用。本文《Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Moonshot AI 发布 Kimi K2.7-Code：编码模型在 Kimi Code Bench v2 上较 K2.6 提升 21.8%</title>
+<link>https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80483</guid>
+<pubDate>Sat, 13 Jun 2026 04:57:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Moonshot AI 已根据修改版 MIT 许可证开源了 Kimi K2.7-Code。这是一款以编码为核心的智能体模型，基于 Kimi K2.6 构建，拥有 256K 上下文窗口，推理 token 使用量降低约 30%。Moonshot 报告称，该模型在六项基准测试中均优于 K2.6，其中在 Kimi Code Bench v2 上提升 21.8%。该模型可通过 Kimi API 和 Kimi Code 获取。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>安德鲁·杨认为下一个重大创业机会是降低生活成本</title>
@@ -246,6 +318,14 @@
 <pubDate>Sat, 13 Jun 2026 03:00:34 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】商务部担心 Fable 5 的“越狱”可能构成国家安全威胁。<br/><br/><a href="https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>基于city2graph、OSMnx和PyTorch Geometric的空间图神经网络城市功能推断编码实现</title>
+<link>https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80479</guid>
+<pubDate>Sat, 13 Jun 2026 02:47:16 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们利用city2graph构建了一个端到端的空间图学习流程。从OpenStreetMap收集城市POI和街道网络数据，并采用合成回退机制确保可靠性。我们设计了空间特征，构建了多种邻近图族，并比较了每种图族对同一城市环境的表征方式。随后构建异质图和同质图，将其转换为PyTorch Geometric格式，并训练GraphSAGE模型从空间结构预测POI类别。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic的安全警告可能适得其反——政府已叫停其最强AI模型</title>
@@ -278,6 +358,14 @@
 <pubDate>Fri, 12 Jun 2026 22:20:06 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】从今天起，SpaceX 由投资者持有，他们将期望看到公司盈利。<br/><br/><a href="https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google 发布 Gemini-SQL2：Gemini 3.1 Pro 文本转 SQL 在 BIRD 单模型排行榜上取得 80.04% 成绩</title>
+<link>https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80475</guid>
+<pubDate>Fri, 12 Jun 2026 21:04:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们关注 Gemini-SQL2，这是 Google Research 于 2026 年 6 月 12 日宣布的文本转 SQL 能力。基于 Gemini 3.1 Pro，它在 BIRD 单模型排行榜上实现了 80.04% 的执行准确率。我们解释了该分数的衡量标准、排行榜的对比情况，以及 Google 尚未披露的内容。我们还涵盖了使用案例和基于模式的实现模式。本文《Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌起诉利用AI诈骗“数十万受害者”的中国网络犯罪团伙</title>
@@ -398,94 +486,6 @@
 <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】当噪音减少时，警报更值得信赖且可操作。了解我们如何通过上下文感知的LLM推理改进验证步骤。本文《让秘密扫描更值得信赖：大规模减少误报》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>PyTorch 中的性能分析（第二部分）：从 nn.Linear 到融合 MLP</title>
-<link>https://huggingface.co/blog/torch-mlp-fusion</link>
-<guid isPermaLink="false">https://huggingface.co/blog/torch-mlp-fusion</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/torch-mlp-fusion">阅读原文</a>]]></description>
-</item>
-<item>
-<title>BBVA将AI置于银行业务核心，携手OpenAI</title>
-<link>https://openai.com/index/bbva</link>
-<guid isPermaLink="false">https://openai.com/index/bbva</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】了解BBVA如何将ChatGPT Enterprise推广至10万名员工，并与OpenAI合作，加速全球AI驱动的银行业务转型。<br/><br/><a href="https://openai.com/index/bbva">阅读原文</a>]]></description>
-</item>
-<item>
-<title>天体物理学家如何利用Codex模拟黑洞</title>
-<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
-<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】了解天体物理学家Chi-kwan Chan如何利用Codex构建黑洞模拟，帮助科学家研究极端物理学并检验爱因斯坦的广义相对论。<br/><br/><a href="https://openai.com/index/using-codex-to-simulate-black-holes">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI 将收购 Ona</title>
-<link>https://openai.com/index/openai-to-acquire-ona</link>
-<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI 计划收购 Ona，以通过安全、持久的云环境扩展 Codex，从而在企业工作流中实现长期运行的 AI 代理。<br/><br/><a href="https://openai.com/index/openai-to-acquire-ona">阅读原文</a>]]></description>
-</item>
-<item>
-<title>支持欧洲构建可信赖的人工智能生态系统</title>
-<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI支持欧盟关于人工智能内容透明度的实践准则，推动溯源标准与工具的发展，以帮助人们理解人工智能生成的内容。<br/><br/><a href="https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过您的 Oracle 云承诺访问 OpenAI 模型和 Codex</title>
-<link>https://openai.com/index/openai-on-oracle-cloud</link>
-<guid isPermaLink="false">https://openai.com/index/openai-on-oracle-cloud</guid>
-<pubDate>Wed, 10 Jun 2026 20:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】通过 Oracle 云访问 OpenAI 模型和 Codex，利用现有承诺，以企业级安全性和治理能力构建并部署 AI。<br/><br/><a href="https://openai.com/index/openai-on-oracle-cloud">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google DeepMind 发布 DiffusionGemma，本地 AI 运行速度提升 4 倍</title>
-<link>https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/</link>
-<guid isPermaLink="false">https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/</guid>
-<pubDate>Wed, 10 Jun 2026 19:29:21 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】扩散 AI 在图像生成领域最为常见，但它也能大幅提升文本输出的速度。<br/><br/><a href="https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>法院裁定：无人需要AI来搜索互联网，谷歌败诉</title>
-<link>https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/</guid>
-<pubDate>Wed, 10 Jun 2026 17:19:31 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】谷歌在德国因AI概览功能败诉，这可能预示着AI搜索行业的终结。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DiffusionGemma：文本生成速度提升4倍</title>
-<link>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</guid>
-<pubDate>Wed, 10 Jun 2026 16:24:11 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过语言服务器为 GitHub Copilot CLI 赋予真正的代码智能</title>
-<link>https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/</link>
-<guid isPermaLink="false">https://github.blog/?p=96610</guid>
-<pubDate>Wed, 10 Jun 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】安装并配置适用于 GitHub Copilot CLI 的 LSP 服务器，用真正的代码智能取代暴力 grep/反编译。本文《Give GitHub Copilot CLI real code intelligence with language servers》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用Cloudflare将公共流量路由到私有应用</title>
-<link>https://blog.cloudflare.com/private-origins-dns-routing/</link>
-<guid isPermaLink="false">7it4N1iImLVhf4Mt9YilGH</guid>
-<pubDate>Wed, 10 Jun 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】私有源应用服务现已进入封闭测试阶段。您可以通过现有的IPsec、GRE、CNI或Cloudflare Mesh路径，将公共主机名路由到私有IP源。无需公共IP或额外的连接器软件。<br/><br/><a href="https://blog.cloudflare.com/private-origins-dns-routing/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

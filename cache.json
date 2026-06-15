@@ -354,5 +354,17 @@
 "https://techcrunch.com/?p=3132810": {
 "t": "Salesforce 以36亿美元收购AI客服平台Fin",
 "s": "Salesforce表示，希望利用Fin的团队和技术来改进其现有企业平台Agentforce，企业可使用该平台构建自定义AI代理以自动化任务。"
+},
+"https://github.blog/?p=96773": {
+"t": "GitHub Copilot CLI 初学者指南：常用斜杠命令概览",
+"s": "GitHub Copilot CLI 初学者指南：了解如何使用斜杠命令控制终端AI代理。本文最初发布于GitHub博客。"
+},
+"https://www.marktechpost.com/?p=80521": {
+"t": "认识 Flash-KMeans：一种 IO 感知的精确 K-Means 算法，在 GPU 上比 FAISS 快 200 倍以上",
+"s": "Flash-KMeans 是一种开源的、IO 感知的标准 Lloyd K-Means 实现，基于 Triton GPU 内核。它不改变数学原理或进行近似计算。FlashAssign 消除了距离矩阵的物化；Sort-Inverse Update 消除了原子竞争。在 NVIDIA H200 上，它报告端到端性能提升 17.9 倍，相比 cuML 提升 33 倍，相比 FAISS 提升超过 200 倍。本文《Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80518": {
+"t": "Z.ai发布GLM-5.2：支持可用百万Token上下文、两种思考努力级别，发布时未附带基准测试",
+"s": "Z.ai于2026年6月13日在其所有GLM编程计划层级中推出了GLM-5.2。其亮点在于支持可用的百万Token上下文窗口，以及高和最大两种努力级别。该模型通过兼容Anthropic的端点集成到Claude Code、Cline和OpenClaw中。发布时未附带任何基准测试结果，并承诺下周开放MIT权重。文章《Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch》首发于MarkTechPost。"
 }
 }
