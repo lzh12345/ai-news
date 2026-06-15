@@ -238,5 +238,61 @@
 "https://github.blog/?p=96621": {
 "t": "让秘密扫描更值得信赖：大规模减少误报",
 "s": "当噪音减少时，警报更值得信赖且可操作。了解我们如何通过上下文感知的LLM推理改进验证步骤。本文《让秘密扫描更值得信赖：大规模减少误报》最初发布于GitHub博客。"
+},
+"https://huggingface.co/blog/torch-mlp-fusion": {
+"t": "PyTorch 中的性能分析（第二部分）：从 nn.Linear 到融合 MLP",
+"s": "（无）"
+},
+"https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
+"t": "支持欧洲构建可信赖的人工智能生态系统",
+"s": "OpenAI支持欧盟关于人工智能内容透明度的实践准则，推动溯源标准与工具的发展，以帮助人们理解人工智能生成的内容。"
+},
+"https://openai.com/index/bbva": {
+"t": "BBVA将AI置于银行业务核心，携手OpenAI",
+"s": "了解BBVA如何将ChatGPT Enterprise推广至10万名员工，并与OpenAI合作，加速全球AI驱动的银行业务转型。"
+},
+"https://openai.com/index/openai-to-acquire-ona": {
+"t": "OpenAI 将收购 Ona",
+"s": "OpenAI 计划收购 Ona，以通过安全、持久的云环境扩展 Codex，从而在企业工作流中实现长期运行的 AI 代理。"
+},
+"https://openai.com/index/using-codex-to-simulate-black-holes": {
+"t": "天体物理学家如何利用Codex模拟黑洞",
+"s": "了解天体物理学家Chi-kwan Chan如何利用Codex构建黑洞模拟，帮助科学家研究极端物理学并检验爱因斯坦的广义相对论。"
+},
+"https://openai.com/index/openai-on-oracle-cloud": {
+"t": "通过您的 Oracle 云承诺访问 OpenAI 模型和 Codex",
+"s": "通过 Oracle 云访问 OpenAI 模型和 Codex，利用现有承诺，以企业级安全性和治理能力构建并部署 AI。"
+},
+"https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/": {
+"t": "Google DeepMind 发布 DiffusionGemma，本地 AI 运行速度提升 4 倍",
+"s": "扩散 AI 在图像生成领域最为常见，但它也能大幅提升文本输出的速度。"
+},
+"https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/": {
+"t": "法院裁定：无人需要AI来搜索互联网，谷歌败诉",
+"s": "谷歌在德国因AI概览功能败诉，这可能预示着AI搜索行业的终结。"
+},
+"https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
+"t": "DiffusionGemma：文本生成速度提升4倍",
+"s": "（无）"
+},
+"https://github.blog/?p=96610": {
+"t": "通过语言服务器为 GitHub Copilot CLI 赋予真正的代码智能",
+"s": "安装并配置适用于 GitHub Copilot CLI 的 LSP 服务器，用真正的代码智能取代暴力 grep/反编译。本文《Give GitHub Copilot CLI real code intelligence with language servers》最初发布于 GitHub 博客。"
+},
+"7it4N1iImLVhf4Mt9YilGH": {
+"t": "使用Cloudflare将公共流量路由到私有应用",
+"s": "私有源应用服务现已进入封闭测试阶段。您可以通过现有的IPsec、GRE、CNI或Cloudflare Mesh路径，将公共主机名路由到私有IP源。无需公共IP或额外的连接器软件。"
+},
+"https://openai.com/index/prc-linked-influence-operations-ai-debates": {
+"t": "与PRC相关的影响力行动正瞄准美国的AI辩论",
+"s": "OpenAI的一份新报告详细描述了与PRC相关的影响力行动，这些行动利用AI瞄准美国的技术辩论、数据中心叙事、关税以及对ChatGPT的虚假指控。"
+},
+"https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": {
+"t": "投资多智能体AI安全研究",
+"s": "Google DeepMind及其合作伙伴宣布为多智能体安全研究提供1000万美元的资金征集。"
+},
+"https://openai.com/index/lseg": {
+"t": "从数据到决策：LSEG 如何规模化可信 AI",
+"s": "了解 LSEG 如何利用 OpenAI 在其全球业务中规模化可信 AI，加速洞察、缩短发布周期，并赋能 4,000 名员工。"
 }
 }
