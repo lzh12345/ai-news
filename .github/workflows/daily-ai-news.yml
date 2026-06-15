@@ -1,0 +1,43 @@
+name: AI 资讯微信推送(可选 · 手动)
+
+# 可选的「推送到个人微信」变体(Server酱 / PushPlus)。
+# 主方案是 RSS 翻译聚合(见 rss.yml),所以这个已改为「仅手动触发」,不再定时跑。
+# 若想要每天微信推送,把下面的 schedule 注释取消即可,并配好对应 Secrets。
+on:
+  # schedule:
+  #   - cron: "30 0 * * *"   # 08:30 北京
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "只构建不推送 (true/false)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-ai-news
+  cancel-in-progress: false
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Run AI news push
+        env:
+          # 二选一配置即可(脚本自动识别;两者都配则优先 Server酱)。
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python ai_news_push.py --dry-run
+          else
+            python ai_news_push.py
+          fi

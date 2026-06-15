@@ -1,0 +1,10 @@
+# 密钥/本地配置 —— 绝不提交
+config.json
+deepseek_key.txt
+serverchan_sendkey.txt
+pushplus_token.txt
+.env
+
+# Python
+__pycache__/
+*.pyc

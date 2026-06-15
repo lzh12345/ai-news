@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>AI 资讯 · 中文(翻译聚合)</title>
+<link>https://your-name.github.io/ai-news/feed.xml</link>
+<description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
+<language>zh-CN</language>
+<lastBuildDate>Mon, 15 Jun 2026 05:00:08 +0000</lastBuildDate>
+<atom:link href="https://your-name.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude Code 指南 2026：25 项功能详解及示例 + 演示</title>
+<link>https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80513</guid>
+<pubDate>Mon, 15 Jun 2026 01:04:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Claude Code 是一款分层式智能编码工具，而非单一聊天提示。本指南详细解析了 25 项功能，涵盖 CLAUDE.md、技能、子代理、钩子、MCP 及自动模式等。文中包含对比表格、可运行代码示例、实际应用案例，以及可供尝试的交互式演示。该文章《Claude Code Guide 2026: 25 Features with Examples + Demo》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>FineWeb实战教程：流式处理、过滤、去重、分词及大规模网络语料分析</title>
+<link>https://www.marktechpost.com/2026/06/14/a-coding-hands-on-on-fineweb-for-streaming-filtering-deduplication-tokenization-and-large-scale-web-corpus-analytics/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80510</guid>
+<pubDate>Sun, 14 Jun 2026 20:45:32 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们通过一个高级实战工作流探索FineWeb数据集。我们无需下载整个数TB的语料库，即可流式获取数据集的可管理样本，检查其模式与元数据，并分析URL、语言、语言评分及词元计数等关键字段。我们还复现了FineWeb质量过滤管道的简化版本，并应用了……该文章《A Coding Hands-On on FineWeb for Streaming, Filtering, Deduplication, Tokenization, and Large-Scale Web Corpus Analytics》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/14/a-coding-hands-on-on-fineweb-for-streaming-filtering-deduplication-tokenization-and-large-scale-web-corpus-analytics/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI合作伙伴网络正式推出</title>
+<link>https://openai.com/index/introducing-openai-partner-network</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-openai-partner-network</guid>
+<pubDate>Sun, 14 Jun 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI推出合作伙伴网络，投资1.5亿美元助力全球合作伙伴加速企业级AI的采用、部署与转型。<br/><br/><a href="https://openai.com/index/introducing-openai-partner-network">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI公司竞相上市，谁将一同搭上这趟快车？</title>
+<link>https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132739</guid>
+<pubDate>Sun, 14 Jun 2026 16:38:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】初创企业正试图“搭乘SpaceX的IPO浪潮”。<br/><br/><a href="https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>华盛顿必须做什么</title>
+<link>https://garymarcus.substack.com/p/what-washington-must-do</link>
+<guid isPermaLink="false">https://garymarcus.substack.com/p/what-washington-must-do</guid>
+<pubDate>Sun, 14 Jun 2026 16:15:35 +0000</pubDate>
+<source>garymarcus.substack.com</source>
+<description><![CDATA[【garymarcus.substack.com】“唯一的出路是坚持到底”<br/><br/><a href="https://garymarcus.substack.com/p/what-washington-must-do">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软研究院的Mirage为视频生成赋予持久空间记忆，不会遗忘角落场景</title>
+<link>https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36637</guid>
+<pubDate>Sun, 14 Jun 2026 13:58:17 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Mirage是微软研究院与多所大学合作开发的视频世界模型，它将场景信息直接存储在潜在空间中，而非基于像素的点云。这大幅削减了计算时间和图形内存，同时能在长镜头移动中保持场景空间一致性。不过，它仍无法可靠地跨片段追踪移动物体。本文《微软研究院的Mirage为视频生成赋予持久空间记忆，不会遗忘角落场景》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Cloud 的开放知识格式将分散文档转化为供AI代理使用的Markdown文件</title>
+<link>https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36634</guid>
+<pubDate>Sun, 14 Jun 2026 13:29:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google Cloud 新推出的开放知识格式（OKF）将分散的组织知识标准化为带有YAML前置元数据的Markdown文件，使其具备可移植性并可供AI代理使用。这一极简规范将安德烈·卡帕西（Andrej Karpathy）近期推广的“LLM Wiki”模式正式化。本文《Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>毕马威在旨在向客户推销AI应用的报告中编造AI案例研究</title>
+<link>https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36629</guid>
+<pubDate>Sun, 14 Jun 2026 09:40:37 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】毕马威发布了一份关于企业AI应用的报告，其中包含涉及瑞银、英国国家医疗服务体系及其他组织的虚构案例研究。GPTZero首席执行官爱德华·田协助发现了这些错误，他警告称存在“二次幻觉”，即来自受信任咨询公司的错误主张未经核查便广泛传播。毕马威已撤回该报告。本文《毕马威在旨在向客户推销AI应用的报告中编造AI案例研究》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>研究显示AI编程代理能找到正确文件，但会遗漏关键代码行</title>
+<link>https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36619</guid>
+<pubDate>Sun, 14 Jun 2026 08:54:47 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】像Claude Code或Codex这样的AI编程代理能可靠地找到正确文件，但会遗漏其中大部分关键代码行。新的SWE-Explore基准测试首次将代码搜索与实际修复分开评估，结果显示，若缺乏足够上下文，即使最佳修复方案也会失败。本文《AI coding agents find the right file but miss the exact lines that matter, study shows》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>亚马逊等五家公司据报引发政府对Anthropic的Fable模型采取打压行动</title>
+<link>https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36615</guid>
+<pubDate>Sun, 14 Jun 2026 08:35:02 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据报道，亚马逊CEO安迪·贾西及其他科技公司高管向特朗普政府警告了Anthropic的Fable模型存在安全漏洞，尽管亚马逊是Anthropic最大的投资者之一。数小时内，白宫通过一项出口管制令迫使该模型下线。此举很可能是一项合法的安全政策决定，但也可解读为对一家不便合作的公司展示强硬姿态。本文《亚马逊等五家公司据报引发政府对Anthropic的Fable模型采取打压行动》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Databricks 开源 Omnigent：一个跨 Claude Code、Codex 和 Pi 编排、治理和共享 AI 代理的元框架</title>
+<link>https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80505</guid>
+<pubDate>Sun, 14 Jun 2026 05:01:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Databricks 已开源 Omnigent，这是一个位于 Claude Code、Codex 和 Pi 等编码代理之上的元框架。它在终端、网页、桌面和移动端通过统一界面添加了编排、上下文策略和实时会话共享功能。该项目采用 Apache 2.0 许可，目前处于 alpha 阶段。本文最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic暂停新模型访问，印度热议AI未来</title>
+<link>https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132702</guid>
+<pubDate>Sun, 14 Jun 2026 03:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】科技领袖们争论Anthropic事件是否是对印度AI雄心的警示。<br/><br/><a href="https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>消息称Meta应北京要求，撤销20亿美元Manus交易</title>
+<link>https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132716</guid>
+<pubDate>Sun, 14 Jun 2026 00:03:49 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在北京下令撤销交易后，Meta开始解除其20亿美元收购Manus的交易。<br/><br/><a href="https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>毕马威因明显幻觉问题撤回AI使用报告</title>
+<link>https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132703</guid>
+<pubDate>Sat, 13 Jun 2026 20:42:31 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AI再次证明，它并非关于AI的可靠信息来源。<br/><br/><a href="https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>据报道，亚马逊CEO在政府打击前曾对Anthropic模型提出担忧</title>
+<link>https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132688</guid>
+<pubDate>Sat, 13 Jun 2026 19:11:41 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】亚马逊CEO安迪·贾西可能是导致Anthropic于周五在全球范围内切断两个模型访问权限的安全担忧的源头。<br/><br/><a href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如何构建具备自定义技能、模型提供商、控制台访问和流式API测试的QwenPaw智能体工作空间</title>
+<link>https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80502</guid>
+<pubDate>Sat, 13 Jun 2026 17:27:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们实现了一个QwenPaw工作流，为构建和测试智能体驱动的助手提供了实用环境。我们安装并初始化QwenPaw，配置其工作目录，设置身份验证，通过Colab密钥连接可选的模型提供商，并创建包含自定义技能和本地知识文件的结构化工作空间。我们还启动了……该文章《如何构建具备自定义技能、模型提供商、控制台访问和流式API测试的QwenPaw智能体工作空间》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>名为“Count Anything”的新AI模型名副其实，但实现起来比听起来更难</title>
+<link>https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36605</guid>
+<pubDate>Sat, 13 Jun 2026 17:00:19 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】“Count Anything”旨在成为首个仅凭文本提示就能对任意类型图像中的物体进行计数的AI模型，无论是人群还是显微镜下的细胞样本。在对比测试中，它将错误率较此前系统降低了一半。不过，该方法在处理极度密集的物体和模糊术语时仍存在困难。本文《名为“Count Anything”的新AI模型名副其实，但实现起来比听起来更难》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 面临州检察长调查</title>
+<link>https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132685</guid>
+<pubDate>Sat, 13 Jun 2026 16:47:18 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】目前尚不清楚涉及哪些州，但调查内容涵盖从OpenAI的广告政策到其处理健康数据的各个方面。<br/><br/><a href="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>白宫混乱的AI政策</title>
+<link>https://garymarcus.substack.com/p/the-white-houses-shambolic-ai-policy</link>
+<guid isPermaLink="false">https://garymarcus.substack.com/p/the-white-houses-shambolic-ai-policy</guid>
+<pubDate>Sat, 13 Jun 2026 16:12:58 +0000</pubDate>
+<source>garymarcus.substack.com</source>
+<description><![CDATA[【garymarcus.substack.com】此外，各州为何自行其是，以及什么可能是更好的选择<br/><br/><a href="https://garymarcus.substack.com/p/the-white-houses-shambolic-ai-policy">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软CEO萨提亚·纳德拉承认自己也是“Token最大化者”：“这会上瘾”</title>
+<link>https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36598</guid>
+<pubDate>Sat, 13 Jun 2026 13:03:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】微软CEO萨提亚·纳德拉警告不要“Token最大化”，即用最强大的AI模型解决所有问题。他表示，前沿模型不应浪费在日常任务上，生产力提升的边际成本必须与Token成本相匹配。不过，纳德拉也承认：“我自己也是个Token最大化者，这确实会上瘾。”本文《微软CEO萨提亚·纳德拉承认自己也是“Token最大化者”：“这会上瘾”》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌研究院的Gemini-SQL2以大幅优势登顶文本转SQL基准测试</title>
+<link>https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36592</guid>
+<pubDate>Sat, 13 Jun 2026 12:32:11 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌研究院的Gemini-SQL2能将自然语言转化为可执行的SQL查询。基于Gemini 3.1 Pro构建，它在BIRD基准测试中以80.04%的准确率领先，远超OpenAI和Anthropic。谷歌表示，该技术可提升其数据服务中的自然语言功能。本文《谷歌研究院的Gemini-SQL2以大幅优势登顶文本转SQL基准测试》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软SkillOpt仅凭一个训练过的Markdown文件，便将GPT-5.5性能提升约23个点</title>
+<link>https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36584</guid>
+<pubDate>Sat, 13 Jun 2026 12:20:39 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】微软与三所中国大学共同开发了SkillOpt方法，该方法借鉴传统模型训练原理，优化AI代理的指令文档。仅需一个简单的Markdown文件，就能让GPT-5.5在程序性任务上提升约23个点，且该文件可跨模型及代理环境（如Codex和Claude Code）迁移。本文《微软SkillOpt仅凭一个训练过的Markdown文件，便将GPT-5.5性能提升约23个点》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Fable 5 在 FrontierMath 最难问题上领先 GPT-5.5 13 个百分点</title>
+<link>https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36578</guid>
+<pubDate>Sat, 13 Jun 2026 10:16:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic 的 Claude Fable 5 在 FrontierMath 最难级别上达到 88% 的准确率，相比 2026 年初低于 10% 的 Opus 4.5 实现了巨大飞跃。OpenAI 的 GPT-5.5 在同一级别上达到约 75% 的准确率。AI 数学能力的提升速度持续加快。本文《Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 应美国政府命令禁用 Claude Fable 5 和 Mythos 5</title>
+<link>https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80488</guid>
+<pubDate>Sat, 13 Jun 2026 08:15:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】此次关闭源于美国政府依据国家安全权力发布的出口管制指令。Anthropic 所有其他模型，包括 Opus 4.8，仍可正常使用。本文《Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Moonshot AI 发布 Kimi K2.7-Code：编码模型在 Kimi Code Bench v2 上较 K2.6 提升 21.8%</title>
+<link>https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80483</guid>
+<pubDate>Sat, 13 Jun 2026 04:57:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Moonshot AI 已根据修改版 MIT 许可证开源了 Kimi K2.7-Code。这是一款以编码为核心的智能体模型，基于 Kimi K2.6 构建，拥有 256K 上下文窗口，推理 token 使用量降低约 30%。Moonshot 报告称，该模型在六项基准测试中均优于 K2.6，其中在 Kimi Code Bench v2 上提升 21.8%。该模型可通过 Kimi API 和 Kimi Code 获取。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>安德鲁·杨认为下一个重大创业机会是降低生活成本</title>
+<link>https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132491</guid>
+<pubDate>Sat, 13 Jun 2026 04:14:19 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】安德鲁·杨列出了美国人支付过高的所有项目——住房、食品、无线通信——并认为下一个创业淘金热就是把这些钱还给他们。<br/><br/><a href="https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 在特朗普政府指令下关闭 Fable、Mythos 模型</title>
+<link>https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/</guid>
+<pubDate>Sat, 13 Jun 2026 03:00:34 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】商务部担心 Fable 5 的“越狱”可能构成国家安全威胁。<br/><br/><a href="https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>基于city2graph、OSMnx和PyTorch Geometric的空间图神经网络城市功能推断编码实现</title>
+<link>https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80479</guid>
+<pubDate>Sat, 13 Jun 2026 02:47:16 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们利用city2graph构建了一个端到端的空间图学习流程。从OpenStreetMap收集城市POI和街道网络数据，并采用合成回退机制确保可靠性。我们设计了空间特征，构建了多种邻近图族，并比较了每种图族对同一城市环境的表征方式。随后构建异质图和同质图，将其转换为PyTorch Geometric格式，并训练GraphSAGE模型从空间结构预测POI类别。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic的安全警告可能适得其反——政府已叫停其最强AI模型</title>
+<link>https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132661</guid>
+<pubDate>Sat, 13 Jun 2026 02:26:30 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic毫不掩饰其不满情绪。该公司在一篇博客文章中写道：“我们不同意，一个狭隘的潜在越狱发现，就应该成为召回一个已部署给数亿用户的商业模型的理由。”<br/><br/><a href="https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>突发新闻：美国商务部实质上关闭了Anthropic的最新模型</title>
+<link>https://garymarcus.substack.com/p/breaking-news-us-commerce-department</link>
+<guid isPermaLink="false">https://garymarcus.substack.com/p/breaking-news-us-commerce-department</guid>
+<pubDate>Sat, 13 Jun 2026 02:01:10 +0000</pubDate>
+<source>garymarcus.substack.com</source>
+<description><![CDATA[【garymarcus.substack.com】在两年对AI监管不足之后，美国政府突然采取了核选项。<br/><br/><a href="https://garymarcus.substack.com/p/breaking-news-us-commerce-department">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceX IPO：你需要了解的一切实时更新</title>
+<link>https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132276</guid>
+<pubDate>Fri, 12 Jun 2026 23:15:14 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】TechCrunch从早期就追踪了SpaceX的起步、挣扎与成功。我们也将继续关注接下来的发展。这份SpaceX IPO报道合集涵盖了谁可能成为赢家（或许也包括一些输家）、IPO前的交易，以及其S-1注册文件中隐藏的内容。<br/><br/><a href="https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta成立数月的AI部门被内部工程师称为“灵魂磨灭的古拉格”</title>
+<link>https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132623</guid>
+<pubDate>Fri, 12 Jun 2026 23:00:54 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】一份新报告显示，这个拥有6500名员工的部门正处于反抗的边缘。<br/><br/><a href="https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们如何让GitHub Copilot CLI在委派任务时更具选择性</title>
+<link>https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/</link>
+<guid isPermaLink="false">https://github.blog/?p=96755</guid>
+<pubDate>Fri, 12 Jun 2026 22:26:23 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】更好的编排、更少的交接、更快的进展，无需新增任何控制选项。本文原载于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceX 成为上市公司，其人工智能潜力备受瞩目，接下来会发生什么？</title>
+<link>https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/</link>
+<guid isPermaLink="false">https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/</guid>
+<pubDate>Fri, 12 Jun 2026 22:20:06 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】从今天起，SpaceX 由投资者持有，他们将期望看到公司盈利。<br/><br/><a href="https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google 发布 Gemini-SQL2：Gemini 3.1 Pro 文本转 SQL 在 BIRD 单模型排行榜上取得 80.04% 成绩</title>
+<link>https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80475</guid>
+<pubDate>Fri, 12 Jun 2026 21:04:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们关注 Gemini-SQL2，这是 Google Research 于 2026 年 6 月 12 日宣布的文本转 SQL 能力。基于 Gemini 3.1 Pro，它在 BIRD 单模型排行榜上实现了 80.04% 的执行准确率。我们解释了该分数的衡量标准、排行榜的对比情况，以及 Google 尚未披露的内容。我们还涵盖了使用案例和基于模式的实现模式。本文《Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌起诉利用AI诈骗“数十万受害者”的中国网络犯罪团伙</title>
+<link>https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132480</guid>
+<pubDate>Fri, 12 Jun 2026 20:38:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这家科技巨头称，一个名为“Outsider Enterprise”的团伙利用人工智能诈骗了数十万受害者，在两周内发送了250万条短信。<br/><br/><a href="https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>杰夫·贝佐斯新创企Prometheus将做什么</title>
+<link>https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/</guid>
+<pubDate>Fri, 12 Jun 2026 18:45:40 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】它并非唯一涉足物理AI的初创公司，但却是资金最雄厚的之一。<br/><br/><a href="https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>乌克兰一次性测试使用全自主无人机击杀俄罗斯士兵</title>
+<link>https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/</guid>
+<pubDate>Fri, 12 Jun 2026 18:03:29 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】全自主作战极为罕见，但乌克兰正在无人机和机器人上安装人工智能模块。<br/><br/><a href="https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral 据传以200亿欧元估值融资30亿欧元</title>
+<link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132412</guid>
+<pubDate>Fri, 12 Jun 2026 17:38:11 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】本轮融资将使该公司估值达到约200亿欧元（约合231.5亿美元），几乎是其C轮融资时117亿欧元估值的两倍。<br/><br/><a href="https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>今年迄今已有1300亿美元的数据中心项目因抗议受阻</title>
+<link>https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/</guid>
+<pubDate>Fri, 12 Jun 2026 17:18:49 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】对抗AI数据中心的胜利让人们尝到了“政治权力的滋味”。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>就总用水量而言，AI数据中心只是九牛一毛</title>
+<link>https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/</guid>
+<pubDate>Fri, 12 Jun 2026 16:51:38 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】即使是中等规模的数据中心，也可能对当地产生不成比例的影响。<br/><br/><a href="https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌起诉利用Gemini自动化诈骗的中国网络犯罪团伙</title>
+<link>https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/</link>
+<guid isPermaLink="false">https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/</guid>
+<pubDate>Fri, 12 Jun 2026 16:34:36 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】据称，该诈骗团伙通过Gemini编码的诈骗网站，针对数十万人实施欺诈活动。<br/><br/><a href="https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceX、Anthropic 与 OpenAI 的炙热 IPO 之夏</title>
+<link>https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3132423</guid>
+<pubDate>Fri, 12 Jun 2026 16:23:25 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】IPO 市场再度活跃，但引领潮流的已不再是那些熟悉的面孔。FAANG 曾风光一时，如今新的缩写词 MANGOS 正取而代之——即 Meta（或微软，视具体说法而定）、Anthropic、英伟达、谷歌、OpenAI 和 SpaceX。其中半数公司将在同一时间段内登陆公开市场，这对投资者、估值体系乃至整个市场而言，都是一场压力测试。<br/><br/><a href="https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>olmo-eval：面向模型开发循环的评估工作台</title>
+<link>https://huggingface.co/blog/allenai/olmo-eval</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/olmo-eval</guid>
+<pubDate>Fri, 12 Jun 2026 15:56:10 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/olmo-eval">阅读原文</a>]]></description>
+</item>
+<item>
+<title>IPO盛夏来袭，MANGOS已然成熟</title>
+<link>https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3132406</guid>
+<pubDate>Fri, 12 Jun 2026 15:50:52 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】IPO市场回暖，但引领潮流的已不再是那些老面孔。FAANG曾风光一时，但如今新缩写MANGOS正取而代之——Meta（或微软，视乎你问谁）、Anthropic、英伟达、谷歌、OpenAI和SpaceX。其中半数公司将在同一窗口期登陆公开市场，这对投资者、估值体系乃至整个市场而言，都是一场压力测试。<br/><br/><a href="https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>没有比这更2026的了</title>
+<link>https://garymarcus.substack.com/p/you-cant-get-more-2026-than-that</link>
+<guid isPermaLink="false">https://garymarcus.substack.com/p/you-cant-get-more-2026-than-that</guid>
+<pubDate>Fri, 12 Jun 2026 13:58:12 +0000</pubDate>
+<source>garymarcus.substack.com</source>
+<description><![CDATA[【garymarcus.substack.com】今日幻觉：<br/><br/><a href="https://garymarcus.substack.com/p/you-cant-get-more-2026-than-that">阅读原文</a>]]></description>
+</item>
+<item>
+<title>扩展安全洞察：我们如何实现全球扫描能力提升10倍</title>
+<link>https://blog.cloudflare.com/scaling-security-scans/</link>
+<guid isPermaLink="false">2K9aPHKPuXNJBQtPo0ylUi</guid>
+<pubDate>Fri, 12 Jun 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare安全洞察系统现在每秒处理超过120次扫描，为所有客户提供频繁的洞察。通过优化Kafka消费者、Postgres查询以及我们的API，我们在不增加硬件的情况下将吞吐量提升了10倍。<br/><br/><a href="https://blog.cloudflare.com/scaling-security-scans/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>宝可梦Go玩家无意中为军用无人机技术做出贡献</title>
+<link>https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/</guid>
+<pubDate>Fri, 12 Jun 2026 11:15:41 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】将宝可梦Go数据重新用于AI训练的做法持续引发关注。<br/><br/><a href="https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI推出面向未来工作新时代的学院课程</title>
+<link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
+<guid isPermaLink="false">https://openai.com/index/academy-courses-applying-ai-at-work</guid>
+<pubDate>Fri, 12 Jun 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI推出三门学院课程，帮助人们掌握实用的人工智能技能，创建可重复的工作流程，并将智能体应用于日常工作中。<br/><br/><a href="https://openai.com/index/academy-courses-applying-ai-at-work">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Moonshot AI 推出 Kimi Work，一款本地桌面代理，据称运行于 Kimi K2.6，配备 300 个子代理的 Agent Swarm</title>
+<link>https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80469</guid>
+<pubDate>Fri, 12 Jun 2026 09:37:30 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Moonshot AI 的 Kimi Work 是一款适用于 macOS 和 Windows 的本地桌面代理。它运行一个包含 300 个子代理的 swarm，通过 WebBridge 驱动您已登录的浏览器，并调度后台任务。本文 Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm 最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Zyphra发布Zamba2-VL：混合Mamba2-Transformer视觉语言模型，首令牌生成时间缩短约一个数量级</title>
+<link>https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80461</guid>
+<pubDate>Fri, 12 Jun 2026 08:06:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Zyphra发布了Zamba2-VL，这是一个开源的视觉语言模型系列，包含1.2B、2.7B和7B三种参数规模。这些模型采用混合Mamba2状态空间与Transformer骨干架构，基于Apache 2.0许可证发布。它们在保持与同类Transformer VLM竞争力相当的同时，将首令牌生成时间缩短了约一个数量级。本文《Zyphra发布Zamba2-VL：混合Mamba2-Transformer视觉语言模型，首令牌生成时间缩短约一个数量级》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>更便宜、更快、更具文化意识，Avataar的视频AI专为印度规模打造</title>
+<link>https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3131650</guid>
+<pubDate>Fri, 12 Jun 2026 04:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Avataar AI的精简视频模型每生成一秒收费0.005美元。<br/><br/><a href="https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Theker 融资8500万美元，打造不专精于任何特定任务的工厂机器人</title>
+<link>https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132154</guid>
+<pubDate>Fri, 12 Jun 2026 01:48:07 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】与波士顿动力等公司设计的固定形态人形机器人不同，Theker 的机器人被设计为可重新配置。<br/><br/><a href="https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>杰夫·贝佐斯的普罗米修斯公司融资120亿美元，打造面向物理世界的“通用人工智能工程师”</title>
+<link>https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132323</guid>
+<pubDate>Fri, 12 Jun 2026 01:04:38 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这轮融资使这家旨在自动化重型工程和药物设计的物理AI初创公司估值达到410亿美元。<br/><br/><a href="https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Preply 如何结合人工智能与真人导师实现个性化学习</title>
+<link>https://openai.com/index/preply</link>
+<guid isPermaLink="false">https://openai.com/index/preply</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Preply 利用 OpenAI 推出人工智能生成的课程摘要，提供个性化反馈和语言学习练习。<br/><br/><a href="https://openai.com/index/preply">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub 可用性报告：2026年5月</title>
+<link>https://github.blog/news-insights/company-news/github-availability-report-may-2026/</link>
+<guid isPermaLink="false">https://github.blog/?p=96626</guid>
+<pubDate>Thu, 11 Jun 2026 21:30:15 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】5月份，我们经历了九起导致GitHub服务性能下降的事件。这篇GitHub可用性报告：2026年5月首次出现在GitHub博客上。<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-may-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceX 正式将股价定为每股135美元，创史上最大规模IPO</title>
+<link>https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132274</guid>
+<pubDate>Thu, 11 Jun 2026 20:33:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】随着官方股价公告的发布，SpaceX的首次公开募股已正式启动。<br/><br/><a href="https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceX SPV投资者在IPO锁定期解除前无法知晓真实持股情况</title>
+<link>https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132124</guid>
+<pubDate>Thu, 11 Jun 2026 19:58:01 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在SpaceX公开上市后，次级SPV投资者将面临隐性费用、漫长的付款延迟以及直接欺诈的风险。<br/><br/><a href="https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Deezer 新工具可识别来自 Spotify、Apple Music 等平台的 AI 音乐</title>
+<link>https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132190</guid>
+<pubDate>Thu, 11 Jun 2026 16:36:20 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Deezer 推出了一款工具，可扫描来自 Spotify、Apple Music 及其他平台的播放列表，以识别 AI 音乐。<br/><br/><a href="https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>让秘密扫描更值得信赖：大规模减少误报</title>
+<link>https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/</link>
+<guid isPermaLink="false">https://github.blog/?p=96621</guid>
+<pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】当噪音减少时，警报更值得信赖且可操作。了解我们如何通过上下文感知的LLM推理改进验证步骤。本文《让秘密扫描更值得信赖：大规模减少误报》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/">阅读原文</a>]]></description>
+</item>
+</channel>
+</rss>

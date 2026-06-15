@@ -1,0 +1,40 @@
+name: AI RSS 翻译聚合
+
+on:
+  schedule:
+    # 每 4 小时刷新一次(UTC);改频率只改这里。
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+# 需要写权限,把生成的 feed.xml / cache.json 提交回仓库供 GitHub Pages 发布。
+permissions:
+  contents: write
+
+concurrency:
+  group: rss-translate
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: 生成中文 feed
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python rss_translate.py
+      - name: 提交并发布 feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml cache.json
+          if git diff --quiet --staged; then
+            echo "无变化,跳过提交。"
+          else
+            git commit -m "chore: refresh feed"
+            git push
+          fi

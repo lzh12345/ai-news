@@ -1,0 +1,27 @@
+# 翻译型中文 AI RSS —— 源清单(一行一个 RSS/Atom 链接,# 开头为注释)
+# 抓取在 GitHub Actions(墙外)完成,不用架梯子;非中文条目会被 DeepSeek 译成中文。
+# 想加/删源,直接改这个文件即可。
+
+# —— 厂商 / 实验室官方 ——
+https://huggingface.co/blog/feed.xml
+https://machinelearning.apple.com/rss.xml
+https://bair.berkeley.edu/blog/feed.xml
+https://openai.com/news/rss.xml
+https://deepmind.google/blog/rss.xml
+
+# —— 科技媒体(AI 板块)——
+https://techcrunch.com/category/artificial-intelligence/feed/
+https://the-decoder.com/feed/
+https://venturebeat.com/category/ai/feed/
+https://www.marktechpost.com/feed/
+https://arstechnica.com/ai/feed/
+
+# —— 观点 / 社区 ——
+https://garymarcus.substack.com/feed
+# Hacker News 默认首页是泛科技(会混入非 AI 内容),已不收;
+# 想要的话可换成 AI 关键词搜索源,例如:
+# https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI&count=30
+
+# —— 平台 / 工程 ——
+https://blog.cloudflare.com/rss/
+https://github.blog/feed/

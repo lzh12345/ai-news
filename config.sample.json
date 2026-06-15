@@ -1,0 +1,9 @@
+{
+  "DEEPSEEK_API_KEY": "sk-在这里填你的DeepSeekKey",
+  "DEEPSEEK_MODEL": "deepseek-chat",
+  "FEED_URL": "",
+  "_说明_FEED_URL": "本地预览时 feed 的自链接;留空即可。GitHub Actions 上会自动按仓库推导,无需填。",
+  "_说明_微信推送": "下面两个仅可选的 ai_news_push.py(微信推送版)用到;RSS 方案用不到,可删。",
+  "SERVERCHAN_SENDKEY": "",
+  "PUSHPLUS_TOKEN": ""
+}
