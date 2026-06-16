@@ -366,5 +366,17 @@
 "https://www.marktechpost.com/?p=80518": {
 "t": "Z.ai发布GLM-5.2：支持可用百万Token上下文、两种思考努力级别，发布时未附带基准测试",
 "s": "Z.ai于2026年6月13日在其所有GLM编程计划层级中推出了GLM-5.2。其亮点在于支持可用的百万Token上下文窗口，以及高和最大两种努力级别。该模型通过兼容Anthropic的端点集成到Claude Code、Cline和OpenClaw中。发布时未附带任何基准测试结果，并承诺下周开放MIT权重。文章《Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch》首发于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3133119": {
+"t": "桑达尔·皮查伊在斯坦福毕业典礼上因谷歌与以色列及ICE的合作关系遭遇嘘声和退场",
+"s": "人工智能再次成为大学毕业典礼抗议的核心——这次是因为该技术在谷歌国防合同中的应用。"
+},
+"https://www.marktechpost.com/?p=80529": {
+"t": "Sakana AI 将 AB-MCTS 商业化于 Sakana Marlin，该企业智能体可生成多达100页的研究报告及幻灯片",
+"s": "Sakana AI 的首款商业产品可自主运行，每项任务最长耗时八小时。它基于 AB-MCTS 和 AI Scientist 工作流，返回多页报告和幻灯片。本文《Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides》最初发表于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3133070": {
+"t": "美国政府禁止Anthropic模型并非针对AI越狱行为",
+"s": "特朗普政府迫使Anthropic撤回其最新网络安全模型的决定，可能是出于反应过度、报复性，或两者兼有，但传递的信息很明确：AI行业无法免受美国政府干预。"
 }
 }

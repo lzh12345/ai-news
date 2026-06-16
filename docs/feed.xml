@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 15 Jun 2026 22:11:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 02:56:07 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>桑达尔·皮查伊在斯坦福毕业典礼上因谷歌与以色列及ICE的合作关系遭遇嘘声和退场</title>
+<link>https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3133119</guid>
+<pubDate>Mon, 15 Jun 2026 23:51:44 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】人工智能再次成为大学毕业典礼抗议的核心——这次是因为该技术在谷歌国防合同中的应用。<br/><br/><a href="https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sakana AI 将 AB-MCTS 商业化于 Sakana Marlin，该企业智能体可生成多达100页的研究报告及幻灯片</title>
+<link>https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80529</guid>
+<pubDate>Mon, 15 Jun 2026 22:32:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Sakana AI 的首款商业产品可自主运行，每项任务最长耗时八小时。它基于 AB-MCTS 和 AI Scientist 工作流，返回多页报告和幻灯片。本文《Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国政府禁止Anthropic模型并非针对AI越狱行为</title>
+<link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3133070</guid>
+<pubDate>Mon, 15 Jun 2026 21:50:21 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】特朗普政府迫使Anthropic撤回其最新网络安全模型的决定，可能是出于反应过度、报复性，或两者兼有，但传递的信息很明确：AI行业无法免受美国政府干预。<br/><br/><a href="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>GitHub Copilot CLI 初学者指南：常用斜杠命令概览</title>
 <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/</link>
@@ -360,14 +384,6 @@
 <description><![CDATA[【arstechnica.com】从今天起，SpaceX 由投资者持有，他们将期望看到公司盈利。<br/><br/><a href="https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google 发布 Gemini-SQL2：Gemini 3.1 Pro 文本转 SQL 在 BIRD 单模型排行榜上取得 80.04% 成绩</title>
-<link>https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80475</guid>
-<pubDate>Fri, 12 Jun 2026 21:04:11 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】我们关注 Gemini-SQL2，这是 Google Research 于 2026 年 6 月 12 日宣布的文本转 SQL 能力。基于 Gemini 3.1 Pro，它在 BIRD 单模型排行榜上实现了 80.04% 的执行准确率。我们解释了该分数的衡量标准、排行榜的对比情况，以及 Google 尚未披露的内容。我们还涵盖了使用案例和基于模式的实现模式。本文《Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>谷歌起诉利用AI诈骗“数十万受害者”的中国网络犯罪团伙</title>
 <link>https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3132480</guid>
@@ -392,14 +408,6 @@
 <description><![CDATA[【arstechnica.com】全自主作战极为罕见，但乌克兰正在无人机和机器人上安装人工智能模块。<br/><br/><a href="https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Mistral 据传以200亿欧元估值融资30亿欧元</title>
-<link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3132412</guid>
-<pubDate>Fri, 12 Jun 2026 17:38:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】本轮融资将使该公司估值达到约200亿欧元（约合231.5亿美元），几乎是其C轮融资时117亿欧元估值的两倍。<br/><br/><a href="https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>今年迄今已有1300亿美元的数据中心项目因抗议受阻</title>
 <link>https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/</guid>
@@ -422,14 +430,6 @@
 <pubDate>Fri, 12 Jun 2026 16:34:36 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】据称，该诈骗团伙通过Gemini编码的诈骗网站，针对数十万人实施欺诈活动。<br/><br/><a href="https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>SpaceX、Anthropic 与 OpenAI 的炙热 IPO 之夏</title>
-<link>https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3132423</guid>
-<pubDate>Fri, 12 Jun 2026 16:23:25 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】IPO 市场再度活跃，但引领潮流的已不再是那些熟悉的面孔。FAANG 曾风光一时，如今新的缩写词 MANGOS 正取而代之——即 Meta（或微软，视具体说法而定）、Anthropic、英伟达、谷歌、OpenAI 和 SpaceX。其中半数公司将在同一时间段内登陆公开市场，这对投资者、估值体系乃至整个市场而言，都是一场压力测试。<br/><br/><a href="https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>olmo-eval：面向模型开发循环的评估工作台</title>
