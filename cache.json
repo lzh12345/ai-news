@@ -394,5 +394,89 @@
 "https://techcrunch.com/?p=3133092": {
 "t": "马来西亚AI智能体驱动的消息应用Respond.io融资6250万美元，计划进行收购",
 "s": "Respond.io是马来西亚值得关注的初创企业之一，它利用AI智能体处理大量客户咨询，并按对话次数收费，而非按席位收费。"
+},
+"https://the-decoder.com/?p=36684": {
+"t": "SpaceX押注600亿美元收购Cursor，以追赶OpenAI和Anthropic",
+"s": "在IPO仅两个交易日后，埃隆·马斯克的SpaceX收购了AI编程初创公司Anysphere。这笔交易旨在帮助陷入困境的xAI部门追赶Anthropic和OpenAI。文章《SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3133261": {
+"t": "美国司法部称xAI未经许可的燃气轮机事关“国家、经济和能源安全”",
+"s": "美国司法部表示，五角大楼需要xAI继续使用其未经许可的燃气轮机。"
+},
+"https://techcrunch.com/?p=3133218": {
+"t": "Plaud 称其软件业务年经常性收入突破1亿美元，AI 录音笔出货量超200万台",
+"s": "Plaud 正试图在竞争激烈的 AI 会议记录市场中脱颖而出。"
+},
+"https://techcrunch.com/?p=3133252": {
+"t": "Robinhood裁员10%的声明显示，将责任推给AI并不奏效",
+"s": "与许多科技行业同行因声称需要重组以充分利用AI而裁员数千人不同，Robinhood首席执行官Vlad Tenev在关于裁员的声明中明显未提及AI。"
+},
+"https://techcrunch.com/?p=3133253": {
+"t": "SpaceX估值飙升至2.7万亿美元，超越亚马逊",
+"s": "自上周五股票开始交易以来，SpaceX的估值已增加1万亿美元。"
+},
+"https://the-decoder.com/?p=36681": {
+"t": "美国司法部援引国家安全为由，在NAACP诉讼中为xAI未经许可的燃气轮机辩护",
+"s": "美国司法部称xAI的聊天机器人Grok对军事行动至关重要，为其争议性的燃气轮机进行辩护。本文《美国司法部援引国家安全为由，在NAACP诉讼中为xAI未经许可的燃气轮机辩护》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3133240": {
+"t": "Probably 融资 900 万美元，打造更可靠的 AI",
+"s": "Probably 旨在防止幻觉和事实错误传递给用户，并实现与确定性系统相当的准确性。"
+},
+"1Ng3fFBbnnbu6qxP1HMqpB": {
+"t": "Cloudflare DMARC 管理现已全面可用",
+"s": "通过更深入的报告、记录分析和 SPF 审计，为每位 Cloudflare 客户免费提供统一的电子邮件认证状态可见性，并实现全面的 DMARC 强制执行。"
+},
+"https://the-decoder.com/?p=36676": {
+"t": "俄罗斯宣传能多容易地欺骗AI模型？新基准测试揭示真相",
+"s": "爱沙尼亚语言研究所发布了一项基准测试，用于衡量AI语言模型对俄罗斯宣传的敏感程度。本文《俄罗斯宣传能多容易地欺骗AI模型？新基准测试揭示真相》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3133217": {
+"t": "SpaceX将以600亿美元股票收购Cursor，距其轰动性IPO仅数日",
+"s": "这笔交易旨在帮助SpaceX陷入困境的人工智能部门。该公司向IPO投资者表示，其在人工智能领域可触及的市场规模高达26万亿美元。"
+},
+"https://the-decoder.com/?p=36668": {
+"t": "Anthropic 在即将与 OpenAI 展开价格战之际，放弃不受欢迎的计费改革",
+"s": "Anthropic 在即将推出 Claude Agent SDK 之前，撤回了原计划的计费变更。该 SDK 和第三方应用将不再使用单独的积分，而是继续从常规订阅额度中扣除。本文《Anthropic backs off unpopular billing overhaul as price war with OpenAI looms》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=36672": {
+"t": "DeepSeek首次接受外部融资，估值达500亿美元",
+"s": "中国AI初创公司DeepSeek在首轮外部融资中筹集了超过500亿元人民币（约合74亿美元）。本文《DeepSeek首次接受外部融资，估值达500亿美元》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36667": {
+"t": "OpenAI 去年烧掉340亿美元",
+"s": "OpenAI 在过去一年中花费了340亿美元，远超前一年。文章《OpenAI 去年烧掉340亿美元》最初发表于 The Decoder。"
+},
+"https://github.blog/?p=96276": {
+"t": "从一次性提示到工作流：如何在GitHub Copilot CLI中使用自定义代理",
+"s": "自定义代理让GitHub Copilot CLI理解你的技术栈和团队工作流，将一次性的终端提示转化为可重复、可审查的流程。本文《从一次性提示到工作流：如何在GitHub Copilot CLI中使用自定义代理》最初发布于GitHub博客。"
+},
+"https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
+"t": "使用 Gemini 3.5 Live Translate 实现流畅自然的语音翻译",
+"s": "Gemini 3.5 Live Translate 为 Google AI Studio、Google Translate 和 Google Meet 带来了近乎实时的自然语音翻译功能。"
+},
+"https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
+"t": "推出 Gemma 4 12B：一款统一的、无编码器的多模态模型",
+"s": ""
+},
+"https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/": {
+"t": "赋能欧洲机器人技术的未来",
+"s": ""
+},
+"https://openai.com/index/nextdoor": {
+"t": "Nextdoor工程师如何利用Codex突破限制进行开发",
+"s": "Nextdoor工程师如何借助Codex与GPT-5.5来调查难以复现的问题、跨平台构建，并专注于产品成果。"
+},
+"https://openai.com/index/notion": {
+"t": "Codex 为 Notion 解锁了什么",
+"s": "Notion 如何利用 Codex 一次性生成规格说明、为网页构建 AI 语音输入功能，并在小团队中倍增工程能力。"
+},
+"5Jw5AkmauDqCVgDeCs0mBa": {
+"t": "防御前沿网络模型：Cloudflare 作为零号客户的架构实践",
+"s": "在我们关于 Project Glasswing 的文章中，我们提出漏洞周围的架构比补丁速度更重要。本文详细阐述了该架构的具体形态、它所防御的威胁，以及我们作为 Cloudflare 的零号客户如何自行运行这一架构。"
+},
+"https://openai.com/index/industrial-policy-for-the-intelligence-age": {
+"t": "智能时代的产业政策",
+"s": "探索我们为人工智能时代制定的雄心勃勃、以人为本的产业政策理念——聚焦于在先进智能演进过程中扩大机遇、共享繁荣并构建韧性制度。"
 }
 }
