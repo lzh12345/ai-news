@@ -378,5 +378,21 @@
 "https://techcrunch.com/?p=3133070": {
 "t": "美国政府禁止Anthropic模型并非针对AI越狱行为",
 "s": "特朗普政府迫使Anthropic撤回其最新网络安全模型的决定，可能是出于反应过度、报复性，或两者兼有，但传递的信息很明确：AI行业无法免受美国政府干预。"
+},
+"https://www.marktechpost.com/?p=80549": {
+"t": "认识 Atoms：一款利用 AI 代理构建、部署和营销应用的“氛围编程”工具（无需编码）",
+"s": "“氛围编程”的概念很有趣；你无需成为开发者或软件工程师就能构建自己的应用。你可以用日常语言向 AI 描述你的想法，它会构建、编辑并优化你的应用，让你无需逐行编写代码。听起来很简单……这篇文章《认识 Atoms：一款利用 AI 代理构建、部署和营销应用的“氛围编程”工具（无需编码）》最初出现在 MarkTechPost 上。"
+},
+"https://www.marktechpost.com/?p=80542": {
+"t": "Google Cloud 推出开放知识格式（OKF）：一种供应商中立的 Markdown 规范，用于为 AI 代理提供精选上下文",
+"s": "我们解析了 Google Cloud 的新开放知识格式（OKF），这是一种将 LLM-wiki 模式形式化的开放规范。我们解释了 bundle 的工作原理：一个包含 YAML 前置元数据的 Markdown 文件目录，其中每个概念只需一个类型字段。我们涵盖了三个设计原则、Google 发布的参考工具，以及 OKF 与 RAG 的区别。我们还提供了一个可运行的 Python 消费者和一个可嵌入的交互式 bundle 浏览器。本文《Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80539": {
+"t": "如何使用Docling Parse构建布局感知文档智能的解析管道",
+"s": "在本教程中，我们构建了一个工作流程，利用Docling Parse对PDF文档进行详细的层级结构分析。我们准备了稳定的Python环境，处理了常见的Colab依赖问题，并生成了一个包含文本、列、表格类内容、矢量形状和嵌入图像的自定义多页PDF。随后，我们提取了带有页面级坐标的单词、字符和行，渲染了视觉叠加层，并将结果保存为结构化的JSON和CSV格式。我们展示了底层解析如何支持布局分析、阅读顺序重建以及面向检索的文档准备。"
+},
+"https://techcrunch.com/?p=3133092": {
+"t": "马来西亚AI智能体驱动的消息应用Respond.io融资6250万美元，计划进行收购",
+"s": "Respond.io是马来西亚值得关注的初创企业之一，它利用AI智能体处理大量客户咨询，并按对话次数收费，而非按席位收费。"
 }
 }

@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 16 Jun 2026 02:56:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 09:19:56 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>认识 Atoms：一款利用 AI 代理构建、部署和营销应用的“氛围编程”工具（无需编码）</title>
+<link>https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80549</guid>
+<pubDate>Tue, 16 Jun 2026 08:50:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】“氛围编程”的概念很有趣；你无需成为开发者或软件工程师就能构建自己的应用。你可以用日常语言向 AI 描述你的想法，它会构建、编辑并优化你的应用，让你无需逐行编写代码。听起来很简单……这篇文章《认识 Atoms：一款利用 AI 代理构建、部署和营销应用的“氛围编程”工具（无需编码）》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Cloud 推出开放知识格式（OKF）：一种供应商中立的 Markdown 规范，用于为 AI 代理提供精选上下文</title>
+<link>https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80542</guid>
+<pubDate>Tue, 16 Jun 2026 08:18:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们解析了 Google Cloud 的新开放知识格式（OKF），这是一种将 LLM-wiki 模式形式化的开放规范。我们解释了 bundle 的工作原理：一个包含 YAML 前置元数据的 Markdown 文件目录，其中每个概念只需一个类型字段。我们涵盖了三个设计原则、Google 发布的参考工具，以及 OKF 与 RAG 的区别。我们还提供了一个可运行的 Python 消费者和一个可嵌入的交互式 bundle 浏览器。本文《Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如何使用Docling Parse构建布局感知文档智能的解析管道</title>
+<link>https://www.marktechpost.com/2026/06/16/how-to-build-a-parsing-pipeline-with-docling-parse-for-layout-aware-document-intelligence/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80539</guid>
+<pubDate>Tue, 16 Jun 2026 07:20:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们构建了一个工作流程，利用Docling Parse对PDF文档进行详细的层级结构分析。我们准备了稳定的Python环境，处理了常见的Colab依赖问题，并生成了一个包含文本、列、表格类内容、矢量形状和嵌入图像的自定义多页PDF。随后，我们提取了带有页面级坐标的单词、字符和行，渲染了视觉叠加层，并将结果保存为结构化的JSON和CSV格式。我们展示了底层解析如何支持布局分析、阅读顺序重建以及面向检索的文档准备。<br/><br/><a href="https://www.marktechpost.com/2026/06/16/how-to-build-a-parsing-pipeline-with-docling-parse-for-layout-aware-document-intelligence/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>马来西亚AI智能体驱动的消息应用Respond.io融资6250万美元，计划进行收购</title>
+<link>https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3133092</guid>
+<pubDate>Tue, 16 Jun 2026 06:59:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Respond.io是马来西亚值得关注的初创企业之一，它利用AI智能体处理大量客户咨询，并按对话次数收费，而非按席位收费。<br/><br/><a href="https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>桑达尔·皮查伊在斯坦福毕业典礼上因谷歌与以色列及ICE的合作关系遭遇嘘声和退场</title>
 <link>https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/</link>
@@ -312,22 +344,6 @@
 <description><![CDATA[【techcrunch.com】目前尚不清楚涉及哪些州，但调查内容涵盖从OpenAI的广告政策到其处理健康数据的各个方面。<br/><br/><a href="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic 应美国政府命令禁用 Claude Fable 5 和 Mythos 5</title>
-<link>https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80488</guid>
-<pubDate>Sat, 13 Jun 2026 08:15:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】此次关闭源于美国政府依据国家安全权力发布的出口管制指令。Anthropic 所有其他模型，包括 Opus 4.8，仍可正常使用。本文《Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Moonshot AI 发布 Kimi K2.7-Code：编码模型在 Kimi Code Bench v2 上较 K2.6 提升 21.8%</title>
-<link>https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80483</guid>
-<pubDate>Sat, 13 Jun 2026 04:57:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Moonshot AI 已根据修改版 MIT 许可证开源了 Kimi K2.7-Code。这是一款以编码为核心的智能体模型，基于 Kimi K2.6 构建，拥有 256K 上下文窗口，推理 token 使用量降低约 30%。Moonshot 报告称，该模型在六项基准测试中均优于 K2.6，其中在 Kimi Code Bench v2 上提升 21.8%。该模型可通过 Kimi API 和 Kimi Code 获取。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>安德鲁·杨认为下一个重大创业机会是降低生活成本</title>
 <link>https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3132491</guid>
@@ -342,14 +358,6 @@
 <pubDate>Sat, 13 Jun 2026 03:00:34 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】商务部担心 Fable 5 的“越狱”可能构成国家安全威胁。<br/><br/><a href="https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>基于city2graph、OSMnx和PyTorch Geometric的空间图神经网络城市功能推断编码实现</title>
-<link>https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80479</guid>
-<pubDate>Sat, 13 Jun 2026 02:47:16 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】我们利用city2graph构建了一个端到端的空间图学习流程。从OpenStreetMap收集城市POI和街道网络数据，并采用合成回退机制确保可靠性。我们设计了空间特征，构建了多种邻近图族，并比较了每种图族对同一城市环境的表征方式。随后构建异质图和同质图，将其转换为PyTorch Geometric格式，并训练GraphSAGE模型从空间结构预测POI类别。<br/><br/><a href="https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic的安全警告可能适得其反——政府已叫停其最强AI模型</title>
@@ -382,14 +390,6 @@
 <pubDate>Fri, 12 Jun 2026 22:20:06 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】从今天起，SpaceX 由投资者持有，他们将期望看到公司盈利。<br/><br/><a href="https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌起诉利用AI诈骗“数十万受害者”的中国网络犯罪团伙</title>
-<link>https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3132480</guid>
-<pubDate>Fri, 12 Jun 2026 20:38:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这家科技巨头称，一个名为“Outsider Enterprise”的团伙利用人工智能诈骗了数十万受害者，在两周内发送了250万条短信。<br/><br/><a href="https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>杰夫·贝佐斯新创企Prometheus将做什么</title>
