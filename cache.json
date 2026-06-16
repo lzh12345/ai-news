@@ -478,5 +478,57 @@
 "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
 "t": "智能时代的产业政策",
 "s": "探索我们为人工智能时代制定的雄心勃勃、以人为本的产业政策理念——聚焦于在先进智能演进过程中扩大机遇、共享繁荣并构建韧性制度。"
+},
+"https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/": {
+"t": "利用AI加速规划，解锁英国房屋建设",
+"s": "英国政府与谷歌DeepMind合作，构建一个基于AI的新原型系统，旨在加快住房决策速度。"
+},
+"https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/": {
+"t": "Anthropic \"暂停\"其Claude Agent SDK基于代币的计费方式",
+"s": "原定于周一实施的变动本将大幅增加重度用户的成本。"
+},
+"https://github.blog/?p=96793": {
+"t": "什么是 Git Worktrees，为什么应该使用它们？",
+"s": "Git Worktrees 自2015年就已存在，但直到最近才变得流行。了解它们是什么、如何使用以及为什么你可能需要它们。这篇文章《What are git worktrees, and why should I use them?》最初出现在 GitHub 博客上。"
+},
+"https://the-decoder.com/?p=36690": {
+"t": "微软Copilot Cowork转向按用量计费，或接入DeepSeek",
+"s": "微软正考虑采用经过微调的DeepSeek V4版本，作为Copilot Cowork更经济的模型选项。同时，该公司将转向按用量计费，因为Copilot负责人Charles Lamanna表示固定费率定价模式不可持续。此举符合行业整体趋势。本文《Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=36687": {
+"t": "柏林法院裁定谷歌AI概览仅为新搜索格式，非原创内容",
+"s": "柏林一家法院裁定，谷歌的AI生成摘要仅属于“新的搜索结果格式”，且谷歌对其内容没有“决定性影响”。一家香水公司因AI搜索将其品牌名与廉价仿冒品并列展示并链接至后者网站而提起诉讼。该裁决部分与慕尼黑近期的一项判决相悖——后者认定谷歌需对AI虚假回复直接负责，不过两起案件情况差异显著。本文《柏林法院裁定谷歌AI概览仅为新搜索格式，非原创内容》首发于The Decoder。"
+},
+"https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/": {
+"t": "五角大楼宣称使用AI撰写国会要求的报告",
+"s": "五角大楼还声称有150万人员正在使用生成式AI工具。"
+},
+"https://techcrunch.com/?p=3133365": {
+"t": "Android 17 发布，新增多任务工具，谷歌扩展 Gemini 功能",
+"s": "谷歌已发布 Android 17 和 Wear OS 7，引入了新的多任务功能、家长控制、安全工具以及智能手表升级。此次发布还伴随着 Pixel Drop 更新，将谷歌最新的 AI 模型引入其设备。"
+},
+"https://techcrunch.com/?p=3133302": {
+"t": "调查发现，六成美国消费者认为品牌信息中出现“AI”会让人反感",
+"s": "WordPress VIP的最新调查显示，尽管企业越来越将AI搜索视为重要的推荐渠道，但消费者对AI生成的答案仍持谨慎态度。"
+},
+"https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/": {
+"t": "SpaceX 将以600亿美元收购AI编程平台Cursor",
+"s": "各自为战时，两者均无法竞争。如今他们希望联手能够做到。"
+},
+"https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/": {
+"t": "泄露的财务文件显示OpenAI每年亏损数十亿美元",
+"s": "经审计的会计数据显示，不断增长的收入被研发及其他支出所掩盖。"
+},
+"https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/": {
+"t": "关键Copilot漏洞允许黑客窃取用户双重验证码",
+"s": "SearchLeak漏洞揭示了行业在大型语言模型安全防护方面屡屡失败的原因。"
+},
+"https://techcrunch.com/?p=3132789": {
+"t": "ChatGPT市场份额首次跌破50%",
+"s": "该聊天机器人仍以超过11亿月活用户位居全球最受欢迎AI助手，紧随其后的是Gemini（6.62亿用户）和Claude（2.45亿用户）。"
+},
+"https://openai.com/index/deployment-simulation": {
+"t": "通过模拟部署在发布前预测模型行为",
+"s": "OpenAI 推出部署模拟方法，利用真实对话数据在部署前预测AI模型行为，以提升安全性与评估准确性。"
 }
 }
