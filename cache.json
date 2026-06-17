@@ -558,5 +558,41 @@
 "https://www.marktechpost.com/?p=80570": {
 "t": "OpenAI 部署模拟通过模拟工具调用将预部署风险评估扩展至智能编码",
 "s": "OpenAI 于2026年6月16日推出部署模拟。该方法在发布前通过新候选模型重放过往对话，随后对完成结果进行评分，以估算部署时不良行为的发生率。我们解析了该流程的工作原理、报告的中位数1.5倍乘性误差及其局限性。本文《OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls》首发于MarkTechPost。"
+},
+"https://the-decoder.com/?p=36706": {
+"t": "OpenAI 研究人员希望在发布前预测AI模型失败频率",
+"s": "OpenAI研究人员提出一种方法，用于预测新AI模型发布后犯错的频率。该方法可填补标准安全测试留下的空白。本文《OpenAI研究人员希望在发布前预测AI模型失败频率》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3133745": {
+"t": "Pramaana Labs 获 Khosla Ventures 2700万美元种子轮融资，将形式化验证引入AI领域",
+"s": "Pramaana 将专注于法律、药物研发和税务申报等高敏感垂直领域——这些领域错误代价高昂，且对可靠性要求极高。"
+},
+"1LDBKUul6cfW72f1DQaLyE": {
+"t": "Cloudflare One 技术栈发布：基于智能体的部署方案",
+"s": "Cloudflare One 技术栈是一个智能体技能库，可为任何AI智能体提供规划、部署和管理零信任环境所需的知识，无需迁移呼叫。"
+},
+"https://techcrunch.com/?p=3133722": {
+"t": "加拿大养老巨头加入竞相投资印度AI驱动数据中心热潮的行列",
+"s": "这家加拿大养老巨头将收购CtrlS公司8.2%的股份，后者是一家在印度运营超过15个数据中心的科技巨头。"
+},
+"https://techcrunch.com/?p=3133711": {
+"t": "DeepL 收购 Mixhalo，进军现场活动音频流与翻译领域",
+"s": "通过此次收购，DeepL 在旧金山设立办事处，以拓展其美国业务。"
+},
+"https://techcrunch.com/?p=3133612": {
+"t": "Pinterest 推出名为“Ask Pinterest”的实验性AI购物应用",
+"s": "Pinterest 推出了“Ask Pinterest”，这是一款实验性的AI驱动购物应用，用户可以通过对话界面获取推荐和灵感。"
+},
+"https://the-decoder.com/?p=36693": {
+"t": "超大规模企业可能很快无法仅靠现金流支撑AI建设",
+"s": "根据Epoch AI的分析，微软、亚马逊、Alphabet、Meta和甲骨文每年在AI基础设施上的支出增长约70%，而运营现金流仅增长23%。如果这一趋势持续，支出最早可能在2026年第三季度超过现金流。其中几家公司已经在寻求外部融资。本文《超大规模企业可能很快无法仅靠现金流支撑AI建设》最初发表于The Decoder。"
+},
+"https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware": {
+"t": "从Hugging Face Hub到机器人硬件：借助Strands Agents和LeRobot实现",
+"s": ""
+},
+"https://huggingface.co/blog/zai-org/glm-52-blog": {
+"t": "GLM-5.2：专为长周期任务打造",
+"s": ""
 }
 }
