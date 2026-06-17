@@ -594,5 +594,57 @@
 "https://huggingface.co/blog/zai-org/glm-52-blog": {
 "t": "GLM-5.2：专为长周期任务打造",
 "s": ""
+},
+"https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/": {
+"t": "“危险”的AI模型无论如何都会到来",
+"s": "具备高级黑客能力的AI模型很快将成为常态。"
+},
+"https://techcrunch.com/?p=3133823": {
+"t": "世界模型制造商Odyssey获亚马逊等巨头支持，估值达14.5亿美元",
+"s": "世界模型是继大语言模型之后AI领域的下一个重大方向，而通过本轮融资，Odyssey已巩固其作为值得关注的初创公司之一的地位。"
+},
+"https://the-decoder.com/?p=36698": {
+"t": "智谱AI的GLM-5.2在编程马拉松中逼近闭源领导者",
+"s": "中国AI实验室智谱AI发布了GLM-5.2，在MIT许可下支持稳定的100万token上下文。在针对数小时长编码任务的基准测试FrontierSWE上，这款开源模型仅落后Anthropic的Claude Opus 4.8一个百分点。在推理能力方面，它仍远落后于闭源竞争对手。文章《智谱AI的GLM-5.2在编程马拉松中逼近闭源领导者》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80581": {
+"t": "Vercel 发布 Eve：一个开源 AI 智能体框架，每个智能体对应一个映射到能力的文件目录",
+"s": "Vercel 已开源 Eve，这是一个 Apache-2.0 许可的智能体框架，目前处于公开预览阶段。每个智能体对应一个文件目录，内置持久化执行、沙箱、审批、连接、频道和评估功能。可通过 npx eve@latest init 进行脚手架搭建，并通过 vercel deploy 直接部署而无需修改。本文《Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities》最初发表于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3133545": {
+"t": "新研究显示，仅16%的美国人认为AI将对社会产生积极影响",
+"s": "尽管华尔街对AI青睐有加，但皮尤研究中心的一份新报告显示，普通美国人对该行业的乐观程度显著降低。"
+},
+"https://techcrunch.com/?p=3133765": {
+"t": "谷歌押注Gemini重塑智能音箱",
+"s": "谷歌正押注生成式AI能为智能音箱注入新活力。其新款99.99美元的Google Home音箱用更具对话性的Gemini交互，取代了谷歌助手时代僵硬的指令模式。"
+},
+"https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/": {
+"t": "十个月后，售价100美元的谷歌Home音箱终于开放预购",
+"s": "谷歌新款智能音箱更侧重于Gemini功能，而非音质表现。"
+},
+"https://huggingface.co/blog/allenai/molmomotion": {
+"t": "MolmoMotion：语言引导的三维运动预测",
+"s": "（无）"
+},
+"https://techcrunch.com/?p=3133698": {
+"t": "慢科技革命来了，旨在终结手机成瘾，拯救你的注意力",
+"s": "“人们真的想要重新掌控自己的时间、生活和注意力……他们愿意接受任何能帮助他们实现这一目标的事物。”"
+},
+"https://techcrunch.com/?p=3132735": {
+"t": "收集机器人训练数据是又脏又累的苦差事。一些AI实验室已开始付费让XDOF来完成这项工作。",
+"s": "如果物理AI要像大语言模型那样取得成就，就需要解决一个数据问题。"
+},
+"https://the-decoder.com/?p=36707": {
+"t": "英伟达研究展示通过AI编码代理自我训练的机器人",
+"s": "来自英伟达、卡内基梅隆大学和加州大学伯克利分校的研究人员正在利用AI编码代理，在现实世界中教机器人进行灵巧抓取。由八台机器人组成的集群在复杂任务上的成功率高达99%。本文《英伟达研究展示通过AI编码代理自我训练的机器人》最初发表于The Decoder。"
+},
+"https://openai.com/index/ai-chemist-improves-reaction": {
+"t": "近乎自主的AI化学家改进了一项药物化学中的挑战性反应",
+"s": "OpenAI与Molecule.one展示了使用GPT-5.4的近乎自主AI化学家如何改进了一项关键的药物制造反应，推动了药物化学研究的发展。"
+},
+"https://huggingface.co/blog/agentic-resource-discovery-launch": {
+"t": "自主资源发现：让智能体自主搜索",
+"s": ""
 }
 }
