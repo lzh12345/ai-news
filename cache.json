@@ -550,5 +550,13 @@
 "https://www.marktechpost.com/?p=80556": {
 "t": "Hermes Agent新增异步子代理，委托任务不再阻塞父对话",
 "s": "我们探讨了Nous Research的Hermes Agent新增的异步子代理功能。委托工具现在可以生成后台代理，不再阻塞父对话。我们详细介绍了issue #5586中追踪的async_delegation工具集，涵盖如何生成、检查、引导和收集任务。我们还讨论了子代理隔离、同步与异步的权衡，以及何时应改用ACP。本文Hermes Agent Adds Asynchronous Subagents, So Delegated Work No Longer Blocks the Parent Chat最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80575": {
+"t": "MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制",
+"s": "MiniMax发布了MSA，这是一种基于分组查询注意力构建的稀疏注意力机制。轻量级索引分支为每个查询和GQA组选择Top-k键值块；主分支仅关注这些块。在下游基准测试中，MSA与GQA表现相当，同时在1M上下文下将每个token的注意力计算量减少了28.4倍。本文MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制最早出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=80570": {
+"t": "OpenAI 部署模拟通过模拟工具调用将预部署风险评估扩展至智能编码",
+"s": "OpenAI 于2026年6月16日推出部署模拟。该方法在发布前通过新候选模型重放过往对话，随后对完成结果进行评分，以估算部署时不良行为的发生率。我们解析了该流程的工作原理、报告的中位数1.5倍乘性误差及其局限性。本文《OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls》首发于MarkTechPost。"
 }
 }

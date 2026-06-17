@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 17 Jun 2026 02:53:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 08:54:51 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制</title>
+<link>https://www.marktechpost.com/2026/06/17/minimax-sparse-attention-msa-a-two-branch-block-sparse-attention-trained-on-a-109b-parameter-moe-with-a-3t-token-budget/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80575</guid>
+<pubDate>Wed, 17 Jun 2026 07:44:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】MiniMax发布了MSA，这是一种基于分组查询注意力构建的稀疏注意力机制。轻量级索引分支为每个查询和GQA组选择Top-k键值块；主分支仅关注这些块。在下游基准测试中，MSA与GQA表现相当，同时在1M上下文下将每个token的注意力计算量减少了28.4倍。本文MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/17/minimax-sparse-attention-msa-a-two-branch-block-sparse-attention-trained-on-a-109b-parameter-moe-with-a-3t-token-budget/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 部署模拟通过模拟工具调用将预部署风险评估扩展至智能编码</title>
+<link>https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80570</guid>
+<pubDate>Wed, 17 Jun 2026 05:49:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI 于2026年6月16日推出部署模拟。该方法在发布前通过新候选模型重放过往对话，随后对完成结果进行评分，以估算部署时不良行为的发生率。我们解析了该流程的工作原理、报告的中位数1.5倍乘性误差及其局限性。本文《OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>如何使用xFormers构建内存高效的Transformer：打包序列、GQA、ALiBi、SwiGLU和因果注意力</title>
 <link>https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/</link>
@@ -422,22 +438,6 @@
 <pubDate>Mon, 15 Jun 2026 09:16:09 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Flash-KMeans 是一种开源的、IO 感知的标准 Lloyd K-Means 实现，基于 Triton GPU 内核。它不改变数学原理或进行近似计算。FlashAssign 消除了距离矩阵的物化；Sort-Inverse Update 消除了原子竞争。在 NVIDIA H200 上，它报告端到端性能提升 17.9 倍，相比 cuML 提升 33 倍，相比 FAISS 提升超过 200 倍。本文《Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Z.ai发布GLM-5.2：支持可用百万Token上下文、两种思考努力级别，发布时未附带基准测试</title>
-<link>https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80518</guid>
-<pubDate>Mon, 15 Jun 2026 06:10:23 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Z.ai于2026年6月13日在其所有GLM编程计划层级中推出了GLM-5.2。其亮点在于支持可用的百万Token上下文窗口，以及高和最大两种努力级别。该模型通过兼容Anthropic的端点集成到Claude Code、Cline和OpenClaw中。发布时未附带任何基准测试结果，并承诺下周开放MIT权重。文章《Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Code 指南 2026：25 项功能详解及示例 + 演示</title>
-<link>https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80513</guid>
-<pubDate>Mon, 15 Jun 2026 01:04:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Claude Code 是一款分层式智能编码工具，而非单一聊天提示。本指南详细解析了 25 项功能，涵盖 CLAUDE.md、技能、子代理、钩子、MCP 及自动模式等。文中包含对比表格、可运行代码示例、实际应用案例，以及可供尝试的交互式演示。该文章《Claude Code Guide 2026: 25 Features with Examples + Demo》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI合作伙伴网络正式推出</title>
