@@ -646,5 +646,57 @@
 "https://huggingface.co/blog/agentic-resource-discovery-launch": {
 "t": "自主资源发现：让智能体自主搜索",
 "s": ""
+},
+"https://techcrunch.com/?p=3133982": {
+"t": "Roelof Botha 加入 SpaceX 董事会",
+"s": "这位红杉资本前领导人填补了 SpaceX 董事会的“现有空缺”，而就在几天前，该公司以史上最大规模 IPO 上市。"
+},
+"https://techcrunch.com/?p=3133859": {
+"t": "Snap发布天价AR眼镜后，股价应声下跌",
+"s": "Snap备受期待的智能眼镜亮相并未给公司股价带来奇迹般的提振。"
+},
+"https://techcrunch.com/?post_type=tc_video&p=3133988": {
+"t": "NEA的Tiffany Luck表示，企业仍在摸索AI的投资回报率",
+"s": "今年早些时候，Tokenmaxxing成为硅谷最热门的趋势，CEO们鼓励员工尽可能多地使用AI。然而，账单随之而来。据报道，Uber在几个月内就花光了年度AI预算，一些公司削减了部分部门的Claude许可证，Meta也取消了内部排行榜。这种矛盾仍在持续……"
+},
+"https://github.blog/?p=96832": {
+"t": "从每个Token中获取更多价值：Copilot如何优化上下文处理与模型路由",
+"s": "GitHub Copilot如何让每次会话更高效地用于有用工作，从而让您的积分发挥更大作用。本文《从每个Token中获取更多价值：Copilot如何优化上下文处理与模型路由》最初发布于GitHub博客。"
+},
+"48yPgdpb7RGTBdh4DPPCUF": {
+"t": "将更多智能体工具与框架引入Cloudflare，从Flue开始",
+"s": "智能体SDK现已成为任何智能体框架均可构建的运行时。今天，我们开放了智能体SDK的基础组件，以Flue作为首个面向智能体SDK的框架，并在控制面板中逐步推出智能体功能。"
+},
+"https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/": {
+"t": "AI编程代理教会机器人如何安装GPU和剪扎带",
+"s": "英伟达的机器人自我改进项目招募了多组AI编程代理。"
+},
+"https://techcrunch.com/?p=3133924": {
+"t": "全球领导人想要美国的人工智能，只是不希望美国能随时关掉它。",
+"s": "法国总统马克龙和印度总理莫迪在G7峰会上发出警告，称美国可能一夜之间切断对美国人工智能的访问——而Anthropic的断供事件刚刚让这种担忧成为现实。"
+},
+"https://the-decoder.com/?p=36729": {
+"t": "微软研究员在《帝国时代2》中用山羊搭建出可运行的神经网络，以此批判AI科学",
+"s": "一位微软研究员在《帝国时代2》地图编辑器中，用山羊、桥梁和冰坡构建了一个可运行的神经网络。这看似玩笑，实则是对AI研究方法的尖锐批判。他对315篇论文的分析发现，超过半数在实验开始前就已假定语言模型具备类人特征。将聊天界面换成游荡的山羊，数学原理不变，但与人对话的感觉却消失了。本文《微软研究员在《帝国时代2》中用山羊搭建出可运行的神经网络，以此批判AI科学》已刊发。"
+},
+"https://techcrunch.com/?p=3133904": {
+"t": "Anthropic 成为首家加入前沿碳去除联盟的AI初创公司",
+"s": "Anthropic 已加入 Frontier 联盟，该联盟又获得了9.15亿美元的承诺资金，用于资助碳去除项目。"
+},
+"https://the-decoder.com/?p=36726": {
+"t": "亚马逊、英伟达和AMD向构建3D世界模型的AI初创公司投资3.1亿美元",
+"s": "亚马逊、英伟达和AMD向世界模型初创公司Odyssey ML投资3.1亿美元，该公司目前估值达14.5亿美元。与中情局有关联的基金IQT以及谷歌首席科学家杰夫·迪恩也参与了本轮融资。在纯语言模型之后，世界模型正成为下一个重大AI投资方向。本文《亚马逊、英伟达和AMD向构建3D世界模型的AI初创公司投资3.1亿美元》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3133770": {
+"t": "社交媒体的下一轮进化：用户可控算法",
+"s": "随着Threads、Instagram和TikTok等平台推出让用户直接影响推荐算法的工具，社交媒体信息流正变得更加可定制化。"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3133981": {
+"t": "NEA的Tiffany Luck谈AI IPO、个人代理与投资回报率的清算时刻",
+"s": "今年早些时候，Token最大化成为硅谷最热门的趋势，CEO们鼓励员工尽可能推动AI的使用。然而，账单随后到期。据报道，Uber在几个月内就耗尽了年度AI预算，一些公司削减了部分部门的Claude许可证，Meta也取消了内部排行榜。这种紧张关系……"
+},
+"https://openai.com/index/introducing-life-sci-bench": {
+"t": "LifeSciBench 正式发布",
+"s": "LifeSciBench 是一个由专家编写并评审的基准测试，用于评估人工智能系统处理真实世界生命科学研究任务与决策的能力。"
 }
 }
