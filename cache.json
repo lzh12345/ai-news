@@ -530,5 +530,25 @@
 "https://openai.com/index/deployment-simulation": {
 "t": "通过模拟部署在发布前预测模型行为",
 "s": "OpenAI 推出部署模拟方法，利用真实对话数据在部署前预测AI模型行为，以提升安全性与评估准确性。"
+},
+"https://www.marktechpost.com/?p=80567": {
+"t": "如何使用xFormers构建内存高效的Transformer：打包序列、GQA、ALiBi、SwiGLU和因果注意力",
+"s": "我们实现了xFormers，这是一个用于在GPU上构建快速、内存高效的Transformer模型的实用工具包。我们验证了内存高效注意力机制与标准实现的对比，然后比较了不同序列长度下的速度和内存占用。我们逐步讲解了因果掩码、打包变长序列、分组查询注意力以及自定义ALiBi偏置。最后，我们将这些技术整合到一个可训练的GPT风格模型中，并加入了SwiGLU层和自动混合精度训练。本文《如何使用xFormers构建内存高效的Transformer：打包序列、GQA、ALiBi、SwiGLU和因果注意力》首次发布。"
+},
+"https://techcrunch.com/?p=3133474": {
+"t": "Anthropic与特朗普政府的最新争端或对其有利，销售数据表明",
+"s": "Ramp的数据显示，Anthropic在企业用户中的受欢迎程度正在快速增长，以至于与政府的最新冲突反而可能助其发展。"
+},
+"https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/": {
+"t": "特朗普政府试图阻止关于xAI燃气轮机的《清洁空气法》诉讼",
+"s": "NAACP诉讼称xAI在未获许可的情况下为Grok数据中心使用燃气轮机。"
+},
+"https://www.marktechpost.com/?p=80559": {
+"t": "认识Qwen-RobotSuite：三个用于VLA操控、视频世界建模和导航的具身AI模型",
+"s": "我们解析了Qwen团队推出的三个新具身AI模型——Qwen-RobotSuite。其中包括RobotManip，一个基于Qwen3.5-4B构建的视觉-语言-动作操控模型；RobotWorld，一个具有60层MMDiT的语言条件视频世界模型；以及RobotNav，一个基于Qwen3-VL、涵盖2B、4B和8B参数规模的导航模型。我们逐一介绍了它们的架构、数据管道和基准测试结果。本文《Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80556": {
+"t": "Hermes Agent新增异步子代理，委托任务不再阻塞父对话",
+"s": "我们探讨了Nous Research的Hermes Agent新增的异步子代理功能。委托工具现在可以生成后台代理，不再阻塞父对话。我们详细介绍了issue #5586中追踪的async_delegation工具集，涵盖如何生成、检查、引导和收集任务。我们还讨论了子代理隔离、同步与异步的权衡，以及何时应改用ACP。本文Hermes Agent Adds Asynchronous Subagents, So Delegated Work No Longer Blocks the Parent Chat最初发表于MarkTechPost。"
 }
 }
