@@ -702,5 +702,17 @@
 "https://techcrunch.com/?p=3134048": {
 "t": "如何在 Google Docs 中关闭 AI 功能",
 "s": "以下是你需要做的，以让那些烦人的“使用 Gemini 撰写”弹窗消失。"
+},
+"https://the-decoder.com/?p=36738": {
+"t": "谷歌Gemini联合负责人Noam Shazeer在回归两年后加入OpenAI",
+"s": "里程碑式论文《Attention Is All You Need》的合著者、前谷歌Gemini模型联合负责人Noam Shazeer将加入OpenAI。他于2024年才作为27亿美元交易的一部分，从Character.AI重返谷歌。继Karpathy转投Anthropic之后，这是今年第二次重大AI人才招聘变动。本文《谷歌Gemini联合负责人Noam Shazeer在回归两年后加入OpenAI》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80587": {
+"t": "OpenAI 发布 LifeSciBench：含750项任务的基准测试，用专家编写的评分标准评估AI模型在真实生命科学研究中的表现",
+"s": "OpenAI 的 LifeSciBench 评估前沿AI能否处理真实的生命科学研究，涵盖750项专家编写的任务、七个工作流程和七个生物学领域。该基准由173位博士科学家构建，包含19,020条评分标准，不仅考核记忆能力，更评估推理和决策能力。表现最佳的模型 GPT-Rosalind 通过率为36.1%，在人工制品、精确输出和操作决策方面仍有较大提升空间。本文 OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric 最早发布于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80584": {
+"t": "NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险",
+"s": "在本教程中，我们使用 NVIDIA SkillSpector 在部署前评估 AI 技能的安全风险。我们构建了一个包含良性及故意存在漏洞的技能语料库，然后通过 SkillSpector 的程序化 LangGraph 工作流对其进行扫描。我们利用 pandas 整理风险评分与发现结果，并可视化严重程度及类别分布。我们将结果导出为 SARIF 格式，注册自定义分析器，并可选地应用基于 LLM 的语义处理。本文《NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险》最初发表于 MarkTechPos。"
 }
 }
