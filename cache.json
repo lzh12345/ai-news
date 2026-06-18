@@ -798,5 +798,45 @@
 "https://huggingface.co/blog/peft-beyond-lora": {
 "t": "超越LoRA：你能击败最流行的微调技术吗？",
 "s": ""
+},
+"https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/": {
+"t": "面对中国崛起，台湾加大无人机生产以强化防务并供应美军",
+"s": "台湾的无人机防务支出计划也可能推动海外业务增长。"
+},
+"https://techcrunch.com/?p=3134299": {
+"t": "AI推理初创公司Baseten据报在上一轮巨额融资数月后再筹15亿美元",
+"s": "初创公司Baseten据报即将完成一轮15亿美元融资，估值达130亿美元，随着“推理淘金热”持续升温。"
+},
+"https://techcrunch.com/?p=3134342": {
+"t": "Snap因成本考量，将AI视频团队剥离为新公司Dotmo",
+"s": "Snapchat的母公司正在剥离又一个内部部门。Dotmo将由当前Snap的员工组成，这些员工将离开这家社交媒体公司，专注于AI视频开发。"
+},
+"https://techcrunch.com/?p=3134350": {
+"t": "OpenAI在IPO前夕引入多位重量级人物",
+"s": "OpenAI正在IPO前扩充实力，同一周内招揽了Transformer共同发明人Noam Shazeer（来自Google DeepMind）以及前特朗普政府AI政策官员Dean Ball。"
+},
+"https://the-decoder.com/?p=36775": {
+"t": "OpenAI称ChatGPT健康升级后回答优于医生撰写内容",
+"s": "OpenAI通过GPT-5.5 Instant提升了ChatGPT的医疗健康能力。在公司自身的对比测试中，该模型在准确性、清晰度和完整性上得分已超过医生撰写的回答。据OpenAI称，健康相关陈述的错误率下降了71%。本文《ChatGPT's new health upgrade beats doctor-written answers, OpenAI says》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36771": {
+"t": "Anthropic 将 Artifacts 引入 Claude Code，让团队共享编码会话中的实时页面",
+"s": "Claude Code 现在可以将工作成果转化为名为“artifacts”的交互式网页，并与团队成员共享。这些页面会提取完整的会话上下文，在内容发生变化时自动更新，并保留版本历史。本文《Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=36767": {
+"t": "SK Telecom被指与中国有关联，引发美国官员担忧并导致Anthropic危机",
+"s": "SK Telecom曾通过其合作伙伴项目Project Glasswing获取Anthropic的AI模型Claude Mythos，直到白宫介入。美国官员认为这家韩国企业集团与中国存在关联。文章《SK Telecom被指与中国有关联，引发美国官员担忧并导致Anthropic危机》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3134243": {
+"t": "Match称近半数美国单身人士对AI应用于约会持负面态度",
+"s": "约47%的单身人士对在约会中使用AI持负面看法——但许多约会应用用户愿意接受AI帮助优化个人资料和开启对话。"
+},
+"5Ad3Svz0xFxJQNx6eQZjJP": {
+"t": "构建你自己的漏洞利用框架",
+"s": "我们解析了多阶段漏洞发现框架及自动化分类循环背后的技术架构。了解我们如何管理状态控制、通过对抗性审查消除误报，以及如何规避大语言模型上下文限制。"
+},
+"https://openai.com/index/chatgpt-enterprise-spend-controls": {
+"t": "企业版新增使用分析与支出控制功能",
+"s": "OpenAI为ChatGPT企业版推出新的支出控制与使用分析功能，帮助组织管理成本并自信地扩展AI应用。"
 }
 }
