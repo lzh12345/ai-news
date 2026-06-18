@@ -750,5 +750,53 @@
 "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
 "t": "保障AI代理的未来安全",
 "s": "通过AI控制路线图保护内部系统，结合传统安全措施与实时监控。"
+},
+"https://techcrunch.com/?p=3134182": {
+"t": "亚马逊希望通过销售其AI芯片更直接地挑战英伟达",
+"s": "AWS正在洽谈将其芯片销售给其他数据中心。CEO安迪·贾西表示，这对公司而言代表着500亿美元的机会。"
+},
+"https://huggingface.co/blog/ServiceNow/mosaicleaks": {
+"t": "MosaicLeaks：你的研究代理能保守秘密吗？",
+"s": "（无）"
+},
+"https://the-decoder.com/?p=36758": {
+"t": "Google Deepmind 将自家AI代理视为持有办公室钥匙的恶意员工",
+"s": "Google Deepmind 将自家AI代理视为潜在内部威胁。该公司新发布的“AI控制路线图”将安全措施与可量化的AI能力挂钩，对100万项编码任务的分析显示，多数问题源于过度热心的代理而非恶意意图。Deepmind警告称，全球安全标准的窗口期正在迅速关闭。本文《Google Deepmind treats its own AI agents like rogue employees with office keys》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3134218": {
+"t": "AI数据中心获政府授权接入电网快车道",
+"s": "美国联邦能源监管委员会（FERC）要求电网运营商为数据中心提供互联互通的快速通道，但未能解决电力供应短缺问题。"
+},
+"https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/": {
+"t": "伯尼·桑德斯公布7万亿美元计划，让美国人掌控AI产业",
+"s": "大型AI公司很可能对伯尼·桑德斯的AI财富基金感到反感。"
+},
+"https://techcrunch.com/?p=3134184": {
+"t": "《粉雄救兵》生活教练卡拉莫·布朗推出健康应用Kē，内置其AI数字分身",
+"s": "因在Netflix《粉雄救兵》中鼓舞人心的谈话而闻名的卡拉莫·布朗，携其新应用Kē进军健康与AI领域。在花了一年半时间专注于自身成长之旅——涵盖健身、营养、冥想、戒酒、人际关系及个人发展后，布朗希望帮助他人实现同样的转变。Kē提供……"
+},
+"https://github.blog/?p=96841": {
+"t": "拉取请求限制如何减少干扰",
+"s": "了解拉取请求限制如何帮助管理仓库中的贡献量，并查看路线图上的下一步计划。本文最初发布于 GitHub 博客。"
+},
+"https://techcrunch.com/?p=3134001": {
+"t": "General Intuition 正洽谈以约20亿美元估值融资3亿美元",
+"s": "这家初创公司利用Medal每年从1000万月活用户收集的20亿条视频数据集，训练具身AI和世界模型。"
+},
+"https://techcrunch.com/?p=3134145": {
+"t": "科技工作者支持的PAC携500万美元，加入大型科技公司1亿美元的政治角力",
+"s": "Guardrails将自己定位为一场民粹主义政治运动，依靠人工智能热潮一线从业者的小额捐款运作。"
+},
+"https://openai.com/index/improving-health-intelligence-in-chatgpt": {
+"t": "提升ChatGPT的健康智能",
+"s": "了解GPT-5.5 Instant如何通过更强的推理能力、更优的上下文理解、更清晰的沟通以及基于医生评估的优化，改善ChatGPT在健康与保健方面的回答。"
+},
+"https://openai.com/index/diagnose-rare-childhood-diseases": {
+"t": "利用人工智能帮助医生诊断影响儿童的罕见遗传疾病",
+"s": "研究人员使用OpenAI推理模型协助诊断罕见疾病，在先前未解决的病例中识别出18种新诊断。"
+},
+"https://huggingface.co/blog/peft-beyond-lora": {
+"t": "超越LoRA：你能击败最流行的微调技术吗？",
+"s": ""
 }
 }
