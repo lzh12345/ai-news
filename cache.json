@@ -714,5 +714,41 @@
 "https://www.marktechpost.com/?p=80584": {
 "t": "NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险",
 "s": "在本教程中，我们使用 NVIDIA SkillSpector 在部署前评估 AI 技能的安全风险。我们构建了一个包含良性及故意存在漏洞的技能语料库，然后通过 SkillSpector 的程序化 LangGraph 工作流对其进行扫描。我们利用 pandas 整理风险评分与发现结果，并可视化严重程度及类别分布。我们将结果导出为 SARIF 格式，注册自定义分析器，并可选地应用基于 LLM 的语义处理。本文《NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险》最初发表于 MarkTechPos。"
+},
+"https://the-decoder.com/?p=36749": {
+"t": "《自然》新研究显示AI系统与医生水平相当，但一项结果表明该技术难以持久",
+"s": "《自然》杂志发表的两项新研究表明，在模拟患者病例中，专业AI系统在诊断疾病和制定治疗决策方面与医生表现相当，有时甚至更优。然而，这两个系统所基于的基础模型已经过时。本文《AI systems rival doctors in new Nature studies, but one result suggests the tech won't age well》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36753": {
+"t": "Yann LeCun警告OpenAI和Anthropic等AI实验室面临“大泡沫破裂”",
+"s": "据Yann LeCun称，OpenAI和Anthropic等AI实验室正走向“大泡沫破裂”：他表示，这些实验室的运营实际上由投资者补贴，而运营成本下降速度不够快。LeCun的批评并非完全无私：他自己的初创公司AMI Labs筹集了10亿美元，用于探索另一种AI方法。文章《Yann LeCun警告OpenAI和Anthropic等AI实验室面临“大泡沫破裂”》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36747": {
+"t": "以AI图像生成闻名的Midjourney，推出全身超声波扫描仪及自有水疗中心",
+"s": "关于Midjourney硬件的传闻已流传多年，但没人料到会是这样的发展。这家AI图像初创公司正在打造一款全身超声波扫描仪，并在旧金山开设自有水疗中心来安置它。本文《以AI图像生成闻名的Midjourney，推出全身超声波扫描仪及自有水疗中心》最初发表于The Decoder。"
+},
+"1kBoofDb8dfLiYnekjlUaX": {
+"t": "庆祝伽利略计划12周年",
+"s": "为纪念伽利略计划12周年，Cloudflare发布了首份全面报告，分析了针对公民社会的网络攻击。"
+},
+"https://the-decoder.com/?p=36743": {
+"t": "Adobe 为 Photoshop、Premiere 等更多 Creative Cloud 应用添加 AI 代理",
+"s": "Adobe 正在其主要的 Creative Cloud 应用以及 ChatGPT、Claude 等第三方 AI 平台上推出其“创意代理”。用户描述需求后，软件会处理多步骤工作。本文《Adobe 为 Photoshop、Premiere 等更多 Creative Cloud 应用添加 AI 代理》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3133343": {
+"t": "Pixi 推出全新 iOS 应用，将短信转化为交互式增强现实体验",
+"s": "忘掉贴纸、GIF 和表情符号回复吧。Pixi 押注消息传递的下一次进化将是交互式增强现实（AR）。"
+},
+"https://www.marktechpost.com/?p=80594": {
+"t": "KV缓存压缩竞赛：TurboQuant vs OSCAR vs EpiCache",
+"s": "在长上下文场景下，KV缓存现已超过模型权重成为内存瓶颈。本文解析TurboQuant、OSCAR与EpiCache各自如何攻克这一内存瓶颈，并阐明三者为何更偏向互补而非竞争关系。该文章首发于MarkTechPost。"
+},
+"https://huggingface.co/blog/is-it-agentic-enough": {
+"t": "它足够智能体化吗？在自有工具上对开源模型进行基准测试",
+"s": ""
+},
+"https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
+"t": "保障AI代理的未来安全",
+"s": "通过AI控制路线图保护内部系统，结合传统安全措施与实时监控。"
 }
 }
