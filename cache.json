@@ -838,5 +838,17 @@
 "https://openai.com/index/chatgpt-enterprise-spend-controls": {
 "t": "企业版新增使用分析与支出控制功能",
 "s": "OpenAI为ChatGPT企业版推出新的支出控制与使用分析功能，帮助组织管理成本并自信地扩展AI应用。"
+},
+"https://www.marktechpost.com/?p=80605": {
+"t": "Salesforce CodeGen教程：通过单元测试与安全检查生成、验证并重排Python函数",
+"s": "我们实现了一个基于Hugging Face加载的Salesforce CodeGen端到端工作流。通过添加函数提取、语法检查、静态安全检查以及单元测试验证，我们超越了基础推理。我们对最佳N个候选结果进行重排，组合多轮程序合成，并尝试不同的提示风格。最后，我们通过可视化一个小型基准测试，并将生成的工件导出为可复用的文件。这篇题为《Salesforce CodeGen教程：通过单元测试与安全检查生成、验证并重排Python函数》的文章最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3134483": {
+"t": "消息来源：Elastic 同意以最高8500万美元收购CRV支持的DeductiveAI",
+"s": "DeductiveAI是一家利用人工智能捕捉并修复软件漏洞的初创公司，成立仅三年。"
+},
+"https://www.marktechpost.com/?p=80602": {
+"t": "Perplexity 推出 Brain：一种自我改进的记忆系统，可构建智能体工作的上下文图谱并实现夜间学习",
+"s": "Perplexity 为其 Computer 智能体推出了 Brain，这是一种自我改进的记忆系统。它并非记住用户，而是记住智能体的工作内容——哪些操作成功、哪些失败、以及进行了哪些修正。该系统构建了一个可追溯的上下文图谱，在夜间进行审查，并报告在正确性、召回率和成本方面的早期改进。本文《Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight》最初发表于 MarkTechPost。"
 }
 }
