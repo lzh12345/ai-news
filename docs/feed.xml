@@ -5,15 +5,23 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 19 Jun 2026 03:33:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 09:00:30 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Salesforce CodeGen教程：通过单元测试与安全检查生成、验证并重排Python函数</title>
-<link>https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80605</guid>
-<pubDate>Fri, 19 Jun 2026 02:44:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】我们实现了一个基于Hugging Face加载的Salesforce CodeGen端到端工作流。通过添加函数提取、语法检查、静态安全检查以及单元测试验证，我们超越了基础推理。我们对最佳N个候选结果进行重排，组合多轮程序合成，并尝试不同的提示风格。最后，我们通过可视化一个小型基准测试，并将生成的工件导出为可复用的文件。这篇题为《Salesforce CodeGen教程：通过单元测试与安全检查生成、验证并重排Python函数》的文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/">阅读原文</a>]]></description>
+<title>网站“In the Weights”揭示AI模型是否认识你</title>
+<link>https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36782</guid>
+<pubDate>Fri, 19 Jun 2026 08:24:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】两位前OpenAI员工创建了一个名为“In the Weights”的网站，该网站能显示AI模型仅凭训练数据就能回忆起哪些人。最高达996的强度评分展示了某人在模型中的嵌入深度，莫扎特、莎士比亚和泰勒·斯威夫特位列榜首。本文《网站“In the Weights”揭示AI模型是否认识你》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国称ASML顶级芯片设备可能在中国，ASML否认</title>
+<link>https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3134577</guid>
+<pubDate>Fri, 19 Jun 2026 07:59:12 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】有一种商业逻辑与ASML会冒险违反出口许可、为中国客户提供设备的说法相悖。<br/><br/><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>消息来源：Elastic 同意以最高8500万美元收购CRV支持的DeductiveAI</title>
@@ -46,14 +54,6 @@
 <pubDate>Thu, 18 Jun 2026 20:30:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Snapchat的母公司正在剥离又一个内部部门。Dotmo将由当前Snap的员工组成，这些员工将离开这家社交媒体公司，专注于AI视频开发。<br/><br/><a href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Perplexity 推出 Brain：一种自我改进的记忆系统，可构建智能体工作的上下文图谱并实现夜间学习</title>
-<link>https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80602</guid>
-<pubDate>Thu, 18 Jun 2026 20:26:20 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity 为其 Computer 智能体推出了 Brain，这是一种自我改进的记忆系统。它并非记住用户，而是记住智能体的工作内容——哪些操作成功、哪些失败、以及进行了哪些修正。该系统构建了一个可追溯的上下文图谱，在夜间进行审查，并报告在正确性、召回率和成本方面的早期改进。本文《Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI在IPO前夕引入多位重量级人物</title>
@@ -248,14 +248,6 @@
 <description><![CDATA[【openai.com】了解GPT-5.5 Instant如何通过更强的推理能力、更优的上下文理解、更清晰的沟通以及基于医生评估的优化，改善ChatGPT在健康与保健方面的回答。<br/><br/><a href="https://openai.com/index/improving-health-intelligence-in-chatgpt">阅读原文</a>]]></description>
 </item>
 <item>
-<title>KV缓存压缩竞赛：TurboQuant vs OSCAR vs EpiCache</title>
-<link>https://www.marktechpost.com/2026/06/18/the-kv-cache-compression-race-turboquant-vs-oscar-vs-epicache/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80594</guid>
-<pubDate>Thu, 18 Jun 2026 09:14:31 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在长上下文场景下，KV缓存现已超过模型权重成为内存瓶颈。本文解析TurboQuant、OSCAR与EpiCache各自如何攻克这一内存瓶颈，并阐明三者为何更偏向互补而非竞争关系。该文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/18/the-kv-cache-compression-race-turboquant-vs-oscar-vs-epicache/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>利用人工智能帮助医生诊断影响儿童的罕见遗传疾病</title>
 <link>https://openai.com/index/diagnose-rare-childhood-diseases</link>
 <guid isPermaLink="false">https://openai.com/index/diagnose-rare-childhood-diseases</guid>
@@ -270,22 +262,6 @@
 <pubDate>Thu, 18 Jun 2026 07:08:29 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】里程碑式论文《Attention Is All You Need》的合著者、前谷歌Gemini模型联合负责人Noam Shazeer将加入OpenAI。他于2024年才作为27亿美元交易的一部分，从Character.AI重返谷歌。继Karpathy转投Anthropic之后，这是今年第二次重大AI人才招聘变动。本文《谷歌Gemini联合负责人Noam Shazeer在回归两年后加入OpenAI》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-gemini-co-lead-noam-shazeer-joins-openai-after-two-year-return-stint/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI 发布 LifeSciBench：含750项任务的基准测试，用专家编写的评分标准评估AI模型在真实生命科学研究中的表现</title>
-<link>https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80587</guid>
-<pubDate>Thu, 18 Jun 2026 02:28:22 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI 的 LifeSciBench 评估前沿AI能否处理真实的生命科学研究，涵盖750项专家编写的任务、七个工作流程和七个生物学领域。该基准由173位博士科学家构建，包含19,020条评分标准，不仅考核记忆能力，更评估推理和决策能力。表现最佳的模型 GPT-Rosalind 通过率为36.1%，在人工制品、精确输出和操作决策方面仍有较大提升空间。本文 OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric 最早发布于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险</title>
-<link>https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80584</guid>
-<pubDate>Thu, 18 Jun 2026 01:35:19 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们使用 NVIDIA SkillSpector 在部署前评估 AI 技能的安全风险。我们构建了一个包含良性及故意存在漏洞的技能语料库，然后通过 SkillSpector 的程序化 LangGraph 工作流对其进行扫描。我们利用 pandas 整理风险评分与发现结果，并可视化严重程度及类别分布。我们将结果导出为 SARIF 格式，注册自定义分析器，并可选地应用基于 LLM 的语义处理。本文《NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险》最初发表于 MarkTechPos。<br/><br/><a href="https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>如何在 Google Docs 中关闭 AI 功能</title>
@@ -368,14 +344,6 @@
 <description><![CDATA[【techcrunch.com】法国总统马克龙和印度总理莫迪在G7峰会上发出警告，称美国可能一夜之间切断对美国人工智能的访问——而Anthropic的断供事件刚刚让这种担忧成为现实。<br/><br/><a href="https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>微软研究员在《帝国时代2》中用山羊搭建出可运行的神经网络，以此批判AI科学</title>
-<link>https://the-decoder.com/microsoft-researcher-builds-a-working-neural-network-out-of-goats-in-age-of-empires-ii-to-critique-ai-science/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36729</guid>
-<pubDate>Wed, 17 Jun 2026 18:43:47 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】一位微软研究员在《帝国时代2》地图编辑器中，用山羊、桥梁和冰坡构建了一个可运行的神经网络。这看似玩笑，实则是对AI研究方法的尖锐批判。他对315篇论文的分析发现，超过半数在实验开始前就已假定语言模型具备类人特征。将聊天界面换成游荡的山羊，数学原理不变，但与人对话的感觉却消失了。本文《微软研究员在《帝国时代2》中用山羊搭建出可运行的神经网络，以此批判AI科学》已刊发。<br/><br/><a href="https://the-decoder.com/microsoft-researcher-builds-a-working-neural-network-out-of-goats-in-age-of-empires-ii-to-critique-ai-science/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Anthropic 成为首家加入前沿碳去除联盟的AI初创公司</title>
 <link>https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3133904</guid>
@@ -392,28 +360,12 @@
 <description><![CDATA[【techcrunch.com】随着Threads、Instagram和TikTok等平台推出让用户直接影响推荐算法的工具，社交媒体信息流正变得更加可定制化。<br/><br/><a href="https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NEA的Tiffany Luck谈AI IPO、个人代理与投资回报率的清算时刻</title>
-<link>https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3133981</guid>
-<pubDate>Wed, 17 Jun 2026 18:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】今年早些时候，Token最大化成为硅谷最热门的趋势，CEO们鼓励员工尽可能推动AI的使用。然而，账单随后到期。据报道，Uber在几个月内就耗尽了年度AI预算，一些公司削减了部分部门的Claude许可证，Meta也取消了内部排行榜。这种紧张关系……<br/><br/><a href="https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>“危险”的AI模型无论如何都会到来</title>
 <link>https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/</guid>
 <pubDate>Wed, 17 Jun 2026 17:50:46 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】具备高级黑客能力的AI模型很快将成为常态。<br/><br/><a href="https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Vercel 发布 Eve：一个开源 AI 智能体框架，每个智能体对应一个映射到能力的文件目录</title>
-<link>https://www.marktechpost.com/2026/06/17/vercel-releases-eve/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80581</guid>
-<pubDate>Wed, 17 Jun 2026 17:22:51 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Vercel 已开源 Eve，这是一个 Apache-2.0 许可的智能体框架，目前处于公开预览阶段。每个智能体对应一个文件目录，内置持久化执行、沙箱、审批、连接、频道和评估功能。可通过 npx eve@latest init 进行脚手架搭建，并通过 vercel deploy 直接部署而无需修改。本文《Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/17/vercel-releases-eve/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>十个月后，售价100美元的谷歌Home音箱终于开放预购</title>
@@ -464,28 +416,76 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/zai-org/glm-52-blog">阅读原文</a>]]></description>
 </item>
 <item>
-<title>MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制</title>
-<link>https://www.marktechpost.com/2026/06/17/minimax-sparse-attention-msa-a-two-branch-block-sparse-attention-trained-on-a-109b-parameter-moe-with-a-3t-token-budget/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80575</guid>
-<pubDate>Wed, 17 Jun 2026 07:44:54 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】MiniMax发布了MSA，这是一种基于分组查询注意力构建的稀疏注意力机制。轻量级索引分支为每个查询和GQA组选择Top-k键值块；主分支仅关注这些块。在下游基准测试中，MSA与GQA表现相当，同时在1M上下文下将每个token的注意力计算量减少了28.4倍。本文MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/17/minimax-sparse-attention-msa-a-two-branch-block-sparse-attention-trained-on-a-109b-parameter-moe-with-a-3t-token-budget/">阅读原文</a>]]></description>
+<title>自主资源发现：让智能体自主搜索</title>
+<link>https://huggingface.co/blog/agentic-resource-discovery-launch</link>
+<guid isPermaLink="false">https://huggingface.co/blog/agentic-resource-discovery-launch</guid>
+<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/agentic-resource-discovery-launch">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI 部署模拟通过模拟工具调用将预部署风险评估扩展至智能编码</title>
-<link>https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80570</guid>
-<pubDate>Wed, 17 Jun 2026 05:49:54 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI 于2026年6月16日推出部署模拟。该方法在发布前通过新候选模型重放过往对话，随后对完成结果进行评分，以估算部署时不良行为的发生率。我们解析了该流程的工作原理、报告的中位数1.5倍乘性误差及其局限性。本文《OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/">阅读原文</a>]]></description>
+<title>LifeSciBench 正式发布</title>
+<link>https://openai.com/index/introducing-life-sci-bench</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench</guid>
+<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】LifeSciBench 是一个由专家编写并评审的基准测试，用于评估人工智能系统处理真实世界生命科学研究任务与决策的能力。<br/><br/><a href="https://openai.com/index/introducing-life-sci-bench">阅读原文</a>]]></description>
 </item>
 <item>
-<title>如何使用xFormers构建内存高效的Transformer：打包序列、GQA、ALiBi、SwiGLU和因果注意力</title>
-<link>https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80567</guid>
-<pubDate>Wed, 17 Jun 2026 00:02:25 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】我们实现了xFormers，这是一个用于在GPU上构建快速、内存高效的Transformer模型的实用工具包。我们验证了内存高效注意力机制与标准实现的对比，然后比较了不同序列长度下的速度和内存占用。我们逐步讲解了因果掩码、打包变长序列、分组查询注意力以及自定义ALiBi偏置。最后，我们将这些技术整合到一个可训练的GPT风格模型中，并加入了SwiGLU层和自动混合精度训练。本文《如何使用xFormers构建内存高效的Transformer：打包序列、GQA、ALiBi、SwiGLU和因果注意力》首次发布。<br/><br/><a href="https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/">阅读原文</a>]]></description>
+<title>特朗普政府试图阻止关于xAI燃气轮机的《清洁空气法》诉讼</title>
+<link>https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/</guid>
+<pubDate>Tue, 16 Jun 2026 22:22:44 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】NAACP诉讼称xAI在未获许可的情况下为Grok数据中心使用燃气轮机。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>利用AI加速规划，解锁英国房屋建设</title>
+<link>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
+<pubDate>Tue, 16 Jun 2026 21:29:50 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】英国政府与谷歌DeepMind合作，构建一个基于AI的新原型系统，旨在加快住房决策速度。<br/><br/><a href="https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic &quot;暂停&quot;其Claude Agent SDK基于代币的计费方式</title>
+<link>https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/</guid>
+<pubDate>Tue, 16 Jun 2026 21:00:35 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】原定于周一实施的变动本将大幅增加重度用户的成本。<br/><br/><a href="https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>什么是 Git Worktrees，为什么应该使用它们？</title>
+<link>https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/</link>
+<guid isPermaLink="false">https://github.blog/?p=96793</guid>
+<pubDate>Tue, 16 Jun 2026 20:58:54 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】Git Worktrees 自2015年就已存在，但直到最近才变得流行。了解它们是什么、如何使用以及为什么你可能需要它们。这篇文章《What are git worktrees, and why should I use them?》最初出现在 GitHub 博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>五角大楼宣称使用AI撰写国会要求的报告</title>
+<link>https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/</guid>
+<pubDate>Tue, 16 Jun 2026 18:11:05 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】五角大楼还声称有150万人员正在使用生成式AI工具。<br/><br/><a href="https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceX 将以600亿美元收购AI编程平台Cursor</title>
+<link>https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/</guid>
+<pubDate>Tue, 16 Jun 2026 16:37:45 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】各自为战时，两者均无法竞争。如今他们希望联手能够做到。<br/><br/><a href="https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>泄露的财务文件显示OpenAI每年亏损数十亿美元</title>
+<link>https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/</guid>
+<pubDate>Tue, 16 Jun 2026 16:18:07 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】经审计的会计数据显示，不断增长的收入被研发及其他支出所掩盖。<br/><br/><a href="https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

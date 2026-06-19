@@ -850,5 +850,13 @@
 "https://www.marktechpost.com/?p=80602": {
 "t": "Perplexity 推出 Brain：一种自我改进的记忆系统，可构建智能体工作的上下文图谱并实现夜间学习",
 "s": "Perplexity 为其 Computer 智能体推出了 Brain，这是一种自我改进的记忆系统。它并非记住用户，而是记住智能体的工作内容——哪些操作成功、哪些失败、以及进行了哪些修正。该系统构建了一个可追溯的上下文图谱，在夜间进行审查，并报告在正确性、召回率和成本方面的早期改进。本文《Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight》最初发表于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=36782": {
+"t": "网站“In the Weights”揭示AI模型是否认识你",
+"s": "两位前OpenAI员工创建了一个名为“In the Weights”的网站，该网站能显示AI模型仅凭训练数据就能回忆起哪些人。最高达996的强度评分展示了某人在模型中的嵌入深度，莫扎特、莎士比亚和泰勒·斯威夫特位列榜首。本文《网站“In the Weights”揭示AI模型是否认识你》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3134577": {
+"t": "美国称ASML顶级芯片设备可能在中国，ASML否认",
+"s": "有一种商业逻辑与ASML会冒险违反出口许可、为中国客户提供设备的说法相悖。"
 }
 }
