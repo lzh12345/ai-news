@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 19 Jun 2026 21:02:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 02:37:52 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NVIDIA AI 推出 SpatialClaw：一种免训练代理，将代码作为空间推理的动作接口</title>
+<link>https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80619</guid>
+<pubDate>Fri, 19 Jun 2026 22:51:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】SpatialClaw 是一种免训练代理，它在持久内核中编写 Python，组合感知工具以进行 3D 空间推理。本文《NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>加密、间谍软件，再到Mythos：历史表明网络出口管制为何无效</title>
+<link>https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3134219</guid>
+<pubDate>Fri, 19 Jun 2026 22:40:14 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】过去30年的经验证明，阻止网络安全相关软件的流通是无效的。目前尚不清楚为何对Anthropic的网络安全模型Mythos采取类似措施会奏效。<br/><br/><a href="https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>VibeThinker-3B：基于Qwen2.5-Coder-3B构建的3B密集推理模型，采用频谱到信号后训练流程</title>
+<link>https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80611</guid>
+<pubDate>Fri, 19 Jun 2026 22:06:31 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】VibeThinker-3B，一个采用MIT许可的3B推理模型，在可验证基准测试上与DeepSeek V3.2和Kimi K2.5表现相当。本文VibeThinker-3B：基于Qwen2.5-Coder-3B构建的3B密集推理模型，采用频谱到信号后训练流程，最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>挪威禁止小学使用生成式AI工具，以保护儿童基础学习技能</title>
 <link>https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/</link>
@@ -272,6 +296,14 @@
 <description><![CDATA[【openai.com】OpenAI为ChatGPT企业版推出新的支出控制与使用分析功能，帮助组织管理成本并自信地扩展AI应用。<br/><br/><a href="https://openai.com/index/chatgpt-enterprise-spend-controls">阅读原文</a>]]></description>
 </item>
 <item>
+<title>如何在 Google Docs 中关闭 AI 功能</title>
+<link>https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3134048</guid>
+<pubDate>Thu, 18 Jun 2026 17:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】以下是你需要做的，以让那些烦人的“使用 Gemini 撰写”弹窗消失。<br/><br/><a href="https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>《粉雄救兵》生活教练卡拉莫·布朗推出健康应用Kē，内置其AI数字分身</title>
 <link>https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3134184</guid>
@@ -360,14 +392,6 @@
 <description><![CDATA[【marktechpost.com】在本教程中，我们使用 NVIDIA SkillSpector 在部署前评估 AI 技能的安全风险。我们构建了一个包含良性及故意存在漏洞的技能语料库，然后通过 SkillSpector 的程序化 LangGraph 工作流对其进行扫描。我们利用 pandas 整理风险评分与发现结果，并可视化严重程度及类别分布。我们将结果导出为 SARIF 格式，注册自定义分析器，并可选地应用基于 LLM 的语义处理。本文《NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险》最初发表于 MarkTechPos。<br/><br/><a href="https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>如何在 Google Docs 中关闭 AI 功能</title>
-<link>https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3134048</guid>
-<pubDate>Thu, 18 Jun 2026 01:23:51 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】以下是你需要做的，以让那些烦人的“使用 Gemini 撰写”弹窗消失。<br/><br/><a href="https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>超越LoRA：你能击败最流行的微调技术吗？</title>
 <link>https://huggingface.co/blog/peft-beyond-lora</link>
 <guid isPermaLink="false">https://huggingface.co/blog/peft-beyond-lora</guid>
@@ -390,14 +414,6 @@
 <pubDate>Wed, 17 Jun 2026 20:32:52 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】这位红杉资本前领导人填补了 SpaceX 董事会的“现有空缺”，而就在几天前，该公司以史上最大规模 IPO 上市。<br/><br/><a href="https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Snap发布天价AR眼镜后，股价应声下跌</title>
-<link>https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3133859</guid>
-<pubDate>Wed, 17 Jun 2026 20:24:28 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Snap备受期待的智能眼镜亮相并未给公司股价带来奇迹般的提振。<br/><br/><a href="https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>从每个Token中获取更多价值：Copilot如何优化上下文处理与模型路由</title>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 17 Jun 2026 10:18:05 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware">阅读原文</a>]]></description>
-</item>
-<item>
-<title>近乎自主的AI化学家改进了一项药物化学中的挑战性反应</title>
-<link>https://openai.com/index/ai-chemist-improves-reaction</link>
-<guid isPermaLink="false">https://openai.com/index/ai-chemist-improves-reaction</guid>
-<pubDate>Wed, 17 Jun 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI与Molecule.one展示了使用GPT-5.4的近乎自主AI化学家如何改进了一项关键的药物制造反应，推动了药物化学研究的发展。<br/><br/><a href="https://openai.com/index/ai-chemist-improves-reaction">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GLM-5.2：专为长周期任务打造</title>
-<link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
-<guid isPermaLink="false">https://huggingface.co/blog/zai-org/glm-52-blog</guid>
-<pubDate>Wed, 17 Jun 2026 09:01:25 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/zai-org/glm-52-blog">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

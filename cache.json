@@ -914,5 +914,17 @@
 "https://the-decoder.com/?p=36815": {
 "t": "谷歌Deepmind再失顶尖AI研究员：诺贝尔奖得主John Jumper跳槽Anthropic",
 "s": "诺贝尔奖得主John Jumper在谷歌Deepmind任职近九年后，将离职加入Anthropic。数日前，Gemini联合负责人Noam Shazeer已转投OpenAI。几周前，AlphaGo研究员David Silver也创办了自己的公司。短短数月内，谷歌三位最杰出的AI人才相继流失。本文《谷歌Deepmind再失顶尖AI研究员：诺贝尔奖得主John Jumper跳槽Anthropic》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80619": {
+"t": "NVIDIA AI 推出 SpatialClaw：一种免训练代理，将代码作为空间推理的动作接口",
+"s": "SpatialClaw 是一种免训练代理，它在持久内核中编写 Python，组合感知工具以进行 3D 空间推理。本文《NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning》最初发表于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3134219": {
+"t": "加密、间谍软件，再到Mythos：历史表明网络出口管制为何无效",
+"s": "过去30年的经验证明，阻止网络安全相关软件的流通是无效的。目前尚不清楚为何对Anthropic的网络安全模型Mythos采取类似措施会奏效。"
+},
+"https://www.marktechpost.com/?p=80611": {
+"t": "VibeThinker-3B：基于Qwen2.5-Coder-3B构建的3B密集推理模型，采用频谱到信号后训练流程",
+"s": "VibeThinker-3B，一个采用MIT许可的3B推理模型，在可验证基准测试上与DeepSeek V3.2和Kimi K2.5表现相当。本文VibeThinker-3B：基于Qwen2.5-Coder-3B构建的3B密集推理模型，采用频谱到信号后训练流程，最初发表于MarkTechPost。"
 }
 }
