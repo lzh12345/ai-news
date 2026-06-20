@@ -926,5 +926,17 @@
 "https://www.marktechpost.com/?p=80611": {
 "t": "VibeThinker-3B：基于Qwen2.5-Coder-3B构建的3B密集推理模型，采用频谱到信号后训练流程",
 "s": "VibeThinker-3B，一个采用MIT许可的3B推理模型，在可验证基准测试上与DeepSeek V3.2和Kimi K2.5表现相当。本文VibeThinker-3B：基于Qwen2.5-Coder-3B构建的3B密集推理模型，采用频谱到信号后训练流程，最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=36836": {
+"t": "Data2Story 利用七个AI智能体将CSV文件转化为可验证的交互式新闻文章",
+"s": "七个AI智能体像新闻编辑室一样协同工作。来自牛津和斯坦福的“数据记者智能体”能将CSV文件转化为包含图表、网络研究及可验证来源链接的完整交互式文章，其中93%的陈述均有据可查。在一项读者研究中，74%的参与者更青睐该智能体生成的内容而非人类原作。但在与精心制作的长篇报道对比时，智能体仅能打成平手。本文《Data2Story 利用七个AI智能体将CSV文件转化为可验证的交互式新闻文章》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36830": {
+"t": "ChatGPT 新增定时任务控制功能，逐步向AI个人助理迈进",
+"s": "OpenAI正在升级ChatGPT的定时功能。侧边栏新增的“定时”页面将所有活跃任务集中管理，用户可查看、暂停、编辑或删除任务。研究任务可搜索网络及关联应用，仅在内容实际发生变化时发送提醒。原有的“Pulse”功能将被淘汰。本文《ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=36826": {
+"t": "OpenAI第一季度营收翻三倍达57亿美元，但为此烧掉37亿美元",
+"s": "2026年第一季度，OpenAI实现营收57亿美元，同时烧掉约37亿美元，两项数据均同比增长三倍。仅股权激励支出一项就超过23亿美元。凭借730亿美元储备金，OpenAI目前无需新融资，但与Anthropic的价格战可能迅速改变这一局面。本文《OpenAI第一季度营收翻三倍达57亿美元，但为此烧掉37亿美元》最初发表于The Decoder。"
 }
 }
