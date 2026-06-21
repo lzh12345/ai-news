@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 21 Jun 2026 08:22:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 13:51:39 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI正在推高学生成绩，但效果指向外包作业而非更好的学习</title>
+<link>https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36878</guid>
+<pubDate>Sun, 21 Jun 2026 12:01:46 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】加州大学伯克利分校对超过50万份成绩的研究发现，在ChatGPT推出后，写作和编程密集型课程的成绩出现跃升。这种效应主要体现在家庭作业上，表明AI正在取代学生的工作，而非改善学习。文章《AI正在推高学生成绩，但效果指向外包作业而非更好的学习》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sam Altman称整整一代研究者因低估规模扩展能力而拖慢了AI发展</title>
+<link>https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36874</guid>
+<pubDate>Sun, 21 Jun 2026 09:12:01 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在斯坦福大学的一次演讲中，Sam Altman为大型语言模型的规模扩展辩护，并回击了怀疑者，称整整一代研究者因低估规模扩展的潜力而拖慢了该领域的发展。他以OpenAI近期推翻一个数学猜想作为证据。本文《Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AWS称AI代理缺乏业务上下文与安全性，推出两项服务填补缺口</title>
+<link>https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36867</guid>
+<pubDate>Sun, 21 Jun 2026 08:25:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在纽约峰会上，AWS发布了两项新服务。Continuum可自动检测、优先处理并修复代码漏洞；Context则从企业数据中构建知识图谱，为AI代理提供所需的业务上下文。两者均针对同一问题：代理虽能快速编写代码，但出错频率过高。本文《AWS称AI代理缺乏业务上下文与安全性，推出两项服务填补缺口》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Crawlee for Python：构建包含机器人处理、链接图谱和RAG分块导出的网络爬取管道</title>
 <link>https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/</link>
@@ -152,22 +176,6 @@
 <description><![CDATA[【the-decoder.com】挪威将从8月底起禁止小学使用生成式AI工具。1至7年级学生完全不得使用AI；中学仅在监督下允许使用。首相斯托尔表示，儿童必须首先“学会阅读、写作和数学”。本文《挪威禁止小学使用生成式AI工具，以保护儿童基础学习技能》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>谷歌Deepmind再失顶尖AI研究员：诺贝尔奖得主John Jumper跳槽Anthropic</title>
-<link>https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36815</guid>
-<pubDate>Fri, 19 Jun 2026 17:54:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】诺贝尔奖得主John Jumper在谷歌Deepmind任职近九年后，将离职加入Anthropic。数日前，Gemini联合负责人Noam Shazeer已转投OpenAI。几周前，AlphaGo研究员David Silver也创办了自己的公司。短短数月内，谷歌三位最杰出的AI人才相继流失。本文《谷歌Deepmind再失顶尖AI研究员：诺贝尔奖得主John Jumper跳槽Anthropic》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>亚马逊与山姆·奥特曼公司签署500亿美元协议后，放弃OpenAI题材剧情片</title>
-<link>https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36809</guid>
-<pubDate>Fri, 19 Jun 2026 17:14:33 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】亚马逊米高梅影业已放弃制作《人工智能》——这部由卢卡·瓜达尼诺执导、安德鲁·加菲尔德饰演山姆·奥特曼、几乎完成的OpenAI题材电影。亚马逊于2月与OpenAI达成500亿美元合作。据知情人士透露，电影中奥特曼和马斯克的形象均不佳。此案例引发关于科技行业商业关系如何限制创作自由的质疑。本文《亚马逊与山姆·奥特曼公司签署500亿美元协议后，放弃OpenAI题材剧情片》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>美国政府封禁Anthropic是否意外助长了品牌知名度？</title>
 <link>https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/</link>
 <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3134608</guid>
@@ -198,14 +206,6 @@
 <pubDate>Fri, 19 Jun 2026 15:23:28 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】信实集团正将人工智能融入其超过5亿用户使用的电信服务中。<br/><br/><a href="https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>更多人通过AI聊天机器人获取新闻，但信任度依然较低</title>
-<link>https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36800</guid>
-<pubDate>Fri, 19 Jun 2026 14:42:25 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】根据路透研究所2026年数字新闻报告，全球每周使用AI聊天机器人获取新闻的人数占比已达10%，较一年前的7%有所上升。但仅有4%的用户会定期点击跳转至原始来源。本文《更多人通过AI聊天机器人获取新闻，但信任度依然较低》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Allbirds 新AI业务CEO有规划，但尚无员工</title>

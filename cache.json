@@ -982,5 +982,17 @@
 "https://www.marktechpost.com/?p=80630": {
 "t": "Nous Research 为 Hermes Agent 更新空白初始模式，通过 platform_toolsets.cli 和 disabled_toolsets 固定工具集",
 "s": "Nous Research 为其开源 Hermes Agent 新增了空白初始设置模式。该模式启动代理时，除提供商、模型、文件操作和终端外，所有功能均关闭，其余功能需用户自行选择启用。本文《Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets》首发于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=36878": {
+"t": "AI正在推高学生成绩，但效果指向外包作业而非更好的学习",
+"s": "加州大学伯克利分校对超过50万份成绩的研究发现，在ChatGPT推出后，写作和编程密集型课程的成绩出现跃升。这种效应主要体现在家庭作业上，表明AI正在取代学生的工作，而非改善学习。文章《AI正在推高学生成绩，但效果指向外包作业而非更好的学习》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36874": {
+"t": "Sam Altman称整整一代研究者因低估规模扩展能力而拖慢了AI发展",
+"s": "在斯坦福大学的一次演讲中，Sam Altman为大型语言模型的规模扩展辩护，并回击了怀疑者，称整整一代研究者因低估规模扩展的潜力而拖慢了该领域的发展。他以OpenAI近期推翻一个数学猜想作为证据。本文《Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36867": {
+"t": "AWS称AI代理缺乏业务上下文与安全性，推出两项服务填补缺口",
+"s": "在纽约峰会上，AWS发布了两项新服务。Continuum可自动检测、优先处理并修复代码漏洞；Context则从企业数据中构建知识图谱，为AI代理提供所需的业务上下文。两者均针对同一问题：代理虽能快速编写代码，但出错频率过高。本文《AWS称AI代理缺乏业务上下文与安全性，推出两项服务填补缺口》首发于The Decoder。"
 }
 }
