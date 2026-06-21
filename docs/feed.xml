@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 21 Jun 2026 17:21:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 21:06:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>当特朗普政府打击Anthropic时，谁将受益？</title>
@@ -46,6 +46,30 @@
 <pubDate>Sun, 21 Jun 2026 08:25:41 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】在纽约峰会上，AWS发布了两项新服务。Continuum可自动检测、优先处理并修复代码漏洞；Context则从企业数据中构建知识图谱，为AI代理提供所需的业务上下文。两者均针对同一问题：代理虽能快速编写代码，但出错频率过高。本文《AWS称AI代理缺乏业务上下文与安全性，推出两项服务填补缺口》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Crawlee for Python：构建包含机器人处理、链接图谱和RAG分块导出的网络爬取管道</title>
+<link>https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80636</guid>
+<pubDate>Sun, 21 Jun 2026 06:52:10 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们将构建一个完整的Crawlee for Python工作流，从设置到生成AI就绪的输出。我们首先生成一个本地演示网站，然后使用BeautifulSoupCrawler、ParselCrawler和PlaywrightCrawler进行爬取。我们提取标题、元数据、产品字段和JavaScript渲染的卡片，并捕获全页截图。接着，我们对数据进行规范化处理，构建链接图谱，并导出JSON、CSV以及RAG就绪的JSONL分块。这篇文章《Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cisco AI 推出 FAPO：具备步骤级故障归因与 Claude Code 编排的流水线感知提示优化</title>
+<link>https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80633</guid>
+<pubDate>Sat, 20 Jun 2026 23:04:55 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cisco Foundation AI 已开源 FAPO（全自动提示优化），这是一个由 Claude Code 驱动的系统，能够自主优化多步骤 LLM 流水线，从基线提示达到目标准确率。FAPO 评估整个链，在步骤级别归因故障，在提示、参数和链结构层面提出变体，并通过独立审查器验证每个变体。在 Cisco 的评估中，它在 18 个模型-基准比较中的 15 个上击败了 GEPA。以下是优化循环的工作原理及运行方法。<br/><br/><a href="https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nous Research 为 Hermes Agent 更新空白初始模式，通过 platform_toolsets.cli 和 disabled_toolsets 固定工具集</title>
+<link>https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80630</guid>
+<pubDate>Sat, 20 Jun 2026 21:50:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nous Research 为其开源 Hermes Agent 新增了空白初始设置模式。该模式启动代理时，除提供商、模型、文件操作和终端外，所有功能均关闭，其余功能需用户自行选择启用。本文《Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Signal 的梅雷迪思·惠特克提醒你：AI 聊天机器人“不是你的朋友”</title>
@@ -104,6 +128,22 @@
 <description><![CDATA[【the-decoder.com】七个AI智能体像新闻编辑室一样协同工作。来自牛津和斯坦福的“数据记者智能体”能将CSV文件转化为包含图表、网络研究及可验证来源链接的完整交互式文章，其中93%的陈述均有据可查。在一项读者研究中，74%的参与者更青睐该智能体生成的内容而非人类原作。但在与精心制作的长篇报道对比时，智能体仅能打成平手。本文《Data2Story 利用七个AI智能体将CSV文件转化为可验证的交互式新闻文章》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Yandex 开源 YaFF：为 Protobuf 打造的零拷贝线格式，读取速度接近结构体</title>
+<link>https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80627</guid>
+<pubDate>Sat, 20 Jun 2026 09:23:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】本文中，我们探讨了 Yandex 为 Protobuf 生态系统开源的零拷贝线格式 YaFF。我们保持 .proto 文件作为唯一数据源，仅改变数据在内存中的存储方式。我们逐一介绍了其四种布局——固定布局、扁平布局、稀疏布局和动态布局，并展示了基准测试结果：扁平布局的读取速度达到原始 C++ 结构体的 1.2 倍以内。我们还讨论了其适用场景，包括广告推荐系统在生产规模下实现 10–20% 的 CPU 节省。本文《Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如何使用基础模型和自动异常检测，通过TimeCopilot构建预测管道</title>
+<link>https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80624</guid>
+<pubDate>Sat, 20 Jun 2026 09:05:23 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们基于一组真实的航空公司乘客数据以及一个注入异常值的合成季节性序列，使用TimeCopilot构建了一个端到端的预测工作流。我们通过滚动交叉验证和多种误差指标，评估了统计模型、基础模型以及可选的GPU模型。我们生成了带有预测区间的概率预测，可视化未来趋势，并标记异常观测值。随后，我们探索了TimeCopilot可选的LLM代理，该代理能够选择模型并解释其预测结果。<br/><br/><a href="https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>ChatGPT 新增定时任务控制功能，逐步向AI个人助理迈进</title>
 <link>https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=36830</guid>
@@ -120,12 +160,28 @@
 <description><![CDATA[【the-decoder.com】2026年第一季度，OpenAI实现营收57亿美元，同时烧掉约37亿美元，两项数据均同比增长三倍。仅股权激励支出一项就超过23亿美元。凭借730亿美元储备金，OpenAI目前无需新融资，但与Anthropic的价格战可能迅速改变这一局面。本文《OpenAI第一季度营收翻三倍达57亿美元，但为此烧掉37亿美元》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>NVIDIA AI 推出 SpatialClaw：一种免训练代理，将代码作为空间推理的动作接口</title>
+<link>https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80619</guid>
+<pubDate>Fri, 19 Jun 2026 22:51:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】SpatialClaw 是一种免训练代理，它在持久内核中编写 Python，组合感知工具以进行 3D 空间推理。本文《NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>加密、间谍软件，再到Mythos：历史表明网络出口管制为何无效</title>
 <link>https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3134219</guid>
 <pubDate>Fri, 19 Jun 2026 22:40:14 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】过去30年的经验证明，阻止网络安全相关软件的流通是无效的。目前尚不清楚为何对Anthropic的网络安全模型Mythos采取类似措施会奏效。<br/><br/><a href="https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>VibeThinker-3B：基于Qwen2.5-Coder-3B构建的3B密集推理模型，采用频谱到信号后训练流程</title>
+<link>https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80611</guid>
+<pubDate>Fri, 19 Jun 2026 22:06:31 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】VibeThinker-3B，一个采用MIT许可的3B推理模型，在可验证基准测试上与DeepSeek V3.2和Kimi K2.5表现相当。本文VibeThinker-3B：基于Qwen2.5-Coder-3B构建的3B密集推理模型，采用频谱到信号后训练流程，最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>挪威禁止小学使用生成式AI工具，以保护儿童基础学习技能</title>
@@ -184,12 +240,28 @@
 <description><![CDATA[【blog.cloudflare.com】当代理需要部署某项内容时，它会直接撞上为人类设计的壁垒。今天，我们在Cloudflare Workers上推出临时账户功能。任何代理现在都可以运行wrangler deploy — temporary命令，在数秒内获得一个可运行的Worker实例。<br/><br/><a href="https://blog.cloudflare.com/temporary-accounts/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Liquid AI 推出 LFM2.5-Embedding-350M 和 LFM2.5-ColBERT-350M：面向 11 种语言快速多语言搜索的密集双编码器和后期交互模型</title>
+<link>https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80608</guid>
+<pubDate>Fri, 19 Jun 2026 10:29:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI 的 LFM2.5 检索器结合了密集双编码器和 ColBERT 后期交互模型，用于边缘设备上的多语言搜索。本文《Liquid AI Introduces LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M: Dense Bi-Encoder and Late-Interaction Models for Fast Multilingual Search Across 11 Languages》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>美国称ASML顶级芯片设备可能在中国，ASML否认</title>
 <link>https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3134577</guid>
 <pubDate>Fri, 19 Jun 2026 07:59:12 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】有一种商业逻辑与ASML会冒险违反出口许可、为中国客户提供设备的说法相悖。<br/><br/><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Salesforce CodeGen教程：通过单元测试与安全检查生成、验证并重排Python函数</title>
+<link>https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80605</guid>
+<pubDate>Fri, 19 Jun 2026 02:44:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们实现了一个基于Hugging Face加载的Salesforce CodeGen端到端工作流。通过添加函数提取、语法检查、静态安全检查以及单元测试验证，我们超越了基础推理。我们对最佳N个候选结果进行重排，组合多轮程序合成，并尝试不同的提示风格。最后，我们通过可视化一个小型基准测试，并将生成的工件导出为可复用的文件。这篇题为《Salesforce CodeGen教程：通过单元测试与安全检查生成、验证并重排Python函数》的文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>消息来源：Elastic 同意以最高8500万美元收购CRV支持的DeductiveAI</title>
@@ -222,6 +294,14 @@
 <pubDate>Thu, 18 Jun 2026 20:30:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Snapchat的母公司正在剥离又一个内部部门。Dotmo将由当前Snap的员工组成，这些员工将离开这家社交媒体公司，专注于AI视频开发。<br/><br/><a href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity 推出 Brain：一种自我改进的记忆系统，可构建智能体工作的上下文图谱并实现夜间学习</title>
+<link>https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80602</guid>
+<pubDate>Thu, 18 Jun 2026 20:26:20 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity 为其 Computer 智能体推出了 Brain，这是一种自我改进的记忆系统。它并非记住用户，而是记住智能体的工作内容——哪些操作成功、哪些失败、以及进行了哪些修正。该系统构建了一个可追溯的上下文图谱，在夜间进行审查，并报告在正确性、召回率和成本方面的早期改进。本文《Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI在IPO前夕引入多位重量级人物</title>
@@ -406,86 +486,6 @@
 <pubDate>Wed, 17 Jun 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Cloudflare One 技术栈是一个智能体技能库，可为任何AI智能体提供规划、部署和管理零信任环境所需的知识，无需迁移呼叫。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-one-stack/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>从Hugging Face Hub到机器人硬件：借助Strands Agents和LeRobot实现</title>
-<link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
-<guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</guid>
-<pubDate>Wed, 17 Jun 2026 10:18:05 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware">阅读原文</a>]]></description>
-</item>
-<item>
-<title>近乎自主的AI化学家改进了一项药物化学中的挑战性反应</title>
-<link>https://openai.com/index/ai-chemist-improves-reaction</link>
-<guid isPermaLink="false">https://openai.com/index/ai-chemist-improves-reaction</guid>
-<pubDate>Wed, 17 Jun 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI与Molecule.one展示了使用GPT-5.4的近乎自主AI化学家如何改进了一项关键的药物制造反应，推动了药物化学研究的发展。<br/><br/><a href="https://openai.com/index/ai-chemist-improves-reaction">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GLM-5.2：专为长周期任务打造</title>
-<link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
-<guid isPermaLink="false">https://huggingface.co/blog/zai-org/glm-52-blog</guid>
-<pubDate>Wed, 17 Jun 2026 09:01:25 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/zai-org/glm-52-blog">阅读原文</a>]]></description>
-</item>
-<item>
-<title>自主资源发现：让智能体自主搜索</title>
-<link>https://huggingface.co/blog/agentic-resource-discovery-launch</link>
-<guid isPermaLink="false">https://huggingface.co/blog/agentic-resource-discovery-launch</guid>
-<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/agentic-resource-discovery-launch">阅读原文</a>]]></description>
-</item>
-<item>
-<title>LifeSciBench 正式发布</title>
-<link>https://openai.com/index/introducing-life-sci-bench</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench</guid>
-<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】LifeSciBench 是一个由专家编写并评审的基准测试，用于评估人工智能系统处理真实世界生命科学研究任务与决策的能力。<br/><br/><a href="https://openai.com/index/introducing-life-sci-bench">阅读原文</a>]]></description>
-</item>
-<item>
-<title>特朗普政府试图阻止关于xAI燃气轮机的《清洁空气法》诉讼</title>
-<link>https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/</guid>
-<pubDate>Tue, 16 Jun 2026 22:22:44 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】NAACP诉讼称xAI在未获许可的情况下为Grok数据中心使用燃气轮机。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用AI加速规划，解锁英国房屋建设</title>
-<link>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
-<pubDate>Tue, 16 Jun 2026 21:29:50 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】英国政府与谷歌DeepMind合作，构建一个基于AI的新原型系统，旨在加快住房决策速度。<br/><br/><a href="https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic &quot;暂停&quot;其Claude Agent SDK基于代币的计费方式</title>
-<link>https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/</guid>
-<pubDate>Tue, 16 Jun 2026 21:00:35 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】原定于周一实施的变动本将大幅增加重度用户的成本。<br/><br/><a href="https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>什么是 Git Worktrees，为什么应该使用它们？</title>
-<link>https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/</link>
-<guid isPermaLink="false">https://github.blog/?p=96793</guid>
-<pubDate>Tue, 16 Jun 2026 20:58:54 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Git Worktrees 自2015年就已存在，但直到最近才变得流行。了解它们是什么、如何使用以及为什么你可能需要它们。这篇文章《What are git worktrees, and why should I use them?》最初出现在 GitHub 博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>五角大楼宣称使用AI撰写国会要求的报告</title>
-<link>https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/</guid>
-<pubDate>Tue, 16 Jun 2026 18:11:05 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】五角大楼还声称有150万人员正在使用生成式AI工具。<br/><br/><a href="https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
