@@ -970,5 +970,17 @@
 "https://the-decoder.com/?p=36861": {
 "t": "欧盟对深度伪造的定义模糊不清，这正成为零售业的一个问题",
 "s": "代表亚马逊、H&M和宜家等企业的贸易协会Eurocommerce，希望将AI生成的广告排除在欧盟《人工智能法案》的透明度规则之外。其理由是：用于销售沙发的AI生成客厅图像并非深度伪造。仅Zalando一家公司就表示，其平台上90%的营销内容已由AI生成。本文《欧盟对深度伪造的定义模糊不清，这正成为零售业的一个问题》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80636": {
+"t": "Crawlee for Python：构建包含机器人处理、链接图谱和RAG分块导出的网络爬取管道",
+"s": "在本教程中，我们将构建一个完整的Crawlee for Python工作流，从设置到生成AI就绪的输出。我们首先生成一个本地演示网站，然后使用BeautifulSoupCrawler、ParselCrawler和PlaywrightCrawler进行爬取。我们提取标题、元数据、产品字段和JavaScript渲染的卡片，并捕获全页截图。接着，我们对数据进行规范化处理，构建链接图谱，并导出JSON、CSV以及RAG就绪的JSONL分块。这篇文章《Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export》最初出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=80633": {
+"t": "Cisco AI 推出 FAPO：具备步骤级故障归因与 Claude Code 编排的流水线感知提示优化",
+"s": "Cisco Foundation AI 已开源 FAPO（全自动提示优化），这是一个由 Claude Code 驱动的系统，能够自主优化多步骤 LLM 流水线，从基线提示达到目标准确率。FAPO 评估整个链，在步骤级别归因故障，在提示、参数和链结构层面提出变体，并通过独立审查器验证每个变体。在 Cisco 的评估中，它在 18 个模型-基准比较中的 15 个上击败了 GEPA。以下是优化循环的工作原理及运行方法。"
+},
+"https://www.marktechpost.com/?p=80630": {
+"t": "Nous Research 为 Hermes Agent 更新空白初始模式，通过 platform_toolsets.cli 和 disabled_toolsets 固定工具集",
+"s": "Nous Research 为其开源 Hermes Agent 新增了空白初始设置模式。该模式启动代理时，除提供商、模型、文件操作和终端外，所有功能均关闭，其余功能需用户自行选择启用。本文《Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets》首发于 MarkTechPost。"
 }
 }
