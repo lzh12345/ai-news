@@ -1010,5 +1010,53 @@
 "https://the-decoder.com/?p=36887": {
 "t": "Sakana AI的Fugu系统协调多个大语言模型，对标Anthropic的Fable与Mythos基准测试",
 "s": "日本AI初创公司Sakana AI推出Fugu系统，该系统可动态协调多个AI模型，与Anthropic的Fable 5等领先产品展开竞争。该方案还旨在减少对单一AI提供商的依赖。本文《Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36913": {
+"t": "微软在得克萨斯州建设2吉瓦数据中心，配备自有天然气厂以规避电网依赖",
+"s": "微软正在得克萨斯州佩科斯建设一个约2吉瓦的数据中心园区，这是其历史上单次容量最大的项目之一。在一封公开信中，该公司承诺提供稳定的电力价格并最大限度减少用水，直接回应了当地反对情绪——这种情绪已导致美国数十个数据中心项目被叫停。本文《微软在得克萨斯州建设2吉瓦数据中心，配备自有天然气厂以规避电网依赖》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=36910": {
+"t": "Getty Images 达成多年协议，将授权照片引入 ChatGPT 搜索",
+"s": "Getty Images 已与 OpenAI 签署了一项多年许可协议。文章《Getty Images 达成多年协议，将授权照片引入 ChatGPT 搜索》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=36907": {
+"t": "Google Deepmind 与 A24 合作开展 AI 电影制作研究",
+"s": "Google Deepmind 与电影制片厂 A24 将建立长期研究合作伙伴关系。据《华尔街日报》报道，Google 还向 A24 投资约 7500 万美元。本文《Google Deepmind 与 A24 合作开展 AI 电影制作研究》首发于 The Decoder。"
+},
+"https://the-decoder.com/?p=36904": {
+"t": "五眼情报联盟称前沿AI模型可能在数月内重塑网络攻击行动",
+"s": "五眼情报机构警告：能够摧毁政府和企业的人工智能模型仅需数月即可实现。据《卫报》报道，这一观点来自五眼情报联盟。文章《五眼情报联盟称前沿AI模型可能在数月内重塑网络攻击行动》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3134762": {
+"t": "专为增长而设的创始人大会：TechCrunch创始人峰会门票价格将于6月26日上调",
+"s": "在太平洋时间6月26日晚上11:59前购买TechCrunch创始人峰会2026门票，可节省高达190美元。该峰会专为创始人设计，将于11月4日在波士顿举行。立即注册。"
+},
+"https://the-decoder.com/?p=36900": {
+"t": "Vibecoding正成为软件收购中的决定性测试",
+"s": "为评估潜在收购目标的竞争优势，贝恩公司利用Vibecoding复制其软件。这些AI复制品已开始影响具体的采购决策。本文《Vibecoding正成为软件收购中的决定性测试》最初发表于The Decoder。"
+},
+"https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/": {
+"t": "Anthropic 如何可能因自身言论陷入AI出口禁令",
+"s": "该公司对先进AI危险的警告远多于竞争对手OpenAI。"
+},
+"https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": {
+"t": "PP-OCRv6 登陆 Hugging Face：支持50种语言的OCR，参数量从1.5M到34.5M",
+"s": ""
+},
+"https://the-decoder.com/?p=36896": {
+"t": "三星在韩国向员工推出ChatGPT Enterprise和Codex",
+"s": "三星电子正在向韩国所有员工以及全球设备体验（DX）部门的全体员工部署ChatGPT Enterprise和Codex。本文《三星在韩国向员工推出ChatGPT Enterprise和Codex》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80648": {
+"t": "MoonMath AI 开源针对AMD MI300X的HIP注意力内核，在每种形状和舍入模式下均超越AITER v3",
+"s": "该HIP内核采用单指令汇编封装和八波流水线技术，在MI300X上性能优于AMD的AITER v3。本文MoonMath AI开源针对AMD MI300X的HIP注意力内核，在每种形状和舍入模式下均超越AITER v3最早出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=80645": {
+"t": "如何使用Prefab响应式UI组件和静态HTML导出设计Python优先的交互式仪表板",
+"s": "在本教程中，我们构建了一个完全用Python创建交互式仪表板的Prefab应用。我们设计了一个包含响应式状态、图表、表格、筛选器、表单、选项卡和指标的操作仪表板。我们生成了合成管道监控数据，并将其连接到实时UI控件。然后，我们将应用导出为静态HTML，并直接在Google Colab中预览。这篇文章《如何使用Prefab响应式UI组件和静态HTML导出设计Python优先的交互式仪表板》最初出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=80639": {
+"t": "智能体记忆的七种类型：AI工程师技术指南",
+"s": "大型语言模型默认是无状态的。智能体记忆解决了这一问题。本指南详细解析了全部七种记忆类型——工作记忆、语义记忆、情景记忆、程序记忆、检索记忆、参数记忆和前瞻记忆。涵盖每种记忆存储的内容、存储位置以及构建时机，并附有对比表格和可运行的Python代码。本文首发于MarkTechPost。"
 }
 }
