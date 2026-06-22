@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 22 Jun 2026 02:56:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 09:40:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sakana AI的Fugu系统协调多个大语言模型，对标Anthropic的Fable与Mythos基准测试</title>
+<link>https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36887</guid>
+<pubDate>Mon, 22 Jun 2026 08:18:59 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】日本AI初创公司Sakana AI推出Fugu系统，该系统可动态协调多个AI模型，与Anthropic的Fable 5等领先产品展开竞争。该方案还旨在减少对单一AI提供商的依赖。本文《Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>三星电子向员工开放ChatGPT与Codex使用权限</title>
 <link>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</link>
@@ -134,14 +142,6 @@
 <pubDate>Fri, 19 Jun 2026 22:40:14 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】过去30年的经验证明，阻止网络安全相关软件的流通是无效的。目前尚不清楚为何对Anthropic的网络安全模型Mythos采取类似措施会奏效。<br/><br/><a href="https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>挪威禁止小学使用生成式AI工具，以保护儿童基础学习技能</title>
-<link>https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36822</guid>
-<pubDate>Fri, 19 Jun 2026 18:45:10 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】挪威将从8月底起禁止小学使用生成式AI工具。1至7年级学生完全不得使用AI；中学仅在监督下允许使用。首相斯托尔表示，儿童必须首先“学会阅读、写作和数学”。本文《挪威禁止小学使用生成式AI工具，以保护儿童基础学习技能》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>美国政府封禁Anthropic是否意外助长了品牌知名度？</title>
