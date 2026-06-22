@@ -1058,5 +1058,69 @@
 "https://www.marktechpost.com/?p=80639": {
 "t": "智能体记忆的七种类型：AI工程师技术指南",
 "s": "大型语言模型默认是无状态的。智能体记忆解决了这一问题。本指南详细解析了全部七种记忆类型——工作记忆、语义记忆、情景记忆、程序记忆、检索记忆、参数记忆和前瞻记忆。涵盖每种记忆存储的内容、存储位置以及构建时机，并附有对比表格和可运行的Python代码。本文首发于MarkTechPost。"
+},
+"https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/": {
+"t": "通用汽车在裁员1300人后，于旗舰电动汽车工厂安装机器人",
+"s": "美国汽车工人联合会警告称，机器人自动化预示着“黑灯工厂”的未来即将到来。"
+},
+"https://techcrunch.com/?p=3135102": {
+"t": "AI世界正变得“循环往复”",
+"s": "这种循环通过授权一群智能体在后台持续、无休止地工作，将自主AI向前推进了一步。"
+},
+"https://www.marktechpost.com/?p=80655": {
+"t": "xAI 在 Grok Build 中推出 /goal 功能，为多步骤编码任务增加带内置验证的长时间自主执行能力",
+"s": "xAI 在 Grok Build 中引入了 /goal 模式，这是一种用于长时间自主任务执行的模式。你只需交出一个目标，代理便会规划方法、执行进度检查清单，并验证结果，直至目标完成。本文 xAI Launches /goal in Grok Build, Adding Long-Running Autonomous Execution With Built-In Verification for Multi-Step Coding Tasks 最初发表于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3134907": {
+"t": "AI芯片制造商Groq确认融资6.5亿美元，并在英伟达200亿美元非收购式招聘交易后重新招兵买马",
+"s": "一家AI公司在经历非收购式招聘交易后会做什么？Groq筹集了资金，正大力发展其neocloud业务，并招聘新高管。"
+},
+"https://techcrunch.com/?p=3135044": {
+"t": "英伟达希望减少数据中心用水，但这不等于解决AI的水资源问题",
+"s": "英伟达宣布了一种新型冷却系统，可减少数据中心内部的用水量。但这并未触及AI最大的水资源消耗来源——化石燃料发电厂。"
+},
+"https://techcrunch.com/?p=3135026": {
+"t": "Google DeepMind 斥资7500万美元与A24合作，押注AI在好莱坞的未来",
+"s": "Google DeepMind 与 A24 联手打造AI电影制作工具。"
+},
+"https://www.marktechpost.com/?p=80652": {
+"t": "Sakana AI 发布 Sakana Fugu：一种在可交换前沿大语言模型池中路由任务的编排模型",
+"s": "Fugu 和 Fugu Ultra 在可交换模型池中路由任务，在大多数编码、推理和智能体基准测试中领先。该文章《Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs》最初出现在 MarkTechPost 上。"
+},
+"https://the-decoder.com/?p=36923": {
+"t": "Google 将 Interactions API 设为 Gemini 模型和智能体的默认接口",
+"s": "Google Deepmind 已将 Interactions API 设为 Gemini 模型和智能体的默认接口。该接口取代了旧的 generateContent API，采用简化模式，使用类型化步骤替代基于角色的结构。今后，新的智能体功能将仅通过此 API 发布。本文《Google makes Interactions API the default interface for Gemini models and agents》最初发表于 The Decoder。"
+},
+"5X4Vz9KDcjIBXgHIFSuJFZ": {
+"t": "我们如何在hyper HTTP库中发现了一个漏洞",
+"s": "通过重构Images绑定，我们意外发现了一个存在于开源hyper库多个主要版本中的漏洞。"
+},
+"https://techcrunch.com/?p=3134778": {
+"t": "亚马逊在印度测试支持印地语的 Alexa+",
+"s": "亚马逊计划将其新型对话式 AI 助手 Alexa+ 的覆盖范围扩展至印度，并邀请该国用户测试印地语版本。"
+},
+"https://github.blog/?p=96917": {
+"t": "从承诺到实践：构建更具包容性的开源生态系统",
+"s": "了解我们在实现无障碍目标方面取得的进展，以及你如何帮助让开源变得更加包容。这篇文章《从承诺到实践：构建更具包容性的开源生态系统》最初出现在GitHub博客上。"
+},
+"https://the-decoder.com/?p=36919": {
+"t": "Anthropic与美光计划共同设计AI内存架构",
+"s": "美光正在投资Anthropic的H轮融资，并签署多年协议，为Claude的基础设施供应内存。Anthropic联合创始人Tom Brown称内存对训练和运行Claude至关重要。批评者认为此类循环交易正在催生泡沫。美光股价在一年内飙升逾十倍。本文《Anthropic与美光计划共同设计AI内存架构》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3133990": {
+"t": "SpaceX与开源AI实验室Reflection AI签署计算协议",
+"s": "Reflection AI将从2026年7月1日起至2029年，每月支付1.5亿美元，以即时获取Nvidia最新GB300 AI芯片及位于田纳西州孟菲斯附近的SpaceX Colossus 2数据中心的配套硬件。"
+},
+"https://openai.com/index/daybreak-securing-the-world": {
+"t": "Daybreak：保护全球每一家组织的工具",
+"s": "OpenAI 推出全新 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，旨在帮助组织大规模发现、验证并修复漏洞。"
+},
+"https://openai.com/index/patch-the-planet": {
+"t": "修补地球：Daybreak计划助力开源维护者",
+"s": "OpenAI推出\"修补地球\"计划，这是一项Daybreak倡议，通过人工智能与专家评审帮助开源维护者发现、验证并修复漏洞。"
+},
+"https://openai.com/index/codex-maxxing-long-running-work": {
+"t": "Codex最大化处理长时间运行的工作",
+"s": "了解Jason Liu如何利用Codex来保留上下文、管理复杂项目，并帮助工作超越单次提示的局限。"
 }
 }
