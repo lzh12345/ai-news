@@ -1154,5 +1154,33 @@
 "https://openai.com/index/omio": {
 "t": "Omio如何构建对话式旅行的未来",
 "s": "了解Omio如何利用OpenAI驱动对话式旅行体验、加速产品开发，并转型为一家AI原生公司。"
+},
+"https://techcrunch.com/?p=3135249": {
+"t": "距离 TechCrunch 2026 创始人峰会早鸟优惠结束仅剩4天，最高可省190美元",
+"s": "距离 TechCrunch 2026 创始人峰会（终极创始人训练营）早鸟票价优惠结束仅剩4天，最高可省190美元。优惠截止时间为太平洋时间6月26日晚上11:59。请在此注册。"
+},
+"https://techcrunch.com/?p=3135158": {
+"t": "Fika Jobs 获400万美元融资，打造AI面试官主导的视频优先招聘平台",
+"s": "斯德哥尔摩初创公司Fika Jobs正在构建一个视频优先的招聘平台，将AI面试代理与短视频个人简介相结合，打造出类似LinkedIn与TikTok混合体的体验。"
+},
+"https://huggingface.co/blog/ibm-research/cuga-apps": {
+"t": "使用CUGA构建真正的智能体应用：轻量级框架上的二十余个实用示例",
+"s": ""
+},
+"https://the-decoder.com/?p=36933": {
+"t": "字节跳动Seedance 2.5突破AI视频生成30秒时长限制",
+"s": "字节跳动在火山引擎FORCE大会上发布了五款新AI模型。其中核心产品Seedance 2.5是一款视频模型，预计于7月初上线。本文《字节跳动Seedance 2.5突破AI视频生成30秒时长限制》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=36932": {
+"t": "Cursor 发布自有 AI 模型、新 Git 平台及移动应用",
+"s": "Cursor 披露了其首个完全内部训练的 AI 模型的新细节，并宣布了两款新产品。本文《Cursor announces its own AI model, a new Git platform, and a mobile app》首发于 The Decoder。"
+},
+"https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/": {
+"t": "如何戳破AI泡沫：直击其根源",
+"s": "科幻作家/科技记者科里·多克托罗谈论他的新书《AI之后的生活：反向半人马指南》。"
+},
+"metric-dependent-annotation-saturation": {
+"t": "基于度量的标注饱和：从标签分布中学习",
+"s": "当标注者对标签存在分歧时，分歧本身即携带信号——而捕捉该信号所需的标注者数量取决于评估指标。我们基于ChaosNLI（一个为每项提供100个独立标注者判断的数据集）对标签分布进行子采样，并微调NLI模型，识别出度量依赖的饱和现象。在我们的三分类NLI场景中，熵相关性（即模型能否识别哪些项目引发分歧）需要约20-50名标注者才能收敛，而分布匹配（KL散度）在约10名标注者时即达到饱和（在五个模型中实现87-95%的改进）。"
 }
 }
