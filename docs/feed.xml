@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 22 Jun 2026 21:56:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 02:31:41 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>2026年科技行业大规模裁员名单：雇主以AI为由</title>
+<link>https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132769</guid>
+<pubDate>Tue, 23 Jun 2026 01:27:55 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】按时间倒序排列，汇总今年因明确提及AI因素而宣布大规模裁员的知名科技公司。<br/><br/><a href="https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 启动新计划，助力发现并修复开源漏洞</title>
+<link>https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3135162</guid>
+<pubDate>Tue, 23 Jun 2026 00:11:31 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI 正试图解决开源软件社区的安全问题。<br/><br/><a href="https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>通用汽车在裁员1300人后，于旗舰电动汽车工厂安装机器人</title>
 <link>https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/</link>
@@ -176,20 +192,20 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/PaddlePaddle/pp-ocrv6">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Daybreak：保护全球每一家组织的工具</title>
-<link>https://openai.com/index/daybreak-securing-the-world</link>
-<guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
-<pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI 推出全新 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，旨在帮助组织大规模发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/daybreak-securing-the-world">阅读原文</a>]]></description>
-</item>
-<item>
 <title>修补地球：Daybreak计划助力开源维护者</title>
 <link>https://openai.com/index/patch-the-planet</link>
 <guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
 <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI推出"修补地球"计划，这是一项Daybreak倡议，通过人工智能与专家评审帮助开源维护者发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/patch-the-planet">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Daybreak：保护全球每一家组织的工具</title>
+<link>https://openai.com/index/daybreak-securing-the-world</link>
+<guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
+<pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI 推出全新 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，旨在帮助组织大规模发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/daybreak-securing-the-world">阅读原文</a>]]></description>
 </item>
 <item>
 <title>三星在韩国向员工推出ChatGPT Enterprise和Codex</title>
@@ -400,28 +416,12 @@
 <description><![CDATA[【techcrunch.com】有一种商业逻辑与ASML会冒险违反出口许可、为中国客户提供设备的说法相悖。<br/><br/><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>消息来源：Elastic 同意以最高8500万美元收购CRV支持的DeductiveAI</title>
-<link>https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3134483</guid>
-<pubDate>Fri, 19 Jun 2026 00:51:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】DeductiveAI是一家利用人工智能捕捉并修复软件漏洞的初创公司，成立仅三年。<br/><br/><a href="https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>面对中国崛起，台湾加大无人机生产以强化防务并供应美军</title>
 <link>https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/</guid>
 <pubDate>Thu, 18 Jun 2026 21:21:26 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】台湾的无人机防务支出计划也可能推动海外业务增长。<br/><br/><a href="https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI推理初创公司Baseten据报在上一轮巨额融资数月后再筹15亿美元</title>
-<link>https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3134299</guid>
-<pubDate>Thu, 18 Jun 2026 21:20:13 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】初创公司Baseten据报即将完成一轮15亿美元融资，估值达130亿美元，随着“推理淘金热”持续升温。<br/><br/><a href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>MosaicLeaks：你的研究代理能保守秘密吗？</title>
