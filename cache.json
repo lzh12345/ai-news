@@ -1142,5 +1142,17 @@
 "https://huggingface.co/blog/local-models-pr-triage": {
 "t": "我们免费让本地模型对OpenClaw仓库进行了分诊！*",
 "s": ""
+},
+"https://the-decoder.com/?p=36927": {
+"t": "OpenAI称新版GPT-5.5-Cyber在网络安全基准测试中超越Anthropic的Mythos",
+"s": "OpenAI正在扩展其Daybreak网络安全计划，推出更新版Codex Security插件、完整的GPT-5.5-Cyber模型，以及一个包含超过25家安全公司和多个政府的合作伙伴网络。重点从发现漏洞转向自动修补漏洞。本文《OpenAI称新版GPT-5.5-Cyber在网络安全基准测试中超越Anthropic的Mythos》首发于The Decoder。"
+},
+"https://huggingface.co/blog/huggingface-hub-release-ci": {
+"t": "每周发布huggingface_hub，融合AI、开放工具与人工审核",
+"s": ""
+},
+"https://openai.com/index/omio": {
+"t": "Omio如何构建对话式旅行的未来",
+"s": "了解Omio如何利用OpenAI驱动对话式旅行体验、加速产品开发，并转型为一家AI原生公司。"
 }
 }
