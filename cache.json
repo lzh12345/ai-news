@@ -1130,5 +1130,17 @@
 "https://techcrunch.com/?p=3135162": {
 "t": "OpenAI 启动新计划，助力发现并修复开源漏洞",
 "s": "OpenAI 正试图解决开源软件社区的安全问题。"
+},
+"https://www.marktechpost.com/?p=80661": {
+"t": "Prime Intellect 发布 prime-rl 0.6.0，用于在智能体强化学习工作负载上训练万亿参数 MoE 模型",
+"s": "Prime Intellect 发布了 prime-rl 0.6.0，这是一个用于在万亿参数混合专家模型上进行异步强化学习的开放框架。该框架在 28 个 H200 节点上，以高达 131k 的序列长度、低于 5 分钟的步进时间和 256 次展开，在 SWE 任务上训练了 GLM-5。本文详细解析了这些数字背后的推理和训练优化——包括 FP8 推理、宽专家并行、预填充/解码分离、路由器重放以及 3D 并行（FSDP、EP、CP）。"
+},
+"https://www.marktechpost.com/?p=80658": {
+"t": "GLM-5.2 OpenAI兼容API：推理努力、函数调用与长上下文检索的实践指南",
+"s": "我们利用GLM-5.2托管的OpenAI兼容API构建了一个实用工作流，而非在本地运行模型。我们设置了多个提供商，安全加载API密钥，并创建了一个可复用的聊天封装器。随后，我们测试了思考努力控制、流式推理、函数调用、工具使用代理、结构化JSON输出以及长上下文检索。最后，我们进行了令牌和成本核算，确保每个演示都可量化。本文《GLM-5.2 OpenAI兼容API：推理努力、函数调用与长上下文检索的实践指南》首发于MarkTechPost。"
+},
+"https://huggingface.co/blog/local-models-pr-triage": {
+"t": "我们免费让本地模型对OpenClaw仓库进行了分诊！*",
+"s": ""
 }
 }

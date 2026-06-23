@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 23 Jun 2026 02:31:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 07:41:28 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Prime Intellect 发布 prime-rl 0.6.0，用于在智能体强化学习工作负载上训练万亿参数 MoE 模型</title>
+<link>https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80661</guid>
+<pubDate>Tue, 23 Jun 2026 07:20:44 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Prime Intellect 发布了 prime-rl 0.6.0，这是一个用于在万亿参数混合专家模型上进行异步强化学习的开放框架。该框架在 28 个 H200 节点上，以高达 131k 的序列长度、低于 5 分钟的步进时间和 256 次展开，在 SWE 任务上训练了 GLM-5。本文详细解析了这些数字背后的推理和训练优化——包括 FP8 推理、宽专家并行、预填充/解码分离、路由器重放以及 3D 并行（FSDP、EP、CP）。<br/><br/><a href="https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GLM-5.2 OpenAI兼容API：推理努力、函数调用与长上下文检索的实践指南</title>
+<link>https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80658</guid>
+<pubDate>Tue, 23 Jun 2026 06:35:05 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们利用GLM-5.2托管的OpenAI兼容API构建了一个实用工作流，而非在本地运行模型。我们设置了多个提供商，安全加载API密钥，并创建了一个可复用的聊天封装器。随后，我们测试了思考努力控制、流式推理、函数调用、工具使用代理、结构化JSON输出以及长上下文检索。最后，我们进行了令牌和成本核算，确保每个演示都可量化。本文《GLM-5.2 OpenAI兼容API：推理努力、函数调用与长上下文检索的实践指南》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>2026年科技行业大规模裁员名单：雇主以AI为由</title>
 <link>https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
@@ -192,20 +208,20 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/PaddlePaddle/pp-ocrv6">阅读原文</a>]]></description>
 </item>
 <item>
-<title>修补地球：Daybreak计划助力开源维护者</title>
-<link>https://openai.com/index/patch-the-planet</link>
-<guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
-<pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI推出"修补地球"计划，这是一项Daybreak倡议，通过人工智能与专家评审帮助开源维护者发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/patch-the-planet">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Daybreak：保护全球每一家组织的工具</title>
 <link>https://openai.com/index/daybreak-securing-the-world</link>
 <guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
 <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI 推出全新 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，旨在帮助组织大规模发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/daybreak-securing-the-world">阅读原文</a>]]></description>
+</item>
+<item>
+<title>修补地球：Daybreak计划助力开源维护者</title>
+<link>https://openai.com/index/patch-the-planet</link>
+<guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
+<pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI推出"修补地球"计划，这是一项Daybreak倡议，通过人工智能与专家评审帮助开源维护者发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/patch-the-planet">阅读原文</a>]]></description>
 </item>
 <item>
 <title>三星在韩国向员工推出ChatGPT Enterprise和Codex</title>
@@ -238,6 +254,14 @@
 <pubDate>Mon, 22 Jun 2026 00:13:29 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】在本教程中，我们构建了一个完全用Python创建交互式仪表板的Prefab应用。我们设计了一个包含响应式状态、图表、表格、筛选器、表单、选项卡和指标的操作仪表板。我们生成了合成管道监控数据，并将其连接到实时UI控件。然后，我们将应用导出为静态HTML，并直接在Google Colab中预览。这篇文章《如何使用Prefab响应式UI组件和静态HTML导出设计Python优先的交互式仪表板》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们免费让本地模型对OpenClaw仓库进行了分诊！*</title>
+<link>https://huggingface.co/blog/local-models-pr-triage</link>
+<guid isPermaLink="false">https://huggingface.co/blog/local-models-pr-triage</guid>
+<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/local-models-pr-triage">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Codex最大化处理长时间运行的工作</title>
@@ -334,22 +358,6 @@
 <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】詹珀并非唯一离开谷歌DeepMind的大牌人物。<br/><br/><a href="https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Yandex 开源 YaFF：为 Protobuf 打造的零拷贝线格式，读取速度接近结构体</title>
-<link>https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80627</guid>
-<pubDate>Sat, 20 Jun 2026 09:23:59 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】本文中，我们探讨了 Yandex 为 Protobuf 生态系统开源的零拷贝线格式 YaFF。我们保持 .proto 文件作为唯一数据源，仅改变数据在内存中的存储方式。我们逐一介绍了其四种布局——固定布局、扁平布局、稀疏布局和动态布局，并展示了基准测试结果：扁平布局的读取速度达到原始 C++ 结构体的 1.2 倍以内。我们还讨论了其适用场景，包括广告推荐系统在生产规模下实现 10–20% 的 CPU 节省。本文《Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>如何使用基础模型和自动异常检测，通过TimeCopilot构建预测管道</title>
-<link>https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80624</guid>
-<pubDate>Sat, 20 Jun 2026 09:05:23 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】我们基于一组真实的航空公司乘客数据以及一个注入异常值的合成季节性序列，使用TimeCopilot构建了一个端到端的预测工作流。我们通过滚动交叉验证和多种误差指标，评估了统计模型、基础模型以及可选的GPU模型。我们生成了带有预测区间的概率预测，可视化未来趋势，并标记异常观测值。随后，我们探索了TimeCopilot可选的LLM代理，该代理能够选择模型并解释其预测结果。<br/><br/><a href="https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>加密、间谍软件，再到Mythos：历史表明网络出口管制为何无效</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 18 Jun 2026 11:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】了解GPT-5.5 Instant如何通过更强的推理能力、更优的上下文理解、更清晰的沟通以及基于医生评估的优化，改善ChatGPT在健康与保健方面的回答。<br/><br/><a href="https://openai.com/index/improving-health-intelligence-in-chatgpt">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用人工智能帮助医生诊断影响儿童的罕见遗传疾病</title>
-<link>https://openai.com/index/diagnose-rare-childhood-diseases</link>
-<guid isPermaLink="false">https://openai.com/index/diagnose-rare-childhood-diseases</guid>
-<pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】研究人员使用OpenAI推理模型协助诊断罕见疾病，在先前未解决的病例中识别出18种新诊断。<br/><br/><a href="https://openai.com/index/diagnose-rare-childhood-diseases">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
