@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 23 Jun 2026 21:25:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 02:32:25 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>印度MoEngage押注营销的未来是数百万个AI代理</title>
+<link>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3135480</guid>
+<pubDate>Tue, 23 Jun 2026 23:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这笔全现金交易让MoEngage获得了为每位客户分配AI代理的技术。<br/><br/><a href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>甲骨文裁员21000人，助力其债务驱动的AI投资</title>
 <link>https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/</link>
@@ -328,20 +336,20 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/PaddlePaddle/pp-ocrv6">阅读原文</a>]]></description>
 </item>
 <item>
-<title>修补地球：Daybreak计划助力开源维护者</title>
-<link>https://openai.com/index/patch-the-planet</link>
-<guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
-<pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI推出"修补地球"计划，这是一项Daybreak倡议，通过人工智能与专家评审帮助开源维护者发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/patch-the-planet">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Daybreak：保护全球每一家组织的工具</title>
 <link>https://openai.com/index/daybreak-securing-the-world</link>
 <guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
 <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI 推出全新 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，旨在帮助组织大规模发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/daybreak-securing-the-world">阅读原文</a>]]></description>
+</item>
+<item>
+<title>修补地球：Daybreak计划助力开源维护者</title>
+<link>https://openai.com/index/patch-the-planet</link>
+<guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
+<pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI推出"修补地球"计划，这是一项Daybreak倡议，通过人工智能与专家评审帮助开源维护者发现、验证并修复漏洞。<br/><br/><a href="https://openai.com/index/patch-the-planet">阅读原文</a>]]></description>
 </item>
 <item>
 <title>我们免费让本地模型对OpenClaw仓库进行了分诊！*</title>
@@ -414,14 +422,6 @@
 <pubDate>Fri, 19 Jun 2026 22:40:14 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】过去30年的经验证明，阻止网络安全相关软件的流通是无效的。目前尚不清楚为何对Anthropic的网络安全模型Mythos采取类似措施会奏效。<br/><br/><a href="https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>美国政府封禁Anthropic是否意外助长了品牌知名度？</title>
-<link>https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3134608</guid>
-<pubDate>Fri, 19 Jun 2026 16:08:17 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】就在上周即将结束时，美国政府以国家安全为由，强制Anthropic撤下其两款最新模型Fable 5和Mythos 5，此前亚马逊研究人员据称找到了一种绕过Fable 5防护机制的方法。此后，网络安全研究人员签署公开信，称此举危险，而Anthropic本身也指出其他模型存在相同的越狱漏洞。那么，这是否……<br/><br/><a href="https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>我们如何构建内部数据分析代理</title>
