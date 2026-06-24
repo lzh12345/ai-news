@@ -1254,5 +1254,41 @@
 "77AgsHNNnpUDvP0Z6gqgp6": {
 "t": "通过OAuth为所有开发者解锁Cloudflare应用生态系统",
 "s": "自管理OAuth现已面向Cloudflare上的所有开发者开放。以下是我们在零停机迁移核心OAuth引擎过程中所采取的实现方式。"
+},
+"https://techcrunch.com/?p=3135724": {
+"t": "Facebook 为创作者推出AI伴侣应用",
+"s": "这款新应用目前正在与部分创作者进行测试，其中内置了Facebook最近推出的AI创作者助手。"
+},
+"https://the-decoder.com/?p=36960": {
+"t": "Snowflake CEO发现GLM-5.2以极低成本与Opus 4.7竞争",
+"s": "智谱AI的GLM-5.2在Snowflake基准测试中，以每输出token五分之一的价格，在103个编码任务上几乎与Claude Opus 4.7持平。但该中国模型每个任务消耗的token数几乎是后者的两倍。尽管如此，这一价格差距正给Anthropic和OpenAI带来实际压力，并可能动摇西方AI实验室的估值。本文《Snowflake CEO发现GLM-5.2以极低成本与Opus 4.7竞争》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=36964": {
+"t": "Figma在Config 2026押注人类判断力，但其画布背后的AI却属于他人",
+"s": "在Config 2026大会上，Figma将其画布转变为一个集代码、动画、着色器和AI代理于一体的完整工作空间。但驱动这一切的智能能力均来自API提供商，这挤压了利润空间。而其中一家提供商如今正在构建与之竞争的设计工具。本文《Figma在Config 2026押注人类判断力，但其画布背后的AI却属于他人》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3135736": {
+"t": "Agility Robotics 计划通过 SPAC 上市，交易估值 25 亿美元",
+"s": "人形机器人初创公司 Agility Robotics 于 2015 年从俄勒冈州立大学分拆出来，预计将通过此次交易获得 6.2 亿美元收益。"
+},
+"https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": {
+"t": "在 Gemini 3.5 Flash 中引入计算机使用功能",
+"s": "（无）"
+},
+"https://techcrunch.com/?p=3135624": {
+"t": "Figma 新版本新增代码层、动画支持及更多AI功能",
+"s": "Figma 此次更新新增了代码层、对动态效果和着色器的支持，以及利用AI为各类任务创建自定义插件的能力。"
+},
+"https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": {
+"t": "使用NVIDIA NeMo AutoModel加速Transformer微调",
+"s": ""
+},
+"https://techcrunch.com/?p=3135687": {
+"t": "OpenAI 发布首款定制芯片，由博通制造",
+"s": "这款名为 Jalapeño 的新处理器专为 OpenAI 推理系统的独特需求而设计。"
+},
+"https://huggingface.co/blog/ffasr-leaderboard": {
+"t": "FFASR排行榜发布：在真实世界中基准测试语音识别技术",
+"s": ""
 }
 }
