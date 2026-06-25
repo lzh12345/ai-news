@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 25 Jun 2026 18:04:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 21:24:17 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>一条命令在 HF 任务上运行 vLLM 服务器</title>
+<link>https://huggingface.co/blog/vllm-jobs</link>
+<guid isPermaLink="false">https://huggingface.co/blog/vllm-jobs</guid>
+<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/vllm-jobs">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Patronus AI 获5000万美元融资，打造“数字世界”以压力测试AI智能体</title>
+<link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3136499</guid>
+<pubDate>Thu, 25 Jun 2026 20:19:25 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】由前Meta AI研究员创立的智能体测试初创公司Patronus AI，其投资者表示，该公司正面临近乎无法满足的市场需求。<br/><br/><a href="https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Notion 关闭受 Skiff 影响的邮件应用，因多数用户改用 AI 代理</title>
+<link>https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</link>
+<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</guid>
+<pubDate>Thu, 25 Jun 2026 19:04:57 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Notion 正“全力投入使用代理来管理你的收件箱”。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌终于推出金融安卓应用，承诺2026年晚些时候发布iOS版本</title>
+<link>https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/</link>
+<guid isPermaLink="false">https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/</guid>
+<pubDate>Thu, 25 Jun 2026 18:38:51 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】历经20年，金融应用终于面世，并恰逢其时地融入了大量人工智能功能。<br/><br/><a href="https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic 指控阿里巴巴无视特朗普禁令，攻击 Claude 并窃取技术能力</title>
 <link>https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/</link>
@@ -22,14 +54,6 @@
 <pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】数据显示，尽管ChatGPT在市场中占据主导地位，但付费使用AI的消费者正越来越多地选择Anthropic的Claude。<br/><br/><a href="https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepReinforce 发布 Ornith-1.0：一个自主学习强化学习框架的开源编程模型系列</title>
-<link>https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80707</guid>
-<pubDate>Thu, 25 Jun 2026 17:11:37 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepReinforce 发布了 Ornith-1.0，这是一个基于 Gemma 4 和 Qwen 3.5 构建的开源编程模型系列。该模型不依赖固定框架，而是在强化学习过程中自主学习其脚手架。其旗舰版 397B 模型在 SWE-Bench Verified 上取得了 82.4 的分数，所有权重均采用 MIT 许可证发布。本文 DeepReinforce 发布 Ornith-1.0：一个自主学习强化学习框架的开源编程模型系列 最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>General Intuition 豪掷23亿美元，押注电子游戏可训练AI代理适应现实世界</title>
@@ -168,14 +192,6 @@
 <description><![CDATA[【the-decoder.com】谷歌已将“电脑使用”功能直接集成到Gemini 3.5 Flash中，使模型能够自主操作电脑、浏览器和移动设备。在OSWorld基准测试中，它获得了78.4分，与GPT-5.5水平相当。开发者可通过Gemini API构建用于软件测试或办公自动化的智能体。本文《谷歌将电脑控制功能直接融入Gemini 3.5 Flash，让模型能查看并操作你的屏幕》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-bakes-computer-control-directly-into-gemini-3-5-flash-letting-the-model-see-and-operate-your-screen/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>百度发布Unlimited OCR，一款3B参数模型，实现长文档解析中KV缓存保持稳定</title>
-<link>https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80702</guid>
-<pubDate>Thu, 25 Jun 2026 05:39:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】百度开源了Unlimited OCR，这是一款3B参数的MoE模型，能够单次前向传播解析数十页文档。其参考滑动窗口注意力（R-SWA）机制使KV缓存保持恒定，因此随着输出增长，内存和延迟保持稳定。该模型在OmniDocBench v1.5上得分为93.23，比DeepSeek OCR基线高出6.22分，采用MIT许可证。文章《百度发布Unlimited OCR，一款3B参数模型，实现长文档解析中KV缓存保持稳定》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI代理如何改变工作方式</title>
 <link>https://openai.com/index/how-agents-are-transforming-work</link>
 <guid isPermaLink="false">https://openai.com/index/how-agents-are-transforming-work</guid>
@@ -248,28 +264,12 @@
 <description><![CDATA[【techcrunch.com】Tokenmaxxing时代短暂。如今，我们似乎正步入Token配给时代。<br/><br/><a href="https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Gradium 推出 stt-translate 和 s2s-translate，实时语音翻译模型在准确性和延迟上超越 gpt-realtime-translate</title>
-<link>https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80696</guid>
-<pubDate>Wed, 24 Jun 2026 20:00:21 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Gradium 发布了两款实时语音翻译模型 stt-translate 和 s2s-translate，覆盖英语、法语、德语、西班牙语和葡萄牙语，共 20 种语言对。这些模型将标准的三模型级联简化为两个，通过单程 WebSocket 将单次转录与翻译结合，并搭配 Gradium TTS 阶段。Gradium 报告称，其模型在准确性与延迟的权衡上优于 gpt-realtime-translate 和 gemini-3.5-live-translate，同时支持输出语音选择和克隆。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI称ChatGPT Instant现在能更好地理解用户真实意图</title>
 <link>https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=36977</guid>
 <pubDate>Wed, 24 Jun 2026 19:54:23 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI正在更新其最常用的ChatGPT模型GPT-5.5 Instant。此次更新聚焦于对话质量，提升了意图识别能力、多轮对话的上下文理解，以及对复杂多条件提示的处理可靠性。本文《OpenAI称ChatGPT Instant现在能更好地理解用户真实意图》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>如何设计一个具备工具、记忆、权限、技能和多智能体协调能力的OpenHarness风格智能体运行时</title>
-<link>https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80693</guid>
-<pubDate>Wed, 24 Jun 2026 19:08:36 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们将从零开始构建一个OpenHarness风格的智能体框架，以了解实际智能体系统的工作原理。我们将重新创建核心构建模块：工具使用、类型化工具模式、权限、生命周期钩子、记忆、技能、上下文压缩、重试逻辑、成本跟踪以及多智能体协调。我们将暴露完整的控制流程，而不是将框架视为黑盒。我们保持所有代码可运行，因此无需API密钥或额外基础设施即可进行实验。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Facebook 为创作者推出AI伴侣应用</title>
@@ -336,38 +336,6 @@
 <description><![CDATA[【techcrunch.com】在早鸟价于太平洋时间6月26日晚上11:59结束前，您仅剩3天时间，可享受TechCrunch 2026创始人峰会门票最高190美元的优惠。立即在此注册。<br/><br/><a href="https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用Graphify和NetworkX映射Python代码库结构：上帝节点、社区与架构可视化</title>
-<link>https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80690</guid>
-<pubDate>Wed, 24 Jun 2026 09:36:59 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们构建了一个完全离线的Graphify管道，将多模块Python应用程序转化为知识图谱。我们安装Graphify，生成一个连接的示例应用，并使用tree-sitter在本地提取图谱，无需API密钥或LLM后端。我们将graph.json加载到NetworkX中，分析文件类型、关系类型、中心性得分、社区检测和最短路径。然后，我们创建静态和交互式可视化，展示模块、类、函数和数据库对象之间的连接方式。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nous Research 为 Hermes Agent 技能系统新增 /learn 功能，无需手动编写 SKILL.md 即可将工作流捕获为斜杠命令</title>
-<link>https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80687</guid>
-<pubDate>Wed, 24 Jun 2026 09:21:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Nous Research 已为 Hermes Agent 技能系统新增 /learn 功能。该命令可从本地目录、文档 URL、历史对话或粘贴的笔记中自动生成符合标准的 SKILL.md 文件。实时代理使用自身工具获取素材，然后编写技能——无需手动编写，也无需单独的摄取引擎。本文介绍了其工作原理、适用场景以及在使用输出前需审查的要点。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年16款最佳生成式AI编码工具对比：功能与最佳适用场景</title>
-<link>https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=32919</guid>
-<pubDate>Wed, 24 Jun 2026 08:12:27 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】生成式AI已彻底改变了软件的构建方式。最初只是逐行自动补全，如今已扩展到完整的应用生成、多智能体构建流水线，以及面向整个代码库的自然语言接口。基于代码训练的大型语言模型能够理解上下文、遵循意图，并在几乎无需手动设置的情况下生成可运行的前端、后端和基础设施。对于初级AI工程师、软件工程师等而言，…… 本文《2026年16款最佳生成式AI编码工具对比：功能与最佳适用场景》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DFlash投机解码并行生成完整Token块，在NVIDIA Blackwell上实现高达15倍吞吐量提升</title>
-<link>https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80675</guid>
-<pubDate>Wed, 24 Jun 2026 07:21:10 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】加州大学圣地亚哥分校的DFlash采用轻量级块扩散模型替代自回归式草稿生成，实现投机解码。它通过单次前向传播生成完整Token块，并借助KV注入机制以目标隐藏特征为条件。论文报告称，在Qwen3-8B模型上实现最高6.08倍无损加速，而NVIDIA在固定交互性条件下，于Blackwell平台测得高达15倍吞吐量提升。DFlash已发布20个检查点，并支持SGLang、vLLM及TensorRT-LLM框架。该文章《DFlash投机解码并行生成完整Token块，在NVIDIA Blackwell上实现高达15倍吞吐量提升》首发于Mark平台。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI与博通推出针对LLM推理优化的芯片</title>
 <link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
 <guid isPermaLink="false">https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
@@ -392,36 +360,12 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ffasr-leaderboard">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Mistral OCR 4 为 RAG、智能体及企业搜索流程带来可引用结构化输出</title>
-<link>https://www.marktechpost.com/2026/06/23/mistral-ocr-4/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80672</guid>
-<pubDate>Tue, 23 Jun 2026 23:43:43 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Mistral AI 于 2026 年 6 月 23 日发布了 OCR 4，从纯文本提取转向结构化文档输出。每个区块返回边界框、类型分类，以及每页和每词的置信度分数。该模型支持 170 种语言，在单个自托管容器中运行，并通过一个 API 端点将可引用输入馈送到 RAG、智能体及企业搜索流程中。本文《Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/23/mistral-ocr-4/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>印度MoEngage押注营销的未来是数百万个AI代理</title>
-<link>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3135480</guid>
-<pubDate>Tue, 23 Jun 2026 23:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这笔全现金交易让MoEngage获得了为每位客户分配AI代理的技术。<br/><br/><a href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>甲骨文裁员21000人，助力其债务驱动的AI投资</title>
 <link>https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/</guid>
 <pubDate>Tue, 23 Jun 2026 20:17:38 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】甲骨文正投入数十亿美元建设数据中心基础设施，以支持人工智能发展。<br/><br/><a href="https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Datalab 发布 lift：一款 9B 开放权重视觉模型，利用模式从 PDF 中提取结构化 JSON</title>
-<link>https://www.marktechpost.com/2026/06/23/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80667</guid>
-<pubDate>Tue, 23 Jun 2026 19:35:33 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Datalab 发布了 lift，这是一款 9B 开放权重视觉模型，能将 PDF 和图像转换为匹配模式的 JSON。它采用模式约束解码来确保结构有效，并通过训练有素的弃权机制，在缺失字段时返回 null 而非产生幻觉，在包含 225 份文档的基准测试中实现了 90.2% 的字段准确率。本文《Datalab 发布 lift：一款 9B 开放权重视觉模型，利用模式从 PDF 中提取结构化 JSON》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/23/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>后量子行政令是一个重要里程碑。现在是付诸行动的时候了</title>
@@ -486,6 +430,62 @@
 <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/huggingface-hub-release-ci">阅读原文</a>]]></description>
+</item>
+<item>
+<title>在Transformers.js中实验提议的跨源存储API</title>
+<link>https://huggingface.co/blog/cross-origin-storage</link>
+<guid isPermaLink="false">https://huggingface.co/blog/cross-origin-storage</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】(无)<br/><br/><a href="https://huggingface.co/blog/cross-origin-storage">阅读原文</a>]]></description>
+</item>
+<item>
+<title>基于度量的标注饱和：从标签分布中学习</title>
+<link>https://machinelearning.apple.com/research/metric-dependent-annotation-saturation</link>
+<guid isPermaLink="false">metric-dependent-annotation-saturation</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】当标注者对标签存在分歧时，分歧本身即携带信号——而捕捉该信号所需的标注者数量取决于评估指标。我们基于ChaosNLI（一个为每项提供100个独立标注者判断的数据集）对标签分布进行子采样，并微调NLI模型，识别出度量依赖的饱和现象。在我们的三分类NLI场景中，熵相关性（即模型能否识别哪些项目引发分歧）需要约20-50名标注者才能收敛，而分布匹配（KL散度）在约10名标注者时即达到饱和（在五个模型中实现87-95%的改进）。<br/><br/><a href="https://machinelearning.apple.com/research/metric-dependent-annotation-saturation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>九位评审，两票有效：相关性错误削弱大模型评审团效能</title>
+<link>https://machinelearning.apple.com/research/correlated-llm-evaluation-panels</link>
+<guid isPermaLink="false">correlated-llm-evaluation-panels</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】以LLM为评审的评审团通过聚合多个模型的投票来评估结果，其假设是多样化的模型能产生更可靠的评估。我们开发了一个框架来衡量此类评审团的真实信息价值，并量化其可靠性相较于独立投票理想状态的差距。在三个自然语言推理数据集（每个项目含100条人工标注）上测试来自7个模型家族的9个前沿LLM后，我们发现这9位评审实际仅提供约两票独立投票的信息量。评审团名义上的独立性中，约有四分之三被抵消。<br/><br/><a href="https://machinelearning.apple.com/research/correlated-llm-evaluation-panels">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Omio如何构建对话式旅行的未来</title>
+<link>https://openai.com/index/omio</link>
+<guid isPermaLink="false">https://openai.com/index/omio</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】了解Omio如何利用OpenAI驱动对话式旅行体验、加速产品开发，并转型为一家AI原生公司。<br/><br/><a href="https://openai.com/index/omio">阅读原文</a>]]></description>
+</item>
+<item>
+<title>通用汽车在裁员1300人后，于旗舰电动汽车工厂安装机器人</title>
+<link>https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/</guid>
+<pubDate>Mon, 22 Jun 2026 21:52:39 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】美国汽车工人联合会警告称，机器人自动化预示着“黑灯工厂”的未来即将到来。<br/><br/><a href="https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们如何在hyper HTTP库中发现了一个漏洞</title>
+<link>https://blog.cloudflare.com/hyper-bug/</link>
+<guid isPermaLink="false">5X4Vz9KDcjIBXgHIFSuJFZ</guid>
+<pubDate>Mon, 22 Jun 2026 18:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】通过重构Images绑定，我们意外发现了一个存在于开源hyper库多个主要版本中的漏洞。<br/><br/><a href="https://blog.cloudflare.com/hyper-bug/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>从承诺到实践：构建更具包容性的开源生态系统</title>
+<link>https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/</link>
+<guid isPermaLink="false">https://github.blog/?p=96917</guid>
+<pubDate>Mon, 22 Jun 2026 17:20:31 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】了解我们在实现无障碍目标方面取得的进展，以及你如何帮助让开源变得更加包容。这篇文章《从承诺到实践：构建更具包容性的开源生态系统》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

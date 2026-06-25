@@ -1450,5 +1450,21 @@
 "https://the-decoder.com/?p=37003": {
 "t": "保险公司借助生成式AI进行灾难建模，但幻觉和销售逻辑可能成为障碍",
 "s": "扩散模型能在缺乏历史数据的领域生成数万个合理的天气事件。保险公司期望借此获得更精准的风险评估。研究人员则对幻觉现象发出警告。本文《保险公司借助生成式AI进行灾难建模，但幻觉和销售逻辑可能成为障碍》首发于The Decoder。"
+},
+"https://huggingface.co/blog/vllm-jobs": {
+"t": "一条命令在 HF 任务上运行 vLLM 服务器",
+"s": ""
+},
+"https://techcrunch.com/?p=3136499": {
+"t": "Patronus AI 获5000万美元融资，打造“数字世界”以压力测试AI智能体",
+"s": "由前Meta AI研究员创立的智能体测试初创公司Patronus AI，其投资者表示，该公司正面临近乎无法满足的市场需求。"
+},
+"https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/": {
+"t": "Notion 关闭受 Skiff 影响的邮件应用，因多数用户改用 AI 代理",
+"s": "Notion 正“全力投入使用代理来管理你的收件箱”。"
+},
+"https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/": {
+"t": "谷歌终于推出金融安卓应用，承诺2026年晚些时候发布iOS版本",
+"s": "历经20年，金融应用终于面世，并恰逢其时地融入了大量人工智能功能。"
 }
 }
