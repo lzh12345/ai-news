@@ -1334,5 +1334,33 @@
 "https://www.marktechpost.com/?p=80664": {
 "t": "如何在Python中使用NVIDIA Canary-1B-v2进行ASR、翻译和自动SRT字幕导出",
 "s": "在本教程中，我们使用NVIDIA Canary-1B-v2构建了一个多语言ASR和语音翻译管道。我们在支持GPU的运行环境中加载模型，将音频准备为16 kHz单声道格式，并运行英语ASR。然后，我们将语音翻译成法语、德语、西班牙语和意大利语，并提取单词和片段的时间戳。我们将翻译后的字幕导出为SRT文件，测试长文本转录，进行批量处理，并基准测试推理速度。这篇文章《How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python》最初出现在MarkTechPost上。"
+},
+"https://techcrunch.com/?p=3136032": {
+"t": "欧洲正对华盛顿的芯片战予以回击",
+"s": "正如ASML首席执行官克里斯托夫·富凯在5月向TechCrunch所言，中国目前能够购买的是约十年前首次出货的老一代深紫外光刻工具，而《匹配法案》如今将把这些设备也列入限制范围。"
+},
+"https://techcrunch.com/?p=3135964": {
+"t": "前Infosys首席执行官创立新公司，欲挑战IT服务行业格局",
+"s": "在Mayfield和Aramco Ventures的支持下，Vishal Sikka的新公司汇聚了来自SAP、Infosys和VianAI的资深人士。"
+},
+"https://techcrunch.com/?p=3135956": {
+"t": "Cerebras 财报后股价暴跌，CEO称利润率展望被误解",
+"s": "这家AI芯片公司在上市后的首份财报中预测其核心业务的毛利率将收窄，令投资者感到恐慌。"
+},
+"https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/": {
+"t": "OpenAI与博通宣布推出专为大规模LLM推理设计的芯片",
+"s": "在应对需求激增的挑战中，芯片领域的竞争正日益白热化。"
+},
+"https://techcrunch.com/?p=3135912": {
+"t": "AI本应取代工程岗位，但新数据表明它们最具韧性",
+"s": "尽管AI主导了裁员叙事，但SignalFire的数据显示，工程师实际上在新招聘中占据了更大比例。"
+},
+"https://techcrunch.com/?p=3135911": {
+"t": "AI研究人员持续从谷歌跳槽至竞争对手",
+"s": "顶尖AI研究员Jonas Adler和Alexander Pritzel离开谷歌加入Anthropic，此前已有顶级科学家Noam Shazeer和John Jumper离职。"
+},
+"https://techcrunch.com/?p=3135900": {
+"t": "内存芯片短缺让这家美国公司大赚一笔",
+"s": "与去年同期相比，营收增长四倍，达到414.5亿美元。同时，公司利润从18.8亿美元飙升至惊人的282亿美元，同比增长显著。"
 }
 }
