@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 25 Jun 2026 02:33:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 07:35:56 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>百度发布Unlimited OCR，一款3B参数模型，实现长文档解析中KV缓存保持稳定</title>
+<link>https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80702</guid>
+<pubDate>Thu, 25 Jun 2026 05:39:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】百度开源了Unlimited OCR，这是一款3B参数的MoE模型，能够单次前向传播解析数十页文档。其参考滑动窗口注意力（R-SWA）机制使KV缓存保持恒定，因此随着输出增长，内存和延迟保持稳定。该模型在OmniDocBench v1.5上得分为93.23，比DeepSeek OCR基线高出6.22分，采用MIT许可证。文章《百度发布Unlimited OCR，一款3B参数模型，实现长文档解析中KV缓存保持稳定》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>欧洲正对华盛顿的芯片战予以回击</title>
 <link>https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/</link>
@@ -398,14 +406,6 @@
 <pubDate>Tue, 23 Jun 2026 12:00:34 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】科幻作家/科技记者科里·多克托罗谈论他的新书《AI之后的生活：反向半人马指南》。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Prime Intellect 发布 prime-rl 0.6.0，用于在智能体强化学习工作负载上训练万亿参数 MoE 模型</title>
-<link>https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80661</guid>
-<pubDate>Tue, 23 Jun 2026 07:20:44 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Prime Intellect 发布了 prime-rl 0.6.0，这是一个用于在万亿参数混合专家模型上进行异步强化学习的开放框架。该框架在 28 个 H200 节点上，以高达 131k 的序列长度、低于 5 分钟的步进时间和 256 次展开，在 SWE 任务上训练了 GLM-5。本文详细解析了这些数字背后的推理和训练优化——包括 FP8 推理、宽专家并行、预填充/解码分离、路由器重放以及 3D 并行（FSDP、EP、CP）。<br/><br/><a href="https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>2026年科技行业大规模裁员名单：雇主以AI为由</title>
