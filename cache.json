@@ -1414,5 +1414,41 @@
 "https://the-decoder.com/?p=36995": {
 "t": "作家协会测试发现，部分AI检测器能完美识别人类写作，而另一些则对所有文本判断失误",
 "s": "作家协会对五款AI检测器进行了人类写作文本的测试。Pangram和Grammarly正确识别了所有文本，而Sidekicker和ZeroGPT则将人类撰写的文章误判为AI生成。但该协会也警告存在一个悖论：专业写作的文本在统计上与AI输出相似，因为语言模型正是基于这类写作进行训练的。本文《作家协会测试发现，部分AI检测器能完美识别人类写作，而另一些则对所有文本判断失误》最初发表于The Decoder。"
+},
+"https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/": {
+"t": "Anthropic 指控阿里巴巴无视特朗普禁令，攻击 Claude 并窃取技术能力",
+"s": "据称，阿里巴巴使用了 25,000 个账户，通过超过 2880 万次交互来挖掘 Claude 的数据。"
+},
+"https://techcrunch.com/?p=3135892": {
+"t": "Anthropic的Claude正赢得付费消费者青睐，ChatGPT曾主导的市场格局生变",
+"s": "数据显示，尽管ChatGPT在市场中占据主导地位，但付费使用AI的消费者正越来越多地选择Anthropic的Claude。"
+},
+"https://www.marktechpost.com/?p=80707": {
+"t": "DeepReinforce 发布 Ornith-1.0：一个自主学习强化学习框架的开源编程模型系列",
+"s": "DeepReinforce 发布了 Ornith-1.0，这是一个基于 Gemma 4 和 Qwen 3.5 构建的开源编程模型系列。该模型不依赖固定框架，而是在强化学习过程中自主学习其脚手架。其旗舰版 397B 模型在 SWE-Bench Verified 上取得了 82.4 的分数，所有权重均采用 MIT 许可证发布。本文 DeepReinforce 发布 Ornith-1.0：一个自主学习强化学习框架的开源编程模型系列 最初出现在 MarkTechPost 上。"
+},
+"https://techcrunch.com/?p=3136038": {
+"t": "General Intuition 豪掷23亿美元，押注电子游戏可训练AI代理适应现实世界",
+"s": "General Intuition 已筹集3.2亿美元，用于扩大基于数百万小时游戏数据训练的AI规模，押注动作数据能帮助AI发展出更接近人类直觉的能力。"
+},
+"https://techcrunch.com/?p=3136344": {
+"t": "Databricks前AI负责人认为可将AI能耗降低1000倍",
+"s": "Un-0是一款图像生成系统工具，首次展示了该公司技术如何复制传统AI系统。"
+},
+"https://huggingface.co/blog/allenai/hybrid-token-prediction": {
+"t": "混合模型对哪些令牌的预测更准确？",
+"s": "(无)"
+},
+"https://the-decoder.com/?p=37007": {
+"t": "多数主流AI聊天机器人在政治问题上仍偏左，甚至“反觉醒”模型也不例外",
+"s": "《华盛顿邮报》的一项调查显示，多数主流AI聊天机器人在政治问题上仍倾向于左派立场。OpenAI的GPT-5.5在80%的情况下只提供左倾论点，就连马斯克旗下标榜“反觉醒”的Grok也更多时候偏左。唯一的例外是谷歌的Gemini 3.1 Pro，它在93%的情况下呈现了双方观点。本文《多数主流AI聊天机器人在政治问题上仍偏左，甚至“反觉醒”模型也不例外》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3136123": {
+"t": "Netris 从 a16z 获得 1500 万美元 A 轮融资，助力 AI 新云更快上线",
+"s": "Netris 提供运行在网络交换机上的软件，并提供一个平台，帮助新云运营商缩短上线时间。"
+},
+"https://the-decoder.com/?p=37003": {
+"t": "保险公司借助生成式AI进行灾难建模，但幻觉和销售逻辑可能成为障碍",
+"s": "扩散模型能在缺乏历史数据的领域生成数万个合理的天气事件。保险公司期望借此获得更精准的风险评估。研究人员则对幻觉现象发出警告。本文《保险公司借助生成式AI进行灾难建模，但幻觉和销售逻辑可能成为障碍》首发于The Decoder。"
 }
 }
