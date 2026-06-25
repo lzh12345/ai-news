@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 25 Jun 2026 07:35:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 10:36:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meta员工警告AI审核部署速度过快</title>
+<link>https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36986</guid>
+<pubDate>Thu, 25 Jun 2026 10:07:19 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】到2025年，Meta将已用大型语言模型取代约一半的人工审核请求，并计划在年底前将特定类型内容的这一比例提升至90%以上。文章《Meta员工警告AI审核部署速度过快》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌持续流失顶尖AI研究人员至竞争对手</title>
+<link>https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36987</guid>
+<pubDate>Thu, 25 Jun 2026 10:04:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌似乎正面临关键AI研究人员大量流向竞争对手的局面。本文《谷歌持续流失顶尖AI研究人员至竞争对手》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>高通携自有处理器进军数据中心市场</title>
+<link>https://the-decoder.com/qualcomm-enters-the-data-center-market-with-its-own-processor/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36988</guid>
+<pubDate>Thu, 25 Jun 2026 10:03:21 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】高通正通过一款名为Dragonfly C1000的新处理器进一步拓展数据中心市场。本文《高通携自有处理器进军数据中心市场》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/qualcomm-enters-the-data-center-market-with-its-own-processor/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>IBM 宣称实现全球首项亚1纳米芯片技术</title>
+<link>https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/</link>
+<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/</guid>
+<pubDate>Thu, 25 Jun 2026 10:00:55 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】IBM 的纳米堆叠晶体管可提升芯片性能或能效。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌将电脑控制功能直接融入Gemini 3.5 Flash，让模型能查看并操作你的屏幕</title>
+<link>https://the-decoder.com/google-bakes-computer-control-directly-into-gemini-3-5-flash-letting-the-model-see-and-operate-your-screen/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=36980</guid>
+<pubDate>Thu, 25 Jun 2026 09:04:46 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌已将“电脑使用”功能直接集成到Gemini 3.5 Flash中，使模型能够自主操作电脑、浏览器和移动设备。在OSWorld基准测试中，它获得了78.4分，与GPT-5.5水平相当。开发者可通过Gemini API构建用于软件测试或办公自动化的智能体。本文《谷歌将电脑控制功能直接融入Gemini 3.5 Flash，让模型能查看并操作你的屏幕》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-bakes-computer-control-directly-into-gemini-3-5-flash-letting-the-model-see-and-operate-your-screen/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>百度发布Unlimited OCR，一款3B参数模型，实现长文档解析中KV缓存保持稳定</title>
 <link>https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/</link>
@@ -14,6 +54,14 @@
 <pubDate>Thu, 25 Jun 2026 05:39:53 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】百度开源了Unlimited OCR，这是一款3B参数的MoE模型，能够单次前向传播解析数十页文档。其参考滑动窗口注意力（R-SWA）机制使KV缓存保持恒定，因此随着输出增长，内存和延迟保持稳定。该模型在OmniDocBench v1.5上得分为93.23，比DeepSeek OCR基线高出6.22分，采用MIT许可证。文章《百度发布Unlimited OCR，一款3B参数模型，实现长文档解析中KV缓存保持稳定》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI代理如何改变工作方式</title>
+<link>https://openai.com/index/how-agents-are-transforming-work</link>
+<guid isPermaLink="false">https://openai.com/index/how-agents-are-transforming-work</guid>
+<pubDate>Thu, 25 Jun 2026 02:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI最新研究论文展示了AI代理如何改变工作方式，使其能够处理更长时间、更复杂的任务，并提升各岗位的生产力。<br/><br/><a href="https://openai.com/index/how-agents-are-transforming-work">阅读原文</a>]]></description>
 </item>
 <item>
 <title>欧洲正对华盛顿的芯片战予以回击</title>
@@ -208,22 +256,6 @@
 <description><![CDATA[【marktechpost.com】在本教程中，我们构建了一个完全离线的Graphify管道，将多模块Python应用程序转化为知识图谱。我们安装Graphify，生成一个连接的示例应用，并使用tree-sitter在本地提取图谱，无需API密钥或LLM后端。我们将graph.json加载到NetworkX中，分析文件类型、关系类型、中心性得分、社区检测和最短路径。然后，我们创建静态和交互式可视化，展示模块、类、函数和数据库对象之间的连接方式。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Claude Tag将Anthropic的AI嵌入Slack，公司称其已编写65%的内部代码</title>
-<link>https://the-decoder.com/claude-tag-embeds-anthropics-ai-in-slack-already-writes-65-percent-of-internal-code-company-says/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36940</guid>
-<pubDate>Wed, 24 Jun 2026 09:32:01 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Claude Tag允许团队通过在任何频道中标记@Claude并分配任务，将Anthropic的AI引入Slack。该公司表示，该工具已在内部为Anthropic产品团队生成了65%的代码。文章《Claude Tag将Anthropic的AI嵌入Slack，公司称其已编写65%的内部代码》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-tag-embeds-anthropics-ai-in-slack-already-writes-65-percent-of-internal-code-company-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Mistral 新OCR模型在72%盲测案例中击败竞争对手，公司称</title>
-<link>https://the-decoder.com/mistrals-new-ocr-model-beats-competitors-in-72-percent-of-blind-test-cases-company-says/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36939</guid>
-<pubDate>Wed, 24 Jun 2026 09:28:40 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Mistral AI 发布了OCR 4，这是一个能从PDF、Word文件和PowerPoint演示文稿等文档中读取文本的新模型。文章《Mistral 新OCR模型在72%盲测案例中击败竞争对手，公司称》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/mistrals-new-ocr-model-beats-competitors-in-72-percent-of-blind-test-cases-company-says/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Nous Research 为 Hermes Agent 技能系统新增 /learn 功能，无需手动编写 SKILL.md 即可将工作流捕获为斜杠命令</title>
 <link>https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80687</guid>
@@ -384,22 +416,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/cuga-apps">阅读原文</a>]]></description>
 </item>
 <item>
-<title>字节跳动Seedance 2.5突破AI视频生成30秒时长限制</title>
-<link>https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36933</guid>
-<pubDate>Tue, 23 Jun 2026 12:15:35 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】字节跳动在火山引擎FORCE大会上发布了五款新AI模型。其中核心产品Seedance 2.5是一款视频模型，预计于7月初上线。本文《字节跳动Seedance 2.5突破AI视频生成30秒时长限制》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cursor 发布自有 AI 模型、新 Git 平台及移动应用</title>
-<link>https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=36932</guid>
-<pubDate>Tue, 23 Jun 2026 12:12:40 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Cursor 披露了其首个完全内部训练的 AI 模型的新细节，并宣布了两款新产品。本文《Cursor announces its own AI model, a new Git platform, and a mobile app》首发于 The Decoder。<br/><br/><a href="https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>如何戳破AI泡沫：直击其根源</title>
 <link>https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/</link>
 <guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/</guid>
@@ -470,22 +486,6 @@
 <pubDate>Mon, 22 Jun 2026 21:52:39 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】美国汽车工人联合会警告称，机器人自动化预示着“黑灯工厂”的未来即将到来。<br/><br/><a href="https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI世界正变得“循环往复”</title>
-<link>https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3135102</guid>
-<pubDate>Mon, 22 Jun 2026 20:53:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这种循环通过授权一群智能体在后台持续、无休止地工作，将自主AI向前推进了一步。<br/><br/><a href="https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>我们如何在hyper HTTP库中发现了一个漏洞</title>
-<link>https://blog.cloudflare.com/hyper-bug/</link>
-<guid isPermaLink="false">5X4Vz9KDcjIBXgHIFSuJFZ</guid>
-<pubDate>Mon, 22 Jun 2026 18:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】通过重构Images绑定，我们意外发现了一个存在于开源hyper库多个主要版本中的漏洞。<br/><br/><a href="https://blog.cloudflare.com/hyper-bug/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
