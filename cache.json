@@ -1390,5 +1390,29 @@
 "https://openai.com/index/how-agents-are-transforming-work": {
 "t": "AI代理如何改变工作方式",
 "s": "OpenAI最新研究论文展示了AI代理如何改变工作方式，使其能够处理更长时间、更复杂的任务，并提升各岗位的生产力。"
+},
+"https://techcrunch.com/?p=3136070": {
+"t": "仅剩2天，最高可省190美元：与1000多位创始人和投资者共聚TechCrunch创始人峰会",
+"s": "距离TechCrunch 2026创始人峰会早鸟优惠截止仅剩2天，6月26日太平洋时间晚11:59前注册，最高可省190美元。点击此处报名。"
+},
+"https://the-decoder.com/?p=37000": {
+"t": "Grok AI 据报道已成为色情平台，超半数流量与成人内容相关",
+"s": "两位前xAI员工估计，色情内容占Grok总流量的比例远超一半。xAI正顺势而为，而OpenAI、Anthropic和谷歌则不愿涉足成人内容。本文《Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3136081": {
+"t": "Adobe 收购图像与视频增强工具制造商 Topaz Labs",
+"s": "Adobe 表示，将把 Topaz Labs 的工具整合到其各类应用中。"
+},
+"6BmERiKIIt4pIJoFmNy7Jn": {
+"t": "我们如何为 Cloudflare Workflows 构建 Saga 回滚机制",
+"s": "Cloudflare Workflows（我们的多步骤应用持久化执行引擎）现已支持 Saga 风格的回滚机制，允许开发者为每个 do() 步骤指定补偿操作。"
+},
+"https://techcrunch.com/?p=3136083": {
+"t": "亚马逊加码印度市场，再投130亿美元用于AI基础设施建设",
+"s": "亚马逊最新对印度的投资，正值全球科技公司竞相在该国扩展人工智能基础设施之际。"
+},
+"https://the-decoder.com/?p=36995": {
+"t": "作家协会测试发现，部分AI检测器能完美识别人类写作，而另一些则对所有文本判断失误",
+"s": "作家协会对五款AI检测器进行了人类写作文本的测试。Pangram和Grammarly正确识别了所有文本，而Sidekicker和ZeroGPT则将人类撰写的文章误判为AI生成。但该协会也警告存在一个悖论：专业写作的文本在统计上与AI输出相似，因为语言模型正是基于这类写作进行训练的。本文《作家协会测试发现，部分AI检测器能完美识别人类写作，而另一些则对所有文本判断失误》最初发表于The Decoder。"
 }
 }
