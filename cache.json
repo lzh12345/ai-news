@@ -1498,5 +1498,37 @@
 "https://the-decoder.com/?p=37022": {
 "t": "Anthropic不再需要初级工程师，AI引发经济冲击预警，其他行业或将效仿",
 "s": "\"直觉回报\"：为何Anthropic不再需要初级工程师，并发出经济冲击警告。文章《Anthropic不再需要初级工程师，AI引发经济冲击预警，其他行业或将效仿》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=37046": {
+"t": "一个AI模型在单个MirrorCode任务上连续编程19天，运行成本达2600美元",
+"s": "Epoch AI的新基准测试MirrorCode检验AI模型能否在无法访问原始代码的情况下重建完整程序。Claude Opus 4.7以56%的解决率领先，仅用14小时就重建了一个16000行的工具包。但所有测试的模型在最复杂的任务上仍然失败。本文《一个AI模型在单个MirrorCode任务上连续编程19天，运行成本达2600美元》最初发表于The Decoder。"
+},
+"https://github.blog/?p=97118": {
+"t": "GitHub与联合国开发计划署合作，通过开源推动加纳发展优先事项",
+"s": "GitHub与联合国开发计划署在加纳携手，探索开源治理如何支持西非最具雄心的数字改革努力之一。这篇题为《GitHub与联合国开发计划署合作，通过开源推动加纳发展优先事项》的文章首发于GitHub博客。"
+},
+"https://techcrunch.com/?p=3136684": {
+"t": "这不再是Anthropic与OpenAI之间的较量了",
+"s": "AI模型的发展已使其能力产生真实的政治影响。应对这些影响需要集体行动。"
+},
+"https://the-decoder.com/?p=37042": {
+"t": "AI初创公司Lindy全面弃用Claude转投Deepseek，在Anthropic成本压力下节省数百万美元",
+"s": "AI初创公司Lindy在AI成本超过人力成本后，完全放弃Claude转而使用Deepseek。CEO Flo Crivello称这是\"企业生存问题\"。文章《AI初创公司Lindy全面弃用Claude转投Deepseek，在Anthropic成本压力下节省数百万美元》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3136707": {
+"t": "OpenAI的Jalapeño芯片是大型科技公司摆脱英伟达的最激进举措",
+"s": "英伟达多年来一直主导着AI芯片市场，但完全依赖它的时代可能即将结束。OpenAI刚刚公布了其与博通合作打造的定制推理芯片Jalapeño计划，加入谷歌、苹果和SpaceX等日益壮大的公司行列，通过自主研发来规避单一供应商风险。其目标是减少对……"
+},
+"https://openai.com/index/previewing-gpt-5-6-sol": {
+"t": "预览GPT-5.6 Sol：下一代模型",
+"s": "OpenAI预览了GPT-5.6 Sol，这是一款在编程、科学和网络安全方面能力更强的下一代模型，并配备了其最先进的安全体系。"
+},
+"https://www.marktechpost.com/?p=80724": {
+"t": "认识 container：苹果在 Apple Silicon 上以轻量级虚拟机运行 Linux 容器的开源 Swift 工具",
+"s": "苹果发布了 container 1.0，这是一款开源 Swift 工具，可在 Apple Silicon 上以轻量级虚拟机的方式运行 Linux 容器。本文《认识 container：苹果在 Apple Silicon 上以轻量级虚拟机运行 Linux 容器的开源 Swift 工具》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80721": {
+"t": "在Google Colab中构建纳米机器人风格AI智能体：集成工具调用、会话记忆、技能与MCP服务器",
+"s": "本教程将构建一个受纳米机器人架构启发的轻量级个人AI智能体，完全可在Google Colab中运行。我们从提供者抽象层开始，逐步添加工具注册、会话记忆、生命周期钩子、技能以及MCP风格的工具服务器。我们不依赖外部框架，而是自行重建每个基础模块，以理解消息、工具、记忆和模型响应如何协同工作。最终形成一个与提供者无关的智能体循环，可扩展至真实LLM提供者和生产级工具。"
 }
 }
