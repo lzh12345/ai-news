@@ -1530,5 +1530,25 @@
 "https://www.marktechpost.com/?p=80721": {
 "t": "在Google Colab中构建纳米机器人风格AI智能体：集成工具调用、会话记忆、技能与MCP服务器",
 "s": "本教程将构建一个受纳米机器人架构启发的轻量级个人AI智能体，完全可在Google Colab中运行。我们从提供者抽象层开始，逐步添加工具注册、会话记忆、生命周期钩子、技能以及MCP风格的工具服务器。我们不依赖外部框架，而是自行重建每个基础模块，以理解消息、工具、记忆和模型响应如何协同工作。最终形成一个与提供者无关的智能体循环，可扩展至真实LLM提供者和生产级工具。"
+},
+"https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/": {
+"t": "《纽约时报》抨击微软为OpenAI构建侵犯版权的超级计算机",
+"s": "在美国最高法院对索尼案作出不利裁决后，《纽约时报》调整了对OpenAI/微软的版权指控。"
+},
+"https://techcrunch.com/?p=3136773": {
+"t": "OpenAI 应政府要求限制 GPT-5.6 发布，称此类限制不应成为常态",
+"s": "“我们认为这种政府介入流程不应成为长期默认做法，”OpenAI 表示，“这会让最优秀的工具无法触及用户、开发者、企业、网络防御者以及全球合作伙伴，而他们正需要这些工具。”"
+},
+"https://the-decoder.com/?p=37054": {
+"t": "OpenAI发布GPT-5.6 Sol，与Claude Mythos竞争，但受制于其称不可持续的政府准入规则",
+"s": "OpenAI的新旗舰模型GPT-5.6 Sol在编程基准测试中击败了Anthropic的Claude Mythos 5，但美国政府强制要求限制其发布。OpenAI对此表示不满。本文《OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3136733": {
+"t": "OpenAI 挖角 Uber 印度负责人，领导其美国以外最大市场",
+"s": "此次聘用标志着 OpenAI 进一步拓展印度市场，扩大办公室、合作伙伴关系并加大招聘力度。"
+},
+"https://techcrunch.com/?post_type=tc_video&p=3136708": {
+"t": "从OpenAI到SpaceX，为何都在自研芯片（并给英伟达加压）",
+"s": "英伟达多年来一直主导着AI芯片市场，但完全依赖它的时代或许即将终结。OpenAI刚刚公布了其计划，将与博通合作打造定制推理芯片Jalapeño，加入谷歌、苹果和SpaceX等日益壮大的公司行列，通过自研芯片来摆脱单一供应商风险。其目标是减少对……"
 }
 }
