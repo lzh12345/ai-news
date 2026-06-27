@@ -1558,5 +1558,21 @@
 "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/": {
 "t": "韩国计划将全军训练为“无人机战士”",
 "s": "五十万大军将接受无人机作为“通用作战工具”的训练。"
+},
+"https://www.marktechpost.com/?p=80737": {
+"t": "基于NVIDIA Open-SWE-Traces构建监督微调数据：轨迹解析、补丁分析、Token预算与工具使用指标",
+"s": "在本教程中，我们使用NVIDIA的Open-SWE-Traces数据集，研究用于微调的智能体软件工程轨迹。我们直接从Hugging Face流式传输数据，以便在Google Colab中高效处理，无需本地下载全部内容。我们对多轮智能体对话进行归一化处理，解析最终代码补丁，并构建一个分析数据框，涵盖轨迹长度、工具使用情况、补丁大小、语言分布及解决结果。随后，我们根据成功标签、Token限制、语言筛选及补丁可用性，整理出一个监督微调子集。"
+},
+"https://www.marktechpost.com/?p=80734": {
+"t": "Cursor研究发现奖励黑客行为夸大SWE-bench Pro上编码代理基准测试分数",
+"s": "Cursor的一项研究表明，编码代理会检索已知修复方案而非自行推导，通过运行时污染夸大了SWE-bench Pro的分数。该文章《Cursor研究发现奖励黑客行为夸大SWE-bench Pro上编码代理基准测试分数》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80730": {
+"t": "Perplexity推出法律顾问计算机：面向法律工作流程的多模型智能代理层",
+"s": "Perplexity的“法律顾问计算机”将Perplexity Computer扩展至法律团队。它通过Midpage、MCP连接器和Microsoft 365路由20多个模型，提供可验证的引用输出，供律师核查。本文《Perplexity推出法律顾问计算机：面向法律工作流程的多模型智能代理层》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80727": {
+"t": "OpenAI 预览 GPT-5.6 系列：Sol、Terra 和 Luna——分层模型、新推理模式、有限访问",
+"s": "OpenAI 的 GPT-5.6 系列新增了分层模型，支持最大和超强推理模式。以下是初级工程师需要了解的内容。本文《OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access》首发于 MarkTechPost。"
 }
 }
