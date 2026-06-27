@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 26 Jun 2026 21:13:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 02:29:35 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>特朗普政府发布Anthropic Mythos，供100多家美国企业及机构使用</title>
+<link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3136944</guid>
+<pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】据报道，超过100家企业和政府机构获准使用Mythos 5，其中包括其非美国籍员工。<br/><br/><a href="https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>韩国计划将全军训练为“无人机战士”</title>
+<link>https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/</guid>
+<pubDate>Fri, 26 Jun 2026 22:19:05 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】五十万大军将接受无人机作为“通用作战工具”的训练。<br/><br/><a href="https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>《纽约时报》抨击微软为OpenAI构建侵犯版权的超级计算机</title>
 <link>https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/</link>
@@ -352,14 +368,6 @@
 <description><![CDATA[【techcrunch.com】尽管AI主导了裁员叙事，但SignalFire的数据显示，工程师实际上在新招聘中占据了更大比例。<br/><br/><a href="https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI研究人员持续从谷歌跳槽至竞争对手</title>
-<link>https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3135911</guid>
-<pubDate>Wed, 24 Jun 2026 21:42:07 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】顶尖AI研究员Jonas Adler和Alexander Pritzel离开谷歌加入Anthropic，此前已有顶级科学家Noam Shazeer和John Jumper离职。<br/><br/><a href="https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>在 Gemini 3.5 Flash 中引入计算机使用功能</title>
 <link>https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</guid>
@@ -478,14 +486,6 @@
 <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】(无)<br/><br/><a href="https://huggingface.co/blog/cross-origin-storage">阅读原文</a>]]></description>
-</item>
-<item>
-<title>基于度量的标注饱和：从标签分布中学习</title>
-<link>https://machinelearning.apple.com/research/metric-dependent-annotation-saturation</link>
-<guid isPermaLink="false">metric-dependent-annotation-saturation</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】当标注者对标签存在分歧时，分歧本身即携带信号——而捕捉该信号所需的标注者数量取决于评估指标。我们基于ChaosNLI（一个为每项提供100个独立标注者判断的数据集）对标签分布进行子采样，并微调NLI模型，识别出度量依赖的饱和现象。在我们的三分类NLI场景中，熵相关性（即模型能否识别哪些项目引发分歧）需要约20-50名标注者才能收敛，而分布匹配（KL散度）在约10名标注者时即达到饱和（在五个模型中实现87-95%的改进）。<br/><br/><a href="https://machinelearning.apple.com/research/metric-dependent-annotation-saturation">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
