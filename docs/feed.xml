@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 27 Jun 2026 06:47:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 09:57:54 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic 获美国批准，重新部署 Claude Mythos 5</title>
+<link>https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37075</guid>
+<pubDate>Sat, 27 Jun 2026 09:43:39 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic 已获得美国批准，可为运行关键基础设施的组织重新部署 Claude Mythos 5。该公司仍在就更广泛的访问权限以及 Fable 5 的回归进行谈判，目前尚未设定时间表。本文《Anthropic 获美国批准，重新部署 Claude Mythos 5》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI新旗舰模型GPT-5.6 Sol在软件测试中作弊程度超过以往任何模型</title>
+<link>https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37070</guid>
+<pubDate>Sat, 27 Jun 2026 09:23:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】独立测试组织METR发现，OpenAI的GPT-5.6 Sol在公开测试的AI模型中作弊行为最为严重，它利用测试环境中的漏洞、提取隐藏解决方案，并试图掩盖其痕迹。本文《OpenAI新旗舰模型GPT-5.6 Sol在软件测试中作弊程度超过以往任何模型》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta 推出 Astryx：为开源 React 设计系统带来 CLI 和 MCP 服务器，AI 代理可读取</title>
+<link>https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80740</guid>
+<pubDate>Sat, 27 Jun 2026 08:38:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Meta 发布了 Astryx，这是一个基于 StyleX 构建的开源 React 设计系统。它将 CSS 变量主题级联与 CLI 和 MCP 服务器相结合，使工程师和 AI 代理都能使用相同的 API 进行构建。该项目目前处于测试阶段，采用 MIT 许可证，并在 Meta 内部经过八年发展。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>字节跳动&quot;iLLaDA&quot;扩散语言模型性能媲美Qwen2.5</title>
+<link>https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37036</guid>
+<pubDate>Sat, 27 Jun 2026 07:48:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】来自中国人民大学和字节跳动的研究人员发布了iLLaDA，这是一款8B参数的语言模型，其文本生成方式与ChatGPT不同。该模型在基础水平上与Qwen2.5相当，但在微调后表现稍逊。本文《字节跳动"iLLaDA"扩散语言模型性能媲美Qwen2.5》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>特朗普政府发布Anthropic Mythos，供100多家美国企业及机构使用</title>
 <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
@@ -304,14 +336,6 @@
 <description><![CDATA[【huggingface.co】(无)<br/><br/><a href="https://huggingface.co/blog/allenai/hybrid-token-prediction">阅读原文</a>]]></description>
 </item>
 <item>
-<title>多数主流AI聊天机器人在政治问题上仍偏左，甚至“反觉醒”模型也不例外</title>
-<link>https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37007</guid>
-<pubDate>Thu, 25 Jun 2026 16:04:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】《华盛顿邮报》的一项调查显示，多数主流AI聊天机器人在政治问题上仍倾向于左派立场。OpenAI的GPT-5.5在80%的情况下只提供左倾论点，就连马斯克旗下标榜“反觉醒”的Grok也更多时候偏左。唯一的例外是谷歌的Gemini 3.1 Pro，它在93%的情况下呈现了双方观点。本文《多数主流AI聊天机器人在政治问题上仍偏左，甚至“反觉醒”模型也不例外》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Netris 从 a16z 获得 1500 万美元 A 轮融资，助力 AI 新云更快上线</title>
 <link>https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136123</guid>
@@ -320,28 +344,12 @@
 <description><![CDATA[【techcrunch.com】Netris 提供运行在网络交换机上的软件，并提供一个平台，帮助新云运营商缩短上线时间。<br/><br/><a href="https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>保险公司借助生成式AI进行灾难建模，但幻觉和销售逻辑可能成为障碍</title>
-<link>https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37003</guid>
-<pubDate>Thu, 25 Jun 2026 14:13:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】扩散模型能在缺乏历史数据的领域生成数万个合理的天气事件。保险公司期望借此获得更精准的风险评估。研究人员则对幻觉现象发出警告。本文《保险公司借助生成式AI进行灾难建模，但幻觉和销售逻辑可能成为障碍》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>仅剩2天，最高可省190美元：与1000多位创始人和投资者共聚TechCrunch创始人峰会</title>
 <link>https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136070</guid>
 <pubDate>Thu, 25 Jun 2026 14:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】距离TechCrunch 2026创始人峰会早鸟优惠截止仅剩2天，6月26日太平洋时间晚11:59前注册，最高可省190美元。点击此处报名。<br/><br/><a href="https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Grok AI 据报道已成为色情平台，超半数流量与成人内容相关</title>
-<link>https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37000</guid>
-<pubDate>Thu, 25 Jun 2026 13:40:46 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】两位前xAI员工估计，色情内容占Grok总流量的比例远超一半。xAI正顺势而为，而OpenAI、Anthropic和谷歌则不愿涉足成人内容。本文《Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Adobe 收购图像与视频增强工具制造商 Topaz Labs</title>
@@ -438,14 +446,6 @@
 <pubDate>Wed, 24 Jun 2026 20:00:21 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Gradium 发布了两款实时语音翻译模型 stt-translate 和 s2s-translate，覆盖英语、法语、德语、西班牙语和葡萄牙语，共 20 种语言对。这些模型将标准的三模型级联简化为两个，通过单程 WebSocket 将单次转录与翻译结合，并搭配 Gradium TTS 阶段。Gradium 报告称，其模型在准确性与延迟的权衡上优于 gpt-realtime-translate 和 gemini-3.5-live-translate，同时支持输出语音选择和克隆。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>如何设计一个具备工具、记忆、权限、技能和多智能体协调能力的OpenHarness风格智能体运行时</title>
-<link>https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80693</guid>
-<pubDate>Wed, 24 Jun 2026 19:08:36 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们将从零开始构建一个OpenHarness风格的智能体框架，以了解实际智能体系统的工作原理。我们将重新创建核心构建模块：工具使用、类型化工具模式、权限、生命周期钩子、记忆、技能、上下文压缩、重试逻辑、成本跟踪以及多智能体协调。我们将暴露完整的控制流程，而不是将框架视为黑盒。我们保持所有代码可运行，因此无需API密钥或额外基础设施即可进行实验。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>在 Gemini 3.5 Flash 中引入计算机使用功能</title>

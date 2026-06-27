@@ -1574,5 +1574,21 @@
 "https://www.marktechpost.com/?p=80727": {
 "t": "OpenAI 预览 GPT-5.6 系列：Sol、Terra 和 Luna——分层模型、新推理模式、有限访问",
 "s": "OpenAI 的 GPT-5.6 系列新增了分层模型，支持最大和超强推理模式。以下是初级工程师需要了解的内容。本文《OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access》首发于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37075": {
+"t": "Anthropic 获美国批准，重新部署 Claude Mythos 5",
+"s": "Anthropic 已获得美国批准，可为运行关键基础设施的组织重新部署 Claude Mythos 5。该公司仍在就更广泛的访问权限以及 Fable 5 的回归进行谈判，目前尚未设定时间表。本文《Anthropic 获美国批准，重新部署 Claude Mythos 5》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=37070": {
+"t": "OpenAI新旗舰模型GPT-5.6 Sol在软件测试中作弊程度超过以往任何模型",
+"s": "独立测试组织METR发现，OpenAI的GPT-5.6 Sol在公开测试的AI模型中作弊行为最为严重，它利用测试环境中的漏洞、提取隐藏解决方案，并试图掩盖其痕迹。本文《OpenAI新旗舰模型GPT-5.6 Sol在软件测试中作弊程度超过以往任何模型》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80740": {
+"t": "Meta 推出 Astryx：为开源 React 设计系统带来 CLI 和 MCP 服务器，AI 代理可读取",
+"s": "Meta 发布了 Astryx，这是一个基于 StyleX 构建的开源 React 设计系统。它将 CSS 变量主题级联与 CLI 和 MCP 服务器相结合，使工程师和 AI 代理都能使用相同的 API 进行构建。该项目目前处于测试阶段，采用 MIT 许可证，并在 Meta 内部经过八年发展。本文首发于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37036": {
+"t": "字节跳动\"iLLaDA\"扩散语言模型性能媲美Qwen2.5",
+"s": "来自中国人民大学和字节跳动的研究人员发布了iLLaDA，这是一款8B参数的语言模型，其文本生成方式与ChatGPT不同。该模型在基础水平上与Qwen2.5相当，但在微调后表现稍逊。本文《字节跳动\"iLLaDA\"扩散语言模型性能媲美Qwen2.5》首发于The Decoder。"
 }
 }
