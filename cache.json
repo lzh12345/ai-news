@@ -1646,5 +1646,13 @@
 "https://the-decoder.com/?p=37100": {
 "t": "新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然",
 "s": "新浪微博的VibeThinker-3B仅有30亿参数，但在数学和编程基准测试中却能与DeepSeek V3.2和Kimi K2.5等模型匹敌。这些模型的规模最大可达其333倍。其秘诀并非规模，而是多阶段后训练。研究人员基于发现提出假设：逻辑推理能力可良好压缩至小模型，但广泛的世界知识则无法做到。本文《新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=37124": {
+"t": "AI 只有停止回答问题、开始完成任务，才能成为真正的同事",
+"s": "腾讯与多所中国高校联合发布的一篇综述论文，勾勒了从聊天机器人到“数字同事”的发展路径。研究人员认为，AI 系统只有在持久工作环境中完成完整任务，而不仅仅是生成答案，才能成为可靠的同事。关键在于将持久工作空间与可复用技能相结合。本文《AI won't become a real coworker until it stops answering and starts finishing tasks》首发于 The Decoder。"
+},
+"https://the-decoder.com/?p=37116": {
+"t": "Coinbase加入中国AI模型热潮，西方实验室面临定价压力测试",
+"s": "Coinbase首席执行官布莱恩·阿姆斯特朗正将公司转向GLM 5.2和Kimi 2.7等中国AI模型。一个自动化路由系统根据任务和价格为每个请求选择最佳模型，而更好的缓存技术将命中率从5%提升至60%。尽管代币使用量持续攀升，Coinbase已将AI支出削减一半。本文《Coinbase加入中国AI模型热潮，西方实验室面临定价压力测试》首发于The Decoder。"
 }
 }
