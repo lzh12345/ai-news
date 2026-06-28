@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 28 Jun 2026 07:44:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 10:22:03 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>仅有三款AI模型在500天创业生存测试中实现资本增值</title>
+<link>https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37029</guid>
+<pubDate>Sun, 28 Jun 2026 10:16:13 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】普林斯顿大学的研究人员构建了CEO-Bench测试，要求AI代理在模拟环境中运营一家虚构软件公司500天。当前大多数模型均以破产告终，而一个基于规则的无AI简单启发式方法几乎击败了所有模型。该文章《仅有三款AI模型在500天创业生存测试中实现资本增值》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑</title>
+<link>https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37108</guid>
+<pubDate>Sun, 28 Jun 2026 09:30:18 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】360创始人周鸿祎推出两款AI安全工具，旨在与Anthropic的Mythos竞争。其中一款工具已标记出3432个漏洞。周鸿祎承认中国模型落后西方模型20%至30%，但将Mythos比作"网络核武器"，并呼吁中国建立自己的战略威慑能力。本文《中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然</title>
+<link>https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37100</guid>
+<pubDate>Sun, 28 Jun 2026 07:44:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】新浪微博的VibeThinker-3B仅有30亿参数，但在数学和编程基准测试中却能与DeepSeek V3.2和Kimi K2.5等模型匹敌。这些模型的规模最大可达其333倍。其秘诀并非规模，而是多阶段后训练。研究人员基于发现提出假设：逻辑推理能力可良好压缩至小模型，但广泛的世界知识则无法做到。本文《新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型</title>
 <link>https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/</link>
@@ -192,14 +216,6 @@
 <description><![CDATA[【techcrunch.com】“我们认为这种政府介入流程不应成为长期默认做法，”OpenAI 表示，“这会让最优秀的工具无法触及用户、开发者、企业、网络防御者以及全球合作伙伴，而他们正需要这些工具。”<br/><br/><a href="https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI发布GPT-5.6 Sol，与Claude Mythos竞争，但受制于其称不可持续的政府准入规则</title>
-<link>https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37054</guid>
-<pubDate>Fri, 26 Jun 2026 18:30:01 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI的新旗舰模型GPT-5.6 Sol在编程基准测试中击败了Anthropic的Claude Mythos 5，但美国政府强制要求限制其发布。OpenAI对此表示不满。本文《OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI 挖角 Uber 印度负责人，领导其美国以外最大市场</title>
 <link>https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136733</guid>
@@ -216,14 +232,6 @@
 <description><![CDATA[【techcrunch.com】英伟达多年来一直主导着AI芯片市场，但完全依赖它的时代或许即将终结。OpenAI刚刚公布了其计划，将与博通合作打造定制推理芯片Jalapeño，加入谷歌、苹果和SpaceX等日益壮大的公司行列，通过自研芯片来摆脱单一供应商风险。其目标是减少对……<br/><br/><a href="https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>一个AI模型在单个MirrorCode任务上连续编程19天，运行成本达2600美元</title>
-<link>https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37046</guid>
-<pubDate>Fri, 26 Jun 2026 17:24:27 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Epoch AI的新基准测试MirrorCode检验AI模型能否在无法访问原始代码的情况下重建完整程序。Claude Opus 4.7以56%的解决率领先，仅用14小时就重建了一个16000行的工具包。但所有测试的模型在最复杂的任务上仍然失败。本文《一个AI模型在单个MirrorCode任务上连续编程19天，运行成本达2600美元》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GitHub与联合国开发计划署合作，通过开源推动加纳发展优先事项</title>
 <link>https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/</link>
 <guid isPermaLink="false">https://github.blog/?p=97118</guid>
@@ -238,14 +246,6 @@
 <pubDate>Fri, 26 Jun 2026 16:24:47 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】AI模型的发展已使其能力产生真实的政治影响。应对这些影响需要集体行动。<br/><br/><a href="https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI初创公司Lindy全面弃用Claude转投Deepseek，在Anthropic成本压力下节省数百万美元</title>
-<link>https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37042</guid>
-<pubDate>Fri, 26 Jun 2026 15:09:26 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】AI初创公司Lindy在AI成本超过人力成本后，完全放弃Claude转而使用Deepseek。CEO Flo Crivello称这是"企业生存问题"。文章《AI初创公司Lindy全面弃用Claude转投Deepseek，在Anthropic成本压力下节省数百万美元》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI的Jalapeño芯片是大型科技公司摆脱英伟达的最激进举措</title>

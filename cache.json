@@ -1634,5 +1634,17 @@
 "https://www.marktechpost.com/?p=80750": {
 "t": "Liquid AI 发布 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 进行设备端推理",
 "s": "Liquid AI 发布了其最小模型 LFM2.5-230M。这款拥有 2.3 亿参数、权重开放的模型可在设备端运行，在 Galaxy S25 Ultra 上达到 213 tok/s，在 Raspberry Pi 5 上达到 42 tok/s。基于 LFM2 架构，该模型专注于工具使用和数据提取，在指令遵循方面超越了 Qwen3.5-0.8B 和 Gemma 3 1B 等更大模型。该文章《Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference》首发于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37029": {
+"t": "仅有三款AI模型在500天创业生存测试中实现资本增值",
+"s": "普林斯顿大学的研究人员构建了CEO-Bench测试，要求AI代理在模拟环境中运营一家虚构软件公司500天。当前大多数模型均以破产告终，而一个基于规则的无AI简单启发式方法几乎击败了所有模型。该文章《仅有三款AI模型在500天创业生存测试中实现资本增值》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37108": {
+"t": "中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑",
+"s": "360创始人周鸿祎推出两款AI安全工具，旨在与Anthropic的Mythos竞争。其中一款工具已标记出3432个漏洞。周鸿祎承认中国模型落后西方模型20%至30%，但将Mythos比作\"网络核武器\"，并呼吁中国建立自己的战略威慑能力。本文《中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=37100": {
+"t": "新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然",
+"s": "新浪微博的VibeThinker-3B仅有30亿参数，但在数学和编程基准测试中却能与DeepSeek V3.2和Kimi K2.5等模型匹敌。这些模型的规模最大可达其333倍。其秘诀并非规模，而是多阶段后训练。研究人员基于发现提出假设：逻辑推理能力可良好压缩至小模型，但广泛的世界知识则无法做到。本文《新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然》首发于The Decoder。"
 }
 }
