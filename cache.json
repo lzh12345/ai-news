@@ -1626,5 +1626,13 @@
 "https://www.marktechpost.com/?p=80747": {
 "t": "DeepSeek发布DSpark推测解码框架，将DeepSeek-V4单用户生成速度较MTP-1提升60–85%",
 "s": "DeepSeek开源了DSpark，这是一个推测解码框架，可为现有DeepSeek-V4权重附加草稿模块。该框架将并行草稿主干与轻量级马尔可夫头配对以削减后缀衰减，并引入基于置信度的验证机制，根据实时GPU负载动态调整待校验令牌数量。离线测试中，其接受长度较DFlash和Eagle3提升16–31%；生产环境下，单用户生成速度较MTP-1基线无损提升57–85%。训练代码库DeepSpec采用MIT许可证发布。"
+},
+"https://www.marktechpost.com/?p=80753": {
+"t": "在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型",
+"s": "在本教程中，我们围绕Hugging Face的Fable 5 Traces数据集构建了一个稳定的工作流。我们避免使用脆弱的依赖项，并手动解析合并后的JSONL文件，以确保Colab的可靠性。我们检查仓库文件、标准化工具调用、审计数据结构、编辑敏感信息，并可视化关键分布。此外，我们还导出安全的无CoT聊天数据集，并在这些轨迹上训练纯Python的朴素贝叶斯基线模型。本文《在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80750": {
+"t": "Liquid AI 发布 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 进行设备端推理",
+"s": "Liquid AI 发布了其最小模型 LFM2.5-230M。这款拥有 2.3 亿参数、权重开放的模型可在设备端运行，在 Galaxy S25 Ultra 上达到 213 tok/s，在 Raspberry Pi 5 上达到 42 tok/s。基于 LFM2 架构，该模型专注于工具使用和数据提取，在指令遵循方面超越了 Qwen3.5-0.8B 和 Gemma 3 1B 等更大模型。该文章《Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference》首发于 MarkTechPost。"
 }
 }

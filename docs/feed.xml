@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 28 Jun 2026 02:42:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 07:44:40 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型</title>
+<link>https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80753</guid>
+<pubDate>Sun, 28 Jun 2026 07:02:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Hugging Face的Fable 5 Traces数据集构建了一个稳定的工作流。我们避免使用脆弱的依赖项，并手动解析合并后的JSONL文件，以确保Colab的可靠性。我们检查仓库文件、标准化工具调用、审计数据结构、编辑敏感信息，并可视化关键分布。此外，我们还导出安全的无CoT聊天数据集，并在这些轨迹上训练纯Python的朴素贝叶斯基线模型。本文《在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI 发布 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 进行设备端推理</title>
+<link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80750</guid>
+<pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI 发布了其最小模型 LFM2.5-230M。这款拥有 2.3 亿参数、权重开放的模型可在设备端运行，在 Galaxy S25 Ultra 上达到 213 tok/s，在 Raspberry Pi 5 上达到 42 tok/s。基于 LFM2 架构，该模型专注于工具使用和数据提取，在指令遵循方面超越了 Qwen3.5-0.8B 和 Gemma 3 1B 等更大模型。该文章《Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>软银CEO并非唯一对马斯克的轨道数据中心炒作存疑的人</title>
 <link>https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/</link>
@@ -344,14 +360,6 @@
 <description><![CDATA[【techcrunch.com】数据显示，尽管ChatGPT在市场中占据主导地位，但付费使用AI的消费者正越来越多地选择Anthropic的Claude。<br/><br/><a href="https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>DeepReinforce 发布 Ornith-1.0：一个自主学习强化学习框架的开源编程模型系列</title>
-<link>https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80707</guid>
-<pubDate>Thu, 25 Jun 2026 17:11:37 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepReinforce 发布了 Ornith-1.0，这是一个基于 Gemma 4 和 Qwen 3.5 构建的开源编程模型系列。该模型不依赖固定框架，而是在强化学习过程中自主学习其脚手架。其旗舰版 397B 模型在 SWE-Bench Verified 上取得了 82.4 的分数，所有权重均采用 MIT 许可证发布。本文 DeepReinforce 发布 Ornith-1.0：一个自主学习强化学习框架的开源编程模型系列 最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>General Intuition 豪掷23亿美元，押注电子游戏可训练AI代理适应现实世界</title>
 <link>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136038</guid>
@@ -422,14 +430,6 @@
 <pubDate>Thu, 25 Jun 2026 10:00:55 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】IBM 的纳米堆叠晶体管可提升芯片性能或能效。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>百度发布Unlimited OCR，一款3B参数模型，实现长文档解析中KV缓存保持稳定</title>
-<link>https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80702</guid>
-<pubDate>Thu, 25 Jun 2026 05:39:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】百度开源了Unlimited OCR，这是一款3B参数的MoE模型，能够单次前向传播解析数十页文档。其参考滑动窗口注意力（R-SWA）机制使KV缓存保持恒定，因此随着输出增长，内存和延迟保持稳定。该模型在OmniDocBench v1.5上得分为93.23，比DeepSeek OCR基线高出6.22分，采用MIT许可证。文章《百度发布Unlimited OCR，一款3B参数模型，实现长文档解析中KV缓存保持稳定》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI代理如何改变工作方式</title>
