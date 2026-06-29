@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 29 Jun 2026 08:51:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 15:33:48 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>德勤告知自家顾问：AI正在冲击按小时计费模式</title>
+<link>https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37149</guid>
+<pubDate>Mon, 29 Jun 2026 15:14:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】德勤内部演示预测，咨询行业经典的按小时计费模式到2035年将萎缩至市场极小份额，并被AI代理取代。一位顾问总结道：“我们的模式要完蛋了。”麦肯锡和波士顿咨询已在寻找替代收入模式。本文《德勤告知自家顾问：AI正在冲击按小时计费模式》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>机器人手部公司和解特斯拉商业秘密诉讼并宣布完成1100万美元融资</title>
+<link>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3136644</guid>
+<pubDate>Mon, 29 Jun 2026 14:00:08 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】初创公司Proception正采用独特方式收集训练数据，以攻克机器人领域最棘手的难题之一：手部操作。<br/><br/><a href="https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Omen AI 的数据中心优化计划全盘落空</title>
+<link>https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137020</guid>
+<pubDate>Mon, 29 Jun 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Omen AI 筹集了3100万美元的A轮融资，用于监测芯片冷却液并防止数据中心内的细菌爆发。<br/><br/><a href="https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美军用AI筛选数千目标，却忽略标注称其中一处为学校</title>
+<link>https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37145</guid>
+<pubDate>Mon, 29 Jun 2026 12:30:21 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】对伊朗一所学校遭导弹袭击的调查揭示了美军目标锁定基础设施中的严重漏洞。人工智能本应填补这些空白。本文《美军用AI筛选数千目标，却忽略标注称其中一处为学校》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>认识EverOS：一款开源、以Markdown为先的智能体记忆运行时，支持混合BM25+向量检索与自我进化技能</title>
+<link>https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80759</guid>
+<pubDate>Mon, 29 Jun 2026 10:42:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】EverMind 已开源 EverOS，这是一款本地优先的记忆运行时，将AI智能体的记忆以纯Markdown格式存储，并通过SQLite和LanceDB进行索引。它结合了混合BM25+向量检索、多模态数据摄取以及自我进化技能，采用Apache 2.0许可证。本文介绍了它的定义、架构工作原理、基准测试表现以及仍存在的不足——此外还提供了可运行的代码演练和交互式演示。这篇题为《认识EverOS：一款开源、以Markdown为先的智能体记忆运行时，支持混合BM25+向量检索与自我进化技能》的文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Code 未经验证即运行GitHub仓库中的隐藏恶意软件，使攻击者获得完全控制权</title>
+<link>https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37141</guid>
+<pubDate>Mon, 29 Jun 2026 10:04:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Mozilla 0DIN平台的安全研究人员展示了，一个被攻陷的GitHub仓库如何在Claude Code等AI编码工具运行其设置时，立即接管开发者的机器。关键在于：恶意代码仅在运行时通过DNS查询加载，在仓库中、对扫描器以及AI代理本身均不可见。本文《Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>三星和SK海力士计划投资5900亿美元建设芯片工厂，AI需求推动内存价格飙升</title>
 <link>https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/</link>
@@ -14,6 +62,14 @@
 <pubDate>Mon, 29 Jun 2026 08:17:41 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】在韩国政府的支持下，三星和SK海力士正投入5900亿美元建设新的芯片工厂和封装中心，以应对AI数据中心需求的激增。据杰富瑞预测，到2027年，内存价格每季度可能上涨50%。这两家公司控制着全球近80%的HBM市场。本文《三星和SK海力士计划投资5900亿美元建设芯片工厂，AI需求推动内存价格飙升》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>绘制欧洲人工智能劳动力机遇图</title>
+<link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
+<guid isPermaLink="false">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
+<pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI的一份新报告描绘了人工智能如何重塑欧盟各地的工作岗位，重点指出了哪些职业可能面临自动化、增长或工作流程变化。<br/><br/><a href="https://openai.com/index/mapping-ai-jobs-transition-eu">阅读原文</a>]]></description>
 </item>
 <item>
 <title>福特在AI表现不佳后重新聘用“老法师”工程师</title>
@@ -136,36 +192,12 @@
 <description><![CDATA[【techcrunch.com】据称，负责 Vision Pro 头显的苹果副总裁 Paul Meade 将离开公司，加入 OpenAI 的硬件团队。<br/><br/><a href="https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic调查显示半数Claude用户称AI已能承担一半工作</title>
-<link>https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37090</guid>
-<pubDate>Sat, 27 Jun 2026 15:28:59 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic对约9700名用户的调查显示，约半数Claude用户认为AI已能处理其50%或以上的工作任务。12个月内，26%的用户预计AI将覆盖其60%至90%的工作。早期职业阶段的员工最为担忧，而重度用户对自身职业前景最为乐观。本文《Anthropic调查显示半数Claude用户称AI已能承担一半工作》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>房间里最健康的创始人得了癌症。以下是他如何利用AI反击的经过。</title>
 <link>https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136695</guid>
 <pubDate>Sat, 27 Jun 2026 14:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】面对癌症时，康纳·克里斯图将自己治疗方案相关的所有数据——血液检测结果、扫描数据、可穿戴设备输出、日记记录——全部输入了Claude。<br/><br/><a href="https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>摩根大通认为AI市场存在大量危险信号</title>
-<link>https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37083</guid>
-<pubDate>Sat, 27 Jun 2026 13:22:44 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】摩根大通警告称，AI市场出现“投资者狂热迹象”。标普500指数中仅42家AI公司就贡献了该指数总利润的65%至80%。半导体板块的上涨正闪现出互联网泡沫时期曾出现的技术形态，而杠杆芯片ETF自2024年初以来市场影响力已增长五倍。该银行认为，市场、基础设施和经济层面存在多重集中度风险。本文《摩根大通认为AI市场存在大量危险信号》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>最可能自动化你工作的公司，正资助一项10亿美元计划来重新培训你</title>
-<link>https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37063</guid>
-<pubDate>Sat, 27 Jun 2026 12:25:21 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】美国前商务部长吉娜·雷蒙多发起“Raise Us”两党非营利组织，旨在帮助美国工人应对人工智能驱动的就业变革。亚马逊、Anthropic、微软和OpenAI基金会首次联合资助该计划。然而，正是这些推动行业颠覆的企业为应对措施买单，此举可能引发对其独立性的质疑。本文《最可能自动化你工作的公司，正资助一项10亿美元计划来重新培训你》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>亚洲AI初创公司推出类Mythos模型，Anthropic出口禁令持续发酵</title>
@@ -312,14 +344,6 @@
 <description><![CDATA[【openai.com】OpenAI预览了GPT-5.6 Sol，这是一款在编程、科学和网络安全方面能力更强的下一代模型，并配备了其最先进的安全体系。<br/><br/><a href="https://openai.com/index/previewing-gpt-5-6-sol">阅读原文</a>]]></description>
 </item>
 <item>
-<title>认识 container：苹果在 Apple Silicon 上以轻量级虚拟机运行 Linux 容器的开源 Swift 工具</title>
-<link>https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80724</guid>
-<pubDate>Fri, 26 Jun 2026 08:48:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】苹果发布了 container 1.0，这是一款开源 Swift 工具，可在 Apple Silicon 上以轻量级虚拟机的方式运行 Linux 容器。本文《认识 container：苹果在 Apple Silicon 上以轻量级虚拟机运行 Linux 容器的开源 Swift 工具》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>一条命令在 HF 任务上运行 vLLM 服务器</title>
 <link>https://huggingface.co/blog/vllm-jobs</link>
 <guid isPermaLink="false">https://huggingface.co/blog/vllm-jobs</guid>
@@ -408,22 +432,6 @@
 <description><![CDATA[【huggingface.co】(无)<br/><br/><a href="https://huggingface.co/blog/allenai/hybrid-token-prediction">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Netris 从 a16z 获得 1500 万美元 A 轮融资，助力 AI 新云更快上线</title>
-<link>https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136123</guid>
-<pubDate>Thu, 25 Jun 2026 14:55:38 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Netris 提供运行在网络交换机上的软件，并提供一个平台，帮助新云运营商缩短上线时间。<br/><br/><a href="https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>仅剩2天，最高可省190美元：与1000多位创始人和投资者共聚TechCrunch创始人峰会</title>
-<link>https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136070</guid>
-<pubDate>Thu, 25 Jun 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】距离TechCrunch 2026创始人峰会早鸟优惠截止仅剩2天，6月26日太平洋时间晚11:59前注册，最高可省190美元。点击此处报名。<br/><br/><a href="https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>我们如何为 Cloudflare Workflows 构建 Saga 回滚机制</title>
 <link>https://blog.cloudflare.com/rollbacks-for-workflows/</link>
 <guid isPermaLink="false">6BmERiKIIt4pIJoFmNy7Jn</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI和博通联合推出Jalapeño，这是一款专为LLM推理设计的定制AI芯片，旨在提升AI系统的性能、效率和扩展能力。<br/><br/><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过OAuth为所有开发者解锁Cloudflare应用生态系统</title>
-<link>https://blog.cloudflare.com/oauth-for-all/</link>
-<guid isPermaLink="false">77AgsHNNnpUDvP0Z6gqgp6</guid>
-<pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】自管理OAuth现已面向Cloudflare上的所有开发者开放。以下是我们在零停机迁移核心OAuth引擎过程中所采取的实现方式。<br/><br/><a href="https://blog.cloudflare.com/oauth-for-all/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
