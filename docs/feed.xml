@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 29 Jun 2026 02:42:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 08:51:25 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>三星和SK海力士计划投资5900亿美元建设芯片工厂，AI需求推动内存价格飙升</title>
+<link>https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37137</guid>
+<pubDate>Mon, 29 Jun 2026 08:17:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在韩国政府的支持下，三星和SK海力士正投入5900亿美元建设新的芯片工厂和封装中心，以应对AI数据中心需求的激增。据杰富瑞预测，到2027年，内存价格每季度可能上涨50%。这两家公司控制着全球近80%的HBM市场。本文《三星和SK海力士计划投资5900亿美元建设芯片工厂，AI需求推动内存价格飙升》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>福特在AI表现不佳后重新聘用“老法师”工程师</title>
 <link>https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/</link>
@@ -166,14 +174,6 @@
 <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】亚洲正推出新型模型，承诺具备类似Mythos的能力，且无需担忧出口禁令。美国AI实验室可能永远失去这一巨大市场。<br/><br/><a href="https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic 获美国批准，重新部署 Claude Mythos 5</title>
-<link>https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37075</guid>
-<pubDate>Sat, 27 Jun 2026 09:43:39 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic 已获得美国批准，可为运行关键基础设施的组织重新部署 Claude Mythos 5。该公司仍在就更广泛的访问权限以及 Fable 5 的回归进行谈判，目前尚未设定时间表。本文《Anthropic 获美国批准，重新部署 Claude Mythos 5》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta 推出 Astryx：为开源 React 设计系统带来 CLI 和 MCP 服务器，AI 代理可读取</title>
