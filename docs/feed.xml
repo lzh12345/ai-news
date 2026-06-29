@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 28 Jun 2026 20:53:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 02:42:48 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>福特在AI表现不佳后重新聘用“老法师”工程师</title>
@@ -14,6 +14,22 @@
 <pubDate>Sun, 28 Jun 2026 19:05:39 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】“我们错误地认为，只要引入人工智能……就能生产出高质量的产品。”<br/><br/><a href="https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>惠普公司与OpenAI启动Frontier战略合作伙伴关系</title>
+<link>https://openai.com/index/hp-frontier-partnership</link>
+<guid isPermaLink="false">https://openai.com/index/hp-frontier-partnership</guid>
+<pubDate>Sun, 28 Jun 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】惠普公司扩大其与OpenAI的Frontier合作伙伴关系，将人工智能部署于客户体验、软件开发及企业运营中。<br/><br/><a href="https://openai.com/index/hp-frontier-partnership">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OCRmyPDF教程：将扫描文档转换为可搜索的PDF/A文件，支持侧边文本提取与批量处理</title>
+<link>https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80756</guid>
+<pubDate>Sun, 28 Jun 2026 16:47:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用Python构建了一个完整的、自包含的OCRmyPDF流水线。我们生成合成的纯图像PDF，以便无需外部文件即可测试OCR，然后将其转换为可搜索的PDF和PDF/A输出。我们提取侧边文本、验证结果、测量单词召回率，并比较文件大小。我们还调优Tesseract、清理噪声扫描、校正方向、在内存中运行OCR，并对整个文件夹进行批量处理。本文OCRmyPDF教程：将扫描文档转换为可搜索的PDF/A文件，支持侧边文本提取与批量处理最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>华尔街为何认为美国内存制造商美光将成为下一个英伟达</title>
@@ -64,6 +80,22 @@
 <description><![CDATA[【the-decoder.com】新浪微博的VibeThinker-3B仅有30亿参数，但在数学和编程基准测试中却能与DeepSeek V3.2和Kimi K2.5等模型匹敌。这些模型的规模最大可达其333倍。其秘诀并非规模，而是多阶段后训练。研究人员基于发现提出假设：逻辑推理能力可良好压缩至小模型，但广泛的世界知识则无法做到。本文《新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型</title>
+<link>https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80753</guid>
+<pubDate>Sun, 28 Jun 2026 07:02:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Hugging Face的Fable 5 Traces数据集构建了一个稳定的工作流。我们避免使用脆弱的依赖项，并手动解析合并后的JSONL文件，以确保Colab的可靠性。我们检查仓库文件、标准化工具调用、审计数据结构、编辑敏感信息，并可视化关键分布。此外，我们还导出安全的无CoT聊天数据集，并在这些轨迹上训练纯Python的朴素贝叶斯基线模型。本文《在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI 发布 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 进行设备端推理</title>
+<link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80750</guid>
+<pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI 发布了其最小模型 LFM2.5-230M。这款拥有 2.3 亿参数、权重开放的模型可在设备端运行，在 Galaxy S25 Ultra 上达到 213 tok/s，在 Raspberry Pi 5 上达到 42 tok/s。基于 LFM2 架构，该模型专注于工具使用和数据提取，在指令遵循方面超越了 Qwen3.5-0.8B 和 Gemma 3 1B 等更大模型。该文章《Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>软银CEO并非唯一对马斯克的轨道数据中心炒作存疑的人</title>
 <link>https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136985</guid>
@@ -78,6 +110,14 @@
 <pubDate>Sat, 27 Jun 2026 17:03:06 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Anthropic的AI模型Fable 5可能在数日内重新可用。据Axios报道，特朗普政府即将解除6月12日因安全担忧而施加的限制。五角大楼和国家安全局仍需批准。文章《Anthropic的Fable 5或数日内回归，特朗普政府准备解除限制》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DeepSeek发布DSpark推测解码框架，将DeepSeek-V4单用户生成速度较MTP-1提升60–85%</title>
+<link>https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80747</guid>
+<pubDate>Sat, 27 Jun 2026 16:59:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】DeepSeek开源了DSpark，这是一个推测解码框架，可为现有DeepSeek-V4权重附加草稿模块。该框架将并行草稿主干与轻量级马尔可夫头配对以削减后缀衰减，并引入基于置信度的验证机制，根据实时GPU负载动态调整待校验令牌数量。离线测试中，其接受长度较DFlash和Eagle3提升16–31%；生产环境下，单用户生成速度较MTP-1基线无损提升57–85%。训练代码库DeepSpec采用MIT许可证发布。<br/><br/><a href="https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>据报道，Apple Vision Pro 高管将离职加入 OpenAI</title>
@@ -136,12 +176,36 @@
 <description><![CDATA[【the-decoder.com】Anthropic 已获得美国批准，可为运行关键基础设施的组织重新部署 Claude Mythos 5。该公司仍在就更广泛的访问权限以及 Fable 5 的回归进行谈判，目前尚未设定时间表。本文《Anthropic 获美国批准，重新部署 Claude Mythos 5》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Meta 推出 Astryx：为开源 React 设计系统带来 CLI 和 MCP 服务器，AI 代理可读取</title>
+<link>https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80740</guid>
+<pubDate>Sat, 27 Jun 2026 08:38:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Meta 发布了 Astryx，这是一个基于 StyleX 构建的开源 React 设计系统。它将 CSS 变量主题级联与 CLI 和 MCP 服务器相结合，使工程师和 AI 代理都能使用相同的 API 进行构建。该项目目前处于测试阶段，采用 MIT 许可证，并在 Meta 内部经过八年发展。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>特朗普政府发布Anthropic Mythos，供100多家美国企业及机构使用</title>
 <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136944</guid>
 <pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】据报道，超过100家企业和政府机构获准使用Mythos 5，其中包括其非美国籍员工。<br/><br/><a href="https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>基于NVIDIA Open-SWE-Traces构建监督微调数据：轨迹解析、补丁分析、Token预算与工具使用指标</title>
+<link>https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80737</guid>
+<pubDate>Sat, 27 Jun 2026 00:02:33 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用NVIDIA的Open-SWE-Traces数据集，研究用于微调的智能体软件工程轨迹。我们直接从Hugging Face流式传输数据，以便在Google Colab中高效处理，无需本地下载全部内容。我们对多轮智能体对话进行归一化处理，解析最终代码补丁，并构建一个分析数据框，涵盖轨迹长度、工具使用情况、补丁大小、语言分布及解决结果。随后，我们根据成功标签、Token限制、语言筛选及补丁可用性，整理出一个监督微调子集。<br/><br/><a href="https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cursor研究发现奖励黑客行为夸大SWE-bench Pro上编码代理基准测试分数</title>
+<link>https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80734</guid>
+<pubDate>Fri, 26 Jun 2026 23:31:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cursor的一项研究表明，编码代理会检索已知修复方案而非自行推导，通过运行时污染夸大了SWE-bench Pro的分数。该文章《Cursor研究发现奖励黑客行为夸大SWE-bench Pro上编码代理基准测试分数》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>韩国计划将全军训练为“无人机战士”</title>
@@ -158,6 +222,22 @@
 <pubDate>Fri, 26 Jun 2026 20:04:55 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】在美国最高法院对索尼案作出不利裁决后，《纽约时报》调整了对OpenAI/微软的版权指控。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity推出法律顾问计算机：面向法律工作流程的多模型智能代理层</title>
+<link>https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80730</guid>
+<pubDate>Fri, 26 Jun 2026 19:31:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity的“法律顾问计算机”将Perplexity Computer扩展至法律团队。它通过Midpage、MCP连接器和Microsoft 365路由20多个模型，提供可验证的引用输出，供律师核查。本文《Perplexity推出法律顾问计算机：面向法律工作流程的多模型智能代理层》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 预览 GPT-5.6 系列：Sol、Terra 和 Luna——分层模型、新推理模式、有限访问</title>
+<link>https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80727</guid>
+<pubDate>Fri, 26 Jun 2026 19:18:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI 的 GPT-5.6 系列新增了分层模型，支持最大和超强推理模式。以下是初级工程师需要了解的内容。本文《OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI 应政府要求限制 GPT-5.6 发布，称此类限制不应成为常态</title>
@@ -230,6 +310,14 @@
 <pubDate>Fri, 26 Jun 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI预览了GPT-5.6 Sol，这是一款在编程、科学和网络安全方面能力更强的下一代模型，并配备了其最先进的安全体系。<br/><br/><a href="https://openai.com/index/previewing-gpt-5-6-sol">阅读原文</a>]]></description>
+</item>
+<item>
+<title>认识 container：苹果在 Apple Silicon 上以轻量级虚拟机运行 Linux 容器的开源 Swift 工具</title>
+<link>https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80724</guid>
+<pubDate>Fri, 26 Jun 2026 08:48:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】苹果发布了 container 1.0，这是一款开源 Swift 工具，可在 Apple Silicon 上以轻量级虚拟机的方式运行 Linux 容器。本文《认识 container：苹果在 Apple Silicon 上以轻量级虚拟机运行 Linux 容器的开源 Swift 工具》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>一条命令在 HF 任务上运行 vLLM 服务器</title>
@@ -398,94 +486,6 @@
 <pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】自管理OAuth现已面向Cloudflare上的所有开发者开放。以下是我们在零停机迁移核心OAuth引擎过程中所采取的实现方式。<br/><br/><a href="https://blog.cloudflare.com/oauth-for-all/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>FFASR排行榜发布：在真实世界中基准测试语音识别技术</title>
-<link>https://huggingface.co/blog/ffasr-leaderboard</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ffasr-leaderboard</guid>
-<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ffasr-leaderboard">阅读原文</a>]]></description>
-</item>
-<item>
-<title>甲骨文裁员21000人，助力其债务驱动的AI投资</title>
-<link>https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/</guid>
-<pubDate>Tue, 23 Jun 2026 20:17:38 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】甲骨文正投入数十亿美元建设数据中心基础设施，以支持人工智能发展。<br/><br/><a href="https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>后量子行政令是一个重要里程碑。现在是付诸行动的时候了</title>
-<link>https://blog.cloudflare.com/post-quantum-eo-2026/</link>
-<guid isPermaLink="false">6ecffq4Al52D0ka1U4p2OR</guid>
-<pubDate>Tue, 23 Jun 2026 18:25:18 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】新的后量子行政令设定了2030年的迁移截止日期，并为后量子韧性奠定了坚实基础。我们分析了该行政令的亮点、可进一步改进之处，以及为政府和行业制定的迁移行动指南。<br/><br/><a href="https://blog.cloudflare.com/post-quantum-eo-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-5如何帮助免疫学家Derya Unutmaz解开一个持续三年的谜团</title>
-<link>https://openai.com/index/gpt-5-immunology-mystery</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-5-immunology-mystery</guid>
-<pubDate>Tue, 23 Jun 2026 17:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】GPT-5 Pro帮助解开了一个持续三年的免疫学谜团，为T细胞行为提供了新见解。这一突破可能支持癌症和自身免疫疾病的研究。<br/><br/><a href="https://openai.com/index/gpt-5-immunology-mystery">阅读原文</a>]]></description>
-</item>
-<item>
-<title>我自动化了我的工作（这让我成为更好的领导者）</title>
-<link>https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/</link>
-<guid isPermaLink="false">https://github.blog/?p=96931</guid>
-<pubDate>Tue, 23 Jun 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】探索我作为高级领导者的一天如今如何借助40个自动化工具来辅助，并了解更多我最喜欢的自动化工具。这篇文章《我自动化了我的工作（这让我成为更好的领导者）》最初发表在GitHub博客上。<br/><br/><a href="https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub加入联盟，呼吁修改加州AI透明度法案以保护开源</title>
-<link>https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/</link>
-<guid isPermaLink="false">https://github.blog/?p=96970</guid>
-<pubDate>Tue, 23 Jun 2026 15:48:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】我们呼吁进行有针对性的修订，以解决与开源许可的冲突，并与国际透明度框架保持一致，同时保留监管意图。这篇文章《GitHub加入联盟，呼吁修改加州AI透明度法案以保护开源》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>助力构建先进AI的共享标准</title>
-<link>https://openai.com/index/helping-build-shared-standards-for-advanced-ai</link>
-<guid isPermaLink="false">https://openai.com/index/helping-build-shared-standards-for-advanced-ai</guid>
-<pubDate>Tue, 23 Jun 2026 13:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI通过Appia基金会，支持评估框架、安全实践和全球合作，助力构建先进AI的共享标准。<br/><br/><a href="https://openai.com/index/helping-build-shared-standards-for-advanced-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用CUGA构建真正的智能体应用：轻量级框架上的二十余个实用示例</title>
-<link>https://huggingface.co/blog/ibm-research/cuga-apps</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/cuga-apps</guid>
-<pubDate>Tue, 23 Jun 2026 12:51:55 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/cuga-apps">阅读原文</a>]]></description>
-</item>
-<item>
-<title>如何戳破AI泡沫：直击其根源</title>
-<link>https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/</guid>
-<pubDate>Tue, 23 Jun 2026 12:00:34 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】科幻作家/科技记者科里·多克托罗谈论他的新书《AI之后的生活：反向半人马指南》。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>每周发布huggingface_hub，融合AI、开放工具与人工审核</title>
-<link>https://huggingface.co/blog/huggingface-hub-release-ci</link>
-<guid isPermaLink="false">https://huggingface.co/blog/huggingface-hub-release-ci</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/huggingface-hub-release-ci">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在Transformers.js中实验提议的跨源存储API</title>
-<link>https://huggingface.co/blog/cross-origin-storage</link>
-<guid isPermaLink="false">https://huggingface.co/blog/cross-origin-storage</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】(无)<br/><br/><a href="https://huggingface.co/blog/cross-origin-storage">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
