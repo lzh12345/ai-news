@@ -5,8 +5,72 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 29 Jun 2026 15:33:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 18:04:32 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>DiScoFormer：一个适用于密度与分数的跨分布Transformer</title>
+<link>https://huggingface.co/blog/allenai/discoformer</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/discoformer</guid>
+<pubDate>Mon, 29 Jun 2026 18:02:48 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/discoformer">阅读原文</a>]]></description>
+</item>
+<item>
+<title>欧盟寻求AI独立，奥地利提议吸引Anthropic落户欧洲</title>
+<link>https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37155</guid>
+<pubDate>Mon, 29 Jun 2026 17:58:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】奥地利数字化国务秘书亚历山大·普罗尔呼吁欧盟委员会探讨将Anthropic引入欧洲。此举是对美国禁止向外国用户提供OpenAI和Anthropic先进AI模型的回应。然而，这一倡议可能并不现实。而作为替代方案浮出水面的中国AI模型，不过是换一种依赖关系。本文《欧盟寻求AI独立，奥地利提议吸引Anthropic落户欧洲》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>人人都在用的AI排行榜Arena，如今已成为估值1亿美元的业务</title>
+<link>https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137220</guid>
+<pubDate>Mon, 29 Jun 2026 17:39:17 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这家运营着广受欢迎的免费AI排行榜的初创公司，于去年9月才推出其商业服务。<br/><br/><a href="https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Git 2.55 亮点一览</title>
+<link>https://github.blog/open-source/git/highlights-from-git-2-55/</link>
+<guid isPermaLink="false">https://github.blog/?p=97076</guid>
+<pubDate>Mon, 29 Jun 2026 17:25:25 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】开源 Git 项目刚刚发布了 Git 2.55 版本。以下是 GitHub 对自上一版本以来引入的一些最有趣特性和变化的回顾。本文《Git 2.55 亮点一览》首发于 GitHub 博客。<br/><br/><a href="https://github.blog/open-source/git/highlights-from-git-2-55/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cursor 推出移动应用，可随时随地对编程代理进行远程监督</title>
+<link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137155</guid>
+<pubDate>Mon, 29 Jun 2026 17:03:50 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Cursor 发布了一款新的移动应用，用于对编程代理进行远程监督。<br/><br/><a href="https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>TIDAL 打击AI音乐，切断其变现渠道</title>
+<link>https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137152</guid>
+<pubDate>Mon, 29 Jun 2026 16:29:04 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】TIDAL的新政策将阻止AI生成的音乐在其服务上获利。<br/><br/><a href="https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>深入解析咨询数据库：当漏洞数量打破纪录时会发生什么</title>
+<link>https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/</link>
+<guid isPermaLink="false">https://github.blog/?p=97150</guid>
+<pubDate>Mon, 29 Jun 2026 16:10:20 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】GitHub 咨询数据库正在处理比以往更多的漏洞报告。以下是推动这一激增的原因、我们的应对措施以及社区如何提供帮助。本文《深入解析咨询数据库：当漏洞数量打破纪录时会发生什么》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta限制使用Claude Code和Codex，防止竞争对手AI进入其训练数据</title>
+<link>https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37152</guid>
+<pubDate>Mon, 29 Jun 2026 15:47:43 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Meta正在限制其工程师使用Anthropic的Claude和OpenAI的Codex，以防止这些AI工具的输出被纳入其自身的训练数据。本文《Meta restricts use of Claude Code and Codex to keep rival AI out of its training data》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>德勤告知自家顾问：AI正在冲击按小时计费模式</title>
 <link>https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/</link>
@@ -136,14 +200,6 @@
 <description><![CDATA[【the-decoder.com】360创始人周鸿祎推出两款AI安全工具，旨在与Anthropic的Mythos竞争。其中一款工具已标记出3432个漏洞。周鸿祎承认中国模型落后西方模型20%至30%，但将Mythos比作"网络核武器"，并呼吁中国建立自己的战略威慑能力。本文《中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然</title>
-<link>https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37100</guid>
-<pubDate>Sun, 28 Jun 2026 07:44:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】新浪微博的VibeThinker-3B仅有30亿参数，但在数学和编程基准测试中却能与DeepSeek V3.2和Kimi K2.5等模型匹敌。这些模型的规模最大可达其333倍。其秘诀并非规模，而是多阶段后训练。研究人员基于发现提出假设：逻辑推理能力可良好压缩至小模型，但广泛的世界知识则无法做到。本文《新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型</title>
 <link>https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80753</guid>
@@ -166,14 +222,6 @@
 <pubDate>Sat, 27 Jun 2026 20:42:36 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】并非所有人都认同埃隆·马斯克关于轨道数据中心的愿景。<br/><br/><a href="https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic的Fable 5或数日内回归，特朗普政府准备解除限制</title>
-<link>https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37097</guid>
-<pubDate>Sat, 27 Jun 2026 17:03:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic的AI模型Fable 5可能在数日内重新可用。据Axios报道，特朗普政府即将解除6月12日因安全担忧而施加的限制。五角大楼和国家安全局仍需批准。文章《Anthropic的Fable 5或数日内回归，特朗普政府准备解除限制》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>DeepSeek发布DSpark推测解码框架，将DeepSeek-V4单用户生成速度较MTP-1提升60–85%</title>
@@ -400,38 +448,6 @@
 <description><![CDATA[【arstechnica.com】据称，阿里巴巴使用了 25,000 个账户，通过超过 2880 万次交互来挖掘 Claude 的数据。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic的Claude正赢得付费消费者青睐，ChatGPT曾主导的市场格局生变</title>
-<link>https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3135892</guid>
-<pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】数据显示，尽管ChatGPT在市场中占据主导地位，但付费使用AI的消费者正越来越多地选择Anthropic的Claude。<br/><br/><a href="https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>General Intuition 豪掷23亿美元，押注电子游戏可训练AI代理适应现实世界</title>
-<link>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136038</guid>
-<pubDate>Thu, 25 Jun 2026 16:55:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】General Intuition 已筹集3.2亿美元，用于扩大基于数百万小时游戏数据训练的AI规模，押注动作数据能帮助AI发展出更接近人类直觉的能力。<br/><br/><a href="https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Databricks前AI负责人认为可将AI能耗降低1000倍</title>
-<link>https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136344</guid>
-<pubDate>Thu, 25 Jun 2026 16:48:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Un-0是一款图像生成系统工具，首次展示了该公司技术如何复制传统AI系统。<br/><br/><a href="https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>混合模型对哪些令牌的预测更准确？</title>
-<link>https://huggingface.co/blog/allenai/hybrid-token-prediction</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/hybrid-token-prediction</guid>
-<pubDate>Thu, 25 Jun 2026 16:11:42 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】(无)<br/><br/><a href="https://huggingface.co/blog/allenai/hybrid-token-prediction">阅读原文</a>]]></description>
-</item>
-<item>
 <title>我们如何为 Cloudflare Workflows 构建 Saga 回滚机制</title>
 <link>https://blog.cloudflare.com/rollbacks-for-workflows/</link>
 <guid isPermaLink="false">6BmERiKIIt4pIJoFmNy7Jn</guid>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 24 Jun 2026 16:30:01 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用NVIDIA NeMo AutoModel加速Transformer微调</title>
-<link>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</guid>
-<pubDate>Wed, 24 Jun 2026 16:00:13 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI与博通推出针对LLM推理优化的芯片</title>
-<link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
-<guid isPermaLink="false">https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
-<pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI和博通联合推出Jalapeño，这是一款专为LLM推理设计的定制AI芯片，旨在提升AI系统的性能、效率和扩展能力。<br/><br/><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

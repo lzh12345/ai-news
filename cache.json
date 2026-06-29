@@ -1702,5 +1702,37 @@
 "https://openai.com/index/mapping-ai-jobs-transition-eu": {
 "t": "绘制欧洲人工智能劳动力机遇图",
 "s": "OpenAI的一份新报告描绘了人工智能如何重塑欧盟各地的工作岗位，重点指出了哪些职业可能面临自动化、增长或工作流程变化。"
+},
+"https://huggingface.co/blog/allenai/discoformer": {
+"t": "DiScoFormer：一个适用于密度与分数的跨分布Transformer",
+"s": ""
+},
+"https://the-decoder.com/?p=37155": {
+"t": "欧盟寻求AI独立，奥地利提议吸引Anthropic落户欧洲",
+"s": "奥地利数字化国务秘书亚历山大·普罗尔呼吁欧盟委员会探讨将Anthropic引入欧洲。此举是对美国禁止向外国用户提供OpenAI和Anthropic先进AI模型的回应。然而，这一倡议可能并不现实。而作为替代方案浮出水面的中国AI模型，不过是换一种依赖关系。本文《欧盟寻求AI独立，奥地利提议吸引Anthropic落户欧洲》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3137220": {
+"t": "人人都在用的AI排行榜Arena，如今已成为估值1亿美元的业务",
+"s": "这家运营着广受欢迎的免费AI排行榜的初创公司，于去年9月才推出其商业服务。"
+},
+"https://github.blog/?p=97076": {
+"t": "Git 2.55 亮点一览",
+"s": "开源 Git 项目刚刚发布了 Git 2.55 版本。以下是 GitHub 对自上一版本以来引入的一些最有趣特性和变化的回顾。本文《Git 2.55 亮点一览》首发于 GitHub 博客。"
+},
+"https://techcrunch.com/?p=3137155": {
+"t": "Cursor 推出移动应用，可随时随地对编程代理进行远程监督",
+"s": "Cursor 发布了一款新的移动应用，用于对编程代理进行远程监督。"
+},
+"https://techcrunch.com/?p=3137152": {
+"t": "TIDAL 打击AI音乐，切断其变现渠道",
+"s": "TIDAL的新政策将阻止AI生成的音乐在其服务上获利。"
+},
+"https://github.blog/?p=97150": {
+"t": "深入解析咨询数据库：当漏洞数量打破纪录时会发生什么",
+"s": "GitHub 咨询数据库正在处理比以往更多的漏洞报告。以下是推动这一激增的原因、我们的应对措施以及社区如何提供帮助。本文《深入解析咨询数据库：当漏洞数量打破纪录时会发生什么》最初发布于 GitHub 博客。"
+},
+"https://the-decoder.com/?p=37152": {
+"t": "Meta限制使用Claude Code和Codex，防止竞争对手AI进入其训练数据",
+"s": "Meta正在限制其工程师使用Anthropic的Claude和OpenAI的Codex，以防止这些AI工具的输出被纳入其自身的训练数据。本文《Meta restricts use of Claude Code and Codex to keep rival AI out of its training data》最初发表于The Decoder。"
 }
 }
