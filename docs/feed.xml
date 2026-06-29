@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 29 Jun 2026 18:04:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 21:18:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>韩国将投入1万亿韩元扩大存储芯片生产及发展人形机器人</title>
+<link>https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</guid>
+<pubDate>Mon, 29 Jun 2026 21:09:43 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】韩国计划到2028年实现物理AI领先地位并推动人形机器人商业化。<br/><br/><a href="https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gemini个性化AI图像生成功能现已面向美国用户免费开放</title>
+<link>https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137386</guid>
+<pubDate>Mon, 29 Jun 2026 20:12:59 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】谷歌正在将Gemini的个性化AI图像生成功能扩展至美国符合条件的免费用户，允许该聊天机器人根据你的兴趣及关联Google应用的数据生成图像。<br/><br/><a href="https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA BioNeMo Agent Toolkit 将生物分子模型转化为AI智能体在药物发现中的可调用技能</title>
+<link>https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80762</guid>
+<pubDate>Mon, 29 Jun 2026 19:06:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA的开源BioNeMo Agent Toolkit将OpenFold3、DiffDock和GenMol等生物分子模型转化为有文档记录、可调用的AI智能体技能。每项技能描述了模型的目的、输入、产物和故障模式，使智能体能够选择、运行并解释它。在NVIDIA使用Codex CLI和GPT-5.5 fast进行的基准测试中，这些技能将任务完成率从57.1%提升至100%，并将代币效率提高了一倍。该文章NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic与加州州长纽森达成协议，允许加州政府以半价使用Claude</title>
+<link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137238</guid>
+<pubDate>Mon, 29 Jun 2026 18:10:26 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】随着Anthropic与加利福尼亚州建立更紧密的关系，联邦政府却将这家OpenAI的竞争对手视为敌人。<br/><br/><a href="https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>韩国科技巨头承诺投入超5500亿美元缓解“内存危机”</title>
+<link>https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137204</guid>
+<pubDate>Mon, 29 Jun 2026 18:07:48 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】全球最大的两家内存芯片公司誓言建设更多内存实验室工厂，韩国正将自己定位为人工智能技术强国。<br/><br/><a href="https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>据报道，亚马逊工程师正在精简Anthropic模型以降低成本，迎接即将到来的基于代币的定价模式</title>
+<link>https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37161</guid>
+<pubDate>Mon, 29 Jun 2026 18:05:37 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】亚马逊工程师已开始将Anthropic模型精简为更小、更便宜的版本供内部使用。从明年起，亚马逊将按处理的代币数量而非计算时长付费，这可能导致成本大幅上升。该公司也在探索OpenAI等其他替代方案。本文《亚马逊工程师据报道在精简Anthropic模型以降低成本，迎接即将到来的基于代币的定价模式》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>DiScoFormer：一个适用于密度与分数的跨分布Transformer</title>
 <link>https://huggingface.co/blog/allenai/discoformer</link>
@@ -192,14 +240,6 @@
 <description><![CDATA[【the-decoder.com】普林斯顿大学的研究人员构建了CEO-Bench测试，要求AI代理在模拟环境中运营一家虚构软件公司500天。当前大多数模型均以破产告终，而一个基于规则的无AI简单启发式方法几乎击败了所有模型。该文章《仅有三款AI模型在500天创业生存测试中实现资本增值》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑</title>
-<link>https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37108</guid>
-<pubDate>Sun, 28 Jun 2026 09:30:18 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】360创始人周鸿祎推出两款AI安全工具，旨在与Anthropic的Mythos竞争。其中一款工具已标记出3432个漏洞。周鸿祎承认中国模型落后西方模型20%至30%，但将Mythos比作"网络核武器"，并呼吁中国建立自己的战略威慑能力。本文《中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型</title>
 <link>https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80753</guid>
@@ -312,14 +352,6 @@
 <description><![CDATA[【marktechpost.com】Perplexity的“法律顾问计算机”将Perplexity Computer扩展至法律团队。它通过Midpage、MCP连接器和Microsoft 365路由20多个模型，提供可验证的引用输出，供律师核查。本文《Perplexity推出法律顾问计算机：面向法律工作流程的多模型智能代理层》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI 预览 GPT-5.6 系列：Sol、Terra 和 Luna——分层模型、新推理模式、有限访问</title>
-<link>https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80727</guid>
-<pubDate>Fri, 26 Jun 2026 19:18:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI 的 GPT-5.6 系列新增了分层模型，支持最大和超强推理模式。以下是初级工程师需要了解的内容。本文《OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI 应政府要求限制 GPT-5.6 发布，称此类限制不应成为常态</title>
 <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136773</guid>
@@ -368,14 +400,6 @@
 <description><![CDATA[【techcrunch.com】英伟达多年来一直主导着AI芯片市场，但完全依赖它的时代可能即将结束。OpenAI刚刚公布了其与博通合作打造的定制推理芯片Jalapeño计划，加入谷歌、苹果和SpaceX等日益壮大的公司行列，通过自主研发来规避单一供应商风险。其目标是减少对……<br/><br/><a href="https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>TechCrunch创始人峰会早鸟票价今晚截止</title>
-<link>https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136609</guid>
-<pubDate>Fri, 26 Jun 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】参加2026年TechCrunch创始人峰会的通行证可节省高达190美元。早鸟票价将于太平洋时间今晚11:59结束，之后价格将上涨。请立即注册。<br/><br/><a href="https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>作为Hubber的转变</title>
 <link>https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/</link>
 <guid isPermaLink="false">https://github.blog/?p=97031</guid>
@@ -400,28 +424,12 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/vllm-jobs">阅读原文</a>]]></description>
 </item>
 <item>
-<title>白宫因安全顾虑要求OpenAI推迟新模型发布</title>
-<link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136540</guid>
-<pubDate>Thu, 25 Jun 2026 23:34:39 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】据报道，OpenAI计划仅向特定合作伙伴分享其最新模型GPT 5.6，而非面向更广泛的公众。原因在于：特朗普政府已就此提出要求。<br/><br/><a href="https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>评估GitHub Copilot智能体框架在多种模型和任务中的性能与效率</title>
 <link>https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/</link>
 <guid isPermaLink="false">https://github.blog/?p=97041</guid>
 <pubDate>Thu, 25 Jun 2026 22:59:45 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】探索GitHub Copilot智能体框架如何在多个基准测试中取得优异表现，并实现领先的令牌效率，同时保持选择20多种模型的灵活性。本文《评估GitHub Copilot智能体框架在多种模型和任务中的性能与效率》首发于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Patronus AI 获5000万美元融资，打造“数字世界”以压力测试AI智能体</title>
-<link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136499</guid>
-<pubDate>Thu, 25 Jun 2026 20:19:25 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】由前Meta AI研究员创立的智能体测试初创公司Patronus AI，其投资者表示，该公司正面临近乎无法满足的市场需求。<br/><br/><a href="https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Notion 关闭受 Skiff 影响的邮件应用，因多数用户改用 AI 代理</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 24 Jun 2026 22:28:18 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】在应对需求激增的挑战中，芯片领域的竞争正日益白热化。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在 Gemini 3.5 Flash 中引入计算机使用功能</title>
-<link>https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</guid>
-<pubDate>Wed, 24 Jun 2026 16:30:01 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

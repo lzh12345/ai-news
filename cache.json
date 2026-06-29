@@ -1734,5 +1734,29 @@
 "https://the-decoder.com/?p=37152": {
 "t": "Meta限制使用Claude Code和Codex，防止竞争对手AI进入其训练数据",
 "s": "Meta正在限制其工程师使用Anthropic的Claude和OpenAI的Codex，以防止这些AI工具的输出被纳入其自身的训练数据。本文《Meta restricts use of Claude Code and Codex to keep rival AI out of its training data》最初发表于The Decoder。"
+},
+"https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/": {
+"t": "韩国将投入1万亿韩元扩大存储芯片生产及发展人形机器人",
+"s": "韩国计划到2028年实现物理AI领先地位并推动人形机器人商业化。"
+},
+"https://techcrunch.com/?p=3137386": {
+"t": "Gemini个性化AI图像生成功能现已面向美国用户免费开放",
+"s": "谷歌正在将Gemini的个性化AI图像生成功能扩展至美国符合条件的免费用户，允许该聊天机器人根据你的兴趣及关联Google应用的数据生成图像。"
+},
+"https://www.marktechpost.com/?p=80762": {
+"t": "NVIDIA BioNeMo Agent Toolkit 将生物分子模型转化为AI智能体在药物发现中的可调用技能",
+"s": "NVIDIA的开源BioNeMo Agent Toolkit将OpenFold3、DiffDock和GenMol等生物分子模型转化为有文档记录、可调用的AI智能体技能。每项技能描述了模型的目的、输入、产物和故障模式，使智能体能够选择、运行并解释它。在NVIDIA使用Codex CLI和GPT-5.5 fast进行的基准测试中，这些技能将任务完成率从57.1%提升至100%，并将代币效率提高了一倍。该文章NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery首次出现在MarkTechPost上。"
+},
+"https://techcrunch.com/?p=3137238": {
+"t": "Anthropic与加州州长纽森达成协议，允许加州政府以半价使用Claude",
+"s": "随着Anthropic与加利福尼亚州建立更紧密的关系，联邦政府却将这家OpenAI的竞争对手视为敌人。"
+},
+"https://techcrunch.com/?p=3137204": {
+"t": "韩国科技巨头承诺投入超5500亿美元缓解“内存危机”",
+"s": "全球最大的两家内存芯片公司誓言建设更多内存实验室工厂，韩国正将自己定位为人工智能技术强国。"
+},
+"https://the-decoder.com/?p=37161": {
+"t": "据报道，亚马逊工程师正在精简Anthropic模型以降低成本，迎接即将到来的基于代币的定价模式",
+"s": "亚马逊工程师已开始将Anthropic模型精简为更小、更便宜的版本供内部使用。从明年起，亚马逊将按处理的代币数量而非计算时长付费，这可能导致成本大幅上升。该公司也在探索OpenAI等其他替代方案。本文《亚马逊工程师据报道在精简Anthropic模型以降低成本，迎接即将到来的基于代币的定价模式》最初发表于The Decoder。"
 }
 }
