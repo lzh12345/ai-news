@@ -1878,5 +1878,45 @@
 "https://openai.com/index/genebench-pro/case-studies": {
 "t": "Genebench-Pro 内部解析",
 "s": ""
+},
+"https://techcrunch.com/?p=3137627": {
+"t": "打造扑克AI的DeepMind三人组，如今正为量化对冲基金赚钱",
+"s": "EquiLibre Technologies，一家由三位前DeepMind研究员创立的布拉格AI实验室，目前估值已超过5亿美元。"
+},
+"https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/": {
+"t": "新攻击再次证明AI浏览器并非好主意",
+"s": "只需告诉大语言模型2加2等于5，就足以让它执行被禁止的指令。"
+},
+"https://techcrunch.com/?p=3137719": {
+"t": "谷歌推出更快、更便宜的图像生成器Nano Banana 2 Lite",
+"s": "谷歌正在更新其图像生成器，使其更快、更便宜，从而成为创作者制作AI内容时更有用的工具。"
+},
+"https://the-decoder.com/?p=37215": {
+"t": "Anthropic 新发布的 Claude Sonnet 5 缩小了与更昂贵的 Opus 模型系列的差距",
+"s": "Anthropic 发布了 Claude Sonnet 5，该模型在所有基准测试中均超越了前代 Sonnet 4.6，甚至在 GDPval-AA v2 知识工作测试中以 1,618 分的成绩略胜于更大的 Opus 4.8。Anthropic 还迅速指出，在网络安全任务方面，该模型的得分远低于美国政府目前封锁的模型，这很可能是针对当前辩论发出的一个有意信号。文章《Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series》最初发表于 The Decoder。"
+},
+"https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/": {
+"t": "谷歌推出最新最快、最经济的Nano Banana 2 Lite图像模型",
+"s": "虽然生成图像的质量可能不如以往，但Nano Banana 2 Lite仅需几秒钟即可完成图像创作。"
+},
+"https://huggingface.co/blog/ibm-research/scarfbench": {
+"t": "ScarfBench：面向企业Java框架迁移的AI智能体基准测试",
+"s": ""
+},
+"https://techcrunch.com/?p=3137668": {
+"t": "Nvidia竞争对手Etched估值达50亿美元，AI芯片销售额达10亿美元",
+"s": "Nvidia的AI芯片竞争对手Etched表示，其芯片驱动的推理系统已签订价值10亿美元的合同。"
+},
+"https://the-decoder.com/?p=37210": {
+"t": "Anthropic 推出 Claude Science，专为研究人员打造的 AI 工作空间",
+"s": "Anthropic 发布了 Claude Science，这是一个面向研究人员的 AI 工作台。超过 60 项预配置技能覆盖基因组学和计算化学等领域，一个验证代理可自动检查引用和计算。该应用可在本地或 HPC 集群上运行，因此敏感数据无需离开实验室自身的基础设施。文章《Anthropic launches Claude Science, an AI workspace built specifically for researchers》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3137723": {
+"t": "Anthropic 推出 Claude Sonnet 5，以更低成本运行智能体",
+"s": "Anthropic 的 Claude Sonnet 5 带来了更强的智能体能力、更低的价格以及改进的安全性，将该模型定位为 Opus、GPT-5.5 和 Gemini Pro 的更廉价替代方案。"
+},
+"https://techcrunch.com/?p=3137678": {
+"t": "Acti 将AI智能体直接嵌入智能手机键盘",
+"s": "Acti 认为智能手机键盘将成为AI助手的下一个主场。这家初创公司为iOS和Android打造的新款键盘可跨应用运行，并允许用户通过自然语言创建自定义的AI驱动快捷操作。"
 }
 }

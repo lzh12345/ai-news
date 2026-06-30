@@ -5,8 +5,88 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 30 Jun 2026 17:48:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 21:23:19 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>打造扑克AI的DeepMind三人组，如今正为量化对冲基金赚钱</title>
+<link>https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137627</guid>
+<pubDate>Tue, 30 Jun 2026 20:33:48 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】EquiLibre Technologies，一家由三位前DeepMind研究员创立的布拉格AI实验室，目前估值已超过5亿美元。<br/><br/><a href="https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>新攻击再次证明AI浏览器并非好主意</title>
+<link>https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</guid>
+<pubDate>Tue, 30 Jun 2026 20:03:14 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】只需告诉大语言模型2加2等于5，就足以让它执行被禁止的指令。<br/><br/><a href="https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌推出更快、更便宜的图像生成器Nano Banana 2 Lite</title>
+<link>https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137719</guid>
+<pubDate>Tue, 30 Jun 2026 19:02:38 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】谷歌正在更新其图像生成器，使其更快、更便宜，从而成为创作者制作AI内容时更有用的工具。<br/><br/><a href="https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 新发布的 Claude Sonnet 5 缩小了与更昂贵的 Opus 模型系列的差距</title>
+<link>https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37215</guid>
+<pubDate>Tue, 30 Jun 2026 18:46:10 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic 发布了 Claude Sonnet 5，该模型在所有基准测试中均超越了前代 Sonnet 4.6，甚至在 GDPval-AA v2 知识工作测试中以 1,618 分的成绩略胜于更大的 Opus 4.8。Anthropic 还迅速指出，在网络安全任务方面，该模型的得分远低于美国政府目前封锁的模型，这很可能是针对当前辩论发出的一个有意信号。文章《Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌推出最新最快、最经济的Nano Banana 2 Lite图像模型</title>
+<link>https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/</guid>
+<pubDate>Tue, 30 Jun 2026 18:36:10 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】虽然生成图像的质量可能不如以往，但Nano Banana 2 Lite仅需几秒钟即可完成图像创作。<br/><br/><a href="https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ScarfBench：面向企业Java框架迁移的AI智能体基准测试</title>
+<link>https://huggingface.co/blog/ibm-research/scarfbench</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/scarfbench</guid>
+<pubDate>Tue, 30 Jun 2026 18:32:50 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/scarfbench">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia竞争对手Etched估值达50亿美元，AI芯片销售额达10亿美元</title>
+<link>https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137668</guid>
+<pubDate>Tue, 30 Jun 2026 18:13:02 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Nvidia的AI芯片竞争对手Etched表示，其芯片驱动的推理系统已签订价值10亿美元的合同。<br/><br/><a href="https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 推出 Claude Science，专为研究人员打造的 AI 工作空间</title>
+<link>https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37210</guid>
+<pubDate>Tue, 30 Jun 2026 18:03:48 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic 发布了 Claude Science，这是一个面向研究人员的 AI 工作台。超过 60 项预配置技能覆盖基因组学和计算化学等领域，一个验证代理可自动检查引用和计算。该应用可在本地或 HPC 集群上运行，因此敏感数据无需离开实验室自身的基础设施。文章《Anthropic launches Claude Science, an AI workspace built specifically for researchers》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 推出 Claude Sonnet 5，以更低成本运行智能体</title>
+<link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137723</guid>
+<pubDate>Tue, 30 Jun 2026 18:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic 的 Claude Sonnet 5 带来了更强的智能体能力、更低的价格以及改进的安全性，将该模型定位为 Opus、GPT-5.5 和 Gemini Pro 的更廉价替代方案。<br/><br/><a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Acti 将AI智能体直接嵌入智能手机键盘</title>
+<link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137678</guid>
+<pubDate>Tue, 30 Jun 2026 17:52:46 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Acti 认为智能手机键盘将成为AI助手的下一个主场。这家初创公司为iOS和Android打造的新款键盘可跨应用运行，并允许用户通过自然语言创建自定义的AI驱动快捷操作。<br/><br/><a href="https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI 据称将访客ChatGPT用户的响应成本削减逾半</title>
 <link>https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/</link>
@@ -168,14 +248,6 @@
 <description><![CDATA[【the-decoder.com】Deepseek的新框架DSpark将每位用户的响应速度提升了60%至85%。一个小模型提出令牌候选，由大模型批量检查，从而在更少的芯片上榨取更多性能。这可能进一步减少中国对美国高端硬件的依赖。文章《Deepseek的DSpark将AI速度提升高达85%，在美国出口管制收紧下取得战略胜利》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta AI 发布 Brain2Qwerty v2：一种非侵入式 MEG 脑到文本管道，以 61% 的词准确率解码打字句子</title>
-<link>https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80773</guid>
-<pubDate>Tue, 30 Jun 2026 08:13:41 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta AI 发布了 Brain2Qwerty v2，这是一种非侵入式 MEG 脑到文本管道，词准确率达到 61%，并开放了训练代码。该文章《Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI就业之争变得更加复杂</title>
 <link>https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3137448</guid>
@@ -224,22 +296,6 @@
 <description><![CDATA[【openai.com】<br/><br/><a href="https://openai.com/index/genebench-pro/case-studies">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenClaw 发布 iOS 和 Android 配套节点应用，将手机连接至自托管 AI 代理网关</title>
-<link>https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80768</guid>
-<pubDate>Mon, 29 Jun 2026 23:41:29 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenClaw 的 iOS 和 Android 应用是配套节点，而非独立聊天机器人。每部手机通过 WebSocket 与自托管网关配对。这为本地优先的 AI 代理增添了设备硬件功能——摄像头、位置、语音和 Canvas。本文介绍了其架构、能力以及开发者需权衡的利弊。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>PyGraphistry 实现工作流：安全分析与风险调查中的交互式图智能管道</title>
-<link>https://www.marktechpost.com/2026/06/29/pygraphistry-implementation-workflow-for-interactive-graph-intelligence-pipelines-in-security-analytics-and-risk-investigation/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80765</guid>
-<pubDate>Mon, 29 Jun 2026 21:34:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】我们构建了一个可在 Colab 中运行的 PyGraphistry 工作流，用于对企业访问数据进行交互式图分析。我们生成了一个包含用户、设备、IP、服务、角色和地理位置的合成数据集，并将其转换为节点和边。我们通过风险评分、中心性指标、社区检测、孤立森林异常分数以及 UMAP 布局嵌入来丰富图数据。然后，我们将图绑定到 PyGraphistry 中，并生成本地 PyVis 可视化，包括全图、自我图和高风险视图。<br/><br/><a href="https://www.marktechpost.com/2026/06/29/pygraphistry-implementation-workflow-for-interactive-graph-intelligence-pipelines-in-security-analytics-and-risk-investigation/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>韩国将投入1万亿韩元扩大存储芯片生产及发展人形机器人</title>
 <link>https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</guid>
@@ -254,14 +310,6 @@
 <pubDate>Mon, 29 Jun 2026 20:12:59 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】谷歌正在将Gemini的个性化AI图像生成功能扩展至美国符合条件的免费用户，允许该聊天机器人根据你的兴趣及关联Google应用的数据生成图像。<br/><br/><a href="https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA BioNeMo Agent Toolkit 将生物分子模型转化为AI智能体在药物发现中的可调用技能</title>
-<link>https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80762</guid>
-<pubDate>Mon, 29 Jun 2026 19:06:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA的开源BioNeMo Agent Toolkit将OpenFold3、DiffDock和GenMol等生物分子模型转化为有文档记录、可调用的AI智能体技能。每项技能描述了模型的目的、输入、产物和故障模式，使智能体能够选择、运行并解释它。在NVIDIA使用Codex CLI和GPT-5.5 fast进行的基准测试中，这些技能将任务完成率从57.1%提升至100%，并将代币效率提高了一倍。该文章NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic与加州州长纽森达成协议，允许加州政府以半价使用Claude</title>
@@ -280,28 +328,12 @@
 <description><![CDATA[【techcrunch.com】全球最大的两家内存芯片公司誓言建设更多内存实验室工厂，韩国正将自己定位为人工智能技术强国。<br/><br/><a href="https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>据报道，亚马逊工程师正在精简Anthropic模型以降低成本，迎接即将到来的基于代币的定价模式</title>
-<link>https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37161</guid>
-<pubDate>Mon, 29 Jun 2026 18:05:37 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】亚马逊工程师已开始将Anthropic模型精简为更小、更便宜的版本供内部使用。从明年起，亚马逊将按处理的代币数量而非计算时长付费，这可能导致成本大幅上升。该公司也在探索OpenAI等其他替代方案。本文《亚马逊工程师据报道在精简Anthropic模型以降低成本，迎接即将到来的基于代币的定价模式》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>DiScoFormer：一个适用于密度与分数的跨分布Transformer</title>
 <link>https://huggingface.co/blog/allenai/discoformer</link>
 <guid isPermaLink="false">https://huggingface.co/blog/allenai/discoformer</guid>
 <pubDate>Mon, 29 Jun 2026 18:02:48 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/discoformer">阅读原文</a>]]></description>
-</item>
-<item>
-<title>欧盟寻求AI独立，奥地利提议吸引Anthropic落户欧洲</title>
-<link>https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37155</guid>
-<pubDate>Mon, 29 Jun 2026 17:58:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】奥地利数字化国务秘书亚历山大·普罗尔呼吁欧盟委员会探讨将Anthropic引入欧洲。此举是对美国禁止向外国用户提供OpenAI和Anthropic先进AI模型的回应。然而，这一倡议可能并不现实。而作为替代方案浮出水面的中国AI模型，不过是换一种依赖关系。本文《欧盟寻求AI独立，奥地利提议吸引Anthropic落户欧洲》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>人人都在用的AI排行榜Arena，如今已成为估值1亿美元的业务</title>
@@ -352,22 +384,6 @@
 <description><![CDATA[【techcrunch.com】初创公司Proception正采用独特方式收集训练数据，以攻克机器人领域最棘手的难题之一：手部操作。<br/><br/><a href="https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Omen AI 的数据中心优化计划全盘落空</title>
-<link>https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137020</guid>
-<pubDate>Mon, 29 Jun 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Omen AI 筹集了3100万美元的A轮融资，用于监测芯片冷却液并防止数据中心内的细菌爆发。<br/><br/><a href="https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>认识EverOS：一款开源、以Markdown为先的智能体记忆运行时，支持混合BM25+向量检索与自我进化技能</title>
-<link>https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80759</guid>
-<pubDate>Mon, 29 Jun 2026 10:42:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】EverMind 已开源 EverOS，这是一款本地优先的记忆运行时，将AI智能体的记忆以纯Markdown格式存储，并通过SQLite和LanceDB进行索引。它结合了混合BM25+向量检索、多模态数据摄取以及自我进化技能，采用Apache 2.0许可证。本文介绍了它的定义、架构工作原理、基准测试表现以及仍存在的不足——此外还提供了可运行的代码演练和交互式演示。这篇题为《认识EverOS：一款开源、以Markdown为先的智能体记忆运行时，支持混合BM25+向量检索与自我进化技能》的文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>绘制欧洲人工智能劳动力机遇图</title>
 <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
 <guid isPermaLink="false">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
@@ -376,84 +392,12 @@
 <description><![CDATA[【openai.com】OpenAI的一份新报告描绘了人工智能如何重塑欧盟各地的工作岗位，重点指出了哪些职业可能面临自动化、增长或工作流程变化。<br/><br/><a href="https://openai.com/index/mapping-ai-jobs-transition-eu">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI工程师/开发者必备的六大无代码工具</title>
-<link>https://www.marktechpost.com/2026/06/28/top-6-no-code-tools-for-ai-engineers-developers/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=74539</guid>
-<pubDate>Mon, 29 Jun 2026 03:20:00 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在当今AI驱动的世界中，无代码工具正在改变人们创建和部署智能应用的方式。它们使任何人——无论编码技能如何——都能快速高效地构建解决方案。从开发企业级RAG系统到设计多智能体工作流，再到微调数百个大型语言模型，这些平台大幅减少了开发时间和精力。本文将探讨六款强大的工具……本文《AI工程师/开发者必备的六大无代码工具》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/28/top-6-no-code-tools-for-ai-engineers-developers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>福特在AI表现不佳后重新聘用“老法师”工程师</title>
-<link>https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137021</guid>
-<pubDate>Sun, 28 Jun 2026 19:05:39 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】“我们错误地认为，只要引入人工智能……就能生产出高质量的产品。”<br/><br/><a href="https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>惠普公司与OpenAI启动Frontier战略合作伙伴关系</title>
 <link>https://openai.com/index/hp-frontier-partnership</link>
 <guid isPermaLink="false">https://openai.com/index/hp-frontier-partnership</guid>
 <pubDate>Sun, 28 Jun 2026 17:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】惠普公司扩大其与OpenAI的Frontier合作伙伴关系，将人工智能部署于客户体验、软件开发及企业运营中。<br/><br/><a href="https://openai.com/index/hp-frontier-partnership">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OCRmyPDF教程：将扫描文档转换为可搜索的PDF/A文件，支持侧边文本提取与批量处理</title>
-<link>https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80756</guid>
-<pubDate>Sun, 28 Jun 2026 16:47:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们使用Python构建了一个完整的、自包含的OCRmyPDF流水线。我们生成合成的纯图像PDF，以便无需外部文件即可测试OCR，然后将其转换为可搜索的PDF和PDF/A输出。我们提取侧边文本、验证结果、测量单词召回率，并比较文件大小。我们还调优Tesseract、清理噪声扫描、校正方向、在内存中运行OCR，并对整个文件夹进行批量处理。本文OCRmyPDF教程：将扫描文档转换为可搜索的PDF/A文件，支持侧边文本提取与批量处理最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>华尔街为何认为美国内存制造商美光将成为下一个英伟达</title>
-<link>https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136862</guid>
-<pubDate>Sun, 28 Jun 2026 15:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】急于寻找更多可能像英伟达一样表现出色的公开AI相关公司，华尔街投资者认为他们在美光身上找到了赢家。<br/><br/><a href="https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型</title>
-<link>https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80753</guid>
-<pubDate>Sun, 28 Jun 2026 07:02:54 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Hugging Face的Fable 5 Traces数据集构建了一个稳定的工作流。我们避免使用脆弱的依赖项，并手动解析合并后的JSONL文件，以确保Colab的可靠性。我们检查仓库文件、标准化工具调用、审计数据结构、编辑敏感信息，并可视化关键分布。此外，我们还导出安全的无CoT聊天数据集，并在这些轨迹上训练纯Python的朴素贝叶斯基线模型。本文《在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Liquid AI 发布 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 进行设备端推理</title>
-<link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80750</guid>
-<pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI 发布了其最小模型 LFM2.5-230M。这款拥有 2.3 亿参数、权重开放的模型可在设备端运行，在 Galaxy S25 Ultra 上达到 213 tok/s，在 Raspberry Pi 5 上达到 42 tok/s。基于 LFM2 架构，该模型专注于工具使用和数据提取，在指令遵循方面超越了 Qwen3.5-0.8B 和 Gemma 3 1B 等更大模型。该文章《Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>软银CEO并非唯一对马斯克的轨道数据中心炒作存疑的人</title>
-<link>https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136985</guid>
-<pubDate>Sat, 27 Jun 2026 20:42:36 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】并非所有人都认同埃隆·马斯克关于轨道数据中心的愿景。<br/><br/><a href="https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepSeek发布DSpark推测解码框架，将DeepSeek-V4单用户生成速度较MTP-1提升60–85%</title>
-<link>https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80747</guid>
-<pubDate>Sat, 27 Jun 2026 16:59:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepSeek开源了DSpark，这是一个推测解码框架，可为现有DeepSeek-V4权重附加草稿模块。该框架将并行草稿主干与轻量级马尔可夫头配对以削减后缀衰减，并引入基于置信度的验证机制，根据实时GPU负载动态调整待校验令牌数量。离线测试中，其接受长度较DFlash和Eagle3提升16–31%；生产环境下，单用户生成速度较MTP-1基线无损提升57–85%。训练代码库DeepSpec采用MIT许可证发布。<br/><br/><a href="https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>据报道，Apple Vision Pro 高管将离职加入 OpenAI</title>
-<link>https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136981</guid>
-<pubDate>Sat, 27 Jun 2026 16:45:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】据称，负责 Vision Pro 头显的苹果副总裁 Paul Meade 将离开公司，加入 OpenAI 的硬件团队。<br/><br/><a href="https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>韩国计划将全军训练为“无人机战士”</title>
@@ -486,6 +430,62 @@
 <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】GitHub的文化与福利如何帮助我成为最好的自己。这篇文章《作为Hubber的转变》最初发表于GitHub博客。<br/><br/><a href="https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>预览GPT-5.6 Sol：下一代模型</title>
+<link>https://openai.com/index/previewing-gpt-5-6-sol</link>
+<guid isPermaLink="false">https://openai.com/index/previewing-gpt-5-6-sol</guid>
+<pubDate>Fri, 26 Jun 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI预览了GPT-5.6 Sol，这是一款在编程、科学和网络安全方面能力更强的下一代模型，并配备了其最先进的安全体系。<br/><br/><a href="https://openai.com/index/previewing-gpt-5-6-sol">阅读原文</a>]]></description>
+</item>
+<item>
+<title>一条命令在 HF 任务上运行 vLLM 服务器</title>
+<link>https://huggingface.co/blog/vllm-jobs</link>
+<guid isPermaLink="false">https://huggingface.co/blog/vllm-jobs</guid>
+<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/vllm-jobs">阅读原文</a>]]></description>
+</item>
+<item>
+<title>评估GitHub Copilot智能体框架在多种模型和任务中的性能与效率</title>
+<link>https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/</link>
+<guid isPermaLink="false">https://github.blog/?p=97041</guid>
+<pubDate>Thu, 25 Jun 2026 22:59:45 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】探索GitHub Copilot智能体框架如何在多个基准测试中取得优异表现，并实现领先的令牌效率，同时保持选择20多种模型的灵活性。本文《评估GitHub Copilot智能体框架在多种模型和任务中的性能与效率》首发于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Notion 关闭受 Skiff 影响的邮件应用，因多数用户改用 AI 代理</title>
+<link>https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</link>
+<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</guid>
+<pubDate>Thu, 25 Jun 2026 19:04:57 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Notion 正“全力投入使用代理来管理你的收件箱”。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌终于推出金融安卓应用，承诺2026年晚些时候发布iOS版本</title>
+<link>https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/</link>
+<guid isPermaLink="false">https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/</guid>
+<pubDate>Thu, 25 Jun 2026 18:38:51 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】历经20年，金融应用终于面世，并恰逢其时地融入了大量人工智能功能。<br/><br/><a href="https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 指控阿里巴巴无视特朗普禁令，攻击 Claude 并窃取技术能力</title>
+<link>https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/</guid>
+<pubDate>Thu, 25 Jun 2026 18:01:48 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】据称，阿里巴巴使用了 25,000 个账户，通过超过 2880 万次交互来挖掘 Claude 的数据。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们如何为 Cloudflare Workflows 构建 Saga 回滚机制</title>
+<link>https://blog.cloudflare.com/rollbacks-for-workflows/</link>
+<guid isPermaLink="false">6BmERiKIIt4pIJoFmNy7Jn</guid>
+<pubDate>Thu, 25 Jun 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare Workflows（我们的多步骤应用持久化执行引擎）现已支持 Saga 风格的回滚机制，允许开发者为每个 do() 步骤指定补偿操作。<br/><br/><a href="https://blog.cloudflare.com/rollbacks-for-workflows/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
