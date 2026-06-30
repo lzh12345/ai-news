@@ -1806,5 +1806,77 @@
 "https://huggingface.co/blog/eee-community-evals": {
 "t": "Hugging Face 模型页面现已收录所有评估结果",
 "s": ""
+},
+"https://the-decoder.com/?p=37206": {
+"t": "OpenAI 据称将访客ChatGPT用户的响应成本削减逾半",
+"s": "据《The Information》报道，OpenAI 已将其AI模型的推理成本削减逾半。该公司将优化应用于ChatGPT，使得所需的英伟达GPU数量有时降至仅几百块。文章《OpenAI reportedly cut response costs for guest ChatGPT users by more than half》最初发布于The Decoder。"
+},
+"https://github.blog/?p=97187": {
+"t": "GitHub 如何维护开源依赖项的合规性",
+"s": "探索开源项目办公室如何利用 GitHub 新的许可证合规产品大规模管理开源依赖项。本文《GitHub 如何维护开源依赖项的合规性》最初发布于 GitHub 博客。"
+},
+"https://the-decoder.com/?p=37194": {
+"t": "谷歌推出Nano Banana 2 Lite实现快速AI图像生成，以及通过API提供视频生成的Gemini Omni Flash",
+"s": "谷歌新增两款生成式AI模型。Nano Banana 2 Lite可在四秒内生成图像，每次生成成本为0.034美元。Gemini Omni Flash首次通过API实现基于文本提示的视频生成与编辑功能。谷歌建议将这两款模型串联使用，从快速生成图像到制作动画视频。本文《谷歌推出Nano Banana 2 Lite实现快速AI图像生成，以及通过API提供视频生成的Gemini Omni Flash》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3137674": {
+"t": "Anthropic的Claude Science押注工作流而非新模型，以赢得科学家青睐",
+"s": "Anthropic的Claude Science是一个工作台，为科学家提供单一环境进行计算研究，免去他们在数据库、管道和工具之间来回切换的麻烦。"
+},
+"https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/": {
+"t": "特朗普计划重新设计所有.gov网站，结果却催生了AI设计的恐怖景象",
+"s": "一年过去了，国家设计工作室推迟了更新政府网站标准的计划。"
+},
+"https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": {
+"t": "开始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 进行开发",
+"s": ""
+},
+"https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/": {
+"t": "报道称，特朗普曾向马斯克索要SpaceX股票，用于为美国儿童设立储蓄账户",
+"s": "消息人士称，马斯克可能正在考虑向特朗普账户进行大额捐赠。"
+},
+"https://the-decoder.com/?p=37188": {
+"t": "美团LongCat-2.0证明中国无需英伟达即可训练大规模AI模型",
+"s": "美团完全使用中国芯片训练了一个1.6万亿参数的AI模型，无需英伟达。文章《美团LongCat-2.0证明中国无需英伟达即可训练大规模AI模型》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3137526": {
+"t": "X 推出 MCP 服务器，让 AI 工具更易接入其平台",
+"s": "X 已推出托管式 MCP 服务器，使开发者能够更便捷地将 AI 应用与该公司的 API 进行连接。"
+},
+"https://the-decoder.com/?p=37184": {
+"t": "旧金山AI热潮让六位数收入的科技工作者也租不起房，租金低于5000美元难寻",
+"s": "旧金山的AI热潮正迅速推高生活成本，以至于年收入36.5万美元的夫妇都找不到负担得起的公寓。该市租金中位数已达3827美元，房屋均价为170万美元。OpenAI和Anthropic的预期IPO可能让那些未从AI热潮中获益的人处境更糟。本文《旧金山AI热潮让六位数收入的科技工作者也租不起房，租金低于5000美元难寻》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3135237": {
+"t": "播客平台Riverside进军新闻通讯出版领域",
+"s": "用户将能够利用AI基于其录音内容创建新闻通讯。"
+},
+"https://techcrunch.com/?p=3137516": {
+"t": "亚马逊效仿OpenAI和Anthropic，成立新的10亿美元FDE组织",
+"s": "新团队的工程师将嵌入企业，部署专用智能体，专注于快速部署和客户自主能力。"
+},
+"https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable": {
+"t": "专业化为何不可避免",
+"s": ""
+},
+"https://techcrunch.com/?p=3137266": {
+"t": "Proton 旗下注重隐私的 AI 聊天机器人 Lumo 迎来升级",
+"s": "Proton 的 Lumo 2.0 将于本周发布，为用户提供更广泛的功能。"
+},
+"https://openai.com/index/how-chatgpt-adoption-has-expanded": {
+"t": "ChatGPT 采用范围如何扩大",
+"s": "OpenAI 最新信号数据显示，ChatGPT 的全球采用率正在增长，用户使用频率增加、探索更多功能，并在不同地区和语言中推动增长。"
+},
+"https://openai.com/index/introducing-genebench-pro": {
+"t": "GeneBench-Pro 正式发布",
+"s": "GeneBench-Pro 正式发布，这是一个全新的基准测试，利用复杂的真实世界数据集，评估人工智能在基因组学、生物学及科学研究中的性能表现。"
+},
+"https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": {
+"t": "核心转储流行病学：修复一个存在18年的漏洞",
+"s": "OpenAI工程师利用大规模核心转储分析来调试罕见的基础设施崩溃，发现了一个硬件故障和一个长期存在的软件漏洞。"
+},
+"https://openai.com/index/genebench-pro/case-studies": {
+"t": "Genebench-Pro 内部解析",
+"s": ""
 }
 }

@@ -5,8 +5,120 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 30 Jun 2026 14:00:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 17:48:06 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI 据称将访客ChatGPT用户的响应成本削减逾半</title>
+<link>https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37206</guid>
+<pubDate>Tue, 30 Jun 2026 17:43:27 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据《The Information》报道，OpenAI 已将其AI模型的推理成本削减逾半。该公司将优化应用于ChatGPT，使得所需的英伟达GPU数量有时降至仅几百块。文章《OpenAI reportedly cut response costs for guest ChatGPT users by more than half》最初发布于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub 如何维护开源依赖项的合规性</title>
+<link>https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/</link>
+<guid isPermaLink="false">https://github.blog/?p=97187</guid>
+<pubDate>Tue, 30 Jun 2026 17:28:16 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】探索开源项目办公室如何利用 GitHub 新的许可证合规产品大规模管理开源依赖项。本文《GitHub 如何维护开源依赖项的合规性》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌推出Nano Banana 2 Lite实现快速AI图像生成，以及通过API提供视频生成的Gemini Omni Flash</title>
+<link>https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37194</guid>
+<pubDate>Tue, 30 Jun 2026 17:17:33 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌新增两款生成式AI模型。Nano Banana 2 Lite可在四秒内生成图像，每次生成成本为0.034美元。Gemini Omni Flash首次通过API实现基于文本提示的视频生成与编辑功能。谷歌建议将这两款模型串联使用，从快速生成图像到制作动画视频。本文《谷歌推出Nano Banana 2 Lite实现快速AI图像生成，以及通过API提供视频生成的Gemini Omni Flash》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic的Claude Science押注工作流而非新模型，以赢得科学家青睐</title>
+<link>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137674</guid>
+<pubDate>Tue, 30 Jun 2026 17:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic的Claude Science是一个工作台，为科学家提供单一环境进行计算研究，免去他们在数据库、管道和工具之间来回切换的麻烦。<br/><br/><a href="https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>特朗普计划重新设计所有.gov网站，结果却催生了AI设计的恐怖景象</title>
+<link>https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</guid>
+<pubDate>Tue, 30 Jun 2026 16:59:02 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】一年过去了，国家设计工作室推迟了更新政府网站标准的计划。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>开始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 进行开发</title>
+<link>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</guid>
+<pubDate>Tue, 30 Jun 2026 16:02:40 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>报道称，特朗普曾向马斯克索要SpaceX股票，用于为美国儿童设立储蓄账户</title>
+<link>https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/</guid>
+<pubDate>Tue, 30 Jun 2026 15:38:08 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】消息人士称，马斯克可能正在考虑向特朗普账户进行大额捐赠。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美团LongCat-2.0证明中国无需英伟达即可训练大规模AI模型</title>
+<link>https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37188</guid>
+<pubDate>Tue, 30 Jun 2026 15:23:46 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】美团完全使用中国芯片训练了一个1.6万亿参数的AI模型，无需英伟达。文章《美团LongCat-2.0证明中国无需英伟达即可训练大规模AI模型》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>X 推出 MCP 服务器，让 AI 工具更易接入其平台</title>
+<link>https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137526</guid>
+<pubDate>Tue, 30 Jun 2026 15:08:42 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】X 已推出托管式 MCP 服务器，使开发者能够更便捷地将 AI 应用与该公司的 API 进行连接。<br/><br/><a href="https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>旧金山AI热潮让六位数收入的科技工作者也租不起房，租金低于5000美元难寻</title>
+<link>https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37184</guid>
+<pubDate>Tue, 30 Jun 2026 15:04:55 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】旧金山的AI热潮正迅速推高生活成本，以至于年收入36.5万美元的夫妇都找不到负担得起的公寓。该市租金中位数已达3827美元，房屋均价为170万美元。OpenAI和Anthropic的预期IPO可能让那些未从AI热潮中获益的人处境更糟。本文《旧金山AI热潮让六位数收入的科技工作者也租不起房，租金低于5000美元难寻》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>播客平台Riverside进军新闻通讯出版领域</title>
+<link>https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3135237</guid>
+<pubDate>Tue, 30 Jun 2026 15:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】用户将能够利用AI基于其录音内容创建新闻通讯。<br/><br/><a href="https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>亚马逊效仿OpenAI和Anthropic，成立新的10亿美元FDE组织</title>
+<link>https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137516</guid>
+<pubDate>Tue, 30 Jun 2026 15:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】新团队的工程师将嵌入企业，部署专用智能体，专注于快速部署和客户自主能力。<br/><br/><a href="https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>专业化为何不可避免</title>
+<link>https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</link>
+<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</guid>
+<pubDate>Tue, 30 Jun 2026 14:39:11 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Proton 旗下注重隐私的 AI 聊天机器人 Lumo 迎来升级</title>
+<link>https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137266</guid>
+<pubDate>Tue, 30 Jun 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Proton 的 Lumo 2.0 将于本周发布，为用户提供更广泛的功能。<br/><br/><a href="https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>美国竞选活动几乎每一步都依赖AI，欧洲则划出更严格的界限</title>
 <link>https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/</link>
@@ -30,6 +142,14 @@
 <pubDate>Tue, 30 Jun 2026 09:43:41 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】台湾当局搜查了超微电脑公司及其多家本地合作企业的办公室。本文《台湾当局搜查超微电脑办公室，调查英伟达芯片走私至中国案》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ChatGPT 采用范围如何扩大</title>
+<link>https://openai.com/index/how-chatgpt-adoption-has-expanded</link>
+<guid isPermaLink="false">https://openai.com/index/how-chatgpt-adoption-has-expanded</guid>
+<pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI 最新信号数据显示，ChatGPT 的全球采用率正在增长，用户使用频率增加、探索更多功能，并在不同地区和语言中推动增长。<br/><br/><a href="https://openai.com/index/how-chatgpt-adoption-has-expanded">阅读原文</a>]]></description>
 </item>
 <item>
 <title>加密货币交易所OKX希望AI代理能相互雇佣并支付报酬</title>
@@ -78,6 +198,30 @@
 <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/eee-community-evals">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GeneBench-Pro 正式发布</title>
+<link>https://openai.com/index/introducing-genebench-pro</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】GeneBench-Pro 正式发布，这是一个全新的基准测试，利用复杂的真实世界数据集，评估人工智能在基因组学、生物学及科学研究中的性能表现。<br/><br/><a href="https://openai.com/index/introducing-genebench-pro">阅读原文</a>]]></description>
+</item>
+<item>
+<title>核心转储流行病学：修复一个存在18年的漏洞</title>
+<link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
+<guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI工程师利用大规模核心转储分析来调试罕见的基础设施崩溃，发现了一个硬件故障和一个长期存在的软件漏洞。<br/><br/><a href="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Genebench-Pro 内部解析</title>
+<link>https://openai.com/index/genebench-pro/case-studies</link>
+<guid isPermaLink="false">https://openai.com/index/genebench-pro/case-studies</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】<br/><br/><a href="https://openai.com/index/genebench-pro/case-studies">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenClaw 发布 iOS 和 Android 配套节点应用，将手机连接至自托管 AI 代理网关</title>
@@ -200,22 +344,6 @@
 <description><![CDATA[【github.blog】GitHub 咨询数据库正在处理比以往更多的漏洞报告。以下是推动这一激增的原因、我们的应对措施以及社区如何提供帮助。本文《深入解析咨询数据库：当漏洞数量打破纪录时会发生什么》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta限制使用Claude Code和Codex，防止竞争对手AI进入其训练数据</title>
-<link>https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37152</guid>
-<pubDate>Mon, 29 Jun 2026 15:47:43 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta正在限制其工程师使用Anthropic的Claude和OpenAI的Codex，以防止这些AI工具的输出被纳入其自身的训练数据。本文《Meta restricts use of Claude Code and Codex to keep rival AI out of its training data》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>德勤告知自家顾问：AI正在冲击按小时计费模式</title>
-<link>https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37149</guid>
-<pubDate>Mon, 29 Jun 2026 15:14:44 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】德勤内部演示预测，咨询行业经典的按小时计费模式到2035年将萎缩至市场极小份额，并被AI代理取代。一位顾问总结道：“我们的模式要完蛋了。”麦肯锡和波士顿咨询已在寻找替代收入模式。本文《德勤告知自家顾问：AI正在冲击按小时计费模式》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>机器人手部公司和解特斯拉商业秘密诉讼并宣布完成1100万美元融资</title>
 <link>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3136644</guid>
@@ -232,28 +360,12 @@
 <description><![CDATA[【techcrunch.com】Omen AI 筹集了3100万美元的A轮融资，用于监测芯片冷却液并防止数据中心内的细菌爆发。<br/><br/><a href="https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>美军用AI筛选数千目标，却忽略标注称其中一处为学校</title>
-<link>https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37145</guid>
-<pubDate>Mon, 29 Jun 2026 12:30:21 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】对伊朗一所学校遭导弹袭击的调查揭示了美军目标锁定基础设施中的严重漏洞。人工智能本应填补这些空白。本文《美军用AI筛选数千目标，却忽略标注称其中一处为学校》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>认识EverOS：一款开源、以Markdown为先的智能体记忆运行时，支持混合BM25+向量检索与自我进化技能</title>
 <link>https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80759</guid>
 <pubDate>Mon, 29 Jun 2026 10:42:47 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】EverMind 已开源 EverOS，这是一款本地优先的记忆运行时，将AI智能体的记忆以纯Markdown格式存储，并通过SQLite和LanceDB进行索引。它结合了混合BM25+向量检索、多模态数据摄取以及自我进化技能，采用Apache 2.0许可证。本文介绍了它的定义、架构工作原理、基准测试表现以及仍存在的不足——此外还提供了可运行的代码演练和交互式演示。这篇题为《认识EverOS：一款开源、以Markdown为先的智能体记忆运行时，支持混合BM25+向量检索与自我进化技能》的文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Code 未经验证即运行GitHub仓库中的隐藏恶意软件，使攻击者获得完全控制权</title>
-<link>https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37141</guid>
-<pubDate>Mon, 29 Jun 2026 10:04:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Mozilla 0DIN平台的安全研究人员展示了，一个被攻陷的GitHub仓库如何在Claude Code等AI编码工具运行其设置时，立即接管开发者的机器。关键在于：恶意代码仅在运行时通过DNS查询加载，在仓库中、对扫描器以及AI代理本身均不可见。本文《Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>绘制欧洲人工智能劳动力机遇图</title>
@@ -344,30 +456,6 @@
 <description><![CDATA[【techcrunch.com】据称，负责 Vision Pro 头显的苹果副总裁 Paul Meade 将离开公司，加入 OpenAI 的硬件团队。<br/><br/><a href="https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>房间里最健康的创始人得了癌症。以下是他如何利用AI反击的经过。</title>
-<link>https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136695</guid>
-<pubDate>Sat, 27 Jun 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】面对癌症时，康纳·克里斯图将自己治疗方案相关的所有数据——血液检测结果、扫描数据、可穿戴设备输出、日记记录——全部输入了Claude。<br/><br/><a href="https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>亚洲AI初创公司推出类Mythos模型，Anthropic出口禁令持续发酵</title>
-<link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136677</guid>
-<pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】亚洲正推出新型模型，承诺具备类似Mythos的能力，且无需担忧出口禁令。美国AI实验室可能永远失去这一巨大市场。<br/><br/><a href="https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>特朗普政府发布Anthropic Mythos，供100多家美国企业及机构使用</title>
-<link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136944</guid>
-<pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】据报道，超过100家企业和政府机构获准使用Mythos 5，其中包括其非美国籍员工。<br/><br/><a href="https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>韩国计划将全军训练为“无人机战士”</title>
 <link>https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/</guid>
@@ -384,22 +472,6 @@
 <description><![CDATA[【arstechnica.com】在美国最高法院对索尼案作出不利裁决后，《纽约时报》调整了对OpenAI/微软的版权指控。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI 应政府要求限制 GPT-5.6 发布，称此类限制不应成为常态</title>
-<link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136773</guid>
-<pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】“我们认为这种政府介入流程不应成为长期默认做法，”OpenAI 表示，“这会让最优秀的工具无法触及用户、开发者、企业、网络防御者以及全球合作伙伴，而他们正需要这些工具。”<br/><br/><a href="https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI 挖角 Uber 印度负责人，领导其美国以外最大市场</title>
-<link>https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3136733</guid>
-<pubDate>Fri, 26 Jun 2026 18:19:36 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】此次聘用标志着 OpenAI 进一步拓展印度市场，扩大办公室、合作伙伴关系并加大招聘力度。<br/><br/><a href="https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GitHub与联合国开发计划署合作，通过开源推动加纳发展优先事项</title>
 <link>https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/</link>
 <guid isPermaLink="false">https://github.blog/?p=97118</guid>
@@ -414,78 +486,6 @@
 <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】GitHub的文化与福利如何帮助我成为最好的自己。这篇文章《作为Hubber的转变》最初发表于GitHub博客。<br/><br/><a href="https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>预览GPT-5.6 Sol：下一代模型</title>
-<link>https://openai.com/index/previewing-gpt-5-6-sol</link>
-<guid isPermaLink="false">https://openai.com/index/previewing-gpt-5-6-sol</guid>
-<pubDate>Fri, 26 Jun 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI预览了GPT-5.6 Sol，这是一款在编程、科学和网络安全方面能力更强的下一代模型，并配备了其最先进的安全体系。<br/><br/><a href="https://openai.com/index/previewing-gpt-5-6-sol">阅读原文</a>]]></description>
-</item>
-<item>
-<title>一条命令在 HF 任务上运行 vLLM 服务器</title>
-<link>https://huggingface.co/blog/vllm-jobs</link>
-<guid isPermaLink="false">https://huggingface.co/blog/vllm-jobs</guid>
-<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/vllm-jobs">阅读原文</a>]]></description>
-</item>
-<item>
-<title>评估GitHub Copilot智能体框架在多种模型和任务中的性能与效率</title>
-<link>https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/</link>
-<guid isPermaLink="false">https://github.blog/?p=97041</guid>
-<pubDate>Thu, 25 Jun 2026 22:59:45 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】探索GitHub Copilot智能体框架如何在多个基准测试中取得优异表现，并实现领先的令牌效率，同时保持选择20多种模型的灵活性。本文《评估GitHub Copilot智能体框架在多种模型和任务中的性能与效率》首发于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Notion 关闭受 Skiff 影响的邮件应用，因多数用户改用 AI 代理</title>
-<link>https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</guid>
-<pubDate>Thu, 25 Jun 2026 19:04:57 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Notion 正“全力投入使用代理来管理你的收件箱”。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌终于推出金融安卓应用，承诺2026年晚些时候发布iOS版本</title>
-<link>https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/</link>
-<guid isPermaLink="false">https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/</guid>
-<pubDate>Thu, 25 Jun 2026 18:38:51 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】历经20年，金融应用终于面世，并恰逢其时地融入了大量人工智能功能。<br/><br/><a href="https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic 指控阿里巴巴无视特朗普禁令，攻击 Claude 并窃取技术能力</title>
-<link>https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/</guid>
-<pubDate>Thu, 25 Jun 2026 18:01:48 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】据称，阿里巴巴使用了 25,000 个账户，通过超过 2880 万次交互来挖掘 Claude 的数据。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>我们如何为 Cloudflare Workflows 构建 Saga 回滚机制</title>
-<link>https://blog.cloudflare.com/rollbacks-for-workflows/</link>
-<guid isPermaLink="false">6BmERiKIIt4pIJoFmNy7Jn</guid>
-<pubDate>Thu, 25 Jun 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare Workflows（我们的多步骤应用持久化执行引擎）现已支持 Saga 风格的回滚机制，允许开发者为每个 do() 步骤指定补偿操作。<br/><br/><a href="https://blog.cloudflare.com/rollbacks-for-workflows/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>IBM 宣称实现全球首项亚1纳米芯片技术</title>
-<link>https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/</guid>
-<pubDate>Thu, 25 Jun 2026 10:00:55 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】IBM 的纳米堆叠晶体管可提升芯片性能或能效。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI代理如何改变工作方式</title>
-<link>https://openai.com/index/how-agents-are-transforming-work</link>
-<guid isPermaLink="false">https://openai.com/index/how-agents-are-transforming-work</guid>
-<pubDate>Thu, 25 Jun 2026 02:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI最新研究论文展示了AI代理如何改变工作方式，使其能够处理更长时间、更复杂的任务，并提升各岗位的生产力。<br/><br/><a href="https://openai.com/index/how-agents-are-transforming-work">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
