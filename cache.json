@@ -1794,5 +1794,17 @@
 "https://www.marktechpost.com/?p=80773": {
 "t": "Meta AI 发布 Brain2Qwerty v2：一种非侵入式 MEG 脑到文本管道，以 61% 的词准确率解码打字句子",
 "s": "Meta AI 发布了 Brain2Qwerty v2，这是一种非侵入式 MEG 脑到文本管道，词准确率达到 61%，并开放了训练代码。该文章《Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy》最初出现在 MarkTechPost 上。"
+},
+"https://the-decoder.com/?p=37180": {
+"t": "美国竞选活动几乎每一步都依赖AI，欧洲则划出更严格的界限",
+"s": "据《纽约时报》报道，共和党和民主党的竞选活动如今几乎在每一步都依赖AI，从审查对手到精准定位选民。但这项技术仍是一个政治雷区，而欧洲正采取截然不同的做法。本文《美国竞选活动几乎每一步都依赖AI，欧洲则划出更严格的界限》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37176": {
+"t": "Meta 秘密测试 ChatGPT、Gemini 和 Character.AI，使用数千条未成年人视角的危机提示",
+"s": "据报道，Meta 让数百名承包商冒充未成年人，向 OpenAI、Google 和 Character.AI 的聊天机器人发送与自杀、性和毒品相关的提示。在单轮测试中，发送了超过 45,000 条提示。被测试的公司对此毫不知情。文章《Meta 秘密测试 ChatGPT、Gemini 和 Character.AI，使用数千条未成年人视角的危机提示》最初发表于 The Decoder。"
+},
+"https://huggingface.co/blog/eee-community-evals": {
+"t": "Hugging Face 模型页面现已收录所有评估结果",
+"s": ""
 }
 }

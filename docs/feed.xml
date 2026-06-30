@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 30 Jun 2026 10:49:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 14:00:54 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>美国竞选活动几乎每一步都依赖AI，欧洲则划出更严格的界限</title>
+<link>https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37180</guid>
+<pubDate>Tue, 30 Jun 2026 12:36:40 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据《纽约时报》报道，共和党和民主党的竞选活动如今几乎在每一步都依赖AI，从审查对手到精准定位选民。但这项技术仍是一个政治雷区，而欧洲正采取截然不同的做法。本文《美国竞选活动几乎每一步都依赖AI，欧洲则划出更严格的界限》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta 秘密测试 ChatGPT、Gemini 和 Character.AI，使用数千条未成年人视角的危机提示</title>
+<link>https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37176</guid>
+<pubDate>Tue, 30 Jun 2026 11:14:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据报道，Meta 让数百名承包商冒充未成年人，向 OpenAI、Google 和 Character.AI 的聊天机器人发送与自杀、性和毒品相关的提示。在单轮测试中，发送了超过 45,000 条提示。被测试的公司对此毫不知情。文章《Meta 秘密测试 ChatGPT、Gemini 和 Character.AI，使用数千条未成年人视角的危机提示》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>台湾当局搜查超微电脑办公室，调查英伟达芯片走私至中国案</title>
 <link>https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/</link>
@@ -54,6 +70,14 @@
 <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Wix旗下的Vibe编码平台Base44已开始推出其自有AI模型，并希望该模型最终能超越前沿模型。<br/><br/><a href="https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hugging Face 模型页面现已收录所有评估结果</title>
+<link>https://huggingface.co/blog/eee-community-evals</link>
+<guid isPermaLink="false">https://huggingface.co/blog/eee-community-evals</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/eee-community-evals">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenClaw 发布 iOS 和 Android 配套节点应用，将手机连接至自托管 AI 代理网关</title>
@@ -232,14 +256,6 @@
 <description><![CDATA[【the-decoder.com】Mozilla 0DIN平台的安全研究人员展示了，一个被攻陷的GitHub仓库如何在Claude Code等AI编码工具运行其设置时，立即接管开发者的机器。关键在于：恶意代码仅在运行时通过DNS查询加载，在仓库中、对扫描器以及AI代理本身均不可见。本文《Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>三星和SK海力士计划投资5900亿美元建设芯片工厂，AI需求推动内存价格飙升</title>
-<link>https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37137</guid>
-<pubDate>Mon, 29 Jun 2026 08:17:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】在韩国政府的支持下，三星和SK海力士正投入5900亿美元建设新的芯片工厂和封装中心，以应对AI数据中心需求的激增。据杰富瑞预测，到2027年，内存价格每季度可能上涨50%。这两家公司控制着全球近80%的HBM市场。本文《三星和SK海力士计划投资5900亿美元建设芯片工厂，AI需求推动内存价格飙升》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>绘制欧洲人工智能劳动力机遇图</title>
 <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
 <guid isPermaLink="false">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
@@ -286,14 +302,6 @@
 <pubDate>Sun, 28 Jun 2026 15:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】急于寻找更多可能像英伟达一样表现出色的公开AI相关公司，华尔街投资者认为他们在美光身上找到了赢家。<br/><br/><a href="https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI 只有停止回答问题、开始完成任务，才能成为真正的同事</title>
-<link>https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37124</guid>
-<pubDate>Sun, 28 Jun 2026 12:51:40 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】腾讯与多所中国高校联合发布的一篇综述论文，勾勒了从聊天机器人到“数字同事”的发展路径。研究人员认为，AI 系统只有在持久工作环境中完成完整任务，而不仅仅是生成答案，才能成为可靠的同事。关键在于将持久工作空间与可复用技能相结合。本文《AI won't become a real coworker until it stops answering and starts finishing tasks》首发于 The Decoder。<br/><br/><a href="https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 25 Jun 2026 02:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI最新研究论文展示了AI代理如何改变工作方式，使其能够处理更长时间、更复杂的任务，并提升各岗位的生产力。<br/><br/><a href="https://openai.com/index/how-agents-are-transforming-work">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI与博通宣布推出专为大规模LLM推理设计的芯片</title>
-<link>https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/</guid>
-<pubDate>Wed, 24 Jun 2026 22:28:18 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】在应对需求激增的挑战中，芯片领域的竞争正日益白热化。<br/><br/><a href="https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
