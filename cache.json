@@ -1938,5 +1938,21 @@
 "https://www.marktechpost.com/?p=80776": {
 "t": "Anthropic Claude Sonnet 5 对比 Sonnet 4.6 与 Opus 4.8：自主编码基准测试、API 定价及成本性能权衡比较",
 "s": "Anthropic 的 Claude Sonnet 5 在自主编码方面缩小了与 Opus 4.8 的差距，同时保持了更低的 Sonnet 代币定价。本文《Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80789": {
+"t": "Google AI 推出 TabFM：一种用于零样本分类和回归的混合注意力表格基础模型",
+"s": "Google Research 发布了 TabFM，这是一种针对表格数据的基础模型。它通过上下文学习执行零样本分类和回归。预测通过单次前向传播完成，无需针对每个数据集进行训练、超参数调优或特征工程。该文章最初发表于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37223": {
+"t": "Anthropic的Fable 5因越狱问题遭政府禁令两周后，全球重新上线",
+"s": "经过两周的禁令，美国政府已允许Anthropic在全球范围内再次发布Fable 5。亚马逊研究人员曾发现一个越狱漏洞，但Anthropic表示，即使是像Claude Haiku 4.5这样更小的模型也能实现同样的利用。一种新的安全分类器在超过99%的情况下能阻止该技术，但在此过程中也会标记更多无害请求。文章《Anthropic的Fable 5因越狱问题遭政府禁令两周后，全球重新上线》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80786": {
+"t": "CUP（Common Useful Python）：利用百度的实用工具包构建可靠的Python工作流",
+"s": "在本教程中，我们探讨了百度的Common Useful Python库（CUP），将其作为增强Python工作流的实用工具包。我们在Colab友好环境中安装它，并逐步介绍其子系统。内容涵盖日志记录、装饰器、嵌套配置、缓存、ID生成、线程池、调度以及Linux资源监控。在此过程中，我们将每个模块与实际任务（如自动化、并发和可靠性检查）联系起来。本文《CUP（Common Useful Python）：利用百度的实用工具包构建可靠的Python工作流》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3137972": {
+"t": "“互联网之父”终于要退休了",
+"s": "作为互联网底层协议创始人之一的文顿·瑟夫，将于下周卸任谷歌首席互联网布道师一职。"
 }
 }

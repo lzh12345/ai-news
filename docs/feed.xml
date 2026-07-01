@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 01 Jul 2026 02:43:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 08:05:20 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google AI 推出 TabFM：一种用于零样本分类和回归的混合注意力表格基础模型</title>
+<link>https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80789</guid>
+<pubDate>Wed, 01 Jul 2026 07:48:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Research 发布了 TabFM，这是一种针对表格数据的基础模型。它通过上下文学习执行零样本分类和回归。预测通过单次前向传播完成，无需针对每个数据集进行训练、超参数调优或特征工程。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic的Fable 5因越狱问题遭政府禁令两周后，全球重新上线</title>
+<link>https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37223</guid>
+<pubDate>Wed, 01 Jul 2026 07:40:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】经过两周的禁令，美国政府已允许Anthropic在全球范围内再次发布Fable 5。亚马逊研究人员曾发现一个越狱漏洞，但Anthropic表示，即使是像Claude Haiku 4.5这样更小的模型也能实现同样的利用。一种新的安全分类器在超过99%的情况下能阻止该技术，但在此过程中也会标记更多无害请求。文章《Anthropic的Fable 5因越狱问题遭政府禁令两周后，全球重新上线》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>CUP（Common Useful Python）：利用百度的实用工具包构建可靠的Python工作流</title>
+<link>https://www.marktechpost.com/2026/06/30/cup-common-useful-python-building-reliable-python-workflows-with-baidus-utility-toolkit/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80786</guid>
+<pubDate>Wed, 01 Jul 2026 06:03:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们探讨了百度的Common Useful Python库（CUP），将其作为增强Python工作流的实用工具包。我们在Colab友好环境中安装它，并逐步介绍其子系统。内容涵盖日志记录、装饰器、嵌套配置、缓存、ID生成、线程池、调度以及Linux资源监控。在此过程中，我们将每个模块与实际任务（如自动化、并发和可靠性检查）联系起来。本文《CUP（Common Useful Python）：利用百度的实用工具包构建可靠的Python工作流》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/30/cup-common-useful-python-building-reliable-python-workflows-with-baidus-utility-toolkit/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>“互联网之父”终于要退休了</title>
+<link>https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3137972</guid>
+<pubDate>Wed, 01 Jul 2026 03:15:37 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】作为互联网底层协议创始人之一的文顿·瑟夫，将于下周卸任谷歌首席互联网布道师一职。<br/><br/><a href="https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>特朗普解除对Anthropic的Mythos和Fable模型的限制</title>
 <link>https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/</link>
@@ -280,14 +312,6 @@
 <description><![CDATA[【techcrunch.com】OKX正在将支付、身份和信誉整合成一个面向AI代理的市场。<br/><br/><a href="https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Deepseek的DSpark将AI速度提升高达85%，在美国出口管制收紧下取得战略胜利</title>
-<link>https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37164</guid>
-<pubDate>Tue, 30 Jun 2026 08:28:02 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Deepseek的新框架DSpark将每位用户的响应速度提升了60%至85%。一个小模型提出令牌候选，由大模型批量检查，从而在更少的芯片上榨取更多性能。这可能进一步减少中国对美国高端硬件的依赖。文章《Deepseek的DSpark将AI速度提升高达85%，在美国出口管制收紧下取得战略胜利》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta AI 发布 Brain2Qwerty v2：一种非侵入式 MEG 脑到文本管道，以 61% 的词准确率解码打字句子</title>
 <link>https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80773</guid>
@@ -408,14 +432,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/discoformer">阅读原文</a>]]></description>
 </item>
 <item>
-<title>人人都在用的AI排行榜Arena，如今已成为估值1亿美元的业务</title>
-<link>https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137220</guid>
-<pubDate>Mon, 29 Jun 2026 17:39:17 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这家运营着广受欢迎的免费AI排行榜的初创公司，于去年9月才推出其商业服务。<br/><br/><a href="https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Git 2.55 亮点一览</title>
 <link>https://github.blog/open-source/git/highlights-from-git-2-55/</link>
 <guid isPermaLink="false">https://github.blog/?p=97076</guid>
@@ -462,22 +478,6 @@
 <pubDate>Sun, 28 Jun 2026 17:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】惠普公司扩大其与OpenAI的Frontier合作伙伴关系，将人工智能部署于客户体验、软件开发及企业运营中。<br/><br/><a href="https://openai.com/index/hp-frontier-partnership">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OCRmyPDF教程：将扫描文档转换为可搜索的PDF/A文件，支持侧边文本提取与批量处理</title>
-<link>https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80756</guid>
-<pubDate>Sun, 28 Jun 2026 16:47:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们使用Python构建了一个完整的、自包含的OCRmyPDF流水线。我们生成合成的纯图像PDF，以便无需外部文件即可测试OCR，然后将其转换为可搜索的PDF和PDF/A输出。我们提取侧边文本、验证结果、测量单词召回率，并比较文件大小。我们还调优Tesseract、清理噪声扫描、校正方向、在内存中运行OCR，并对整个文件夹进行批量处理。本文OCRmyPDF教程：将扫描文档转换为可搜索的PDF/A文件，支持侧边文本提取与批量处理最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型</title>
-<link>https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80753</guid>
-<pubDate>Sun, 28 Jun 2026 07:02:54 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Hugging Face的Fable 5 Traces数据集构建了一个稳定的工作流。我们避免使用脆弱的依赖项，并手动解析合并后的JSONL文件，以确保Colab的可靠性。我们检查仓库文件、标准化工具调用、审计数据结构、编辑敏感信息，并可视化关键分布。此外，我们还导出安全的无CoT聊天数据集，并在这些轨迹上训练纯Python的朴素贝叶斯基线模型。本文《在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>韩国计划将全军训练为“无人机战士”</title>
