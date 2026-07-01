@@ -1998,5 +1998,33 @@
 "3wrqj94tEFsKCZ8OBUE52R": {
 "t": "通过归因业务洞察揭示爬虫行为",
 "s": "Cloudflare 新推出的归因业务洞察仪表板帮助网站所有者了解爬虫行为、需求及潜在价值，推动围绕爬虫补偿的业务层面讨论。"
+},
+"https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/": {
+"t": "在促使特朗普进行安全测试后，Anthropic的AI模型获准全球发布",
+"s": "美国解除对Anthropic先进Fable和Mythos模型的限制。"
+},
+"https://the-decoder.com/?p=37253": {
+"t": "Meta效仿SpaceX策略，打造云业务向外部客户出售闲置AI算力",
+"s": "Meta正在构建自己的云业务，向外部客户出售闲置的AI算力。该公司今年计划投入高达1450亿美元的AI投资，这引发了与xAI类似的问题：为何不将所有算力用于自身模型？本文《Meta效仿SpaceX策略，打造云业务向外部客户出售闲置AI算力》首发于The Decoder。"
+},
+"https://github.blog/?p=97204": {
+"t": "每位GitHub维护者本周应启用的6项安全设置",
+"s": "这六项免费设置不会让您的项目变得无懈可击——没有任何东西能做到。但它们将关闭那些容易攻破的入口。启用这些设置后，您的项目将比之前更难被攻击。本文最初发布于GitHub博客。"
+},
+"https://the-decoder.com/?p=37249": {
+"t": "Meta的非侵入式脑电转文字AI正缩小与手术植入方案的差距",
+"s": "Meta的FAIR AI团队利用Brain2Qwerty v2系统，无需植入或手术即可将脑活动转化为打字句子。该系统通过读取颅外磁信号，重建用户正在输入的内容。尽管用于瘫痪患者的临床应用仍遥遥无期，但每次额外记录都能提升准确率。自主编写代码的AI代理协助完成了优化工作。本文《Meta的非侵入式脑电转文字AI正缩小与手术植入方案的差距》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3138022": {
+"t": "Venice AI 完成6500万美元A轮融资，估值达独角兽级别，其隐私优先AI平台迅速崛起",
+"s": "Venice AI 首席执行官 Erik Voorhees 表示，该公司已实现盈利，年化经常性收入超过7000万美元。"
+},
+"https://techcrunch.com/?p=3138055": {
+"t": "Gemini Spark，谷歌的智能助手，现已登陆Mac平台",
+"s": "谷歌的24/7全天候智能助手Gemini Spark已登陆Mac，同时带来实时追踪和更多应用支持等改进。"
+},
+"https://huggingface.co/blog/cerebras-gemma4-voice-ai": {
+"t": "Hugging Face 与 Cerebras 将 Gemma 4 引入实时语音 AI",
+"s": ""
 }
 }
