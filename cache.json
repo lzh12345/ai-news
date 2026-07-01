@@ -1954,5 +1954,49 @@
 "https://techcrunch.com/?p=3137972": {
 "t": "“互联网之父”终于要退休了",
 "s": "作为互联网底层协议创始人之一的文顿·瑟夫，将于下周卸任谷歌首席互联网布道师一职。"
+},
+"https://techcrunch.com/?p=3137969": {
+"t": "Builders Stage议程揭晓：在TechCrunch Disrupt 2026上规模化初创企业的实用策略",
+"s": "Builders Stage将重返TechCrunch Disrupt 2026，汇聚超过10,000名创始人、初创企业运营者和投资者，围绕打造并规模化成功企业的实践进行对话与问答。立即注册，可节省高达330美元。"
+},
+"https://techcrunch.com/?p=3138038": {
+"t": "Meta效仿SpaceX，欲将过剩AI算力变现",
+"s": "Meta正制定云基础设施业务计划，拟出售AI算力及模型访问权限。此举将使其与亚马逊云服务、谷歌云及微软Azure等大型云服务商展开竞争。"
+},
+"6dNg0U03j4cnbacP8txDok": {
+"t": "宣布推出 Monetization Gateway：通过 x402 对 Cloudflare 背后的任何资源进行收费",
+"s": "我们已开放 Monetization Gateway 的候补名单，该网关将允许您对 Cloudflare 背后的任何网页、数据集、API 或 MCP 工具进行收费。费用将通过 x402 开放协议以稳定币结算，无需自行构建支付体系。"
+},
+"3qEwyKxigFNDK4JTlPfl8A": {
+"t": "内容独立日一周年：构建代理型互联网的商业模式",
+"s": "在宣布内容独立日一年后，一个充满活力的内容变现市场已正式形成。本报告探讨了自主AI代理的崛起如何颠覆传统搜索推荐机制，并详细阐述了支撑可持续网络经济所需的新基础设施。"
+},
+"YqZRSH26JlDBUNvwASOr2": {
+"t": "让AI搜索更智能",
+"s": "搜索是我们几乎在网络上找到一切的方式——创作者、商家、答案。AI正在改写规则，让创作者陷入两难：既要在智能体时代保持可发现性，又要为自身工作获得报酬。今天，我们推出两项举措来提供帮助。"
+},
+"FWKHybUFEZFSsFCrbEwAd": {
+"t": "你的网站，你做主：面向所有客户的全新AI流量管理选项",
+"s": "在第二个“内容独立日”之际，我们为网站所有者提供了更精细的AI流量管理选项。不再采用一刀切的屏蔽方式，所有客户现在可以轻松区分并管理搜索机器人、代理机器人和训练机器人，同时新增了保护广告变现页面的能力。"
+},
+"https://the-decoder.com/?p=37242": {
+"t": "Claude Code隐藏代码秘密标记中国用户",
+"s": "Anthropic正在从其编程工具Claude Code中移除一项隐藏的监控功能，该功能在社交媒体上引发众怒。文章《Claude Code隐藏代码秘密标记中国用户》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37231": {
+"t": "Claude Sonnet 5延续Anthropic在不变代币费率下隐藏涨价的模式",
+"s": "Claude Sonnet 5在Artificial Analysis Intelligence Index中排名第五，得分为53分，甚至在某些基于代理的任务上超越了价格更高的Opus 4.8。但该模型每项任务消耗的代币比其前身多出约40%，尽管标价相同，实际成本却几乎翻倍。Anthropic隐藏涨价的做法正成为一种模式。文章《Claude Sonnet 5延续Anthropic在不变代币费率下隐藏涨价的模式》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37237": {
+"t": "OpenAI基因组学论文意外曝光尚未公布的Pro产品线",
+"s": "OpenAI一篇基准测试论文暗示，GPT-5.6的Pro层级可能推出三个变体。这将是自该计划启动以来ChatGPT Pro结构的首次重大调整。本文《OpenAI基因组学论文意外曝光尚未公布的Pro产品线》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80792": {
+"t": "NVIDIA发布Nemotron-Labs-TwoTower：基于冻结自回归Nemotron-3-Nano-30B-A3B骨干网络的开源权重扩散语言模型",
+"s": "NVIDIA发布了Nemotron-Labs-TwoTower，这是一个基于预训练自回归骨干网络的扩散语言模型。该模型以开源权重形式发布，遵循NVIDIA Nemotron开放模型许可协议。此次发布旨在解决文本生成中的吞吐量瓶颈问题。自回归（AR）模型每次解码一个token，这种串行处理限制了生成吞吐量。离散扩散语言模型则采用……该文章《NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone》最初发表于MarkTechPost。"
+},
+"3wrqj94tEFsKCZ8OBUE52R": {
+"t": "通过归因业务洞察揭示爬虫行为",
+"s": "Cloudflare 新推出的归因业务洞察仪表板帮助网站所有者了解爬虫行为、需求及潜在价值，推动围绕爬虫补偿的业务层面讨论。"
 }
 }
