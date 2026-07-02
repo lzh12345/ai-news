@@ -2046,5 +2046,17 @@
 "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/": {
 "t": "2026年BAIR研究生成果展",
 "s": "祝贺伯克利人工智能研究（BAIR）实验室2026届毕业生！今年，BAIR再次庆祝一批杰出的博士毕业生，他们的好奇心、创造力和毅力推动了人工智能和机器学习的前沿。他们的研究涵盖现代AI的广泛领域——机器人与具身智能、大语言模型与推理、计算机视觉、生成式建模、AI安全、人机交互、AI在科学与医疗中的应用等。在此过程中，他们发表了具有影响力的研究，构建了具有实际价值的系统。"
+},
+"https://techcrunch.com/?p=3138430": {
+"t": "印度科技大亨自掏3000万美元打造微软Office的AI替代品",
+"s": "Neo是Bhavin Turakhia的第五个创业项目，也是他最新涉足企业软件领域的尝试。这次，他将用AI挑战微软Office和谷歌应用。"
+},
+"https://www.marktechpost.com/?p=80799": {
+"t": "使用Lift将研究PDF转化为结构化JSON：基于受控模式引导的字段级评估",
+"s": "在本教程中，我们围绕Lift构建了一个完整的PDF到结构化数据工作流，专注于受控评估而非一次性演示。我们准备了一个Colab GPU环境，以4位NF4加载Lift，并生成带有刻意干扰项的合成研究报告。随后，我们执行模式引导的提取，将每个字段与真实值进行评分，并将结果组装成可查询的知识库。最终产出的是一个可重复的提取基准，而不仅仅是原始模型输出。"
+},
+"https://www.marktechpost.com/?p=80795": {
+"t": "美国出口管制解除后，Anthropic 于7月1日重新部署 Claude Fable 5，并新增网络安全分类器",
+"s": "在美国出口管制解除后，Anthropic 将于7月1日重新部署 Claude Fable 5。一款新的安全分类器能超过99%的时间阻止亚马逊报告中的相关技术，并将标记的请求路由至 Opus 4.8。该公司还与亚马逊、微软和谷歌共同提出了一个包含四项标准的越狱严重性评估框架。本文《Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier》最初发表于 MarkTechPost。"
 }
 }
