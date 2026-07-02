@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 02 Jul 2026 13:41:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 17:32:08 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic称将Claude Code系统提示缩减80%，因Fable 5模型“想要更小的系统提示”</title>
+<link>https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37279</guid>
+<pubDate>Thu, 02 Jul 2026 16:20:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic已将Claude Code的系统提示缩减了80%。据员工Tariq Shihipar称，新的Fable 5模型需要的指令和示例更少。指南甚至可能限制模型，因为它们比所给内容“更具想象力”。Anthropic如今不再依赖严格规则，而是通过上下文进行引导。本文《Anthropic称将Claude Code系统提示缩减80%，因Fable 5模型“想要更小的系统提示”》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub如何利用秘密扫描实现收件箱归零</title>
+<link>https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/</link>
+<guid isPermaLink="false">https://github.blog/?p=97226</guid>
+<pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】GitHub在15,000个仓库中拥有超过20,000条秘密扫描警报。以下是我们在九个月内如何区分信号与噪声、构建修复工作流并实现收件箱归零的历程。本文最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI提议将其5%的股权捐赠给美国主权财富基金</title>
+<link>https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3138583</guid>
+<pubDate>Thu, 02 Jul 2026 15:20:51 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】据报道，OpenAI首席执行官山姆·奥特曼提议将公司5%的股权捐赠给美国主权财富基金，这重新引发了关于让公众分享人工智能热潮带来的财务收益的讨论。<br/><br/><a href="https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>特朗普获OpenAI提供美国5%股份，远低于桑德斯的目标</title>
+<link>https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/</guid>
+<pubDate>Thu, 02 Jul 2026 15:12:25 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】知情人士称，山姆·奥特曼正与特朗普政府积极谈判。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>马斯克的X平台对美国人隐私构成“严重风险”，倡导者警告FTC</title>
+<link>https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/</guid>
+<pubDate>Thu, 02 Jul 2026 14:39:17 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】FTC被敦促拒绝埃隆·马斯克终止X平台监控的请求，因涉及AI担忧。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软斥资25亿美元成立自家AI部署公司</title>
+<link>https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3138546</guid>
+<pubDate>Thu, 02 Jul 2026 13:53:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】微软效仿亚马逊、OpenAI和Anthropic，成立新的AI部署团队。<br/><br/><a href="https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控</title>
 <link>https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/</link>
@@ -70,6 +118,54 @@
 <pubDate>Thu, 02 Jul 2026 05:30:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Neo是Bhavin Turakhia的第五个创业项目，也是他最新涉足企业软件领域的尝试。这次，他将用AI挑战微软Office和谷歌应用。<br/><br/><a href="https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>多智能体团队反而制约专家发挥</title>
+<link>https://machinelearning.apple.com/research/multi-agent-teams-experts</link>
+<guid isPermaLink="false">multi-agent-teams-experts</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】多智能体大语言模型系统正越来越多地被部署为自主协作体，其中智能体自由交互，而非执行固定的预设工作流程。在此类场景中，有效的协调无法完全预先设计，而必须通过交互涌现。然而，以往多数研究通过固定角色、工作流程或聚合规则来强制实现协调，这留下了在协调不受约束时自组织团队表现如何的问题。借鉴组织心理学，我们研究了自组织大语言模型团队能否实现强协同效应，其中……<br/><br/><a href="https://machinelearning.apple.com/research/multi-agent-teams-experts">阅读原文</a>]]></description>
+</item>
+<item>
+<title>VideoFlexTok：灵活长度的由粗到细视频分词化</title>
+<link>https://machinelearning.apple.com/research/videoflextok</link>
+<guid isPermaLink="false">videoflextok</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】视觉分词器将高维原始像素映射为压缩表示，以供下游建模使用。除了压缩功能外，分词器还决定了哪些信息被保留以及如何组织这些信息。视频分词化的一种事实标准方法是将视频表示为时空三维网格中的标记，每个标记捕捉原始信号中对应的局部信息。这要求消耗这些标记的下游模型（例如文本到视频模型）无论视频的固有复杂度如何，都必须学习“逐像素”预测所有低级细节，从而导致……<br/><br/><a href="https://machinelearning.apple.com/research/videoflextok">阅读原文</a>]]></description>
+</item>
+<item>
+<title>利用学习支持函数分摊最大内积搜索</title>
+<link>https://machinelearning.apple.com/research/amortizing-inner-product-search</link>
+<guid isPermaLink="false">amortizing-inner-product-search</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】最大内积搜索（MIPS）是机器学习中的关键子程序，需要从数据库（键）中找出与给定查询最匹配的向量。我们提出分摊式MIPS：一种基于回归的方法，通过训练神经网络直接预测MIPS解，从而分摊在固定键数据库上对已知分布查询反复求解MIPS的成本。我们的核心见解是，MIPS值函数是键集合的支持函数——一种经过充分研究的凸函数，其梯度可得出最优键。这一...<br/><br/><a href="https://machinelearning.apple.com/research/amortizing-inner-product-search">阅读原文</a>]]></description>
+</item>
+<item>
+<title>关于强化学习微调视觉语言模型的鲁棒性与思维链一致性</title>
+<link>https://machinelearning.apple.com/research/robustness-chain-thought-consistency</link>
+<guid isPermaLink="false">robustness-chain-thought-consistency</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】强化学习微调已成为提升大语言模型在推理密集型任务上表现的关键技术，并推动其向视觉语言模型扩展。尽管经强化学习微调的视觉语言模型在视觉推理基准测试中有所改进，但仍存在视觉基础薄弱、幻觉现象以及对文本线索过度依赖等问题。我们证明，简单的受控文本扰动——如误导性标题或错误的思维链轨迹——会显著降低模型的鲁棒性和置信度，且当思维链一致性受到影响时，这些效应更为明显……<br/><br/><a href="https://machinelearning.apple.com/research/robustness-chain-thought-consistency">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MemoryLLM：面向Transformer的可插拔可解释前馈记忆模块</title>
+<link>https://machinelearning.apple.com/research/memoryllm</link>
+<guid isPermaLink="false">memoryllm</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】理解Transformer组件在大语言模型中的运作机制至关重要，因为这正是近期人工智能技术突破的核心。本研究重新审视了前馈模块（FFN）可解释性面临的挑战，提出MemoryLLM框架，旨在将FFN与自注意力机制解耦，使我们能够将解耦后的FFN作为无上下文依赖的逐词神经检索记忆进行研究。具体而言，我们探究了输入标记如何访问FFN参数中的记忆位置，以及FFN记忆在不同下游任务中的重要性。MemoryLLM实现了……<br/><br/><a href="https://machinelearning.apple.com/research/memoryllm">阅读原文</a>]]></description>
+</item>
+<item>
+<title>通过可处理轨迹控制学习结构化推理</title>
+<link>https://machinelearning.apple.com/research/learning-structured-reasoning</link>
+<guid isPermaLink="false">learning-structured-reasoning</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】大型语言模型能够展现出涌现的推理行为，这些行为通常表现为重复出现的词汇模式（例如，“wait”表示验证）。然而，在无约束采样中，复杂的推理轨迹仍然稀疏，而标准强化学习往往无法保证获得多样化的推理行为。我们提出了一种通过结构化推理系统性地发现并强化多样化推理模式的方法，这一范式要求在强化学习过程中有针对性地探索特定推理模式。为此，我们提出了Ctrl-R框架，用于学习……<br/><br/><a href="https://machinelearning.apple.com/research/learning-structured-reasoning">阅读原文</a>]]></description>
 </item>
 <item>
 <title>使用Lift将研究PDF转化为结构化JSON：基于受控模式引导的字段级评估</title>
@@ -232,14 +328,6 @@
 <description><![CDATA[【the-decoder.com】Claude Sonnet 5在Artificial Analysis Intelligence Index中排名第五，得分为53分，甚至在某些基于代理的任务上超越了价格更高的Opus 4.8。但该模型每项任务消耗的代币比其前身多出约40%，尽管标价相同，实际成本却几乎翻倍。Anthropic隐藏涨价的做法正成为一种模式。文章《Claude Sonnet 5延续Anthropic在不变代币费率下隐藏涨价的模式》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI基因组学论文意外曝光尚未公布的Pro产品线</title>
-<link>https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37237</guid>
-<pubDate>Wed, 01 Jul 2026 10:03:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI一篇基准测试论文暗示，GPT-5.6的Pro层级可能推出三个变体。这将是自该计划启动以来ChatGPT Pro结构的首次重大调整。本文《OpenAI基因组学论文意外曝光尚未公布的Pro产品线》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>2026年BAIR研究生成果展</title>
 <link>http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</link>
 <guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</guid>
@@ -398,94 +486,6 @@
 <pubDate>Tue, 30 Jun 2026 17:52:46 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Acti 认为智能手机键盘将成为AI助手的下一个主场。这家初创公司为iOS和Android打造的新款键盘可跨应用运行，并允许用户通过自然语言创建自定义的AI驱动快捷操作。<br/><br/><a href="https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub 如何维护开源依赖项的合规性</title>
-<link>https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/</link>
-<guid isPermaLink="false">https://github.blog/?p=97187</guid>
-<pubDate>Tue, 30 Jun 2026 17:28:16 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】探索开源项目办公室如何利用 GitHub 新的许可证合规产品大规模管理开源依赖项。本文《GitHub 如何维护开源依赖项的合规性》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic的Claude Science押注工作流而非新模型，以赢得科学家青睐</title>
-<link>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137674</guid>
-<pubDate>Tue, 30 Jun 2026 17:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic的Claude Science是一个工作台，为科学家提供单一环境进行计算研究，免去他们在数据库、管道和工具之间来回切换的麻烦。<br/><br/><a href="https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>特朗普计划重新设计所有.gov网站，结果却催生了AI设计的恐怖景象</title>
-<link>https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</guid>
-<pubDate>Tue, 30 Jun 2026 16:59:02 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】一年过去了，国家设计工作室推迟了更新政府网站标准的计划。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>开始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 进行开发</title>
-<link>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</guid>
-<pubDate>Tue, 30 Jun 2026 16:02:40 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>报道称，特朗普曾向马斯克索要SpaceX股票，用于为美国儿童设立储蓄账户</title>
-<link>https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/</guid>
-<pubDate>Tue, 30 Jun 2026 15:38:08 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】消息人士称，马斯克可能正在考虑向特朗普账户进行大额捐赠。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>X 推出 MCP 服务器，让 AI 工具更易接入其平台</title>
-<link>https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137526</guid>
-<pubDate>Tue, 30 Jun 2026 15:08:42 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】X 已推出托管式 MCP 服务器，使开发者能够更便捷地将 AI 应用与该公司的 API 进行连接。<br/><br/><a href="https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>专业化为何不可避免</title>
-<link>https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</link>
-<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</guid>
-<pubDate>Tue, 30 Jun 2026 14:39:11 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT 采用范围如何扩大</title>
-<link>https://openai.com/index/how-chatgpt-adoption-has-expanded</link>
-<guid isPermaLink="false">https://openai.com/index/how-chatgpt-adoption-has-expanded</guid>
-<pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI 最新信号数据显示，ChatGPT 的全球采用率正在增长，用户使用频率增加、探索更多功能，并在不同地区和语言中推动增长。<br/><br/><a href="https://openai.com/index/how-chatgpt-adoption-has-expanded">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta AI 发布 Brain2Qwerty v2：一种非侵入式 MEG 脑到文本管道，以 61% 的词准确率解码打字句子</title>
-<link>https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80773</guid>
-<pubDate>Tue, 30 Jun 2026 08:13:41 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta AI 发布了 Brain2Qwerty v2，这是一种非侵入式 MEG 脑到文本管道，词准确率达到 61%，并开放了训练代码。该文章《Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face 模型页面现已收录所有评估结果</title>
-<link>https://huggingface.co/blog/eee-community-evals</link>
-<guid isPermaLink="false">https://huggingface.co/blog/eee-community-evals</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/eee-community-evals">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Genebench-Pro 内部解析</title>
-<link>https://openai.com/index/genebench-pro/case-studies</link>
-<guid isPermaLink="false">https://openai.com/index/genebench-pro/case-studies</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】<br/><br/><a href="https://openai.com/index/genebench-pro/case-studies">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
