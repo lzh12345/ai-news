@@ -2062,5 +2062,29 @@
 "https://www.marktechpost.com/?p=80806": {
 "t": "Google Health API 有了命令行工具：ghealth 是用于 Fitbit Air 数据的开源工具",
 "s": "Google Health API 现在有了一个开源命令行工具。ghealth 是一个单一的 Go 语言二进制文件，可将 40 种数据类型以 agent-ready JSON 格式暴露出来。这是一个社区项目，并非 Google 官方发布。以下是其工作原理，以及在授予 OAuth 访问权限前需要检查的事项。该文章《The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data》最初发表于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37270": {
+"t": "英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控",
+"s": "英伟达正日益扮演着AI初创企业中央银行的角色，积极塑造计算市场。本文《英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37264": {
+"t": "AI代理现在能以专业质量完成16%的自由职业工作，较八个月前的2.5%有所提升",
+"s": "远程劳动指数衡量了AI代理以专业质量完成付费自由职业项目的频率。在八个月内，最高自动化率增长了超过四倍。本文《AI代理现在能以专业质量完成16%的自由职业工作，较八个月前的2.5%有所提升》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37263": {
+"t": "Google 将 TikTok 风格短视频引入 NotebookLM",
+"s": "Google 已将 NotebookLM 扩展，加入了社交媒体上常见的短视频格式概览。文章《Google brings TikTok-style video shorts to NotebookLM》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3137764": {
+"t": "没错，我们现在用OpenClaw来约会了",
+"s": "Ben Guez 的“私信里有一堆潜在的国际妻子候选人”，这要归功于他利用 OpenClaw、Claude 代码和 Instagram 试用版设置的一个自动化脚本。"
+},
+"https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/": {
+"t": "谷歌AI建设推动2025年用电量增长37%",
+"s": "谷歌试图在AI数据中心排放与清洁能源努力之间取得平衡。"
+},
+"https://the-decoder.com/?p=37260": {
+"t": "OpenAI据报向特朗普政府提供公司5%的股份",
+"s": "据报道，OpenAI正提议向特朗普政府提供公司5%的股份。作为交换，政府可能需要付出什么，目前尚不明确。此举显示出这家AI公司希望与华盛顿建立紧密联系的意图。本文《OpenAI据报向特朗普政府提供公司5%的股份》最初发表于The Decoder。"
 }
 }
