@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 02 Jul 2026 17:32:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 20:56:59 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>认识阿里巴巴的Page Agent：一种通过DOM用自然语言控制网页界面的JavaScript页面内GUI代理</title>
+<link>https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80809</guid>
+<pubDate>Thu, 02 Jul 2026 20:51:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】阿里巴巴的Page Agent作为客户端JavaScript在网页内运行。它读取实时DOM文本，然后根据自然语言指令进行点击和输入。无需截图、多模态模型或后端重写。本文《Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Jersey Mike's IPO 说明AI炒作有多离谱</title>
+<link>https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3138696</guid>
+<pubDate>Thu, 02 Jul 2026 20:11:59 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】出于好奇，我翻看了Jersey Mike's的IPO文件。一家三明治店按理说没必要提及AI，但没想到还真有。<br/><br/><a href="https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软斥资25亿美元成立“前沿公司”，将6000名AI工程师派驻企业客户内部</title>
+<link>https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37288</guid>
+<pubDate>Thu, 02 Jul 2026 19:18:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】微软投资25亿美元成立名为“前沿公司”的新部门，将6000名工程师直接派驻企业客户处。其目标是将AI融入核心流程，实现可衡量的投资回报率，而非进行更多实验。微软正将自己定位为OpenAI和Anthropic的平台中立替代方案，后者通过自家部署公司推广自身模型。本文《微软斥资25亿美元成立“前沿公司”，将6000名AI工程师派驻企业客户内部》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta 悄然推出“氛围编码”游戏应用 Pocket</title>
+<link>https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3138687</guid>
+<pubDate>Thu, 02 Jul 2026 18:44:02 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Meta 悄然推出了 Pocket，这是一款实验性 AI 应用，允许用户通过文本提示生成并分享互动小游戏。<br/><br/><a href="https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic正与三星商讨定制芯片事宜</title>
+<link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3138664</guid>
+<pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】此消息发布约一周前，OpenAI宣布与博通合作开发自有定制AI芯片。<br/><br/><a href="https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic据报与三星探讨定制芯片制造，同时强调英伟达仍具重要性</title>
+<link>https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37284</guid>
+<pubDate>Thu, 02 Jul 2026 17:30:57 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据报道，Anthropic正与三星电子洽谈制造定制AI芯片。该项目尚处早期阶段，但Anthropic已招募芯片工程师。继OpenAI的"Jalapeño"之后，又一家大型AI公司进军芯片开发以降低基础设施成本。本文《Anthropic据报与三星探讨定制芯片制造，同时强调英伟达仍具重要性》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic称将Claude Code系统提示缩减80%，因Fable 5模型“想要更小的系统提示”</title>
 <link>https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/</link>
@@ -168,6 +216,38 @@
 <description><![CDATA[【machinelearning.apple.com】大型语言模型能够展现出涌现的推理行为，这些行为通常表现为重复出现的词汇模式（例如，“wait”表示验证）。然而，在无约束采样中，复杂的推理轨迹仍然稀疏，而标准强化学习往往无法保证获得多样化的推理行为。我们提出了一种通过结构化推理系统性地发现并强化多样化推理模式的方法，这一范式要求在强化学习过程中有针对性地探索特定推理模式。为此，我们提出了Ctrl-R框架，用于学习……<br/><br/><a href="https://machinelearning.apple.com/research/learning-structured-reasoning">阅读原文</a>]]></description>
 </item>
 <item>
+<title>扩散语言模型的去掩码策略学习</title>
+<link>https://machinelearning.apple.com/research/unmasking</link>
+<guid isPermaLink="false">unmasking</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】扩散（大型）语言模型（dLLMs）如今在多项任务上已能与自回归模型的下游性能匹敌，同时有望在推理过程中实现更高效率。dLLMs的关键设计之一是采样过程，该过程决定每个扩散步骤中哪些词元应被去掩码。事实上，近期研究发现，与随机去掩码相比，置信度阈值等启发式策略能同时提升样本质量和词元吞吐量。然而，这类启发式方法存在缺陷：需要手动调参，且我们观察到其性能……<br/><br/><a href="https://machinelearning.apple.com/research/unmasking">阅读原文</a>]]></description>
+</item>
+<item>
+<title>残差上下文扩散语言模型</title>
+<link>https://machinelearning.apple.com/research/residual-context-diffusion</link>
+<guid isPermaLink="false">residual-context-diffusion</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】扩散大语言模型（dLLMs）已成为纯自回归语言模型的有前景替代方案，因为它们能够并行解码多个词元。然而，最先进的块级dLLMs依赖于一种“重新掩码”机制，仅解码最置信的词元并丢弃其余部分，这实际上浪费了计算资源。我们证明，回收被丢弃词元的计算是有益的，因为这些词元保留了有助于后续解码迭代的上下文信息。基于此，我们提出残差上下文扩散（RCD），一个模块……<br/><br/><a href="https://machinelearning.apple.com/research/residual-context-diffusion">阅读原文</a>]]></description>
+</item>
+<item>
+<title>共形思维：计算预算下推理的风险控制</title>
+<link>https://machinelearning.apple.com/research/conformal-thinking-risk-control</link>
+<guid isPermaLink="false">conformal-thinking-risk-control</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】推理型大型语言模型（LLMs）实现了测试时扩展，随着令牌预算增加，数据集级别的准确性也随之提升，这推动了自适应推理的发展——在能提高可靠性时投入令牌，在额外计算不太可能带来帮助时提前停止。然而，设定令牌预算以及自适应推理的阈值是一项实际挑战，涉及根本性的风险-准确性权衡。我们将预算设定问题重新定义为风险控制，在限制错误率的同时最小化计算量。我们的框架引入了一个上限阈值，用于在……时停止。<br/><br/><a href="https://machinelearning.apple.com/research/conformal-thinking-risk-control">阅读原文</a>]]></description>
+</item>
+<item>
+<title>反因果域泛化：利用无标签数据</title>
+<link>https://machinelearning.apple.com/research/anti-casual</link>
+<guid isPermaLink="false">anti-casual</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】域泛化问题关注的是学习预测模型，使其在部署到新的、未见过的环境时对分布变化具有鲁棒性。现有方法通常需要来自多个训练环境的标签数据，这在标签数据稀缺时限制了其适用性。在本研究中，我们探讨了反因果设置下的域泛化，其中结果变量导致观测协变量。在这种结构下，影响协变量的环境扰动不会传播到结果变量，这促使我们对模型对……的敏感性进行正则化。<br/><br/><a href="https://machinelearning.apple.com/research/anti-casual">阅读原文</a>]]></description>
+</item>
+<item>
 <title>使用Lift将研究PDF转化为结构化JSON：基于受控模式引导的字段级评估</title>
 <link>https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80799</guid>
@@ -312,22 +392,6 @@
 <description><![CDATA[【blog.cloudflare.com】在第二个“内容独立日”之际，我们为网站所有者提供了更精细的AI流量管理选项。不再采用一刀切的屏蔽方式，所有客户现在可以轻松区分并管理搜索机器人、代理机器人和训练机器人，同时新增了保护广告变现页面的能力。<br/><br/><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Claude Code隐藏代码秘密标记中国用户</title>
-<link>https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37242</guid>
-<pubDate>Wed, 01 Jul 2026 11:27:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic正在从其编程工具Claude Code中移除一项隐藏的监控功能，该功能在社交媒体上引发众怒。文章《Claude Code隐藏代码秘密标记中国用户》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Sonnet 5延续Anthropic在不变代币费率下隐藏涨价的模式</title>
-<link>https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37231</guid>
-<pubDate>Wed, 01 Jul 2026 11:12:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Claude Sonnet 5在Artificial Analysis Intelligence Index中排名第五，得分为53分，甚至在某些基于代理的任务上超越了价格更高的Opus 4.8。但该模型每项任务消耗的代币比其前身多出约40%，尽管标价相同，实际成本却几乎翻倍。Anthropic隐藏涨价的做法正成为一种模式。文章《Claude Sonnet 5延续Anthropic在不变代币费率下隐藏涨价的模式》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>2026年BAIR研究生成果展</title>
 <link>http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</link>
 <guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</guid>
@@ -422,70 +486,6 @@
 <pubDate>Tue, 30 Jun 2026 21:37:40 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Anthropic 的 Claude Sonnet 5 在自主编码方面缩小了与 Opus 4.8 的差距，同时保持了更低的 Sonnet 代币定价。本文《Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>打造扑克AI的DeepMind三人组，如今正为量化对冲基金赚钱</title>
-<link>https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137627</guid>
-<pubDate>Tue, 30 Jun 2026 20:33:48 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】EquiLibre Technologies，一家由三位前DeepMind研究员创立的布拉格AI实验室，目前估值已超过5亿美元。<br/><br/><a href="https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>新攻击再次证明AI浏览器并非好主意</title>
-<link>https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</guid>
-<pubDate>Tue, 30 Jun 2026 20:03:14 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】只需告诉大语言模型2加2等于5，就足以让它执行被禁止的指令。<br/><br/><a href="https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌推出更快、更便宜的图像生成器Nano Banana 2 Lite</title>
-<link>https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137719</guid>
-<pubDate>Tue, 30 Jun 2026 19:02:38 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】谷歌正在更新其图像生成器，使其更快、更便宜，从而成为创作者制作AI内容时更有用的工具。<br/><br/><a href="https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌推出最新最快、最经济的Nano Banana 2 Lite图像模型</title>
-<link>https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/</guid>
-<pubDate>Tue, 30 Jun 2026 18:36:10 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】虽然生成图像的质量可能不如以往，但Nano Banana 2 Lite仅需几秒钟即可完成图像创作。<br/><br/><a href="https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ScarfBench：面向企业Java框架迁移的AI智能体基准测试</title>
-<link>https://huggingface.co/blog/ibm-research/scarfbench</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/scarfbench</guid>
-<pubDate>Tue, 30 Jun 2026 18:32:50 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/scarfbench">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nvidia竞争对手Etched估值达50亿美元，AI芯片销售额达10亿美元</title>
-<link>https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137668</guid>
-<pubDate>Tue, 30 Jun 2026 18:13:02 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Nvidia的AI芯片竞争对手Etched表示，其芯片驱动的推理系统已签订价值10亿美元的合同。<br/><br/><a href="https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic 推出 Claude Sonnet 5，以更低成本运行智能体</title>
-<link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137723</guid>
-<pubDate>Tue, 30 Jun 2026 18:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic 的 Claude Sonnet 5 带来了更强的智能体能力、更低的价格以及改进的安全性，将该模型定位为 Opus、GPT-5.5 和 Gemini Pro 的更廉价替代方案。<br/><br/><a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Acti 将AI智能体直接嵌入智能手机键盘</title>
-<link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137678</guid>
-<pubDate>Tue, 30 Jun 2026 17:52:46 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Acti 认为智能手机键盘将成为AI助手的下一个主场。这家初创公司为iOS和Android打造的新款键盘可跨应用运行，并允许用户通过自然语言创建自定义的AI驱动快捷操作。<br/><br/><a href="https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
