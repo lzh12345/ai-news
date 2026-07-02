@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 02 Jul 2026 07:23:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 10:30:05 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google Health API 有了命令行工具：ghealth 是用于 Fitbit Air 数据的开源工具</title>
+<link>https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80806</guid>
+<pubDate>Thu, 02 Jul 2026 08:46:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Health API 现在有了一个开源命令行工具。ghealth 是一个单一的 Go 语言二进制文件，可将 40 种数据类型以 agent-ready JSON 格式暴露出来。这是一个社区项目，并非 Google 官方发布。以下是其工作原理，以及在授予 OAuth 访问权限前需要检查的事项。该文章《The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>印度科技大亨自掏3000万美元打造微软Office的AI替代品</title>
 <link>https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/</link>
@@ -478,14 +486,6 @@
 <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GeneBench-Pro 正式发布，这是一个全新的基准测试，利用复杂的真实世界数据集，评估人工智能在基因组学、生物学及科学研究中的性能表现。<br/><br/><a href="https://openai.com/index/introducing-genebench-pro">阅读原文</a>]]></description>
-</item>
-<item>
-<title>核心转储流行病学：修复一个存在18年的漏洞</title>
-<link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
-<guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI工程师利用大规模核心转储分析来调试罕见的基础设施崩溃，发现了一个硬件故障和一个长期存在的软件漏洞。<br/><br/><a href="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

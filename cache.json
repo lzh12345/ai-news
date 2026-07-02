@@ -2058,5 +2058,9 @@
 "https://www.marktechpost.com/?p=80795": {
 "t": "美国出口管制解除后，Anthropic 于7月1日重新部署 Claude Fable 5，并新增网络安全分类器",
 "s": "在美国出口管制解除后，Anthropic 将于7月1日重新部署 Claude Fable 5。一款新的安全分类器能超过99%的时间阻止亚马逊报告中的相关技术，并将标记的请求路由至 Opus 4.8。该公司还与亚马逊、微软和谷歌共同提出了一个包含四项标准的越狱严重性评估框架。本文《Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80806": {
+"t": "Google Health API 有了命令行工具：ghealth 是用于 Fitbit Air 数据的开源工具",
+"s": "Google Health API 现在有了一个开源命令行工具。ghealth 是一个单一的 Go 语言二进制文件，可将 40 种数据类型以 agent-ready JSON 格式暴露出来。这是一个社区项目，并非 Google 官方发布。以下是其工作原理，以及在授予 OAuth 访问权限前需要检查的事项。该文章《The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data》最初发表于 MarkTechPost。"
 }
 }
