@@ -2190,5 +2190,9 @@
 "https://www.marktechpost.com/?p=80815": {
 "t": "Interfaze 发布 diffusion-gemma-asr-small，一款通过 DiffusionGemma 并行去噪解码器转录六种语言的开源扩散 ASR 模型",
 "s": "Interfaze 开源了 diffusion-gemma-asr-small，这是一款多语言 ASR 模型，通过扩散而非自回归方式进行转录。它使用约 4200 万参数的适配器，将音频接入谷歌的冻结 DiffusionGemma。单个适配器覆盖六种语言，转录成本由去噪步数而非转录长度决定。本文《Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder》首发于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37292": {
+"t": "中国AI视频制作公司Kling融资20亿美元，筹备香港IPO",
+"s": "快手为其AI视频部门Kling从投资者处筹集了约20亿美元。文章《中国AI视频制作公司Kling融资20亿美元，筹备香港IPO》最初发表于The Decoder。"
 }
 }
