@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 03 Jul 2026 02:07:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 06:55:07 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>认识 WebBrain：一款开源、本地优先的 AI 浏览器代理，可在 Chrome 和 Firefox 中读取页面并自动执行任务</title>
+<link>https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80818</guid>
+<pubDate>Fri, 03 Jul 2026 05:55:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】WebBrain 是一款免费、采用 MIT 许可的 AI 浏览器代理，适用于 Chrome 和 Firefox。它通过“询问”和“行动”模式读取页面、提取数据并自动执行多步骤任务。可在本地模型（如 llama.cpp 或 Ollama）上运行以保护隐私，或连接任何云端 API。本文《Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Interfaze 发布 diffusion-gemma-asr-small，一款通过 DiffusionGemma 并行去噪解码器转录六种语言的开源扩散 ASR 模型</title>
+<link>https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80815</guid>
+<pubDate>Fri, 03 Jul 2026 03:24:23 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Interfaze 开源了 diffusion-gemma-asr-small，这是一款多语言 ASR 模型，通过扩散而非自回归方式进行转录。它使用约 4200 万参数的适配器，将音频接入谷歌的冻结 DiffusionGemma。单个适配器覆盖六种语言，转录成本由去噪步数而非转录长度决定。本文《Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>马克·扎克伯格告诉员工，AI智能体的进展未达预期</title>
 <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 01 Jul 2026 02:04:40 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Wayve 的这一举措是人工智能初创公司利用员工要约收购作为吸引和留住人才战略工具这一日益增长趋势的一部分。<br/><br/><a href="https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face 与 Cerebras 将 Gemma 4 引入实时语音 AI</title>
-<link>https://huggingface.co/blog/cerebras-gemma4-voice-ai</link>
-<guid isPermaLink="false">https://huggingface.co/blog/cerebras-gemma4-voice-ai</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/cerebras-gemma4-voice-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Linq的iMessage应用通过imessage_app组件将支付、票务、航班和游戏带入iMessage气泡</title>
-<link>https://www.marktechpost.com/2026/06/30/linqs-imessage-apps/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80783</guid>
-<pubDate>Tue, 30 Jun 2026 22:17:56 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Linq推出iMessage应用：交互式imessage_app卡片，可在iMessage会话中为智能体运行支付、票务、航班和游戏功能。该文章《Linq的iMessage应用通过imessage_app组件将支付、票务、航班和游戏带入iMessage气泡》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/30/linqs-imessage-apps/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

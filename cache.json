@@ -2182,5 +2182,13 @@
 "https://www.marktechpost.com/?p=80812": {
 "t": "RAG-Anything 教程：在 Colab 中构建文本、表格、公式和图像的多模态检索管道",
 "s": "在本教程中，我们构建了一个 RAG-Anything 工作流，以探索多模态检索如何在文本、表格、公式和图像中运作。我们准备了一个 Colab 环境，在运行时输入 OpenAI API 密钥，并生成一份包含图表和 PDF 的合成报告。我们将该内容转换为 RAG-Anything 的 direct_content_list 格式，并插入到检索系统中。然后，我们配置 OpenAI 的聊天、视觉和嵌入函数，并测试朴素模式、局部模式、全局模式和混合模式。"
+},
+"https://www.marktechpost.com/?p=80818": {
+"t": "认识 WebBrain：一款开源、本地优先的 AI 浏览器代理，可在 Chrome 和 Firefox 中读取页面并自动执行任务",
+"s": "WebBrain 是一款免费、采用 MIT 许可的 AI 浏览器代理，适用于 Chrome 和 Firefox。它通过“询问”和“行动”模式读取页面、提取数据并自动执行多步骤任务。可在本地模型（如 llama.cpp 或 Ollama）上运行以保护隐私，或连接任何云端 API。本文《Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80815": {
+"t": "Interfaze 发布 diffusion-gemma-asr-small，一款通过 DiffusionGemma 并行去噪解码器转录六种语言的开源扩散 ASR 模型",
+"s": "Interfaze 开源了 diffusion-gemma-asr-small，这是一款多语言 ASR 模型，通过扩散而非自回归方式进行转录。它使用约 4200 万参数的适配器，将音频接入谷歌的冻结 DiffusionGemma。单个适配器覆盖六种语言，转录成本由去噪步数而非转录长度决定。本文《Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder》首发于 MarkTechPost。"
 }
 }
