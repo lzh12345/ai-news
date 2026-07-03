@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 02 Jul 2026 20:56:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 02:07:57 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>马克·扎克伯格告诉员工，AI智能体的进展未达预期</title>
+<link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3138873</guid>
+<pubDate>Thu, 02 Jul 2026 23:38:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在一次内部会议上，据称Meta首席执行官表示，人工智能开发工作的进展没有达到预期速度。<br/><br/><a href="https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>RAG-Anything 教程：在 Colab 中构建文本、表格、公式和图像的多模态检索管道</title>
+<link>https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80812</guid>
+<pubDate>Thu, 02 Jul 2026 21:38:34 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们构建了一个 RAG-Anything 工作流，以探索多模态检索如何在文本、表格、公式和图像中运作。我们准备了一个 Colab 环境，在运行时输入 OpenAI API 密钥，并生成一份包含图表和 PDF 的合成报告。我们将该内容转换为 RAG-Anything 的 direct_content_list 格式，并插入到检索系统中。然后，我们配置 OpenAI 的聊天、视觉和嵌入函数，并测试朴素模式、局部模式、全局模式和混合模式。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>认识阿里巴巴的Page Agent：一种通过DOM用自然语言控制网页界面的JavaScript页面内GUI代理</title>
 <link>https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/</link>
@@ -470,22 +486,6 @@
 <pubDate>Tue, 30 Jun 2026 22:17:56 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Linq推出iMessage应用：交互式imessage_app卡片，可在iMessage会话中为智能体运行支付、票务、航班和游戏功能。该文章《Linq的iMessage应用通过imessage_app组件将支付、票务、航班和游戏带入iMessage气泡》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/30/linqs-imessage-apps/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenClaw 终于登陆 Android 和 iOS 平台</title>
-<link>https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137864</guid>
-<pubDate>Tue, 30 Jun 2026 21:53:28 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这款免费开源的智能代理程序终于入侵你的手机。<br/><br/><a href="https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic Claude Sonnet 5 对比 Sonnet 4.6 与 Opus 4.8：自主编码基准测试、API 定价及成本性能权衡比较</title>
-<link>https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80776</guid>
-<pubDate>Tue, 30 Jun 2026 21:37:40 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Anthropic 的 Claude Sonnet 5 在自主编码方面缩小了与 Opus 4.8 的差距，同时保持了更低的 Sonnet 代币定价。本文《Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
