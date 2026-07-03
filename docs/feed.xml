@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 03 Jul 2026 13:46:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 17:15:33 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude Code复杂的中国问题涉及太平洋两岸的禁令</title>
+<link>https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37329</guid>
+<pubDate>Fri, 03 Jul 2026 17:11:33 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic正试图阻止字节跳动和蚂蚁金服等中国公司访问Claude Code，但它们通过VPN和海外子公司绕过了这些限制。与此同时，阿里巴巴在发现隐藏代码可能识别中国用户后，已禁止其员工使用该工具。文章《Claude Code复杂的中国问题涉及太平洋两岸的禁令》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>自AI模型开始搜寻漏洞以来，安全漏洞报告数量激增</title>
+<link>https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37322</guid>
+<pubDate>Fri, 03 Jul 2026 16:49:47 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Epoch AI报告称，安全漏洞报告数量急剧上升。2026年6月，21个组织报告了约1500个高严重性和关键性CVE，是此前月度记录的三倍多。这一激增与AI驱动的漏洞搜寻项目的启动相吻合。本文《自AI模型开始搜寻漏洞以来，安全漏洞报告数量激增》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>英国AI安全研究所发现标准基准测试系统性地低估了AI智能体的实际能力</title>
+<link>https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37311</guid>
+<pubDate>Fri, 03 Jul 2026 16:14:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在一项涵盖七个基准测试的研究中，英国AI安全研究所指出，标准AI评估通过限制计算预算，系统性地低估了智能体的能力。在软件工程任务中，当令牌预算增加十倍时，成功率提升了约25%。较新的模型受益最为显著。根据AISI的数据，根据令牌预算的不同，前沿领域的实际进展比此前测量结果所显示的要陡峭约60%。<br/><br/><a href="https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google DeepMind 与 A24 宣布首次研究合作</title>
+<link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</guid>
+<pubDate>Fri, 03 Jul 2026 14:25:43 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>GPT和Claude未能通过桥水基金的金融测试，因为正确答案从未公开</title>
 <link>https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/</link>
@@ -166,30 +198,6 @@
 <pubDate>Thu, 02 Jul 2026 13:53:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】微软效仿亚马逊、OpenAI和Anthropic，成立新的AI部署团队。<br/><br/><a href="https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控</title>
-<link>https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37270</guid>
-<pubDate>Thu, 02 Jul 2026 13:00:05 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】英伟达正日益扮演着AI初创企业中央银行的角色，积极塑造计算市场。本文《英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI代理现在能以专业质量完成16%的自由职业工作，较八个月前的2.5%有所提升</title>
-<link>https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37264</guid>
-<pubDate>Thu, 02 Jul 2026 12:37:49 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】远程劳动指数衡量了AI代理以专业质量完成付费自由职业项目的频率。在八个月内，最高自动化率增长了超过四倍。本文《AI代理现在能以专业质量完成16%的自由职业工作，较八个月前的2.5%有所提升》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google 将 TikTok 风格短视频引入 NotebookLM</title>
-<link>https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37263</guid>
-<pubDate>Thu, 02 Jul 2026 12:17:15 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google 已将 NotebookLM 扩展，加入了社交媒体上常见的短视频格式概览。文章《Google brings TikTok-style video shorts to NotebookLM》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>没错，我们现在用OpenClaw来约会了</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 01 Jul 2026 02:16:06 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Anthropic表示将于7月1日开始恢复对Fable的访问权限。<br/><br/><a href="https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Wayve 以85亿美元估值启动8500万美元员工要约收购</title>
-<link>https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137957</guid>
-<pubDate>Wed, 01 Jul 2026 02:04:40 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Wayve 的这一举措是人工智能初创公司利用员工要约收购作为吸引和留住人才战略工具这一日益增长趋势的一部分。<br/><br/><a href="https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
