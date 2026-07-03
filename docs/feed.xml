@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 03 Jul 2026 10:28:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 13:46:06 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>GPT和Claude未能通过桥水基金的金融测试，因为正确答案从未公开</title>
+<link>https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37297</guid>
+<pubDate>Fri, 03 Jul 2026 11:16:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】对冲基金桥水基金与Thinking Machines Lab报告称，一个经过精细调校的开源权重模型在金融文档评估中超越了最强大的AI模型，且成本仅为后者的一小部分。这些数据来自他们自己的分析。文章《GPT和Claude未能通过桥水基金的金融测试，因为正确答案从未公开》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta的AI智能体推进速度慢于扎克伯格计划</title>
+<link>https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37299</guid>
+<pubDate>Fri, 03 Jul 2026 11:05:22 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】马克·扎克伯格在一次内部全体会议上承认了公司重组中的弱点。他表示，Meta围绕AI智能体进行的重组进展慢于计划。与此同时，他的AI负责人则描绘了更为乐观的前景。本文《Meta的AI智能体推进速度慢于扎克伯格计划》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>特斯拉将员工AI支出限制在每周200美元</title>
+<link>https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37302</guid>
+<pubDate>Fri, 03 Jul 2026 10:56:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据The Information报道的一份内部备忘录，特斯拉将员工AI支出限制在每周200美元。文章《特斯拉将员工AI支出限制在每周200美元》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>中国AI视频制作公司Kling融资20亿美元，筹备香港IPO</title>
 <link>https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/</link>
@@ -184,14 +208,6 @@
 <description><![CDATA[【arstechnica.com】谷歌试图在AI数据中心排放与清洁能源努力之间取得平衡。<br/><br/><a href="https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI据报向特朗普政府提供公司5%的股份</title>
-<link>https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37260</guid>
-<pubDate>Thu, 02 Jul 2026 10:44:16 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据报道，OpenAI正提议向特朗普政府提供公司5%的股份。作为交换，政府可能需要付出什么，目前尚不明确。此举显示出这家AI公司希望与华盛顿建立紧密联系的意图。本文《OpenAI据报向特朗普政府提供公司5%的股份》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google Health API 有了命令行工具：ghealth 是用于 Fitbit Air 数据的开源工具</title>
 <link>https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80806</guid>
@@ -304,14 +320,6 @@
 <description><![CDATA[【marktechpost.com】在美国出口管制解除后，Anthropic 将于7月1日重新部署 Claude Fable 5。一款新的安全分类器能超过99%的时间阻止亚马逊报告中的相关技术，并将标记的请求路由至 Opus 4.8。该公司还与亚马逊、微软和谷歌共同提出了一个包含四项标准的越狱严重性评估框架。本文《Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>SpaceX向投资者展示由xAI技术驱动的超薄AI智能手机原型</title>
-<link>https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37256</guid>
-<pubDate>Wed, 01 Jul 2026 19:47:31 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】SpaceX向投资者展示了一款AI智能手机原型，据称比iPhone更薄，并集成了xAI技术。该设备搭载高通骁龙芯片，运行自有操作系统。马斯克希望打造一款以微信为蓝本的“万能应用”。本文《SpaceX向投资者展示由xAI技术驱动的超薄AI智能手机原型》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>SpaceX 拥有AI设备原型，听起来很像手机</title>
 <link>https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3138299</guid>
@@ -342,14 +350,6 @@
 <pubDate>Wed, 01 Jul 2026 16:44:18 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】美国解除对Anthropic先进Fable和Mythos模型的限制。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta效仿SpaceX策略，打造云业务向外部客户出售闲置AI算力</title>
-<link>https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37253</guid>
-<pubDate>Wed, 01 Jul 2026 16:00:43 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta正在构建自己的云业务，向外部客户出售闲置的AI算力。该公司今年计划投入高达1450亿美元的AI投资，这引发了与xAI类似的问题：为何不将所有算力用于自身模型？本文《Meta效仿SpaceX策略，打造云业务向外部客户出售闲置AI算力》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>每位GitHub维护者本周应启用的6项安全设置</title>
