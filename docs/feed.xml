@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 04 Jul 2026 06:40:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 10:01:35 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI联合创始人展望“几乎无界面”未来，届时无人再学习软件</title>
+<link>https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37354</guid>
+<pubDate>Sat, 04 Jul 2026 09:53:21 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】格雷格·布罗克曼承认，2023年大力推广的ChatGPT插件“因模型尚未成熟”而失败。他预见未来并非应用扩展，而是一个无形、具备情境感知能力的智能体。但OpenAI自家的Codex距离这一愿景仍有光年之遥。本文《OpenAI联合创始人展望“几乎无界面”未来，届时无人再学习软件》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>一项涵盖26000名学生的研究表明，AI的隐性学习成本需要整整两年才会显现</title>
+<link>https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37346</guid>
+<pubDate>Sat, 04 Jul 2026 09:08:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】一项针对超过26000名中国学生的研究发现，使用AI的学生完成作业更快、得分更高，但在考试中的表现却差达24%。对入学考试成绩的全面影响大约需要两年时间才会显现，这意味着短期研究系统性地低估了其损害。本文《一项涵盖26000名学生的研究表明，AI的隐性学习成本需要整整两年才会显现》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic启动自有药物发现项目，攻克大型药企认为无利可图的疾病</title>
+<link>https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37342</guid>
+<pubDate>Sat, 04 Jul 2026 08:11:18 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic正在启动针对被制药行业视为无利可图的被忽视疾病的药物开发项目。诺华CEO Vas Narasimhan认为，人工智能可将开发时间从十二年缩短至七八年，并将成功率从8%翻倍至16%。本文《Anthropic启动自有药物发现项目，攻克大型药企认为无利可图的疾病》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral 开源模型 Leanstral 1.5 在形式化数学基准测试中表现出色，并捕获代码中的真实漏洞</title>
+<link>https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37336</guid>
+<pubDate>Sat, 04 Jul 2026 07:12:47 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Mistral AI 发布了 Leanstral 1.5，这是一个用于 Lean 4 形式化验证的开源模型。除了数学领域，该模型在扫描 57 个开源代码库时发现了五个此前未知的漏洞。本文《Mistral 开源模型 Leanstral 1.5 在形式化数学基准测试中表现出色，并捕获代码中的真实漏洞》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>NVIDIA AI 推出 ASPIRE：一种自我改进的机器人框架，在 LIBERO-Pro 长任务上实现 31% 零样本性能</title>
 <link>https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/</link>
@@ -104,22 +136,6 @@
 <description><![CDATA[【the-decoder.com】马克·扎克伯格在一次内部全体会议上承认了公司重组中的弱点。他表示，Meta围绕AI智能体进行的重组进展慢于计划。与此同时，他的AI负责人则描绘了更为乐观的前景。本文《Meta的AI智能体推进速度慢于扎克伯格计划》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>特斯拉将员工AI支出限制在每周200美元</title>
-<link>https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37302</guid>
-<pubDate>Fri, 03 Jul 2026 10:56:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据The Information报道的一份内部备忘录，特斯拉将员工AI支出限制在每周200美元。文章《特斯拉将员工AI支出限制在每周200美元》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>中国AI视频制作公司Kling融资20亿美元，筹备香港IPO</title>
-<link>https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37292</guid>
-<pubDate>Fri, 03 Jul 2026 08:53:16 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】快手为其AI视频部门Kling从投资者处筹集了约20亿美元。文章《中国AI视频制作公司Kling融资20亿美元，筹备香港IPO》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>认识 WebBrain：一款开源、本地优先的 AI 浏览器代理，可在 Chrome 和 Firefox 中读取页面并自动执行任务</title>
 <link>https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80818</guid>
@@ -168,14 +184,6 @@
 <description><![CDATA[【techcrunch.com】出于好奇，我翻看了Jersey Mike's的IPO文件。一家三明治店按理说没必要提及AI，但没想到还真有。<br/><br/><a href="https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>微软斥资25亿美元成立“前沿公司”，将6000名AI工程师派驻企业客户内部</title>
-<link>https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37288</guid>
-<pubDate>Thu, 02 Jul 2026 19:18:29 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】微软投资25亿美元成立名为“前沿公司”的新部门，将6000名工程师直接派驻企业客户处。其目标是将AI融入核心流程，实现可衡量的投资回报率，而非进行更多实验。微软正将自己定位为OpenAI和Anthropic的平台中立替代方案，后者通过自家部署公司推广自身模型。本文《微软斥资25亿美元成立“前沿公司”，将6000名AI工程师派驻企业客户内部》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta 悄然推出“氛围编码”游戏应用 Pocket</title>
 <link>https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3138687</guid>
@@ -190,14 +198,6 @@
 <pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】此消息发布约一周前，OpenAI宣布与博通合作开发自有定制AI芯片。<br/><br/><a href="https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic据报与三星探讨定制芯片制造，同时强调英伟达仍具重要性</title>
-<link>https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37284</guid>
-<pubDate>Thu, 02 Jul 2026 17:30:57 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据报道，Anthropic正与三星电子洽谈制造定制AI芯片。该项目尚处早期阶段，但Anthropic已招募芯片工程师。继OpenAI的"Jalapeño"之后，又一家大型AI公司进军芯片开发以降低基础设施成本。本文《Anthropic据报与三星探讨定制芯片制造，同时强调英伟达仍具重要性》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GitHub如何利用秘密扫描实现收件箱归零</title>
