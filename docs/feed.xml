@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 04 Jul 2026 02:06:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 06:40:44 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NVIDIA AI 推出 ASPIRE：一种自我改进的机器人框架，在 LIBERO-Pro 长任务上实现 31% 零样本性能</title>
+<link>https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80831</guid>
+<pubDate>Sat, 04 Jul 2026 06:32:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA 的 ASPIRE 编写并优化机器人控制程序，然后将验证后的修复提炼为可复用的技能库。它在 LIBERO-Pro 上提升高达 77 分，并零样本迁移到未见过的长时域任务。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral AI 发布 Leanstral 1.5：一款基于 Apache-2.0 的 Lean 4 代码代理模型，解决 672 道 PutnamBench 问题中的 587 道</title>
+<link>https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80827</guid>
+<pubDate>Fri, 03 Jul 2026 22:20:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Mistral AI 发布了 Leanstral 1.5，这是一款基于 Apache-2.0 许可的免费 Lean 4 代码代理模型。该模型在 miniF2F 基准测试中达到饱和，并解决了 672 道 PutnamBench 问题中的 587 道。其 119B 参数的混合专家架构每个 token 仅激活 6.5B 参数。本文详细解析了其架构、基准测试结果、真实 bug 发现案例研究以及部署代码。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用lift-pdf设计基于模式引导的发票智能流水线，实现应付账款提取、验证与账目生成</title>
+<link>https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80824</guid>
+<pubDate>Fri, 03 Jul 2026 21:25:33 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用lift-pdf构建了一个端到端的应付账款提取流水线，以合成发票PDF作为受控测试文档，并以结构化JSON模式作为目标输出格式。我们并未将发票解析视为简单的OCR任务，而是将其定位为模式引导的文档理解：生成逼真的发票，定义诸如……等字段。本文《使用lift-pdf设计基于模式引导的发票智能流水线，实现应付账款提取、验证与账目生成》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>今年你唯一需要的人工智能词汇表</title>
 <link>https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
@@ -96,12 +120,44 @@
 <description><![CDATA[【the-decoder.com】快手为其AI视频部门Kling从投资者处筹集了约20亿美元。文章《中国AI视频制作公司Kling融资20亿美元，筹备香港IPO》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>认识 WebBrain：一款开源、本地优先的 AI 浏览器代理，可在 Chrome 和 Firefox 中读取页面并自动执行任务</title>
+<link>https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80818</guid>
+<pubDate>Fri, 03 Jul 2026 05:55:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】WebBrain 是一款免费、采用 MIT 许可的 AI 浏览器代理，适用于 Chrome 和 Firefox。它通过“询问”和“行动”模式读取页面、提取数据并自动执行多步骤任务。可在本地模型（如 llama.cpp 或 Ollama）上运行以保护隐私，或连接任何云端 API。本文《Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Interfaze 发布 diffusion-gemma-asr-small，一款通过 DiffusionGemma 并行去噪解码器转录六种语言的开源扩散 ASR 模型</title>
+<link>https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80815</guid>
+<pubDate>Fri, 03 Jul 2026 03:24:23 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Interfaze 开源了 diffusion-gemma-asr-small，这是一款多语言 ASR 模型，通过扩散而非自回归方式进行转录。它使用约 4200 万参数的适配器，将音频接入谷歌的冻结 DiffusionGemma。单个适配器覆盖六种语言，转录成本由去噪步数而非转录长度决定。本文《Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>马克·扎克伯格告诉员工，AI智能体的进展未达预期</title>
 <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3138873</guid>
 <pubDate>Thu, 02 Jul 2026 23:38:10 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】在一次内部会议上，据称Meta首席执行官表示，人工智能开发工作的进展没有达到预期速度。<br/><br/><a href="https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>RAG-Anything 教程：在 Colab 中构建文本、表格、公式和图像的多模态检索管道</title>
+<link>https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80812</guid>
+<pubDate>Thu, 02 Jul 2026 21:38:34 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们构建了一个 RAG-Anything 工作流，以探索多模态检索如何在文本、表格、公式和图像中运作。我们准备了一个 Colab 环境，在运行时输入 OpenAI API 密钥，并生成一份包含图表和 PDF 的合成报告。我们将该内容转换为 RAG-Anything 的 direct_content_list 格式，并插入到检索系统中。然后，我们配置 OpenAI 的聊天、视觉和嵌入函数，并测试朴素模式、局部模式、全局模式和混合模式。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>认识阿里巴巴的Page Agent：一种通过DOM用自然语言控制网页界面的JavaScript页面内GUI代理</title>
+<link>https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80809</guid>
+<pubDate>Thu, 02 Jul 2026 20:51:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】阿里巴巴的Page Agent作为客户端JavaScript在网页内运行。它读取实时DOM文本，然后根据自然语言指令进行点击和输入。无需截图、多模态模型或后端重写。本文《Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Jersey Mike's IPO 说明AI炒作有多离谱</title>
@@ -200,6 +256,14 @@
 <description><![CDATA[【arstechnica.com】谷歌试图在AI数据中心排放与清洁能源努力之间取得平衡。<br/><br/><a href="https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Google Health API 有了命令行工具：ghealth 是用于 Fitbit Air 数据的开源工具</title>
+<link>https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80806</guid>
+<pubDate>Thu, 02 Jul 2026 08:46:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Health API 现在有了一个开源命令行工具。ghealth 是一个单一的 Go 语言二进制文件，可将 40 种数据类型以 agent-ready JSON 格式暴露出来。这是一个社区项目，并非 Google 官方发布。以下是其工作原理，以及在授予 OAuth 访问权限前需要检查的事项。该文章《The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>印度科技大亨自掏3000万美元打造微软Office的AI替代品</title>
 <link>https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3138430</guid>
@@ -286,6 +350,22 @@
 <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】域泛化问题关注的是学习预测模型，使其在部署到新的、未见过的环境时对分布变化具有鲁棒性。现有方法通常需要来自多个训练环境的标签数据，这在标签数据稀缺时限制了其适用性。在本研究中，我们探讨了反因果设置下的域泛化，其中结果变量导致观测协变量。在这种结构下，影响协变量的环境扰动不会传播到结果变量，这促使我们对模型对……的敏感性进行正则化。<br/><br/><a href="https://machinelearning.apple.com/research/anti-casual">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用Lift将研究PDF转化为结构化JSON：基于受控模式引导的字段级评估</title>
+<link>https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80799</guid>
+<pubDate>Wed, 01 Jul 2026 21:09:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Lift构建了一个完整的PDF到结构化数据工作流，专注于受控评估而非一次性演示。我们准备了一个Colab GPU环境，以4位NF4加载Lift，并生成带有刻意干扰项的合成研究报告。随后，我们执行模式引导的提取，将每个字段与真实值进行评分，并将结果组装成可查询的知识库。最终产出的是一个可重复的提取基准，而不仅仅是原始模型输出。<br/><br/><a href="https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国出口管制解除后，Anthropic 于7月1日重新部署 Claude Fable 5，并新增网络安全分类器</title>
+<link>https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80795</guid>
+<pubDate>Wed, 01 Jul 2026 20:41:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在美国出口管制解除后，Anthropic 将于7月1日重新部署 Claude Fable 5。一款新的安全分类器能超过99%的时间阻止亚马逊报告中的相关技术，并将标记的请求路由至 Opus 4.8。该公司还与亚马逊、微软和谷歌共同提出了一个包含四项标准的越狱严重性评估框架。本文《Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>SpaceX 拥有AI设备原型，听起来很像手机</title>
@@ -406,86 +486,6 @@
 <pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Cloudflare 新推出的归因业务洞察仪表板帮助网站所有者了解爬虫行为、需求及潜在价值，推动围绕爬虫补偿的业务层面讨论。<br/><br/><a href="https://blog.cloudflare.com/attribution-business-insights/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>“互联网之父”终于要退休了</title>
-<link>https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137972</guid>
-<pubDate>Wed, 01 Jul 2026 03:15:37 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】作为互联网底层协议创始人之一的文顿·瑟夫，将于下周卸任谷歌首席互联网布道师一职。<br/><br/><a href="https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>特朗普解除对Anthropic的Mythos和Fable模型的限制</title>
-<link>https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137898</guid>
-<pubDate>Wed, 01 Jul 2026 02:16:06 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic表示将于7月1日开始恢复对Fable的访问权限。<br/><br/><a href="https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Wayve 以85亿美元估值启动8500万美元员工要约收购</title>
-<link>https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137957</guid>
-<pubDate>Wed, 01 Jul 2026 02:04:40 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Wayve 的这一举措是人工智能初创公司利用员工要约收购作为吸引和留住人才战略工具这一日益增长趋势的一部分。<br/><br/><a href="https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face 与 Cerebras 将 Gemma 4 引入实时语音 AI</title>
-<link>https://huggingface.co/blog/cerebras-gemma4-voice-ai</link>
-<guid isPermaLink="false">https://huggingface.co/blog/cerebras-gemma4-voice-ai</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/cerebras-gemma4-voice-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>新攻击再次证明AI浏览器并非好主意</title>
-<link>https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</guid>
-<pubDate>Tue, 30 Jun 2026 20:03:14 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】只需告诉大语言模型2加2等于5，就足以让它执行被禁止的指令。<br/><br/><a href="https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌推出最新最快、最经济的Nano Banana 2 Lite图像模型</title>
-<link>https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/</guid>
-<pubDate>Tue, 30 Jun 2026 18:36:10 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】虽然生成图像的质量可能不如以往，但Nano Banana 2 Lite仅需几秒钟即可完成图像创作。<br/><br/><a href="https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ScarfBench：面向企业Java框架迁移的AI智能体基准测试</title>
-<link>https://huggingface.co/blog/ibm-research/scarfbench</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/scarfbench</guid>
-<pubDate>Tue, 30 Jun 2026 18:32:50 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/scarfbench">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub 如何维护开源依赖项的合规性</title>
-<link>https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/</link>
-<guid isPermaLink="false">https://github.blog/?p=97187</guid>
-<pubDate>Tue, 30 Jun 2026 17:28:16 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】探索开源项目办公室如何利用 GitHub 新的许可证合规产品大规模管理开源依赖项。本文《GitHub 如何维护开源依赖项的合规性》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>特朗普计划重新设计所有.gov网站，结果却催生了AI设计的恐怖景象</title>
-<link>https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</guid>
-<pubDate>Tue, 30 Jun 2026 16:59:02 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】一年过去了，国家设计工作室推迟了更新政府网站标准的计划。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>开始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 进行开发</title>
-<link>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</guid>
-<pubDate>Tue, 30 Jun 2026 16:02:40 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

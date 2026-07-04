@@ -2234,5 +2234,17 @@
 "https://techcrunch.com/?p=2973217": {
 "t": "今年你唯一需要的人工智能词汇表",
 "s": "人工智能的兴起带来了大量新术语和俚语。以下是一份词汇表，其中包含你可能遇到的一些最重要词汇和短语的定义。"
+},
+"https://www.marktechpost.com/?p=80831": {
+"t": "NVIDIA AI 推出 ASPIRE：一种自我改进的机器人框架，在 LIBERO-Pro 长任务上实现 31% 零样本性能",
+"s": "NVIDIA 的 ASPIRE 编写并优化机器人控制程序，然后将验证后的修复提炼为可复用的技能库。它在 LIBERO-Pro 上提升高达 77 分，并零样本迁移到未见过的长时域任务。该文章最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80827": {
+"t": "Mistral AI 发布 Leanstral 1.5：一款基于 Apache-2.0 的 Lean 4 代码代理模型，解决 672 道 PutnamBench 问题中的 587 道",
+"s": "Mistral AI 发布了 Leanstral 1.5，这是一款基于 Apache-2.0 许可的免费 Lean 4 代码代理模型。该模型在 miniF2F 基准测试中达到饱和，并解决了 672 道 PutnamBench 问题中的 587 道。其 119B 参数的混合专家架构每个 token 仅激活 6.5B 参数。本文详细解析了其架构、基准测试结果、真实 bug 发现案例研究以及部署代码。该文章最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80824": {
+"t": "使用lift-pdf设计基于模式引导的发票智能流水线，实现应付账款提取、验证与账目生成",
+"s": "在本教程中，我们使用lift-pdf构建了一个端到端的应付账款提取流水线，以合成发票PDF作为受控测试文档，并以结构化JSON模式作为目标输出格式。我们并未将发票解析视为简单的OCR任务，而是将其定位为模式引导的文档理解：生成逼真的发票，定义诸如……等字段。本文《使用lift-pdf设计基于模式引导的发票智能流水线，实现应付账款提取、验证与账目生成》最初发表于MarkTechPost。"
 }
 }
