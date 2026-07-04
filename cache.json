@@ -2282,5 +2282,13 @@
 "https://techcrunch.com/?p=2970347": {
 "t": "什么是Mistral AI？关于这家OpenAI竞争对手的一切须知",
 "s": "Mistral AI提供部分开源AI模型，自2023年成立以来已筹集大量资金，其目标是“让前沿AI触手可及”。"
+},
+"https://the-decoder.com/?p=37364": {
+"t": "开源工具pxpipe将文本隐藏在PNG中，为Claude Code和Fable 5节省高达70%的Token成本",
+"s": "开源工具pxpipe将Claude Code的长文本提示转换为紧凑的PNG图像，利用Anthropic按像素大小而非文本内容收费的特点。开发者Steven Chong报告称，在牺牲准确性和速度的前提下，可节省59%至70%的成本。本文《开源工具pxpipe将文本隐藏在PNG中，为Claude Code和Fable 5节省高达70%的Token成本》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3138980": {
+"t": "Midjourney 要求好莱坞工作室披露其AI使用细节",
+"s": "在与三家好莱坞工作室持续进行的法律纠纷中，Midjourney 正试图迫使这些工作室公开其自身使用AI的方式。"
 }
 }
