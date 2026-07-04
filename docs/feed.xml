@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 04 Jul 2026 10:01:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 13:04:40 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic开发者分享Fable 5提示技巧：先找出自身盲点</title>
+<link>https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37358</guid>
+<pubDate>Sat, 04 Jul 2026 12:37:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic开发者Thariq Shihipar认为，随着Claude新模型Fable 5的推出，瓶颈已不再是模型本身，而是用户的盲点。他介绍了盲点扫描和结构化访谈等技术，程序员可借此系统性地发现自身无意识的知识空白，再将实现任务交给Claude。本文《Anthropic开发者分享Fable 5提示技巧：先找出自身盲点》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI联合创始人展望“几乎无界面”未来，届时无人再学习软件</title>
 <link>https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/</link>
@@ -126,14 +134,6 @@
 <pubDate>Fri, 03 Jul 2026 11:16:42 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】对冲基金桥水基金与Thinking Machines Lab报告称，一个经过精细调校的开源权重模型在金融文档评估中超越了最强大的AI模型，且成本仅为后者的一小部分。这些数据来自他们自己的分析。文章《GPT和Claude未能通过桥水基金的金融测试，因为正确答案从未公开》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta的AI智能体推进速度慢于扎克伯格计划</title>
-<link>https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37299</guid>
-<pubDate>Fri, 03 Jul 2026 11:05:22 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】马克·扎克伯格在一次内部全体会议上承认了公司重组中的弱点。他表示，Meta围绕AI智能体进行的重组进展慢于计划。与此同时，他的AI负责人则描绘了更为乐观的前景。本文《Meta的AI智能体推进速度慢于扎克伯格计划》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>认识 WebBrain：一款开源、本地优先的 AI 浏览器代理，可在 Chrome 和 Firefox 中读取页面并自动执行任务</title>

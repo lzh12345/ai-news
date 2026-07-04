@@ -2262,5 +2262,9 @@
 "https://the-decoder.com/?p=37336": {
 "t": "Mistral 开源模型 Leanstral 1.5 在形式化数学基准测试中表现出色，并捕获代码中的真实漏洞",
 "s": "Mistral AI 发布了 Leanstral 1.5，这是一个用于 Lean 4 形式化验证的开源模型。除了数学领域，该模型在扫描 57 个开源代码库时发现了五个此前未知的漏洞。本文《Mistral 开源模型 Leanstral 1.5 在形式化数学基准测试中表现出色，并捕获代码中的真实漏洞》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=37358": {
+"t": "Anthropic开发者分享Fable 5提示技巧：先找出自身盲点",
+"s": "Anthropic开发者Thariq Shihipar认为，随着Claude新模型Fable 5的推出，瓶颈已不再是模型本身，而是用户的盲点。他介绍了盲点扫描和结构化访谈等技术，程序员可借此系统性地发现自身无意识的知识空白，再将实现任务交给Claude。本文《Anthropic开发者分享Fable 5提示技巧：先找出自身盲点》最初发表于The Decoder。"
 }
 }
