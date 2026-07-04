@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 04 Jul 2026 13:04:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 16:55:12 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>阿里巴巴据报禁止员工使用Claude Code</title>
+<link>https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3138976</guid>
+<pubDate>Sat, 04 Jul 2026 16:32:08 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】阿里巴巴据报已将Claude Code列为高风险软件。<br/><br/><a href="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 发布 Claude Science 测试版：用于可复现基因组学、蛋白质组学和化学信息学管道的多智能体 AI 工作台</title>
+<link>https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80844</guid>
+<pubDate>Sat, 04 Jul 2026 16:21:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic 于 2026 年 6 月 30 日发布了 Claude Science 测试版。该应用基于现有的 Claude 模型运行。一个协调智能体将任务委派给领域专家，一个审查智能体标记并纠正引用和数字，每个图表都附带其精确代码、环境和完整消息历史。它管理跨本地机器、通过 SSH 的高性能计算以及 Modal 的计算资源，并连接 60 多个数据库以及 NVIDIA BioNeMo 技能。该文章《Anthropic 发布 Claude Science 测试版：用于可复现基因组学、蛋白质组学和化学信息学管道的多智能体 AI 工作台》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA HORIZON：一款免手动代理，可演进Git工作树并实现100% RTL基准测试完成率</title>
+<link>https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80838</guid>
+<pubDate>Sat, 04 Jul 2026 16:04:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】一款免手动的NVIDIA代理框架将每个RTL问题作为版本化仓库托管，在各项基准测试中达到100%的完成率。本文NVIDIA HORIZON：一款免手动代理，可演进Git工作树并实现100% RTL基准测试完成率最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>什么是Mistral AI？关于这家OpenAI竞争对手的一切须知</title>
+<link>https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=2970347</guid>
+<pubDate>Sat, 04 Jul 2026 15:51:32 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Mistral AI提供部分开源AI模型，自2023年成立以来已筹集大量资金，其目标是“让前沿AI触手可及”。<br/><br/><a href="https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic开发者分享Fable 5提示技巧：先找出自身盲点</title>
 <link>https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/</link>
@@ -352,22 +384,6 @@
 <description><![CDATA[【machinelearning.apple.com】域泛化问题关注的是学习预测模型，使其在部署到新的、未见过的环境时对分布变化具有鲁棒性。现有方法通常需要来自多个训练环境的标签数据，这在标签数据稀缺时限制了其适用性。在本研究中，我们探讨了反因果设置下的域泛化，其中结果变量导致观测协变量。在这种结构下，影响协变量的环境扰动不会传播到结果变量，这促使我们对模型对……的敏感性进行正则化。<br/><br/><a href="https://machinelearning.apple.com/research/anti-casual">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用Lift将研究PDF转化为结构化JSON：基于受控模式引导的字段级评估</title>
-<link>https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80799</guid>
-<pubDate>Wed, 01 Jul 2026 21:09:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Lift构建了一个完整的PDF到结构化数据工作流，专注于受控评估而非一次性演示。我们准备了一个Colab GPU环境，以4位NF4加载Lift，并生成带有刻意干扰项的合成研究报告。随后，我们执行模式引导的提取，将每个字段与真实值进行评分，并将结果组装成可查询的知识库。最终产出的是一个可重复的提取基准，而不仅仅是原始模型输出。<br/><br/><a href="https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>美国出口管制解除后，Anthropic 于7月1日重新部署 Claude Fable 5，并新增网络安全分类器</title>
-<link>https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80795</guid>
-<pubDate>Wed, 01 Jul 2026 20:41:56 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在美国出口管制解除后，Anthropic 将于7月1日重新部署 Claude Fable 5。一款新的安全分类器能超过99%的时间阻止亚马逊报告中的相关技术，并将标记的请求路由至 Opus 4.8。该公司还与亚马逊、微软和谷歌共同提出了一个包含四项标准的越狱严重性评估框架。本文《Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>SpaceX 拥有AI设备原型，听起来很像手机</title>
 <link>https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3138299</guid>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 01 Jul 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】在第二个“内容独立日”之际，我们为网站所有者提供了更精细的AI流量管理选项。不再采用一刀切的屏蔽方式，所有客户现在可以轻松区分并管理搜索机器人、代理机器人和训练机器人，同时新增了保护广告变现页面的能力。<br/><br/><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年BAIR研究生成果展</title>
-<link>http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</link>
-<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</guid>
-<pubDate>Wed, 01 Jul 2026 02:00:00 -0700</pubDate>
-<source>bair.berkeley.edu</source>
-<description><![CDATA[【bair.berkeley.edu】祝贺伯克利人工智能研究（BAIR）实验室2026届毕业生！今年，BAIR再次庆祝一批杰出的博士毕业生，他们的好奇心、创造力和毅力推动了人工智能和机器学习的前沿。他们的研究涵盖现代AI的广泛领域——机器人与具身智能、大语言模型与推理、计算机视觉、生成式建模、AI安全、人机交互、AI在科学与医疗中的应用等。在此过程中，他们发表了具有影响力的研究，构建了具有实际价值的系统。<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/01/grads-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过归因业务洞察揭示爬虫行为</title>
-<link>https://blog.cloudflare.com/attribution-business-insights/</link>
-<guid isPermaLink="false">3wrqj94tEFsKCZ8OBUE52R</guid>
-<pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare 新推出的归因业务洞察仪表板帮助网站所有者了解爬虫行为、需求及潜在价值，推动围绕爬虫补偿的业务层面讨论。<br/><br/><a href="https://blog.cloudflare.com/attribution-business-insights/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
