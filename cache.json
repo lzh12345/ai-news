@@ -2310,5 +2310,17 @@
 "https://the-decoder.com/?p=37371": {
 "t": "AI搜索代理的失败不在于搜索本身，而在于查询模糊时未能提出正确问题",
 "s": "AI搜索代理在多步骤研究中的失败很少源于搜索本身。它们的真正问题在于，当查询存在歧义时，不会主动向用户请求澄清。一项名为DiscoBench的新基准测试显示，那些反复搜索而不提出后续问题的模型，其表现（准确率51.9%）实际上比直接猜测的模型更差。即使是最优秀的模型，整体准确率也仅为43%。当从查询中消除歧义后，准确率最高可提升40个百分点。"
+},
+"https://the-decoder.com/?p=37390": {
+"t": "AI私立学校向富裕美国家庭推销个性化学习，取代传统教育",
+"s": "富裕的美国家庭越来越多地将孩子送入像Alpha School这样的AI学校，该校将两小时的AI辅导与项目式工作坊相结合，学费高达每年7.5万美元。这一趋势凸显了AI时代日益扩大的教育差距，传统学校在采用该技术方面举步维艰，若缺乏正确技能使用，可能弊大于利。文章《AI私立学校向富裕美国家庭推销个性化学习，取代传统教育》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37386": {
+"t": "Mistral CEO Mensch 称专有AI模型让实验室能近距离观察你的业务流程",
+"s": "Mistral创始人Arthur Mensch警告企业不要依赖封闭的AI模型。他声称AI实验室正在存储越来越多的客户数据，并在某些情况下利用这些数据将客户视为竞争对手。这一担忧有其合理性，但Mistral在性能上无法真正与OpenAI或Anthropic的前沿模型竞争，因此正大力押注欧盟主权作为其战略优势。本文《Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80855": {
+"t": "LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具",
+"s": "LlamaIndex的legal-kb是一个公共参考应用，为代理提供对Index v2上文档知识库的文件系统式访问。它公开了retrieve（混合语义搜索）、find、read和grep作为工具，并具备自动文件版本管理和可视化引用功能。技术栈包括TanStack Start、AI SDK 6（ToolLoopAgent）、Prisma和WorkOS。本文LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具最早出现在MarkTechPost上。"
 }
 }

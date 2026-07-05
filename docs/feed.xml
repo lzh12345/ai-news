@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 05 Jul 2026 10:04:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 13:13:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI私立学校向富裕美国家庭推销个性化学习，取代传统教育</title>
+<link>https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37390</guid>
+<pubDate>Sun, 05 Jul 2026 10:45:46 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】富裕的美国家庭越来越多地将孩子送入像Alpha School这样的AI学校，该校将两小时的AI辅导与项目式工作坊相结合，学费高达每年7.5万美元。这一趋势凸显了AI时代日益扩大的教育差距，传统学校在采用该技术方面举步维艰，若缺乏正确技能使用，可能弊大于利。文章《AI私立学校向富裕美国家庭推销个性化学习，取代传统教育》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral CEO Mensch 称专有AI模型让实验室能近距离观察你的业务流程</title>
+<link>https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37386</guid>
+<pubDate>Sun, 05 Jul 2026 10:22:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Mistral创始人Arthur Mensch警告企业不要依赖封闭的AI模型。他声称AI实验室正在存储越来越多的客户数据，并在某些情况下利用这些数据将客户视为竞争对手。这一担忧有其合理性，但Mistral在性能上无法真正与OpenAI或Anthropic的前沿模型竞争，因此正大力押注欧盟主权作为其战略优势。本文《Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>好莱坞希望封禁Seedance，但据报道也打算继续使用它</title>
 <link>https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/</link>
@@ -22,6 +38,30 @@
 <pubDate>Sun, 05 Jul 2026 07:52:17 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】AI搜索代理在多步骤研究中的失败很少源于搜索本身。它们的真正问题在于，当查询存在歧义时，不会主动向用户请求澄清。一项名为DiscoBench的新基准测试显示，那些反复搜索而不提出后续问题的模型，其表现（准确率51.9%）实际上比直接猜测的模型更差。即使是最优秀的模型，整体准确率也仅为43%。当从查询中消除歧义后，准确率最高可提升40个百分点。<br/><br/><a href="https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具</title>
+<link>https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80855</guid>
+<pubDate>Sun, 05 Jul 2026 07:50:19 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】LlamaIndex的legal-kb是一个公共参考应用，为代理提供对Index v2上文档知识库的文件系统式访问。它公开了retrieve（混合语义搜索）、find、read和grep作为工具，并具备自动文件版本管理和可视化引用功能。技术栈包括TanStack Start、AI SDK 6（ToolLoopAgent）、Prisma和WorkOS。本文LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>结构化PDF转JSON：2026年开源提取模型指南</title>
+<link>https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80852</guid>
+<pubDate>Sun, 05 Jul 2026 03:02:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】大多数企业数据仍存在于PDF、扫描件和幻灯片中。大型语言模型和智能体无法直接使用这些数据，除非将其转化为结构化的JSON格式。开源文档提取已成为在自有硬件上完成这一转换的标准方式。“PDF转JSON”这一表述下隐藏着两个不同的问题：其一是基于模式驱动的提取……本文首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Qwen前负责人谈混合思考的失误——以及他为何转而支持智能体</title>
+<link>https://www.marktechpost.com/2026/07/04/qwens-former-lead-on-what-hybrid-thinking-got-wrong-and-why-he-now-backs-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80848</guid>
+<pubDate>Sun, 05 Jul 2026 02:31:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】阿里巴巴Qwen前技术负责人林俊阳在题为“迈向通用模型/智能体”的演讲中详细介绍了Qwen模型家族，随后又在一篇文章中进行了扩展。我们为从业者梳理了以下内容：Qwen3的混合思考模式与动态思考预算、融合方案的不足之处、从推理思考向智能体思考的转变、为何智能体强化学习基础设施更具挑战性，以及奖励黑客攻击的隐患。本文原载于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/04/qwens-former-lead-on-what-hybrid-thinking-got-wrong-and-why-he-now-backs-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌新广告设想：若《独立宣言》借助AI撰写会怎样</title>
@@ -54,6 +94,22 @@
 <pubDate>Sat, 04 Jul 2026 16:32:08 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】阿里巴巴据报已将Claude Code列为高风险软件。<br/><br/><a href="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 发布 Claude Science 测试版：用于可复现基因组学、蛋白质组学和化学信息学管道的多智能体 AI 工作台</title>
+<link>https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80844</guid>
+<pubDate>Sat, 04 Jul 2026 16:21:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic 于 2026 年 6 月 30 日发布了 Claude Science 测试版。该应用基于现有的 Claude 模型运行。一个协调智能体将任务委派给领域专家，一个审查智能体标记并纠正引用和数字，每个图表都附带其精确代码、环境和完整消息历史。它管理跨本地机器、通过 SSH 的高性能计算以及 Modal 的计算资源，并连接 60 多个数据库以及 NVIDIA BioNeMo 技能。该文章《Anthropic 发布 Claude Science 测试版：用于可复现基因组学、蛋白质组学和化学信息学管道的多智能体 AI 工作台》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA HORIZON：一款免手动代理，可演进Git工作树并实现100% RTL基准测试完成率</title>
+<link>https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80838</guid>
+<pubDate>Sat, 04 Jul 2026 16:04:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】一款免手动的NVIDIA代理框架将每个RTL问题作为版本化仓库托管，在各项基准测试中达到100%的完成率。本文NVIDIA HORIZON：一款免手动代理，可演进Git工作树并实现100% RTL基准测试完成率最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>什么是Mistral AI？关于这家OpenAI竞争对手的一切须知</title>
@@ -104,20 +160,36 @@
 <description><![CDATA[【the-decoder.com】Mistral AI 发布了 Leanstral 1.5，这是一个用于 Lean 4 形式化验证的开源模型。除了数学领域，该模型在扫描 57 个开源代码库时发现了五个此前未知的漏洞。本文《Mistral 开源模型 Leanstral 1.5 在形式化数学基准测试中表现出色，并捕获代码中的真实漏洞》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>NVIDIA AI 推出 ASPIRE：一种自我改进的机器人框架，在 LIBERO-Pro 长任务上实现 31% 零样本性能</title>
+<link>https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80831</guid>
+<pubDate>Sat, 04 Jul 2026 06:32:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA 的 ASPIRE 编写并优化机器人控制程序，然后将验证后的修复提炼为可复用的技能库。它在 LIBERO-Pro 上提升高达 77 分，并零样本迁移到未见过的长时域任务。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral AI 发布 Leanstral 1.5：一款基于 Apache-2.0 的 Lean 4 代码代理模型，解决 672 道 PutnamBench 问题中的 587 道</title>
+<link>https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80827</guid>
+<pubDate>Fri, 03 Jul 2026 22:20:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Mistral AI 发布了 Leanstral 1.5，这是一款基于 Apache-2.0 许可的免费 Lean 4 代码代理模型。该模型在 miniF2F 基准测试中达到饱和，并解决了 672 道 PutnamBench 问题中的 587 道。其 119B 参数的混合专家架构每个 token 仅激活 6.5B 参数。本文详细解析了其架构、基准测试结果、真实 bug 发现案例研究以及部署代码。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用lift-pdf设计基于模式引导的发票智能流水线，实现应付账款提取、验证与账目生成</title>
+<link>https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80824</guid>
+<pubDate>Fri, 03 Jul 2026 21:25:33 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用lift-pdf构建了一个端到端的应付账款提取流水线，以合成发票PDF作为受控测试文档，并以结构化JSON模式作为目标输出格式。我们并未将发票解析视为简单的OCR任务，而是将其定位为模式引导的文档理解：生成逼真的发票，定义诸如……等字段。本文《使用lift-pdf设计基于模式引导的发票智能流水线，实现应付账款提取、验证与账目生成》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>今年你唯一需要的人工智能词汇表</title>
 <link>https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
 <pubDate>Fri, 03 Jul 2026 21:20:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】人工智能的兴起带来了大量新术语和俚语。以下是一份词汇表，其中包含你可能遇到的一些最重要词汇和短语的定义。<br/><br/><a href="https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>微软紧随Anthropic和OpenAI，以改造后的Copilot和AutoPilot智能体加入AI超级应用竞赛</title>
-<link>https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37332</guid>
-<pubDate>Fri, 03 Jul 2026 19:24:40 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据报道，微软计划于8月将其消费者和企业版Copilot应用合并为一个统一应用。像Copilot Podcasts这样使用率较低的功能将被砍掉，而名为“AutoPilot”的新AI智能体将在后台处理任务，需额外付费。本文《微软紧随Anthropic和OpenAI，以改造后的Copilot和AutoPilot智能体加入AI超级应用竞赛》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>浏览器之争不再围绕搜索展开——以下是 Chrome 和 Safari 的最佳替代品</title>
@@ -128,20 +200,28 @@
 <description><![CDATA[【techcrunch.com】我们整理了一份当前旨在挑战 Chrome 和 Safari 的顶级替代浏览器概览。<br/><br/><a href="https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Claude Code复杂的中国问题涉及太平洋两岸的禁令</title>
-<link>https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37329</guid>
-<pubDate>Fri, 03 Jul 2026 17:11:33 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic正试图阻止字节跳动和蚂蚁金服等中国公司访问Claude Code，但它们通过VPN和海外子公司绕过了这些限制。与此同时，阿里巴巴在发现隐藏代码可能识别中国用户后，已禁止其员工使用该工具。文章《Claude Code复杂的中国问题涉及太平洋两岸的禁令》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google DeepMind 与 A24 宣布首次研究合作</title>
 <link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</guid>
 <pubDate>Fri, 03 Jul 2026 14:25:43 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>认识 WebBrain：一款开源、本地优先的 AI 浏览器代理，可在 Chrome 和 Firefox 中读取页面并自动执行任务</title>
+<link>https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80818</guid>
+<pubDate>Fri, 03 Jul 2026 05:55:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】WebBrain 是一款免费、采用 MIT 许可的 AI 浏览器代理，适用于 Chrome 和 Firefox。它通过“询问”和“行动”模式读取页面、提取数据并自动执行多步骤任务。可在本地模型（如 llama.cpp 或 Ollama）上运行以保护隐私，或连接任何云端 API。本文《Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Interfaze 发布 diffusion-gemma-asr-small，一款通过 DiffusionGemma 并行去噪解码器转录六种语言的开源扩散 ASR 模型</title>
+<link>https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80815</guid>
+<pubDate>Fri, 03 Jul 2026 03:24:23 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Interfaze 开源了 diffusion-gemma-asr-small，这是一款多语言 ASR 模型，通过扩散而非自回归方式进行转录。它使用约 4200 万参数的适配器，将音频接入谷歌的冻结 DiffusionGemma。单个适配器覆盖六种语言，转录成本由去噪步数而非转录长度决定。本文《Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>马克·扎克伯格告诉员工，AI智能体的进展未达预期</title>
@@ -406,86 +486,6 @@
 <pubDate>Wed, 01 Jul 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】搜索是我们几乎在网络上找到一切的方式——创作者、商家、答案。AI正在改写规则，让创作者陷入两难：既要在智能体时代保持可发现性，又要为自身工作获得报酬。今天，我们推出两项举措来提供帮助。<br/><br/><a href="https://blog.cloudflare.com/making-ai-search-smarter/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>你的网站，你做主：面向所有客户的全新AI流量管理选项</title>
-<link>https://blog.cloudflare.com/content-independence-day-ai-options/</link>
-<guid isPermaLink="false">FWKHybUFEZFSsFCrbEwAd</guid>
-<pubDate>Wed, 01 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】在第二个“内容独立日”之际，我们为网站所有者提供了更精细的AI流量管理选项。不再采用一刀切的屏蔽方式，所有客户现在可以轻松区分并管理搜索机器人、代理机器人和训练机器人，同时新增了保护广告变现页面的能力。<br/><br/><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年BAIR研究生成果展</title>
-<link>http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</link>
-<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</guid>
-<pubDate>Wed, 01 Jul 2026 02:00:00 -0700</pubDate>
-<source>bair.berkeley.edu</source>
-<description><![CDATA[【bair.berkeley.edu】祝贺伯克利人工智能研究（BAIR）实验室2026届毕业生！今年，BAIR再次庆祝一批杰出的博士毕业生，他们的好奇心、创造力和毅力推动了人工智能和机器学习的前沿。他们的研究涵盖现代AI的广泛领域——机器人与具身智能、大语言模型与推理、计算机视觉、生成式建模、AI安全、人机交互、AI在科学与医疗中的应用等。在此过程中，他们发表了具有影响力的研究，构建了具有实际价值的系统。<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/01/grads-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过归因业务洞察揭示爬虫行为</title>
-<link>https://blog.cloudflare.com/attribution-business-insights/</link>
-<guid isPermaLink="false">3wrqj94tEFsKCZ8OBUE52R</guid>
-<pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare 新推出的归因业务洞察仪表板帮助网站所有者了解爬虫行为、需求及潜在价值，推动围绕爬虫补偿的业务层面讨论。<br/><br/><a href="https://blog.cloudflare.com/attribution-business-insights/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face 与 Cerebras 将 Gemma 4 引入实时语音 AI</title>
-<link>https://huggingface.co/blog/cerebras-gemma4-voice-ai</link>
-<guid isPermaLink="false">https://huggingface.co/blog/cerebras-gemma4-voice-ai</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/cerebras-gemma4-voice-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>新攻击再次证明AI浏览器并非好主意</title>
-<link>https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</guid>
-<pubDate>Tue, 30 Jun 2026 20:03:14 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】只需告诉大语言模型2加2等于5，就足以让它执行被禁止的指令。<br/><br/><a href="https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌推出最新最快、最经济的Nano Banana 2 Lite图像模型</title>
-<link>https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/</guid>
-<pubDate>Tue, 30 Jun 2026 18:36:10 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】虽然生成图像的质量可能不如以往，但Nano Banana 2 Lite仅需几秒钟即可完成图像创作。<br/><br/><a href="https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ScarfBench：面向企业Java框架迁移的AI智能体基准测试</title>
-<link>https://huggingface.co/blog/ibm-research/scarfbench</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/scarfbench</guid>
-<pubDate>Tue, 30 Jun 2026 18:32:50 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/scarfbench">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub 如何维护开源依赖项的合规性</title>
-<link>https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/</link>
-<guid isPermaLink="false">https://github.blog/?p=97187</guid>
-<pubDate>Tue, 30 Jun 2026 17:28:16 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】探索开源项目办公室如何利用 GitHub 新的许可证合规产品大规模管理开源依赖项。本文《GitHub 如何维护开源依赖项的合规性》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>特朗普计划重新设计所有.gov网站，结果却催生了AI设计的恐怖景象</title>
-<link>https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</guid>
-<pubDate>Tue, 30 Jun 2026 16:59:02 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】一年过去了，国家设计工作室推迟了更新政府网站标准的计划。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>开始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 进行开发</title>
-<link>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</guid>
-<pubDate>Tue, 30 Jun 2026 16:02:40 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
