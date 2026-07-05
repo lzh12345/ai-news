@@ -2322,5 +2322,13 @@
 "https://www.marktechpost.com/?p=80855": {
 "t": "LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具",
 "s": "LlamaIndex的legal-kb是一个公共参考应用，为代理提供对Index v2上文档知识库的文件系统式访问。它公开了retrieve（混合语义搜索）、find、read和grep作为工具，并具备自动文件版本管理和可视化引用功能。技术栈包括TanStack Start、AI SDK 6（ToolLoopAgent）、Prisma和WorkOS。本文LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具最早出现在MarkTechPost上。"
+},
+"https://the-decoder.com/?p=37403": {
+"t": "Claude Code与Fable 5在“几小时内”将2003年PC游戏《命令与征服》移植到原生iOS平台",
+"s": "一位Google Deepmind开发者利用Anthropic的Claude Code，将2003年实时策略游戏《命令与征服：将军绝命时刻》移植到了iPhone和iPad上。首次构建耗时40分钟。完整源代码已发布在GitHub上。本文《Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37394": {
+"t": "百度“无限OCR”通过模拟人类遗忘机制一次性处理数十页文档",
+"s": "百度推出的“无限OCR”技术能够一次性读取数十页文档，而此前系统最多只能处理约十页。通过改进的注意力机制，无论模型处理多少页，内存使用量都保持稳定。该技术目前在最关键的OCR基准测试中位居榜首。本文《百度“无限OCR”通过模拟人类遗忘机制一次性处理数十页文档》最初发表于The Decoder。"
 }
 }
