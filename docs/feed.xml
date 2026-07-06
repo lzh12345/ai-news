@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 06 Jul 2026 15:15:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 18:05:41 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>LeRobot v0.6.0：想象、评估、改进</title>
@@ -16,12 +16,44 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/lerobot-release-v060">阅读原文</a>]]></description>
 </item>
 <item>
+<title>GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首</title>
+<link>https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37424</guid>
+<pubDate>Mon, 06 Jul 2026 17:14:11 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI 的 GPT-4 在 Epoch 能力指数上领先约一年，远超此后任何模型。自 2024 年 2 月 Claude 3 Opus 登顶以来，榜首已易手 17 次，平均停留时间仅七周。如今竞争更为激烈，但模型间的能力提升幅度正在缩小。本文《GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如果你使用谷歌，你就在训练它的人工智能。以下是退出方法。</title>
+<link>https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3139169</guid>
+<pubDate>Mon, 06 Jul 2026 17:04:58 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】公共安全提示：谷歌隐私设置的一项变更使其能够利用更多你的数据来训练人工智能。以下是退出方法。<br/><br/><a href="https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic的反监控立场下，秘密Claude追踪器令用户震惊</title>
+<link>https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/</guid>
+<pubDate>Mon, 06 Jul 2026 16:44:18 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Anthropic被指控监视用户；工程师称“实验”已结束。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>微软在Xbox和商业销售部门裁员近5000人</title>
 <link>https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3139164</guid>
-<pubDate>Mon, 06 Jul 2026 15:08:46 +0000</pubDate>
+<pubDate>Mon, 06 Jul 2026 15:32:43 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】微软周一裁减了约4800个岗位，占其全球员工总数的2.1%——这是最新一轮裁员，加剧了人们对AI取代工作的担忧。此次裁员对Xbox和商业销售部门影响最大。<br/><br/><a href="https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>PRX 第四部分：我们的数据战略</title>
+<link>https://huggingface.co/blog/Photoroom/prx-part4-data</link>
+<guid isPermaLink="false">https://huggingface.co/blog/Photoroom/prx-part4-data</guid>
+<pubDate>Mon, 06 Jul 2026 15:30:55 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Photoroom/prx-part4-data">阅读原文</a>]]></description>
 </item>
 <item>
 <title>英国监管机构警告称，在金融服务领域跟上人工智能应用将引发“军备竞赛”</title>
@@ -190,14 +222,6 @@
 <pubDate>Sun, 05 Jul 2026 09:02:36 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】字节跳动的AI视频工具Seedance正在好莱坞引发分歧。一段由AI生成的布拉德·皮特和汤姆·克鲁斯的病毒式剪辑视频，促使美国电影协会首次向一家AI公司发出停止侵权函。但《辛普森一家》动画制作人乔尔·库瓦哈拉表示，在幕后，制片厂正以“不问不说”的方式悄悄使用该工具。本文《好莱坞希望封禁Seedance，但据报道也打算继续使用它》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI搜索代理的失败不在于搜索本身，而在于查询模糊时未能提出正确问题</title>
-<link>https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37371</guid>
-<pubDate>Sun, 05 Jul 2026 07:52:17 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】AI搜索代理在多步骤研究中的失败很少源于搜索本身。它们的真正问题在于，当查询存在歧义时，不会主动向用户请求澄清。一项名为DiscoBench的新基准测试显示，那些反复搜索而不提出后续问题的模型，其表现（准确率51.9%）实际上比直接猜测的模型更差。即使是最优秀的模型，整体准确率也仅为43%。当从查询中消除歧义后，准确率最高可提升40个百分点。<br/><br/><a href="https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具</title>
@@ -462,30 +486,6 @@
 <pubDate>Wed, 01 Jul 2026 18:54:18 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】据报道，SpaceX在上市前向投资者展示了一款“类似手机”的AI设备。这可能是SpaceX希望拓展无线领域的又一信号。<br/><br/><a href="https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>阿什顿·库彻离开Sound Ventures，与摩根·贝勒共同创立新风投公司</title>
-<link>https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138300</guid>
-<pubDate>Wed, 01 Jul 2026 18:47:22 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Sound凭借对领先AI实验室的集中、高确信度押注而声名鹊起，而库彻的新基金似乎正瞄准这些公司之下的底层领域——支撑其运转的基础设施与能源。<br/><br/><a href="https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare 新政策推动AI公司为出版商内容付费</title>
-<link>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138183</guid>
-<pubDate>Wed, 01 Jul 2026 17:48:37 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Cloudflare 要求AI公司在9月15日前将用于搜索的网络爬虫与用于AI训练及代理的网络爬虫分离，否则许多出版商网站将默认屏蔽这些爬虫。<br/><br/><a href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在促使特朗普进行安全测试后，Anthropic的AI模型获准全球发布</title>
-<link>https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</guid>
-<pubDate>Wed, 01 Jul 2026 16:44:18 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】美国解除对Anthropic先进Fable和Mythos模型的限制。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

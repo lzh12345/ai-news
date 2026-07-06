@@ -2402,5 +2402,21 @@
 "path-constrained-mixture-experts": {
 "t": "路径约束的混合专家模型",
 "s": "稀疏混合专家（MoE）架构在每个层中独立地将每个令牌路由到部分专家。我们提出从专家路径的视角审视MoE计算——即令牌在所有层中依次选择的专家序列。这一视角揭示，尽管N个专家在L层中存在N^L条可能路径，但实际中令牌会聚类到与语言功能对齐的少数路径上，而绝大多数路径未被探索，这体现了统计效率的不足。由此催生了约束有效路径空间的架构设计……"
+},
+"https://the-decoder.com/?p=37424": {
+"t": "GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首",
+"s": "OpenAI 的 GPT-4 在 Epoch 能力指数上领先约一年，远超此后任何模型。自 2024 年 2 月 Claude 3 Opus 登顶以来，榜首已易手 17 次，平均停留时间仅七周。如今竞争更为激烈，但模型间的能力提升幅度正在缩小。本文《GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3139169": {
+"t": "如果你使用谷歌，你就在训练它的人工智能。以下是退出方法。",
+"s": "公共安全提示：谷歌隐私设置的一项变更使其能够利用更多你的数据来训练人工智能。以下是退出方法。"
+},
+"https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/": {
+"t": "Anthropic的反监控立场下，秘密Claude追踪器令用户震惊",
+"s": "Anthropic被指控监视用户；工程师称“实验”已结束。"
+},
+"https://huggingface.co/blog/Photoroom/prx-part4-data": {
+"t": "PRX 第四部分：我们的数据战略",
+"s": ""
 }
 }
