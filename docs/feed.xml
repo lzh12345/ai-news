@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 06 Jul 2026 18:05:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 21:22:51 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>LeRobot v0.6.0：想象、评估、改进</title>
@@ -14,6 +14,54 @@
 <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/lerobot-release-v060">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Vercel CEO Guillermo Rauch 谈模型与智能体分离之争</title>
+<link>https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3139318</guid>
+<pubDate>Mon, 06 Jul 2026 19:49:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】"现实是，当你为生产环境优化时，你会开始关注性价比，"Guillermo Rauch 对 TechCrunch 表示。<br/><br/><a href="https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>现在你可以在最新的iOS 27测试版中自定义Siri的语速和表现力</title>
+<link>https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3139329</guid>
+<pubDate>Mon, 06 Jul 2026 19:01:59 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】此次更新是苹果公司更广泛努力的一部分，旨在让Siri感觉更自然、更个性化，同时围绕生成式AI重建该助手。<br/><br/><a href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare 以精细控制取代全面AI机器人拦截，针对搜索、训练和代理爬虫</title>
+<link>https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37439</guid>
+<pubDate>Mon, 06 Jul 2026 18:54:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Cloudflare 正在为所有客户提供精细化的AI机器人控制功能。网站所有者现在可以分别管理搜索、训练和代理机器人，而无需一次性全部拦截。自2026年9月15日起，在广告支持的页面上，训练和代理机器人将被默认拦截。本文《Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>2026年科技行业大规模裁员名单：雇主以AI为由</title>
+<link>https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132769</guid>
+<pubDate>Mon, 06 Jul 2026 18:35:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】按时间倒序排列，汇总今年因明确提及AI因素而宣布大规模裁员的知名科技公司。<br/><br/><a href="https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>智谱AI推出ZCode，以极低成本挑战Claude Code和OpenAI Codex</title>
+<link>https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37434</guid>
+<pubDate>Mon, 06 Jul 2026 18:28:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】智谱AI将GLM-5.2引入其ZCode开发环境，主打该模型在复杂编码任务中的长上下文能力。新用户可免费试用五天，每日最多使用500万token，订阅用户至2026年7月可获约1.5倍的token配额。本文《智谱AI推出ZCode，以极低成本挑战Claude Code和OpenAI Codex》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>腾讯发布Hy3开源模型，声称性能可匹敌其活跃参数规模五倍的模型</title>
+<link>https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37429</guid>
+<pubDate>Mon, 06 Jul 2026 18:03:15 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】腾讯发布了Hy3，这是一个基于混合专家架构、拥有2950亿参数的开源语言模型。在任何给定时刻，仅有210亿参数处于活跃状态。腾讯表示，Hy3的性能可匹敌其规模两到五倍的模型，同时将其幻觉率降低一半至5.4%。本文《腾讯发布Hy3开源模型，声称性能可匹敌其活跃参数规模五倍的模型》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首</title>
@@ -54,6 +102,14 @@
 <pubDate>Mon, 06 Jul 2026 15:30:55 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Photoroom/prx-part4-data">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Reddit正在利用大语言模型解决大语言模型制造的问题</title>
+<link>https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3139160</guid>
+<pubDate>Mon, 06 Jul 2026 15:22:08 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在人工智能时代，平台别无选择，只能以火攻火来清除垃圾信息。<br/><br/><a href="https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>英国监管机构警告称，在金融服务领域跟上人工智能应用将引发“军备竞赛”</title>
@@ -144,14 +200,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/revamped-kernels">阅读原文</a>]]></description>
 </item>
 <item>
-<title>连续扩散口语语言模型的缩放特性</title>
-<link>https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion</link>
-<guid isPermaLink="false">scaling-properties-continuous-diffusion</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】仅基于语音的口语语言模型（SLMs）在性能上落后于文本模型及文本-语音混合模型，近期离散自回归（AR）SLMs的研究表明，要匹配文本模型需要巨大的计算资源和数据量。由于将连续语音离散化为自回归模型会形成瓶颈，我们探究了连续扩散（CD）SLM是否更具可行性。为量化SLMs的语言质量，我们引入了音素詹森-香农散度（pJSD）指标。分析表明，CD SLM与AR模型类似，在验证损失和pJSD上呈现缩放定律，并显示出最优的令牌与参数配比……<br/><br/><a href="https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion">阅读原文</a>]]></description>
-</item>
-<item>
 <title>重新审视基于专用模型的ASR纠错方法</title>
 <link>https://machinelearning.apple.com/research/asr-error-correction</link>
 <guid isPermaLink="false">asr-error-correction</guid>
@@ -166,6 +214,46 @@
 <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】稀疏混合专家（MoE）架构在每个层中独立地将每个令牌路由到部分专家。我们提出从专家路径的视角审视MoE计算——即令牌在所有层中依次选择的专家序列。这一视角揭示，尽管N个专家在L层中存在N^L条可能路径，但实际中令牌会聚类到与语言功能对齐的少数路径上，而绝大多数路径未被探索，这体现了统计效率的不足。由此催生了约束有效路径空间的架构设计……<br/><br/><a href="https://machinelearning.apple.com/research/path-constrained-mixture-experts">阅读原文</a>]]></description>
+</item>
+<item>
+<title>TopoPrimer：预测模型中缺失的拓扑上下文</title>
+<link>https://machinelearning.apple.com/research/topoprimer-topological-context</link>
+<guid isPermaLink="false">topoprimer-topological-context</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】我们推出了TopoPrimer框架，该框架将序列群体的全局拓扑结构作为显式输入引入任何预测模型。TopoPrimer能提升跨多个领域的预测准确性，稳定季节性需求高峰下的预测表现，并缩小冷启动差距。通过持久同调与谱层坐标在每个领域预先计算一次后，TopoPrimer以每个令牌为单位部署于完全训练模型，或作为轻量级适配器用于预训练骨干网络。在这两个组件中，层坐标是准确性的主要驱动因素。在Chronos及四个公开基准测试中……<br/><br/><a href="https://machinelearning.apple.com/research/topoprimer-topological-context">阅读原文</a>]]></description>
+</item>
+<item>
+<title>连续扩散口语语言模型的缩放特性</title>
+<link>https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion</link>
+<guid isPermaLink="false">scaling-properties-continuous-diffusion</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】仅基于语音的口语语言模型（SLMs）在性能上落后于文本模型及文本-语音混合模型，近期离散自回归（AR）SLMs的研究表明，要匹配文本模型需要巨大的计算资源和数据量。由于将连续语音离散化为自回归模型会形成瓶颈，我们探究了连续扩散（CD）SLM是否更具可行性。为量化SLMs的语言质量，我们引入了音素詹森-香农散度（pJSD）指标。分析表明，CD SLM与AR模型类似，在验证损失和pJSD上呈现缩放定律，并显示出最优的令牌与参数配比……<br/><br/><a href="https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion">阅读原文</a>]]></description>
+</item>
+<item>
+<title>通过可解释性理解标注者安全政策</title>
+<link>https://machinelearning.apple.com/research/annotator-safety-policy-interpretability</link>
+<guid isPermaLink="false">annotator-safety-policy-interpretability</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】安全政策界定了AI输出的安全与不安全范畴，为数据标注和模型开发提供指导。然而，标注分歧普遍存在，可能源于多种因素：操作失误（标注者误解或错误执行任务）、政策模糊性（政策措辞存在解读空间）或价值多元性（不同标注者对安全持有不同观点）。区分这些根源至关重要——操作失误需要质量控制，模糊性需要政策澄清，而多元性则需要审慎讨论……<br/><br/><a href="https://machinelearning.apple.com/research/annotator-safety-policy-interpretability">阅读原文</a>]]></description>
+</item>
+<item>
+<title>基于长格式声学编码的分段注意力解码</title>
+<link>https://machinelearning.apple.com/research/segmental-attention-decoding</link>
+<guid isPermaLink="false">segmental-attention-decoding</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】我们解决了基于注意力的编码器-解码器（AED）模型与长格式声学编码之间的根本不兼容问题。在分段话语上训练的AED模型通过利用分段边界之外的有限声学上下文来学习编码绝对帧位置，但在解码这些线索消失的长格式分段时无法泛化。由于交叉注意力中键和值的排列不变性，模型失去了对声学编码进行排序的能力。我们提出了四项改进：（1）为每个解码步骤向交叉注意力注入显式的绝对位置编码……<br/><br/><a href="https://machinelearning.apple.com/research/segmental-attention-decoding">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Fortress：通过时序数据增强与特征剪枝稳定搜索推荐系统的案例研究</title>
+<link>https://machinelearning.apple.com/research/fortress-stabilizing-search-recommendations</link>
+<guid isPermaLink="false">fortress-stabilizing-search-recommendations</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】在搜索与推荐系统中，当某些输入特征导致输出分数出现波动时，预测模型常面临时序不稳定性问题。这种不稳定性会降低模型可靠性及用户体验，尤其在多阶段系统中——稳定的预测结果对下游决策至关重要。我们提出Fortress通用框架，通过识别并剪枝导致预测分数随时间不一致的特征，提升模型稳定性与准确性。该框架利用历史快照构建时序分区数据集……<br/><br/><a href="https://machinelearning.apple.com/research/fortress-stabilizing-search-recommendations">阅读原文</a>]]></description>
 </item>
 <item>
 <title>美团发布LongCat-2.0：1.6万亿参数开源MoE模型，原生支持100万上下文与LongCat稀疏注意力机制</title>
@@ -198,30 +286,6 @@
 <pubDate>Sun, 05 Jul 2026 15:25:07 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】百度推出的“无限OCR”技术能够一次性读取数十页文档，而此前系统最多只能处理约十页。通过改进的注意力机制，无论模型处理多少页，内存使用量都保持稳定。该技术目前在最关键的OCR基准测试中位居榜首。本文《百度“无限OCR”通过模拟人类遗忘机制一次性处理数十页文档》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI私立学校向富裕美国家庭推销个性化学习，取代传统教育</title>
-<link>https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37390</guid>
-<pubDate>Sun, 05 Jul 2026 10:45:46 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】富裕的美国家庭越来越多地将孩子送入像Alpha School这样的AI学校，该校将两小时的AI辅导与项目式工作坊相结合，学费高达每年7.5万美元。这一趋势凸显了AI时代日益扩大的教育差距，传统学校在采用该技术方面举步维艰，若缺乏正确技能使用，可能弊大于利。文章《AI私立学校向富裕美国家庭推销个性化学习，取代传统教育》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Mistral CEO Mensch 称专有AI模型让实验室能近距离观察你的业务流程</title>
-<link>https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37386</guid>
-<pubDate>Sun, 05 Jul 2026 10:22:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Mistral创始人Arthur Mensch警告企业不要依赖封闭的AI模型。他声称AI实验室正在存储越来越多的客户数据，并在某些情况下利用这些数据将客户视为竞争对手。这一担忧有其合理性，但Mistral在性能上无法真正与OpenAI或Anthropic的前沿模型竞争，因此正大力押注欧盟主权作为其战略优势。本文《Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>好莱坞希望封禁Seedance，但据报道也打算继续使用它</title>
-<link>https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37382</guid>
-<pubDate>Sun, 05 Jul 2026 09:02:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】字节跳动的AI视频工具Seedance正在好莱坞引发分歧。一段由AI生成的布拉德·皮特和汤姆·克鲁斯的病毒式剪辑视频，促使美国电影协会首次向一家AI公司发出停止侵权函。但《辛普森一家》动画制作人乔尔·库瓦哈拉表示，在幕后，制片厂正以“不问不说”的方式悄悄使用该工具。本文《好莱坞希望封禁Seedance，但据报道也打算继续使用它》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具</title>
@@ -400,28 +464,12 @@
 <description><![CDATA[【techcrunch.com】微软效仿亚马逊、OpenAI和Anthropic，成立新的AI部署团队。<br/><br/><a href="https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>没错，我们现在用OpenClaw来约会了</title>
-<link>https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3137764</guid>
-<pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Ben Guez 的“私信里有一堆潜在的国际妻子候选人”，这要归功于他利用 OpenClaw、Claude 代码和 Instagram 试用版设置的一个自动化脚本。<br/><br/><a href="https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>谷歌AI建设推动2025年用电量增长37%</title>
 <link>https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/</guid>
 <pubDate>Thu, 02 Jul 2026 11:15:49 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】谷歌试图在AI数据中心排放与清洁能源努力之间取得平衡。<br/><br/><a href="https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>印度科技大亨自掏3000万美元打造微软Office的AI替代品</title>
-<link>https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138430</guid>
-<pubDate>Thu, 02 Jul 2026 05:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Neo是Bhavin Turakhia的第五个创业项目，也是他最新涉足企业软件领域的尝试。这次，他将用AI挑战微软Office和谷歌应用。<br/><br/><a href="https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>多智能体团队反而制约专家发挥</title>
@@ -438,54 +486,6 @@
 <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】视觉分词器将高维原始像素映射为压缩表示，以供下游建模使用。除了压缩功能外，分词器还决定了哪些信息被保留以及如何组织这些信息。视频分词化的一种事实标准方法是将视频表示为时空三维网格中的标记，每个标记捕捉原始信号中对应的局部信息。这要求消耗这些标记的下游模型（例如文本到视频模型）无论视频的固有复杂度如何，都必须学习“逐像素”预测所有低级细节，从而导致……<br/><br/><a href="https://machinelearning.apple.com/research/videoflextok">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用学习支持函数分摊最大内积搜索</title>
-<link>https://machinelearning.apple.com/research/amortizing-inner-product-search</link>
-<guid isPermaLink="false">amortizing-inner-product-search</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】最大内积搜索（MIPS）是机器学习中的关键子程序，需要从数据库（键）中找出与给定查询最匹配的向量。我们提出分摊式MIPS：一种基于回归的方法，通过训练神经网络直接预测MIPS解，从而分摊在固定键数据库上对已知分布查询反复求解MIPS的成本。我们的核心见解是，MIPS值函数是键集合的支持函数——一种经过充分研究的凸函数，其梯度可得出最优键。这一...<br/><br/><a href="https://machinelearning.apple.com/research/amortizing-inner-product-search">阅读原文</a>]]></description>
-</item>
-<item>
-<title>关于强化学习微调视觉语言模型的鲁棒性与思维链一致性</title>
-<link>https://machinelearning.apple.com/research/robustness-chain-thought-consistency</link>
-<guid isPermaLink="false">robustness-chain-thought-consistency</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】强化学习微调已成为提升大语言模型在推理密集型任务上表现的关键技术，并推动其向视觉语言模型扩展。尽管经强化学习微调的视觉语言模型在视觉推理基准测试中有所改进，但仍存在视觉基础薄弱、幻觉现象以及对文本线索过度依赖等问题。我们证明，简单的受控文本扰动——如误导性标题或错误的思维链轨迹——会显著降低模型的鲁棒性和置信度，且当思维链一致性受到影响时，这些效应更为明显……<br/><br/><a href="https://machinelearning.apple.com/research/robustness-chain-thought-consistency">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MemoryLLM：面向Transformer的可插拔可解释前馈记忆模块</title>
-<link>https://machinelearning.apple.com/research/memoryllm</link>
-<guid isPermaLink="false">memoryllm</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】理解Transformer组件在大语言模型中的运作机制至关重要，因为这正是近期人工智能技术突破的核心。本研究重新审视了前馈模块（FFN）可解释性面临的挑战，提出MemoryLLM框架，旨在将FFN与自注意力机制解耦，使我们能够将解耦后的FFN作为无上下文依赖的逐词神经检索记忆进行研究。具体而言，我们探究了输入标记如何访问FFN参数中的记忆位置，以及FFN记忆在不同下游任务中的重要性。MemoryLLM实现了……<br/><br/><a href="https://machinelearning.apple.com/research/memoryllm">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过可处理轨迹控制学习结构化推理</title>
-<link>https://machinelearning.apple.com/research/learning-structured-reasoning</link>
-<guid isPermaLink="false">learning-structured-reasoning</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】大型语言模型能够展现出涌现的推理行为，这些行为通常表现为重复出现的词汇模式（例如，“wait”表示验证）。然而，在无约束采样中，复杂的推理轨迹仍然稀疏，而标准强化学习往往无法保证获得多样化的推理行为。我们提出了一种通过结构化推理系统性地发现并强化多样化推理模式的方法，这一范式要求在强化学习过程中有针对性地探索特定推理模式。为此，我们提出了Ctrl-R框架，用于学习……<br/><br/><a href="https://machinelearning.apple.com/research/learning-structured-reasoning">阅读原文</a>]]></description>
-</item>
-<item>
-<title>扩散语言模型的去掩码策略学习</title>
-<link>https://machinelearning.apple.com/research/unmasking</link>
-<guid isPermaLink="false">unmasking</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】扩散（大型）语言模型（dLLMs）如今在多项任务上已能与自回归模型的下游性能匹敌，同时有望在推理过程中实现更高效率。dLLMs的关键设计之一是采样过程，该过程决定每个扩散步骤中哪些词元应被去掩码。事实上，近期研究发现，与随机去掩码相比，置信度阈值等启发式策略能同时提升样本质量和词元吞吐量。然而，这类启发式方法存在缺陷：需要手动调参，且我们观察到其性能……<br/><br/><a href="https://machinelearning.apple.com/research/unmasking">阅读原文</a>]]></description>
-</item>
-<item>
-<title>SpaceX 拥有AI设备原型，听起来很像手机</title>
-<link>https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138299</guid>
-<pubDate>Wed, 01 Jul 2026 18:54:18 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】据报道，SpaceX在上市前向投资者展示了一款“类似手机”的AI设备。这可能是SpaceX希望拓展无线领域的又一信号。<br/><br/><a href="https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
