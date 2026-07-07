@@ -2570,5 +2570,41 @@
 "single-neuron-safety-alignment": {
 "t": "单个神经元足以绕过大型语言模型的安全对齐机制",
 "s": "语言模型的安全对齐通过两种机制上截然不同的系统运作：拒绝神经元（控制有害知识是否被表达）和概念神经元（编码有害知识本身）。通过针对每个系统中的单个神经元，我们展示了两种失效方向——通过抑制绕过显式有害请求的安全机制，以及通过放大从无害提示中诱导出有害内容——涵盖两个模型家族、参数规模从1.7B到70B的七个模型，且无需任何训练或提示工程。我们的发现表明，安全对齐……"
+},
+"https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
+"t": "从 Hugging Face 到 Amazon SageMaker Studio 一键部署",
+"s": ""
+},
+"https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/": {
+"t": "美国制造商能源成本因AI数据中心需求飙升",
+"s": "铁锈地带电费压力加剧，威胁特朗普的制造业计划。"
+},
+"https://techcrunch.com/?p=3139798": {
+"t": "为何开源AI的崛起尚未冲击Anthropic……目前如此",
+"s": "开源模型的成功并未以牺牲前沿实验室为代价。相反，它们似乎各自抓住了同一生命周期中的两个阶段。"
+},
+"https://techcrunch.com/?p=3139819": {
+"t": "微软加入AI降本趋势，更多依赖自有模型",
+"s": "微软成为最新一家削减AI支出的硅谷巨头。"
+},
+"https://techcrunch.com/?p=3139842": {
+"t": "Discord承认AI审核漏洞误将无害图片用户封禁",
+"s": "该公司确认，自五月起该问题已影响用户账户，另有200名用户在上周末被封禁，直至其团队发现并修复了该问题。"
+},
+"https://the-decoder.com/?p=37482": {
+"t": "Copilot走向廉价：微软逐步淘汰OpenAI和Anthropic模型以削减成本",
+"s": "微软正在用自家MAI模型替换Excel和Outlook等产品中来自OpenAI和Anthropic的AI模型。每周已有数万次查询通过这些模型运行。AI主管穆斯塔法·苏莱曼希望“最终消除”外部模型的成本。对于Copilot用户而言，这可能意味着以相同价格获得更低的性能。本文《Copilot走向廉价：微软逐步淘汰OpenAI和Anthropic模型以削减成本》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37477": {
+"t": "Cohere Transcribe Arabic：专为阿拉伯语最棘手转录问题打造的开源模型",
+"s": "Cohere 发布了 Transcribe Arabic，这是一款用于阿拉伯语语音识别的开源模型。该公司称，该模型在方言、语码转换以及阿拉伯语-英语双语语音处理方面优于 Whisper 和 OmniASR。这款拥有20亿参数的模型已在 Hugging Face 上以 Apache 2.0 许可证提供。本文《Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems》最初发表于 The Decoder。"
+},
+"https://huggingface.co/blog/skypilot-hf-storage": {
+"t": "在任何云上运行AI工作负载，存储于Hugging Face：SkyPilot实现零出站流量存储",
+"s": ""
+},
+"https://openai.com/index/australian-payments-plus": {
+"t": "澳大利亚支付Plus借助ChatGPT和Codex加速发展",
+"s": "了解澳大利亚支付Plus如何利用ChatGPT Enterprise和Codex在复杂的支付领域加速前行。AP+节省时间、提升质量，并始终将人类判断置于核心地位。"
 }
 }
