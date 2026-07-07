@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 07 Jul 2026 02:14:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 07:31:26 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>腾讯发布Hy3：一款拥有210亿活跃参数和256K上下文窗口的开放295B混合专家（MoE）模型</title>
+<link>https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80880</guid>
+<pubDate>Tue, 07 Jul 2026 05:59:07 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】腾讯Hy团队发布了Hy3，这是一款295B混合专家（MoE）模型，每个token仅激活210亿参数。该模型采用Apache 2.0许可，支持256K上下文窗口，专注于推理、智能体及长上下文任务。Hy3在SWE-Bench Verified上取得78.0分，并具有更低的幻觉率，用户可在OpenRouter上免费试用至2026年7月21日。本文《腾讯发布Hy3：一款拥有210亿活跃参数和256K上下文窗口的开放295B混合专家（MoE）模型》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 发布 GPT-Realtime-2.1 和 GPT-Realtime-2.1-mini，用于 API 中的低延迟语音代理</title>
+<link>https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80877</guid>
+<pubDate>Tue, 07 Jul 2026 04:35:09 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI 在其 API 中新增了两款 Realtime 模型。GPT-Realtime-2.1-mini 是一款面向语音的迷你推理模型，定价与此前的 gpt-realtime-mini 相同。OpenAI 还通过改进缓存将 p95 延迟降低了至少 25%。本文介绍了具体变化、定价对比以及如何通过 WebRTC 进行连接。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>利用ChEMBL、RDKit、SHAP和BRICS构建基于骨架分割的随机森林QSAR联合科学家，用于EGFR抑制剂发现</title>
 <link>https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/</link>
@@ -358,22 +374,6 @@
 <pubDate>Sat, 04 Jul 2026 16:32:08 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】阿里巴巴据报已将Claude Code列为高风险软件。<br/><br/><a href="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic 发布 Claude Science 测试版：用于可复现基因组学、蛋白质组学和化学信息学管道的多智能体 AI 工作台</title>
-<link>https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80844</guid>
-<pubDate>Sat, 04 Jul 2026 16:21:21 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Anthropic 于 2026 年 6 月 30 日发布了 Claude Science 测试版。该应用基于现有的 Claude 模型运行。一个协调智能体将任务委派给领域专家，一个审查智能体标记并纠正引用和数字，每个图表都附带其精确代码、环境和完整消息历史。它管理跨本地机器、通过 SSH 的高性能计算以及 Modal 的计算资源，并连接 60 多个数据库以及 NVIDIA BioNeMo 技能。该文章《Anthropic 发布 Claude Science 测试版：用于可复现基因组学、蛋白质组学和化学信息学管道的多智能体 AI 工作台》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA HORIZON：一款免手动代理，可演进Git工作树并实现100% RTL基准测试完成率</title>
-<link>https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80838</guid>
-<pubDate>Sat, 04 Jul 2026 16:04:29 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】一款免手动的NVIDIA代理框架将每个RTL问题作为版本化仓库托管，在各项基准测试中达到100%的完成率。本文NVIDIA HORIZON：一款免手动代理，可演进Git工作树并实现100% RTL基准测试完成率最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>什么是Mistral AI？关于这家OpenAI竞争对手的一切须知</title>

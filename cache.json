@@ -2470,5 +2470,13 @@
 "https://techcrunch.com/?p=3139406": {
 "t": "美国投资者即将迎来另一家乘AI东风的内存制造商SK海力士",
 "s": "SK海力士正经历一场归功于人工智能的繁荣。它将借此推动一场价值数十亿美元的美国首次公开募股，预计将于周五进行。"
+},
+"https://www.marktechpost.com/?p=80880": {
+"t": "腾讯发布Hy3：一款拥有210亿活跃参数和256K上下文窗口的开放295B混合专家（MoE）模型",
+"s": "腾讯Hy团队发布了Hy3，这是一款295B混合专家（MoE）模型，每个token仅激活210亿参数。该模型采用Apache 2.0许可，支持256K上下文窗口，专注于推理、智能体及长上下文任务。Hy3在SWE-Bench Verified上取得78.0分，并具有更低的幻觉率，用户可在OpenRouter上免费试用至2026年7月21日。本文《腾讯发布Hy3：一款拥有210亿活跃参数和256K上下文窗口的开放295B混合专家（MoE）模型》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80877": {
+"t": "OpenAI 发布 GPT-Realtime-2.1 和 GPT-Realtime-2.1-mini，用于 API 中的低延迟语音代理",
+"s": "OpenAI 在其 API 中新增了两款 Realtime 模型。GPT-Realtime-2.1-mini 是一款面向语音的迷你推理模型，定价与此前的 gpt-realtime-mini 相同。OpenAI 还通过改进缓存将 p95 延迟降低了至少 25%。本文介绍了具体变化、定价对比以及如何通过 WebRTC 进行连接。该文章最初发表于 MarkTechPost。"
 }
 }
