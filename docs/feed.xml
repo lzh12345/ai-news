@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 06 Jul 2026 21:22:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 02:14:30 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>利用ChEMBL、RDKit、SHAP和BRICS构建基于骨架分割的随机森林QSAR联合科学家，用于EGFR抑制剂发现</title>
+<link>https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80874</guid>
+<pubDate>Tue, 07 Jul 2026 01:43:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们构建了一个自主的AI联合科学家，用于EGFR C797S抑制剂的发现。我们通过ChEMBL和UniProt解析靶点，然后将IC50记录挖掘成干净的pIC50数据集。我们使用RDKit标准化分子、计算摩根指纹，并训练一个基于骨架分割的随机森林QSAR模型。我们利用SHAP解释效力驱动因素，然后重组BRICS片段以生成和排序新候选分子。本文《Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>LeRobot v0.6.0：想象、评估、改进</title>
 <link>https://huggingface.co/blog/lerobot-release-v060</link>
@@ -14,6 +22,22 @@
 <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/lerobot-release-v060">阅读原文</a>]]></description>
+</item>
+<item>
+<title>首个AI驱动的勒索软件攻击仍需人类参与</title>
+<link>https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3139436</guid>
+<pubDate>Mon, 06 Jul 2026 23:56:14 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】一个AI代理首次在已知的真实世界勒索软件攻击中执行了技术操作，但新细节显示，人类仍然选择了受害者、搭建了基础设施并提供了被盗凭证——这意味着这并非上周头条新闻所暗示的完全自主的网络犯罪首秀。<br/><br/><a href="https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国投资者即将迎来另一家乘AI东风的内存制造商SK海力士</title>
+<link>https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3139406</guid>
+<pubDate>Mon, 06 Jul 2026 23:21:03 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】SK海力士正经历一场归功于人工智能的繁荣。它将借此推动一场价值数十亿美元的美国首次公开募股，预计将于周五进行。<br/><br/><a href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Vercel CEO Guillermo Rauch 谈模型与智能体分离之争</title>
@@ -360,14 +384,6 @@
 <description><![CDATA[【techcrunch.com】Mistral AI提供部分开源AI模型，自2023年成立以来已筹集大量资金，其目标是“让前沿AI触手可及”。<br/><br/><a href="https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NVIDIA AI 推出 ASPIRE：一种自我改进的机器人框架，在 LIBERO-Pro 长任务上实现 31% 零样本性能</title>
-<link>https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80831</guid>
-<pubDate>Sat, 04 Jul 2026 06:32:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA 的 ASPIRE 编写并优化机器人控制程序，然后将验证后的修复提炼为可复用的技能库。它在 LIBERO-Pro 上提升高达 77 分，并零样本迁移到未见过的长时域任务。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>今年你唯一需要的人工智能词汇表</title>
 <link>https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
@@ -432,14 +448,6 @@
 <description><![CDATA[【github.blog】GitHub在15,000个仓库中拥有超过20,000条秘密扫描警报。以下是我们在九个月内如何区分信号与噪声、构建修复工作流并实现收件箱归零的历程。本文最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI提议将其5%的股权捐赠给美国主权财富基金</title>
-<link>https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138583</guid>
-<pubDate>Thu, 02 Jul 2026 15:20:51 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】据报道，OpenAI首席执行官山姆·奥特曼提议将公司5%的股权捐赠给美国主权财富基金，这重新引发了关于让公众分享人工智能热潮带来的财务收益的讨论。<br/><br/><a href="https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>特朗普获OpenAI提供美国5%股份，远低于桑德斯的目标</title>
 <link>https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/</guid>
@@ -454,14 +462,6 @@
 <pubDate>Thu, 02 Jul 2026 14:39:17 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】FTC被敦促拒绝埃隆·马斯克终止X平台监控的请求，因涉及AI担忧。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>微软斥资25亿美元成立自家AI部署公司</title>
-<link>https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138546</guid>
-<pubDate>Thu, 02 Jul 2026 13:53:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】微软效仿亚马逊、OpenAI和Anthropic，成立新的AI部署团队。<br/><br/><a href="https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌AI建设推动2025年用电量增长37%</title>

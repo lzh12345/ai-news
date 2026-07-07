@@ -2458,5 +2458,17 @@
 "fortress-stabilizing-search-recommendations": {
 "t": "Fortress：通过时序数据增强与特征剪枝稳定搜索推荐系统的案例研究",
 "s": "在搜索与推荐系统中，当某些输入特征导致输出分数出现波动时，预测模型常面临时序不稳定性问题。这种不稳定性会降低模型可靠性及用户体验，尤其在多阶段系统中——稳定的预测结果对下游决策至关重要。我们提出Fortress通用框架，通过识别并剪枝导致预测分数随时间不一致的特征，提升模型稳定性与准确性。该框架利用历史快照构建时序分区数据集……"
+},
+"https://www.marktechpost.com/?p=80874": {
+"t": "利用ChEMBL、RDKit、SHAP和BRICS构建基于骨架分割的随机森林QSAR联合科学家，用于EGFR抑制剂发现",
+"s": "在本教程中，我们构建了一个自主的AI联合科学家，用于EGFR C797S抑制剂的发现。我们通过ChEMBL和UniProt解析靶点，然后将IC50记录挖掘成干净的pIC50数据集。我们使用RDKit标准化分子、计算摩根指纹，并训练一个基于骨架分割的随机森林QSAR模型。我们利用SHAP解释效力驱动因素，然后重组BRICS片段以生成和排序新候选分子。本文《Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3139436": {
+"t": "首个AI驱动的勒索软件攻击仍需人类参与",
+"s": "一个AI代理首次在已知的真实世界勒索软件攻击中执行了技术操作，但新细节显示，人类仍然选择了受害者、搭建了基础设施并提供了被盗凭证——这意味着这并非上周头条新闻所暗示的完全自主的网络犯罪首秀。"
+},
+"https://techcrunch.com/?p=3139406": {
+"t": "美国投资者即将迎来另一家乘AI东风的内存制造商SK海力士",
+"s": "SK海力士正经历一场归功于人工智能的繁荣。它将借此推动一场价值数十亿美元的美国首次公开募股，预计将于周五进行。"
 }
 }
