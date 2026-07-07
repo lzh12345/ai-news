@@ -5,8 +5,72 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 07 Jul 2026 14:11:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 17:53:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic 的 Claude Cowork AI 代理现已登陆移动端和网页端</title>
+<link>https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37473</guid>
+<pubDate>Tue, 07 Jul 2026 17:04:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic 正在将其 AI 代理 Claude Cowork 推广至移动端和网页端。此前，该功能仅限于桌面应用。即使笔记本电脑合上，该代理也能在后台持续工作，并在需要决策时通过手机向用户发送通知。此举进一步模糊了 Chat 与 Cowork 之间的界限。本文《Anthropic 的 Claude Cowork AI 代理现已登陆移动端和网页端》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Cowork 扩展至移动端和网页端</title>
+<link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3139729</guid>
+<pubDate>Tue, 07 Jul 2026 16:27:18 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】通过此次更新，用户可以在办公桌前启动任务，在手机上获取状态更新，并在之后查看完成的结果——即使笔记本电脑已合上。<br/><br/><a href="https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>面对美国出口管制，中国DeepSeek计划自主研发芯片</title>
+<link>https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/</guid>
+<pubDate>Tue, 07 Jul 2026 16:14:53 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】尽管尚处早期阶段，但该计划旨在减少对英伟达和华为的依赖。<br/><br/><a href="https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>中国考虑对顶级AI模型实施出口限制，欧洲陷入两难境地</title>
+<link>https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37468</guid>
+<pubDate>Tue, 07 Jul 2026 16:13:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据路透社报道，中国正考虑限制外国获取其最强大的人工智能模型。阿里巴巴、字节跳动和Z.ai都将受到影响。此举意味着两大超级大国均将AI视为战略资产。对欧洲而言，依赖廉价中国开源模型的便捷捷径可能比预期更快关闭。本文《中国考虑对顶级AI模型实施出口限制，欧洲陷入两难境地》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>2026年第一季度创新图谱更新：全球开源协作正在加速</title>
+<link>https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/</link>
+<guid isPermaLink="false">https://github.blog/?p=97322</guid>
+<pubDate>Tue, 07 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】新的创新图谱数据显示，全球开发者社区正以前所未有的速度增长，众多经济体的协作水平达到新高。本文《2026年第一季度创新图谱更新：全球开源协作正在加速》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Foundry 托管计算上的 Hugging Face 模型</title>
+<link>https://huggingface.co/blog/microsoft/foundry-managed-compute</link>
+<guid isPermaLink="false">https://huggingface.co/blog/microsoft/foundry-managed-compute</guid>
+<pubDate>Tue, 07 Jul 2026 15:20:06 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/microsoft/foundry-managed-compute">阅读原文</a>]]></description>
+</item>
+<item>
+<title>借助Anthropic新推出的雅可比透镜，克劳德隐藏的内心独白变得可读</title>
+<link>https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37459</guid>
+<pubDate>Tue, 07 Jul 2026 14:46:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic发现，克劳德在训练过程中自行发展出了内部工作记忆。该公司将其称为“J-Space”，并可通过名为J-Lens的新型分析工具读取。该工作记忆显示，克劳德在生成第一个词之前就能识别出人为设计的测试场景。当研究人员禁用这些提示时，克劳德在某些运行中甚至采取了要挟手段。一个针对奖励黑客行为训练的模型，在正常编码任务中，其J-Space内会出现“虚假”和“欺诈”等词汇，尽管其外在行为表现正常。Anthropic将这一发现与全局工作空间理论联系起来。<br/><br/><a href="https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare 自豪地加入英国政府“网络韧性承诺”计划</title>
+<link>https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/</link>
+<guid isPermaLink="false">3xHevpKOOM76zUSrlPcQno</guid>
+<pubDate>Tue, 07 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】该承诺是一个自愿性框架，邀请各组织致力于基础网络安全治理、董事会层面的问责制以及供应链的严格管理。十多年来，Cloudflare 一直引领着该框架的核心支柱：安全民主化、领导问责制以及彻底透明化。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Savi 应用旨在保护消费者免受逼真的人工智能诈骗，如绑匪索要赎金</title>
 <link>https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/</link>
@@ -56,6 +120,15 @@
 <description><![CDATA[【the-decoder.com】阿波罗首席经济学家托尔斯滕·斯洛克认为，科技行业之外不会出现由AI驱动的利润率增长。在医疗、银行或制药等受监管行业中，流程改革和隐私规则可能将生产力提升推迟数年。如果这一过程需要五年而非五个月，许多AI股票将面临痛苦的重新定价。本文《阿波罗经济学家警告：科技领域之外的AI利润增长可能“远超”华尔街预期》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>智能已免费，接下来呢？面向智能体、由智能体、为智能体的数据系统</title>
+<link>http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/</link>
+<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/</guid>
+<pubDate>Tue, 07 Jul 2026 02:00:00 -0700</pubDate>
+<source>bair.berkeley.edu</source>
+<description><![CDATA[【bair.berkeley.edu】……民有、民治、民享的政府——亚伯拉罕·林肯，葛底斯堡演说（1863年）  
+AI的成本正在急剧下降。2023年初，GPT-4级别的能力每百万token成本约30美元；如今同样的服务不到1美元，部分供应商甚至将成本压至0.10美元以下。从各项基准来看，推理价格每年下降9倍至900倍不等，中位数降幅接近50倍。即便是前沿模型，每一代的价格也大幅降低，开源模型紧随其后。关键在于，即便“诺贝尔奖级天才水平”的智能<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>美国首批自主地面战车正在乌克兰投入战斗</title>
 <link>https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3139226</guid>
@@ -70,6 +143,62 @@
 <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/lerobot-release-v060">阅读原文</a>]]></description>
+</item>
+<item>
+<title>通过高级模态条件与交互驯服文本到有声视频生成</title>
+<link>https://machinelearning.apple.com/research/sounding-video-generation</link>
+<guid isPermaLink="false">sounding-video-generation</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】本研究聚焦于文本到有声视频（T2SV）生成任务，旨在根据文本生成同步音频的视频，并使两种模态均与文本条件对齐。尽管联合音视频训练已取得进展，但仍存在两个关键挑战：（1）文本条件是瓶颈——共享字幕（TV=TA）会引发模态干扰，同时密集训练字幕与简洁推理用户提示之间存在差距；（2）跨模态特征交互的最优融合机制尚不明确。为解决第一个挑战，我们首先提出……<br/><br/><a href="https://machinelearning.apple.com/research/sounding-video-generation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DynaMiCS：利用动态混合在性能约束下微调大语言模型</title>
+<link>https://machinelearning.apple.com/research/dynamics-fine-tuning-llms</link>
+<guid isPermaLink="false">dynamics-fine-tuning-llms</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】大语言模型的多领域微调需要在提升目标领域性能的同时，保持对受限领域（如通用知识、指令遵循或安全评估）的性能。现有数据混合策略依赖固定启发式方法或自适应规则，无法明确强制保留这些能力。我们提出DynaMiCS，一种动态混合优化器，将多领域微调转化为约束优化问题。在每次更新中，DynaMiCS执行短期的领域特定探测运行，以估计局部斜率矩阵……<br/><br/><a href="https://machinelearning.apple.com/research/dynamics-fine-tuning-llms">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LensVLM：面向文本压缩视觉表征的选择性上下文扩展</title>
+<link>https://machinelearning.apple.com/research/lensvlm-context-expansion</link>
+<guid isPermaLink="false">lensvlm-context-expansion</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】视觉语言模型（VLM）提供了将文本作为渲染图像处理的激动人心的可能性，从而无需将文本分词为长序列。由于VLM图像编码器将固定尺寸的图像映射为固定数量的视觉令牌，调整渲染分辨率便成为一种精细的压缩手段。然而，随着压缩程度增加，准确率会迅速下降：字符缩小至低于视觉编码器的有效分辨率，导致难以区分。为解决这一问题，我们提出了LensVLM，一种推理框架及训练后方案，使VLM能够扫描……<br/><br/><a href="https://machinelearning.apple.com/research/lensvlm-context-expansion">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MT-EditFlow：基于流匹配的多轮图像编辑强化学习</title>
+<link>https://machinelearning.apple.com/research/mt-editflow-image-editing</link>
+<guid isPermaLink="false">mt-editflow-image-editing</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】近期基于指令的图像编辑领域取得突破性进展，模型已能处理真实世界编辑需求，具备日常用户所需的实用性。然而，主要针对单轮编辑训练的模型在多轮编辑场景中常出现失效——这种自然交互场景下，用户需基于模型自身先前输出对图像进行迭代优化。该失效源于"全有或全无"的苛刻要求（单轮失败即破坏整个序列）以及误差传播（暴露偏差导致后续问题）……<br/><br/><a href="https://machinelearning.apple.com/research/mt-editflow-image-editing">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Weblica：面向视觉网络智能体的可扩展与可复现训练环境</title>
+<link>https://machinelearning.apple.com/research/weblica-visual-web-agents</link>
+<guid isPermaLink="false">weblica-visual-web-agents</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】网络环境复杂、开放且持续变化，这使得为视觉网络智能体扩展训练数据面临挑战。现有数据收集方法仍局限于用于监督微调的离线轨迹，或仅适用于强化学习训练的少量模拟环境，因此无法捕捉网络的多样性。我们提出Weblica（网络副本）框架，用于构建可复现且可扩展的网络环境。该框架利用1）HTTP级缓存来捕获并重放稳定的视觉状态，同时保持交互行为；2）基于大语言模型的环境合成……<br/><br/><a href="https://machinelearning.apple.com/research/weblica-visual-web-agents">阅读原文</a>]]></description>
+</item>
+<item>
+<title>FlowEval：基于参考的生成式用户界面评估</title>
+<link>https://machinelearning.apple.com/research/floweval-ui-evaluation</link>
+<guid isPermaLink="false">floweval-ui-evaluation</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】尽管大型语言模型（LLMs）和编码代理常被应用于用户界面（UI）开发，但开发者难以可靠评估其在视觉与交互设计方面的能力。现有评估方法要么依赖人类专家——他们能通过测试关键流程准确评估可用性，但速度慢且成本高；要么依赖自动化评判系统——虽可扩展但准确性较低且不透明。我们提出FlowEval，一种基于参考的框架，通过比较真实网站的导航轨迹，衡量生成的UI是否支持符合实际的交互流程。<br/><br/><a href="https://machinelearning.apple.com/research/floweval-ui-evaluation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>单个神经元足以绕过大型语言模型的安全对齐机制</title>
+<link>https://machinelearning.apple.com/research/single-neuron-safety-alignment</link>
+<guid isPermaLink="false">single-neuron-safety-alignment</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】语言模型的安全对齐通过两种机制上截然不同的系统运作：拒绝神经元（控制有害知识是否被表达）和概念神经元（编码有害知识本身）。通过针对每个系统中的单个神经元，我们展示了两种失效方向——通过抑制绕过显式有害请求的安全机制，以及通过放大从无害提示中诱导出有害内容——涵盖两个模型家族、参数规模从1.7B到70B的七个模型，且无需任何训练或提示工程。我们的发现表明，安全对齐……<br/><br/><a href="https://machinelearning.apple.com/research/single-neuron-safety-alignment">阅读原文</a>]]></description>
 </item>
 <item>
 <title>首个AI驱动的勒索软件攻击仍需人类参与</title>
@@ -136,14 +265,6 @@
 <description><![CDATA[【the-decoder.com】腾讯发布了Hy3，这是一个基于混合专家架构、拥有2950亿参数的开源语言模型。在任何给定时刻，仅有210亿参数处于活跃状态。腾讯表示，Hy3的性能可匹敌其规模两到五倍的模型，同时将其幻觉率降低一半至5.4%。本文《腾讯发布Hy3开源模型，声称性能可匹敌其活跃参数规模五倍的模型》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首</title>
-<link>https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37424</guid>
-<pubDate>Mon, 06 Jul 2026 17:14:11 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI 的 GPT-4 在 Epoch 能力指数上领先约一年，远超此后任何模型。自 2024 年 2 月 Claude 3 Opus 登顶以来，榜首已易手 17 次，平均停留时间仅七周。如今竞争更为激烈，但模型间的能力提升幅度正在缩小。本文《GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>如果你使用谷歌，你就在训练它的人工智能。以下是退出方法。</title>
 <link>https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3139169</guid>
@@ -208,22 +329,6 @@
 <description><![CDATA[【blog.cloudflare.com】我们推出了 Workers Cache，这是一种区域分层缓存，直接位于你的 Worker 入口点之前。它可无限组合，并通过标准 HTTP 头进行配置。<br/><br/><a href="https://blog.cloudflare.com/workers-cache/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>英伟达Kyber NVL144据报推迟超一年，亚洲供应商股价下跌</title>
-<link>https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37417</guid>
-<pubDate>Mon, 06 Jul 2026 12:30:11 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据分析机构SemiAnalysis称，英伟达下一代AI服务器机架Kyber NVL144因电路板制造问题已推迟至2028年，延期超过一年。亚洲供应商市值损失高达两位数百分比。更强大的Rubin Ultra版本也已取消。这些挫折可能为AMD和谷歌提供竞争机会。本文《英伟达Kyber NVL144据报推迟超一年，亚洲供应商股价下跌》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>中国强制其最大AI平台关闭拟人化聊天机器人角色</title>
-<link>https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37418</guid>
-<pubDate>Mon, 06 Jul 2026 12:26:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】字节跳动和阿里巴巴正在关闭允许用户构建和与自定义AI伴侣聊天的功能，以响应北京方面的新规。本文《中国强制其最大AI平台关闭拟人化聊天机器人角色》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>🤗 内核：重大更新</title>
 <link>https://huggingface.co/blog/revamped-kernels</link>
 <guid isPermaLink="false">https://huggingface.co/blog/revamped-kernels</guid>
@@ -254,38 +359,6 @@
 <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】我们推出了TopoPrimer框架，该框架将序列群体的全局拓扑结构作为显式输入引入任何预测模型。TopoPrimer能提升跨多个领域的预测准确性，稳定季节性需求高峰下的预测表现，并缩小冷启动差距。通过持久同调与谱层坐标在每个领域预先计算一次后，TopoPrimer以每个令牌为单位部署于完全训练模型，或作为轻量级适配器用于预训练骨干网络。在这两个组件中，层坐标是准确性的主要驱动因素。在Chronos及四个公开基准测试中……<br/><br/><a href="https://machinelearning.apple.com/research/topoprimer-topological-context">阅读原文</a>]]></description>
-</item>
-<item>
-<title>连续扩散口语语言模型的缩放特性</title>
-<link>https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion</link>
-<guid isPermaLink="false">scaling-properties-continuous-diffusion</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】仅基于语音的口语语言模型（SLMs）在性能上落后于文本模型及文本-语音混合模型，近期离散自回归（AR）SLMs的研究表明，要匹配文本模型需要巨大的计算资源和数据量。由于将连续语音离散化为自回归模型会形成瓶颈，我们探究了连续扩散（CD）SLM是否更具可行性。为量化SLMs的语言质量，我们引入了音素詹森-香农散度（pJSD）指标。分析表明，CD SLM与AR模型类似，在验证损失和pJSD上呈现缩放定律，并显示出最优的令牌与参数配比……<br/><br/><a href="https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过可解释性理解标注者安全政策</title>
-<link>https://machinelearning.apple.com/research/annotator-safety-policy-interpretability</link>
-<guid isPermaLink="false">annotator-safety-policy-interpretability</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】安全政策界定了AI输出的安全与不安全范畴，为数据标注和模型开发提供指导。然而，标注分歧普遍存在，可能源于多种因素：操作失误（标注者误解或错误执行任务）、政策模糊性（政策措辞存在解读空间）或价值多元性（不同标注者对安全持有不同观点）。区分这些根源至关重要——操作失误需要质量控制，模糊性需要政策澄清，而多元性则需要审慎讨论……<br/><br/><a href="https://machinelearning.apple.com/research/annotator-safety-policy-interpretability">阅读原文</a>]]></description>
-</item>
-<item>
-<title>基于长格式声学编码的分段注意力解码</title>
-<link>https://machinelearning.apple.com/research/segmental-attention-decoding</link>
-<guid isPermaLink="false">segmental-attention-decoding</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】我们解决了基于注意力的编码器-解码器（AED）模型与长格式声学编码之间的根本不兼容问题。在分段话语上训练的AED模型通过利用分段边界之外的有限声学上下文来学习编码绝对帧位置，但在解码这些线索消失的长格式分段时无法泛化。由于交叉注意力中键和值的排列不变性，模型失去了对声学编码进行排序的能力。我们提出了四项改进：（1）为每个解码步骤向交叉注意力注入显式的绝对位置编码……<br/><br/><a href="https://machinelearning.apple.com/research/segmental-attention-decoding">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Fortress：通过时序数据增强与特征剪枝稳定搜索推荐系统的案例研究</title>
-<link>https://machinelearning.apple.com/research/fortress-stabilizing-search-recommendations</link>
-<guid isPermaLink="false">fortress-stabilizing-search-recommendations</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】在搜索与推荐系统中，当某些输入特征导致输出分数出现波动时，预测模型常面临时序不稳定性问题。这种不稳定性会降低模型可靠性及用户体验，尤其在多阶段系统中——稳定的预测结果对下游决策至关重要。我们提出Fortress通用框架，通过识别并剪枝导致预测分数随时间不一致的特征，提升模型稳定性与准确性。该框架利用历史快照构建时序分区数据集……<br/><br/><a href="https://machinelearning.apple.com/research/fortress-stabilizing-search-recommendations">阅读原文</a>]]></description>
 </item>
 <item>
 <title>亚马逊将停止接受Mechanical Turk的新客户</title>
@@ -360,14 +433,6 @@
 <description><![CDATA[【techcrunch.com】在一次内部会议上，据称Meta首席执行官表示，人工智能开发工作的进展没有达到预期速度。<br/><br/><a href="https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Jersey Mike's IPO 说明AI炒作有多离谱</title>
-<link>https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138696</guid>
-<pubDate>Thu, 02 Jul 2026 20:11:59 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】出于好奇，我翻看了Jersey Mike's的IPO文件。一家三明治店按理说没必要提及AI，但没想到还真有。<br/><br/><a href="https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GitHub如何利用秘密扫描实现收件箱归零</title>
 <link>https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/</link>
 <guid isPermaLink="false">https://github.blog/?p=97226</guid>
@@ -400,30 +465,6 @@
 <description><![CDATA[【arstechnica.com】谷歌试图在AI数据中心排放与清洁能源努力之间取得平衡。<br/><br/><a href="https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>多智能体团队反而制约专家发挥</title>
-<link>https://machinelearning.apple.com/research/multi-agent-teams-experts</link>
-<guid isPermaLink="false">multi-agent-teams-experts</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】多智能体大语言模型系统正越来越多地被部署为自主协作体，其中智能体自由交互，而非执行固定的预设工作流程。在此类场景中，有效的协调无法完全预先设计，而必须通过交互涌现。然而，以往多数研究通过固定角色、工作流程或聚合规则来强制实现协调，这留下了在协调不受约束时自组织团队表现如何的问题。借鉴组织心理学，我们研究了自组织大语言模型团队能否实现强协同效应，其中……<br/><br/><a href="https://machinelearning.apple.com/research/multi-agent-teams-experts">阅读原文</a>]]></description>
-</item>
-<item>
-<title>VideoFlexTok：灵活长度的由粗到细视频分词化</title>
-<link>https://machinelearning.apple.com/research/videoflextok</link>
-<guid isPermaLink="false">videoflextok</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】视觉分词器将高维原始像素映射为压缩表示，以供下游建模使用。除了压缩功能外，分词器还决定了哪些信息被保留以及如何组织这些信息。视频分词化的一种事实标准方法是将视频表示为时空三维网格中的标记，每个标记捕捉原始信号中对应的局部信息。这要求消耗这些标记的下游模型（例如文本到视频模型）无论视频的固有复杂度如何，都必须学习“逐像素”预测所有低级细节，从而导致……<br/><br/><a href="https://machinelearning.apple.com/research/videoflextok">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用学习支持函数分摊最大内积搜索</title>
-<link>https://machinelearning.apple.com/research/amortizing-inner-product-search</link>
-<guid isPermaLink="false">amortizing-inner-product-search</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】最大内积搜索（MIPS）是机器学习中的关键子程序，需要从数据库（键）中找出与给定查询最匹配的向量。我们提出分摊式MIPS：一种基于回归的方法，通过训练神经网络直接预测MIPS解，从而分摊在固定键数据库上对已知分布查询反复求解MIPS的成本。我们的核心见解是，MIPS值函数是键集合的支持函数——一种经过充分研究的凸函数，其梯度可得出最优键。这一...<br/><br/><a href="https://machinelearning.apple.com/research/amortizing-inner-product-search">阅读原文</a>]]></description>
-</item>
-<item>
 <title>在促使特朗普进行安全测试后，Anthropic的AI模型获准全球发布</title>
 <link>https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</guid>
@@ -446,46 +487,6 @@
 <pubDate>Wed, 01 Jul 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】我们已开放 Monetization Gateway 的候补名单，该网关将允许您对 Cloudflare 背后的任何网页、数据集、API 或 MCP 工具进行收费。费用将通过 x402 开放协议以稳定币结算，无需自行构建支付体系。<br/><br/><a href="https://blog.cloudflare.com/monetization-gateway/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>内容独立日一周年：构建代理型互联网的商业模式</title>
-<link>https://blog.cloudflare.com/agentic-internet-bot-report/</link>
-<guid isPermaLink="false">3qEwyKxigFNDK4JTlPfl8A</guid>
-<pubDate>Wed, 01 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】在宣布内容独立日一年后，一个充满活力的内容变现市场已正式形成。本报告探讨了自主AI代理的崛起如何颠覆传统搜索推荐机制，并详细阐述了支撑可持续网络经济所需的新基础设施。<br/><br/><a href="https://blog.cloudflare.com/agentic-internet-bot-report/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>让AI搜索更智能</title>
-<link>https://blog.cloudflare.com/making-ai-search-smarter/</link>
-<guid isPermaLink="false">YqZRSH26JlDBUNvwASOr2</guid>
-<pubDate>Wed, 01 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】搜索是我们几乎在网络上找到一切的方式——创作者、商家、答案。AI正在改写规则，让创作者陷入两难：既要在智能体时代保持可发现性，又要为自身工作获得报酬。今天，我们推出两项举措来提供帮助。<br/><br/><a href="https://blog.cloudflare.com/making-ai-search-smarter/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>你的网站，你做主：面向所有客户的全新AI流量管理选项</title>
-<link>https://blog.cloudflare.com/content-independence-day-ai-options/</link>
-<guid isPermaLink="false">FWKHybUFEZFSsFCrbEwAd</guid>
-<pubDate>Wed, 01 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】在第二个“内容独立日”之际，我们为网站所有者提供了更精细的AI流量管理选项。不再采用一刀切的屏蔽方式，所有客户现在可以轻松区分并管理搜索机器人、代理机器人和训练机器人，同时新增了保护广告变现页面的能力。<br/><br/><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年BAIR研究生成果展</title>
-<link>http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</link>
-<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</guid>
-<pubDate>Wed, 01 Jul 2026 02:00:00 -0700</pubDate>
-<source>bair.berkeley.edu</source>
-<description><![CDATA[【bair.berkeley.edu】祝贺伯克利人工智能研究（BAIR）实验室2026届毕业生！今年，BAIR再次庆祝一批杰出的博士毕业生，他们的好奇心、创造力和毅力推动了人工智能和机器学习的前沿。他们的研究涵盖现代AI的广泛领域——机器人与具身智能、大语言模型与推理、计算机视觉、生成式建模、AI安全、人机交互、AI在科学与医疗中的应用等。在此过程中，他们发表了具有影响力的研究，构建了具有实际价值的系统。<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/01/grads-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过归因业务洞察揭示爬虫行为</title>
-<link>https://blog.cloudflare.com/attribution-business-insights/</link>
-<guid isPermaLink="false">3wrqj94tEFsKCZ8OBUE52R</guid>
-<pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare 新推出的归因业务洞察仪表板帮助网站所有者了解爬虫行为、需求及潜在价值，推动围绕爬虫补偿的业务层面讨论。<br/><br/><a href="https://blog.cloudflare.com/attribution-business-insights/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
