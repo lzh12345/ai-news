@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 07 Jul 2026 07:31:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 10:48:13 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI与Anthropic向初创公司赠送数百万美元计算资源以吸引客户</title>
+<link>https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37445</guid>
+<pubDate>Tue, 07 Jul 2026 10:44:35 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI、Anthropic及主要云服务商正竞相提供免费计算额度，以吸引初创公司加入其生态系统。部分单个报价高达300万美元。仅在Y Combinator孵化器中，OpenAI与Anthropic每年合计可能发放高达8亿美元的计算额度。这场折扣战发生在两家公司需在即将进行的IPO前改善利润率的背景下。本文《OpenAI与Anthropic向初创公司赠送数百万美元计算资源以吸引客户》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>阿波罗经济学家警告：科技领域之外的AI利润增长可能“远超”华尔街预期</title>
+<link>https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37446</guid>
+<pubDate>Tue, 07 Jul 2026 10:28:57 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】阿波罗首席经济学家托尔斯滕·斯洛克认为，科技行业之外不会出现由AI驱动的利润率增长。在医疗、银行或制药等受监管行业中，流程改革和隐私规则可能将生产力提升推迟数年。如果这一过程需要五年而非五个月，许多AI股票将面临痛苦的重新定价。本文《阿波罗经济学家警告：科技领域之外的AI利润增长可能“远超”华尔街预期》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国首批自主地面战车正在乌克兰投入战斗</title>
+<link>https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3139226</guid>
+<pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Forterra公司已部署超过100辆<br/><br/><a href="https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>腾讯发布Hy3：一款拥有210亿活跃参数和256K上下文窗口的开放295B混合专家（MoE）模型</title>
 <link>https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/</link>
@@ -312,22 +336,6 @@
 <description><![CDATA[【techcrunch.com】这可能是亚马逊Mechanical Turk的最后时光。<br/><br/><a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Claude Code与Fable 5在“几小时内”将2003年PC游戏《命令与征服》移植到原生iOS平台</title>
-<link>https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37403</guid>
-<pubDate>Sun, 05 Jul 2026 15:58:56 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】一位Google Deepmind开发者利用Anthropic的Claude Code，将2003年实时策略游戏《命令与征服：将军绝命时刻》移植到了iPhone和iPad上。首次构建耗时40分钟。完整源代码已发布在GitHub上。本文《Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in "a few hours"》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>百度“无限OCR”通过模拟人类遗忘机制一次性处理数十页文档</title>
-<link>https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37394</guid>
-<pubDate>Sun, 05 Jul 2026 15:25:07 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】百度推出的“无限OCR”技术能够一次性读取数十页文档，而此前系统最多只能处理约十页。通过改进的注意力机制，无论模型处理多少页，内存使用量都保持稳定。该技术目前在最关键的OCR基准测试中位居榜首。本文《百度“无限OCR”通过模拟人类遗忘机制一次性处理数十页文档》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>LlamaIndex 'legal-kb'：基于Index v2的代理检索，集成retrieve、find、read和grep工具</title>
 <link>https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80855</guid>
@@ -430,14 +438,6 @@
 <pubDate>Thu, 02 Jul 2026 18:44:02 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Meta 悄然推出了 Pocket，这是一款实验性 AI 应用，允许用户通过文本提示生成并分享互动小游戏。<br/><br/><a href="https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic正与三星商讨定制芯片事宜</title>
-<link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138664</guid>
-<pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】此消息发布约一周前，OpenAI宣布与博通合作开发自有定制AI芯片。<br/><br/><a href="https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GitHub如何利用秘密扫描实现收件箱归零</title>

@@ -2478,5 +2478,17 @@
 "https://www.marktechpost.com/?p=80877": {
 "t": "OpenAI 发布 GPT-Realtime-2.1 和 GPT-Realtime-2.1-mini，用于 API 中的低延迟语音代理",
 "s": "OpenAI 在其 API 中新增了两款 Realtime 模型。GPT-Realtime-2.1-mini 是一款面向语音的迷你推理模型，定价与此前的 gpt-realtime-mini 相同。OpenAI 还通过改进缓存将 p95 延迟降低了至少 25%。本文介绍了具体变化、定价对比以及如何通过 WebRTC 进行连接。该文章最初发表于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37445": {
+"t": "OpenAI与Anthropic向初创公司赠送数百万美元计算资源以吸引客户",
+"s": "OpenAI、Anthropic及主要云服务商正竞相提供免费计算额度，以吸引初创公司加入其生态系统。部分单个报价高达300万美元。仅在Y Combinator孵化器中，OpenAI与Anthropic每年合计可能发放高达8亿美元的计算额度。这场折扣战发生在两家公司需在即将进行的IPO前改善利润率的背景下。本文《OpenAI与Anthropic向初创公司赠送数百万美元计算资源以吸引客户》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37446": {
+"t": "阿波罗经济学家警告：科技领域之外的AI利润增长可能“远超”华尔街预期",
+"s": "阿波罗首席经济学家托尔斯滕·斯洛克认为，科技行业之外不会出现由AI驱动的利润率增长。在医疗、银行或制药等受监管行业中，流程改革和隐私规则可能将生产力提升推迟数年。如果这一过程需要五年而非五个月，许多AI股票将面临痛苦的重新定价。本文《阿波罗经济学家警告：科技领域之外的AI利润增长可能“远超”华尔街预期》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3139226": {
+"t": "美国首批自主地面战车正在乌克兰投入战斗",
+"s": "Forterra公司已部署超过100辆"
 }
 }
