@@ -2646,5 +2646,29 @@
 "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/": {
 "t": "黑客可利用9款最流行AI工具组建大规模僵尸网络",
 "s": "\"HalluSquatting\"利用了大语言模型无法说\"我不知道\"的弱点。"
+},
+"7zbgYCOZDfvIIsVrPpZ8xJ": {
+"t": "推出Meerkat：一项全球共识机制的实验",
+"s": "Cloudflare Research正在构建一项名为Meerkat的全球共识服务，该服务采用名为QuePaxa的新型共识算法。我们计划利用Meerkat来构建一个强一致性、容错的键值存储系统及其他应用。"
+},
+"https://the-decoder.com/?p=37503": {
+"t": "中国AI初创公司MiniMax计划今年晚些时候开源一个2.7万亿参数的模型",
+"s": "中国AI开发者MiniMax正在研发一个拥有2.7万亿参数的新大型语言模型。MiniMax计划将该模型以开源形式发布。本文《中国AI初创公司MiniMax计划今年晚些时候开源一个2.7万亿参数的模型》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3139858": {
+"t": "前OpenAI高管Kevin Weil加入Stoke Space董事会",
+"s": "Kevin Weil在Stoke Space的新职务表明，可重复使用火箭正成为硅谷的下一个热门领域。"
+},
+"https://the-decoder.com/?p=37500": {
+"t": "Meta测试全天候AI眼镜，记录你的一整天",
+"s": "Meta正在测试一款搭载“超级感知”功能的AI头戴设备原型，该设备通过摄像头和麦克风记录佩戴者生活的每一刻。本文《Meta测试全天候AI眼镜，记录你的一整天》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37493": {
+"t": "Muse Image 技术令人印象深刻，但Meta使用Instagram照片引发质疑",
+"s": "Meta的超级智能实验室发布了其首个图像生成模型Muse Image。与OpenAI的GPT Image 2类似，它作为一个智能体运行，利用代码执行和网络搜索等工具来优化自身结果。一项颇具争议的@提及功能允许用户未经同意，利用他人的公开Instagram照片生成其图像。这种选择退出模式很可能与《通用数据保护条例》和《欧盟人工智能法案》相冲突。文章《Muse Image技术令人印象深刻，但Meta使用Instagram照片引发质疑》最初发表于The Decoder。"
+},
+"https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/": {
+"t": "AI如何让机器人在工作场所——甚至家庭中——实现自主工作",
+"s": "顶尖机器人研究者和创始人解释机器人自主性如何演进。"
 }
 }
