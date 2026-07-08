@@ -2626,5 +2626,25 @@
 "https://www.marktechpost.com/?p=80891": {
 "t": "蚂蚁集团 Robbyant 开源 LingBot-Vision：面向密集空间感知的 10 亿参数边界中心视觉基础模型",
 "s": "蚂蚁集团 Robbyant 开源了 LingBot-Vision，这是一个用于密集空间感知的自监督 ViT 系列。掩码边界建模使图像边界成为原生训练信号。该 10 亿参数骨干模型匹配或超越更大模型，并初始化了 LingBot-Depth 2.0。本文《蚂蚁集团 Robbyant 开源 LingBot-Vision：面向密集空间感知的 10 亿参数边界中心视觉基础模型》最初发表于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37486": {
+"t": "OpenAI的GPT-5.6周四发布，此前因美国政府要求而延迟",
+"s": "OpenAI将于周四发布GPT-5.6，此前美国政府在进行额外测试后解除了发布禁令。未来模型审批的约束性标准仍未出台。OpenAI表示，Sol模型在编程基准测试上以约一半的成本击败了Anthropic的Claude Mythos 5。本文《OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3139750": {
+"t": "法国热门初创公司ZML发布免费产品，加速多AI芯片推理速度",
+"s": "ZML是一家备受瞩目的法国AI初创公司，得到了图灵奖得主Yann LeCun的支持。该公司现已推出ZML/LLMD软件，该软件有望降低AI运行成本。"
+},
+"https://techcrunch.com/?p=3139582": {
+"t": "AI芯片制造商SambaNova以110亿美元估值融资10亿美元，距上一轮巨额融资仅5个月",
+"s": "AI芯片制造商SambaNova在英特尔被传试图以约16亿美元收购其数月后，以110亿美元估值完成融资。"
+},
+"https://www.marktechpost.com/?p=80898": {
+"t": "NVIDIA Cosmos框架教程：利用全模态混合Transformer设计适配Colab的Cosmos 3世界模型微型版",
+"s": "在本教程中，我们从实用的Colab角度探索NVIDIA的cosmos-framework，同时如实说明运行真实Cosmos 3检查点所需的硬件条件。我们测试运行时性能，并以该框架的实际结构、CLI界面和输入模式为基础，构建并训练一个紧凑的全模态混合Transformer模型。该模型在共享跨模态注意力的同时，将每种模态路由至专属专家模块。通过使用合成物理世界数据和自回归展开方式，我们展示了模型如何预测文本、视觉和动作等模态的未来潜在状态。"
+},
+"https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/": {
+"t": "黑客可利用9款最流行AI工具组建大规模僵尸网络",
+"s": "\"HalluSquatting\"利用了大语言模型无法说\"我不知道\"的弱点。"
 }
 }
