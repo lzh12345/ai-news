@@ -2670,5 +2670,53 @@
 "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/": {
 "t": "AI如何让机器人在工作场所——甚至家庭中——实现自主工作",
 "s": "顶尖机器人研究者和创始人解释机器人自主性如何演进。"
+},
+"https://huggingface.co/blog/nvidia/open-data-for-agents": {
+"t": "面向智能体的数据",
+"s": ""
+},
+"https://techcrunch.com/?p=3140026": {
+"t": "Meta希望其AI眼镜不再那么令人毛骨悚然，但其AI战略却另有暗示。",
+"s": "Meta正在增加一项新的保护措施，以防止人们使用其AI眼镜偷偷录制他人。然而，这项更新发布之际，该公司仍在继续扩大其AI产品收集和使用个人数据的范围。"
+},
+"https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/": {
+"t": "谷歌更新Android Bench，引入新的大语言模型，但Gemini仍落后",
+"s": "Android Bench正在不断演进，开发者可以协助引导这一进程。"
+},
+"https://the-decoder.com/?p=37516": {
+"t": "Anthropic解决Fable 5高成本的方案：将其转变为向Sonnet 5委派任务的“管理者”",
+"s": "Anthropic建议将昂贵的Claude Fable 5主要用作较小模型的规划器，而非在每个任务上都运行它。通过与Sonnet 5结合使用“顾问”模式，这一设置能以Fable 5单独运行63%的成本，达到其92%的性能。本文《Anthropic解决Fable 5高成本的方案：将其转变为向Sonnet 5委派任务的“管理者”》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3140126": {
+"t": "Prime Intellect 完成1.3亿美元A轮融资，助力企业构建自有AI代理",
+"s": "Prime Intellect成立于2024年，其目标是为组织提供训练自有代理系统的能力，使其无需依赖前沿AI实验室。"
+},
+"https://github.blog/?p=97349": {
+"t": "GitHub Copilot 如何实现 GitHub Pages 的零 DNS 配置",
+"s": "从空仓库到拥有 HTTPS 的自定义域名上线，仅需约 14 分钟，无需手动编辑任何 DNS 记录。本文《How GitHub Copilot enables zero DNS configuration for GitHub Pages》最初发布于 GitHub 博客。"
+},
+"https://the-decoder.com/?p=37510": {
+"t": "Anthropic的Claude Fable 5以高昂成本领跑新行业基准测试",
+"s": "Anthropic的Claude Fable 5在Artificial Analysis发布的所有六项新行业性能指标中拔得头筹，涵盖金融、法律和医学领域。但这一领先地位代价高昂。在战略与运营指数中，Fable 5单次任务运行成本为3.48美元，是DeepSeek V4 Pro收费0.03美元的百倍以上，而两者得分差距仅为12分。本文《Anthropic的Claude Fable 5以高昂成本领跑新行业基准测试》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3139890": {
+"t": "这些AI初创公司正以越来越快的速度实现营收增长",
+"s": "许多AI初创公司增长迅速，但据称其中一些公司的增速更为惊人。"
+},
+"https://the-decoder.com/?p=37506": {
+"t": "Google Deepmind 为 Gemini API 托管智能体新增后台执行与 MCP 支持",
+"s": "Google Deepmind 正在为 Gemini API 中的托管智能体新增四项功能。智能体现在可以异步在后台运行，直接连接远程 MCP 服务器，与沙盒工具一同使用自定义函数，并在不丢失状态的情况下刷新凭证。本文《Google Deepmind 为 Gemini API 托管智能体新增后台执行与 MCP 支持》最初发表于 The Decoder。"
+},
+"https://openai.com/index/k-12-educators-practical-skills": {
+"t": "帮助K-12教育工作者培养实用AI技能",
+"s": "OpenAI学院与沃尔顿家族基金会合作，推出实践性AI技能工作坊，旨在帮助K-12教育工作者掌握课堂所需的实用AI技能。"
+},
+"https://huggingface.co/blog/native-speed-vllm-transformers-backend": {
+"t": "原生速度的 vLLM 变压器建模后端",
+"s": "(无)"
+},
+"https://openai.com/index/introducing-gpt-live": {
+"t": "GPT-Live 正式发布",
+"s": "新一代语音模型，实现自然的人机交互，现已为 ChatGPT 语音功能提供支持。"
 }
 }
