@@ -2606,5 +2606,21 @@
 "https://openai.com/index/australian-payments-plus": {
 "t": "澳大利亚支付Plus借助ChatGPT和Codex加速发展",
 "s": "了解澳大利亚支付Plus如何利用ChatGPT Enterprise和Codex在复杂的支付领域加速前行。AP+节省时间、提升质量，并始终将人类判断置于核心地位。"
+},
+"https://www.marktechpost.com/?p=80888": {
+"t": "NVIDIA发布Audex（Nemotron-Labs-Audex-30B-A3B）：一个保留骨干文本智能的统一音频-文本大语言模型",
+"s": "NVIDIA的Nemotron-Labs-Audex-30B-A3B将音频理解、语音识别、翻译、文本转语音和音频生成统一到一个MoE模型中。它在保留Nemotron-Cascade-2骨干文本智能的同时，仅出现轻微性能回归。本文《NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3139892": {
+"t": "Meta 刚刚推出了一款新的 AI 图像生成器 Muse Image，用户已因照片使用问题提出反对",
+"s": "这款新的图像生成模型拥有多种应用场景，包括广告、装饰以及基于创作者的机会。"
+},
+"https://www.marktechpost.com/?p=80885": {
+"t": "Liquid AI 开源 Antidoom：一种通过最终令牌偏好优化（FTPO）减少推理模型“末日循环”的方法",
+"s": "Liquid AI 发布了 Antidoom，这是一种开源方法，旨在解决推理模型中的“末日循环”问题。末日循环会重复一段内容，直到上下文窗口耗尽。Antidoom 能够识别触发循环的令牌，并仅对该位置使用最终令牌偏好优化（FTPO）进行重新训练。在 LFM2.5-2.6B 模型上，末日循环率从 10.2% 降至 1.4%；在 Qwen3.5-4B 模型上，从 22.9% 降至 1%。生成、检测以及 FTPO 训练器均已开源。本文《Liquid AI 开源 Antidoom：一种通过最终令牌偏好优化（FTPO）减少推理模型“末日循环”的方法》首发于 Mar。"
+},
+"https://openai.com/index/mufg": {
+"t": "三菱日联金融集团（MUFG）借助OpenAI迈向AI原生企业",
+"s": "MUFG利用ChatGPT企业版构建AI原生组织，优化工作流程，并大规模提供由AI驱动的新型金融服务。"
 }
 }
