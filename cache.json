@@ -2718,5 +2718,61 @@
 "https://openai.com/index/introducing-gpt-live": {
 "t": "GPT-Live 正式发布",
 "s": "新一代语音模型，实现自然的人机交互，现已为 ChatGPT 语音功能提供支持。"
+},
+"https://techcrunch.com/?p=3140297": {
+"t": "谷歌深度伪造检测系统用于揭穿麦康奈尔恶搞图片",
+"s": "本周早些时候，一张看似显示肯塔基州参议员米奇·麦康奈尔躺在病床上、浑身插满管子、极度痛苦的图片被证实是AI生成的伪造品。"
+},
+"https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/": {
+"t": "诉讼：男子利用Grok制作7000张继女性感图片后自杀",
+"s": "更多年轻女孩因Grok生成的儿童性虐待材料起诉X平台；X被指控包庇儿童性侵犯者。"
+},
+"https://github.blog/?p=97408": {
+"t": "GitHub 可用性报告：2026年6月",
+"s": "6月份，我们遇到了六起导致GitHub服务性能下降的事件。此篇GitHub可用性报告：2026年6月最初发布于GitHub博客。"
+},
+"https://techcrunch.com/?p=3140162": {
+"t": "SpaceXAI 发布 Grok 4.5，马斯克称其为“Opus 级模型”",
+"s": "埃隆·马斯克的科技公司于周三发布了最新版本的 Grok，承诺提供一种比其他强大 AI 模型更便宜、更高效的替代方案。"
+},
+"https://techcrunch.com/?p=3140241": {
+"t": "这家初创公司认为机器人技术即将迎来其ChatGPT时刻",
+"s": "General Intuition押注数百万小时的视频游戏数据可以训练物理AI的基础模型，从而用最少的现实世界数据更轻松地构建更智能的机器人。"
+},
+"https://the-decoder.com/?p=37535": {
+"t": "Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要",
+"s": "xAI 发布了 Grok 4.5，该模型在数万块 Nvidia GB300 GPU 上训练而成。在编程基准测试中，该模型落后于 Fable 5 和 GPT-5.5，但所需 token 数比 Opus 4.8 少 4.2 倍。以每百万输入 token 2 美元的价格计算，其成本仅为竞争对手的一小部分。预计将于 7 月中旬在欧盟上市。文章《Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3140180": {
+"t": "Google Photos 新增AI“视频混剪”工具",
+"s": "该功能可对昏暗视频应用电影级补光、将平淡背景替换为趣味场景，或为视频添加艺术风格效果。"
+},
+"https://the-decoder.com/?p=37527": {
+"t": "ChatGPT 现在可以同时听和说，让AI对话更显人性化",
+"s": "OpenAI的GPT-Live采用全双工架构，能够同时进行听和说。复杂问题会在后台交由GPT-5.5处理，大幅提升回复质量。GPT-Live-1现已面向付费ChatGPT用户开放，免费账户可使用迷你版本。API访问即将推出。本文《ChatGPT can now listen and talk at the same time, making AI conversations seem more human》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?post_type=tc_video&p=3140196": {
+"t": "这位CEO为何认为电子游戏比互联网更适合作为训练数据",
+"s": "在实现通用人工智能（AGI）方面，大型语言模型并不具备所需的能力。像ChatGPT和Claude这样的模型在文本处理上表现出色，但在理解事物如何在空间和时间中实际运动方面却较为欠缺——这是产生具有泛化能力的智能所必需的关键技能。这一差距，或许可以通过游戏数据来填补。这正是General Intuition公司所押注的方向……"
+},
+"https://the-decoder.com/?p=37524": {
+"t": "Mistral 进军机器人领域，推出 Robostral Navigate：仅凭单摄像头即可操控机器人的 8B 模型",
+"s": "Mistral 正进军机器人市场，推出 Robostral Navigate——一款仅凭单个 RGB 摄像头就能引导机器人在未知环境中导航的 8B 模型。该模型在模拟环境中训练，并通过强化学习（CISPO）进行优化，在 R2R-CE 基准测试中达到了 76.6% 的准确率。Mistral 尚未公布该模型的具体上市时间。本文《Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3140033": {
+"t": "OpenAI 发布新语音模型，实现更自然的实时对话",
+"s": "OpenAI 表示，其新语音模式能够同时进行说话和聆听，这是实现实时翻译的关键能力。"
+},
+"https://openai.com/index/government-national-security-partnerships": {
+"t": "我们与政府及国家安全合作的方针",
+"s": "了解OpenAI如何以负责任的人工智能使用、民主问责制和公共安全为原则，开展与政府及国家安全的合作。"
+},
+"https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+"t": "在编程评估中区分信号与噪声",
+"s": "OpenAI的一项新分析揭示了热门编程基准测试SWE-Bench Pro存在的问题，引发了对评估AI模型可靠性和准确性的担忧。"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3140197": {
+"t": "贝佐斯支持的初创公司称，你的游戏数据可能是实现通用人工智能的关键",
+"s": "在实现通用人工智能（AGI）方面，大型语言模型并不具备所需的能力。像ChatGPT和Claude这样的模型擅长处理文本，但在理解事物如何在空间和时间中实际运动方面能力较弱——而这正是产生泛化智能所必需的技能。事实证明，这一差距可能由游戏数据来填补。这正是General Intuition公司所押注的方向。"
 }
 }
