@@ -2622,5 +2622,9 @@
 "https://openai.com/index/mufg": {
 "t": "三菱日联金融集团（MUFG）借助OpenAI迈向AI原生企业",
 "s": "MUFG利用ChatGPT企业版构建AI原生组织，优化工作流程，并大规模提供由AI驱动的新型金融服务。"
+},
+"https://www.marktechpost.com/?p=80891": {
+"t": "蚂蚁集团 Robbyant 开源 LingBot-Vision：面向密集空间感知的 10 亿参数边界中心视觉基础模型",
+"s": "蚂蚁集团 Robbyant 开源了 LingBot-Vision，这是一个用于密集空间感知的自监督 ViT 系列。掩码边界建模使图像边界成为原生训练信号。该 10 亿参数骨干模型匹配或超越更大模型，并初始化了 LingBot-Depth 2.0。本文《蚂蚁集团 Robbyant 开源 LingBot-Vision：面向密集空间感知的 10 亿参数边界中心视觉基础模型》最初发表于 MarkTechPost。"
 }
 }
