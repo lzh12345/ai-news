@@ -2774,5 +2774,37 @@
 "https://techcrunch.com/?post_type=tc_podcast&p=3140197": {
 "t": "贝佐斯支持的初创公司称，你的游戏数据可能是实现通用人工智能的关键",
 "s": "在实现通用人工智能（AGI）方面，大型语言模型并不具备所需的能力。像ChatGPT和Claude这样的模型擅长处理文本，但在理解事物如何在空间和时间中实际运动方面能力较弱——而这正是产生泛化智能所必需的技能。事实证明，这一差距可能由游戏数据来填补。这正是General Intuition公司所押注的方向。"
+},
+"https://www.marktechpost.com/?p=80919": {
+"t": "Robbyant发布LingBot-VLA 2.0：一个用于跨实体机器人操作的开源6B视觉-语言-动作（VLA）模型",
+"s": "蚂蚁集团的Robbyant发布了LingBot-VLA 2.0，这是一个基于Apache-2.0许可的视觉-语言-动作模型，用于跨实体机器人操作。该6B检查点在大约6万小时的数据上进行了预训练，涵盖20种机器人配置的5万小时机器人轨迹和1万小时第一人称人类视频。它将每个实体映射到一个单一的55维规范动作空间，覆盖手臂、灵巧手、腰部、头部和移动底座。一个基于令牌级、无辅助损失的混合专家动作专家在不增加负载平衡损失的情况下扩展了容量。双查询蒸馏"
+},
+"https://www.marktechpost.com/?p=80914": {
+"t": "SpaceXAI 发布 Grok 4.5，一款针对编程、智能体任务和知识工作训练的 Cursor 模型，输入价格每百万 token 2 美元",
+"s": "SpaceXAI 发布了 Grok 4.5，这是一款基于 Cursor 训练的模型，专为编程、智能体任务和知识工作设计。该模型以每秒 80 个 token 的速度运行，每百万 token 成本为 2 美元（输入）/6 美元（输出），并在 Harvey 法律智能体基准测试中排名第一。本文 SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input 最早出现在 MarkTechPost 上。"
+},
+"https://techcrunch.com/?p=3140358": {
+"t": "Lovable 据称正洽谈将估值翻倍至132亿美元",
+"s": "据Sifted报道，这轮3亿美元的融资预计将由Menlo Ventures领投。"
+},
+"https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/": {
+"t": "怀疑学生用AI作弊，常春藤教授要求线下期末考试；成绩下降50%",
+"s": "教授称AI作弊将导致“一个失败的社会”。"
+},
+"https://github.blog/?p=97282": {
+"t": "使用 GitHub Agentic Workflows 自动化跨仓库文档",
+"s": "探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。"
+},
+"https://www.marktechpost.com/?p=80911": {
+"t": "Netflix AI团队通过按ID拆分Cassandra分区，将宽分区读取延迟从秒级降至毫秒级",
+"s": "Netflix工程师详细介绍了他们如何在Apache Cassandra中处理宽分区，以支持时间序列抽象。两种方法协同工作：时间切片重新分区在表级别调整未来分区，而动态分区则在读取路径上按时间序列ID检测并拆分过大的分区。检测通过字节计数和Kafka进行，拆分经过校验和验证，布隆过滤器将读取路由到并行的子分区。平均读取延迟从秒级降至低两位数毫秒级，500MB以上的分区仍保持可用。"
+},
+"https://www.marktechpost.com/?p=80907": {
+"t": "Google AI Studio 在构建模式中新增“从 GitHub 导入”功能，将现有仓库转化为可编辑、可部署的应用",
+"s": "Google AI Studio 正在推出构建模式下的“从 GitHub 导入”功能。该功能可将现有仓库转换为运行时兼容的格式，随后开发者可以对其进行迭代、部署等操作。以下是这一变化对开发者的影响。本文首发于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80903": {
+"t": "OpenAI 发布 GPT-Live 和 GPT-Live-1 mini：全双工语音模型，将深层推理委托给 GPT-5.5",
+"s": "OpenAI 发布了 GPT-Live，这是一款新一代语音模型，现已为 ChatGPT Voice 提供支持。它采用全双工架构，能够同时听和说，并将搜索和推理任务委托给 GPT-5.5。本文《OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5》最初发表于 MarkTechPost。"
 }
 }
