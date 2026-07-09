@@ -2842,5 +2842,45 @@
 "https://the-decoder.com/?p=37551": {
 "t": "Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus",
 "s": "Databricks在其数百万行代码库中对编码代理进行了基准测试，发现中国开源模型GLM 5.2在每任务成本1.28美元（对比1.94美元）的情况下，性能与Anthropic的Opus 4.8相当。该公司计划将其作为日常编码主力工具推广。其更广泛的结论是：没有单一供应商占据主导地位，企业应构建自己的基准测试，而非依赖公开测试。文章《Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3140504": {
+"t": "Meta 新 AI 芯片将于九月开始生产",
+"s": "该公司正采用模块化方式设计这些芯片，预计随着人工智能快速发展，到芯片投产时其需求将发生变化。"
+},
+"https://techcrunch.com/?p=3140496": {
+"t": "Nvidia 成为自己创造的算力市场的受害者",
+"s": "在证明了算力的巨大价值后，Nvidia 发现自己处于一个所有人都想参与的市场中心——而更简单的技术和不那么引人注目的公司却在边缘地带获利。"
+},
+"https://the-decoder.com/?p=37564": {
+"t": "Meta的Muse Spark 1.1 API定价挤压OpenAI和Anthropic，AI价格战升温",
+"s": "Meta正以Muse Spark 1.1进入AI API业务，其价格甚至低于昨日刚发布的廉价版Grok 4.5。每百万输出令牌仅需4.25美元，Meta的收费仅为Anthropic或OpenAI要价的一小部分。对于烧钱数十亿美元的纯AI实验室而言，压力进一步加剧。本文《Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up》最初发表于The Decoder。"
+},
+"https://github.blog/?p=97373": {
+"t": "GitHub 如何为每个仓库赋予持久的所有者",
+"s": "GitHub 拥有超过 14,000 个仓库，其中不到一半有明确的所有者。本文介绍了我们如何在 45 天内为每个活跃仓库赋予经过验证的所有者，归档其余仓库，并将所有权作为后续一切工作的基础。该文章最初发布于 GitHub 博客。"
+},
+"https://techcrunch.com/?p=3140476": {
+"t": "Anthropic 新 Claude 功能悄然向你推销 AI",
+"s": "Claude 的新 Reflect 仪表盘不仅可视化你如何使用 AI，还微妙地强化了你日常工作中多少已依赖 Anthropic 的聊天机器人。"
+},
+"https://techcrunch.com/?p=3140464": {
+"t": "Anthropic、OpenAI 和 SpaceX 的规模超过了过去25年的科技退出案例",
+"s": "三大AI公司的IPO将创造比2000年以来所有美国风投支持的退出案例更多的价值。"
+},
+"https://openai.com/index/gpt-5-6": {
+"t": "GPT-5.6：随你雄心扩展的前沿智能",
+"s": "每个令牌带来更多智能，每美元带来更强性能，按需提供更多能力，助你攻克最艰巨的任务。"
+},
+"https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
+"t": "ChatGPT 现已成为您最具雄心工作的合作伙伴",
+"s": "ChatGPT Work 是一款能够跨应用和文件执行操作的智能代理，可在需要时持续跟进项目数小时，并将目标转化为完成的工作成果。"
+},
+"https://openai.com/index/bio-bug-bounty": {
+"t": "GPT-5.5 生物漏洞赏金计划",
+"s": "关于 OpenAI 生物漏洞赏金计划的详细信息"
+},
+"incentivizing-temporal-awareness-egocentric": {
+"t": "激励自我中心视频理解模型的时间感知能力",
+"s": "多模态大语言模型（MLLMs）近期在视觉理解领域展现出强劲性能，但常缺乏时间感知能力，尤其在依赖事件正确顺序与演变的自我中心场景中。这一缺陷部分源于训练目标未能明确奖励时间推理，反而依赖帧级空间捷径。为解决此问题，我们提出时间全局策略优化（TGPO），一种基于可验证奖励的强化学习（RLVR）算法，旨在激励时间…"
 }
 }
