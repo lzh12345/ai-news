@@ -2882,5 +2882,61 @@
 "incentivizing-temporal-awareness-egocentric": {
 "t": "激励自我中心视频理解模型的时间感知能力",
 "s": "多模态大语言模型（MLLMs）近期在视觉理解领域展现出强劲性能，但常缺乏时间感知能力，尤其在依赖事件正确顺序与演变的自我中心场景中。这一缺陷部分源于训练目标未能明确奖励时间推理，反而依赖帧级空间捷径。为解决此问题，我们提出时间全局策略优化（TGPO），一种基于可验证奖励的强化学习（RLVR）算法，旨在激励时间…"
+},
+"https://www.marktechpost.com/?p=80942": {
+"t": "OpenAI发布GPT-5.6（Sol、Terra、Luna）：一个包含三层模型家族，在Responses API中支持程序化工具调用",
+"s": "OpenAI于2026年7月9日将GPT-5.6全面开放，推出了三个层级而非单一模型。Sol每100万token价格为5美元/30美元，Terra为2.50美元/15美元，Luna为1美元/6美元。Sol在Artificial Analysis编码代理指数上达到80分，比Claude Fable 5高出2.8分，并在OSWorld 2.0上达到62.6%的准确率，同时比Opus 4.8少使用85%的输出token。对开发者而言，实质性的变化是程序化工具调用，它在隔离的V8运行时中运行模型编写的JavaScript，以编排工具，无需将每个中间结果返回给模型。Clio报告提示token减少了38%，PlayCo减少了63.5%。"
+},
+"https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/": {
+"t": "外科医生操控的人形机器人完成全球首例活猪手术",
+"s": "临床前试验正在测试人形机器人用于外科手术的可行性。"
+},
+"https://techcrunch.com/?p=3140525": {
+"t": "Meta 携 Muse Spark 1.1 加入拥挤的AI编程战场",
+"s": "Meta 向用户推介 Spark 的卖点在于其能够处理大型智能体工作负载、修复漏洞，并协助完成大规模代码迁移——这类自动化正是企业日益依赖AI公司提供的服务。"
+},
+"https://techcrunch.com/?p=3140699": {
+"t": "《纽约时报》称OpenAI在ChatGPT版权审判中隐瞒证据",
+"s": "新闻出版商指控OpenAI隐藏了能够识别ChatGPT输出中受版权保护的新闻内容的工具和数据集，并通过一项新的制裁动议升级了诉讼。"
+},
+"https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/": {
+"t": "OpenAI在与新闻机构的版权之争中可能犯下致命失误",
+"s": "OpenAI可能因在《纽约时报》版权诉讼中隐藏、删除ChatGPT日志而面临制裁。"
+},
+"https://techcrunch.com/?p=3140626": {
+"t": "谷歌将要求披露由AI生成的广告",
+"s": "尽管谷歌禁止误导性和欺骗性广告，但广告仍可利用AI创建某种合成或数字修改的内容。此前，谷歌仅要求选举广告对此进行披露。"
+},
+"https://the-decoder.com/?p=37580": {
+"t": "GPT-5.6 Sol 在综合基准测试中几乎媲美 Fable 5，成本仅为其三分之一",
+"s": "OpenAI 的 GPT-5.6 Sol 在人工智能分析智能指数上获得 59 分，仅比 Claude Fable 5 低一分。每项任务成本为 1.04 美元，仅为 Anthropic 顶级模型收费的三分之一。在智能体编程方面，Sol 击败了所有竞争对手，进一步给 Anthropic 带来定价压力。文章《GPT-5.6 Sol 在综合基准测试中几乎媲美 Fable 5，成本仅为其三分之一》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3140596": {
+"t": "巴黎AI语音初创公司Gradium获1亿美元种子轮融资，英伟达参投",
+"s": "该公司正利用这笔资金在湾区开设办事处，并在此地争夺人才，“以巩固其在全球领先AI生态系统核心的地位”。"
+},
+"https://techcrunch.com/?p=3140210": {
+"t": "政府如何判定OpenAI的前沿模型可以安全发布？",
+"s": "\"政府与Anthropic及OpenAI之间的具体对话细节尚不明确。\""
+},
+"https://the-decoder.com/?p=37575": {
+"t": "OpenAI 推出 GPT-5.6 公测版，并发布可处理完整工作流程的新智能体 ChatGPT Work",
+"s": "OpenAI 正在推出 ChatGPT Work，这是一款基于 Codex 和现已公开的 GPT-5.6 的智能体产品。该智能体能够独立处理跨 Google Drive、Slack 和 Salesforce 等应用的复杂项目。ChatGPT Work 现已在网页、移动端和桌面端上线，但访问权限取决于订阅计划。本文《OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3140527": {
+"t": "Instagram用户：如何阻止Meta的AI使用你的照片",
+"s": "Muse Image允许用户利用公开Instagram账户中的照片生成AI图像。只要用户的个人资料是公开的，其他用户就可以标记该账户，并将其照片用于AI生成的内容中。"
+},
+"https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
+"t": "GPT-5.6 现已成为 Microsoft 365 Copilot 中的首选模型",
+"s": "了解 GPT-5.6 如何以更强的 AI 能力驱动 Microsoft 365 Copilot，在 Word、Excel、PowerPoint、Chat 和 Cowork 中实现更快速、更高质量的工作。"
+},
+"self-reflective-program-search": {
+"t": "递归语言模型与不确定性相遇：自反思程序搜索在长上下文中的惊人效果",
+"s": "长上下文处理仍是语言模型的核心挑战：即便拥有扩展的上下文窗口，模型也常难以可靠地提取、推理并利用跨长上下文的信息。近期如递归语言模型（RLMs）等研究，通过推理时以编程方式将长上下文分解为递归子查询的智能体方法应对这一挑战。尽管前景可期，RLMs的成功关键取决于这些上下文交互程序轨迹的选择方式，而这一领域此前尚未被探索。本文中，我们针对此问题展开研究……"
+},
+"unmasking-on-policy-distillation": {
+"t": "揭开同策略蒸馏的面纱：何时有益、何时有害及其原因",
+"s": "同策略蒸馏为训练推理模型提供了密集的逐令牌监督信号；然而，目前尚不清楚在何种条件下该信号有益，在何种条件下有害。应使用哪种教师模型？在自蒸馏情况下，应选择何种具体上下文作为监督信号？最优选择是否会因令牌不同而变化？目前，回答这些问题通常需要成本高昂的训练过程，而聚合性能指标掩盖了单个令牌层面的动态变化。我们提出了一种无需训练的方法……"
 }
 }
