@@ -2818,5 +2818,29 @@
 "https://www.marktechpost.com/?p=80924": {
 "t": "Datalab Lift 与同类工具对比：9B 参数模式优先提取器如何与 NuExtract3、LlamaExtract、Marker 和 Docling 一较高下",
 "s": "Datalab 的 Lift 是一款专注的文档提取工具，其核心承诺是：输入 PDF 或图像以及 JSON 模式，它就能直接返回符合该模式的 JSON 数据。与先将文档转换为 Markdown 再让另一个模型提取字段的方式不同，Lift 直接读取渲染后的页面图像，并尝试输出最终结果。这篇文章《Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling》最初发表于 MarkTechPost。"
+},
+"5wMIF1Oa7DES2YNRpqiVB0": {
+"t": "为何我们不能等待更好的后量子签名算法",
+"s": "NIST正在推进九种新的后量子签名算法，作为未来标准化的潜在候选方案。我们深入审视了所有这些算法，并认为尽管它们正在研发中且展现出巨大潜力，但目前我们应使用ML-DSA——这是当前可用的最佳选择。"
+},
+"https://the-decoder.com/?p=37559": {
+"t": "OpenAI发现约30%的流行AI编程测试存在问题",
+"s": "OpenAI审查了SWE-Bench Pro（一个广泛用于衡量AI模型编程技能的测试），发现其约30%的任务存在缺陷。该公司正在撤回此前对该基准测试的支持。本文《OpenAI发现约30%的流行AI编程测试存在问题》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3140394": {
+"t": "Character.AI 携自制作品进军微短剧领域，但玩法有新意",
+"s": "一个有趣的转折是，利用公司的核心产品，用户可以与这些剧集中的角色聊天、向它们提问，甚至扮演不同的故事情节。"
+},
+"https://techcrunch.com/?p=3140214": {
+"t": "热门开源AI开发者工具Ollama融资6500万美元，用户数接近900万",
+"s": "由Benchmark投资的Ollama通过帮助开发者轻松在个人电脑上运行AI，已在GitHub上累计获得17.6万颗星标和近1.7万个分支。"
+},
+"https://techcrunch.com/?p=3140101": {
+"t": "南丹·尼勒卡尼卸任Fundamentum普通合伙人，该基金启动2亿美元第三期基金",
+"s": "尼勒卡尼仍担任Fundamentum的主要投资者，该基金正扩大领导团队，并瞄准印度的人工智能和金融科技初创企业。"
+},
+"https://the-decoder.com/?p=37551": {
+"t": "Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus",
+"s": "Databricks在其数百万行代码库中对编码代理进行了基准测试，发现中国开源模型GLM 5.2在每任务成本1.28美元（对比1.94美元）的情况下，性能与Anthropic的Opus 4.8相当。该公司计划将其作为日常编码主力工具推广。其更广泛的结论是：没有单一供应商占据主导地位，企业应构建自己的基准测试，而非依赖公开测试。文章《Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus》最初发表于The Decoder。"
 }
 }

@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 09 Jul 2026 10:47:14 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 14:36:07 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>为何我们不能等待更好的后量子签名算法</title>
+<link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
+<guid isPermaLink="false">5wMIF1Oa7DES2YNRpqiVB0</guid>
+<pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】NIST正在推进九种新的后量子签名算法，作为未来标准化的潜在候选方案。我们深入审视了所有这些算法，并认为尽管它们正在研发中且展现出巨大潜力，但目前我们应使用ML-DSA——这是当前可用的最佳选择。<br/><br/><a href="https://blog.cloudflare.com/ml-dsa-will-have-to-do/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI发现约30%的流行AI编程测试存在问题</title>
+<link>https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37559</guid>
+<pubDate>Thu, 09 Jul 2026 13:23:57 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI审查了SWE-Bench Pro（一个广泛用于衡量AI模型编程技能的测试），发现其约30%的任务存在缺陷。该公司正在撤回此前对该基准测试的支持。本文《OpenAI发现约30%的流行AI编程测试存在问题》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Character.AI 携自制作品进军微短剧领域，但玩法有新意</title>
+<link>https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3140394</guid>
+<pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】一个有趣的转折是，利用公司的核心产品，用户可以与这些剧集中的角色聊天、向它们提问，甚至扮演不同的故事情节。<br/><br/><a href="https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>热门开源AI开发者工具Ollama融资6500万美元，用户数接近900万</title>
+<link>https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3140214</guid>
+<pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】由Benchmark投资的Ollama通过帮助开发者轻松在个人电脑上运行AI，已在GitHub上累计获得17.6万颗星标和近1.7万个分支。<br/><br/><a href="https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>南丹·尼勒卡尼卸任Fundamentum普通合伙人，该基金启动2亿美元第三期基金</title>
+<link>https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3140101</guid>
+<pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】尼勒卡尼仍担任Fundamentum的主要投资者，该基金正扩大领导团队，并瞄准印度的人工智能和金融科技初创企业。<br/><br/><a href="https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus</title>
+<link>https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37551</guid>
+<pubDate>Thu, 09 Jul 2026 11:03:39 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Databricks在其数百万行代码库中对编码代理进行了基准测试，发现中国开源模型GLM 5.2在每任务成本1.28美元（对比1.94美元）的情况下，性能与Anthropic的Opus 4.8相当。该公司计划将其作为日常编码主力工具推广。其更广泛的结论是：没有单一供应商占据主导地位，企业应构建自己的基准测试，而非依赖公开测试。文章《Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手</title>
 <link>https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/</link>
@@ -304,22 +352,6 @@
 <description><![CDATA[【techcrunch.com】Kevin Weil在Stoke Space的新职务表明，可重复使用火箭正成为硅谷的下一个热门领域。<br/><br/><a href="https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta测试全天候AI眼镜，记录你的一整天</title>
-<link>https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37500</guid>
-<pubDate>Wed, 08 Jul 2026 11:48:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta正在测试一款搭载“超级感知”功能的AI头戴设备原型，该设备通过摄像头和麦克风记录佩戴者生活的每一刻。本文《Meta测试全天候AI眼镜，记录你的一整天》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Muse Image 技术令人印象深刻，但Meta使用Instagram照片引发质疑</title>
-<link>https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37493</guid>
-<pubDate>Wed, 08 Jul 2026 11:16:37 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta的超级智能实验室发布了其首个图像生成模型Muse Image。与OpenAI的GPT Image 2类似，它作为一个智能体运行，利用代码执行和网络搜索等工具来优化自身结果。一项颇具争议的@提及功能允许用户未经同意，利用他人的公开Instagram照片生成其图像。这种选择退出模式很可能与《通用数据保护条例》和《欧盟人工智能法案》相冲突。文章《Muse Image技术令人印象深刻，但Meta使用Instagram照片引发质疑》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>帮助K-12教育工作者培养实用AI技能</title>
 <link>https://openai.com/index/k-12-educators-practical-skills</link>
 <guid isPermaLink="false">https://openai.com/index/k-12-educators-practical-skills</guid>
@@ -432,22 +464,6 @@
 <description><![CDATA[【techcrunch.com】微软成为最新一家削减AI支出的硅谷巨头。<br/><br/><a href="https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Discord承认AI审核漏洞误将无害图片用户封禁</title>
-<link>https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3139842</guid>
-<pubDate>Tue, 07 Jul 2026 19:28:38 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】该公司确认，自五月起该问题已影响用户账户，另有200名用户在上周末被封禁，直至其团队发现并修复了该问题。<br/><br/><a href="https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Cowork 扩展至移动端和网页端</title>
-<link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3139729</guid>
-<pubDate>Tue, 07 Jul 2026 16:27:18 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】通过此次更新，用户可以在办公桌前启动任务，在手机上获取状态更新，并在之后查看完成的结果——即使笔记本电脑已合上。<br/><br/><a href="https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>面对美国出口管制，中国DeepSeek计划自主研发芯片</title>
 <link>https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/</guid>
@@ -470,22 +486,6 @@
 <pubDate>Tue, 07 Jul 2026 15:20:06 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/microsoft/foundry-managed-compute">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare 自豪地加入英国政府“网络韧性承诺”计划</title>
-<link>https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/</link>
-<guid isPermaLink="false">3xHevpKOOM76zUSrlPcQno</guid>
-<pubDate>Tue, 07 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】该承诺是一个自愿性框架，邀请各组织致力于基础网络安全治理、董事会层面的问责制以及供应链的严格管理。十多年来，Cloudflare 一直引领着该框架的核心支柱：安全民主化、领导问责制以及彻底透明化。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Savi 应用旨在保护消费者免受逼真的人工智能诈骗，如绑匪索要赎金</title>
-<link>https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3138667</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】该公司刚刚获得700万美元的种子轮融资，并于周二在iPhone和Android平台推出其应用。<br/><br/><a href="https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
