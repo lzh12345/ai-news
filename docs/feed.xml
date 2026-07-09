@@ -5,8 +5,64 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 09 Jul 2026 07:35:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 10:47:14 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手</title>
+<link>https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37544</guid>
+<pubDate>Thu, 09 Jul 2026 09:56:57 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在2026年AtCoder世界巡回总决赛中，OpenAI系统在一场表演赛中碾压所有人类竞争对手，成功解决了算法组全部五道题目。其中两道题目被观察者评为异常困难。本文《OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA发布Nemotron-Labs-3-Puzzle-75B-A9B：一种压缩混合MoE大语言模型，在匹配用户吞吐量下实现2.03倍服务器吞吐量</title>
+<link>https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80930</guid>
+<pubDate>Thu, 09 Jul 2026 08:47:37 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA发布了Nemotron-Labs-3-Puzzle-75B-A9B，这是Nemotron-3-Super的压缩变体。迭代式Puzzle方法交替进行硬件感知的结构压缩和短知识蒸馏恢复阶段。该模型的总参数量从1207亿/活跃参数128亿降至753亿/93亿。在单个8xB200节点上，它在每位用户100 tok/s的速率下实现了Super模型总吞吐量的2.03倍。在单块H100上，100万token的并发量从1个请求提升至8个。该文章最初发布于NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput。<br/><br/><a href="https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google AI Studio 在构建模式中新增“从 GitHub 导入”功能，将现有仓库转化为可编辑、可部署的应用</title>
+<link>https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80907</guid>
+<pubDate>Thu, 09 Jul 2026 07:58:06 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google AI Studio 正在推出构建模式下的“从 GitHub 导入”功能。该功能可将现有仓库转换为运行时兼容的格式，随后开发者可以对其进行迭代、部署等操作。以下是这一变化对开发者的影响。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Datalab Lift 与同类工具对比：9B 参数模式优先提取器如何与 NuExtract3、LlamaExtract、Marker 和 Docling 一较高下</title>
+<link>https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80924</guid>
+<pubDate>Thu, 09 Jul 2026 07:50:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Datalab 的 Lift 是一款专注的文档提取工具，其核心承诺是：输入 PDF 或图像以及 JSON 模式，它就能直接返回符合该模式的 JSON 数据。与先将文档转换为 Markdown 再让另一个模型提取字段的方式不同，Lift 直接读取渲染后的页面图像，并尝试输出最终结果。这篇文章《Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要</title>
+<link>https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37535</guid>
+<pubDate>Thu, 09 Jul 2026 07:47:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】xAI 发布了 Grok 4.5，该模型在数万块 Nvidia GB300 GPU 上训练而成。在编程基准测试中，该模型落后于 Fable 5 和 GPT-5.5，但所需 token 数比 Opus 4.8 少 4.2 倍。以每百万输入 token 2 美元的价格计算，其成本仅为竞争对手的一小部分。预计将于 7 月中旬在欧盟上市。文章《Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Robbyant发布LingBot-VLA 2.0：一个用于跨实体机器人操作的开源6B视觉-语言-动作（VLA）模型</title>
+<link>https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80919</guid>
+<pubDate>Thu, 09 Jul 2026 00:45:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】蚂蚁集团的Robbyant发布了LingBot-VLA 2.0，这是一个基于Apache-2.0许可的视觉-语言-动作模型，用于跨实体机器人操作。该6B检查点在大约6万小时的数据上进行了预训练，涵盖20种机器人配置的5万小时机器人轨迹和1万小时第一人称人类视频。它将每个实体映射到一个单一的55维规范动作空间，覆盖手臂、灵巧手、腰部、头部和移动底座。一个基于令牌级、无辅助损失的混合专家动作专家在不增加负载平衡损失的情况下扩展了容量。双查询蒸馏<br/><br/><a href="https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceXAI 发布 Grok 4.5，一款针对编程、智能体任务和知识工作训练的 Cursor 模型，输入价格每百万 token 2 美元</title>
+<link>https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80914</guid>
+<pubDate>Wed, 08 Jul 2026 23:54:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】SpaceXAI 发布了 Grok 4.5，这是一款基于 Cursor 训练的模型，专为编程、智能体任务和知识工作设计。该模型以每秒 80 个 token 的速度运行，每百万 token 成本为 2 美元（输入）/6 美元（输出），并在 Harvey 法律智能体基准测试中排名第一。本文 SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input 最早出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Lovable 据称正洽谈将估值翻倍至132亿美元</title>
 <link>https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/</link>
@@ -30,6 +86,14 @@
 <pubDate>Wed, 08 Jul 2026 21:11:56 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Netflix AI团队通过按ID拆分Cassandra分区，将宽分区读取延迟从秒级降至毫秒级</title>
+<link>https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80911</guid>
+<pubDate>Wed, 08 Jul 2026 21:00:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Netflix工程师详细介绍了他们如何在Apache Cassandra中处理宽分区，以支持时间序列抽象。两种方法协同工作：时间切片重新分区在表级别调整未来分区，而动态分区则在读取路径上按时间序列ID检测并拆分过大的分区。检测通过字节计数和Kafka进行，拆分经过校验和验证，布隆过滤器将读取路由到并行的子分区。平均读取延迟从秒级降至低两位数毫秒级，500MB以上的分区仍保持可用。<br/><br/><a href="https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌深度伪造检测系统用于揭穿麦康奈尔恶搞图片</title>
@@ -72,14 +136,6 @@
 <description><![CDATA[【techcrunch.com】General Intuition押注数百万小时的视频游戏数据可以训练物理AI的基础模型，从而用最少的现实世界数据更轻松地构建更智能的机器人。<br/><br/><a href="https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要</title>
-<link>https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37535</guid>
-<pubDate>Wed, 08 Jul 2026 19:01:44 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】xAI 发布了 Grok 4.5，该模型在数万块 Nvidia GB300 GPU 上训练而成。在编程基准测试中，该模型落后于 Fable 5 和 GPT-5.5，但所需 token 数比 Opus 4.8 少 4.2 倍。以每百万输入 token 2 美元的价格计算，其成本仅为竞争对手的一小部分。预计将于 7 月中旬在欧盟上市。文章《Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google Photos 新增AI“视频混剪”工具</title>
 <link>https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3140180</guid>
@@ -94,6 +150,14 @@
 <pubDate>Wed, 08 Jul 2026 18:18:55 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI的GPT-Live采用全双工架构，能够同时进行听和说。复杂问题会在后台交由GPT-5.5处理，大幅提升回复质量。GPT-Live-1现已面向付费ChatGPT用户开放，免费账户可使用迷你版本。API访问即将推出。本文《ChatGPT can now listen and talk at the same time, making AI conversations seem more human》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 发布 GPT-Live 和 GPT-Live-1 mini：全双工语音模型，将深层推理委托给 GPT-5.5</title>
+<link>https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80903</guid>
+<pubDate>Wed, 08 Jul 2026 18:08:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI 发布了 GPT-Live，这是一款新一代语音模型，现已为 ChatGPT Voice 提供支持。它采用全双工架构，能够同时听和说，并将搜索和推理任务委托给 GPT-5.5。本文《OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>这位CEO为何认为电子游戏比互联网更适合作为训练数据</title>
@@ -264,14 +328,6 @@
 <description><![CDATA[【openai.com】OpenAI学院与沃尔顿家族基金会合作，推出实践性AI技能工作坊，旨在帮助K-12教育工作者掌握课堂所需的实用AI技能。<br/><br/><a href="https://openai.com/index/k-12-educators-practical-skills">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI的GPT-5.6周四发布，此前因美国政府要求而延迟</title>
-<link>https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37486</guid>
-<pubDate>Wed, 08 Jul 2026 08:00:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI将于周四发布GPT-5.6，此前美国政府在进行额外测试后解除了发布禁令。未来模型审批的约束性标准仍未出台。OpenAI表示，Sol模型在编程基准测试上以约一半的成本击败了Anthropic的Claude Mythos 5。本文《OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>法国热门初创公司ZML发布免费产品，加速多AI芯片推理速度</title>
 <link>https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3139750</guid>
@@ -288,12 +344,36 @@
 <description><![CDATA[【techcrunch.com】AI芯片制造商SambaNova在英特尔被传试图以约16亿美元收购其数月后，以110亿美元估值完成融资。<br/><br/><a href="https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>NVIDIA Cosmos框架教程：利用全模态混合Transformer设计适配Colab的Cosmos 3世界模型微型版</title>
+<link>https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80898</guid>
+<pubDate>Wed, 08 Jul 2026 07:15:35 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们从实用的Colab角度探索NVIDIA的cosmos-framework，同时如实说明运行真实Cosmos 3检查点所需的硬件条件。我们测试运行时性能，并以该框架的实际结构、CLI界面和输入模式为基础，构建并训练一个紧凑的全模态混合Transformer模型。该模型在共享跨模态注意力的同时，将每种模态路由至专属专家模块。通过使用合成物理世界数据和自回归展开方式，我们展示了模型如何预测文本、视觉和动作等模态的未来潜在状态。<br/><br/><a href="https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>黑客可利用9款最流行AI工具组建大规模僵尸网络</title>
 <link>https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</guid>
 <pubDate>Wed, 08 Jul 2026 07:00:51 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】"HalluSquatting"利用了大语言模型无法说"我不知道"的弱点。<br/><br/><a href="https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>蚂蚁集团 Robbyant 开源 LingBot-Vision：面向密集空间感知的 10 亿参数边界中心视觉基础模型</title>
+<link>https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80891</guid>
+<pubDate>Wed, 08 Jul 2026 03:03:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】蚂蚁集团 Robbyant 开源了 LingBot-Vision，这是一个用于密集空间感知的自监督 ViT 系列。掩码边界建模使图像边界成为原生训练信号。该 10 亿参数骨干模型匹配或超越更大模型，并初始化了 LingBot-Depth 2.0。本文《蚂蚁集团 Robbyant 开源 LingBot-Vision：面向密集空间感知的 10 亿参数边界中心视觉基础模型》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA发布Audex（Nemotron-Labs-Audex-30B-A3B）：一个保留骨干文本智能的统一音频-文本大语言模型</title>
+<link>https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80888</guid>
+<pubDate>Wed, 08 Jul 2026 00:50:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA的Nemotron-Labs-Audex-30B-A3B将音频理解、语音识别、翻译、文本转语音和音频生成统一到一个MoE模型中。它在保留Nemotron-Cascade-2骨干文本智能的同时，仅出现轻微性能回归。本文《NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>原生速度的 vLLM 变压器建模后端</title>
@@ -406,87 +486,6 @@
 <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】该公司刚刚获得700万美元的种子轮融资，并于周二在iPhone和Android平台推出其应用。<br/><br/><a href="https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI如何让机器人在工作场所——甚至家庭中——实现自主工作</title>
-<link>https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/</guid>
-<pubDate>Tue, 07 Jul 2026 11:00:18 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】顶尖机器人研究者和创始人解释机器人自主性如何演进。<br/><br/><a href="https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>智能已免费，接下来呢？面向智能体、由智能体、为智能体的数据系统</title>
-<link>http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/</link>
-<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/</guid>
-<pubDate>Tue, 07 Jul 2026 02:00:00 -0700</pubDate>
-<source>bair.berkeley.edu</source>
-<description><![CDATA[【bair.berkeley.edu】……民有、民治、民享的政府——亚伯拉罕·林肯，葛底斯堡演说（1863年）  
-AI的成本正在急剧下降。2023年初，GPT-4级别的能力每百万token成本约30美元；如今同样的服务不到1美元，部分供应商甚至将成本压至0.10美元以下。从各项基准来看，推理价格每年下降9倍至900倍不等，中位数降幅接近50倍。即便是前沿模型，每一代的价格也大幅降低，开源模型紧随其后。关键在于，即便“诺贝尔奖级天才水平”的智能<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在任何云上运行AI工作负载，存储于Hugging Face：SkyPilot实现零出站流量存储</title>
-<link>https://huggingface.co/blog/skypilot-hf-storage</link>
-<guid isPermaLink="false">https://huggingface.co/blog/skypilot-hf-storage</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/skypilot-hf-storage">阅读原文</a>]]></description>
-</item>
-<item>
-<title>LeRobot v0.6.0：想象、评估、改进</title>
-<link>https://huggingface.co/blog/lerobot-release-v060</link>
-<guid isPermaLink="false">https://huggingface.co/blog/lerobot-release-v060</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/lerobot-release-v060">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过高级模态条件与交互驯服文本到有声视频生成</title>
-<link>https://machinelearning.apple.com/research/sounding-video-generation</link>
-<guid isPermaLink="false">sounding-video-generation</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】本研究聚焦于文本到有声视频（T2SV）生成任务，旨在根据文本生成同步音频的视频，并使两种模态均与文本条件对齐。尽管联合音视频训练已取得进展，但仍存在两个关键挑战：（1）文本条件是瓶颈——共享字幕（TV=TA）会引发模态干扰，同时密集训练字幕与简洁推理用户提示之间存在差距；（2）跨模态特征交互的最优融合机制尚不明确。为解决第一个挑战，我们首先提出……<br/><br/><a href="https://machinelearning.apple.com/research/sounding-video-generation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DynaMiCS：利用动态混合在性能约束下微调大语言模型</title>
-<link>https://machinelearning.apple.com/research/dynamics-fine-tuning-llms</link>
-<guid isPermaLink="false">dynamics-fine-tuning-llms</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】大语言模型的多领域微调需要在提升目标领域性能的同时，保持对受限领域（如通用知识、指令遵循或安全评估）的性能。现有数据混合策略依赖固定启发式方法或自适应规则，无法明确强制保留这些能力。我们提出DynaMiCS，一种动态混合优化器，将多领域微调转化为约束优化问题。在每次更新中，DynaMiCS执行短期的领域特定探测运行，以估计局部斜率矩阵……<br/><br/><a href="https://machinelearning.apple.com/research/dynamics-fine-tuning-llms">阅读原文</a>]]></description>
-</item>
-<item>
-<title>LensVLM：面向文本压缩视觉表征的选择性上下文扩展</title>
-<link>https://machinelearning.apple.com/research/lensvlm-context-expansion</link>
-<guid isPermaLink="false">lensvlm-context-expansion</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】视觉语言模型（VLM）提供了将文本作为渲染图像处理的激动人心的可能性，从而无需将文本分词为长序列。由于VLM图像编码器将固定尺寸的图像映射为固定数量的视觉令牌，调整渲染分辨率便成为一种精细的压缩手段。然而，随着压缩程度增加，准确率会迅速下降：字符缩小至低于视觉编码器的有效分辨率，导致难以区分。为解决这一问题，我们提出了LensVLM，一种推理框架及训练后方案，使VLM能够扫描……<br/><br/><a href="https://machinelearning.apple.com/research/lensvlm-context-expansion">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MT-EditFlow：基于流匹配的多轮图像编辑强化学习</title>
-<link>https://machinelearning.apple.com/research/mt-editflow-image-editing</link>
-<guid isPermaLink="false">mt-editflow-image-editing</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】近期基于指令的图像编辑领域取得突破性进展，模型已能处理真实世界编辑需求，具备日常用户所需的实用性。然而，主要针对单轮编辑训练的模型在多轮编辑场景中常出现失效——这种自然交互场景下，用户需基于模型自身先前输出对图像进行迭代优化。该失效源于"全有或全无"的苛刻要求（单轮失败即破坏整个序列）以及误差传播（暴露偏差导致后续问题）……<br/><br/><a href="https://machinelearning.apple.com/research/mt-editflow-image-editing">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Weblica：面向视觉网络智能体的可扩展与可复现训练环境</title>
-<link>https://machinelearning.apple.com/research/weblica-visual-web-agents</link>
-<guid isPermaLink="false">weblica-visual-web-agents</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】网络环境复杂、开放且持续变化，这使得为视觉网络智能体扩展训练数据面临挑战。现有数据收集方法仍局限于用于监督微调的离线轨迹，或仅适用于强化学习训练的少量模拟环境，因此无法捕捉网络的多样性。我们提出Weblica（网络副本）框架，用于构建可复现且可扩展的网络环境。该框架利用1）HTTP级缓存来捕获并重放稳定的视觉状态，同时保持交互行为；2）基于大语言模型的环境合成……<br/><br/><a href="https://machinelearning.apple.com/research/weblica-visual-web-agents">阅读原文</a>]]></description>
-</item>
-<item>
-<title>FlowEval：基于参考的生成式用户界面评估</title>
-<link>https://machinelearning.apple.com/research/floweval-ui-evaluation</link>
-<guid isPermaLink="false">floweval-ui-evaluation</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】尽管大型语言模型（LLMs）和编码代理常被应用于用户界面（UI）开发，但开发者难以可靠评估其在视觉与交互设计方面的能力。现有评估方法要么依赖人类专家——他们能通过测试关键流程准确评估可用性，但速度慢且成本高；要么依赖自动化评判系统——虽可扩展但准确性较低且不透明。我们提出FlowEval，一种基于参考的框架，通过比较真实网站的导航轨迹，衡量生成的UI是否支持符合实际的交互流程。<br/><br/><a href="https://machinelearning.apple.com/research/floweval-ui-evaluation">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

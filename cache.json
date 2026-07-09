@@ -2806,5 +2806,17 @@
 "https://www.marktechpost.com/?p=80903": {
 "t": "OpenAI 发布 GPT-Live 和 GPT-Live-1 mini：全双工语音模型，将深层推理委托给 GPT-5.5",
 "s": "OpenAI 发布了 GPT-Live，这是一款新一代语音模型，现已为 ChatGPT Voice 提供支持。它采用全双工架构，能够同时听和说，并将搜索和推理任务委托给 GPT-5.5。本文《OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5》最初发表于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37544": {
+"t": "OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手",
+"s": "在2026年AtCoder世界巡回总决赛中，OpenAI系统在一场表演赛中碾压所有人类竞争对手，成功解决了算法组全部五道题目。其中两道题目被观察者评为异常困难。本文《OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80930": {
+"t": "NVIDIA发布Nemotron-Labs-3-Puzzle-75B-A9B：一种压缩混合MoE大语言模型，在匹配用户吞吐量下实现2.03倍服务器吞吐量",
+"s": "NVIDIA发布了Nemotron-Labs-3-Puzzle-75B-A9B，这是Nemotron-3-Super的压缩变体。迭代式Puzzle方法交替进行硬件感知的结构压缩和短知识蒸馏恢复阶段。该模型的总参数量从1207亿/活跃参数128亿降至753亿/93亿。在单个8xB200节点上，它在每位用户100 tok/s的速率下实现了Super模型总吞吐量的2.03倍。在单块H100上，100万token的并发量从1个请求提升至8个。该文章最初发布于NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput。"
+},
+"https://www.marktechpost.com/?p=80924": {
+"t": "Datalab Lift 与同类工具对比：9B 参数模式优先提取器如何与 NuExtract3、LlamaExtract、Marker 和 Docling 一较高下",
+"s": "Datalab 的 Lift 是一款专注的文档提取工具，其核心承诺是：输入 PDF 或图像以及 JSON 模式，它就能直接返回符合该模式的 JSON 数据。与先将文档转换为 Markdown 再让另一个模型提取字段的方式不同，Lift 直接读取渲染后的页面图像，并尝试输出最终结果。这篇文章《Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling》最初发表于 MarkTechPost。"
 }
 }
