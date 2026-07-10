@@ -3006,5 +3006,21 @@
 "https://the-decoder.com/?p=37589": {
 "t": "Bun 弃用 Zig 转向 Rust，借助 Claude Fable 5 在 11 天内编写超百万行代码",
 "s": "JavaScript 工具 Bun 已从 Zig 完全重写为 Rust，而 Anthropic 的 Fable 5 完成了大部分工作。文章《Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3140971": {
+"t": "SK海力士完成美国史上最大外国IPO，募资265亿美元，被敦促在美国新建晶圆厂",
+"s": "AI芯片热潮刚刚在华尔街创造了历史性时刻。如今，SK海力士和三星被要求在美国建设工厂。"
+},
+"https://the-decoder.com/?p=37600": {
+"t": "腾讯拟收购Manus多数股权，此前北京迫使Meta放弃20亿美元交易",
+"s": "据英国《金融时报》报道，在北京阻止Meta收购后，腾讯正洽谈以同样20亿美元估值收购AI智能体初创公司Manus的多数股权。腾讯认为此举与其自身智能体计划（包括微信相关项目）存在协同效应。美国公司Benchmark预计不会参与此次交易。本文《腾讯拟收购Manus多数股权，此前北京迫使Meta放弃20亿美元交易》首发于The Decoder。"
+},
+"https://github.blog/?p=97467": {
+"t": "更好的工具反而让 Copilot 代码审查变得更糟。以下是我们实际改进的方法。",
+"s": "通过将 Copilot 代码审查迁移到共享的 Unix 风格代码探索工具，并围绕拉取请求证据重塑代理工作流，我们降低了审查成本。本文最初发布于 GitHub 博客。"
+},
+"https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/": {
+"t": "欧盟要求Meta禁用自动播放和无限滚动，否则面临巨额罚款",
+"s": "《数字服务法案》可能迫使Meta对其平台进行重大调整。"
 }
 }
