@@ -3022,5 +3022,33 @@
 "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/": {
 "t": "欧盟要求Meta禁用自动播放和无限滚动，否则面临巨额罚款",
 "s": "《数字服务法案》可能迫使Meta对其平台进行重大调整。"
+},
+"https://techcrunch.com/?p=3141179": {
+"t": "苹果起诉OpenAI涉嫌窃取商业机密",
+"s": "苹果指控该不当行为由OpenAI高级管理层指使，其中包括一名长期前员工。"
+},
+"https://www.marktechpost.com/?p=80973": {
+"t": "Kyutai发布MuScriptor：一款用于多乐器音乐转录为MIDI的开源解码器专用Transformer",
+"s": "MuScriptor是Kyutai与Mirelo联合开发的一款开源、解码器专用的Transformer模型。该模型基于17万条真实录音及145万条合成MIDI数据进行训练，能够将完整的多乐器混音转录为MIDI格式。文章介绍了其三阶段处理流程、与YourMT3+的基准对比、乐器条件控制及配置方法，并提供了交互式解释器演示。本文原载于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80969": {
+"t": "如何构建一个T4友好的自主数据科学代理：结合DeepAnalyze-8B、沙盒代码执行与迭代分析",
+"s": "我们围绕DeepAnalyze-8B构建了一个自主数据科学代理，并进行了端到端运行。我们准备了一个稳定的Colab运行时环境，安装机器学习依赖项，并以4位模式加载分词器和模型，以适应有限的GPU内存。我们添加了一个沙盒执行环境，使模型能够生成Python代码、安全运行、观察结果，并在代理循环中持续迭代。随后，我们将一个包含多个文件的电商工作区交给代理，让它进行数据清洗、合并、分析、可视化，并最终生成一份分析师级别的报告。"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3141193": {
+"t": "拥抱脸CEO克莱姆·德朗格：开源AI比以往任何时候都更重要",
+"s": "拥抱脸CEO克莱姆·德朗格表示，开源AI正在蓬勃发展。近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在此分享和下载开源模型与数据集，目前约有一半的《财富》500强企业使用其服务。德朗格观察到同样的故事一再上演：企业从……"
+},
+"https://the-decoder.com/?p=37610": {
+"t": "OpenAI的GPT-5.6 Sol通过“相当模糊的提示”自主对较小模型Luna进行后训练",
+"s": "据OpenAI称，GPT-5.6 Sol在单个“相当模糊的提示”触发下，独立对较小的Luna模型进行了微调。在OpenAI内部针对递归自我改进的RSI基准测试中，Sol得分比GPT-5.5高出16.2分。OpenAI认为“自动化研究员”已触手可及。本文《OpenAI的GPT-5.6 Sol通过“相当模糊的提示”自主对较小模型Luna进行后训练》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37604": {
+"t": "OpenAI员工详解GPT-5.6 Sol的五级推理能力如何匹配不同任务复杂度",
+"s": "GPT-5.6 Sol配备了从\"轻量\"到\"极高\"的五级推理能力，外加\"最大\"和\"极致\"模式，可并行部署多个子智能体。OpenAI的Vaibhav Srivastav建议从低级别开始，仅在必要时升级。本文《OpenAI员工详解GPT-5.6 Sol的五级推理能力如何匹配不同任务复杂度》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3140997": {
+"t": "Hugging Face CEO谈为何企业不再租用AI",
+"s": "据Hugging Face首席执行官Clem Delangue称，开源AI正在蓬勃发展。近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在此分享和下载开源模型与数据集，目前约有一半的《财富》500强企业正在使用其服务。Delangue反复观察到同样的现象：企业开始……"
 }
 }

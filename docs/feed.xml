@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 10 Jul 2026 17:41:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 21:00:42 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>苹果起诉OpenAI涉嫌窃取商业机密</title>
+<link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3141179</guid>
+<pubDate>Fri, 10 Jul 2026 20:32:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】苹果指控该不当行为由OpenAI高级管理层指使，其中包括一名长期前员工。<br/><br/><a href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Kyutai发布MuScriptor：一款用于多乐器音乐转录为MIDI的开源解码器专用Transformer</title>
+<link>https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80973</guid>
+<pubDate>Fri, 10 Jul 2026 20:21:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】MuScriptor是Kyutai与Mirelo联合开发的一款开源、解码器专用的Transformer模型。该模型基于17万条真实录音及145万条合成MIDI数据进行训练，能够将完整的多乐器混音转录为MIDI格式。文章介绍了其三阶段处理流程、与YourMT3+的基准对比、乐器条件控制及配置方法，并提供了交互式解释器演示。本文原载于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如何构建一个T4友好的自主数据科学代理：结合DeepAnalyze-8B、沙盒代码执行与迭代分析</title>
+<link>https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80969</guid>
+<pubDate>Fri, 10 Jul 2026 19:24:00 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们围绕DeepAnalyze-8B构建了一个自主数据科学代理，并进行了端到端运行。我们准备了一个稳定的Colab运行时环境，安装机器学习依赖项，并以4位模式加载分词器和模型，以适应有限的GPU内存。我们添加了一个沙盒执行环境，使模型能够生成Python代码、安全运行、观察结果，并在代理循环中持续迭代。随后，我们将一个包含多个文件的电商工作区交给代理，让它进行数据清洗、合并、分析、可视化，并最终生成一份分析师级别的报告。<br/><br/><a href="https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>拥抱脸CEO克莱姆·德朗格：开源AI比以往任何时候都更重要</title>
+<link>https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3141193</guid>
+<pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】拥抱脸CEO克莱姆·德朗格表示，开源AI正在蓬勃发展。近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在此分享和下载开源模型与数据集，目前约有一半的《财富》500强企业使用其服务。德朗格观察到同样的故事一再上演：企业从……<br/><br/><a href="https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI的GPT-5.6 Sol通过“相当模糊的提示”自主对较小模型Luna进行后训练</title>
+<link>https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37610</guid>
+<pubDate>Fri, 10 Jul 2026 18:43:47 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据OpenAI称，GPT-5.6 Sol在单个“相当模糊的提示”触发下，独立对较小的Luna模型进行了微调。在OpenAI内部针对递归自我改进的RSI基准测试中，Sol得分比GPT-5.5高出16.2分。OpenAI认为“自动化研究员”已触手可及。本文《OpenAI的GPT-5.6 Sol通过“相当模糊的提示”自主对较小模型Luna进行后训练》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI员工详解GPT-5.6 Sol的五级推理能力如何匹配不同任务复杂度</title>
+<link>https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37604</guid>
+<pubDate>Fri, 10 Jul 2026 17:52:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】GPT-5.6 Sol配备了从"轻量"到"极高"的五级推理能力，外加"最大"和"极致"模式，可并行部署多个子智能体。OpenAI的Vaibhav Srivastav建议从低级别开始，仅在必要时升级。本文《OpenAI员工详解GPT-5.6 Sol的五级推理能力如何匹配不同任务复杂度》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>SK海力士完成美国史上最大外国IPO，募资265亿美元，被敦促在美国新建晶圆厂</title>
 <link>https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/</link>
@@ -38,6 +86,14 @@
 <pubDate>Fri, 10 Jul 2026 15:46:18 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】《数字服务法案》可能迫使Meta对其平台进行重大调整。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hugging Face CEO谈为何企业不再租用AI</title>
+<link>https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3140997</guid>
+<pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】据Hugging Face首席执行官Clem Delangue称，开源AI正在蓬勃发展。近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在此分享和下载开源模型与数据集，目前约有一半的《财富》500强企业正在使用其服务。Delangue反复观察到同样的现象：企业开始……<br/><br/><a href="https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>优化公有云区域的智能分层缓存</title>
@@ -312,14 +368,6 @@
 <description><![CDATA[【techcrunch.com】Claude 的新 Reflect 仪表盘不仅可视化你如何使用 AI，还微妙地强化了你日常工作中多少已依赖 Anthropic 的聊天机器人。<br/><br/><a href="https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic、OpenAI 和 SpaceX 的规模超过了过去25年的科技退出案例</title>
-<link>https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140464</guid>
-<pubDate>Thu, 09 Jul 2026 14:51:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】三大AI公司的IPO将创造比2000年以来所有美国风投支持的退出案例更多的价值。<br/><br/><a href="https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>为何我们不能等待更好的后量子签名算法</title>
 <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
 <guid isPermaLink="false">5wMIF1Oa7DES2YNRpqiVB0</guid>
@@ -344,30 +392,6 @@
 <description><![CDATA[【openai.com】了解 GPT-5.6 如何以更强的 AI 能力驱动 Microsoft 365 Copilot，在 Word、Excel、PowerPoint、Chat 和 Cowork 中实现更快速、更高质量的工作。<br/><br/><a href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot">阅读原文</a>]]></description>
 </item>
 <item>
-<title>热门开源AI开发者工具Ollama融资6500万美元，用户数接近900万</title>
-<link>https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140214</guid>
-<pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】由Benchmark投资的Ollama通过帮助开发者轻松在个人电脑上运行AI，已在GitHub上累计获得17.6万颗星标和近1.7万个分支。<br/><br/><a href="https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Character.AI 携自制作品进军微短剧领域，但玩法有新意</title>
-<link>https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140394</guid>
-<pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】一个有趣的转折是，利用公司的核心产品，用户可以与这些剧集中的角色聊天、向它们提问，甚至扮演不同的故事情节。<br/><br/><a href="https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus</title>
-<link>https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37551</guid>
-<pubDate>Thu, 09 Jul 2026 11:03:39 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Databricks在其数百万行代码库中对编码代理进行了基准测试，发现中国开源模型GLM 5.2在每任务成本1.28美元（对比1.94美元）的情况下，性能与Anthropic的Opus 4.8相当。该公司计划将其作为日常编码主力工具推广。其更广泛的结论是：没有单一供应商占据主导地位，企业应构建自己的基准测试，而非依赖公开测试。文章《Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GPT-5.6：随你雄心扩展的前沿智能</title>
 <link>https://openai.com/index/gpt-5-6</link>
 <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
@@ -390,14 +414,6 @@
 <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】关于 OpenAI 生物漏洞赏金计划的详细信息<br/><br/><a href="https://openai.com/index/bio-bug-bounty">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手</title>
-<link>https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37544</guid>
-<pubDate>Thu, 09 Jul 2026 09:56:57 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】在2026年AtCoder世界巡回总决赛中，OpenAI系统在一场表演赛中碾压所有人类竞争对手，成功解决了算法组全部五道题目。其中两道题目被观察者评为异常困难。本文《OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google AI Studio 在构建模式中新增“从 GitHub 导入”功能，将现有仓库转化为可编辑、可部署的应用</title>
@@ -448,14 +464,6 @@
 <description><![CDATA[【machinelearning.apple.com】同策略蒸馏为训练推理模型提供了密集的逐令牌监督信号；然而，目前尚不清楚在何种条件下该信号有益，在何种条件下有害。应使用哪种教师模型？在自蒸馏情况下，应选择何种具体上下文作为监督信号？最优选择是否会因令牌不同而变化？目前，回答这些问题通常需要成本高昂的训练过程，而聚合性能指标掩盖了单个令牌层面的动态变化。我们提出了一种无需训练的方法……<br/><br/><a href="https://machinelearning.apple.com/research/unmasking-on-policy-distillation">阅读原文</a>]]></description>
 </item>
 <item>
-<title>SpaceXAI 发布 Grok 4.5，一款针对编程、智能体任务和知识工作训练的 Cursor 模型，输入价格每百万 token 2 美元</title>
-<link>https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80914</guid>
-<pubDate>Wed, 08 Jul 2026 23:54:28 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】SpaceXAI 发布了 Grok 4.5，这是一款基于 Cursor 训练的模型，专为编程、智能体任务和知识工作设计。该模型以每秒 80 个 token 的速度运行，每百万 token 成本为 2 美元（输入）/6 美元（输出），并在 Harvey 法律智能体基准测试中排名第一。本文 SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input 最早出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>怀疑学生用AI作弊，常春藤教授要求线下期末考试；成绩下降50%</title>
 <link>https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</guid>
@@ -470,14 +478,6 @@
 <pubDate>Wed, 08 Jul 2026 21:11:56 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Netflix AI团队通过按ID拆分Cassandra分区，将宽分区读取延迟从秒级降至毫秒级</title>
-<link>https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80911</guid>
-<pubDate>Wed, 08 Jul 2026 21:00:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Netflix工程师详细介绍了他们如何在Apache Cassandra中处理宽分区，以支持时间序列抽象。两种方法协同工作：时间切片重新分区在表级别调整未来分区，而动态分区则在读取路径上按时间序列ID检测并拆分过大的分区。检测通过字节计数和Kafka进行，拆分经过校验和验证，布隆过滤器将读取路由到并行的子分区。平均读取延迟从秒级降至低两位数毫秒级，500MB以上的分区仍保持可用。<br/><br/><a href="https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>诉讼：男子利用Grok制作7000张继女性感图片后自杀</title>
