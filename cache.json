@@ -2974,5 +2974,21 @@
 "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/": {
 "t": "OpenAI 希望其新工具能代你完成工作，并与你协作",
 "s": "更名后的 Codex 承诺提供独立工作流，可“在需要时运行数小时”。"
+},
+"https://www.marktechpost.com/?p=80962": {
+"t": "Google Research 推出 SensorFM：基于一万亿分钟传感器数据预训练的可穿戴健康基础模型",
+"s": "SensorFM 是由 Google Research、Google DeepMind 及多所高校合作研发的可穿戴健康基础模型。本文梳理了其 ViT-1D 掩码自编码器主干架构——该模型基于来自 500 万名知情参与者的超过一万亿分钟未标注传感器信号进行预训练。我们考察了四种模型规模与四种数据量下的协同扩展结果，包括模型容量超出数据量的极端情况。研究显示，在 35 项任务中，冻结嵌入特征结合 PCA-50 线性探针在 34 项上超越了基于特征工程的基线方法。此外，我们还回顾了自主化实验框架——该框架对 30,516 个预测头进行了系统搜索。"
+},
+"https://openai.com/index/deutsche-telekom": {
+"t": "德国电信如何用AI重塑电信行业",
+"s": "德国电信正通过与OpenAI合作，转型为AI原生电信公司，变革客户服务、员工工作流、网络运营以及语音技术的未来。"
+},
+"https://www.marktechpost.com/?p=80959": {
+"t": "认识LingBot-World-Infinity：一个带有智能体控制框架的开放因果世界模型",
+"s": "蚂蚁集团具身智能部门Robbyant发布了LingBot-World-Infinity（LingBot-World 2.0）。这是一个140亿参数的因果视频生成模型，可作为交互式世界模拟器运行。其核心思想是双向与自回归混合注意力掩码（MoBA），并结合在长自展开轨迹上应用的分布匹配蒸馏技术。两者共同针对长程漂移问题——即大多数交互式世界模型中导致纹理模糊和几何扭曲的失效模式。一个“导演-飞行员”智能体控制框架封装了该生成器，其中视觉语言模型（VLM）提出事件，而D"
+},
+"https://huggingface.co/blog/torch-attention-profile": {
+"t": "PyTorch 中的性能分析（第三部分）：注意力即分析",
+"s": ""
 }
 }
