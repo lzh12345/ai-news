@@ -2990,5 +2990,21 @@
 "https://huggingface.co/blog/torch-attention-profile": {
 "t": "PyTorch 中的性能分析（第三部分）：注意力即分析",
 "s": ""
+},
+"2smERhDvpGH6FbC035djwD": {
+"t": "优化公有云区域的智能分层缓存",
+"s": "智能分层缓存支持通过客户提供的云区域提示，为托管在AWS、GCP、Azure和Oracle Cloud上的源站实现精确的上层缓存节点选择。"
+},
+"https://the-decoder.com/?p=37593": {
+"t": "OpenAI 推出仅八个月的 Atlas 浏览器被砍，所有功能并入 ChatGPT",
+"s": "OpenAI 在推出不到八个月后，决定停用其 AI 浏览器 Atlas。其功能将整合到 ChatGPT 更新的 Chrome 扩展中，用户可直接在 Chrome 侧边栏运行 ChatGPT。Atlas 加入了 OpenAI 不断增加的废弃产品名单。本文《OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=37592": {
+"t": "美联储希望AI投资者马克·安德森帮助判断AI能否抑制通胀",
+"s": "美联储主席凯文·沃什已任命风险投资家马克·安德森为美联储提供人工智能经济影响方面的建议。沃什将AI视为“重要的通缩力量”，但安德森的公司安德森·霍洛维茨在AI公司中投资巨大，引发了利益冲突的质疑。本文《美联储希望AI投资者马克·安德森帮助判断AI能否抑制通胀》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37589": {
+"t": "Bun 弃用 Zig 转向 Rust，借助 Claude Fable 5 在 11 天内编写超百万行代码",
+"s": "JavaScript 工具 Bun 已从 Zig 完全重写为 Rust，而 Anthropic 的 Fable 5 完成了大部分工作。文章《Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days》最初发表于 The Decoder。"
 }
 }

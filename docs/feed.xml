@@ -5,15 +5,39 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 10 Jul 2026 10:45:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 14:03:39 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Google Research 推出 SensorFM：基于一万亿分钟传感器数据预训练的可穿戴健康基础模型</title>
-<link>https://www.marktechpost.com/2026/07/10/google-research-introduces-sensorfm-a-wearable-health-foundation-model-pretrained-on-one-trillion-minutes-of-sensor-data/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80962</guid>
-<pubDate>Fri, 10 Jul 2026 08:52:04 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】SensorFM 是由 Google Research、Google DeepMind 及多所高校合作研发的可穿戴健康基础模型。本文梳理了其 ViT-1D 掩码自编码器主干架构——该模型基于来自 500 万名知情参与者的超过一万亿分钟未标注传感器信号进行预训练。我们考察了四种模型规模与四种数据量下的协同扩展结果，包括模型容量超出数据量的极端情况。研究显示，在 35 项任务中，冻结嵌入特征结合 PCA-50 线性探针在 34 项上超越了基于特征工程的基线方法。此外，我们还回顾了自主化实验框架——该框架对 30,516 个预测头进行了系统搜索。<br/><br/><a href="https://www.marktechpost.com/2026/07/10/google-research-introduces-sensorfm-a-wearable-health-foundation-model-pretrained-on-one-trillion-minutes-of-sensor-data/">阅读原文</a>]]></description>
+<title>优化公有云区域的智能分层缓存</title>
+<link>https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/</link>
+<guid isPermaLink="false">2smERhDvpGH6FbC035djwD</guid>
+<pubDate>Fri, 10 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】智能分层缓存支持通过客户提供的云区域提示，为托管在AWS、GCP、Azure和Oracle Cloud上的源站实现精确的上层缓存节点选择。<br/><br/><a href="https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 推出仅八个月的 Atlas 浏览器被砍，所有功能并入 ChatGPT</title>
+<link>https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37593</guid>
+<pubDate>Fri, 10 Jul 2026 12:19:21 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI 在推出不到八个月后，决定停用其 AI 浏览器 Atlas。其功能将整合到 ChatGPT 更新的 Chrome 扩展中，用户可直接在 Chrome 侧边栏运行 ChatGPT。Atlas 加入了 OpenAI 不断增加的废弃产品名单。本文《OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美联储希望AI投资者马克·安德森帮助判断AI能否抑制通胀</title>
+<link>https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37592</guid>
+<pubDate>Fri, 10 Jul 2026 12:18:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】美联储主席凯文·沃什已任命风险投资家马克·安德森为美联储提供人工智能经济影响方面的建议。沃什将AI视为“重要的通缩力量”，但安德森的公司安德森·霍洛维茨在AI公司中投资巨大，引发了利益冲突的质疑。本文《美联储希望AI投资者马克·安德森帮助判断AI能否抑制通胀》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Bun 弃用 Zig 转向 Rust，借助 Claude Fable 5 在 11 天内编写超百万行代码</title>
+<link>https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37589</guid>
+<pubDate>Fri, 10 Jul 2026 11:09:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】JavaScript 工具 Bun 已从 Zig 完全重写为 Rust，而 Anthropic 的 Fable 5 完成了大部分工作。文章《Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>德国电信如何用AI重塑电信行业</title>
@@ -22,14 +46,6 @@
 <pubDate>Fri, 10 Jul 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】德国电信正通过与OpenAI合作，转型为AI原生电信公司，变革客户服务、员工工作流、网络运营以及语音技术的未来。<br/><br/><a href="https://openai.com/index/deutsche-telekom">阅读原文</a>]]></description>
-</item>
-<item>
-<title>认识LingBot-World-Infinity：一个带有智能体控制框架的开放因果世界模型</title>
-<link>https://www.marktechpost.com/2026/07/09/meet-lingbot-world-infinity-an-open-causal-world-model-with-an-agentic-harness/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80959</guid>
-<pubDate>Fri, 10 Jul 2026 04:38:20 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】蚂蚁集团具身智能部门Robbyant发布了LingBot-World-Infinity（LingBot-World 2.0）。这是一个140亿参数的因果视频生成模型，可作为交互式世界模拟器运行。其核心思想是双向与自回归混合注意力掩码（MoBA），并结合在长自展开轨迹上应用的分布匹配蒸馏技术。两者共同针对长程漂移问题——即大多数交互式世界模型中导致纹理模糊和几何扭曲的失效模式。一个“导演-飞行员”智能体控制框架封装了该生成器，其中视觉语言模型（VLM）提出事件，而D<br/><br/><a href="https://www.marktechpost.com/2026/07/09/meet-lingbot-world-infinity-an-open-causal-world-model-with-an-agentic-harness/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI称GPT 5.6是微软Copilot 365的“首选模型”，分手传闻不断</title>
@@ -54,14 +70,6 @@
 <pubDate>Thu, 09 Jul 2026 23:38:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI 二号高管 Fidji Simo 在医疗休假时间超出预期后，将辞去全职职务——这一领导层空缺出现在公司面临可能进行首次公开募股（IPO）并追赶 Anthropic 在企业市场地位的棘手时期。<br/><br/><a href="https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta超级智能实验室发布Muse Spark 1.1：面向Meta模型API的智能体任务多模态推理模型</title>
-<link>https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80945</guid>
-<pubDate>Thu, 09 Jul 2026 22:26:16 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta超级智能实验室于2026年7月9日发布了Muse Spark 1.1，同时推出了Meta模型API的公开预览版。该模型专为智能体任务构建，具备多模态推理能力，拥有100万token的上下文窗口（模型可主动压缩），对新工具和MCP服务器具有零样本泛化能力，并支持跨并行子智能体的多智能体委派。Meta自家的发布表格显示，该模型在工具使用方面领先，但在编程能力上落后于Opus 4.8和GPT-5.5。本文《Meta超级智能实验室发布Muse Spark 1.1：面向Meta模型API的智能体任务多模态推理模型》最初发表于Mar。<br/><br/><a href="https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI 推出其新系列模型 GPT-5.6</title>
@@ -112,14 +120,6 @@
 <description><![CDATA[【arstechnica.com】更名后的 Codex 承诺提供独立工作流，可“在需要时运行数小时”。<br/><br/><a href="https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI发布GPT-5.6（Sol、Terra、Luna）：一个包含三层模型家族，在Responses API中支持程序化工具调用</title>
-<link>https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80942</guid>
-<pubDate>Thu, 09 Jul 2026 20:45:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI于2026年7月9日将GPT-5.6全面开放，推出了三个层级而非单一模型。Sol每100万token价格为5美元/30美元，Terra为2.50美元/15美元，Luna为1美元/6美元。Sol在Artificial Analysis编码代理指数上达到80分，比Claude Fable 5高出2.8分，并在OSWorld 2.0上达到62.6%的准确率，同时比Opus 4.8少使用85%的输出token。对开发者而言，实质性的变化是程序化工具调用，它在隔离的V8运行时中运行模型编写的JavaScript，以编排工具，无需将每个中间结果返回给模型。Clio报告提示token减少了38%，PlayCo减少了63.5%。<br/><br/><a href="https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>外科医生操控的人形机器人完成全球首例活猪手术</title>
 <link>https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/</guid>
@@ -134,14 +134,6 @@
 <pubDate>Thu, 09 Jul 2026 19:40:45 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Meta 向用户推介 Spark 的卖点在于其能够处理大型智能体工作负载、修复漏洞，并协助完成大规模代码迁移——这类自动化正是企业日益依赖AI公司提供的服务。<br/><br/><a href="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA发布Nemotron-Labs-3-Puzzle-75B-A9B：一种压缩混合MoE大语言模型，在匹配用户吞吐量下实现2.03倍服务器吞吐量</title>
-<link>https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80930</guid>
-<pubDate>Thu, 09 Jul 2026 19:31:25 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA发布了Nemotron-Labs-3-Puzzle-75B-A9B，这是Nemotron-3-Super的压缩变体。迭代式Puzzle方法交替进行硬件感知的结构压缩和短知识蒸馏恢复阶段。该模型的总参数量从1207亿/活跃参数128亿降至753亿/93亿。在单个8xB200节点上，它在每位用户100 tok/s的速率下实现了Super模型总吞吐量的2.03倍。在单块H100上，100万token的并发量从1个请求提升至8个。该文章最初发布于NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput。<br/><br/><a href="https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>《纽约时报》称OpenAI在ChatGPT版权审判中隐瞒证据</title>
@@ -344,36 +336,12 @@
 <description><![CDATA[【the-decoder.com】在2026年AtCoder世界巡回总决赛中，OpenAI系统在一场表演赛中碾压所有人类竞争对手，成功解决了算法组全部五道题目。其中两道题目被观察者评为异常困难。本文《OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google AI Studio 在构建模式中新增“从 GitHub 导入”功能，将现有仓库转化为可编辑、可部署的应用</title>
-<link>https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80907</guid>
-<pubDate>Thu, 09 Jul 2026 07:58:06 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google AI Studio 正在推出构建模式下的“从 GitHub 导入”功能。该功能可将现有仓库转换为运行时兼容的格式，随后开发者可以对其进行迭代、部署等操作。以下是这一变化对开发者的影响。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Datalab Lift 与同类工具对比：9B 参数模式优先提取器如何与 NuExtract3、LlamaExtract、Marker 和 Docling 一较高下</title>
-<link>https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80924</guid>
-<pubDate>Thu, 09 Jul 2026 07:50:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Datalab 的 Lift 是一款专注的文档提取工具，其核心承诺是：输入 PDF 或图像以及 JSON 模式，它就能直接返回符合该模式的 JSON 数据。与先将文档转换为 Markdown 再让另一个模型提取字段的方式不同，Lift 直接读取渲染后的页面图像，并尝试输出最终结果。这篇文章《Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要</title>
 <link>https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=37535</guid>
 <pubDate>Thu, 09 Jul 2026 07:47:44 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】xAI 发布了 Grok 4.5，该模型在数万块 Nvidia GB300 GPU 上训练而成。在编程基准测试中，该模型落后于 Fable 5 和 GPT-5.5，但所需 token 数比 Opus 4.8 少 4.2 倍。以每百万输入 token 2 美元的价格计算，其成本仅为竞争对手的一小部分。预计将于 7 月中旬在欧盟上市。文章《Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Robbyant发布LingBot-VLA 2.0：一个用于跨实体机器人操作的开源6B视觉-语言-动作（VLA）模型</title>
-<link>https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80919</guid>
-<pubDate>Thu, 09 Jul 2026 00:45:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】蚂蚁集团的Robbyant发布了LingBot-VLA 2.0，这是一个基于Apache-2.0许可的视觉-语言-动作模型，用于跨实体机器人操作。该6B检查点在大约6万小时的数据上进行了预训练，涵盖20种机器人配置的5万小时机器人轨迹和1万小时第一人称人类视频。它将每个实体映射到一个单一的55维规范动作空间，覆盖手臂、灵巧手、腰部、头部和移动底座。一个基于令牌级、无辅助损失的混合专家动作专家在不增加负载平衡损失的情况下扩展了容量。双查询蒸馏<br/><br/><a href="https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>激励自我中心视频理解模型的时间感知能力</title>
@@ -400,14 +368,6 @@
 <description><![CDATA[【machinelearning.apple.com】同策略蒸馏为训练推理模型提供了密集的逐令牌监督信号；然而，目前尚不清楚在何种条件下该信号有益，在何种条件下有害。应使用哪种教师模型？在自蒸馏情况下，应选择何种具体上下文作为监督信号？最优选择是否会因令牌不同而变化？目前，回答这些问题通常需要成本高昂的训练过程，而聚合性能指标掩盖了单个令牌层面的动态变化。我们提出了一种无需训练的方法……<br/><br/><a href="https://machinelearning.apple.com/research/unmasking-on-policy-distillation">阅读原文</a>]]></description>
 </item>
 <item>
-<title>SpaceXAI 发布 Grok 4.5，一款针对编程、智能体任务和知识工作训练的 Cursor 模型，输入价格每百万 token 2 美元</title>
-<link>https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80914</guid>
-<pubDate>Wed, 08 Jul 2026 23:54:28 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】SpaceXAI 发布了 Grok 4.5，这是一款基于 Cursor 训练的模型，专为编程、智能体任务和知识工作设计。该模型以每秒 80 个 token 的速度运行，每百万 token 成本为 2 美元（输入）/6 美元（输出），并在 Harvey 法律智能体基准测试中排名第一。本文 SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input 最早出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>怀疑学生用AI作弊，常春藤教授要求线下期末考试；成绩下降50%</title>
 <link>https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</guid>
@@ -422,14 +382,6 @@
 <pubDate>Wed, 08 Jul 2026 21:11:56 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Netflix AI团队通过按ID拆分Cassandra分区，将宽分区读取延迟从秒级降至毫秒级</title>
-<link>https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80911</guid>
-<pubDate>Wed, 08 Jul 2026 21:00:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Netflix工程师详细介绍了他们如何在Apache Cassandra中处理宽分区，以支持时间序列抽象。两种方法协同工作：时间切片重新分区在表级别调整未来分区，而动态分区则在读取路径上按时间序列ID检测并拆分过大的分区。检测通过字节计数和Kafka进行，拆分经过校验和验证，布隆过滤器将读取路由到并行的子分区。平均读取延迟从秒级降至低两位数毫秒级，500MB以上的分区仍保持可用。<br/><br/><a href="https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>诉讼：男子利用Grok制作7000张继女性感图片后自杀</title>
@@ -448,22 +400,6 @@
 <description><![CDATA[【github.blog】6月份，我们遇到了六起导致GitHub服务性能下降的事件。此篇GitHub可用性报告：2026年6月最初发布于GitHub博客。<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-june-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>ChatGPT 现在可以同时听和说，让AI对话更显人性化</title>
-<link>https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37527</guid>
-<pubDate>Wed, 08 Jul 2026 18:18:55 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI的GPT-Live采用全双工架构，能够同时进行听和说。复杂问题会在后台交由GPT-5.5处理，大幅提升回复质量。GPT-Live-1现已面向付费ChatGPT用户开放，免费账户可使用迷你版本。API访问即将推出。本文《ChatGPT can now listen and talk at the same time, making AI conversations seem more human》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Mistral 进军机器人领域，推出 Robostral Navigate：仅凭单摄像头即可操控机器人的 8B 模型</title>
-<link>https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37524</guid>
-<pubDate>Wed, 08 Jul 2026 17:23:17 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Mistral 正进军机器人市场，推出 Robostral Navigate——一款仅凭单个 RGB 摄像头就能引导机器人在未知环境中导航的 8B 模型。该模型在模拟环境中训练，并通过强化学习（CISPO）进行优化，在 R2R-CE 基准测试中达到了 76.6% 的准确率。Mistral 尚未公布该模型的具体上市时间。本文《Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>面向智能体的数据</title>
 <link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
 <guid isPermaLink="false">https://huggingface.co/blog/nvidia/open-data-for-agents</guid>
@@ -480,12 +416,76 @@
 <description><![CDATA[【arstechnica.com】Android Bench正在不断演进，开发者可以协助引导这一进程。<br/><br/><a href="https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic解决Fable 5高成本的方案：将其转变为向Sonnet 5委派任务的“管理者”</title>
-<link>https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37516</guid>
-<pubDate>Wed, 08 Jul 2026 16:25:07 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic建议将昂贵的Claude Fable 5主要用作较小模型的规划器，而非在每个任务上都运行它。通过与Sonnet 5结合使用“顾问”模式，这一设置能以Fable 5单独运行63%的成本，达到其92%的性能。本文《Anthropic解决Fable 5高成本的方案：将其转变为向Sonnet 5委派任务的“管理者”》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/">阅读原文</a>]]></description>
+<title>GitHub Copilot 如何实现 GitHub Pages 的零 DNS 配置</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/</link>
+<guid isPermaLink="false">https://github.blog/?p=97349</guid>
+<pubDate>Wed, 08 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】从空仓库到拥有 HTTPS 的自定义域名上线，仅需约 14 分钟，无需手动编辑任何 DNS 记录。本文《How GitHub Copilot enables zero DNS configuration for GitHub Pages》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们与政府及国家安全合作的方针</title>
+<link>https://openai.com/index/government-national-security-partnerships</link>
+<guid isPermaLink="false">https://openai.com/index/government-national-security-partnerships</guid>
+<pubDate>Wed, 08 Jul 2026 13:30:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】了解OpenAI如何以负责任的人工智能使用、民主问责制和公共安全为原则，开展与政府及国家安全的合作。<br/><br/><a href="https://openai.com/index/government-national-security-partnerships">阅读原文</a>]]></description>
+</item>
+<item>
+<title>在编程评估中区分信号与噪声</title>
+<link>https://openai.com/index/separating-signal-from-noise-coding-evaluations</link>
+<guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations</guid>
+<pubDate>Wed, 08 Jul 2026 13:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI的一项新分析揭示了热门编程基准测试SWE-Bench Pro存在的问题，引发了对评估AI模型可靠性和准确性的担忧。<br/><br/><a href="https://openai.com/index/separating-signal-from-noise-coding-evaluations">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出Meerkat：一项全球共识机制的实验</title>
+<link>https://blog.cloudflare.com/meerkat-introduction/</link>
+<guid isPermaLink="false">7zbgYCOZDfvIIsVrPpZ8xJ</guid>
+<pubDate>Wed, 08 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare Research正在构建一项名为Meerkat的全球共识服务，该服务采用名为QuePaxa的新型共识算法。我们计划利用Meerkat来构建一个强一致性、容错的键值存储系统及其他应用。<br/><br/><a href="https://blog.cloudflare.com/meerkat-introduction/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>帮助K-12教育工作者培养实用AI技能</title>
+<link>https://openai.com/index/k-12-educators-practical-skills</link>
+<guid isPermaLink="false">https://openai.com/index/k-12-educators-practical-skills</guid>
+<pubDate>Wed, 08 Jul 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI学院与沃尔顿家族基金会合作，推出实践性AI技能工作坊，旨在帮助K-12教育工作者掌握课堂所需的实用AI技能。<br/><br/><a href="https://openai.com/index/k-12-educators-practical-skills">阅读原文</a>]]></description>
+</item>
+<item>
+<title>黑客可利用9款最流行AI工具组建大规模僵尸网络</title>
+<link>https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</guid>
+<pubDate>Wed, 08 Jul 2026 07:00:51 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】"HalluSquatting"利用了大语言模型无法说"我不知道"的弱点。<br/><br/><a href="https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>原生速度的 vLLM 变压器建模后端</title>
+<link>https://huggingface.co/blog/native-speed-vllm-transformers-backend</link>
+<guid isPermaLink="false">https://huggingface.co/blog/native-speed-vllm-transformers-backend</guid>
+<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】(无)<br/><br/><a href="https://huggingface.co/blog/native-speed-vllm-transformers-backend">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-Live 正式发布</title>
+<link>https://openai.com/index/introducing-gpt-live</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-gpt-live</guid>
+<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】新一代语音模型，实现自然的人机交互，现已为 ChatGPT 语音功能提供支持。<br/><br/><a href="https://openai.com/index/introducing-gpt-live">阅读原文</a>]]></description>
+</item>
+<item>
+<title>从 Hugging Face 到 Amazon SageMaker Studio 一键部署</title>
+<link>https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</link>
+<guid isPermaLink="false">https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</guid>
+<pubDate>Tue, 07 Jul 2026 21:15:33 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
