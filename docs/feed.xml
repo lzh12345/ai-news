@@ -5,13 +5,29 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 10 Jul 2026 21:00:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 01:53:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meta在遭到强烈反对后移除Instagram上争议性AI功能</title>
+<link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3141357</guid>
+<pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】该公司在一篇博客文章中表示：“我们的初衷是提供一个有用的创意工具，并让人们能够控制自己的公开内容是否以这种方式被引用。我们已收到反馈，认为这一功能未能达到预期效果，因此已将其下架。”<br/><br/><a href="https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI的GPT-5.6 Sol通过“相当模糊的提示”自主对较小模型Luna进行后训练</title>
+<link>https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37610</guid>
+<pubDate>Fri, 10 Jul 2026 21:12:47 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据OpenAI称，GPT-5.6 Sol在单个“相当模糊的提示”触发下，独立对较小的Luna模型进行了微调。在OpenAI内部针对递归自我改进的RSI基准测试中，Sol得分比GPT-5.5高出16.2分。OpenAI认为“自动化研究员”已触手可及。本文《OpenAI的GPT-5.6 Sol通过“相当模糊的提示”自主对较小模型Luna进行后训练》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>苹果起诉OpenAI涉嫌窃取商业机密</title>
 <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3141179</guid>
-<pubDate>Fri, 10 Jul 2026 20:32:00 +0000</pubDate>
+<pubDate>Fri, 10 Jul 2026 21:00:29 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】苹果指控该不当行为由OpenAI高级管理层指使，其中包括一名长期前员工。<br/><br/><a href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/">阅读原文</a>]]></description>
 </item>
@@ -38,14 +54,6 @@
 <pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】拥抱脸CEO克莱姆·德朗格表示，开源AI正在蓬勃发展。近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在此分享和下载开源模型与数据集，目前约有一半的《财富》500强企业使用其服务。德朗格观察到同样的故事一再上演：企业从……<br/><br/><a href="https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI的GPT-5.6 Sol通过“相当模糊的提示”自主对较小模型Luna进行后训练</title>
-<link>https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37610</guid>
-<pubDate>Fri, 10 Jul 2026 18:43:47 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据OpenAI称，GPT-5.6 Sol在单个“相当模糊的提示”触发下，独立对较小的Luna模型进行了微调。在OpenAI内部针对递归自我改进的RSI基准测试中，Sol得分比GPT-5.5高出16.2分。OpenAI认为“自动化研究员”已触手可及。本文《OpenAI的GPT-5.6 Sol通过“相当模糊的提示”自主对较小模型Luna进行后训练》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI员工详解GPT-5.6 Sol的五级推理能力如何匹配不同任务复杂度</title>
@@ -166,6 +174,14 @@
 <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/torch-attention-profile">阅读原文</a>]]></description>
+</item>
+<item>
+<title>智能体谈判中的行为隐私泄露：通过随机化策略形式化与缓解推理攻击</title>
+<link>https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation</link>
+<guid isPermaLink="false">behavioral-privacy-agentic-negotiation</guid>
+<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】本文已被2026年国际可用性、可靠性与安全会议（ARES）下设的AI4TCI（面向安全可信关键基础设施系统的人工智能研讨会）接收。自主谈判智能体正越来越多地部署于保险、采购等高敏感场景。尽管加密技术能保护明确披露的约束值，却无法应对一种更隐蔽的威胁——行为隐私泄露：攻击者可通过观察谈判动态（如让步轨迹、时序等）推断出智能体的私有约束。<br/><br/><a href="https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Fidji Simo 辞去 OpenAI 二号人物职务</title>
@@ -360,14 +376,6 @@
 <description><![CDATA[【github.blog】GitHub 拥有超过 14,000 个仓库，其中不到一半有明确的所有者。本文介绍了我们如何在 45 天内为每个活跃仓库赋予经过验证的所有者，归档其余仓库，并将所有权作为后续一切工作的基础。该文章最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic 新 Claude 功能悄然向你推销 AI</title>
-<link>https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140476</guid>
-<pubDate>Thu, 09 Jul 2026 14:53:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Claude 的新 Reflect 仪表盘不仅可视化你如何使用 AI，还微妙地强化了你日常工作中多少已依赖 Anthropic 的聊天机器人。<br/><br/><a href="https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>为何我们不能等待更好的后量子签名算法</title>
 <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
 <guid isPermaLink="false">5wMIF1Oa7DES2YNRpqiVB0</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 08 Jul 2026 21:11:56 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>诉讼：男子利用Grok制作7000张继女性感图片后自杀</title>
-<link>https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/</guid>
-<pubDate>Wed, 08 Jul 2026 19:56:37 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】更多年轻女孩因Grok生成的儿童性虐待材料起诉X平台；X被指控包庇儿童性侵犯者。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
