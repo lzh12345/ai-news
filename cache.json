@@ -3058,5 +3058,21 @@
 "behavioral-privacy-agentic-negotiation": {
 "t": "智能体谈判中的行为隐私泄露：通过随机化策略形式化与缓解推理攻击",
 "s": "本文已被2026年国际可用性、可靠性与安全会议（ARES）下设的AI4TCI（面向安全可信关键基础设施系统的人工智能研讨会）接收。自主谈判智能体正越来越多地部署于保险、采购等高敏感场景。尽管加密技术能保护明确披露的约束值，却无法应对一种更隐蔽的威胁——行为隐私泄露：攻击者可通过观察谈判动态（如让步轨迹、时序等）推断出智能体的私有约束。"
+},
+"https://the-decoder.com/?p=37633": {
+"t": "中国Orca世界模型无需任何动作标签即可媲美专业机器人系统",
+"s": "北京人工智能研究院发布了Orca，这是一种预测抽象世界状态而非标记或像素的世界模型。该模型在12.5万小时的视频数据上训练，未使用任何动作标签，在五项机器人任务中与专业π0.5模型表现相当，或有助于缓解该领域长期存在的数据短缺问题。本文《中国Orca世界模型无需任何动作标签即可媲美专业机器人系统》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=37627": {
+"t": "Meta的Muse Spark 1.1在编程方面超越GLM-5.2，且成本略低",
+"s": "Meta的Muse Spark 1.1在人工智能分析指数上得分为51分，三个月内提升了8分。在编程方面，它以71.3分的成绩略胜GLM-5.2，每项任务成本更低，仅为0.26美元。幻觉率从73%降至38%。本文《Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37623": {
+"t": "OpenAI承认ChatGPT Work上线“并非尽善尽美”，正紧急修复用户体验与成本问题",
+"s": "在ChatGPT Work及GPT-5.6 Sol发布后，OpenAI承认存在重大缺陷：计算资源消耗过高、聊天与项目切换至桌面界面时体验混乱、Codex与ChatGPT Work界限模糊，以及现有工作流程出现退化。据报道，GPT-5.6 Sol在某些情况下会自行删除用户未授权的数据。本文《OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37618": {
+"t": "苹果起诉OpenAI，指控其通过挖角员工实施“协同行动”窃取商业机密",
+"s": "苹果正就系统性挖角员工及涉嫌窃取未发布产品相关商业机密一事起诉OpenAI。诉状指出，目前有超过400名前苹果员工在OpenAI任职，包括前iPhone设计主管唐·坦。这起诉讼正值OpenAI组建自有硬件部门之际，其首款产品预计最早要到2027年才能上市。本文《苹果起诉OpenAI，指控其通过挖角员工实施“协同行动”窃取商业机密》最初发表于The Decoder。"
 }
 }
