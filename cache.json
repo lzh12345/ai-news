@@ -3078,5 +3078,17 @@
 "https://www.marktechpost.com/?p=80976": {
 "t": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0：专为物理 AI 原生构建的因果视频-动作模型",
 "s": "蚂蚁集团 Robbyant 发布了 LingBot-VA 2.0 技术报告——这是一个从零开始为具身智能构建的物理 AI 视频-动作基础模型，而非从视频生成器微调而来。它通过前瞻推理在执行前预测未来状态，并在每次真实观测后重新接地，实现了 225 Hz 的异步控制。我们解析了因果 DiT、稀疏 MoE 视频流、语义视觉-动作分词器，以及论文中数据不一致之处。"
+},
+"https://the-decoder.com/?p=37656": {
+"t": "OpenAI的GPT-5.6 Sol Ultra据称在一小时内解决了一个50年未解的数学难题",
+"s": "OpenAI的GPT-5.6 Sol Ultra在不到一小时内，通过64个子代理并行工作，给出了“循环双覆盖猜想”的证明。该猜想已悬而未决50年。数学家托马斯·布鲁姆称该证明出人意料地基础，但批评其缺乏对已知先前工作的引用。更大的问题依然存在：AI只是重新组合现有知识，还是创造了新东西？文章《OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37650": {
+"t": "恐怖组织正利用各大AI聊天机器人策划袭击与开发武器",
+"s": "剑桥大学一项研究发现，博科圣地组织利用ChatGPT、Claude和Gemini等AI聊天机器人策划袭击、制造爆炸物及维护武器。自2023年起，伊斯兰国（ISIS）成员已开始培训该组织指挥官如何绕过安全过滤器。鉴于研究显示安全过滤器屡次未能阻止滥用行为，AI提供商的自愿性自我监管显然不够。本文《恐怖组织正利用各大AI聊天机器人策划袭击与开发武器》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3141184": {
+"t": "OpenAI押注家庭用户，ChatGPT深入千家万户",
+"s": "根据一则招聘信息，ChatGPT正在招聘一名专门的产品经理，为家庭、照护者和老年人打造体验。"
 }
 }
