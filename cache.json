@@ -3122,5 +3122,13 @@
 "https://the-decoder.com/?p=37696": {
 "t": "Meta 关闭 Muse Image 功能，该功能曾允许任何人未经同意生成 Instagram 用户的 AI 照片",
 "s": "Meta 在其新的 Muse Image 模型中移除了一项备受争议的功能，此前该功能遭到广泛批评。该功能允许用户通过 @提及他人的公开 Instagram 账户来生成这些人的 AI 图像，无需征得同意，只需一个用户名即可。Meta 承认“此功能未达到预期”，并在宣布后数日内将其关闭。本文《Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=37708": {
+"t": "研究覆盖五大平台，LinkedIn 稳坐长文AI垃圾内容之王宝座",
+"s": "根据Pangram的分析，每四篇较长的社交媒体帖子中就有一篇完全由AI生成。LinkedIn以41%的长文帖子被标记为AI撰写而领先。该平台仅占所有扫描帖子的三分之一，却贡献了近三分之二的检测到的AI内容。由于检测模型倾向于保守标记，实际比例可能更高。文章《研究覆盖五大平台，LinkedIn 稳坐长文AI垃圾内容之王宝座》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=37704": {
+"t": "Claude Code 现已内置浏览器，让AI能够读取、点击和输入外部网站内容",
+"s": "Claude Code 现在内置了一个浏览器，使AI能够在开发环境中直接打开、读取并与网页进行交互。对外部网站的写入操作会经过分类器筛选，而购买或创建账户等行为则需要用户批准。本文《Claude Code now has a built-in browser that lets the AI read, click, and type on external websites》最初发表于 The Decoder。"
 }
 }
