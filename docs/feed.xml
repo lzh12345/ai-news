@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 12 Jul 2026 09:44:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 13:00:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>标普全球将OpenAI视为甲骨文的“关键信用风险”，并下调其信用评级</title>
+<link>https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37699</guid>
+<pubDate>Sun, 12 Jul 2026 11:43:36 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】标普全球已将甲骨文的信用评级下调至“BBB-”，仅比垃圾级高出一档。OpenAI约占甲骨文6380亿美元合同义务的一半。如果OpenAI退出，甲骨文将面临无法填补的巨大数据中心容量。本文《标普全球将OpenAI视为甲骨文的“关键信用风险”，并下调其信用评级》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta 关闭 Muse Image 功能，该功能曾允许任何人未经同意生成 Instagram 用户的 AI 照片</title>
+<link>https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37696</guid>
+<pubDate>Sun, 12 Jul 2026 11:20:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Meta 在其新的 Muse Image 模型中移除了一项备受争议的功能，此前该功能遭到广泛批评。该功能允许用户通过 @提及他人的公开 Instagram 账户来生成这些人的 AI 图像，无需征得同意，只需一个用户名即可。Meta 承认“此功能未达到预期”，并在宣布后数日内将其关闭。本文《Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic称Claude Cowork最大用途是无人愿接手的琐碎办公室工作</title>
 <link>https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/</link>
@@ -96,28 +112,12 @@
 <description><![CDATA[【the-decoder.com】Meta的Muse Spark 1.1在人工智能分析指数上得分为51分，三个月内提升了8分。在编程方面，它以71.3分的成绩略胜GLM-5.2，每项任务成本更低，仅为0.26美元。幻觉率从73%降至38%。本文《Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI承认ChatGPT Work上线“并非尽善尽美”，正紧急修复用户体验与成本问题</title>
-<link>https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37623</guid>
-<pubDate>Sat, 11 Jul 2026 08:01:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】在ChatGPT Work及GPT-5.6 Sol发布后，OpenAI承认存在重大缺陷：计算资源消耗过高、聊天与项目切换至桌面界面时体验混乱、Codex与ChatGPT Work界限模糊，以及现有工作流程出现退化。据报道，GPT-5.6 Sol在某些情况下会自行删除用户未授权的数据。本文《OpenAI admits it "didn't get everything quite right" with ChatGPT Work launch and scrambles to fix UX and costs》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>蚂蚁集团 Robbyant 发布 LingBot-VA 2.0：专为物理 AI 原生构建的因果视频-动作模型</title>
 <link>https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=80976</guid>
 <pubDate>Sat, 11 Jul 2026 07:56:11 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】蚂蚁集团 Robbyant 发布了 LingBot-VA 2.0 技术报告——这是一个从零开始为具身智能构建的物理 AI 视频-动作基础模型，而非从视频生成器微调而来。它通过前瞻推理在执行前预测未来状态，并在每次真实观测后重新接地，实现了 225 Hz 的异步控制。我们解析了因果 DiT、稀疏 MoE 视频流、语义视觉-动作分词器，以及论文中数据不一致之处。<br/><br/><a href="https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>苹果起诉OpenAI，指控其通过挖角员工实施“协同行动”窃取商业机密</title>
-<link>https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37618</guid>
-<pubDate>Sat, 11 Jul 2026 06:56:20 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】苹果正就系统性挖角员工及涉嫌窃取未发布产品相关商业机密一事起诉OpenAI。诉状指出，目前有超过400名前苹果员工在OpenAI任职，包括前iPhone设计主管唐·坦。这起诉讼正值OpenAI组建自有硬件部门之际，其首款产品预计最早要到2027年才能上市。本文《苹果起诉OpenAI，指控其通过挖角员工实施“协同行动”窃取商业机密》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta在遭到强烈反对后移除Instagram上争议性AI功能</title>

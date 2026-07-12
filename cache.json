@@ -3114,5 +3114,13 @@
 "https://www.marktechpost.com/?p=80985": {
 "t": "英伟达基于Tile的GPU编程编码指南：从cuTile与Triton内核到Flash Attention",
 "s": "在本教程中，我们借助TileGym探索英伟达基于Tile的GPU编程，构建一个可在不同硬件上运行的Colab工作流。我们探测CUDA环境，尝试真实的cuTile后端，并在标准Colab GPU缺乏cuTile栈时回退到Triton。我们学习核心的Tile思想：对完整的数据块而非单个线程进行操作，然后加载、计算并存储它们。我们实现了向量加法、融合GELU、行级Softmax、分块矩阵乘法以及Flash Attention，并逐一与PyTorch进行对照验证。"
+},
+"https://the-decoder.com/?p=37699": {
+"t": "标普全球将OpenAI视为甲骨文的“关键信用风险”，并下调其信用评级",
+"s": "标普全球已将甲骨文的信用评级下调至“BBB-”，仅比垃圾级高出一档。OpenAI约占甲骨文6380亿美元合同义务的一半。如果OpenAI退出，甲骨文将面临无法填补的巨大数据中心容量。本文《标普全球将OpenAI视为甲骨文的“关键信用风险”，并下调其信用评级》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37696": {
+"t": "Meta 关闭 Muse Image 功能，该功能曾允许任何人未经同意生成 Instagram 用户的 AI 照片",
+"s": "Meta 在其新的 Muse Image 模型中移除了一项备受争议的功能，此前该功能遭到广泛批评。该功能允许用户通过 @提及他人的公开 Instagram 账户来生成这些人的 AI 图像，无需征得同意，只需一个用户名即可。Meta 承认“此功能未达到预期”，并在宣布后数日内将其关闭。本文《Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent》最初发表于 The Decoder。"
 }
 }
