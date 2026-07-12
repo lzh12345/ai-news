@@ -3090,5 +3090,29 @@
 "https://techcrunch.com/?p=3141184": {
 "t": "OpenAI押注家庭用户，ChatGPT深入千家万户",
 "s": "根据一则招聘信息，ChatGPT正在招聘一名专门的产品经理，为家庭、照护者和老年人打造体验。"
+},
+"https://the-decoder.com/?p=37690": {
+"t": "Anthropic称Claude Cowork最大用途是无人愿接手的琐碎办公室工作",
+"s": "Anthropic分析了来自60多万个组织的120万次Claude Cowork会话。约一半的使用量用于业务流程和文本创作，即Anthropic所称的“工作之外的工作”。这包括编制状态报告、创建入职清单或制作幻灯片等任务。软件开发在Cowork中几乎不出现，因为开发者会使用Claude Code来完成这类工作。本文《Anthropic称Claude Cowork最大用途是无人愿接手的琐碎办公室工作》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37683": {
+"t": "OpenAI CEO Altman 如今“相当确信”AI 能净增就业，这与之前预测大规模失业的立场大相径庭",
+"s": "OpenAI CEO Sam Altman 如今表示，他“相当确信”AI 创造的就业岗位多于其淘汰的岗位。这与他早前关于整个职业领域可能消失的警告形成了鲜明对比。Anthropic CEO Dario Amodei 也在收回类似言论。然而，目前的研究既未支持早前的末日预测，也未证实当前的乐观态度。本文《OpenAI CEO Altman 如今“相当确信”AI 能净增就业，这与之前预测大规模失业的立场大相径庭》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=37672": {
+"t": "布朗大学教授禁止学生使用AI参加考试后，成绩从96%骤降至48%",
+"s": "布朗大学一位经济学教授怀疑，他班上86名学生中多数在开卷考试中借助AI作弊，当时平均成绩高达96%。当他将期末考试改为现场闭卷考试后，18名学生退课，9人缺考，平均分降至48.6%。来自中国和加州大学伯克利分校的两项大型研究支持了他的观点：当学生依赖AI完成作业时，其监考成绩会大幅下滑。本文《布朗大学教授禁止学生使用AI参加考试后，成绩从96%骤降至48%》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37660": {
+"t": "研究人员用结构化记忆替代不断增长的聊天记录后，AI智能体在《杀戮尖塔2》中获胜",
+"s": "AgenticSTS项目用五个独立的记忆层替代了AI智能体不断增长的聊天记录。在卡牌游戏《杀戮尖塔2》中测试时，提示词保持在约5000个token，而非膨胀至50万个以上。该智能体在10局游戏中获胜6局，而竞争智能体则一局未胜。本文《AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80988": {
+"t": "Mira Murati的Thinking Machines Lab提出以可定制模型权重构建以人为本AI的技术论证",
+"s": "Thinking Machines Lab发布了题为《值得构建的未来是人性化的》一文。该文将人类参与、模型所有权和去中心化对齐视为技术挑战，并将其与交互模型及Tinker的LoRA微调技术相关联——团队可自行训练并保留其模型权重。本文首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80985": {
+"t": "英伟达基于Tile的GPU编程编码指南：从cuTile与Triton内核到Flash Attention",
+"s": "在本教程中，我们借助TileGym探索英伟达基于Tile的GPU编程，构建一个可在不同硬件上运行的Colab工作流。我们探测CUDA环境，尝试真实的cuTile后端，并在标准Colab GPU缺乏cuTile栈时回退到Triton。我们学习核心的Tile思想：对完整的数据块而非单个线程进行操作，然后加载、计算并存储它们。我们实现了向量加法、融合GELU、行级Softmax、分块矩阵乘法以及Flash Attention，并逐一与PyTorch进行对照验证。"
 }
 }
