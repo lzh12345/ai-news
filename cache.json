@@ -3138,5 +3138,21 @@
 "https://www.marktechpost.com/?p=80992": {
 "t": "循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环",
 "s": "大多数人仍像使用2015年的搜索框一样使用AI——输入、阅读、再输入。一种新模式用循环取代了这种手动往返。本指南通过两个已验证的成果解释循环工程：来源包括安德烈·卡帕西的自动研究代码库和双层自动研究论文，框架参考了@0xCodila的撰文。[...] 这篇《循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环》最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=37678": {
+"t": "谷歌SensorFM将杂乱的穿戴传感器数据转化为通用健康智能层",
+"s": "谷歌研究院的SensorFM是一个基础模型，基于来自500万Fitbit和Pixel Watch用户超过一万亿分钟的穿戴设备数据进行训练。它在35项健康和行为任务中的34项上超越了现有基准。SensorFM最终可能为谷歌的AI健康教练提供动力，但该公司尚未宣布任何整合计划。本文《谷歌SensorFM将杂乱的穿戴传感器数据转化为通用健康智能层》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81002": {
+"t": "斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统",
+"s": "智能体大语言模型（LLMs）会以相同方式反复失败，因为它们缺乏特定、可复用的能力。斯坦福大学的TRACE系统能从智能体自身的轨迹中诊断这些能力缺口，为每种能力合成一个可验证的训练环境，为每种能力训练一个LoRA适配器，并在专家之间路由令牌——在τ²-Bench上提升了15.3个点，在SWE-bench Verified上达到了73.2%的Pass@1。本文《斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统》最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=37714": {
+"t": "Anthropic延长订阅用户免费使用Fable 5权限，OpenAI的GPT-5.6 Sol加剧价格战",
+"s": "Anthropic将Claude Fable 5保留在订阅计划中，直至2026年7月19日。该模型原定于今日转为按使用量付费。订阅用户每周可将最多50%的限额用于Fable 5。这一延期很可能是为了应对OpenAI的GPT-5.6 Sol及更便宜竞品模型带来的定价压力。本文《Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=80998": {
+"t": "Prime Intellect 发布 Verifiers v1：面向智能体强化学习训练与评估的可组合任务集、框架与运行时",
+"s": "Prime Intellect 发布了 verifiers 0.2.0，在 verifiers.v1 命名空间下预览了重写的“v1”核心。它将环境拆分为任务集（what）、框架（how）和运行时（where），并配备了一个拦截服务器，用于代理请求并记录训练就绪的追踪记录。任何任务集都可在任何兼容的框架下运行，并在发布时提供完整的 prime-rl 训练支持。该文章《Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations》首次出现在 MarkTechPost 上。"
 }
 }
