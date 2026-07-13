@@ -3154,5 +3154,17 @@
 "https://www.marktechpost.com/?p=80998": {
 "t": "Prime Intellect 发布 Verifiers v1：面向智能体强化学习训练与评估的可组合任务集、框架与运行时",
 "s": "Prime Intellect 发布了 verifiers 0.2.0，在 verifiers.v1 命名空间下预览了重写的“v1”核心。它将环境拆分为任务集（what）、框架（how）和运行时（where），并配备了一个拦截服务器，用于代理请求并记录训练就绪的追踪记录。任何任务集都可在任何兼容的框架下运行，并在发布时提供完整的 prime-rl 训练支持。该文章《Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations》首次出现在 MarkTechPost 上。"
+},
+"6ePF6Vl7bAXNNpdFDoFbqs": {
+"t": "推出 Precursor：通过持续客户端信号检测代理行为",
+"s": "Precursor 是我们为机器人管理打造的新型持续行为验证引擎，能够洞察人类与机器人在完整用户旅程中的实际交互方式。通过将会话级行为转化为机器人检测信号，它能以更高精度识别高级自动化行为，同时减少对合法用户的干扰。"
+},
+"https://the-decoder.com/?p=37720": {
+"t": "德国AI联盟发布Soofi S，一款在英语和德语基准测试中均领先的开源300亿参数模型",
+"s": "德国一个研究联盟发布了Soofi S 30B-A3B，这是一款完全在慕尼黑德国电信云基础设施上训练的开源语言模型。该模型采用高效的混合架构，每个token仅激活其316亿参数中的一小部分，即使在极长上下文下也能保持稳定吞吐量。训练数据集有意偏向德语，Soofi S在所有完全开源的竞争对手中，在德语和英语基准测试上均表现最佳。文章《德国AI联盟发布Soofi S，一款在英语和德语基准测试中均领先的开源300亿参数模型》首发于。"
+},
+"https://openai.com/academy/getting-started": {
+"t": "ChatGPT入门指南",
+"s": "了解如何使用ChatGPT，开启你的首次对话，并发现利用AI进行写作、头脑风暴和解决问题的简单方法。"
 }
 }

@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 13 Jul 2026 10:51:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 14:11:19 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>推出 Precursor：通过持续客户端信号检测代理行为</title>
+<link>https://blog.cloudflare.com/introducing-precursor/</link>
+<guid isPermaLink="false">6ePF6Vl7bAXNNpdFDoFbqs</guid>
+<pubDate>Mon, 13 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Precursor 是我们为机器人管理打造的新型持续行为验证引擎，能够洞察人类与机器人在完整用户旅程中的实际交互方式。通过将会话级行为转化为机器人检测信号，它能以更高精度识别高级自动化行为，同时减少对合法用户的干扰。<br/><br/><a href="https://blog.cloudflare.com/introducing-precursor/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>德国AI联盟发布Soofi S，一款在英语和德语基准测试中均领先的开源300亿参数模型</title>
+<link>https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37720</guid>
+<pubDate>Mon, 13 Jul 2026 11:41:01 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】德国一个研究联盟发布了Soofi S 30B-A3B，这是一款完全在慕尼黑德国电信云基础设施上训练的开源语言模型。该模型采用高效的混合架构，每个token仅激活其316亿参数中的一小部分，即使在极长上下文下也能保持稳定吞吐量。训练数据集有意偏向德语，Soofi S在所有完全开源的竞争对手中，在德语和英语基准测试上均表现最佳。文章《德国AI联盟发布Soofi S，一款在英语和德语基准测试中均领先的开源300亿参数模型》首发于。<br/><br/><a href="https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>谷歌SensorFM将杂乱的穿戴传感器数据转化为通用健康智能层</title>
 <link>https://the-decoder.com/sensorfm/</link>
@@ -110,14 +126,6 @@
 <pubDate>Sun, 12 Jul 2026 08:25:25 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】布朗大学一位经济学教授怀疑，他班上86名学生中多数在开卷考试中借助AI作弊，当时平均成绩高达96%。当他将期末考试改为现场闭卷考试后，18名学生退课，9人缺考，平均分降至48.6%。来自中国和加州大学伯克利分校的两项大型研究支持了他的观点：当学生依赖AI完成作业时，其监考成绩会大幅下滑。本文《布朗大学教授禁止学生使用AI参加考试后，成绩从96%骤降至48%》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>研究人员用结构化记忆替代不断增长的聊天记录后，AI智能体在《杀戮尖塔2》中获胜</title>
-<link>https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37660</guid>
-<pubDate>Sun, 12 Jul 2026 07:45:35 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】AgenticSTS项目用五个独立的记忆层替代了AI智能体不断增长的聊天记录。在卡牌游戏《杀戮尖塔2》中测试时，提示词保持在约5000个token，而非膨胀至50万个以上。该智能体在10局游戏中获胜6局，而竞争智能体则一局未胜。本文《AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Mira Murati的Thinking Machines Lab提出以可定制模型权重构建以人为本AI的技术论证</title>
@@ -272,6 +280,14 @@
 <description><![CDATA[【machinelearning.apple.com】本文已被2026年国际可用性、可靠性与安全会议（ARES）下设的AI4TCI（面向安全可信关键基础设施系统的人工智能研讨会）接收。自主谈判智能体正越来越多地部署于保险、采购等高敏感场景。尽管加密技术能保护明确披露的约束值，却无法应对一种更隐蔽的威胁——行为隐私泄露：攻击者可通过观察谈判动态（如让步轨迹、时序等）推断出智能体的私有约束。<br/><br/><a href="https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation">阅读原文</a>]]></description>
 </item>
 <item>
+<title>ChatGPT入门指南</title>
+<link>https://openai.com/academy/getting-started</link>
+<guid isPermaLink="false">https://openai.com/academy/getting-started</guid>
+<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】了解如何使用ChatGPT，开启你的首次对话，并发现利用AI进行写作、头脑风暴和解决问题的简单方法。<br/><br/><a href="https://openai.com/academy/getting-started">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Fidji Simo 辞去 OpenAI 二号人物职务</title>
 <link>https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3140900</guid>
@@ -424,6 +440,14 @@
 <description><![CDATA[【openai.com】了解 GPT-5.6 如何以更强的 AI 能力驱动 Microsoft 365 Copilot，在 Word、Excel、PowerPoint、Chat 和 Cowork 中实现更快速、更高质量的工作。<br/><br/><a href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot">阅读原文</a>]]></description>
 </item>
 <item>
+<title>GPT-5.5 生物漏洞赏金计划</title>
+<link>https://openai.com/index/bio-bug-bounty</link>
+<guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
+<pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】关于 OpenAI 生物漏洞赏金计划的详细信息<br/><br/><a href="https://openai.com/index/bio-bug-bounty">阅读原文</a>]]></description>
+</item>
+<item>
 <title>GPT-5.6：随你雄心扩展的前沿智能</title>
 <link>https://openai.com/index/gpt-5-6</link>
 <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
@@ -438,14 +462,6 @@
 <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】ChatGPT Work 是一款能够跨应用和文件执行操作的智能代理，可在需要时持续跟进项目数小时，并将目标转化为完成的工作成果。<br/><br/><a href="https://openai.com/index/chatgpt-for-your-most-ambitious-work">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-5.5 生物漏洞赏金计划</title>
-<link>https://openai.com/index/bio-bug-bounty</link>
-<guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
-<pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】关于 OpenAI 生物漏洞赏金计划的详细信息<br/><br/><a href="https://openai.com/index/bio-bug-bounty">阅读原文</a>]]></description>
 </item>
 <item>
 <title>激励自我中心视频理解模型的时间感知能力</title>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】同策略蒸馏为训练推理模型提供了密集的逐令牌监督信号；然而，目前尚不清楚在何种条件下该信号有益，在何种条件下有害。应使用哪种教师模型？在自蒸馏情况下，应选择何种具体上下文作为监督信号？最优选择是否会因令牌不同而变化？目前，回答这些问题通常需要成本高昂的训练过程，而聚合性能指标掩盖了单个令牌层面的动态变化。我们提出了一种无需训练的方法……<br/><br/><a href="https://machinelearning.apple.com/research/unmasking-on-policy-distillation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>怀疑学生用AI作弊，常春藤教授要求线下期末考试；成绩下降50%</title>
-<link>https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</guid>
-<pubDate>Wed, 08 Jul 2026 21:42:44 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】教授称AI作弊将导致“一个失败的社会”。<br/><br/><a href="https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用 GitHub Agentic Workflows 自动化跨仓库文档</title>
-<link>https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/</link>
-<guid isPermaLink="false">https://github.blog/?p=97282</guid>
-<pubDate>Wed, 08 Jul 2026 21:11:56 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
