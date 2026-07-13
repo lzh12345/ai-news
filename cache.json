@@ -3130,5 +3130,13 @@
 "https://the-decoder.com/?p=37704": {
 "t": "Claude Code 现已内置浏览器，让AI能够读取、点击和输入外部网站内容",
 "s": "Claude Code 现在内置了一个浏览器，使AI能够在开发环境中直接打开、读取并与网页进行交互。对外部网站的写入操作会经过分类器筛选，而购买或创建账户等行为则需要用户批准。本文《Claude Code now has a built-in browser that lets the AI read, click, and type on external websites》最初发表于 The Decoder。"
+},
+"https://www.marktechpost.com/?p=80995": {
+"t": "认识NeuroVFM：基于Vol-JEPA在未经整理的临床MRI和CT影像上训练的新型神经影像基础模型",
+"s": "NeuroVFM是密歇根大学开发的一款通用型神经影像基础模型，基于524万份临床MRI和CT影像数据训练而成。其Vol-JEPA基础架构将I-JEPA和V-JEPA扩展至体积医学影像领域，无需放射学报告标签即可学习大脑解剖结构和病理特征。本文《Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=80992": {
+"t": "循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环",
+"s": "大多数人仍像使用2015年的搜索框一样使用AI——输入、阅读、再输入。一种新模式用循环取代了这种手动往返。本指南通过两个已验证的成果解释循环工程：来源包括安德烈·卡帕西的自动研究代码库和双层自动研究论文，框架参考了@0xCodila的撰文。[...] 这篇《循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环》最初发表于MarkTechPost。"
 }
 }
