@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 14 Jul 2026 01:45:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 06:04:46 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>已经富有、已经成功，为何上一波科技赢家再次埋头苦干</title>
+<link>https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3141909</guid>
+<pubDate>Tue, 14 Jul 2026 02:46:42 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】他们再次撸起袖子，似乎是出于对错过人工智能决定性时刻的恐惧，以及——想必——赚更多钱（可能多得多）的不可抗拒的诱惑。<br/><br/><a href="https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic Claude Sonnet 5 对比 Sonnet 4.6 与 Opus 4.8：自主编码基准测试、API 定价及成本性能权衡比较</title>
 <link>https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
@@ -158,6 +166,14 @@
 <pubDate>Mon, 13 Jul 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Precursor 是我们为机器人管理打造的新型持续行为验证引擎，能够洞察人类与机器人在完整用户旅程中的实际交互方式。通过将会话级行为转化为机器人检测信号，它能以更高精度识别高级自动化行为，同时减少对合法用户的干扰。<br/><br/><a href="https://blog.cloudflare.com/introducing-precursor/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>用ATL Saathi赋能印度下一代创新者</title>
+<link>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</guid>
+<pubDate>Mon, 13 Jul 2026 12:37:28 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】谷歌与AIM联合推出ATL Saathi，这是一款基于Gemini的人工智能工具，旨在赋能印度教育工作者在机器人实验室中的教学。<br/><br/><a href="https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>德国AI联盟发布Soofi S，一款在英语和德语基准测试中均领先的开源300亿参数模型</title>
@@ -408,14 +424,6 @@
 <description><![CDATA[【techcrunch.com】Lyzr，一家为企业构建AI代理的初创公司，利用自己的AI代理完成了1亿美元融资轮——这显然证明了该产品确实有效。<br/><br/><a href="https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI 关闭 Atlas，但其AI浏览器雄心仍在增长</title>
-<link>https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140848</guid>
-<pubDate>Thu, 09 Jul 2026 22:03:54 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI 在不到一年后停止其AI驱动浏览器。但它正在将部分代理浏览功能迁移至桌面应用和Chrome扩展。<br/><br/><a href="https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI 希望其新工具能代你完成工作，并与你协作</title>
 <link>https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/</guid>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】每个令牌带来更多智能，每美元带来更强性能，按需提供更多能力，助你攻克最艰巨的任务。<br/><br/><a href="https://openai.com/index/gpt-5-6">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT 现已成为您最具雄心工作的合作伙伴</title>
-<link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
-<guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
-<pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】ChatGPT Work 是一款能够跨应用和文件执行操作的智能代理，可在需要时持续跟进项目数小时，并将目标转化为完成的工作成果。<br/><br/><a href="https://openai.com/index/chatgpt-for-your-most-ambitious-work">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
