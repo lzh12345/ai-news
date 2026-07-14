@@ -3334,5 +3334,45 @@
 "proactive-agent-research-environment": {
 "t": "主动式智能体研究环境：通过模拟活跃用户评估主动式助手",
 "s": "能够预判用户需求并自主执行任务的主动式智能体作为数字助手前景广阔，但缺乏逼真的用户模拟框架阻碍了其发展。现有方法将应用程序建模为扁平化的工具调用API，未能捕捉数字环境中用户交互的状态性和顺序性特征，导致逼真的用户模拟难以实现。我们提出主动式智能体研究环境（Pare），这是一个在数字环境中构建和评估主动式智能体的框架。Pare将应用程序建模为有限状态机，并..."
+},
+"https://www.marktechpost.com/?p=81024": {
+"t": "OpenCoreDev 发布 Domain SDK 0.2.0：一个 TypeScript API，可在五个平台上添加、验证和移除客户域名",
+"s": "OpenCoreDev 发布了 Domain SDK 0.2.0，这是一个用于自定义域名生命周期的 TypeScript 客户端。它通过一个 API 覆盖了 Vercel、Cloudflare for SaaS、Railway、Render 和 Netlify。状态被建模为一个八值联合类型，并包含独立的验证和证书字段。本文 OpenCoreDev 发布 Domain SDK 0.2.0：一个 TypeScript API，可在五个平台上添加、验证和移除客户域名 最初出现在 MarkTechPost 上。"
+},
+"https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/": {
+"t": "诉讼称Meta的裁员决定由AI而非人类做出",
+"s": "Meta否认使用AI来解雇有残疾和健康问题的员工。"
+},
+"https://techcrunch.com/?p=3142256": {
+"t": "苹果向所有用户开放新版Siri AI，iOS 27公测版上线",
+"s": "如果你一直在等待无需安装开发者测试版即可体验苹果改进版Siri，现在机会来了。该公司于周二发布了iOS 27公测版，让iPhone用户在今年秋季软件正式发布前，提前使用其AI驱动的助手及其他新功能。"
+},
+"https://techcrunch.com/?p=3142178": {
+"t": "Anthropic最新广告令人毛骨悚然",
+"s": "Anthropic一直试图将自己塑造成其他AI公司的道德对立面。这则最新营销噱头——通过利用对AI的批评来让Anthropic显得意识到自身肩负的责任——似乎不过是故技重施。"
+},
+"https://techcrunch.com/?p=3142228": {
+"t": "Hinge创始人获1800万美元融资，打造新型AI约会服务Overtone",
+"s": "Overtone自称是“一款以语音和音频为核心、由AI驱动、提供高度精选介绍的服务”。"
+},
+"https://techcrunch.com/?p=3142189": {
+"t": "谷歌因AI训练再遭大型出版商起诉",
+"s": "阿歇特、圣智、爱思唯尔等出版商指控谷歌在未获必要授权的情况下，使用受版权保护的作品训练其人工智能。"
+},
+"https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/": {
+"t": "美军首次在实战中投入爆炸性无人艇",
+"s": "随着战事再度升级，美军的无人艇袭击了伊朗海军港口。"
+},
+"https://techcrunch.com/?p=3142153": {
+"t": "DeepMind CEO呼吁建立独立标准机构来监管前沿AI",
+"s": "DeepMind CEO Demis Hassabis提议建立一个仿照FINRA模式的AI“标准机构”，用于测试前沿模型并制定其发布的最佳实践。"
+},
+"https://the-decoder.com/?p=37784": {
+"t": "Anthropic 推出 Claude for Teachers，承诺不利用学生数据训练模型",
+"s": "Anthropic 正在推出 Claude for Teachers，这是一项面向美国学校经认证的 K-12 教育工作者的免费服务。本文《Anthropic opens Claude for Teachers with a promise not to train models on student data》最初发表于 The Decoder。"
+},
+"multilingual-semantic-retrieval": {
+"t": "Apple Music搜索中的多语言语义检索",
+"s": "Apple Music为150多个国家及地区的听众提供数十种语言的服务，其曲库每日新增数十万首新曲目。在此规模下，针对拼写错误、音译及跨语言查询的搜索召回能力成为影响会话质量的关键因素，尤其对于占据独特查询多数的长尾查询而言。我们提出了一种基于3.05亿参数孪生双编码器的多语言语义检索系统，该系统通过课程式多目标训练对GTE-multilingual-base模型进行微调，并通过…方式集成至搜索堆栈中。"
 }
 }
