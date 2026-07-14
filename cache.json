@@ -3246,5 +3246,37 @@
 "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/": {
 "t": "用ATL Saathi赋能印度下一代创新者",
 "s": "谷歌与AIM联合推出ATL Saathi，这是一款基于Gemini的人工智能工具，旨在赋能印度教育工作者在机器人实验室中的教学。"
+},
+"https://the-decoder.com/?p=37767": {
+"t": "欧盟迫使Meta向竞争对手AI机器人开放后，ChatGPT重返欧洲WhatsApp",
+"s": "OpenAI已重新在WhatsApp上启用ChatGPT，但仅限于欧洲经济区，涵盖27个欧盟成员国以及列支敦士登、冰岛和挪威。本文《欧盟迫使Meta向竞争对手AI机器人开放后，ChatGPT重返欧洲WhatsApp》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37761": {
+"t": "Deepmind CEO哈萨比斯称“世上无人知晓接下来会发生什么”，因此“谨慎乐观”意味着现在就要建立防护措施",
+"s": "谷歌Deepmind首席执行官德米斯·哈萨比斯发布了一项关于如何应对高级AI的全面提案。他希望美国能效仿金融监管机构FINRA，成立一个新的标准机构，为前沿模型制定评估协议，并在必要时协调放缓AI开发速度。初创公司和研究模型将不受此限制。本文《Deepmind CEO哈萨比斯称“世上无人知晓接下来会发生什么”，因此“谨慎乐观”意味着现在就要建立防护措施》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37749": {
+"t": "PixVerse 20亿美元估值表明投资者仍相信AI视频生成领域还有另一个赢家的空间",
+"s": "总部位于新加坡的AI视频初创公司PixVerse在完成一轮扩展的C轮融资后，估值现已超过20亿美元。文章《PixVerse 20亿美元估值表明投资者仍相信AI视频生成领域还有另一个赢家的空间》首次出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=37753": {
+"t": "Claude 在印地语中更显温暖，在俄语中更显严谨，语言如何塑造AI回答",
+"s": "Anthropic 的一项新研究将数千个个体术语中衍生出的数百个价值概念映射到四个核心维度上。研究揭示了 Claude 模型及不同语言间的系统性差异，但也引发了方法论上的疑问。Anthropic 发布了一项研究，探讨 Claude 在对话中表达的价值观念，以及这些观念如何因模型和所用语言的不同而变化。……本文《Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers》最初发表于 The Decoder。"
+},
+"https://www.marktechpost.com/?p=81018": {
+"t": "认识 Blume：一个开源、零配置的文档框架，能从 Markdown 文件夹生成 AI 就绪文档",
+"s": "开发者 Hayden Bleasel 发布了 Blume，一个开源、采用 MIT 许可证的文档框架。它能读取 Markdown 或 MDX 文件夹，生成一个隐藏的 Astro 项目，输出静态、AI 就绪的文档，并内置本地搜索、30 多个 MDX 组件、llms.txt 以及一个 MCP 服务器。这篇文章《Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder》最初出现在 MarkTechPost 上。"
+},
+"https://www.marktechpost.com/?p=81014": {
+"t": "Mistral AI 发布 Robostral Navigate：一款仅用单 RGB 摄像头即可让机器人在复杂环境中导航的 8B 模型",
+"s": "Mistral AI 推出了 Robostral Navigate，一款 8B 参数具身导航模型。它仅通过单 RGB 摄像头（无需激光雷达或深度传感器）即可根据自然语言指令引导机器人移动。该模型通过指向方法、前缀缓存训练和 CISPO 在线强化学习，在 R2R-CE 验证集未见场景中达到了 76.6% 的成功率。本文《Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera》最初发表于 MarkTechPost。"
+},
+"https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+"t": "数据科学团队如何使用ChatGPT Work",
+"s": "了解数据科学团队如何利用ChatGPT Work，从实际工作输入中构建根本原因简报、影响报告、KPI备忘录、范围分析以及仪表盘规范。"
+},
+"https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+"t": "销售团队如何使用ChatGPT Work",
+"s": "了解销售团队如何利用ChatGPT Work，从实际工作输入中创建管道简报、会议准备资料、预测回顾、客户计划以及停滞交易诊断。"
 }
 }
