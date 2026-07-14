@@ -5,8 +5,80 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 13 Jul 2026 17:49:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 01:45:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic Claude Sonnet 5 对比 Sonnet 4.6 与 Opus 4.8：自主编码基准测试、API 定价及成本性能权衡比较</title>
+<link>https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80776</guid>
+<pubDate>Tue, 14 Jul 2026 00:58:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic 的 Claude Sonnet 5 在自主编码方面缩小了与 Opus 4.8 的差距，同时保持了更低的 Sonnet 代币定价。本文《Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Uber产品负责人谈酒店、无人驾驶出租车，以及为何公司不想“包揽一切”</title>
+<link>https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3141573</guid>
+<pubDate>Tue, 14 Jul 2026 00:45:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Uber首席产品官Sachin Kansal向TechCrunch介绍了公司在金融服务领域的雄心、与Waymo日益复杂的关系、新成立的AV Labs数据运营部门，以及AI如何开始以乘客和司机实际能感知的方式显现。<br/><br/><a href="https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>视频生成初创公司PixVerse融资4.39亿美元，估值突破20亿美元</title>
+<link>https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3141426</guid>
+<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】凭借这笔资金，该公司旨在扩展其世界模型产品，并触达全球各地的客户。<br/><br/><a href="https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hermes 智能体制造商 Nous Research 正洽谈新一轮融资，估值达15亿美元</title>
+<link>https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3141670</guid>
+<pubDate>Mon, 13 Jul 2026 23:31:18 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】该公司正筹集至少7500万美元，由Robot Ventures领投，USV及其他知名投资者将大力参与。<br/><br/><a href="https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Skyfall AI 发布 MORPHEUS：一个在结构化非平稳性下使持续强化学习成为必要的持久企业模拟基准</title>
+<link>https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81009</guid>
+<pubDate>Mon, 13 Jul 2026 22:37:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Skyfall AI 推出的 MORPHEUS 是一个用于持续强化学习的持久企业模拟平台。它运行永不重置的世界，采用可参数化的机制转变和六指标评估协议。在该平台上，PPO、HER、EWC 和 LCM 的表现均远低于理论上限。本文《Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>萨提亚·纳德拉向使用AI的公司发出惊人警告</title>
+<link>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3141632</guid>
+<pubDate>Mon, 13 Jul 2026 20:59:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在关于AI潜在负面影响的诸多争论中，硅谷AI爱好者最担忧的一点是——那些销售专有模型的巨型AI实验室，某种程度上正像特洛伊木马一样行事。<br/><br/><a href="https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>苹果起诉OpenAI，前工程师涉嫌利用漏洞窃取商业机密</title>
+<link>https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/</guid>
+<pubDate>Mon, 13 Jul 2026 19:17:51 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】OpenAI被指控与前苹果员工合谋窃取商业机密。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>构建VideoAgent风格的多智能体系统：面向视频编辑任务的意图解析、图规划与工具路由</title>
+<link>https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81005</guid>
+<pubDate>Mon, 13 Jul 2026 18:30:30 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们将VideoAgent工作流重构为一个可运行、无需API密钥的多智能体流水线。我们构建了意图解析器、智能体库、工具路由器、图规划器以及用于修复执行图的文本梯度优化器。我们将这些规划组件与FFmpeg、Whisper转录、场景检测、关键帧采样、字幕生成、跨模态索引以及节拍同步编辑相连接。最终，我们得到一个能够回答视频相关问题、总结视频内容，并根据自然语言指令生成编辑成品的系统。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>苹果诉OpenAI商业秘密案中最惊人的指控</title>
+<link>https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3141608</guid>
+<pubDate>Mon, 13 Jul 2026 18:22:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】苹果对OpenAI提起的商业秘密诉讼中，指控内容从员工开玩笑称未经授权访问苹果系统，到求职者被要求携带苹果硬件参加面试。以下是诉状中最引人注目的几项主张。<br/><br/><a href="https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI新提示指南：告诉用户停止过度思考，从结果出发</title>
 <link>https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/</link>
@@ -112,12 +184,44 @@
 <description><![CDATA[【the-decoder.com】谷歌研究院的SensorFM是一个基础模型，基于来自500万Fitbit和Pixel Watch用户超过一万亿分钟的穿戴设备数据进行训练。它在35项健康和行为任务中的34项上超越了现有基准。SensorFM最终可能为谷歌的AI健康教练提供动力，但该公司尚未宣布任何整合计划。本文《谷歌SensorFM将杂乱的穿戴传感器数据转化为通用健康智能层》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/sensorfm/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统</title>
+<link>https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81002</guid>
+<pubDate>Mon, 13 Jul 2026 08:45:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】智能体大语言模型（LLMs）会以相同方式反复失败，因为它们缺乏特定、可复用的能力。斯坦福大学的TRACE系统能从智能体自身的轨迹中诊断这些能力缺口，为每种能力合成一个可验证的训练环境，为每种能力训练一个LoRA适配器，并在专家之间路由令牌——在τ²-Bench上提升了15.3个点，在SWE-bench Verified上达到了73.2%的Pass@1。本文《斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Anthropic延长订阅用户免费使用Fable 5权限，OpenAI的GPT-5.6 Sol加剧价格战</title>
 <link>https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=37714</guid>
 <pubDate>Mon, 13 Jul 2026 07:54:34 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Anthropic将Claude Fable 5保留在订阅计划中，直至2026年7月19日。该模型原定于今日转为按使用量付费。订阅用户每周可将最多50%的限额用于Fable 5。这一延期很可能是为了应对OpenAI的GPT-5.6 Sol及更便宜竞品模型带来的定价压力。本文《Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Prime Intellect 发布 Verifiers v1：面向智能体强化学习训练与评估的可组合任务集、框架与运行时</title>
+<link>https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80998</guid>
+<pubDate>Mon, 13 Jul 2026 07:40:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Prime Intellect 发布了 verifiers 0.2.0，在 verifiers.v1 命名空间下预览了重写的“v1”核心。它将环境拆分为任务集（what）、框架（how）和运行时（where），并配备了一个拦截服务器，用于代理请求并记录训练就绪的追踪记录。任何任务集都可在任何兼容的框架下运行，并在发布时提供完整的 prime-rl 训练支持。该文章《Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations》首次出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>认识NeuroVFM：基于Vol-JEPA在未经整理的临床MRI和CT影像上训练的新型神经影像基础模型</title>
+<link>https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80995</guid>
+<pubDate>Mon, 13 Jul 2026 00:35:36 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NeuroVFM是密歇根大学开发的一款通用型神经影像基础模型，基于524万份临床MRI和CT影像数据训练而成。其Vol-JEPA基础架构将I-JEPA和V-JEPA扩展至体积医学影像领域，无需放射学报告标签即可学习大脑解剖结构和病理特征。本文《Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环</title>
+<link>https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80992</guid>
+<pubDate>Sun, 12 Jul 2026 20:07:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】大多数人仍像使用2015年的搜索框一样使用AI——输入、阅读、再输入。一种新模式用循环取代了这种手动往返。本指南通过两个已验证的成果解释循环工程：来源包括安德烈·卡帕西的自动研究代码库和双层自动研究论文，框架参考了@0xCodila的撰文。[...] 这篇《循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>研究覆盖五大平台，LinkedIn 稳坐长文AI垃圾内容之王宝座</title>
@@ -144,12 +248,36 @@
 <description><![CDATA[【the-decoder.com】标普全球已将甲骨文的信用评级下调至“BBB-”，仅比垃圾级高出一档。OpenAI约占甲骨文6380亿美元合同义务的一半。如果OpenAI退出，甲骨文将面临无法填补的巨大数据中心容量。本文《标普全球将OpenAI视为甲骨文的“关键信用风险”，并下调其信用评级》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Mira Murati的Thinking Machines Lab提出以可定制模型权重构建以人为本AI的技术论证</title>
+<link>https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80988</guid>
+<pubDate>Sun, 12 Jul 2026 00:46:13 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Thinking Machines Lab发布了题为《值得构建的未来是人性化的》一文。该文将人类参与、模型所有权和去中心化对齐视为技术挑战，并将其与交互模型及Tinker的LoRA微调技术相关联——团队可自行训练并保留其模型权重。本文首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>英伟达基于Tile的GPU编程编码指南：从cuTile与Triton内核到Flash Attention</title>
+<link>https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80985</guid>
+<pubDate>Sun, 12 Jul 2026 00:01:06 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们借助TileGym探索英伟达基于Tile的GPU编程，构建一个可在不同硬件上运行的Colab工作流。我们探测CUDA环境，尝试真实的cuTile后端，并在标准Colab GPU缺乏cuTile栈时回退到Triton。我们学习核心的Tile思想：对完整的数据块而非单个线程进行操作，然后加载、计算并存储它们。我们实现了向量加法、融合GELU、行级Softmax、分块矩阵乘法以及Flash Attention，并逐一与PyTorch进行对照验证。<br/><br/><a href="https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI押注家庭用户，ChatGPT深入千家万户</title>
 <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3141184</guid>
 <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】根据一则招聘信息，ChatGPT正在招聘一名专门的产品经理，为家庭、照护者和老年人打造体验。<br/><br/><a href="https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>蚂蚁集团 Robbyant 发布 LingBot-VA 2.0：专为物理 AI 原生构建的因果视频-动作模型</title>
+<link>https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80976</guid>
+<pubDate>Sat, 11 Jul 2026 07:56:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】蚂蚁集团 Robbyant 发布了 LingBot-VA 2.0 技术报告——这是一个从零开始为具身智能构建的物理 AI 视频-动作基础模型，而非从视频生成器微调而来。它通过前瞻推理在执行前预测未来状态，并在每次真实观测后重新接地，实现了 225 Hz 的异步控制。我们解析了因果 DiT、稀疏 MoE 视频流、语义视觉-动作分词器，以及论文中数据不一致之处。<br/><br/><a href="https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta在遭到强烈反对后移除Instagram上争议性AI功能</title>
@@ -288,22 +416,6 @@
 <description><![CDATA[【techcrunch.com】OpenAI 在不到一年后停止其AI驱动浏览器。但它正在将部分代理浏览功能迁移至桌面应用和Chrome扩展。<br/><br/><a href="https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>埃隆·马斯克称赞Mythos/Fable，承诺不会“切断”Anthropic</title>
-<link>https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140701</guid>
-<pubDate>Thu, 09 Jul 2026 21:57:42 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic是否应该信任埃隆·马斯克来托管其模型？面对约400亿美元的收入风险，马斯克坚称该公司可以做到。<br/><br/><a href="https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI能回答这个3万亿美元的问题吗？</title>
-<link>https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140802</guid>
-<pubDate>Thu, 09 Jul 2026 21:47:50 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】关于AI投资回报率的争论再度升温，数字变得更大，或许后果也更加严重。<br/><br/><a href="https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI 希望其新工具能代你完成工作，并与你协作</title>
 <link>https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/</guid>
@@ -320,36 +432,12 @@
 <description><![CDATA[【arstechnica.com】临床前试验正在测试人形机器人用于外科手术的可行性。<br/><br/><a href="https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta 携 Muse Spark 1.1 加入拥挤的AI编程战场</title>
-<link>https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140525</guid>
-<pubDate>Thu, 09 Jul 2026 19:40:45 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meta 向用户推介 Spark 的卖点在于其能够处理大型智能体工作负载、修复漏洞，并协助完成大规模代码迁移——这类自动化正是企业日益依赖AI公司提供的服务。<br/><br/><a href="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>《纽约时报》称OpenAI在ChatGPT版权审判中隐瞒证据</title>
-<link>https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140699</guid>
-<pubDate>Thu, 09 Jul 2026 19:05:58 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】新闻出版商指控OpenAI隐藏了能够识别ChatGPT输出中受版权保护的新闻内容的工具和数据集，并通过一项新的制裁动议升级了诉讼。<br/><br/><a href="https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI在与新闻机构的版权之争中可能犯下致命失误</title>
 <link>https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/</guid>
 <pubDate>Thu, 09 Jul 2026 18:57:53 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】OpenAI可能因在《纽约时报》版权诉讼中隐藏、删除ChatGPT日志而面临制裁。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌将要求披露由AI生成的广告</title>
-<link>https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3140626</guid>
-<pubDate>Thu, 09 Jul 2026 18:40:51 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】尽管谷歌禁止误导性和欺骗性广告，但广告仍可利用AI创建某种合成或数字修改的内容。此前，谷歌仅要求选举广告对此进行披露。<br/><br/><a href="https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GitHub 如何为每个仓库赋予持久的所有者</title>
@@ -398,94 +486,6 @@
 <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】ChatGPT Work 是一款能够跨应用和文件执行操作的智能代理，可在需要时持续跟进项目数小时，并将目标转化为完成的工作成果。<br/><br/><a href="https://openai.com/index/chatgpt-for-your-most-ambitious-work">阅读原文</a>]]></description>
-</item>
-<item>
-<title>激励自我中心视频理解模型的时间感知能力</title>
-<link>https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric</link>
-<guid isPermaLink="false">incentivizing-temporal-awareness-egocentric</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】多模态大语言模型（MLLMs）近期在视觉理解领域展现出强劲性能，但常缺乏时间感知能力，尤其在依赖事件正确顺序与演变的自我中心场景中。这一缺陷部分源于训练目标未能明确奖励时间推理，反而依赖帧级空间捷径。为解决此问题，我们提出时间全局策略优化（TGPO），一种基于可验证奖励的强化学习（RLVR）算法，旨在激励时间…<br/><br/><a href="https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric">阅读原文</a>]]></description>
-</item>
-<item>
-<title>递归语言模型与不确定性相遇：自反思程序搜索在长上下文中的惊人效果</title>
-<link>https://machinelearning.apple.com/research/self-reflective-program-search</link>
-<guid isPermaLink="false">self-reflective-program-search</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】长上下文处理仍是语言模型的核心挑战：即便拥有扩展的上下文窗口，模型也常难以可靠地提取、推理并利用跨长上下文的信息。近期如递归语言模型（RLMs）等研究，通过推理时以编程方式将长上下文分解为递归子查询的智能体方法应对这一挑战。尽管前景可期，RLMs的成功关键取决于这些上下文交互程序轨迹的选择方式，而这一领域此前尚未被探索。本文中，我们针对此问题展开研究……<br/><br/><a href="https://machinelearning.apple.com/research/self-reflective-program-search">阅读原文</a>]]></description>
-</item>
-<item>
-<title>揭开同策略蒸馏的面纱：何时有益、何时有害及其原因</title>
-<link>https://machinelearning.apple.com/research/unmasking-on-policy-distillation</link>
-<guid isPermaLink="false">unmasking-on-policy-distillation</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】同策略蒸馏为训练推理模型提供了密集的逐令牌监督信号；然而，目前尚不清楚在何种条件下该信号有益，在何种条件下有害。应使用哪种教师模型？在自蒸馏情况下，应选择何种具体上下文作为监督信号？最优选择是否会因令牌不同而变化？目前，回答这些问题通常需要成本高昂的训练过程，而聚合性能指标掩盖了单个令牌层面的动态变化。我们提出了一种无需训练的方法……<br/><br/><a href="https://machinelearning.apple.com/research/unmasking-on-policy-distillation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>怀疑学生用AI作弊，常春藤教授要求线下期末考试；成绩下降50%</title>
-<link>https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</guid>
-<pubDate>Wed, 08 Jul 2026 21:42:44 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】教授称AI作弊将导致“一个失败的社会”。<br/><br/><a href="https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用 GitHub Agentic Workflows 自动化跨仓库文档</title>
-<link>https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/</link>
-<guid isPermaLink="false">https://github.blog/?p=97282</guid>
-<pubDate>Wed, 08 Jul 2026 21:11:56 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>诉讼：男子利用Grok制作7000张继女性感图片后自杀</title>
-<link>https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/</guid>
-<pubDate>Wed, 08 Jul 2026 19:56:37 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】更多年轻女孩因Grok生成的儿童性虐待材料起诉X平台；X被指控包庇儿童性侵犯者。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub 可用性报告：2026年6月</title>
-<link>https://github.blog/news-insights/company-news/github-availability-report-june-2026/</link>
-<guid isPermaLink="false">https://github.blog/?p=97408</guid>
-<pubDate>Wed, 08 Jul 2026 19:35:51 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】6月份，我们遇到了六起导致GitHub服务性能下降的事件。此篇GitHub可用性报告：2026年6月最初发布于GitHub博客。<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-june-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>面向智能体的数据</title>
-<link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/open-data-for-agents</guid>
-<pubDate>Wed, 08 Jul 2026 17:16:05 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/open-data-for-agents">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌更新Android Bench，引入新的大语言模型，但Gemini仍落后</title>
-<link>https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/</link>
-<guid isPermaLink="false">https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/</guid>
-<pubDate>Wed, 08 Jul 2026 16:39:48 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Android Bench正在不断演进，开发者可以协助引导这一进程。<br/><br/><a href="https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub Copilot 如何实现 GitHub Pages 的零 DNS 配置</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/</link>
-<guid isPermaLink="false">https://github.blog/?p=97349</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】从空仓库到拥有 HTTPS 的自定义域名上线，仅需约 14 分钟，无需手动编辑任何 DNS 记录。本文《How GitHub Copilot enables zero DNS configuration for GitHub Pages》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>我们与政府及国家安全合作的方针</title>
-<link>https://openai.com/index/government-national-security-partnerships</link>
-<guid isPermaLink="false">https://openai.com/index/government-national-security-partnerships</guid>
-<pubDate>Wed, 08 Jul 2026 13:30:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】了解OpenAI如何以负责任的人工智能使用、民主问责制和公共安全为原则，开展与政府及国家安全的合作。<br/><br/><a href="https://openai.com/index/government-national-security-partnerships">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

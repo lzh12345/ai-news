@@ -3206,5 +3206,37 @@
 "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/": {
 "t": "模拟一切，某种程度上：世界模型的承诺与局限",
 "s": "专家解释其工作原理、能力范围以及尚未解决的问题。"
+},
+"https://techcrunch.com/?p=3141573": {
+"t": "Uber产品负责人谈酒店、无人驾驶出租车，以及为何公司不想“包揽一切”",
+"s": "Uber首席产品官Sachin Kansal向TechCrunch介绍了公司在金融服务领域的雄心、与Waymo日益复杂的关系、新成立的AV Labs数据运营部门，以及AI如何开始以乘客和司机实际能感知的方式显现。"
+},
+"https://techcrunch.com/?p=3141426": {
+"t": "视频生成初创公司PixVerse融资4.39亿美元，估值突破20亿美元",
+"s": "凭借这笔资金，该公司旨在扩展其世界模型产品，并触达全球各地的客户。"
+},
+"https://techcrunch.com/?p=3141670": {
+"t": "Hermes 智能体制造商 Nous Research 正洽谈新一轮融资，估值达15亿美元",
+"s": "该公司正筹集至少7500万美元，由Robot Ventures领投，USV及其他知名投资者将大力参与。"
+},
+"https://www.marktechpost.com/?p=81009": {
+"t": "Skyfall AI 发布 MORPHEUS：一个在结构化非平稳性下使持续强化学习成为必要的持久企业模拟基准",
+"s": "Skyfall AI 推出的 MORPHEUS 是一个用于持续强化学习的持久企业模拟平台。它运行永不重置的世界，采用可参数化的机制转变和六指标评估协议。在该平台上，PPO、HER、EWC 和 LCM 的表现均远低于理论上限。本文《Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity》最初发表于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3141632": {
+"t": "萨提亚·纳德拉向使用AI的公司发出惊人警告",
+"s": "在关于AI潜在负面影响的诸多争论中，硅谷AI爱好者最担忧的一点是——那些销售专有模型的巨型AI实验室，某种程度上正像特洛伊木马一样行事。"
+},
+"https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/": {
+"t": "苹果起诉OpenAI，前工程师涉嫌利用漏洞窃取商业机密",
+"s": "OpenAI被指控与前苹果员工合谋窃取商业机密。"
+},
+"https://www.marktechpost.com/?p=81005": {
+"t": "构建VideoAgent风格的多智能体系统：面向视频编辑任务的意图解析、图规划与工具路由",
+"s": "在本教程中，我们将VideoAgent工作流重构为一个可运行、无需API密钥的多智能体流水线。我们构建了意图解析器、智能体库、工具路由器、图规划器以及用于修复执行图的文本梯度优化器。我们将这些规划组件与FFmpeg、Whisper转录、场景检测、关键帧采样、字幕生成、跨模态索引以及节拍同步编辑相连接。最终，我们得到一个能够回答视频相关问题、总结视频内容，并根据自然语言指令生成编辑成品的系统。"
+},
+"https://techcrunch.com/?p=3141608": {
+"t": "苹果诉OpenAI商业秘密案中最惊人的指控",
+"s": "苹果对OpenAI提起的商业秘密诉讼中，指控内容从员工开玩笑称未经授权访问苹果系统，到求职者被要求携带苹果硬件参加面试。以下是诉状中最引人注目的几项主张。"
 }
 }
