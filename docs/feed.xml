@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 14 Jul 2026 06:04:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 09:48:39 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>已经富有、已经成功，为何上一波科技赢家再次埋头苦干</title>
@@ -14,14 +14,6 @@
 <pubDate>Tue, 14 Jul 2026 02:46:42 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】他们再次撸起袖子，似乎是出于对错过人工智能决定性时刻的恐惧，以及——想必——赚更多钱（可能多得多）的不可抗拒的诱惑。<br/><br/><a href="https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic Claude Sonnet 5 对比 Sonnet 4.6 与 Opus 4.8：自主编码基准测试、API 定价及成本性能权衡比较</title>
-<link>https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80776</guid>
-<pubDate>Tue, 14 Jul 2026 00:58:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Anthropic 的 Claude Sonnet 5 在自主编码方面缩小了与 Opus 4.8 的差距，同时保持了更低的 Sonnet 代币定价。本文《Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Uber产品负责人谈酒店、无人驾驶出租车，以及为何公司不想“包揽一切”</title>
@@ -48,14 +40,6 @@
 <description><![CDATA[【techcrunch.com】该公司正筹集至少7500万美元，由Robot Ventures领投，USV及其他知名投资者将大力参与。<br/><br/><a href="https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Skyfall AI 发布 MORPHEUS：一个在结构化非平稳性下使持续强化学习成为必要的持久企业模拟基准</title>
-<link>https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81009</guid>
-<pubDate>Mon, 13 Jul 2026 22:37:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Skyfall AI 推出的 MORPHEUS 是一个用于持续强化学习的持久企业模拟平台。它运行永不重置的世界，采用可参数化的机制转变和六指标评估协议。在该平台上，PPO、HER、EWC 和 LCM 的表现均远低于理论上限。本文《Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>萨提亚·纳德拉向使用AI的公司发出惊人警告</title>
 <link>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3141632</guid>
@@ -70,14 +54,6 @@
 <pubDate>Mon, 13 Jul 2026 19:17:51 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】OpenAI被指控与前苹果员工合谋窃取商业机密。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>构建VideoAgent风格的多智能体系统：面向视频编辑任务的意图解析、图规划与工具路由</title>
-<link>https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81005</guid>
-<pubDate>Mon, 13 Jul 2026 18:30:30 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们将VideoAgent工作流重构为一个可运行、无需API密钥的多智能体流水线。我们构建了意图解析器、智能体库、工具路由器、图规划器以及用于修复执行图的文本梯度优化器。我们将这些规划组件与FFmpeg、Whisper转录、场景检测、关键帧采样、字幕生成、跨模态索引以及节拍同步编辑相连接。最终，我们得到一个能够回答视频相关问题、总结视频内容，并根据自然语言指令生成编辑成品的系统。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>苹果诉OpenAI商业秘密案中最惊人的指控</title>
@@ -200,44 +176,12 @@
 <description><![CDATA[【the-decoder.com】谷歌研究院的SensorFM是一个基础模型，基于来自500万Fitbit和Pixel Watch用户超过一万亿分钟的穿戴设备数据进行训练。它在35项健康和行为任务中的34项上超越了现有基准。SensorFM最终可能为谷歌的AI健康教练提供动力，但该公司尚未宣布任何整合计划。本文《谷歌SensorFM将杂乱的穿戴传感器数据转化为通用健康智能层》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/sensorfm/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统</title>
-<link>https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81002</guid>
-<pubDate>Mon, 13 Jul 2026 08:45:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】智能体大语言模型（LLMs）会以相同方式反复失败，因为它们缺乏特定、可复用的能力。斯坦福大学的TRACE系统能从智能体自身的轨迹中诊断这些能力缺口，为每种能力合成一个可验证的训练环境，为每种能力训练一个LoRA适配器，并在专家之间路由令牌——在τ²-Bench上提升了15.3个点，在SWE-bench Verified上达到了73.2%的Pass@1。本文《斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Anthropic延长订阅用户免费使用Fable 5权限，OpenAI的GPT-5.6 Sol加剧价格战</title>
 <link>https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=37714</guid>
 <pubDate>Mon, 13 Jul 2026 07:54:34 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Anthropic将Claude Fable 5保留在订阅计划中，直至2026年7月19日。该模型原定于今日转为按使用量付费。订阅用户每周可将最多50%的限额用于Fable 5。这一延期很可能是为了应对OpenAI的GPT-5.6 Sol及更便宜竞品模型带来的定价压力。本文《Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Prime Intellect 发布 Verifiers v1：面向智能体强化学习训练与评估的可组合任务集、框架与运行时</title>
-<link>https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80998</guid>
-<pubDate>Mon, 13 Jul 2026 07:40:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Prime Intellect 发布了 verifiers 0.2.0，在 verifiers.v1 命名空间下预览了重写的“v1”核心。它将环境拆分为任务集（what）、框架（how）和运行时（where），并配备了一个拦截服务器，用于代理请求并记录训练就绪的追踪记录。任何任务集都可在任何兼容的框架下运行，并在发布时提供完整的 prime-rl 训练支持。该文章《Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations》首次出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>认识NeuroVFM：基于Vol-JEPA在未经整理的临床MRI和CT影像上训练的新型神经影像基础模型</title>
-<link>https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80995</guid>
-<pubDate>Mon, 13 Jul 2026 00:35:36 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NeuroVFM是密歇根大学开发的一款通用型神经影像基础模型，基于524万份临床MRI和CT影像数据训练而成。其Vol-JEPA基础架构将I-JEPA和V-JEPA扩展至体积医学影像领域，无需放射学报告标签即可学习大脑解剖结构和病理特征。本文《Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环</title>
-<link>https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80992</guid>
-<pubDate>Sun, 12 Jul 2026 20:07:02 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】大多数人仍像使用2015年的搜索框一样使用AI——输入、阅读、再输入。一种新模式用循环取代了这种手动往返。本指南通过两个已验证的成果解释循环工程：来源包括安德烈·卡帕西的自动研究代码库和双层自动研究论文，框架参考了@0xCodila的撰文。[...] 这篇《循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>研究覆盖五大平台，LinkedIn 稳坐长文AI垃圾内容之王宝座</title>
@@ -264,36 +208,12 @@
 <description><![CDATA[【the-decoder.com】标普全球已将甲骨文的信用评级下调至“BBB-”，仅比垃圾级高出一档。OpenAI约占甲骨文6380亿美元合同义务的一半。如果OpenAI退出，甲骨文将面临无法填补的巨大数据中心容量。本文《标普全球将OpenAI视为甲骨文的“关键信用风险”，并下调其信用评级》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Mira Murati的Thinking Machines Lab提出以可定制模型权重构建以人为本AI的技术论证</title>
-<link>https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80988</guid>
-<pubDate>Sun, 12 Jul 2026 00:46:13 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Thinking Machines Lab发布了题为《值得构建的未来是人性化的》一文。该文将人类参与、模型所有权和去中心化对齐视为技术挑战，并将其与交互模型及Tinker的LoRA微调技术相关联——团队可自行训练并保留其模型权重。本文首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>英伟达基于Tile的GPU编程编码指南：从cuTile与Triton内核到Flash Attention</title>
-<link>https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80985</guid>
-<pubDate>Sun, 12 Jul 2026 00:01:06 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们借助TileGym探索英伟达基于Tile的GPU编程，构建一个可在不同硬件上运行的Colab工作流。我们探测CUDA环境，尝试真实的cuTile后端，并在标准Colab GPU缺乏cuTile栈时回退到Triton。我们学习核心的Tile思想：对完整的数据块而非单个线程进行操作，然后加载、计算并存储它们。我们实现了向量加法、融合GELU、行级Softmax、分块矩阵乘法以及Flash Attention，并逐一与PyTorch进行对照验证。<br/><br/><a href="https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI押注家庭用户，ChatGPT深入千家万户</title>
 <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3141184</guid>
 <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】根据一则招聘信息，ChatGPT正在招聘一名专门的产品经理，为家庭、照护者和老年人打造体验。<br/><br/><a href="https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>蚂蚁集团 Robbyant 发布 LingBot-VA 2.0：专为物理 AI 原生构建的因果视频-动作模型</title>
-<link>https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=80976</guid>
-<pubDate>Sat, 11 Jul 2026 07:56:11 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】蚂蚁集团 Robbyant 发布了 LingBot-VA 2.0 技术报告——这是一个从零开始为具身智能构建的物理 AI 视频-动作基础模型，而非从视频生成器微调而来。它通过前瞻推理在执行前预测未来状态，并在每次真实观测后重新接地，实现了 225 Hz 的异步控制。我们解析了因果 DiT、稀疏 MoE 视频流、语义视觉-动作分词器，以及论文中数据不一致之处。<br/><br/><a href="https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta在遭到强烈反对后移除Instagram上争议性AI功能</title>
@@ -486,6 +406,86 @@
 <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】每个令牌带来更多智能，每美元带来更强性能，按需提供更多能力，助你攻克最艰巨的任务。<br/><br/><a href="https://openai.com/index/gpt-5-6">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ChatGPT 现已成为您最具雄心工作的合作伙伴</title>
+<link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
+<pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】ChatGPT Work 是一款能够跨应用和文件执行操作的智能代理，可在需要时持续跟进项目数小时，并将目标转化为完成的工作成果。<br/><br/><a href="https://openai.com/index/chatgpt-for-your-most-ambitious-work">阅读原文</a>]]></description>
+</item>
+<item>
+<title>激励自我中心视频理解模型的时间感知能力</title>
+<link>https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric</link>
+<guid isPermaLink="false">incentivizing-temporal-awareness-egocentric</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】多模态大语言模型（MLLMs）近期在视觉理解领域展现出强劲性能，但常缺乏时间感知能力，尤其在依赖事件正确顺序与演变的自我中心场景中。这一缺陷部分源于训练目标未能明确奖励时间推理，反而依赖帧级空间捷径。为解决此问题，我们提出时间全局策略优化（TGPO），一种基于可验证奖励的强化学习（RLVR）算法，旨在激励时间…<br/><br/><a href="https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric">阅读原文</a>]]></description>
+</item>
+<item>
+<title>递归语言模型与不确定性相遇：自反思程序搜索在长上下文中的惊人效果</title>
+<link>https://machinelearning.apple.com/research/self-reflective-program-search</link>
+<guid isPermaLink="false">self-reflective-program-search</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】长上下文处理仍是语言模型的核心挑战：即便拥有扩展的上下文窗口，模型也常难以可靠地提取、推理并利用跨长上下文的信息。近期如递归语言模型（RLMs）等研究，通过推理时以编程方式将长上下文分解为递归子查询的智能体方法应对这一挑战。尽管前景可期，RLMs的成功关键取决于这些上下文交互程序轨迹的选择方式，而这一领域此前尚未被探索。本文中，我们针对此问题展开研究……<br/><br/><a href="https://machinelearning.apple.com/research/self-reflective-program-search">阅读原文</a>]]></description>
+</item>
+<item>
+<title>揭开同策略蒸馏的面纱：何时有益、何时有害及其原因</title>
+<link>https://machinelearning.apple.com/research/unmasking-on-policy-distillation</link>
+<guid isPermaLink="false">unmasking-on-policy-distillation</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】同策略蒸馏为训练推理模型提供了密集的逐令牌监督信号；然而，目前尚不清楚在何种条件下该信号有益，在何种条件下有害。应使用哪种教师模型？在自蒸馏情况下，应选择何种具体上下文作为监督信号？最优选择是否会因令牌不同而变化？目前，回答这些问题通常需要成本高昂的训练过程，而聚合性能指标掩盖了单个令牌层面的动态变化。我们提出了一种无需训练的方法……<br/><br/><a href="https://machinelearning.apple.com/research/unmasking-on-policy-distillation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>怀疑学生用AI作弊，常春藤教授要求线下期末考试；成绩下降50%</title>
+<link>https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</guid>
+<pubDate>Wed, 08 Jul 2026 21:42:44 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】教授称AI作弊将导致“一个失败的社会”。<br/><br/><a href="https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用 GitHub Agentic Workflows 自动化跨仓库文档</title>
+<link>https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/</link>
+<guid isPermaLink="false">https://github.blog/?p=97282</guid>
+<pubDate>Wed, 08 Jul 2026 21:11:56 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>诉讼：男子利用Grok制作7000张继女性感图片后自杀</title>
+<link>https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/</guid>
+<pubDate>Wed, 08 Jul 2026 19:56:37 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】更多年轻女孩因Grok生成的儿童性虐待材料起诉X平台；X被指控包庇儿童性侵犯者。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub 可用性报告：2026年6月</title>
+<link>https://github.blog/news-insights/company-news/github-availability-report-june-2026/</link>
+<guid isPermaLink="false">https://github.blog/?p=97408</guid>
+<pubDate>Wed, 08 Jul 2026 19:35:51 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】6月份，我们遇到了六起导致GitHub服务性能下降的事件。此篇GitHub可用性报告：2026年6月最初发布于GitHub博客。<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-june-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>面向智能体的数据</title>
+<link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
+<guid isPermaLink="false">https://huggingface.co/blog/nvidia/open-data-for-agents</guid>
+<pubDate>Wed, 08 Jul 2026 17:16:05 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/open-data-for-agents">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌更新Android Bench，引入新的大语言模型，但Gemini仍落后</title>
+<link>https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/</link>
+<guid isPermaLink="false">https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/</guid>
+<pubDate>Wed, 08 Jul 2026 16:39:48 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Android Bench正在不断演进，开发者可以协助引导这一进程。<br/><br/><a href="https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
