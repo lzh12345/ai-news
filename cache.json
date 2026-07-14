@@ -3278,5 +3278,61 @@
 "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
 "t": "销售团队如何使用ChatGPT Work",
 "s": "了解销售团队如何利用ChatGPT Work，从实际工作输入中创建管道简报、会议准备资料、预测回顾、客户计划以及停滞交易诊断。"
+},
+"https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/": {
+"t": "谷歌为庆祝成立25周年，对图片搜索进行改版，增加更多图片和AI功能",
+"s": "新的谷歌图片搜索将利用你的“独特兴趣”，创建一个持续更新的图库。"
+},
+"https://the-decoder.com/?p=37779": {
+"t": "DeepSeek 在完成首轮70亿美元融资仅数周后，急需更多资金",
+"s": "DeepSeek 正在再次融资。这家中国AI实验室刚刚完成首轮融资，需要资金用于自建数据中心和芯片，以维持其激进定价策略。本文《DeepSeek 在完成首轮70亿美元融资仅数周后，急需更多资金》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3142125": {
+"t": "Meta的Adam Mosseri称AI代币预算可能很快按工程师设限",
+"s": "Instagram负责人Adam Mosseri认为，企业最终将需要像管理薪资或其他运营开支一样管理AI代币支出，并预测工程师可能很快面临使用AI工具时的支出上限。"
+},
+"https://the-decoder.com/?p=37774": {
+"t": "谷歌搜索在找不到所需内容时，现可生成AI图像",
+"s": "谷歌正在将AI图像生成功能引入搜索的AI概览中。当网络上没有匹配的图像时，新的Nano Banana 2 Lite模型会根据搜索查询生成一张图像。该功能将在未来几周内逐步推出。本文《谷歌搜索在找不到所需内容时，现可生成AI图像》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3141998": {
+"t": "Google图片迎来类Pinterest式改版，聚焦发现功能",
+"s": "现在，用户访问Google图片时，会看到一个“为你推荐”的图片画廊，内容根据他们的兴趣和浏览历史量身定制。"
+},
+"https://techcrunch.com/?p=3142131": {
+"t": "纽约州暂停所有新建数据中心项目",
+"s": "纽约州成为首个暂时叫停大型数据中心审批的州，州长凯西·霍楚尔表示，人工智能驱动的建设热潮不应以更高的电费、水资源供应或地方自主权为代价。"
+},
+"https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/": {
+"t": "纽约禁止数据中心建设一年，引发AI行业震动",
+"s": "纽约暂停数据中心建设的禁令，可能成为反AI运动的蓝图。"
+},
+"https://techcrunch.com/?p=3141991": {
+"t": "Reflection 与 Nebius 签署 10 亿美元算力协议",
+"s": "Reflection AI 已签署一项价值 10 亿美元的协议，以获取 Nebius 的算力资源。Reflection 成立于 2024 年，正在开发开源人工智能技术。"
+},
+"https://techcrunch.com/?p=3142002": {
+"t": "真正的AI竞赛或许已不在前沿领域",
+"s": "Hugging Face首席执行官克莱姆·德朗格表示，出于成本、可及性和所有权方面的考虑，企业越来越倾向于使用开放模型。如果大多数生产级AI最终都运行在开放模型上，前沿模型是否仍然重要？"
+},
+"https://techcrunch.com/?p=3141990": {
+"t": "Spotify 扩展AI布局，推出类ChatGPT音乐助手",
+"s": "Spotify 正在推出一项新的AI驱动对话功能，让Premium订阅用户能够通过与应用聊天来发现音乐、播客、有声读物等内容。"
+},
+"https://techcrunch.com/?p=3139498": {
+"t": "Superhuman 的新自动草稿功能几乎让我喜欢上 AI 回复",
+"s": "Superhuman 最新的 AI 邮件起草功能是其迄今为止最令人信服的功能，在我们的测试中，它生成的回复通常几乎不需要或完全不需要编辑。"
+},
+"4k8LbDKkNXwcJVEFYF1ije": {
+"t": "一次失败的DNSSEC密钥轮换导致.AL域名瘫痪，如今1.1.1.1会在验证被绕过时主动告知用户",
+"s": "当一次失败的DNSSEC密钥轮换导致.AL顶级域名瘫痪时，我们部署了负信任锚点来恢复解析。但这一次，用户无需仅凭我们的承诺：1.1.1.1返回了EDE 33——这个新的DNS错误代码直接在响应中表明DNSSEC验证已被绕过。"
+},
+"https://openai.com/index/managing-ai-investments-in-agentic-era": {
+"t": "如何在智能体时代管理AI投资",
+"s": "了解企业如何通过衡量每美元的有用工作量、提升效率以及扩展高价值工作流，在智能体时代管理AI投资。"
+},
+"proactive-agent-research-environment": {
+"t": "主动式智能体研究环境：通过模拟活跃用户评估主动式助手",
+"s": "能够预判用户需求并自主执行任务的主动式智能体作为数字助手前景广阔，但缺乏逼真的用户模拟框架阻碍了其发展。现有方法将应用程序建模为扁平化的工具调用API，未能捕捉数字环境中用户交互的状态性和顺序性特征，导致逼真的用户模拟难以实现。我们提出主动式智能体研究环境（Pare），这是一个在数字环境中构建和评估主动式智能体的框架。Pare将应用程序建模为有限状态机，并..."
 }
 }
