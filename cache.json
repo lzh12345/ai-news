@@ -3402,5 +3402,17 @@
 "https://www.marktechpost.com/?p=81027": {
 "t": "Mistral Vibe for Code 对比 Claude Code、Cursor 与 Codex：四项智能体在单一脚手架到PR任务中的评分",
 "s": "了解 Vibe、Claude Code、Cursor 和 Codex 在成本、开放权重、自托管和异步智能体界面方面的对比。本文《Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task》首发于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=37796": {
+"t": "OpenAI 的 Codex 现对 AI 代理间的指令进行加密，开发者无法追踪内部任务委派",
+"s": "自六月初起，OpenAI 的编程工具 Codex 对主代理传递给子代理的指令进行加密。开发者无法再追踪任务在内部如何被委派。对于更大的 GPT-5.6 变体 Sol 和 Terra，加密是强制性的。本文《OpenAI 的 Codex 现对 AI 代理间的指令进行加密，开发者无法追踪内部任务委派》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=37793": {
+"t": "Meta员工起诉公司，称裁员由歧视性AI筛选系统驱动",
+"s": "前Meta员工及现任员工在加州联邦法院起诉该公司，指控其利用AI系统进行大规模裁员。Meta在裁减8000名员工时，据称使用内部AI系统生成裁员名单，不成比例地针对残疾员工或休育儿假的员工。本文《Meta员工起诉公司，称裁员由歧视性AI筛选系统驱动》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37788": {
+"t": "OpenAI首款硬件产品：无屏AI音箱，旨在营造“鲜活”体验",
+"s": "OpenAI计划进军硬件领域，推出一款便携式无屏智能音箱。该设备配备摄像头、传感器及可动机械部件，旨在成为一款“有生命力”的AI伴侣。然而，苹果公司针对OpenAI硬件主管唐坦（Tang Tan）提起的商业机密诉讼，可能导致其原定于2027年的发布计划推迟。本文《OpenAI首款硬件产品：无屏AI音箱，旨在营造“鲜活”体验》最初发表于The Decoder。"
 }
 }
