@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 15 Jul 2026 09:53:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 13:17:48 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic与黑石押注：下一个万亿美元AI业务在于落地实施，而非模型本身</title>
+<link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3142610</guid>
+<pubDate>Wed, 15 Jul 2026 13:10:47 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】由Anthropic支持的Ode公司正式成立，AI实验室们押注将前线部署工程师嵌入企业内部，是加速企业采用AI的关键。<br/><br/><a href="https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Reelful 的 AI 将你的相册转化为社交媒体短视频</title>
+<link>https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3142243</guid>
+<pubDate>Wed, 15 Jul 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这款应用专为那些想要创作社交内容，但觉得传统视频编辑工具过于复杂或耗时的人群设计。<br/><br/><a href="https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Rime 获2400万美元A轮融资，助力企业处理客户来电</title>
+<link>https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3142237</guid>
+<pubDate>Wed, 15 Jul 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Rime 目前每月为多家公司处理超过1亿通电话<br/><br/><a href="https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>印度AI编程初创公司Emergent获1.3亿美元C轮融资，跻身独角兽行列</title>
+<link>https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3142019</guid>
+<pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】该初创公司年化收入运行率已达1.2亿美元，拥有超过20万付费客户。<br/><br/><a href="https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>温特·瑟夫正制定计划，让AI代理在开放互联网上自由行动</title>
+<link>https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3142184</guid>
+<pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这位TCP/IP协议的缔造者正在制定一项标准，用于识别网络中的AI代理。<br/><br/><a href="https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI 的 Codex 现对 AI 代理间的指令进行加密，开发者无法追踪内部任务委派</title>
 <link>https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/</link>
@@ -38,6 +78,14 @@
 <pubDate>Wed, 15 Jul 2026 00:27:04 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】融资洽谈表明投资者对利用AI在生命科学领域取得突破的兴趣浓厚。<br/><br/><a href="https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Real World VoiceEQ 发布：衡量语音 AI 的人类化质量</title>
+<link>https://huggingface.co/blog/real-world-voiceeq</link>
+<guid isPermaLink="false">https://huggingface.co/blog/real-world-voiceeq</guid>
+<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/real-world-voiceeq">阅读原文</a>]]></description>
 </item>
 <item>
 <title>洛德称AI眼镜“不够性感”</title>
@@ -208,22 +256,6 @@
 <description><![CDATA[【techcrunch.com】Hugging Face首席执行官克莱姆·德朗格表示，出于成本、可及性和所有权方面的考虑，企业越来越倾向于使用开放模型。如果大多数生产级AI最终都运行在开放模型上，前沿模型是否仍然重要？<br/><br/><a href="https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Spotify 扩展AI布局，推出类ChatGPT音乐助手</title>
-<link>https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3141990</guid>
-<pubDate>Tue, 14 Jul 2026 14:06:47 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Spotify 正在推出一项新的AI驱动对话功能，让Premium订阅用户能够通过与应用聊天来发现音乐、播客、有声读物等内容。<br/><br/><a href="https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Superhuman 的新自动草稿功能几乎让我喜欢上 AI 回复</title>
-<link>https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3139498</guid>
-<pubDate>Tue, 14 Jul 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Superhuman 最新的 AI 邮件起草功能是其迄今为止最令人信服的功能，在我们的测试中，它生成的回复通常几乎不需要或完全不需要编辑。<br/><br/><a href="https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>一次失败的DNSSEC密钥轮换导致.AL域名瘫痪，如今1.1.1.1会在验证被绕过时主动告知用户</title>
 <link>https://blog.cloudflare.com/dnssec-nta-ede-33/</link>
 <guid isPermaLink="false">4k8LbDKkNXwcJVEFYF1ije</guid>
@@ -272,22 +304,6 @@
 <description><![CDATA[【openai.com】了解企业如何通过衡量每美元的有用工作量、提升效率以及扩展高价值工作流，在智能体时代管理AI投资。<br/><br/><a href="https://openai.com/index/managing-ai-investments-in-agentic-era">阅读原文</a>]]></description>
 </item>
 <item>
-<title>已经富有、已经成功，为何上一波科技赢家再次埋头苦干</title>
-<link>https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3141909</guid>
-<pubDate>Tue, 14 Jul 2026 02:46:42 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】他们再次撸起袖子，似乎是出于对错过人工智能决定性时刻的恐惧，以及——想必——赚更多钱（可能多得多）的不可抗拒的诱惑。<br/><br/><a href="https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Uber产品负责人谈酒店、无人驾驶出租车，以及为何公司不想“包揽一切”</title>
-<link>https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3141573</guid>
-<pubDate>Tue, 14 Jul 2026 00:45:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Uber首席产品官Sachin Kansal向TechCrunch介绍了公司在金融服务领域的雄心、与Waymo日益复杂的关系、新成立的AV Labs数据运营部门，以及AI如何开始以乘客和司机实际能感知的方式显现。<br/><br/><a href="https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>主动式智能体研究环境：通过模拟活跃用户评估主动式助手</title>
 <link>https://machinelearning.apple.com/research/proactive-agent-research-environment</link>
 <guid isPermaLink="false">proactive-agent-research-environment</guid>
@@ -318,14 +334,6 @@
 <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】了解销售团队如何利用ChatGPT Work，从实际工作输入中创建管道简报、会议准备资料、预测回顾、客户计划以及停滞交易诊断。<br/><br/><a href="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex">阅读原文</a>]]></description>
-</item>
-<item>
-<title>视频生成初创公司PixVerse融资4.39亿美元，估值突破20亿美元</title>
-<link>https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3141426</guid>
-<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】凭借这笔资金，该公司旨在扩展其世界模型产品，并触达全球各地的客户。<br/><br/><a href="https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>苹果起诉OpenAI，前工程师涉嫌利用漏洞窃取商业机密</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】每个令牌带来更多智能，每美元带来更强性能，按需提供更多能力，助你攻克最艰巨的任务。<br/><br/><a href="https://openai.com/index/gpt-5-6">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-5.5 生物漏洞赏金计划</title>
-<link>https://openai.com/index/bio-bug-bounty</link>
-<guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
-<pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】关于 OpenAI 生物漏洞赏金计划的详细信息<br/><br/><a href="https://openai.com/index/bio-bug-bounty">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
