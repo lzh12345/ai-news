@@ -3394,5 +3394,13 @@
 "https://techcrunch.com/?p=3142242": {
 "t": "OpenAI新旗舰模型自行删除文件，用户持续发出警告",
 "s": "多个社交媒体帖子声称，GPT-5.6 Sol 在未发出警告的情况下删除了文件和资料。OpenAI 早在6月份就已基本披露了这一问题。"
+},
+"https://www.marktechpost.com/?p=81033": {
+"t": "PrismML 发布 Bonsai 27B：可在笔记本和手机上运行的 Qwen3.6-27B 1-bit 与三值化版本",
+"s": "PrismML 刚刚发布了 Bonsai 27B。这是 Qwen3.6-27B 的低比特表示，并非新的预训练模型。其架构保持不变。两个变体均以 Apache 2.0 许可发布。三值化 Bonsai 27B 使用 {−1, 0, +1} 权重，实际每权重仅 1.71 比特，理想大小为 5.9GB。1-bit Bonsai 27B 使用二进制 {−1, +1} 权重……该文章 PrismML Releases Bonsai 27B: 1-bit and Ternary Builds of Qwen3.6-27B That Run on Laptops and Phones 最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81027": {
+"t": "Mistral Vibe for Code 对比 Claude Code、Cursor 与 Codex：四项智能体在单一脚手架到PR任务中的评分",
+"s": "了解 Vibe、Claude Code、Cursor 和 Codex 在成本、开放权重、自托管和异步智能体界面方面的对比。本文《Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task》首发于 MarkTechPost。"
 }
 }

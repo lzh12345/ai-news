@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 15 Jul 2026 01:41:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 06:08:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>OpenAI研究员Miles Wang洽谈创立AI药物发现初创公司，估值达20亿美元</title>
@@ -22,6 +22,14 @@
 <pubDate>Tue, 14 Jul 2026 23:10:02 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】“在我们的世界里，越来越难以分辨什么是真实的，”洛德在舞台上说道。<br/><br/><a href="https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>PrismML 发布 Bonsai 27B：可在笔记本和手机上运行的 Qwen3.6-27B 1-bit 与三值化版本</title>
+<link>https://www.marktechpost.com/2026/07/14/prismml-releases-bonsai-27b-1-bit-and-ternary-builds-of-qwen3-6-27b-that-run-on-laptops-and-phones/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81033</guid>
+<pubDate>Tue, 14 Jul 2026 22:51:34 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】PrismML 刚刚发布了 Bonsai 27B。这是 Qwen3.6-27B 的低比特表示，并非新的预训练模型。其架构保持不变。两个变体均以 Apache 2.0 许可发布。三值化 Bonsai 27B 使用 {−1, 0, +1} 权重，实际每权重仅 1.71 比特，理想大小为 5.9GB。1-bit Bonsai 27B 使用二进制 {−1, +1} 权重……该文章 PrismML Releases Bonsai 27B: 1-bit and Ternary Builds of Qwen3.6-27B That Run on Laptops and Phones 最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/14/prismml-releases-bonsai-27b-1-bit-and-ternary-builds-of-qwen3-6-27b-that-run-on-laptops-and-phones/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI 首款硬件设备据报为无屏幕可移动音箱</title>
@@ -46,6 +54,22 @@
 <pubDate>Tue, 14 Jul 2026 21:50:11 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】多个社交媒体帖子声称，GPT-5.6 Sol 在未发出警告的情况下删除了文件和资料。OpenAI 早在6月份就已基本披露了这一问题。<br/><br/><a href="https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral Vibe for Code 对比 Claude Code、Cursor 与 Codex：四项智能体在单一脚手架到PR任务中的评分</title>
+<link>https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81027</guid>
+<pubDate>Tue, 14 Jul 2026 20:52:41 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】了解 Vibe、Claude Code、Cursor 和 Codex 在成本、开放权重、自托管和异步智能体界面方面的对比。本文《Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenCoreDev 发布 Domain SDK 0.2.0：一个 TypeScript API，可在五个平台上添加、验证和移除客户域名</title>
+<link>https://www.marktechpost.com/2026/07/14/opencoredev-releases-domain-sdk-0-2-0-one-typescript-api-to-add-verify-and-remove-customer-domains-across-five-platforms/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81024</guid>
+<pubDate>Tue, 14 Jul 2026 20:16:51 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenCoreDev 发布了 Domain SDK 0.2.0，这是一个用于自定义域名生命周期的 TypeScript 客户端。它通过一个 API 覆盖了 Vercel、Cloudflare for SaaS、Railway、Render 和 Netlify。状态被建模为一个八值联合类型，并包含独立的验证和证书字段。本文 OpenCoreDev 发布 Domain SDK 0.2.0：一个 TypeScript API，可在五个平台上添加、验证和移除客户域名 最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/14/opencoredev-releases-domain-sdk-0-2-0-one-typescript-api-to-add-verify-and-remove-customer-domains-across-five-platforms/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>诉讼称Meta的裁员决定由AI而非人类做出</title>
@@ -248,12 +272,36 @@
 <description><![CDATA[【openai.com】了解企业如何通过衡量每美元的有用工作量、提升效率以及扩展高价值工作流，在智能体时代管理AI投资。<br/><br/><a href="https://openai.com/index/managing-ai-investments-in-agentic-era">阅读原文</a>]]></description>
 </item>
 <item>
+<title>认识 Blume：一个开源、零配置的文档框架，能从 Markdown 文件夹生成 AI 就绪文档</title>
+<link>https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81018</guid>
+<pubDate>Tue, 14 Jul 2026 08:15:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】开发者 Hayden Bleasel 发布了 Blume，一个开源、采用 MIT 许可证的文档框架。它能读取 Markdown 或 MDX 文件夹，生成一个隐藏的 Astro 项目，输出静态、AI 就绪的文档，并内置本地搜索、30 多个 MDX 组件、llms.txt 以及一个 MCP 服务器。这篇文章《Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral AI 发布 Robostral Navigate：一款仅用单 RGB 摄像头即可让机器人在复杂环境中导航的 8B 模型</title>
+<link>https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81014</guid>
+<pubDate>Tue, 14 Jul 2026 07:20:38 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Mistral AI 推出了 Robostral Navigate，一款 8B 参数具身导航模型。它仅通过单 RGB 摄像头（无需激光雷达或深度传感器）即可根据自然语言指令引导机器人移动。该模型通过指向方法、前缀缓存训练和 CISPO 在线强化学习，在 R2R-CE 验证集未见场景中达到了 76.6% 的成功率。本文《Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>已经富有、已经成功，为何上一波科技赢家再次埋头苦干</title>
 <link>https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3141909</guid>
 <pubDate>Tue, 14 Jul 2026 02:46:42 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】他们再次撸起袖子，似乎是出于对错过人工智能决定性时刻的恐惧，以及——想必——赚更多钱（可能多得多）的不可抗拒的诱惑。<br/><br/><a href="https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic Claude Sonnet 5 对比 Sonnet 4.6 与 Opus 4.8：自主编码基准测试、API 定价及成本性能权衡比较</title>
+<link>https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80776</guid>
+<pubDate>Tue, 14 Jul 2026 00:58:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic 的 Claude Sonnet 5 在自主编码方面缩小了与 Opus 4.8 的差距，同时保持了更低的 Sonnet 代币定价。本文《Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Uber产品负责人谈酒店、无人驾驶出租车，以及为何公司不想“包揽一切”</title>
@@ -304,12 +352,28 @@
 <description><![CDATA[【techcrunch.com】凭借这笔资金，该公司旨在扩展其世界模型产品，并触达全球各地的客户。<br/><br/><a href="https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Skyfall AI 发布 MORPHEUS：一个在结构化非平稳性下使持续强化学习成为必要的持久企业模拟基准</title>
+<link>https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81009</guid>
+<pubDate>Mon, 13 Jul 2026 22:37:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Skyfall AI 推出的 MORPHEUS 是一个用于持续强化学习的持久企业模拟平台。它运行永不重置的世界，采用可参数化的机制转变和六指标评估协议。在该平台上，PPO、HER、EWC 和 LCM 的表现均远低于理论上限。本文《Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>苹果起诉OpenAI，前工程师涉嫌利用漏洞窃取商业机密</title>
 <link>https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/</guid>
 <pubDate>Mon, 13 Jul 2026 19:17:51 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】OpenAI被指控与前苹果员工合谋窃取商业机密。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>构建VideoAgent风格的多智能体系统：面向视频编辑任务的意图解析、图规划与工具路由</title>
+<link>https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81005</guid>
+<pubDate>Mon, 13 Jul 2026 18:30:30 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们将VideoAgent工作流重构为一个可运行、无需API密钥的多智能体流水线。我们构建了意图解析器、智能体库、工具路由器、图规划器以及用于修复执行图的文本梯度优化器。我们将这些规划组件与FFmpeg、Whisper转录、场景检测、关键帧采样、字幕生成、跨模态索引以及节拍同步编辑相连接。最终，我们得到一个能够回答视频相关问题、总结视频内容，并根据自然语言指令生成编辑成品的系统。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI新提示指南：告诉用户停止过度思考，从结果出发</title>
@@ -368,6 +432,22 @@
 <description><![CDATA[【arstechnica.com】专家解释其工作原理、能力范围以及尚未解决的问题。<br/><br/><a href="https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统</title>
+<link>https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81002</guid>
+<pubDate>Mon, 13 Jul 2026 08:45:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】智能体大语言模型（LLMs）会以相同方式反复失败，因为它们缺乏特定、可复用的能力。斯坦福大学的TRACE系统能从智能体自身的轨迹中诊断这些能力缺口，为每种能力合成一个可验证的训练环境，为每种能力训练一个LoRA适配器，并在专家之间路由令牌——在τ²-Bench上提升了15.3个点，在SWE-bench Verified上达到了73.2%的Pass@1。本文《斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Prime Intellect 发布 Verifiers v1：面向智能体强化学习训练与评估的可组合任务集、框架与运行时</title>
+<link>https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=80998</guid>
+<pubDate>Mon, 13 Jul 2026 07:40:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Prime Intellect 发布了 verifiers 0.2.0，在 verifiers.v1 命名空间下预览了重写的“v1”核心。它将环境拆分为任务集（what）、框架（how）和运行时（where），并配备了一个拦截服务器，用于代理请求并记录训练就绪的追踪记录。任何任务集都可在任何兼容的框架下运行，并在发布时提供完整的 prime-rl 训练支持。该文章《Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations》首次出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>更好的工具反而让 Copilot 代码审查变得更糟。以下是我们实际改进的方法。</title>
 <link>https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/</link>
 <guid isPermaLink="false">https://github.blog/?p=97467</guid>
@@ -406,86 +486,6 @@
 <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/torch-attention-profile">阅读原文</a>]]></description>
-</item>
-<item>
-<title>智能体谈判中的行为隐私泄露：通过随机化策略形式化与缓解推理攻击</title>
-<link>https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation</link>
-<guid isPermaLink="false">behavioral-privacy-agentic-negotiation</guid>
-<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】本文已被2026年国际可用性、可靠性与安全会议（ARES）下设的AI4TCI（面向安全可信关键基础设施系统的人工智能研讨会）接收。自主谈判智能体正越来越多地部署于保险、采购等高敏感场景。尽管加密技术能保护明确披露的约束值，却无法应对一种更隐蔽的威胁——行为隐私泄露：攻击者可通过观察谈判动态（如让步轨迹、时序等）推断出智能体的私有约束。<br/><br/><a href="https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT入门指南</title>
-<link>https://openai.com/academy/getting-started</link>
-<guid isPermaLink="false">https://openai.com/academy/getting-started</guid>
-<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】了解如何使用ChatGPT，开启你的首次对话，并发现利用AI进行写作、头脑风暴和解决问题的简单方法。<br/><br/><a href="https://openai.com/academy/getting-started">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI 希望其新工具能代你完成工作，并与你协作</title>
-<link>https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/</guid>
-<pubDate>Thu, 09 Jul 2026 21:25:55 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】更名后的 Codex 承诺提供独立工作流，可“在需要时运行数小时”。<br/><br/><a href="https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>外科医生操控的人形机器人完成全球首例活猪手术</title>
-<link>https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/</guid>
-<pubDate>Thu, 09 Jul 2026 20:12:03 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】临床前试验正在测试人形机器人用于外科手术的可行性。<br/><br/><a href="https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI在与新闻机构的版权之争中可能犯下致命失误</title>
-<link>https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/</guid>
-<pubDate>Thu, 09 Jul 2026 18:57:53 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】OpenAI可能因在《纽约时报》版权诉讼中隐藏、删除ChatGPT日志而面临制裁。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub 如何为每个仓库赋予持久的所有者</title>
-<link>https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/</link>
-<guid isPermaLink="false">https://github.blog/?p=97373</guid>
-<pubDate>Thu, 09 Jul 2026 16:29:37 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】GitHub 拥有超过 14,000 个仓库，其中不到一半有明确的所有者。本文介绍了我们如何在 45 天内为每个活跃仓库赋予经过验证的所有者，归档其余仓库，并将所有权作为后续一切工作的基础。该文章最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>为何我们不能等待更好的后量子签名算法</title>
-<link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
-<guid isPermaLink="false">5wMIF1Oa7DES2YNRpqiVB0</guid>
-<pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】NIST正在推进九种新的后量子签名算法，作为未来标准化的潜在候选方案。我们深入审视了所有这些算法，并认为尽管它们正在研发中且展现出巨大潜力，但目前我们应使用ML-DSA——这是当前可用的最佳选择。<br/><br/><a href="https://blog.cloudflare.com/ml-dsa-will-have-to-do/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-5.6 现已成为 Microsoft 365 Copilot 中的首选模型</title>
-<link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
-<pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】了解 GPT-5.6 如何以更强的 AI 能力驱动 Microsoft 365 Copilot，在 Word、Excel、PowerPoint、Chat 和 Cowork 中实现更快速、更高质量的工作。<br/><br/><a href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-5.6：随你雄心扩展的前沿智能</title>
-<link>https://openai.com/index/gpt-5-6</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
-<pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】每个令牌带来更多智能，每美元带来更强性能，按需提供更多能力，助你攻克最艰巨的任务。<br/><br/><a href="https://openai.com/index/gpt-5-6">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT 现已成为您最具雄心工作的合作伙伴</title>
-<link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
-<guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
-<pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】ChatGPT Work 是一款能够跨应用和文件执行操作的智能代理，可在需要时持续跟进项目数小时，并将目标转化为完成的工作成果。<br/><br/><a href="https://openai.com/index/chatgpt-for-your-most-ambitious-work">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
