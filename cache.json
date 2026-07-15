@@ -3478,5 +3478,53 @@
 "https://www.marktechpost.com/?p=81042": {
 "t": "Google 发布 LiteRT.js：一款通过 WebGPU 在浏览器中运行 .tflite 模型的 LiteRT JavaScript 绑定",
 "s": "Google 于 2026 年 7 月 9 日发布了 LiteRT.js。它是 Google 设备端推理库 LiteRT 的 JavaScript 绑定。该运行时通过 WebAssembly 直接在浏览器中执行 .tflite 模型，在 CPU 上使用 XNNPACK，通过 WebGPU 使用 ML Drift，并实验性地支持通过 WebNN 使用 NPU。Google 报告称，相比其他 Web 运行时性能提升高达 3 倍，而 GPU 或 NPU 相比其自身 CPU 路径性能提升 5 到 60 倍。该公告遗漏了一个细节：张量需要手动管理且必须删除。这篇题为《Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs .tflite Models in Browsers via WebGPU》的文章最初出现在 Mar 上。"
+},
+"https://the-decoder.com/?p=37817": {
+"t": "OpenAI 正用AI攻击自身AI，效果远超人类",
+"s": "OpenAI内部GPT-Red模型通过自我对抗训练，在84%的测试场景中成功发起攻击，而人类红队成员仅能完成13%。这些结果直接用于强化如GPT-5.6 Sol等模型。本文《OpenAI正用AI攻击自身AI，效果远超人类》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3142831": {
+"t": "在硬件法律纠纷中，OpenAI 发布一款售价 230 美元的 Codex 键盘",
+"s": "OpenAI 正与苹果就硬件商业机密盗窃指控陷入法律纠纷，与此同时，该公司发布了一款发光键盘，旨在与其智能编码应用配合使用。"
+},
+"https://techcrunch.com/?p=3135290": {
+"t": "SpaceX股价跌至135美元IPO价格，星舰发射在即",
+"s": "该股从IPO后的狂热高点持续回落，表明市场可能对CEO埃隆·马斯克在SpaceX上市前后所做的承诺逐渐清醒。"
+},
+"https://techcrunch.com/?p=3142329": {
+"t": "Thinking Machines 加大赌注，推出首个开放模型 Inkling，挑战“一刀切”式AI",
+"s": "这是该公司在近一年半时间里基本在公众视野之外构建AI基础设施后，首次公开的成果证明。"
+},
+"https://the-decoder.com/?p=37813": {
+"t": "GPT-5.6 Sol 据称在人类无法破解后，仅用90分钟推翻了一个30年历史的统计学猜想",
+"s": "宾夕法尼亚大学的一位统计学教授使用OpenAI的GPT-5.6 Sol Pro，在大约90分钟内推翻了一个关于Benjamini-Hochberg方法的中心开放猜想。其前代模型GPT-5.5即使经过20小时也无法找到解决方案。答案以新颖方式结合了已知方法，同时保留了一个更大的问题：AI能否产生真正的新知识，还是仅仅重新组合它已学到的内容？文章《GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it》最初发表于The Decoder。"
+},
+"https://huggingface.co/blog/allenai/shippy-tech-blog": {
+"t": "构建Shippy教会了我们关于构建智能体的哪些经验",
+"s": ""
+},
+"https://github.blog/?p=97534": {
+"t": "GitHub 初学者指南：掌握 GitHub 核心技能的路线图",
+"s": "刚接触 GitHub？这份初学者指南将解释版本控制、仓库和拉取请求——以及你需要自信地在 GitHub 上开始工作的其他一切。本文《GitHub 初学者指南：掌握 GitHub 核心技能的路线图》最初发布于 GitHub 博客。"
+},
+"https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt": {
+"t": "模型路由看似简单，实则不然",
+"s": ""
+},
+"https://techcrunch.com/?post_type=tc_video&p=3142876": {
+"t": "深入解读Ode与Anthropic：这家押注AI服务是企业未来的初创公司",
+"s": "少数工程师真的能完成一支顾问团队的工作吗？这正是Ode与Anthropic合作背后的赌注——这家合资企业致力于将前沿部署工程师嵌入企业公司，并获得了Anthropic、黑石集团、Hellman & Friedman、高盛等机构的支持。在本期TechCrunch的Equity播客中，Rebecca Bellan与Ode的领导者Chris Taylor和Eddie Siegel（两人共同创立了Fractional AI）进行了对话。"
+},
+"https://huggingface.co/blog/thinkingmachines-inkling": {
+"t": "欢迎 Inkling by Thinking Machines",
+"s": ""
+},
+"adapting-pretrained-visual-encoders": {
+"t": "一层足矣：为图像生成适配预训练视觉编码器",
+"s": "视觉生成模型（如扩散模型）通常在压缩的潜在空间中运行，以平衡训练效率与样本质量。与此同时，利用高质量预训练视觉表征的兴趣日益增长——无论是通过将其与VAE内部对齐，还是直接整合到生成模型中。然而，由于理解导向的特征与生成友好的潜在空间之间存在根本性不匹配，适配此类表征仍具挑战性。表征编码器受益于高维潜在变量，这些变量能够捕捉多样化的假设……"
+},
+"clara-latent-reasoning": {
+"t": "CLaRa：通过连续潜在推理桥接检索与生成",
+"s": "检索增强生成（RAG）通过外部知识增强了大型语言模型（LLM），但仍面临长上下文以及检索与生成优化脱节的问题。在这项工作中，我们提出了CLaRa（连续潜在推理），这是一个统一的框架，在共享的连续空间中执行基于嵌入的压缩和联合优化。为了获得语义丰富且可检索的压缩向量，从而减少输入生成器的文档长度，我们引入了SCP，这是一种基于问答和释义的关键保留数据合成框架……"
 }
 }
