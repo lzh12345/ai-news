@@ -3438,5 +3438,45 @@
 "https://huggingface.co/blog/real-world-voiceeq": {
 "t": "Real World VoiceEQ 发布：衡量语音 AI 的人类化质量",
 "s": ""
+},
+"https://techcrunch.com/?p=3142768": {
+"t": "黑客事件表明AI音乐生成器Suno可能从YouTube抓取训练数据",
+"s": "黑客利用一名员工的凭证访问了源代码，揭示了Suno如何抓取数十年的音频数据。"
+},
+"https://techcrunch.com/?p=3142373": {
+"t": "Whatnot 收购 Shaped，助力实时直播购物推荐",
+"s": "直播购物平台 Whatnot 已收购人工智能初创公司 Shaped，这是一家专注于实时推荐和搜索的机器学习公司。这笔交易将增强 Whatnot 的个性化与发现功能，同时其正拓展至新的产品类别。"
+},
+"https://techcrunch.com/?p=3142791": {
+"t": "微软修复创纪录数量的安全漏洞，归功于其AI技术的应用",
+"s": "微软每月发布的安全修复补丁（即“补丁星期二”）解决了公司产品线中创纪录的570个安全漏洞，这得益于AI技术的发现。"
+},
+"https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/": {
+"t": "OpenAI 的首款品牌硬件竟是……发光键盘？",
+"s": "Codex Micro 旨在让用户一目了然地监控多个智能体线程。"
+},
+"https://the-decoder.com/?p=37801": {
+"t": "Bonsai 27B：一款可运行于iPhone的完全开源推理模型",
+"s": "PrismML将一款270亿参数的AI模型压缩至4GB以下，体积小到足以在iPhone上运行。根据该公司自测基准，最小版本保留了原始性能的90%，数学和编程得分几乎未受影响。据报道，苹果已在测试该压缩技术，这可能有助于缩小其在设备端AI领域的差距。本文《Bonsai 27B is a full open reasoning model that fits on an iPhone》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=37806": {
+"t": "Spotify 押注高级用户希望与音乐播放器对话",
+"s": "Spotify 正在扩展其AI语音界面。高级用户现在可以直接在应用内与服务进行语音或文字交流。这篇文章《Spotify bets Premium subscribers want to chat with their music player》最初出现在The Decoder上。"
+},
+"https://techcrunch.com/?p=3142774": {
+"t": "苹果智能获准在华上线，搭载阿里巴巴通义千问AI",
+"s": "苹果智能即将进入中国，监管机构已批准苹果通过与阿里巴巴合作提供AI服务。这项传闻已久的交易将把阿里巴巴的通义千问AI模型引入苹果操作系统，标志着该公司生成式AI平台在其最重要市场之一的重大扩展。"
+},
+"https://openai.com/index/advancing-ai-safety-through-state-and-federal-action": {
+"t": "美国正通过州与联邦行动推进AI安全",
+"s": "OpenAI提出了一种“反向联邦制”的AI治理方法，即通过各州法律共同构建一个安全、民主的AI国家框架。"
+},
+"https://openai.com/index/unlocking-self-improvement-gpt-red": {
+"t": "GPT-Red：解锁鲁棒性的自我改进能力",
+"s": "探索GPT-Red，OpenAI的自动化红队系统，通过自我博弈提升AI安全性、对齐能力及提示注入鲁棒性。"
+},
+"https://www.marktechpost.com/?p=81042": {
+"t": "Google 发布 LiteRT.js：一款通过 WebGPU 在浏览器中运行 .tflite 模型的 LiteRT JavaScript 绑定",
+"s": "Google 于 2026 年 7 月 9 日发布了 LiteRT.js。它是 Google 设备端推理库 LiteRT 的 JavaScript 绑定。该运行时通过 WebAssembly 直接在浏览器中执行 .tflite 模型，在 CPU 上使用 XNNPACK，通过 WebGPU 使用 ML Drift，并实验性地支持通过 WebNN 使用 NPU。Google 报告称，相比其他 Web 运行时性能提升高达 3 倍，而 GPU 或 NPU 相比其自身 CPU 路径性能提升 5 到 60 倍。该公告遗漏了一个细节：张量需要手动管理且必须删除。这篇题为《Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs .tflite Models in Browsers via WebGPU》的文章最初出现在 Mar 上。"
 }
 }
