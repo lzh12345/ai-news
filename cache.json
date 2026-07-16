@@ -3654,5 +3654,53 @@
 "https://openai.com/index/cars24": {
 "t": "Cars24 如何借助 OpenAI 扩展对话并加速发展",
 "s": "Cars24 利用 OpenAI 驱动的语音和聊天代理，每月处理超过 100 万分钟的对话，挽回 12% 的流失线索，并将代理工作流推广至公司各个团队。"
+},
+"https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/": {
+"t": "官方确认：欧盟将强制谷歌共享搜索数据并开放安卓AI功能",
+"s": "谷歌表示，这些变化可能会危及用户隐私和安全。"
+},
+"https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/": {
+"t": "xAI 无法再否认 Grok 生成儿童性虐待内容，于是起诉用户",
+"s": "埃隆·马斯克的 xAI 对一名被指控制作儿童色情图像的 Grok 用户提起了首起诉讼。"
+},
+"https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/": {
+"t": "对类人机器人的恐惧引发现代汽车工厂工人罢工",
+"s": "现代汽车计划从2028年起在美国工厂部署25000台Atlas机器人。"
+},
+"https://the-decoder.com/?p=37866": {
+"t": "Kimi 开源模型 K3 逼近 GPT-5.6 Sol 和 Fable 5，同时标志着超低价中国 AI 时代的终结",
+"s": "Kimi 即将发布 K3，这是一个多模态开源权重模型，拥有 2.8 万亿参数和 100 万 token 的上下文长度。在自家基准测试中，该模型接近 Claude Fable 5 和 GPT 5.6 Sol 的水平，同时大幅领先 Opus 4.8 和 GLM 5.2。该模型的价格也显著高于其前代产品。完整权重计划于 7 月 27 日前发布。文章《Kimi 开源模型 K3 逼近 GPT-5.6 Sol 和 Fable 5，同时标志着超低价中国 AI 时代的终结》最初发表于 The Decoder。"
+},
+"https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/": {
+"t": "Linus Torvalds 对 Linux 中 AI 编码的批评者说：\"Fork it. 或者直接走开。\"",
+"s": "Linux 创始人表示，他将\"非常大声地忽略\"那些主张禁止 AI 工具的人。"
+},
+"3RCeHS5ENXpygHO6HPhX6f": {
+"t": "AI算力鸿沟：企业基础设施采购速度远超成本核算能力",
+"s": "在107家企业中，AI基础设施支出正加速增长，远超企业对其经济性的洞察或管控能力。多数组织仍依托熟悉的超大规模云服务商和模型提供商API运行AI，但下一笔资金正流向几乎无人当前使用的专用算力；大部分企业计划在年内更换或新增供应商，其中许多将在季度内完成。采购决策取决于集成度与总拥有成本，而非表面上的Token价格——这实属幸运，因为多数企业尚无法清晰核算单位经济性：GPU利用率仅达半数。"
+},
+"guLr7ih5ILpsMnOOTAHLN": {
+"t": "AI代理安全缺口：54%的企业已遭遇AI代理安全事件，多数企业仍允许代理共享凭证",
+"s": "在107家企业中，AI代理已被授予对系统和数据的真实访问权限，而旨在约束它们的管控措施却滞后。超过半数企业已确认发生代理安全事件或险些发生事故；仅约三分之一的企业为每个代理分配独立的限定身份，多数代理仍共享凭证；只有三成企业隔离了最高风险的代理。安全技术栈绝大多数来自模型提供商和超大规模云服务商，而非专为代理构建，安全支出仅占预算的极小部分，且企业在是否应加强代理安全管控上意见分歧明显。"
+},
+"https://www.marktechpost.com/?p=81070": {
+"t": "OpenAI 详解 GPT-Red：内部自动化红队模型在提示注入测试中以 84% 对 13% 击败人类红队成员",
+"s": "OpenAI 训练了 GPT-Red，这是一个仅限内部使用的攻击模型，通过与一组防御型大语言模型进行自我对弈强化学习。在复现的间接提示注入测试场景中，它以 84% 对 13% 的胜率击败了人类红队成员，发现了一种新颖的“虚假思维链”攻击类别，并在 OpenAI 最难的直接注入基准测试中将 GPT-5.6 Sol 的失败率降低了 6 倍。OpenAI 承认，该模型在处理多轮和基于图像的攻击时仍存在困难。该文章《OpenAI 详解 GPT-Red：内部自动化红队模型在提示注入测试中以 84% 对 13% 击败人类红队成员》最初发表于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3143447": {
+"t": "Google Vids 现在让你出演自己的AI视频",
+"s": "Google正在为Vids添加个性化AI头像，让用户能够创建以自己数字形象为主角的视频，同时提供由Gemini Omni驱动的工具，支持通过提示和参考图像生成并编辑视频。"
+},
+"https://techcrunch.com/?p=3143441": {
+"t": "Roblox 在其移动应用中推出AI驱动的游戏创建功能",
+"s": "Roblox 的新“Build”功能允许用户通过单个文本提示生成基础游戏。"
+},
+"https://the-decoder.com/?p=37861": {
+"t": "Google 将 NotebookLM 更名为 Gemini Notebook，并向第三方开放搜索应用集成",
+"s": "Google 将 NotebookLM 更名为 Gemini Notebook，并将该工具更深入地整合到其生态系统中。一项新功能为每个笔记本提供了独立的云计算机，可编写和运行代码，初期面向 AI Ultra 和 Workspace 用户。此外，Google 搜索正在获得应用连接功能。文章《Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration》最初发表于 The Decoder。"
+},
+"2Jg9kvtAsPN9IxCbC6KaEt": {
+"t": "AI上下文鸿沟：企业AI组织面临的是信任问题，而非检索问题——多数企业仍在构建解决方案",
+"s": "在101家企业中，为AI智能体提供业务上下文的基础设施建设速度已超过其可信度。检索增强生成已成为默认的上下文来源，而供应商原生检索已悄然超越定义该领域的专用向量数据库——然而，大多数企业已观察到其智能体因缺失或不一致的上下文而生成自信但错误的答案。一种受管控的语义层正作为解决方案浮现，但多数企业仍在构建中；该领域正趋向混合检索；即便供应商"
 }
 }
