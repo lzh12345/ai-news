@@ -3554,5 +3554,25 @@
 "https://techcrunch.com/?p=3142836": {
 "t": "Applied Computing 希望为油气运营商提供覆盖整个工厂的AI模型",
 "s": "Applied Computing 已筹集2000万美元的A轮融资，旨在为石油、天然气和石化行业构建一个基础AI模型。"
+},
+"https://the-decoder.com/?p=37833": {
+"t": "前OpenAI CTO穆拉蒂的Thinking Machines发布Inkling：9750亿参数模型领先美国实验室，但落后于中国",
+"s": "由前OpenAI首席技术官米拉·穆拉蒂创立的Thinking Machines Lab发布了Inkling，这是一款拥有9750亿参数的多模态开放权重模型。在Artificial Analysis Intelligence Index上，它领先于美国其他开放权重模型，但中国顶尖的开放模型在某些任务上仍优于它。定价为每百万输入token 1.87美元起，Thinking Machines将Inkling定位为微调的基础模型，而非市面上最强大的模型。本文《前OpenAI CTO穆拉蒂的Thinking Machines发布Inkling：9750亿参数模型领先美国实验室，但落后于中国》最初发表于T。"
+},
+"https://the-decoder.com/?p=37828": {
+"t": "Gemma 4 获得隐秘更新，修复工具调用错误和截断响应，名称保持不变",
+"s": "谷歌为其开源AI模型Gemma 4推送了一项更新，该更新提升了在英伟达Hopper GPU上的性能，修复了工具调用错误，并解决了响应截断的问题。文章《Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37824": {
+"t": "大规模数据泄露后，xAI 在 GitHub 上开源“Grok-Build”",
+"s": "xAI 的命令行工具“Grok Build”曾静默将整个目录上传至谷歌云服务器，包括 SSH 密钥和密码数据库。在遭到强烈反对后，埃隆·马斯克承诺删除所有已上传的用户数据，xAI 随后将全部 844,530 行 Rust 代码库以 Apache 2.0 许可证开源。本文《大规模数据泄露后，xAI 在 GitHub 上开源“Grok-Build”》首发于 The Decoder。"
+},
+"https://www.marktechpost.com/?p=81066": {
+"t": "使用 Patter SDK 构建餐厅预订电话代理的指南：动态变量、防护栏、延迟仪表盘与评估检查",
+"s": "我们通过构建一个餐厅预订场景的语音代理工作流，探索了 Patter SDK。我们定义了动态呼叫者变量，注册了用于查询可用性、预订、营业时间及人工转接的可调用工具，并在每次回复中叠加了输出防护栏。我们模拟了语音转文本和文本转语音的行为，运行了脚本化的呼叫流程，并在仪表盘中追踪了建模的延迟与成本。我们通过确定性评估框架验证了代理，随后将相同的逻辑映射到使用 Twilio 和 OpenAI Realtime 的实际部署中。"
+},
+"https://www.marktechpost.com/?p=81063": {
+"t": "SpaceXAI 开源 Grok Build：其编码 CLI 背后的 Rust 代理框架、TUI 和工具层",
+"s": "SpaceXAI 于 2026 年 7 月 15 日发布了 Grok Build 的源代码。该 Apache 2.0 许可的 Rust 代码库涵盖了代理循环、工具调度、TUI 以及扩展系统。Grok 4.5 仍保持闭源，且不接受外部贡献。本文《SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI》最初发表于 MarkTechPost。"
 }
 }
