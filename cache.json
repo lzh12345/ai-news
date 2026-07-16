@@ -3574,5 +3574,17 @@
 "https://www.marktechpost.com/?p=81063": {
 "t": "SpaceXAI 开源 Grok Build：其编码 CLI 背后的 Rust 代理框架、TUI 和工具层",
 "s": "SpaceXAI 于 2026 年 7 月 15 日发布了 Grok Build 的源代码。该 Apache 2.0 许可的 Rust 代码库涵盖了代理循环、工具调度、TUI 以及扩展系统。Grok 4.5 仍保持闭源，且不接受外部贡献。本文《SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI》最初发表于 MarkTechPost。"
+},
+"https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages": {
+"t": "更新模型，同样优势",
+"s": ""
+},
+"https://deepmind.google/blog/our-approach-to-bioresilience/": {
+"t": "我们的生物韧性应对策略",
+"s": "Google DeepMind 与 Isomorphic Labs 正在分享我们关于生物韧性与人工智能模型的联合应对策略。"
+},
+"https://huggingface.co/blog/security-incident-july-2026": {
+"t": "安全事件披露——2026年7月",
+"s": ""
 }
 }
