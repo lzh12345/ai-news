@@ -3702,5 +3702,17 @@
 "2Jg9kvtAsPN9IxCbC6KaEt": {
 "t": "AI上下文鸿沟：企业AI组织面临的是信任问题，而非检索问题——多数企业仍在构建解决方案",
 "s": "在101家企业中，为AI智能体提供业务上下文的基础设施建设速度已超过其可信度。检索增强生成已成为默认的上下文来源，而供应商原生检索已悄然超越定义该领域的专用向量数据库——然而，大多数企业已观察到其智能体因缺失或不一致的上下文而生成自信但错误的答案。一种受管控的语义层正作为解决方案浮现，但多数企业仍在构建中；该领域正趋向混合检索；即便供应商"
+},
+"https://www.marktechpost.com/?p=81073": {
+"t": "Moonshot AI 发布 Kimi K3：拥有 2.8 万亿参数、采用 Kimi Delta Attention 和 1M 上下文长度的开源 MoE 模型",
+"s": "Moonshot AI 于 2026 年 7 月 16 日发布了 Kimi K3。这是一个拥有 2.8 万亿参数的开源 MoE 模型，基于 Kimi Delta Attention 和 Attention Residuals 构建，激活了 896 个专家中的 16 个。该文章《Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context》最初发表于 MarkTechPost。"
+},
+"personalizing-incremental-video-search": {
+"t": "结合混合文本与ID嵌入的增量式视频搜索个性化方法",
+"s": "增量式视频搜索要求在每次按键后提供高质量排序，而用户意图往往不明确（例如1-3个字符的前缀）。我们为Apple TV搜索提出了一种个性化系统，在排序阶段结合了互补的语义信号与协同信号。该方法学习两种项目嵌入空间：（i）基于文本的多语言编码器（TextEmb），通过对比学习在共同参与三元组上微调；（ii）基于ID的协同嵌入模型（IdEmb），在交互衍生的正样本上训练。在服务阶段，我们从用户交互中构建用户表示……"
+},
+"simple-self-distillation": {
+"t": "令人惊讶的简单自蒸馏方法提升代码生成能力",
+"s": "大型语言模型（LLM）能否仅凭自身原始输出提升代码生成能力，而无需验证器、教师模型或强化学习？我们通过简单自蒸馏（SSD）给出了肯定答案：以特定温度和截断配置从模型中采样解决方案，然后对这些样本进行标准监督微调。SSD 将 Qwen3-30B-Instruct 在 LiveCodeBench v6 上的 pass@1 从 42.4% 提升至 55.3%，且提升主要集中在较难问题上。该方法在 4B、8B 和 30B 规模的 Qwen 和 Llama 模型上均具有泛化能力，包括……"
 }
 }

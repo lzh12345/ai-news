@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 16 Jul 2026 20:48:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 01:55:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Moonshot AI 发布 Kimi K3：拥有 2.8 万亿参数、采用 Kimi Delta Attention 和 1M 上下文长度的开源 MoE 模型</title>
+<link>https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81073</guid>
+<pubDate>Thu, 16 Jul 2026 23:47:05 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Moonshot AI 于 2026 年 7 月 16 日发布了 Kimi K3。这是一个拥有 2.8 万亿参数的开源 MoE 模型，基于 Kimi Delta Attention 和 Attention Residuals 构建，激活了 896 个专家中的 16 个。该文章《Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>官方确认：欧盟将强制谷歌共享搜索数据并开放安卓AI功能</title>
 <link>https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/</link>
@@ -312,6 +320,22 @@
 <description><![CDATA[【machinelearning.apple.com】我们研究双重次线性邻近交互式证明（dsIPPs）：一种生成速度极快的证明，可用于证明关于海量输入的近似断言。证明生成速度极快，仅需读取输入的一小部分（次线性）。证明的近似验证速度更快（读取输入中更小的一部分）。与性质检验文献类似，近似验证意味着次线性时间的诚实证明者能让验证者接受性质中的每个输入，但任何证明者都无法欺骗验证者……<br/><br/><a href="https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs">阅读原文</a>]]></description>
 </item>
 <item>
+<title>结合混合文本与ID嵌入的增量式视频搜索个性化方法</title>
+<link>https://machinelearning.apple.com/research/personalizing-incremental-video-search</link>
+<guid isPermaLink="false">personalizing-incremental-video-search</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】增量式视频搜索要求在每次按键后提供高质量排序，而用户意图往往不明确（例如1-3个字符的前缀）。我们为Apple TV搜索提出了一种个性化系统，在排序阶段结合了互补的语义信号与协同信号。该方法学习两种项目嵌入空间：（i）基于文本的多语言编码器（TextEmb），通过对比学习在共同参与三元组上微调；（ii）基于ID的协同嵌入模型（IdEmb），在交互衍生的正样本上训练。在服务阶段，我们从用户交互中构建用户表示……<br/><br/><a href="https://machinelearning.apple.com/research/personalizing-incremental-video-search">阅读原文</a>]]></description>
+</item>
+<item>
+<title>令人惊讶的简单自蒸馏方法提升代码生成能力</title>
+<link>https://machinelearning.apple.com/research/simple-self-distillation</link>
+<guid isPermaLink="false">simple-self-distillation</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】大型语言模型（LLM）能否仅凭自身原始输出提升代码生成能力，而无需验证器、教师模型或强化学习？我们通过简单自蒸馏（SSD）给出了肯定答案：以特定温度和截断配置从模型中采样解决方案，然后对这些样本进行标准监督微调。SSD 将 Qwen3-30B-Instruct 在 LiveCodeBench v6 上的 pass@1 从 42.4% 提升至 55.3%，且提升主要集中在较难问题上。该方法在 4B、8B 和 30B 规模的 Qwen 和 Llama 模型上均具有泛化能力，包括……<br/><br/><a href="https://machinelearning.apple.com/research/simple-self-distillation">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Cars24 如何借助 OpenAI 扩展对话并加速发展</title>
 <link>https://openai.com/index/cars24</link>
 <guid isPermaLink="false">https://openai.com/index/cars24</guid>
@@ -462,30 +486,6 @@
 <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】少数工程师真的能完成一支顾问团队的工作吗？这正是Ode与Anthropic合作背后的赌注——这家合资企业致力于将前沿部署工程师嵌入企业公司，并获得了Anthropic、黑石集团、Hellman & Friedman、高盛等机构的支持。在本期TechCrunch的Equity播客中，Rebecca Bellan与Ode的领导者Chris Taylor和Eddie Siegel（两人共同创立了Fractional AI）进行了对话。<br/><br/><a href="https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>美国正通过州与联邦行动推进AI安全</title>
-<link>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</link>
-<guid isPermaLink="false">https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</guid>
-<pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI提出了一种“反向联邦制”的AI治理方法，即通过各州法律共同构建一个安全、民主的AI国家框架。<br/><br/><a href="https://openai.com/index/advancing-ai-safety-through-state-and-federal-action">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-Red：解锁鲁棒性的自我改进能力</title>
-<link>https://openai.com/index/unlocking-self-improvement-gpt-red</link>
-<guid isPermaLink="false">https://openai.com/index/unlocking-self-improvement-gpt-red</guid>
-<pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】探索GPT-Red，OpenAI的自动化红队系统，通过自我博弈提升AI安全性、对齐能力及提示注入鲁棒性。<br/><br/><a href="https://openai.com/index/unlocking-self-improvement-gpt-red">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google 发布 LiteRT.js：一款通过 WebGPU 在浏览器中运行 .tflite 模型的 LiteRT JavaScript 绑定</title>
-<link>https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81042</guid>
-<pubDate>Wed, 15 Jul 2026 07:36:17 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google 于 2026 年 7 月 9 日发布了 LiteRT.js。它是 Google 设备端推理库 LiteRT 的 JavaScript 绑定。该运行时通过 WebAssembly 直接在浏览器中执行 .tflite 模型，在 CPU 上使用 XNNPACK，通过 WebGPU 使用 ML Drift，并实验性地支持通过 WebNN 使用 NPU。Google 报告称，相比其他 Web 运行时性能提升高达 3 倍，而 GPU 或 NPU 相比其自身 CPU 路径性能提升 5 到 60 倍。该公告遗漏了一个细节：张量需要手动管理且必须删除。这篇题为《Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs .tflite Models in Browsers via WebGPU》的文章最初出现在 Mar 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
