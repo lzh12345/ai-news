@@ -3730,5 +3730,29 @@
 "https://the-decoder.com/?p=37884": {
 "t": "Linus Torvalds 对Linux内核社区中的AI批评者说：请另起炉灶",
 "s": "Linux创始人Linus Torvalds明确支持在内核开发中使用AI工具。他在内核邮件列表中就Linux基金会的AI驱动代码审查工具Sashiko的争论中写道：“Linux不是那些反AI的项目。”Torvalds表示，他会“非常大声地忽略”任何试图劝阻他人使用该工具的人。这篇文章《Linus Torvalds tells AI critics in the Linux kernel community to fork off》最初出现在The Decoder上。"
+},
+"https://github.blog/?p=97604": {
+"t": "说“是”的成本已经改变",
+"s": "编写代码的成本下降了，但拥有代码的成本并未降低。这是一个在AI时代判断哪些变更真正便宜的框架。本文首发于GitHub博客。"
+},
+"https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/": {
+"t": "旧金山要求苹果和谷歌从应用商店移除“脱衣”应用",
+"s": "官方估计谷歌和苹果可能从“脱衣”应用中赚取了数百万美元的费用。"
+},
+"https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": {
+"t": "使用 NVIDIA NeMo Automodel 和 🤗 Diffusers 大规模微调视频与图像模型",
+"s": ""
+},
+"https://techcrunch.com/?p=3143704": {
+"t": "Patreon 不再请求AI机器人不要抓取——而是开始主动屏蔽它们",
+"s": "Patreon正通过与Cloudflare合作，加强防御措施以阻止AI抓取行为，防止未经许可利用创作者内容训练AI模型的机器人。此举标志着从仅依赖网站robots.txt文件，转向主动拦截未经授权的AI训练。"
+},
+"https://openai.com/index/a-scorecard-for-the-ai-age": {
+"t": "AI时代的记分卡",
+"s": "OpenAI首席财务官Sarah Friar介绍了一种实用的AI记分卡，通过有用工作、每项成功任务的成本、可靠性和计算回报来衡量投资回报率。"
+},
+"unlearning-free-low-influence": {
+"t": "当遗忘无需代价：利用低影响点降低计算成本",
+"s": "随着机器学习中数据隐私问题的日益突出，从已训练模型中“遗忘”或移除特定数据点的能力变得愈发重要。尽管当前最先进的遗忘方法已应运而生，但它们通常将遗忘集中的所有数据点一视同仁。本研究对此提出质疑：对模型学习影响微乎其微的数据点是否真的需要被移除？通过跨语言与视觉任务的影响力函数对比分析，我们识别出对模型输出影响可忽略的训练数据子集……"
 }
 }
