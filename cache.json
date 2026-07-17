@@ -3714,5 +3714,13 @@
 "simple-self-distillation": {
 "t": "令人惊讶的简单自蒸馏方法提升代码生成能力",
 "s": "大型语言模型（LLM）能否仅凭自身原始输出提升代码生成能力，而无需验证器、教师模型或强化学习？我们通过简单自蒸馏（SSD）给出了肯定答案：以特定温度和截断配置从模型中采样解决方案，然后对这些样本进行标准监督微调。SSD 将 Qwen3-30B-Instruct 在 LiveCodeBench v6 上的 pass@1 从 42.4% 提升至 55.3%，且提升主要集中在较难问题上。该方法在 4B、8B 和 30B 规模的 Qwen 和 Llama 模型上均具有泛化能力，包括……"
+},
+"https://the-decoder.com/?p=37879": {
+"t": "Netflix的300个AI制作项目显示该技术在娱乐领域的快速渗透",
+"s": "Netflix目前在大约300个制作项目中运用AI技术，主要集中在后期制作环节。联合CEO泰德·萨兰多斯给出了具体数据：纪录片系列《美国实验》包含17分钟的AI辅助镜头，制作速度提升一倍，成本降低一半。节省的资金\"很可能\"会用于增加内容投入，而非缩减200亿美元的预算。本文《Netflix的300个AI制作项目显示该技术在娱乐领域的快速渗透》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81088": {
+"t": "NVIDIA AI 发布 Nemotron 3 Embed：开放嵌入集合，其 8B 检查点在 RTEB 上排名第一",
+"s": "NVIDIA 于 2026 年 7 月 15 日至 16 日发布了 Nemotron 3 Embed。该集合包含三个开放检查点：Nemotron-3-Embed-8B-BF16、Nemotron-3-Embed-1B-BF16 和 Nemotron-3-Embed-1B-NVFP4。其中 8B 模型在 RTEB 上以平均 NDCG@10 为 78.46 的成绩排名第一。1B 模型通过 ModelOpt NAS 剪枝以及从 8B 教师模型进行 COS+MSE 蒸馏得到。NVFP4 在高达 2 倍 Blackwell 吞吐量下保留了 BF16 检索准确率的 99% 以上。所有三个模型在 OpenMDW-1.1 下支持 32,768 个 token 的输入。该文章 NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB 最初发表于 MarkTechPost。"
 }
 }

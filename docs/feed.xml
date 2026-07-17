@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 17 Jul 2026 06:09:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 09:49:15 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Netflix的300个AI制作项目显示该技术在娱乐领域的快速渗透</title>
+<link>https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37879</guid>
+<pubDate>Fri, 17 Jul 2026 08:53:31 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Netflix目前在大约300个制作项目中运用AI技术，主要集中在后期制作环节。联合CEO泰德·萨兰多斯给出了具体数据：纪录片系列《美国实验》包含17分钟的AI辅助镜头，制作速度提升一倍，成本降低一半。节省的资金"很可能"会用于增加内容投入，而非缩减200亿美元的预算。本文《Netflix的300个AI制作项目显示该技术在娱乐领域的快速渗透》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA AI 发布 Nemotron 3 Embed：开放嵌入集合，其 8B 检查点在 RTEB 上排名第一</title>
+<link>https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81088</guid>
+<pubDate>Fri, 17 Jul 2026 07:53:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA 于 2026 年 7 月 15 日至 16 日发布了 Nemotron 3 Embed。该集合包含三个开放检查点：Nemotron-3-Embed-8B-BF16、Nemotron-3-Embed-1B-BF16 和 Nemotron-3-Embed-1B-NVFP4。其中 8B 模型在 RTEB 上以平均 NDCG@10 为 78.46 的成绩排名第一。1B 模型通过 ModelOpt NAS 剪枝以及从 8B 教师模型进行 COS+MSE 蒸馏得到。NVFP4 在高达 2 倍 Blackwell 吞吐量下保留了 BF16 检索准确率的 99% 以上。所有三个模型在 OpenMDW-1.1 下支持 32,768 个 token 的输入。该文章 NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB 最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Moonshot AI 发布 Kimi K3：拥有 2.8 万亿参数、采用 Kimi Delta Attention 和 1M 上下文长度的开源 MoE 模型</title>
 <link>https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/</link>
@@ -416,14 +432,6 @@
 <description><![CDATA[【marktechpost.com】我们构建了一个由 Gin Config 控制的 PyTorch 流水线，其中训练代码保持不变，实验变量移至 .gin 文件中。我们构建了一个非线性螺旋二分类任务，并定义了一个具有作用域架构变体的可配置 MLP。通过 @gin.configurable 绑定，我们暴露了优化器、调度器、损失函数、批处理、随机种子设置以及训练循环。随后，我们运行了两个作用域实验，在不编辑源代码的情况下应用运行时覆盖，并为每次运行导出操作配置。<br/><br/><a href="https://www.marktechpost.com/2026/07/15/building-a-gin-config-controlled-pytorch-pipeline-with-configurable-mlp-variants-cosine-scheduling-and-runtime-parameter-overrides/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>GPT-5.6 Sol 据称在人类无法破解后，仅用90分钟推翻了一个30年历史的统计学猜想</title>
-<link>https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37813</guid>
-<pubDate>Wed, 15 Jul 2026 17:35:12 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】宾夕法尼亚大学的一位统计学教授使用OpenAI的GPT-5.6 Sol Pro，在大约90分钟内推翻了一个关于Benjamini-Hochberg方法的中心开放猜想。其前代模型GPT-5.5即使经过20小时也无法找到解决方案。答案以新颖方式结合了已知方法，同时保留了一个更大的问题：AI能否产生真正的新知识，还是仅仅重新组合它已学到的内容？文章《GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>构建Shippy教会了我们关于构建智能体的哪些经验</title>
 <link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
 <guid isPermaLink="false">https://huggingface.co/blog/allenai/shippy-tech-blog</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 15 Jul 2026 16:00:33 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Codex Micro 旨在让用户一目了然地监控多个智能体线程。<br/><br/><a href="https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>深入解读Ode与Anthropic：这家押注AI服务是企业未来的初创公司</title>
-<link>https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3142876</guid>
-<pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】少数工程师真的能完成一支顾问团队的工作吗？这正是Ode与Anthropic合作背后的赌注——这家合资企业致力于将前沿部署工程师嵌入企业公司，并获得了Anthropic、黑石集团、Hellman & Friedman、高盛等机构的支持。在本期TechCrunch的Equity播客中，Rebecca Bellan与Ode的领导者Chris Taylor和Eddie Siegel（两人共同创立了Fractional AI）进行了对话。<br/><br/><a href="https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
