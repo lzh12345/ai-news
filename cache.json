@@ -3754,5 +3754,37 @@
 "unlearning-free-low-influence": {
 "t": "当遗忘无需代价：利用低影响点降低计算成本",
 "s": "随着机器学习中数据隐私问题的日益突出，从已训练模型中“遗忘”或移除特定数据点的能力变得愈发重要。尽管当前最先进的遗忘方法已应运而生，但它们通常将遗忘集中的所有数据点一视同仁。本研究对此提出质疑：对模型学习影响微乎其微的数据点是否真的需要被移除？通过跨语言与视觉任务的影响力函数对比分析，我们识别出对模型输出影响可忽略的训练数据子集……"
+},
+"https://techcrunch.com/?p=3143772": {
+"t": "Agility Robotics在特斯拉后院插旗",
+"s": "Agility正在加州弗里蒙特为其Digit机器人开设一个新的培训中心。"
+},
+"01KXQS1XDD7HKB324JEWG6BZDA": {
+"t": "Cloudflare WAF 保护 WordPress 应用免受两个高危漏洞影响",
+"s": "Cloudflare 已部署两条 WAF 规则，以应对 WordPress 安全团队向我们披露的高危漏洞。这些新规则可保护所有使用受影响 WordPress 版本的 Cloudflare 客户，但客户仍应立即更新至已修复的版本。"
+},
+"https://techcrunch.com/?p=3143715": {
+"t": "AI驱动的内存短缺冲击印度智能手机市场",
+"s": "印度智能手机市场的放缓凸显了AI热潮如何从定价、需求到企业战略，重塑消费电子行业。"
+},
+"https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/": {
+"t": "谷歌支持的野火探测卫星发射，烟雾笼罩美加两国",
+"s": "FireSat项目能够探测到其他卫星无法发现的野火。"
+},
+"https://the-decoder.com/?p=37896": {
+"t": "GPT-5.6 在获得完全访问权限时删除用户文件，OpenAI 称其不应如此却发生了",
+"s": "OpenAI 的 GPT-5.6 在多个案例中意外删除了用户的整个主目录，主要发生在未受保护的“完全访问模式”下。该模型覆盖了一个临时目录变量，并自行执行破坏性操作，而非请求确认。OpenAI 已宣布额外安全措施并发布详细的事后分析。本文《GPT-5.6 在获得完全访问权限时删除用户文件，OpenAI 称其不应如此却发生了》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=37892": {
+"t": "如同DeepSeek，中国的Kimi K3正迫使西方AI实验室质疑其算力优势",
+"s": "Moonshot AI发布了Kimi K3模型，初步评估显示其性能与Anthropic的Opus 4.8相当，而开发团队仅有300人。就连OpenAI策略师Dean W. Ball也称其“非常出色”，但当然也警告称，一个由开放权重模型主导的世界将等同于“AI共产主义”。此次发布重新引发了关于算力究竟有多重要、以及美国出口管制是否有效的辩论。本文《如同DeepSeek，中国的Kimi K3正迫使西方AI实验室质疑其算力优势》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?post_type=tc_video&p=3143835": {
+"t": "苹果重大诉讼或扰乱OpenAI的IPO计划",
+"s": "苹果公司上周五对OpenAI提起商业秘密诉讼，态度强硬。诉状指控其存在不当行为模式，涉及OpenAI首席硬件官，并声称超过400名前苹果员工目前在该公司任职。OpenAI迄今的回应谨慎且有所保留，而这一时机对其极为不利——据报道，该公司正考虑进行IPO……"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3143831": {
+"t": "苹果对OpenAI的诉讼来得真不是时候",
+"s": "上周五，苹果对OpenAI提起商业秘密诉讼，态度毫不含糊。诉状指控其不当行为模式甚至涉及OpenAI首席硬件官，并声称超过400名前苹果员工现任职于该公司。OpenAI迄今的回应谨慎而模棱两可，而据报道该公司正考虑IPO，这一时机再糟糕不过了。"
 }
 }

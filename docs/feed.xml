@@ -5,8 +5,64 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 17 Jul 2026 17:02:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 20:44:10 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Agility Robotics在特斯拉后院插旗</title>
+<link>https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3143772</guid>
+<pubDate>Fri, 17 Jul 2026 20:19:49 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Agility正在加州弗里蒙特为其Digit机器人开设一个新的培训中心。<br/><br/><a href="https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare WAF 保护 WordPress 应用免受两个高危漏洞影响</title>
+<link>https://blog.cloudflare.com/wordpress-vulnerabilities/</link>
+<guid isPermaLink="false">01KXQS1XDD7HKB324JEWG6BZDA</guid>
+<pubDate>Fri, 17 Jul 2026 20:18:59 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare 已部署两条 WAF 规则，以应对 WordPress 安全团队向我们披露的高危漏洞。这些新规则可保护所有使用受影响 WordPress 版本的 Cloudflare 客户，但客户仍应立即更新至已修复的版本。<br/><br/><a href="https://blog.cloudflare.com/wordpress-vulnerabilities/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI驱动的内存短缺冲击印度智能手机市场</title>
+<link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3143715</guid>
+<pubDate>Fri, 17 Jul 2026 20:09:27 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】印度智能手机市场的放缓凸显了AI热潮如何从定价、需求到企业战略，重塑消费电子行业。<br/><br/><a href="https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌支持的野火探测卫星发射，烟雾笼罩美加两国</title>
+<link>https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/</link>
+<guid isPermaLink="false">https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/</guid>
+<pubDate>Fri, 17 Jul 2026 19:50:18 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】FireSat项目能够探测到其他卫星无法发现的野火。<br/><br/><a href="https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-5.6 在获得完全访问权限时删除用户文件，OpenAI 称其不应如此却发生了</title>
+<link>https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37896</guid>
+<pubDate>Fri, 17 Jul 2026 19:35:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI 的 GPT-5.6 在多个案例中意外删除了用户的整个主目录，主要发生在未受保护的“完全访问模式”下。该模型覆盖了一个临时目录变量，并自行执行破坏性操作，而非请求确认。OpenAI 已宣布额外安全措施并发布详细的事后分析。本文《GPT-5.6 在获得完全访问权限时删除用户文件，OpenAI 称其不应如此却发生了》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如同DeepSeek，中国的Kimi K3正迫使西方AI实验室质疑其算力优势</title>
+<link>https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37892</guid>
+<pubDate>Fri, 17 Jul 2026 19:16:07 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Moonshot AI发布了Kimi K3模型，初步评估显示其性能与Anthropic的Opus 4.8相当，而开发团队仅有300人。就连OpenAI策略师Dean W. Ball也称其“非常出色”，但当然也警告称，一个由开放权重模型主导的世界将等同于“AI共产主义”。此次发布重新引发了关于算力究竟有多重要、以及美国出口管制是否有效的辩论。本文《如同DeepSeek，中国的Kimi K3正迫使西方AI实验室质疑其算力优势》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>苹果重大诉讼或扰乱OpenAI的IPO计划</title>
+<link>https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3143835</guid>
+<pubDate>Fri, 17 Jul 2026 17:45:46 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】苹果公司上周五对OpenAI提起商业秘密诉讼，态度强硬。诉状指控其存在不当行为模式，涉及OpenAI首席硬件官，并声称超过400名前苹果员工目前在该公司任职。OpenAI迄今的回应谨慎且有所保留，而这一时机对其极为不利——据报道，该公司正考虑进行IPO……<br/><br/><a href="https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>说“是”的成本已经改变</title>
 <link>https://github.blog/engineering/the-cost-of-saying-yes-has-changed/</link>
@@ -38,6 +94,14 @@
 <pubDate>Fri, 17 Jul 2026 15:21:17 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Patreon正通过与Cloudflare合作，加强防御措施以阻止AI抓取行为，防止未经许可利用创作者内容训练AI模型的机器人。此举标志着从仅依赖网站robots.txt文件，转向主动拦截未经授权的AI训练。<br/><br/><a href="https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>苹果对OpenAI的诉讼来得真不是时候</title>
+<link>https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3143831</guid>
+<pubDate>Fri, 17 Jul 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】上周五，苹果对OpenAI提起商业秘密诉讼，态度毫不含糊。诉状指控其不当行为模式甚至涉及OpenAI首席硬件官，并声称超过400名前苹果员工现任职于该公司。OpenAI迄今的回应谨慎而模棱两可，而据报道该公司正考虑IPO，这一时机再糟糕不过了。<br/><br/><a href="https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>为何首批GPU金融家在一笔4亿美元交易中转向推理芯片</title>
@@ -320,22 +384,6 @@
 <description><![CDATA[【deepmind.google】Google DeepMind 与 Isomorphic Labs 正在分享我们关于生物韧性与人工智能模型的联合应对策略。<br/><br/><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Gemma 4 获得隐秘更新，修复工具调用错误和截断响应，名称保持不变</title>
-<link>https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37828</guid>
-<pubDate>Thu, 16 Jul 2026 09:07:58 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】谷歌为其开源AI模型Gemma 4推送了一项更新，该更新提升了在英伟达Hopper GPU上的性能，修复了工具调用错误，并解决了响应截断的问题。文章《Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>大规模数据泄露后，xAI 在 GitHub 上开源“Grok-Build”</title>
-<link>https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37824</guid>
-<pubDate>Thu, 16 Jul 2026 07:56:21 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】xAI 的命令行工具“Grok Build”曾静默将整个目录上传至谷歌云服务器，包括 SSH 密钥和密码数据库。在遭到强烈反对后，埃隆·马斯克承诺删除所有已上传的用户数据，xAI 随后将全部 844,530 行 Rust 代码库以 Apache 2.0 许可证开源。本文《大规模数据泄露后，xAI 在 GitHub 上开源“Grok-Build”》首发于 The Decoder。<br/><br/><a href="https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>使用 Patter SDK 构建餐厅预订电话代理的指南：动态变量、防护栏、延迟仪表盘与评估检查</title>
 <link>https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81066</guid>
@@ -438,54 +486,6 @@
 <pubDate>Wed, 15 Jul 2026 22:24:17 +0000</pubDate>
 <source>venturebeat.com</source>
 <description><![CDATA[【venturebeat.com】在对101家企业的调查中，智能体编排正集中到模型提供商平台——Anthropic的Claude以大幅优势领先——这些平台因底层模型的吸引力而被选中，并以其可靠的多步骤执行能力作为评判标准。然而，雄心远超前于现实：大多数已部署的“智能体”仍是聊天机器人的外壳，企业期望的控制平面是刻意混合的，以避免锁定，而对token消耗的实时财务控制仍是例外。这一波VentureBeat Pulse研究考察了企业智能体编排：企业运行在哪些平台上，驱动因素是什么。<br/><br/><a href="https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Soofi 联盟发布 Soofi S 30B-A3B：面向德语和英语的开放混合 Mamba-Transformer MoE 基础模型</title>
-<link>https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81048</guid>
-<pubDate>Wed, 15 Jul 2026 21:02:48 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Soofi S 30B-A3B 是一个开放的 Mamba-Transformer MoE 模型，在 31.6B 参数中激活 3.2B 参数，专为德语和英语设计。该文章《Soofi 联盟发布 Soofi S 30B-A3B：面向德语和英语的开放混合 Mamba-Transformer MoE 基础模型》首次出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在硬件法律纠纷中，OpenAI 发布一款售价 230 美元的 Codex 键盘</title>
-<link>https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3142831</guid>
-<pubDate>Wed, 15 Jul 2026 19:41:38 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI 正与苹果就硬件商业机密盗窃指控陷入法律纠纷，与此同时，该公司发布了一款发光键盘，旨在与其智能编码应用配合使用。<br/><br/><a href="https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>SpaceX股价跌至135美元IPO价格，星舰发射在即</title>
-<link>https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3135290</guid>
-<pubDate>Wed, 15 Jul 2026 18:06:05 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】该股从IPO后的狂热高点持续回落，表明市场可能对CEO埃隆·马斯克在SpaceX上市前后所做的承诺逐渐清醒。<br/><br/><a href="https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Thinking Machines 加大赌注，推出首个开放模型 Inkling，挑战“一刀切”式AI</title>
-<link>https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3142329</guid>
-<pubDate>Wed, 15 Jul 2026 18:04:06 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这是该公司在近一年半时间里基本在公众视野之外构建AI基础设施后，首次公开的成果证明。<br/><br/><a href="https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>构建由 Gin Config 控制的 PyTorch 流水线：可配置的 MLP 变体、余弦调度与运行时参数覆盖</title>
-<link>https://www.marktechpost.com/2026/07/15/building-a-gin-config-controlled-pytorch-pipeline-with-configurable-mlp-variants-cosine-scheduling-and-runtime-parameter-overrides/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81045</guid>
-<pubDate>Wed, 15 Jul 2026 18:03:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】我们构建了一个由 Gin Config 控制的 PyTorch 流水线，其中训练代码保持不变，实验变量移至 .gin 文件中。我们构建了一个非线性螺旋二分类任务，并定义了一个具有作用域架构变体的可配置 MLP。通过 @gin.configurable 绑定，我们暴露了优化器、调度器、损失函数、批处理、随机种子设置以及训练循环。随后，我们运行了两个作用域实验，在不编辑源代码的情况下应用运行时覆盖，并为每次运行导出操作配置。<br/><br/><a href="https://www.marktechpost.com/2026/07/15/building-a-gin-config-controlled-pytorch-pipeline-with-configurable-mlp-variants-cosine-scheduling-and-runtime-parameter-overrides/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>构建Shippy教会了我们关于构建智能体的哪些经验</title>
-<link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/shippy-tech-blog</guid>
-<pubDate>Wed, 15 Jul 2026 17:29:41 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/shippy-tech-blog">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
