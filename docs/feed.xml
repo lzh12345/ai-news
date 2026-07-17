@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 17 Jul 2026 09:49:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 13:09:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>为何首批GPU金融家在一笔4亿美元交易中转向推理芯片</title>
+<link>https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3143568</guid>
+<pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】一笔4亿美元的芯片抵押贷款指向了AI基础设施交易的下一波浪潮。<br/><br/><a href="https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Linus Torvalds 对Linux内核社区中的AI批评者说：请另起炉灶</title>
+<link>https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37884</guid>
+<pubDate>Fri, 17 Jul 2026 11:12:47 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Linux创始人Linus Torvalds明确支持在内核开发中使用AI工具。他在内核邮件列表中就Linux基金会的AI驱动代码审查工具Sashiko的争论中写道：“Linux不是那些反AI的项目。”Torvalds表示，他会“非常大声地忽略”任何试图劝阻他人使用该工具的人。这篇文章《Linus Torvalds tells AI critics in the Linux kernel community to fork off》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Netflix的300个AI制作项目显示该技术在娱乐领域的快速渗透</title>
 <link>https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/</link>
@@ -392,14 +408,6 @@
 <description><![CDATA[【marktechpost.com】Soofi S 30B-A3B 是一个开放的 Mamba-Transformer MoE 模型，在 31.6B 参数中激活 3.2B 参数，专为德语和英语设计。该文章《Soofi 联盟发布 Soofi S 30B-A3B：面向德语和英语的开放混合 Mamba-Transformer MoE 基础模型》首次出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI 正用AI攻击自身AI，效果远超人类</title>
-<link>https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37817</guid>
-<pubDate>Wed, 15 Jul 2026 19:47:53 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI内部GPT-Red模型通过自我对抗训练，在84%的测试场景中成功发起攻击，而人类红队成员仅能完成13%。这些结果直接用于强化如GPT-5.6 Sol等模型。本文《OpenAI正用AI攻击自身AI，效果远超人类》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>在硬件法律纠纷中，OpenAI 发布一款售价 230 美元的 Codex 键盘</title>
 <link>https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3142831</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 15 Jul 2026 16:20:18 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】微软每月发布的安全修复补丁（即“补丁星期二”）解决了公司产品线中创纪录的570个安全漏洞，这得益于AI技术的发现。<br/><br/><a href="https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI 的首款品牌硬件竟是……发光键盘？</title>
-<link>https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/</guid>
-<pubDate>Wed, 15 Jul 2026 16:00:33 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Codex Micro 旨在让用户一目了然地监控多个智能体线程。<br/><br/><a href="https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

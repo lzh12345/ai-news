@@ -3722,5 +3722,13 @@
 "https://www.marktechpost.com/?p=81088": {
 "t": "NVIDIA AI 发布 Nemotron 3 Embed：开放嵌入集合，其 8B 检查点在 RTEB 上排名第一",
 "s": "NVIDIA 于 2026 年 7 月 15 日至 16 日发布了 Nemotron 3 Embed。该集合包含三个开放检查点：Nemotron-3-Embed-8B-BF16、Nemotron-3-Embed-1B-BF16 和 Nemotron-3-Embed-1B-NVFP4。其中 8B 模型在 RTEB 上以平均 NDCG@10 为 78.46 的成绩排名第一。1B 模型通过 ModelOpt NAS 剪枝以及从 8B 教师模型进行 COS+MSE 蒸馏得到。NVFP4 在高达 2 倍 Blackwell 吞吐量下保留了 BF16 检索准确率的 99% 以上。所有三个模型在 OpenMDW-1.1 下支持 32,768 个 token 的输入。该文章 NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB 最初发表于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3143568": {
+"t": "为何首批GPU金融家在一笔4亿美元交易中转向推理芯片",
+"s": "一笔4亿美元的芯片抵押贷款指向了AI基础设施交易的下一波浪潮。"
+},
+"https://the-decoder.com/?p=37884": {
+"t": "Linus Torvalds 对Linux内核社区中的AI批评者说：请另起炉灶",
+"s": "Linux创始人Linus Torvalds明确支持在内核开发中使用AI工具。他在内核邮件列表中就Linux基金会的AI驱动代码审查工具Sashiko的争论中写道：“Linux不是那些反AI的项目。”Torvalds表示，他会“非常大声地忽略”任何试图劝阻他人使用该工具的人。这篇文章《Linus Torvalds tells AI critics in the Linux kernel community to fork off》最初出现在The Decoder上。"
 }
 }
