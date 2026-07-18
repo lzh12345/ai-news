@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 18 Jul 2026 01:45:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 05:58:10 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>尼尔·莱默认为AI资金将回流</title>
+<link>https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3144034</guid>
+<pubDate>Sat, 18 Jul 2026 04:47:25 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】风险投资家、Index Ventures联合创始人尼尔·莱默预测，硅谷由AI创造的历史性财富将不得不以自愿或非自愿的方式重新分配。<br/><br/><a href="https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Vertu 想让高管花6880美元买个AI助手——实际表现如何？</title>
 <link>https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</link>
@@ -16,28 +24,12 @@
 <description><![CDATA[【techcrunch.com】从AI工作流到电池续航和安全，这里是每天使用Vertu奢华折叠屏手机的真实体验。<br/><br/><a href="https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用MongoDB Atlas、Voyage和LangGraph构建智能活动场地运营代理</title>
-<link>https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81094</guid>
-<pubDate>Fri, 17 Jul 2026 22:12:57 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】简介 本教程从大多数代理演示停止的地方开始：为代理提供持久记忆、操作上下文以及记录事件发生情况的空间。活动运营者不仅需要一个能总结天气报告或生成通用计划的代理，还需要一个能记住过去发生事件的代理。文章《使用MongoDB Atlas、Voyage和LangGraph构建智能活动场地运营代理》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Databricks估值达1880亿美元，延续其作为AI领域最受欢迎第二幕的势头</title>
 <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3143817</guid>
 <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Databricks已重塑自身为一家AI公司，并发布了关于开源权重AI模型在编程中节省成本的研究。<br/><br/><a href="https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Zyphra 发布 ZUNA1.1：一款采用 Apache 2.0 协议的脑电图基础模型，支持 0.5 至 30 秒可变长度输入</title>
-<link>https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81091</guid>
-<pubDate>Fri, 17 Jul 2026 21:35:27 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Zyphra 于 2026 年 7 月 16 日发布了 ZUNA1.1，采用 Apache 2.0 协议。这款 3.8 亿参数的掩码扩散自编码器能够对任意通道布局的头皮脑电图（scalp-EEG）进行重建、去噪和上采样。与 ZUNA1 固定的 5 秒输入不同，它支持 0.5 至 30 秒的可变长度输入。在输入范围扩大的同时，报告的归一化均方误差（NMSE）保持稳定或有所改善。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Cloudflare WAF 保护 WordPress 应用免受两个高危漏洞影响</title>
@@ -184,14 +176,6 @@
 <description><![CDATA[【the-decoder.com】Netflix目前在大约300个制作项目中运用AI技术，主要集中在后期制作环节。联合CEO泰德·萨兰多斯给出了具体数据：纪录片系列《美国实验》包含17分钟的AI辅助镜头，制作速度提升一倍，成本降低一半。节省的资金"很可能"会用于增加内容投入，而非缩减200亿美元的预算。本文《Netflix的300个AI制作项目显示该技术在娱乐领域的快速渗透》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NVIDIA AI 发布 Nemotron 3 Embed：开放嵌入集合，其 8B 检查点在 RTEB 上排名第一</title>
-<link>https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81088</guid>
-<pubDate>Fri, 17 Jul 2026 07:53:02 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA 于 2026 年 7 月 15 日至 16 日发布了 Nemotron 3 Embed。该集合包含三个开放检查点：Nemotron-3-Embed-8B-BF16、Nemotron-3-Embed-1B-BF16 和 Nemotron-3-Embed-1B-NVFP4。其中 8B 模型在 RTEB 上以平均 NDCG@10 为 78.46 的成绩排名第一。1B 模型通过 ModelOpt NAS 剪枝以及从 8B 教师模型进行 COS+MSE 蒸馏得到。NVFP4 在高达 2 倍 Blackwell 吞吐量下保留了 BF16 检索准确率的 99% 以上。所有三个模型在 OpenMDW-1.1 下支持 32,768 个 token 的输入。该文章 NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB 最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>当遗忘无需代价：利用低影响点降低计算成本</title>
 <link>https://machinelearning.apple.com/research/unlearning-free-low-influence</link>
 <guid isPermaLink="false">unlearning-free-low-influence</guid>
@@ -206,14 +190,6 @@
 <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】视觉语言模型（VLM）能够遵循复杂的文本指令，但在仅凭视觉上下文进行推理方面存在困难。具体而言，当前模型无法从示例图像集合中推断共享概念，并将其应用于新输入。我们提出了“从集合中推断视觉概念”（VICIS）任务，用于评估这一能力。给定一个包含共享概念的少量图像上下文集合以及一张查询图像，模型必须生成新图像，这些图像需保留上下文定义的概念，同时与查询保持一致。研究表明，最先进的VLM在此任务上表现不佳……<br/><br/><a href="https://machinelearning.apple.com/research/visual-concept-inference">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Moonshot AI 发布 Kimi K3：拥有 2.8 万亿参数、采用 Kimi Delta Attention 和 1M 上下文长度的开源 MoE 模型</title>
-<link>https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81073</guid>
-<pubDate>Thu, 16 Jul 2026 23:47:05 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Moonshot AI 于 2026 年 7 月 16 日发布了 Kimi K3。这是一个拥有 2.8 万亿参数的开源 MoE 模型，基于 Kimi Delta Attention 和 Attention Residuals 构建，激活了 896 个专家中的 16 个。该文章《Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>官方确认：欧盟将强制谷歌共享搜索数据并开放安卓AI功能</title>
@@ -270,14 +246,6 @@
 <pubDate>Thu, 16 Jul 2026 19:02:38 +0000</pubDate>
 <source>venturebeat.com</source>
 <description><![CDATA[【venturebeat.com】在107家企业中，AI代理已被授予对系统和数据的真实访问权限，而旨在约束它们的管控措施却滞后。超过半数企业已确认发生代理安全事件或险些发生事故；仅约三分之一的企业为每个代理分配独立的限定身份，多数代理仍共享凭证；只有三成企业隔离了最高风险的代理。安全技术栈绝大多数来自模型提供商和超大规模云服务商，而非专为代理构建，安全支出仅占预算的极小部分，且企业在是否应加强代理安全管控上意见分歧明显。<br/><br/><a href="https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI 详解 GPT-Red：内部自动化红队模型在提示注入测试中以 84% 对 13% 击败人类红队成员</title>
-<link>https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81070</guid>
-<pubDate>Thu, 16 Jul 2026 18:48:04 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI 训练了 GPT-Red，这是一个仅限内部使用的攻击模型，通过与一组防御型大语言模型进行自我对弈强化学习。在复现的间接提示注入测试场景中，它以 84% 对 13% 的胜率击败了人类红队成员，发现了一种新颖的“虚假思维链”攻击类别，并在 OpenAI 最难的直接注入基准测试中将 GPT-5.6 Sol 的失败率降低了 6 倍。OpenAI 承认，该模型在处理多轮和基于图像的攻击时仍存在困难。该文章《OpenAI 详解 GPT-Red：内部自动化红队模型在提示注入测试中以 84% 对 13% 击败人类红队成员》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google Vids 现在让你出演自己的AI视频</title>
@@ -408,14 +376,6 @@
 <description><![CDATA[【the-decoder.com】Sakana AI正在将Nvidia的开源Nemotron模型整合到其Fugu编排器中，该编排器能动态组合多个语言模型以执行特定任务。其核心论点在于：开源模型只有在协调使用时，才能与前沿系统竞争。然而，该公告尚未提供新组合的具体基准数据。本文《Sakana AI的编排器集成Nvidia Nemotron，证明“集体智能”可媲美单一前沿模型》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>苹果智能获准在华上线，搭载阿里巴巴通义千问AI</title>
-<link>https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3142774</guid>
-<pubDate>Thu, 16 Jul 2026 13:17:59 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】苹果智能即将进入中国，监管机构已批准苹果通过与阿里巴巴合作提供AI服务。这项传闻已久的交易将把阿里巴巴的通义千问AI模型引入苹果操作系统，标志着该公司生成式AI平台在其最重要市场之一的重大扩展。<br/><br/><a href="https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>更新模型，同样优势</title>
 <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
 <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</guid>
@@ -430,22 +390,6 @@
 <pubDate>Thu, 16 Jul 2026 09:30:42 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】Google DeepMind 与 Isomorphic Labs 正在分享我们关于生物韧性与人工智能模型的联合应对策略。<br/><br/><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用 Patter SDK 构建餐厅预订电话代理的指南：动态变量、防护栏、延迟仪表盘与评估检查</title>
-<link>https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81066</guid>
-<pubDate>Thu, 16 Jul 2026 07:42:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】我们通过构建一个餐厅预订场景的语音代理工作流，探索了 Patter SDK。我们定义了动态呼叫者变量，注册了用于查询可用性、预订、营业时间及人工转接的可调用工具，并在每次回复中叠加了输出防护栏。我们模拟了语音转文本和文本转语音的行为，运行了脚本化的呼叫流程，并在仪表盘中追踪了建模的延迟与成本。我们通过确定性评估框架验证了代理，随后将相同的逻辑映射到使用 Twilio 和 OpenAI Realtime 的实际部署中。<br/><br/><a href="https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>SpaceXAI 开源 Grok Build：其编码 CLI 背后的 Rust 代理框架、TUI 和工具层</title>
-<link>https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81063</guid>
-<pubDate>Thu, 16 Jul 2026 06:35:54 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】SpaceXAI 于 2026 年 7 月 15 日发布了 Grok Build 的源代码。该 Apache 2.0 许可的 Rust 代码库涵盖了代理循环、工具调度、TUI 以及扩展系统。Grok 4.5 仍保持闭源，且不接受外部贡献。本文《SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>安全事件披露——2026年7月</title>
@@ -486,6 +430,62 @@
 <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】增量式视频搜索要求在每次按键后提供高质量排序，而用户意图往往不明确（例如1-3个字符的前缀）。我们为Apple TV搜索提出了一种个性化系统，在排序阶段结合了互补的语义信号与协同信号。该方法学习两种项目嵌入空间：（i）基于文本的多语言编码器（TextEmb），通过对比学习在共同参与三元组上微调；（ii）基于ID的协同嵌入模型（IdEmb），在交互衍生的正样本上训练。在服务阶段，我们从用户交互中构建用户表示……<br/><br/><a href="https://machinelearning.apple.com/research/personalizing-incremental-video-search">阅读原文</a>]]></description>
+</item>
+<item>
+<title>令人惊讶的简单自蒸馏方法提升代码生成能力</title>
+<link>https://machinelearning.apple.com/research/simple-self-distillation</link>
+<guid isPermaLink="false">simple-self-distillation</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】大型语言模型（LLM）能否仅凭自身原始输出提升代码生成能力，而无需验证器、教师模型或强化学习？我们通过简单自蒸馏（SSD）给出了肯定答案：以特定温度和截断配置从模型中采样解决方案，然后对这些样本进行标准监督微调。SSD 将 Qwen3-30B-Instruct 在 LiveCodeBench v6 上的 pass@1 从 42.4% 提升至 55.3%，且提升主要集中在较难问题上。该方法在 4B、8B 和 30B 规模的 Qwen 和 Llama 模型上均具有泛化能力，包括……<br/><br/><a href="https://machinelearning.apple.com/research/simple-self-distillation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cars24 如何借助 OpenAI 扩展对话并加速发展</title>
+<link>https://openai.com/index/cars24</link>
+<guid isPermaLink="false">https://openai.com/index/cars24</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Cars24 利用 OpenAI 驱动的语音和聊天代理，每月处理超过 100 万分钟的对话，挽回 12% 的流失线索，并将代理工作流推广至公司各个团队。<br/><br/><a href="https://openai.com/index/cars24">阅读原文</a>]]></description>
+</item>
+<item>
+<title>智能体编排：企业AI组织面临的是部署问题，而非平台问题——大多数所谓的“智能体”仍是聊天机器人</title>
+<link>https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</link>
+<guid isPermaLink="false">2884mjZs7g6yWxefPaGVHN</guid>
+<pubDate>Wed, 15 Jul 2026 22:24:17 +0000</pubDate>
+<source>venturebeat.com</source>
+<description><![CDATA[【venturebeat.com】在对101家企业的调查中，智能体编排正集中到模型提供商平台——Anthropic的Claude以大幅优势领先——这些平台因底层模型的吸引力而被选中，并以其可靠的多步骤执行能力作为评判标准。然而，雄心远超前于现实：大多数已部署的“智能体”仍是聊天机器人的外壳，企业期望的控制平面是刻意混合的，以避免锁定，而对token消耗的实时财务控制仍是例外。这一波VentureBeat Pulse研究考察了企业智能体编排：企业运行在哪些平台上，驱动因素是什么。<br/><br/><a href="https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents">阅读原文</a>]]></description>
+</item>
+<item>
+<title>构建Shippy教会了我们关于构建智能体的哪些经验</title>
+<link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/shippy-tech-blog</guid>
+<pubDate>Wed, 15 Jul 2026 17:29:41 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/shippy-tech-blog">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub 初学者指南：掌握 GitHub 核心技能的路线图</title>
+<link>https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/</link>
+<guid isPermaLink="false">https://github.blog/?p=97534</guid>
+<pubDate>Wed, 15 Jul 2026 17:29:31 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】刚接触 GitHub？这份初学者指南将解释版本控制、仓库和拉取请求——以及你需要自信地在 GitHub 上开始工作的其他一切。本文《GitHub 初学者指南：掌握 GitHub 核心技能的路线图》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>模型路由看似简单，实则不然</title>
+<link>https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt</guid>
+<pubDate>Wed, 15 Jul 2026 17:27:01 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 的首款品牌硬件竟是……发光键盘？</title>
+<link>https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/</guid>
+<pubDate>Wed, 15 Jul 2026 16:00:33 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Codex Micro 旨在让用户一目了然地监控多个智能体线程。<br/><br/><a href="https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
