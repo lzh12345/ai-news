@@ -3818,5 +3818,25 @@
 "https://techcrunch.com/?p=3144034": {
 "t": "尼尔·莱默认为AI资金将回流",
 "s": "风险投资家、Index Ventures联合创始人尼尔·莱默预测，硅谷由AI创造的历史性财富将不得不以自愿或非自愿的方式重新分配。"
+},
+"https://the-decoder.com/?p=37888": {
+"t": "五角大楼新AI战略手册：缓慢采用比“不完美对齐”风险更大",
+"s": "美国海军部签署了一项战略，旨在“武器化”数据和AI，打造一支“AI优先”的舰队。大型语言模型将直接在军舰上运行，并设立AI战争委员会以优先处理任务场景。核心信息是，行动过于缓慢比“不完美对齐”带来的风险更大。本文《五角大楼新AI战略手册：缓慢采用比“不完美对齐”风险更大》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81117": {
+"t": "Google Cloud 的 Always-On Memory Agent 在 Gemini 3.1 Flash-Lite 上以持续 LLM 整合取代 RAG 和嵌入",
+"s": "Google Cloud 的生成式 AI 仓库推出了 Always-On Memory Agent，这是一个将记忆视为运行进程的参考实现。它基于 Google ADK 和 Gemini 3.1 Flash-Lite 构建，不使用向量数据库和嵌入。相反，一个编排器将任务路由到 Ingest、Consolidate 和 Query 子代理，这些子代理全天候读取、连接并将结构化记忆写入 SQLite。文章《Google Cloud’s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite》最初出现在 MarkTechPost 上。"
+},
+"https://the-decoder.com/?p=37902": {
+"t": "Anthropic 大幅削减 Max 和 Team Premium 套餐中 Claude Fable 5 的使用限制，并引导 Pro 用户转向 API 定价",
+"s": "Anthropic 将于 7 月 20 日起将 Claude Fable 5 纳入 Max 和 Team Premium 套餐，但使用量仅为常规限制的 50%，而常规限制本身在同一天将减少三分之一。Pro 用户将获得一次性 100 美元额度，之后需按 API 费率付费。Anthropic 最初计划完全从订阅中移除 Fable，如今这一转变很可能是迫于 OpenAI 更便宜的 GPT-5.6 Sol 带来的竞争压力。本文《Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing》最初发表于 The Decoder。"
+},
+"https://www.marktechpost.com/?p=81113": {
+"t": "如何构建具备环形图谱、限制性分析、虚拟凝胶及引物设计的质粒工程工作台",
+"s": "在本教程中，我们构建了一个基于Google Colab的质粒工作台，在交互式笔记本环境中重现了SpliceCraft的核心理念。我们不依赖基于终端的TUI，而是使用Biopython、NumPy和Matplotlib来加载质粒记录、标准化注释的基因组特征、渲染环形和线性质粒图谱、计算序列统计信息、分析限制性酶切……该文章《如何构建具备环形图谱、限制性分析、虚拟凝胶及引物设计的质粒工程工作台》首次出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=81110": {
+"t": "Sakana AI的误差扩散训练符合戴尔原则的双流网络，无需反向传播即可达到MNIST 96.7%和CIFAR-10 61.7%的准确率",
+"s": "反向传播依赖于权重传输，而生物电路可能无法实现这一点。Sakana AI的误差扩散绕过了这一限制，训练了符合戴尔原则的双流兴奋/抑制网络。本文解析了模误差路由如何将该规则从MNIST扩展到CIFAR-10及强化学习，以及其任务依赖的消融实验揭示了什么。该文章《Sakana AI’s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation》最初发表于MarkTechPost。"
 }
 }
