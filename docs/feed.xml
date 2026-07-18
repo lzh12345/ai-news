@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 18 Jul 2026 09:16:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 12:55:45 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI 会改善事先授权——还是让情况更糟？</title>
+<link>https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</guid>
+<pubDate>Sat, 18 Jul 2026 11:18:25 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】政府正在试点一个项目，利用人工智能进行保险覆盖决策。<br/><br/><a href="https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>中国新成立的世界人工智能合作组织是习近平主席构建平行AI秩序最明确的举措</title>
+<link>https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37918</guid>
+<pubDate>Sat, 18 Jul 2026 10:46:04 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在上海世界人工智能大会上，习近平宣布为全球南方国家提供5000个AI培训名额，并启动“世界人工智能合作组织”。计划随后与东盟、非盟、金砖国家及其他联盟建立合作中心。中国正系统性地在西方影响之外构建一个平行的AI治理架构。本文《中国新成立的世界人工智能合作组织是习近平主席构建平行AI秩序最明确的举措》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平</title>
+<link>https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37910</guid>
+<pubDate>Sat, 18 Jul 2026 10:16:02 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】英国人工智能安全研究所警告称，像GLM-5.2和DeepSeek V4-Pro这样的开放权重模型，在网络能力上如今仅落后封闭前沿模型四到七个月。2025年初，这一差距仍有六到十个月。该机构还发现，开放模型上的安全措施基本无效，导致防御者准备时间更短。本文《开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>五角大楼新AI战略手册：缓慢采用比“不完美对齐”风险更大</title>
 <link>https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/</link>
@@ -344,14 +368,6 @@
 <description><![CDATA[【techcrunch.com】Roblox 的新“Build”功能允许用户通过单个文本提示生成基础游戏。<br/><br/><a href="https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google 将 NotebookLM 更名为 Gemini Notebook，并向第三方开放搜索应用集成</title>
-<link>https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37861</guid>
-<pubDate>Thu, 16 Jul 2026 17:22:18 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google 将 NotebookLM 更名为 Gemini Notebook，并将该工具更深入地整合到其生态系统中。一项新功能为每个笔记本提供了独立的云计算机，可编写和运行代码，初期面向 AI Ultra 和 Workspace 用户。此外，Google 搜索正在获得应用连接功能。文章《Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI上下文鸿沟：企业AI组织面临的是信任问题，而非检索问题——多数企业仍在构建解决方案</title>
 <link>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</link>
 <guid isPermaLink="false">2Jg9kvtAsPN9IxCbC6KaEt</guid>
@@ -366,14 +382,6 @@
 <pubDate>Thu, 16 Jul 2026 16:40:48 +0000</pubDate>
 <source>venturebeat.com</source>
 <description><![CDATA[【venturebeat.com】在157家企业中，组织正赋予AI智能体更多自主权，同时却对用于约束这种自主权的评估手段信任度降低。半数企业已出现智能体通过内部评估却在生产环境中导致客户失败的情况；目前仅二十分之一的企业完全信任自动化评估；最常被提及的缺陷是评估结果与现实结果不匹配。然而，三分之二的企业已允许或正积极推动仅凭自动化评估（无人工介入）就将智能体变更部署至生产环境。由此形成了评估鸿沟——<br/><br/><a href="https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway">阅读原文</a>]]></description>
-</item>
-<item>
-<title>德国首次裁定将谷歌AI概览与Perplexity纳入媒体法监管</title>
-<link>https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37853</guid>
-<pubDate>Thu, 16 Jul 2026 16:12:26 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】德国媒体监管机构表示，谷歌的AI概览属于谷歌自身内容，而非中立搜索结果，且这些内容挤占了常规链接。监管机构已依据德国《国家媒体条约》对谷歌和Perplexity作出首批裁决。两家公司均有一个月时间提出上诉。本文《德国首次裁定将谷歌AI概览与Perplexity纳入媒体法监管》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>青少年为何应获得安全的AI使用权限</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/security-incident-july-2026">阅读原文</a>]]></description>
-</item>
-<item>
-<title>函数的位置不变性质与分布的性质：测试中统一，验证中分离</title>
-<link>https://machinelearning.apple.com/research/location-invariant-functions</link>
-<guid isPermaLink="false">location-invariant-functions</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】如果函数的性质可以通过函数中每个值出现的频率来刻画，而无需考虑每个值出现的位置，则称该性质为位置不变（或对称）的。已知测试函数的位置不变性质的（查询）复杂度与测试相应分布的（对应性质的）（样本）复杂度密切相关。当前工作的主要信息是，这种密切关系在验证的背景下并不成立。这一点在考虑……时均成立。<br/><br/><a href="https://machinelearning.apple.com/research/location-invariant-functions">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

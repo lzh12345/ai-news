@@ -3838,5 +3838,17 @@
 "https://www.marktechpost.com/?p=81110": {
 "t": "Sakana AI的误差扩散训练符合戴尔原则的双流网络，无需反向传播即可达到MNIST 96.7%和CIFAR-10 61.7%的准确率",
 "s": "反向传播依赖于权重传输，而生物电路可能无法实现这一点。Sakana AI的误差扩散绕过了这一限制，训练了符合戴尔原则的双流兴奋/抑制网络。本文解析了模误差路由如何将该规则从MNIST扩展到CIFAR-10及强化学习，以及其任务依赖的消融实验揭示了什么。该文章《Sakana AI’s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation》最初发表于MarkTechPost。"
+},
+"https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/": {
+"t": "AI 会改善事先授权——还是让情况更糟？",
+"s": "政府正在试点一个项目，利用人工智能进行保险覆盖决策。"
+},
+"https://the-decoder.com/?p=37918": {
+"t": "中国新成立的世界人工智能合作组织是习近平主席构建平行AI秩序最明确的举措",
+"s": "在上海世界人工智能大会上，习近平宣布为全球南方国家提供5000个AI培训名额，并启动“世界人工智能合作组织”。计划随后与东盟、非盟、金砖国家及其他联盟建立合作中心。中国正系统性地在西方影响之外构建一个平行的AI治理架构。本文《中国新成立的世界人工智能合作组织是习近平主席构建平行AI秩序最明确的举措》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=37910": {
+"t": "开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平",
+"s": "英国人工智能安全研究所警告称，像GLM-5.2和DeepSeek V4-Pro这样的开放权重模型，在网络能力上如今仅落后封闭前沿模型四到七个月。2025年初，这一差距仍有六到十个月。该机构还发现，开放模型上的安全措施基本无效，导致防御者准备时间更短。本文《开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平》最初发表于The Decoder。"
 }
 }
