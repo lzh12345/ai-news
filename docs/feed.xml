@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 18 Jul 2026 16:46:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 20:38:40 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NVIDIA发布DeepStream 9.1：以13项技能与多视角3D追踪将Agentic AI引入视觉AI</title>
+<link>https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81120</guid>
+<pubDate>Sat, 18 Jul 2026 19:16:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA DeepStream 9.1引入了13项智能体技能，使Claude Code和Codex等编码智能体能够根据自然语言提示构建多摄像头视频分析管道。多视角3D追踪（MV3DT）将每个摄像头的检测结果融合到一个共享的3D世界中，并赋予全局一致的物体ID，而AutoMagicCalib（AMC）则免去了手动摄像头校准。该版本还增加了对JetPack 7.2的支持，并提供了一个统一的GitHub开源单体仓库。本文《NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Kimi：威胁还是隐患？</title>
+<link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3144070</guid>
+<pubDate>Sat, 18 Jul 2026 18:51:07 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】中国公司月之暗面（Moonshot AI）本周发布了其Kimi模型的新版本，引发了关于“全面AI共产主义”的担忧。<br/><br/><a href="https://techcrunch.com/2026/07/18/kimi-threat-or-menace/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AI 会改善事先授权——还是让情况更糟？</title>
 <link>https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 16 Jul 2026 07:42:49 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】我们通过构建一个餐厅预订场景的语音代理工作流，探索了 Patter SDK。我们定义了动态呼叫者变量，注册了用于查询可用性、预订、营业时间及人工转接的可调用工具，并在每次回复中叠加了输出防护栏。我们模拟了语音转文本和文本转语音的行为，运行了脚本化的呼叫流程，并在仪表盘中追踪了建模的延迟与成本。我们通过确定性评估框架验证了代理，随后将相同的逻辑映射到使用 Twilio 和 OpenAI Realtime 的实际部署中。<br/><br/><a href="https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>SpaceXAI 开源 Grok Build：其编码 CLI 背后的 Rust 代理框架、TUI 和工具层</title>
-<link>https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81063</guid>
-<pubDate>Thu, 16 Jul 2026 06:35:54 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】SpaceXAI 于 2026 年 7 月 15 日发布了 Grok Build 的源代码。该 Apache 2.0 许可的 Rust 代码库涵盖了代理循环、工具调度、TUI 以及扩展系统。Grok 4.5 仍保持闭源，且不接受外部贡献。本文《SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>安全事件披露——2026年7月</title>
-<link>https://huggingface.co/blog/security-incident-july-2026</link>
-<guid isPermaLink="false">https://huggingface.co/blog/security-incident-july-2026</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/security-incident-july-2026">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

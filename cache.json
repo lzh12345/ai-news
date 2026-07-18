@@ -3850,5 +3850,13 @@
 "https://the-decoder.com/?p=37910": {
 "t": "开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平",
 "s": "英国人工智能安全研究所警告称，像GLM-5.2和DeepSeek V4-Pro这样的开放权重模型，在网络能力上如今仅落后封闭前沿模型四到七个月。2025年初，这一差距仍有六到十个月。该机构还发现，开放模型上的安全措施基本无效，导致防御者准备时间更短。本文《开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81120": {
+"t": "NVIDIA发布DeepStream 9.1：以13项技能与多视角3D追踪将Agentic AI引入视觉AI",
+"s": "NVIDIA DeepStream 9.1引入了13项智能体技能，使Claude Code和Codex等编码智能体能够根据自然语言提示构建多摄像头视频分析管道。多视角3D追踪（MV3DT）将每个摄像头的检测结果融合到一个共享的3D世界中，并赋予全局一致的物体ID，而AutoMagicCalib（AMC）则免去了手动摄像头校准。该版本还增加了对JetPack 7.2的支持，并提供了一个统一的GitHub开源单体仓库。本文《NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3144070": {
+"t": "Kimi：威胁还是隐患？",
+"s": "中国公司月之暗面（Moonshot AI）本周发布了其Kimi模型的新版本，引发了关于“全面AI共产主义”的担忧。"
 }
 }
