@@ -3886,5 +3886,13 @@
 "https://www.marktechpost.com/?p=81128": {
 "t": "使用 NVIDIA NeMo AutoModel 对 Qwen3 进行 LoRA 微调：完整的单 GPU Google Colab 工作流教程",
 "s": "我们在 Google Colab 中利用单 GPU 构建了一个端到端的 NVIDIA NeMo AutoModel 工作流。我们验证了 CUDA 硬件和精度支持，从源码安装 NeMo AutoModel，并加载官方的 Qwen3-0.6B LoRA 配方。随后，我们针对受限的运行环境调整了其精度、批次大小、检查点和调度器设置。我们通过 automodel CLI 启动微调，重新加载 LoRA 检查点，并对比基础模型与微调后的输出。最后，我们使用了 NeMoAutoModelForCausalLM Python API。"
+},
+"https://the-decoder.com/?p=37960": {
+"t": "阿里巴巴Qwen发布开源权重模型Qwen 3.8，对标Kimi K3，称其“仅次于Fable 5”",
+"s": "阿里巴巴发布了Qwen 3.8，这是一款拥有2.4万亿参数的多模态AI模型。Qwen团队称，该模型可与领先模型相媲美，仅落后于Fable 5。目前预览版已上线。本文《阿里巴巴Qwen发布开源权重模型Qwen 3.8，对标Kimi K3，称其“仅次于Fable 5”》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37948": {
+"t": "Google Deepmind 认为视频生成器已包含计算机视觉缺失的世界模型",
+"s": "Google Deepmind 的 GenCeption 将视频生成器重新用于深度估计和分割等经典视觉任务，以远少于训练数据的方式达到与最先进系统相当的水平。该模型几乎完全基于合成视频进行训练。其成果加剧了关于视频生成器是否已包含某种通用世界模型的争论。本文《Google Deepmind 认为视频生成器已包含计算机视觉缺失的世界模型》最初发表于 The Decoder。"
 }
 }
