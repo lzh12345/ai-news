@@ -3858,5 +3858,33 @@
 "https://techcrunch.com/?p=3144070": {
 "t": "Kimi：威胁还是隐患？",
 "s": "中国公司月之暗面（Moonshot AI）本周发布了其Kimi模型的新版本，引发了关于“全面AI共产主义”的担忧。"
+},
+"https://the-decoder.com/?p=37942": {
+"t": "月之暗面Kimi K3在前端代码上超越Fable 5，但在复杂数学领域大幅落后",
+"s": "月之暗面的Kimi K3是首个登顶Code Arena：前端排行榜的中国模型，以显著优势击败了Claude Fable 5和GPT-5.6 Sol。但在高级数学领域，差距明显：Kimi K3在FrontierMath Tier 4上仅获得约39%的分数，而OpenAI和Anthropic的模型则接近90%。文章《月之暗面Kimi K3在前端代码上超越Fable 5，但在复杂数学领域大幅落后》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=37935": {
+"t": "AI文本检测器在语言模型模仿作者风格时表现不佳",
+"s": "Epoch AI使用风格模仿文本对三款主流AI文本检测器（Pangram、GPTZero和Originality.ai）进行了测试。结果显示，高达18%的AI生成段落未被识别。在科学写作领域，漏检率甚至攀升至48%，而这正是这些检测器在实际应用中最可能被使用的场景。本文《AI文本检测器在语言模型模仿作者风格时表现不佳》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37925": {
+"t": "AI聊天机器人解读X光片时，即使出错也可能过度自信，带来危险",
+"s": "RadLE 2.0基准测试评估了放射学领域的AI模型能否判断何时应将诊断交由人类处理。许多模型在给出错误结论时仍充满自信，而人类放射科医生仍遥遥领先。在AI能够独立诊断之前，它需要学会何时保持沉默更合适。本文《AI聊天机器人解读X光片时，即使出错也可能过度自信，带来危险》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81138": {
+"t": "Perplexity AI 发布 WANDR：一个评估需广搜深究的研究型智能体的开放基准",
+"s": "Perplexity 的 WANDR 是一个包含500项证据密集型任务的开放基准与评估框架。它测试研究型智能体能否发现大量符合条件的实体，并为每个实体提供可引用、可重新验证的证据。Perplexity Search as Code 以0.363的软F1分数和0.133的硬F1分数领先。该文章最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81135": {
+"t": "10个用于构建LLM应用、RAG系统和AI智能体的开源无代码AI平台",
+"s": "检索、智能体和工作流现已作为可视化及纯英文工具提供。本综述涵盖10个用于构建LLM应用、RAG系统和AI智能体的开源无代码及低代码平台，每个平台均附有已验证的许可证、代码仓库及最佳适用场景。该文章《10个用于构建LLM应用、RAG系统和AI智能体的开源无代码AI平台》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81131": {
+"t": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2：开源万亿级MoE模型在基准测试、许可证和服务成本上的对比",
+"s": "三款开源MoE旗舰模型在测量智能、MIT与修改版MIT权重以及实际服务成本上展开对决。该文章《Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2：开源万亿级MoE模型在基准测试、许可证和服务成本上的对比》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81128": {
+"t": "使用 NVIDIA NeMo AutoModel 对 Qwen3 进行 LoRA 微调：完整的单 GPU Google Colab 工作流教程",
+"s": "我们在 Google Colab 中利用单 GPU 构建了一个端到端的 NVIDIA NeMo AutoModel 工作流。我们验证了 CUDA 硬件和精度支持，从源码安装 NeMo AutoModel，并加载官方的 Qwen3-0.6B LoRA 配方。随后，我们针对受限的运行环境调整了其精度、批次大小、检查点和调度器设置。我们通过 automodel CLI 启动微调，重新加载 LoRA 检查点，并对比基础模型与微调后的输出。最后，我们使用了 NeMoAutoModelForCausalLM Python API。"
 }
 }

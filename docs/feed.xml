@@ -5,8 +5,72 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 19 Jul 2026 06:23:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 09:45:55 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>月之暗面Kimi K3在前端代码上超越Fable 5，但在复杂数学领域大幅落后</title>
+<link>https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37942</guid>
+<pubDate>Sun, 19 Jul 2026 09:32:19 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】月之暗面的Kimi K3是首个登顶Code Arena：前端排行榜的中国模型，以显著优势击败了Claude Fable 5和GPT-5.6 Sol。但在高级数学领域，差距明显：Kimi K3在FrontierMath Tier 4上仅获得约39%的分数，而OpenAI和Anthropic的模型则接近90%。文章《月之暗面Kimi K3在前端代码上超越Fable 5，但在复杂数学领域大幅落后》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI文本检测器在语言模型模仿作者风格时表现不佳</title>
+<link>https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37935</guid>
+<pubDate>Sun, 19 Jul 2026 08:35:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Epoch AI使用风格模仿文本对三款主流AI文本检测器（Pangram、GPTZero和Originality.ai）进行了测试。结果显示，高达18%的AI生成段落未被识别。在科学写作领域，漏检率甚至攀升至48%，而这正是这些检测器在实际应用中最可能被使用的场景。本文《AI文本检测器在语言模型模仿作者风格时表现不佳》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI聊天机器人解读X光片时，即使出错也可能过度自信，带来危险</title>
+<link>https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37925</guid>
+<pubDate>Sun, 19 Jul 2026 07:35:20 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】RadLE 2.0基准测试评估了放射学领域的AI模型能否判断何时应将诊断交由人类处理。许多模型在给出错误结论时仍充满自信，而人类放射科医生仍遥遥领先。在AI能够独立诊断之前，它需要学会何时保持沉默更合适。本文《AI聊天机器人解读X光片时，即使出错也可能过度自信，带来危险》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity AI 发布 WANDR：一个评估需广搜深究的研究型智能体的开放基准</title>
+<link>https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81138</guid>
+<pubDate>Sun, 19 Jul 2026 07:19:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity 的 WANDR 是一个包含500项证据密集型任务的开放基准与评估框架。它测试研究型智能体能否发现大量符合条件的实体，并为每个实体提供可引用、可重新验证的证据。Perplexity Search as Code 以0.363的软F1分数和0.133的硬F1分数领先。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>10个用于构建LLM应用、RAG系统和AI智能体的开源无代码AI平台</title>
+<link>https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81135</guid>
+<pubDate>Sun, 19 Jul 2026 05:53:19 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】检索、智能体和工作流现已作为可视化及纯英文工具提供。本综述涵盖10个用于构建LLM应用、RAG系统和AI智能体的开源无代码及低代码平台，每个平台均附有已验证的许可证、代码仓库及最佳适用场景。该文章《10个用于构建LLM应用、RAG系统和AI智能体的开源无代码AI平台》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2：开源万亿级MoE模型在基准测试、许可证和服务成本上的对比</title>
+<link>https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81131</guid>
+<pubDate>Sun, 19 Jul 2026 01:41:33 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】三款开源MoE旗舰模型在测量智能、MIT与修改版MIT权重以及实际服务成本上展开对决。该文章《Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2：开源万亿级MoE模型在基准测试、许可证和服务成本上的对比》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用 NVIDIA NeMo AutoModel 对 Qwen3 进行 LoRA 微调：完整的单 GPU Google Colab 工作流教程</title>
+<link>https://www.marktechpost.com/2026/07/18/fine-tuning-qwen3-with-lora-using-nvidia-nemo-automodel-a-complete-single-gpu-google-colab-workflow-tutorial/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81128</guid>
+<pubDate>Sun, 19 Jul 2026 01:08:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们在 Google Colab 中利用单 GPU 构建了一个端到端的 NVIDIA NeMo AutoModel 工作流。我们验证了 CUDA 硬件和精度支持，从源码安装 NeMo AutoModel，并加载官方的 Qwen3-0.6B LoRA 配方。随后，我们针对受限的运行环境调整了其精度、批次大小、检查点和调度器设置。我们通过 automodel CLI 启动微调，重新加载 LoRA 检查点，并对比基础模型与微调后的输出。最后，我们使用了 NeMoAutoModelForCausalLM Python API。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/fine-tuning-qwen3-with-lora-using-nvidia-nemo-automodel-a-complete-single-gpu-google-colab-workflow-tutorial/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA发布DeepStream 9.1：以13项技能与多视角3D追踪将Agentic AI引入视觉AI</title>
+<link>https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81120</guid>
+<pubDate>Sat, 18 Jul 2026 19:16:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA DeepStream 9.1引入了13项智能体技能，使Claude Code和Codex等编码智能体能够根据自然语言提示构建多摄像头视频分析管道。多视角3D追踪（MV3DT）将每个摄像头的检测结果融合到一个共享的3D世界中，并赋予全局一致的物体ID，而AutoMagicCalib（AMC）则免去了手动摄像头校准。该版本还增加了对JetPack 7.2的支持，并提供了一个统一的GitHub开源单体仓库。本文《NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Kimi：威胁还是隐患？</title>
 <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
@@ -48,12 +112,36 @@
 <description><![CDATA[【the-decoder.com】美国海军部签署了一项战略，旨在“武器化”数据和AI，打造一支“AI优先”的舰队。大型语言模型将直接在军舰上运行，并设立AI战争委员会以优先处理任务场景。核心信息是，行动过于缓慢比“不完美对齐”带来的风险更大。本文《五角大楼新AI战略手册：缓慢采用比“不完美对齐”风险更大》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Google Cloud 的 Always-On Memory Agent 在 Gemini 3.1 Flash-Lite 上以持续 LLM 整合取代 RAG 和嵌入</title>
+<link>https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81117</guid>
+<pubDate>Sat, 18 Jul 2026 07:57:51 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Cloud 的生成式 AI 仓库推出了 Always-On Memory Agent，这是一个将记忆视为运行进程的参考实现。它基于 Google ADK 和 Gemini 3.1 Flash-Lite 构建，不使用向量数据库和嵌入。相反，一个编排器将任务路由到 Ingest、Consolidate 和 Query 子代理，这些子代理全天候读取、连接并将结构化记忆写入 SQLite。文章《Google Cloud’s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Anthropic 大幅削减 Max 和 Team Premium 套餐中 Claude Fable 5 的使用限制，并引导 Pro 用户转向 API 定价</title>
 <link>https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=37902</guid>
 <pubDate>Sat, 18 Jul 2026 07:17:11 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Anthropic 将于 7 月 20 日起将 Claude Fable 5 纳入 Max 和 Team Premium 套餐，但使用量仅为常规限制的 50%，而常规限制本身在同一天将减少三分之一。Pro 用户将获得一次性 100 美元额度，之后需按 API 费率付费。Anthropic 最初计划完全从订阅中移除 Fable，如今这一转变很可能是迫于 OpenAI 更便宜的 GPT-5.6 Sol 带来的竞争压力。本文《Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如何构建具备环形图谱、限制性分析、虚拟凝胶及引物设计的质粒工程工作台</title>
+<link>https://www.marktechpost.com/2026/07/17/how-to-build-plasmid-engineering-workbench-with-circular-mapping-restriction-analysis-virtual-gels-and-primer-design/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81113</guid>
+<pubDate>Sat, 18 Jul 2026 06:51:05 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们构建了一个基于Google Colab的质粒工作台，在交互式笔记本环境中重现了SpliceCraft的核心理念。我们不依赖基于终端的TUI，而是使用Biopython、NumPy和Matplotlib来加载质粒记录、标准化注释的基因组特征、渲染环形和线性质粒图谱、计算序列统计信息、分析限制性酶切……该文章《如何构建具备环形图谱、限制性分析、虚拟凝胶及引物设计的质粒工程工作台》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/17/how-to-build-plasmid-engineering-workbench-with-circular-mapping-restriction-analysis-virtual-gels-and-primer-design/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sakana AI的误差扩散训练符合戴尔原则的双流网络，无需反向传播即可达到MNIST 96.7%和CIFAR-10 61.7%的准确率</title>
+<link>https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81110</guid>
+<pubDate>Sat, 18 Jul 2026 06:32:43 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】反向传播依赖于权重传输，而生物电路可能无法实现这一点。Sakana AI的误差扩散绕过了这一限制，训练了符合戴尔原则的双流兴奋/抑制网络。本文解析了模误差路由如何将该规则从MNIST扩展到CIFAR-10及强化学习，以及其任务依赖的消融实验揭示了什么。该文章《Sakana AI’s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>尼尔·莱默认为AI资金将回流</title>
@@ -72,12 +160,28 @@
 <description><![CDATA[【techcrunch.com】从AI工作流到电池续航和安全，这里是每天使用Vertu奢华折叠屏手机的真实体验。<br/><br/><a href="https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>使用MongoDB Atlas、Voyage和LangGraph构建智能活动场地运营代理</title>
+<link>https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81094</guid>
+<pubDate>Fri, 17 Jul 2026 22:12:57 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】简介 本教程从大多数代理演示停止的地方开始：为代理提供持久记忆、操作上下文以及记录事件发生情况的空间。活动运营者不仅需要一个能总结天气报告或生成通用计划的代理，还需要一个能记住过去发生事件的代理。文章《使用MongoDB Atlas、Voyage和LangGraph构建智能活动场地运营代理》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Databricks估值达1880亿美元，延续其作为AI领域最受欢迎第二幕的势头</title>
 <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3143817</guid>
 <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Databricks已重塑自身为一家AI公司，并发布了关于开源权重AI模型在编程中节省成本的研究。<br/><br/><a href="https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Zyphra 发布 ZUNA1.1：一款采用 Apache 2.0 协议的脑电图基础模型，支持 0.5 至 30 秒可变长度输入</title>
+<link>https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81091</guid>
+<pubDate>Fri, 17 Jul 2026 21:35:27 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Zyphra 于 2026 年 7 月 16 日发布了 ZUNA1.1，采用 Apache 2.0 协议。这款 3.8 亿参数的掩码扩散自编码器能够对任意通道布局的头皮脑电图（scalp-EEG）进行重建、去噪和上采样。与 ZUNA1 固定的 5 秒输入不同，它支持 0.5 至 30 秒的可变长度输入。在输入范围扩大的同时，报告的归一化均方误差（NMSE）保持稳定或有所改善。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Cloudflare WAF 保护 WordPress 应用免受两个高危漏洞影响</title>
@@ -200,28 +304,12 @@
 <description><![CDATA[【techcrunch.com】一笔4亿美元的芯片抵押贷款指向了AI基础设施交易的下一波浪潮。<br/><br/><a href="https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Linus Torvalds 对Linux内核社区中的AI批评者说：请另起炉灶</title>
-<link>https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37884</guid>
-<pubDate>Fri, 17 Jul 2026 11:12:47 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Linux创始人Linus Torvalds明确支持在内核开发中使用AI工具。他在内核邮件列表中就Linux基金会的AI驱动代码审查工具Sashiko的争论中写道：“Linux不是那些反AI的项目。”Torvalds表示，他会“非常大声地忽略”任何试图劝阻他人使用该工具的人。这篇文章《Linus Torvalds tells AI critics in the Linux kernel community to fork off》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI时代的记分卡</title>
 <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
 <guid isPermaLink="false">https://openai.com/index/a-scorecard-for-the-ai-age</guid>
 <pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI首席财务官Sarah Friar介绍了一种实用的AI记分卡，通过有用工作、每项成功任务的成本、可靠性和计算回报来衡量投资回报率。<br/><br/><a href="https://openai.com/index/a-scorecard-for-the-ai-age">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Netflix的300个AI制作项目显示该技术在娱乐领域的快速渗透</title>
-<link>https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37879</guid>
-<pubDate>Fri, 17 Jul 2026 08:53:31 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Netflix目前在大约300个制作项目中运用AI技术，主要集中在后期制作环节。联合CEO泰德·萨兰多斯给出了具体数据：纪录片系列《美国实验》包含17分钟的AI辅助镜头，制作速度提升一倍，成本降低一半。节省的资金"很可能"会用于增加内容投入，而非缩减200亿美元的预算。本文《Netflix的300个AI制作项目显示该技术在娱乐领域的快速渗透》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>当遗忘无需代价：利用低影响点降低计算成本</title>
@@ -262,14 +350,6 @@
 <pubDate>Thu, 16 Jul 2026 20:09:48 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】现代汽车计划从2028年起在美国工厂部署25000台Atlas机器人。<br/><br/><a href="https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Kimi 开源模型 K3 逼近 GPT-5.6 Sol 和 Fable 5，同时标志着超低价中国 AI 时代的终结</title>
-<link>https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37866</guid>
-<pubDate>Thu, 16 Jul 2026 19:49:39 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Kimi 即将发布 K3，这是一个多模态开源权重模型，拥有 2.8 万亿参数和 100 万 token 的上下文长度。在自家基准测试中，该模型接近 Claude Fable 5 和 GPT 5.6 Sol 的水平，同时大幅领先 Opus 4.8 和 GLM 5.2。该模型的价格也显著高于其前代产品。完整权重计划于 7 月 27 日前发布。文章《Kimi 开源模型 K3 逼近 GPT-5.6 Sol 和 Fable 5，同时标志着超低价中国 AI 时代的终结》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Linus Torvalds 对 Linux 中 AI 编码的批评者说：&quot;Fork it. 或者直接走开。&quot;</title>
@@ -406,86 +486,6 @@
 <pubDate>Thu, 16 Jul 2026 09:30:42 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】Google DeepMind 与 Isomorphic Labs 正在分享我们关于生物韧性与人工智能模型的联合应对策略。<br/><br/><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>安全事件披露——2026年7月</title>
-<link>https://huggingface.co/blog/security-incident-july-2026</link>
-<guid isPermaLink="false">https://huggingface.co/blog/security-incident-july-2026</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/security-incident-july-2026">阅读原文</a>]]></description>
-</item>
-<item>
-<title>函数的位置不变性质与分布的性质：测试中统一，验证中分离</title>
-<link>https://machinelearning.apple.com/research/location-invariant-functions</link>
-<guid isPermaLink="false">location-invariant-functions</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】如果函数的性质可以通过函数中每个值出现的频率来刻画，而无需考虑每个值出现的位置，则称该性质为位置不变（或对称）的。已知测试函数的位置不变性质的（查询）复杂度与测试相应分布的（对应性质的）（样本）复杂度密切相关。当前工作的主要信息是，这种密切关系在验证的背景下并不成立。这一点在考虑……时均成立。<br/><br/><a href="https://machinelearning.apple.com/research/location-invariant-functions">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通用分布属性的交互式证明</title>
-<link>https://machinelearning.apple.com/research/interactive-proofs-distribution-properties</link>
-<guid isPermaLink="false">interactive-proofs-distribution-properties</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】假设爱丽丝从某个未知分布中收集了少量样本，并希望了解该分布的特性。鲍勃是一位不可信的数据分析师，声称已对该分布进行了复杂的数据分析，并就其属性提出了断言。那么，爱丽丝何时以及如何能够高效地验证鲍勃的断言（使用比自行运行分析更少的资源）？我们针对可由有界深度电路判定的通用分布属性，构建了交互式证明系统。设N为分布的上界……<br/><br/><a href="https://machinelearning.apple.com/research/interactive-proofs-distribution-properties">阅读原文</a>]]></description>
-</item>
-<item>
-<title>双重次线性邻近交互式证明</title>
-<link>https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs</link>
-<guid isPermaLink="false">doubly-sublinear-interactive-proofs</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】我们研究双重次线性邻近交互式证明（dsIPPs）：一种生成速度极快的证明，可用于证明关于海量输入的近似断言。证明生成速度极快，仅需读取输入的一小部分（次线性）。证明的近似验证速度更快（读取输入中更小的一部分）。与性质检验文献类似，近似验证意味着次线性时间的诚实证明者能让验证者接受性质中的每个输入，但任何证明者都无法欺骗验证者……<br/><br/><a href="https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs">阅读原文</a>]]></description>
-</item>
-<item>
-<title>结合混合文本与ID嵌入的增量式视频搜索个性化方法</title>
-<link>https://machinelearning.apple.com/research/personalizing-incremental-video-search</link>
-<guid isPermaLink="false">personalizing-incremental-video-search</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】增量式视频搜索要求在每次按键后提供高质量排序，而用户意图往往不明确（例如1-3个字符的前缀）。我们为Apple TV搜索提出了一种个性化系统，在排序阶段结合了互补的语义信号与协同信号。该方法学习两种项目嵌入空间：（i）基于文本的多语言编码器（TextEmb），通过对比学习在共同参与三元组上微调；（ii）基于ID的协同嵌入模型（IdEmb），在交互衍生的正样本上训练。在服务阶段，我们从用户交互中构建用户表示……<br/><br/><a href="https://machinelearning.apple.com/research/personalizing-incremental-video-search">阅读原文</a>]]></description>
-</item>
-<item>
-<title>令人惊讶的简单自蒸馏方法提升代码生成能力</title>
-<link>https://machinelearning.apple.com/research/simple-self-distillation</link>
-<guid isPermaLink="false">simple-self-distillation</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】大型语言模型（LLM）能否仅凭自身原始输出提升代码生成能力，而无需验证器、教师模型或强化学习？我们通过简单自蒸馏（SSD）给出了肯定答案：以特定温度和截断配置从模型中采样解决方案，然后对这些样本进行标准监督微调。SSD 将 Qwen3-30B-Instruct 在 LiveCodeBench v6 上的 pass@1 从 42.4% 提升至 55.3%，且提升主要集中在较难问题上。该方法在 4B、8B 和 30B 规模的 Qwen 和 Llama 模型上均具有泛化能力，包括……<br/><br/><a href="https://machinelearning.apple.com/research/simple-self-distillation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cars24 如何借助 OpenAI 扩展对话并加速发展</title>
-<link>https://openai.com/index/cars24</link>
-<guid isPermaLink="false">https://openai.com/index/cars24</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Cars24 利用 OpenAI 驱动的语音和聊天代理，每月处理超过 100 万分钟的对话，挽回 12% 的流失线索，并将代理工作流推广至公司各个团队。<br/><br/><a href="https://openai.com/index/cars24">阅读原文</a>]]></description>
-</item>
-<item>
-<title>智能体编排：企业AI组织面临的是部署问题，而非平台问题——大多数所谓的“智能体”仍是聊天机器人</title>
-<link>https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</link>
-<guid isPermaLink="false">2884mjZs7g6yWxefPaGVHN</guid>
-<pubDate>Wed, 15 Jul 2026 22:24:17 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】在对101家企业的调查中，智能体编排正集中到模型提供商平台——Anthropic的Claude以大幅优势领先——这些平台因底层模型的吸引力而被选中，并以其可靠的多步骤执行能力作为评判标准。然而，雄心远超前于现实：大多数已部署的“智能体”仍是聊天机器人的外壳，企业期望的控制平面是刻意混合的，以避免锁定，而对token消耗的实时财务控制仍是例外。这一波VentureBeat Pulse研究考察了企业智能体编排：企业运行在哪些平台上，驱动因素是什么。<br/><br/><a href="https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents">阅读原文</a>]]></description>
-</item>
-<item>
-<title>构建Shippy教会了我们关于构建智能体的哪些经验</title>
-<link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/shippy-tech-blog</guid>
-<pubDate>Wed, 15 Jul 2026 17:29:41 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/shippy-tech-blog">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub 初学者指南：掌握 GitHub 核心技能的路线图</title>
-<link>https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/</link>
-<guid isPermaLink="false">https://github.blog/?p=97534</guid>
-<pubDate>Wed, 15 Jul 2026 17:29:31 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】刚接触 GitHub？这份初学者指南将解释版本控制、仓库和拉取请求——以及你需要自信地在 GitHub 上开始工作的其他一切。本文《GitHub 初学者指南：掌握 GitHub 核心技能的路线图》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
