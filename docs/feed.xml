@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 20 Jul 2026 06:39:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 10:43:08 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅</title>
+<link>https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37966</guid>
+<pubDate>Mon, 20 Jul 2026 07:55:09 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Moonshot已暂时停止销售其Kimi K3模型的新订阅，原因是需求在48小时内几乎耗尽了其GPU容量。该公司计划拆分其订阅模式，以更均匀地分配计算能力。文章《Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>有人基于Claude Fable 5轨迹微调OpenBMB的MiniCPM5-1B，推出657MB本地推理模型</title>
 <link>https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/</link>
@@ -246,14 +254,6 @@
 <pubDate>Fri, 17 Jul 2026 21:20:47 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】如果每一次会议、茶水间闲聊和约会都被转录并总结，又有谁会真正去读这些内容呢？<br/><br/><a href="https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>扎克伯格出售过剩AI算力的计划或迎来首个大客户Anthropic</title>
-<link>https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37899</guid>
-<pubDate>Fri, 17 Jul 2026 21:16:00 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据报道，Meta正与Anthropic洽谈，计划出租其数据中心的算力容量。文章《扎克伯格出售过剩AI算力的计划或迎来首个大客户Anthropic》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Agility Robotics在特斯拉后院插旗</title>

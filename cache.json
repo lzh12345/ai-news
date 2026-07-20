@@ -3926,5 +3926,9 @@
 "https://www.marktechpost.com/?p=81142": {
 "t": "阿里预览Qwen3.8-Max：2.4万亿参数多模态模型，紧随月之暗面Kimi K3开源权重发布之后",
 "s": "阿里巴巴Qwen团队预览了Qwen3.8-Max-Preview，这是一款2.4万亿参数的多模态MoE模型，号称“仅次于Fable 5”。该预览版已在Token Plan、Qoder和QoderWork上线，定价为标准价格的10%。但尚未公开的内容包括：任何基准测试表、模型卡、许可证、单token价格或活跃参数数量。本文梳理了阿里巴巴已确认的信息与其仅声称的内容之间的差异。该文章《Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch》首发于MarkTechPost。"
+},
+"https://the-decoder.com/?p=37966": {
+"t": "Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅",
+"s": "Moonshot已暂时停止销售其Kimi K3模型的新订阅，原因是需求在48小时内几乎耗尽了其GPU容量。该公司计划拆分其订阅模式，以更均匀地分配计算能力。文章《Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅》最初发表于The Decoder。"
 }
 }
