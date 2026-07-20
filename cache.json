@@ -3910,5 +3910,21 @@
 "https://techcrunch.com/?p=3144105": {
 "t": "黄仁勋日本之行后值得关注的动向",
 "s": "黄仁勋离开东京时，已达成覆盖日本整个科技生态系统的多项协议。"
+},
+"https://www.marktechpost.com/?p=81155": {
+"t": "有人基于Claude Fable 5轨迹微调OpenBMB的MiniCPM5-1B，推出657MB本地推理模型",
+"s": "一位社区开发者将OpenBMB的MiniCPM5-1B在Claude Fable 5轨迹上进行微调，打造出一款完全本地运行的1B模型——最小构建仅657MB，支持128K上下文，并具备可见推理过程。我们对照Hugging Face模型卡逐一验证了所有规格，区分了微调模型从真实能力中实际继承的部分，并指出了模型卡中未明确的许可问题。本文《Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81152": {
+"t": "2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比",
+"s": "单张24GB GPU是进行严肃本地推理的实用门槛。本指南对比了六款在Q4_K_M量化下适配单卡的开源权重模型，涵盖Qwen3.6、Gemma 4、Mistral Small、gpt-oss-20b和DeepSeek-R1-Distill。每款模型均列出了显存占用、许可协议及其最擅长的任务。本文《2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81148": {
+"t": "Feyn AI 发布 SQRL：一种在编写查询前先检查数据库的文本转SQL模型系列",
+"s": "Feyn Labs 发布了 SQRL，这是一系列文本转SQL模型，在提交查询前会通过只读探针检查数据库。旗舰模型 SQRL-35B-A3B 在 BIRD Dev 上报告了70.6%的执行准确率，领先 Claude Opus 4.6个百分点，并提炼出可自托管的4B和9B检查点。本文《Feyn AI 发布 SQRL：一种在编写查询前先检查数据库的文本转SQL模型系列》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81142": {
+"t": "阿里预览Qwen3.8-Max：2.4万亿参数多模态模型，紧随月之暗面Kimi K3开源权重发布之后",
+"s": "阿里巴巴Qwen团队预览了Qwen3.8-Max-Preview，这是一款2.4万亿参数的多模态MoE模型，号称“仅次于Fable 5”。该预览版已在Token Plan、Qoder和QoderWork上线，定价为标准价格的10%。但尚未公开的内容包括：任何基准测试表、模型卡、许可证、单token价格或活跃参数数量。本文梳理了阿里巴巴已确认的信息与其仅声称的内容之间的差异。该文章《Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch》首发于MarkTechPost。"
 }
 }
