@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 20 Jul 2026 13:50:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 17:28:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>英伟达在AI芯片领域的主导地位松动，微软转向AMD，Anthropic或紧随其后</title>
+<link>https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37980</guid>
+<pubDate>Mon, 20 Jul 2026 16:44:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】微软正通过AMD的新Helios平台扩展Azure的AI基础设施，该平台预计将在2026年下半年挑战英伟达的GPU系统。一个公开的GitHub资料显示，Anthropic也在测试AMD硬件，这进一步削弱了英伟达的定价能力。本文《英伟达在AI芯片领域的主导地位松动，微软转向AMD，Anthropic或紧随其后》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>1亿美元用于开源：社区共同铸就的里程碑</title>
+<link>https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/</link>
+<guid isPermaLink="false">https://github.blog/?p=97607</guid>
+<pubDate>Mon, 20 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】庆祝社区为那些每天构建和维护开源的人们贡献了1亿美元。这篇关于“1亿美元用于开源：社区共同铸就的里程碑”的文章最初发表于GitHub博客。<br/><br/><a href="https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出 Cosmos 3 Edge</title>
+<link>https://huggingface.co/blog/nvidia/cosmos3edge</link>
+<guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos3edge</guid>
+<pubDate>Mon, 20 Jul 2026 15:58:51 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/cosmos3edge">阅读原文</a>]]></description>
+</item>
+<item>
+<title>YouTube 明确关于AI低质内容和令人不适视频的政策</title>
+<link>https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3144190</guid>
+<pubDate>Mon, 20 Jul 2026 15:23:06 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】YouTube 已更新其变现政策，更清晰地界定了哪些类型的AI生成及低质量视频无法获得广告收入。<br/><br/><a href="https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>特朗普政府据报通过制裁与软压力对中国AI模型实施渐进式禁令</title>
+<link>https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=37977</guid>
+<pubDate>Mon, 20 Jul 2026 14:03:53 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据报道，特朗普政府正考虑针对中国AI模型的措施，包括将中国实验室列入制裁名单，以及让美国公司为安全漏洞承担责任。华盛顿方面可能不会直接实施全面禁令，而是通过软性规则来阻止采用，同时保护OpenAI、谷歌和Anthropic的市场地位。本文《特朗普政府据报通过制裁与软压力对中国AI模型实施渐进式禁令》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Hugging Face称AI代理入侵其基础设施，并利用AI进行反击</title>
 <link>https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/</link>
@@ -22,6 +62,14 @@
 <pubDate>Mon, 20 Jul 2026 11:20:10 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Augment Code的Vinay Perneti探讨了模型、工具链以及上下文的重要性。<br/><br/><a href="https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>长周期模型时代的安全与对齐</title>
+<link>https://openai.com/index/safety-alignment-long-horizon-models</link>
+<guid isPermaLink="false">https://openai.com/index/safety-alignment-long-horizon-models</guid>
+<pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI分享了部署长周期AI模型的经验教训，强调了新的安全风险、观察到的失败案例，以及通过迭代部署改进的防护措施。<br/><br/><a href="https://openai.com/index/safety-alignment-long-horizon-models">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅</title>
@@ -46,6 +94,14 @@
 <pubDate>Mon, 20 Jul 2026 01:18:46 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】单张24GB GPU是进行严肃本地推理的实用门槛。本指南对比了六款在Q4_K_M量化下适配单卡的开源权重模型，涵盖Qwen3.6、Gemma 4、Mistral Small、gpt-oss-20b和DeepSeek-R1-Distill。每款模型均列出了显存占用、许可协议及其最擅长的任务。本文《2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>RayRoPE：用于多视角注意力的投影射线位置编码</title>
+<link>https://machinelearning.apple.com/research/rayrope-projective-ray</link>
+<guid isPermaLink="false">rayrope-projective-ray</guid>
+<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】我们研究了多视角Transformer的位置编码机制，这类模型需处理来自一组带姿态输入图像的标记，并寻求一种能唯一编码图像块、支持多频率相似性的SE(3)不变注意力，且能自适应底层场景几何结构的编码方案。我们发现，现有的多视角注意力（绝对或相对）编码方案无法满足上述需求，因此提出RayRoPE以填补这一空白。RayRoPE基于关联射线表示图像块位置，但利用沿射线预测的点而非方向来……<br/><br/><a href="https://machinelearning.apple.com/research/rayrope-projective-ray">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Feyn AI 发布 SQRL：一种在编写查询前先检查数据库的文本转SQL模型系列</title>
@@ -200,22 +256,6 @@
 <description><![CDATA[【the-decoder.com】在上海世界人工智能大会上，习近平宣布为全球南方国家提供5000个AI培训名额，并启动“世界人工智能合作组织”。计划随后与东盟、非盟、金砖国家及其他联盟建立合作中心。中国正系统性地在西方影响之外构建一个平行的AI治理架构。本文《中国新成立的世界人工智能合作组织是习近平主席构建平行AI秩序最明确的举措》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平</title>
-<link>https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37910</guid>
-<pubDate>Sat, 18 Jul 2026 10:16:02 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】英国人工智能安全研究所警告称，像GLM-5.2和DeepSeek V4-Pro这样的开放权重模型，在网络能力上如今仅落后封闭前沿模型四到七个月。2025年初，这一差距仍有六到十个月。该机构还发现，开放模型上的安全措施基本无效，导致防御者准备时间更短。本文《开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>五角大楼新AI战略手册：缓慢采用比“不完美对齐”风险更大</title>
-<link>https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37888</guid>
-<pubDate>Sat, 18 Jul 2026 08:10:40 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】美国海军部签署了一项战略，旨在“武器化”数据和AI，打造一支“AI优先”的舰队。大型语言模型将直接在军舰上运行，并设立AI战争委员会以优先处理任务场景。核心信息是，行动过于缓慢比“不完美对齐”带来的风险更大。本文《五角大楼新AI战略手册：缓慢采用比“不完美对齐”风险更大》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google Cloud 的 Always-On Memory Agent 在 Gemini 3.1 Flash-Lite 上以持续 LLM 整合取代 RAG 和嵌入</title>
 <link>https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81117</guid>
@@ -310,14 +350,6 @@
 <pubDate>Fri, 17 Jul 2026 16:10:05 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】官方估计谷歌和苹果可能从“脱衣”应用中赚取了数百万美元的费用。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用 NVIDIA NeMo Automodel 和 🤗 Diffusers 大规模微调视频与图像模型</title>
-<link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</guid>
-<pubDate>Fri, 17 Jul 2026 15:57:54 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Patreon 不再请求AI机器人不要抓取——而是开始主动屏蔽它们</title>
@@ -454,38 +486,6 @@
 <pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】了解OpenAI如何通过适龄保护措施、学习工具、家长控制功能及专家合作，让ChatGPT对青少年更加安全。<br/><br/><a href="https://openai.com/index/why-teens-deserve-access-safe-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌AI模式现可链接并交互指定应用</title>
-<link>https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3143234</guid>
-<pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】通过本次更新，谷歌将AI模式从回答问题扩展至在用户日常使用的应用中完成任务。<br/><br/><a href="https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>能源公司IPO激增，投资者寻求搭上AI热潮的快车</title>
-<link>https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/</link>
-<guid isPermaLink="false">https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/</guid>
-<pubDate>Thu, 16 Jul 2026 15:48:21 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】上市企业正以本世纪最快速度筹集资金。<br/><br/><a href="https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>是的，现在你可以通过命令行订购 DoorDash 了</title>
-<link>https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3143273</guid>
-<pubDate>Thu, 16 Jul 2026 15:38:55 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】DoorDash 正在开放 dd-cli 的有限测试版，这是一款命令行工具，让开发者和 AI 代理能够从终端搜索商店、构建购物车并下单，标志着软件设计正朝着面向 AI 代理而非仅面向人类迈出又一步。<br/><br/><a href="https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>更新模型，同样优势</title>
-<link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
-<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</guid>
-<pubDate>Thu, 16 Jul 2026 11:49:48 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

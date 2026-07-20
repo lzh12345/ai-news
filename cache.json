@@ -3938,5 +3938,33 @@
 "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/": {
 "t": "超越grep：构建上下文丰富的AI编码工具的必要性",
 "s": "Augment Code的Vinay Perneti探讨了模型、工具链以及上下文的重要性。"
+},
+"https://the-decoder.com/?p=37980": {
+"t": "英伟达在AI芯片领域的主导地位松动，微软转向AMD，Anthropic或紧随其后",
+"s": "微软正通过AMD的新Helios平台扩展Azure的AI基础设施，该平台预计将在2026年下半年挑战英伟达的GPU系统。一个公开的GitHub资料显示，Anthropic也在测试AMD硬件，这进一步削弱了英伟达的定价能力。本文《英伟达在AI芯片领域的主导地位松动，微软转向AMD，Anthropic或紧随其后》最初发表于The Decoder。"
+},
+"https://github.blog/?p=97607": {
+"t": "1亿美元用于开源：社区共同铸就的里程碑",
+"s": "庆祝社区为那些每天构建和维护开源的人们贡献了1亿美元。这篇关于“1亿美元用于开源：社区共同铸就的里程碑”的文章最初发表于GitHub博客。"
+},
+"https://huggingface.co/blog/nvidia/cosmos3edge": {
+"t": "推出 Cosmos 3 Edge",
+"s": ""
+},
+"https://techcrunch.com/?p=3144190": {
+"t": "YouTube 明确关于AI低质内容和令人不适视频的政策",
+"s": "YouTube 已更新其变现政策，更清晰地界定了哪些类型的AI生成及低质量视频无法获得广告收入。"
+},
+"https://the-decoder.com/?p=37977": {
+"t": "特朗普政府据报通过制裁与软压力对中国AI模型实施渐进式禁令",
+"s": "据报道，特朗普政府正考虑针对中国AI模型的措施，包括将中国实验室列入制裁名单，以及让美国公司为安全漏洞承担责任。华盛顿方面可能不会直接实施全面禁令，而是通过软性规则来阻止采用，同时保护OpenAI、谷歌和Anthropic的市场地位。本文《特朗普政府据报通过制裁与软压力对中国AI模型实施渐进式禁令》最初发表于The Decoder。"
+},
+"https://openai.com/index/safety-alignment-long-horizon-models": {
+"t": "长周期模型时代的安全与对齐",
+"s": "OpenAI分享了部署长周期AI模型的经验教训，强调了新的安全风险、观察到的失败案例，以及通过迭代部署改进的防护措施。"
+},
+"rayrope-projective-ray": {
+"t": "RayRoPE：用于多视角注意力的投影射线位置编码",
+"s": "我们研究了多视角Transformer的位置编码机制，这类模型需处理来自一组带姿态输入图像的标记，并寻求一种能唯一编码图像块、支持多频率相似性的SE(3)不变注意力，且能自适应底层场景几何结构的编码方案。我们发现，现有的多视角注意力（绝对或相对）编码方案无法满足上述需求，因此提出RayRoPE以填补这一空白。RayRoPE基于关联射线表示图像块位置，但利用沿射线预测的点而非方向来……"
 }
 }
