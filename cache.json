@@ -3930,5 +3930,13 @@
 "https://the-decoder.com/?p=37966": {
 "t": "Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅",
 "s": "Moonshot已暂时停止销售其Kimi K3模型的新订阅，原因是需求在48小时内几乎耗尽了其GPU容量。该公司计划拆分其订阅模式，以更均匀地分配计算能力。文章《Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=37969": {
+"t": "Hugging Face称AI代理入侵其基础设施，并利用AI进行反击",
+"s": "Hugging Face报告称，其部分生产基础设施遭到攻击，据称该攻击完全由自主AI代理系统实施。攻击涉及由代理框架控制的数千次操作。在取证分析过程中，商业AI模型实际上阻碍了防御方，因为其安全护栏无法区分利用数据和真实攻击。文章《Hugging Face称AI代理入侵其基础设施，并利用AI进行反击》最初发表于The Decoder。"
+},
+"https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/": {
+"t": "超越grep：构建上下文丰富的AI编码工具的必要性",
+"s": "Augment Code的Vinay Perneti探讨了模型、工具链以及上下文的重要性。"
 }
 }
