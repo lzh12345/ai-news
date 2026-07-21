@@ -4098,5 +4098,57 @@
 "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/": {
 "t": "谷歌推出 Gemini 3.5 Flash Cyber",
 "s": "谷歌推出 Gemini 3.5 Flash Cyber，这是一款轻量级网络安全模型，用于发现和修补漏洞。"
+},
+"https://techcrunch.com/?p=3144991": {
+"t": "OpenAI称Hugging Face遭其预发布模型入侵",
+"s": "OpenAI主动承认对Hugging Face的入侵事件负责，称这是内部测试失控所致。"
+},
+"https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": {
+"t": "物理AI仿真的现状：概述",
+"s": ""
+},
+"https://techcrunch.com/?p=3144907": {
+"t": "杰克·多西推出Buzz，一款面向团队及其AI代理的群聊平台，与Slack展开竞争",
+"s": "Buzz是一款面向工作场所的群聊平台，将人类及其AI代理置于同一对话中。"
+},
+"https://techcrunch.com/?p=3144827": {
+"t": "AI与通用娱乐应用的崛起",
+"s": "过去十年间，流媒体平台通过主导音乐、视频、播客或有声书等单一格式展开竞争。如今，随着AI使内容创作、组织和推荐变得更加便捷，这些界限正逐渐模糊，推动Spotify、Netflix、YouTube和TikTok等公司转型为全能型娱乐平台。"
+},
+"https://the-decoder.com/?p=38053": {
+"t": "AI系统帮助巴基斯坦法官清理积压案件，每投资1美元回报38.50美元",
+"s": "一项针对1559名巴基斯坦法官的实地实验发现，AI助手JudgeGPT将案件解决率提高了6.3%。关键在于：只有接受过实操培训的法官才看到了成效。没有培训，效果基本消失。研究人员估计，每投资1美元可获得高达38.50美元的回报。本文《An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3144833": {
+"t": "预计到2035年，数据中心用电量将增长4倍",
+"s": "到2033年新建的数据中心可能消耗相当于印度当前用电量的电力。"
+},
+"https://www.marktechpost.com/?p=81177": {
+"t": "谷歌发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber：更便宜、更节省 Token 的 Flash 系列，专为智能体工作负载打造",
+"s": "谷歌于 2026 年 7 月 21 日发布了 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。Flash 系列变得更便宜且更节省 Token，其中 3.6 Flash 将输出 Token 减少了 17%，输出价格降至每 100 万 Token 7.50 美元。Flash-Lite 的运行速度为每秒 350 个 Token，而受控访问的 Flash Cyber 则为 CodeMender 提供漏洞查找能力。旗舰产品 3.5 Pro 仍处于延迟状态。本文首发于 MarkTechPost。"
+},
+"https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/": {
+"t": "Anthropic 15亿美元版权和解获批；仅350名作者选择退出",
+"s": "Anthropic在最后一刻阻止作者退出15亿美元和解协议。"
+},
+"https://techcrunch.com/?p=3144838": {
+"t": "谷歌发布三款新Gemini模型——但未见3.5 Pro身影",
+"s": "谷歌发布了Gemini 3.6 Flash、3.5 Flash-Lite和Flash Cyber三款模型，但Gemini 3.5 Pro的持续缺席引发了外界对其AI战略的新质疑。"
+},
+"https://the-decoder.com/?p=38048": {
+"t": "Claude Cowork 通过屏幕录制和语音解说学习新技能",
+"s": "Anthropic 的 Claude Cowork 桌面应用现在允许用户在完成任务时录制屏幕、添加语音解说，并让 Claude 将整个过程转化为可重复使用的技能。本文《Claude Cowork 通过屏幕录制和语音解说学习新技能》最初发表于 The Decoder。"
+},
+"https://www.marktechpost.com/?p=81174": {
+"t": "使用NVIDIA srt-slurm、SLURM配方、参数扫描和帕累托分析验证分布式LLM服务基准测试",
+"s": "在本教程中，我们探讨了NVIDIA的srt-slurm框架，并学习了如何使用srtctl将声明式YAML配置转换为可复现的SLURM基准测试工作流，用于分布式LLM服务。我们在Google Colab中设置项目，检查其内部架构，定义集群配置，试运行内置和自定义配方，并建模一个分离的预填充与解码部署……该文章《Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis》首次出现在MarkTechPost上。"
+},
+"https://openai.com/index/hugging-face-model-evaluation-security-incident": {
+"t": "OpenAI与Hugging Face合作应对模型评估期间的安全事件",
+"s": "OpenAI与Hugging Face分享了AI模型评估期间一起安全事件的初步调查结果，揭示了先进的网络攻击能力及对防御方的经验教训。"
+},
+"https://openai.com/index/david-velez-robin-vince-join-openai-boards": {
+"t": "David Vélez 与 Robin Vince 加入 OpenAI 基金会及 OpenAI Group PBC 董事会",
+"s": "David Vélez 与 Robin Vince 加入 OpenAI 基金会及 OpenAI Group PBC 董事会，为组织带来金融、技术与治理领域的全球领导力。"
 }
 }
