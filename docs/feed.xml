@@ -5,8 +5,80 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 21 Jul 2026 13:20:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 17:08:03 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>推出面向小企业的ChatGPT计划</title>
+<link>https://openai.com/index/introducing-chatgpt-small-business-program</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-small-business-program</guid>
+<pubDate>Tue, 21 Jul 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI启动ChatGPT小企业计划，帮助创业者培养AI技能、实现工作自动化，并借助ChatGPT Work实现增长。<br/><br/><a href="https://openai.com/index/introducing-chatgpt-small-business-program">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌发布更快更便宜的Gemini 3.6 Flash，称3.5 Pro仍在测试中</title>
+<link>https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/</link>
+<guid isPermaLink="false">https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/</guid>
+<pubDate>Tue, 21 Jul 2026 16:58:25 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】今天有新的3.6和3.5模型发布，但谷歌已在训练Gemini 4。<br/><br/><a href="https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌发布三款全新Gemini Flash模型，但旗舰级3.5 Pro仍在训练中“失踪”</title>
+<link>https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38035</guid>
+<pubDate>Tue, 21 Jul 2026 16:52:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌正在推出Gemini系列的三款全新Flash模型，其中包括效率更高的3.6 Flash，其令牌使用量最高可减少65%，以及一款仅面向政府和特定合作伙伴的网络安全模型。但备受期待的旗舰产品Gemini 3.5 Pro仍未现身，而OpenAI、Anthropic及中国实验室已在前沿领域展开竞争。本文《谷歌发布三款全新Gemini Flash模型，但旗舰级3.5 Pro仍在训练中“失踪”》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如何利用画布构建交互式体验</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/</link>
+<guid isPermaLink="false">https://github.blog/?p=97611</guid>
+<pubDate>Tue, 21 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】画布将AI转变为交互式工作空间，您可以在其中可视化信息、探索工作流程，并在复杂任务中采取行动。本文《如何利用画布构建交互式体验》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>阿里巴巴Qwen-Image-3.0单次生成完整信息图网格与可读十像素文字</title>
+<link>https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38019</guid>
+<pubDate>Tue, 21 Jul 2026 15:55:09 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】阿里巴巴Qwen团队推出Qwen-Image-3.0图像生成器，支持最长4500个token的提示词，可渲染小至十像素的清晰文字，并原生支持十二种语言。该模型能一次性生成信息图、LaTeX论文及报纸版面等复杂布局——尽管输出为像素图像而非可编辑格式时，其实用价值尚不明确。本文《阿里巴巴Qwen-Image-3.0单次生成完整信息图网格与可读十像素文字》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国以知识产权盗窃为由威胁制裁中国AI模型</title>
+<link>https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3144722</guid>
+<pubDate>Tue, 21 Jul 2026 15:37:05 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】美国财政部长斯科特·贝森特表示，美国可能因涉嫌知识产权盗窃对中国开源AI模型实施制裁，此举扩大了特朗普政府遏制中国AI发展的行动。<br/><br/><a href="https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber</title>
+<link>https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/</guid>
+<pubDate>Tue, 21 Jul 2026 15:16:30 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】我们正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软与Mistral达成数十亿美元协议，在欧洲共建AI基础设施</title>
+<link>https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38029</guid>
+<pubDate>Tue, 21 Jul 2026 15:07:22 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】微软与Mistral正在扩大战略合作伙伴关系，通过一项数十亿美元的协议在欧洲建设AI基础设施。本文《微软与Mistral达成数十亿美元协议，在欧洲共建AI基础设施》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>音乐流媒体平台Deezer称每日上传内容中超50%为AI生成</title>
+<link>https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3144590</guid>
+<pubDate>Tue, 21 Jul 2026 13:27:42 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Deezer表示，6月份该平台每日上传的AI生成曲目超过9万首。<br/><br/><a href="https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>2026年世界杯如何影响互联网流量</title>
 <link>https://blog.cloudflare.com/2026-world-cup-internet-traffic/</link>
@@ -40,22 +112,6 @@
 <description><![CDATA[【the-decoder.com】小米利用人们使用配备摄像头的手持夹爪而非机器人收集的超过10万小时运动数据，训练了小米机器人1号。增加数据对性能的提升远大于扩大模型规模。尽管绝对成功率仍然较低，但性能提升尚未达到平台期。本文《小米机器人1号表明，训练机器人移动时，更多数据胜过更大模型》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta 开源 Astryx：一个包含 150 多个无障碍组件、七种主题和 CLI 的 Agent-Ready React 设计系统</title>
-<link>https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81170</guid>
-<pubDate>Tue, 21 Jul 2026 08:49:55 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta 已开源 Astryx，这是其在内部运行了八年、横跨 13000 多个应用的 React 和 StyleX 设计系统。它提供了 150 多个无障碍组件、七种主题、深色模式、模板以及一个 Agent-Ready CLI，采用 MIT 许可协议，并要求 React 19+ 版本。该文章《Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA发布Cosmos 3 Edge：一款40亿参数的开源世界模型，可在设备端推理并生成机器人动作</title>
-<link>https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81167</guid>
-<pubDate>Tue, 21 Jul 2026 07:48:28 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA发布了Cosmos 3 Edge，这是一款40亿参数的开源世界模型，专为设备端运行而设计。它帮助机器人和视觉AI智能体理解周围环境、实时推理，并在本地生成机器人动作。Cosmos 3系列此前包括Cosmos 3 Nano（160亿参数）和Cosmos 3 Super（640亿参数），已于2026年5月31日在GTC台北大会上发布。……该文章《NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Anthropic 里程碑式的15亿美元版权和解获批</title>
 <link>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3144516</guid>
@@ -70,6 +126,22 @@
 <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/grabette">阅读原文</a>]]></description>
+</item>
+<item>
+<title>面向API调用代理的无环境合成数据生成方法</title>
+<link>https://machinelearning.apple.com/research/environment-free</link>
+<guid isPermaLink="false">environment-free</guid>
+<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】训练API调用型大语言模型代理需要海量高质量轨迹数据。然而，大规模收集此类数据通常需要具备可执行API的完整实现环境，以及预填充真实数据的后端数据库，这构成了可扩展性的主要瓶颈。为突破这一限制，我们提出一种无环境合成数据生成方法，利用大语言模型作为即时数字世界模型。仅需给定API规范，该方法即可生成模拟代理与有状态环境交互的轨迹。具体而言…<br/><br/><a href="https://machinelearning.apple.com/research/environment-free">阅读原文</a>]]></description>
+</item>
+<item>
+<title>利用校准稀疏注意力加速文本到视频生成</title>
+<link>https://machinelearning.apple.com/research/calibrated-sparse-attention</link>
+<guid isPermaLink="false">calibrated-sparse-attention</guid>
+<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】最近的扩散模型能够生成高质量视频，但运行速度较慢。这些模型中使用的基于Transformer的大型骨干网络受限于时空注意力机制。本文发现，大量token间连接在不同输入下始终产生可忽略的分数，且其模式在查询中经常重复。因此，这些情况下的注意力计算可以跳过，而对结果几乎没有影响。这一观察结果同样适用于局部token块之间的连接。受此启发，我们……<br/><br/><a href="https://machinelearning.apple.com/research/calibrated-sparse-attention">阅读原文</a>]]></description>
 </item>
 <item>
 <title>特朗普最新任命的AI主管已辞职</title>
@@ -94,14 +166,6 @@
 <pubDate>Mon, 20 Jul 2026 21:21:15 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】据报道，谷歌母公司Alphabet正在开发一款新芯片，旨在使其Gemini模型运行得更加高效。<br/><br/><a href="https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>阿里通义实验室发布Qwen-Audio-3.0-TTS，一款支持16种语言的Flash和Plus级别的托管式文本转语音模型</title>
-<link>https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81164</guid>
-<pubDate>Mon, 20 Jul 2026 21:14:19 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】阿里通义实验室发布了Qwen-Audio-3.0-TTS，这是一款面向生产的文本转语音（TTS）系统。该模型提供同一系列的两个变体：Flash版本面向实时交互，Plus版本面向高质量生成。两者均通过阿里云模型工作室以托管模型形式提供，而非可下载的权重文件。此次发布聚焦于开发者在生产环境中遇到的四个关键问题：更广泛的……该文章《阿里通义实验室发布Qwen-Audio-3.0-TTS，一款支持16种语言的Flash和Plus级别的托管式文本转语音模型》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Cloudflare 内部 DNS 现已全面上市</title>
@@ -224,30 +288,6 @@
 <description><![CDATA[【openai.com】OpenAI分享了部署长周期AI模型的经验教训，强调了新的安全风险、观察到的失败案例，以及通过迭代部署改进的防护措施。<br/><br/><a href="https://openai.com/index/safety-alignment-long-horizon-models">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅</title>
-<link>https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37966</guid>
-<pubDate>Mon, 20 Jul 2026 07:55:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Moonshot已暂时停止销售其Kimi K3模型的新订阅，原因是需求在48小时内几乎耗尽了其GPU容量。该公司计划拆分其订阅模式，以更均匀地分配计算能力。文章《Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>有人基于Claude Fable 5轨迹微调OpenBMB的MiniCPM5-1B，推出657MB本地推理模型</title>
-<link>https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81155</guid>
-<pubDate>Mon, 20 Jul 2026 01:56:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】一位社区开发者将OpenBMB的MiniCPM5-1B在Claude Fable 5轨迹上进行微调，打造出一款完全本地运行的1B模型——最小构建仅657MB，支持128K上下文，并具备可见推理过程。我们对照Hugging Face模型卡逐一验证了所有规格，区分了微调模型从真实能力中实际继承的部分，并指出了模型卡中未明确的许可问题。本文《Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比</title>
-<link>https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81152</guid>
-<pubDate>Mon, 20 Jul 2026 01:18:46 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】单张24GB GPU是进行严肃本地推理的实用门槛。本指南对比了六款在Q4_K_M量化下适配单卡的开源权重模型，涵盖Qwen3.6、Gemma 4、Mistral Small、gpt-oss-20b和DeepSeek-R1-Distill。每款模型均列出了显存占用、许可协议及其最擅长的任务。本文《2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>RayRoPE：用于多视角注意力的投影射线位置编码</title>
 <link>https://machinelearning.apple.com/research/rayrope-projective-ray</link>
 <guid isPermaLink="false">rayrope-projective-ray</guid>
@@ -270,22 +310,6 @@
 <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】Token是现代自回归模型的基本计算单元，生成长度直接影响推理成本与推理性能。尽管其重要性显著，现有方法缺乏细粒度的长度建模能力，主要停留在粗粒度的序列层级操作。本文提出长度价值模型（LenVM），这是一种在解码每一步对剩余生成长度进行建模的Token级框架。通过将长度建模形式化为价值估计问题，并为每个生成的Token分配恒定负奖励，LenVM...<br/><br/><a href="https://machinelearning.apple.com/research/length-value-model">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Feyn AI 发布 SQRL：一种在编写查询前先检查数据库的文本转SQL模型系列</title>
-<link>https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81148</guid>
-<pubDate>Sun, 19 Jul 2026 22:20:23 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Feyn Labs 发布了 SQRL，这是一系列文本转SQL模型，在提交查询前会通过只读探针检查数据库。旗舰模型 SQRL-35B-A3B 在 BIRD Dev 上报告了70.6%的执行准确率，领先 Claude Opus 4.6个百分点，并提炼出可自托管的4B和9B检查点。本文《Feyn AI 发布 SQRL：一种在编写查询前先检查数据库的文本转SQL模型系列》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>阿里预览Qwen3.8-Max：2.4万亿参数多模态模型，紧随月之暗面Kimi K3开源权重发布之后</title>
-<link>https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81142</guid>
-<pubDate>Sun, 19 Jul 2026 21:42:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】阿里巴巴Qwen团队预览了Qwen3.8-Max-Preview，这是一款2.4万亿参数的多模态MoE模型，号称“仅次于Fable 5”。该预览版已在Token Plan、Qoder和QoderWork上线，定价为标准价格的10%。但尚未公开的内容包括：任何基准测试表、模型卡、许可证、单token价格或活跃参数数量。本文梳理了阿里巴巴已确认的信息与其仅声称的内容之间的差异。该文章《Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>黄仁勋日本之行后值得关注的动向</title>
@@ -318,46 +342,6 @@
 <pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Current AI是一家致力于构建不遗漏任何文化背景的人工智能的非营利组织，其在跨设备、AI对话等领域取得了显著进展。<br/><br/><a href="https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>阿里巴巴Qwen发布开源权重模型Qwen 3.8，对标Kimi K3，称其“仅次于Fable 5”</title>
-<link>https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37960</guid>
-<pubDate>Sun, 19 Jul 2026 12:07:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】阿里巴巴发布了Qwen 3.8，这是一款拥有2.4万亿参数的多模态AI模型。Qwen团队称，该模型可与领先模型相媲美，仅落后于Fable 5。目前预览版已上线。本文《阿里巴巴Qwen发布开源权重模型Qwen 3.8，对标Kimi K3，称其“仅次于Fable 5”》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Deepmind 认为视频生成器已包含计算机视觉缺失的世界模型</title>
-<link>https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37948</guid>
-<pubDate>Sun, 19 Jul 2026 10:17:49 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Deepmind 的 GenCeption 将视频生成器重新用于深度估计和分割等经典视觉任务，以远少于训练数据的方式达到与最先进系统相当的水平。该模型几乎完全基于合成视频进行训练。其成果加剧了关于视频生成器是否已包含某种通用世界模型的争论。本文《Google Deepmind 认为视频生成器已包含计算机视觉缺失的世界模型》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Perplexity AI 发布 WANDR：一个评估需广搜深究的研究型智能体的开放基准</title>
-<link>https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81138</guid>
-<pubDate>Sun, 19 Jul 2026 07:19:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity 的 WANDR 是一个包含500项证据密集型任务的开放基准与评估框架。它测试研究型智能体能否发现大量符合条件的实体，并为每个实体提供可引用、可重新验证的证据。Perplexity Search as Code 以0.363的软F1分数和0.133的硬F1分数领先。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>10个用于构建LLM应用、RAG系统和AI智能体的开源无代码AI平台</title>
-<link>https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81135</guid>
-<pubDate>Sun, 19 Jul 2026 05:53:19 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】检索、智能体和工作流现已作为可视化及纯英文工具提供。本综述涵盖10个用于构建LLM应用、RAG系统和AI智能体的开源无代码及低代码平台，每个平台均附有已验证的许可证、代码仓库及最佳适用场景。该文章《10个用于构建LLM应用、RAG系统和AI智能体的开源无代码AI平台》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2：开源万亿级MoE模型在基准测试、许可证和服务成本上的对比</title>
-<link>https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81131</guid>
-<pubDate>Sun, 19 Jul 2026 01:41:33 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】三款开源MoE旗舰模型在测量智能、MIT与修改版MIT权重以及实际服务成本上展开对决。该文章《Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2：开源万亿级MoE模型在基准测试、许可证和服务成本上的对比》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Kimi：威胁还是隐患？</title>
@@ -416,22 +400,6 @@
 <description><![CDATA[【techcrunch.com】如果每一次会议、茶水间闲聊和约会都被转录并总结，又有谁会真正去读这些内容呢？<br/><br/><a href="https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Agility Robotics在特斯拉后院插旗</title>
-<link>https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3143772</guid>
-<pubDate>Fri, 17 Jul 2026 20:19:49 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Agility正在加州弗里蒙特为其Digit机器人开设一个新的培训中心。<br/><br/><a href="https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI驱动的内存短缺冲击印度智能手机市场</title>
-<link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3143715</guid>
-<pubDate>Fri, 17 Jul 2026 20:09:27 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】印度智能手机市场的放缓凸显了AI热潮如何从定价、需求到企业战略，重塑消费电子行业。<br/><br/><a href="https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>谷歌支持的野火探测卫星发射，烟雾笼罩美加两国</title>
 <link>https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/</link>
 <guid isPermaLink="false">https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/</guid>
@@ -454,6 +422,14 @@
 <pubDate>Fri, 17 Jul 2026 16:10:05 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】官方估计谷歌和苹果可能从“脱衣”应用中赚取了数百万美元的费用。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌推出 Gemini 3.5 Flash Cyber</title>
+<link>https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</guid>
+<pubDate>Fri, 17 Jul 2026 15:00:11 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】谷歌推出 Gemini 3.5 Flash Cyber，这是一款轻量级网络安全模型，用于发现和修补漏洞。<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI时代的记分卡</title>
@@ -486,6 +462,30 @@
 <pubDate>Thu, 16 Jul 2026 20:41:45 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】谷歌表示，这些变化可能会危及用户隐私和安全。<br/><br/><a href="https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>xAI 无法再否认 Grok 生成儿童性虐待内容，于是起诉用户</title>
+<link>https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</guid>
+<pubDate>Thu, 16 Jul 2026 20:26:23 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】埃隆·马斯克的 xAI 对一名被指控制作儿童色情图像的 Grok 用户提起了首起诉讼。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>对类人机器人的恐惧引发现代汽车工厂工人罢工</title>
+<link>https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/</guid>
+<pubDate>Thu, 16 Jul 2026 20:09:48 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】现代汽车计划从2028年起在美国工厂部署25000台Atlas机器人。<br/><br/><a href="https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Linus Torvalds 对 Linux 中 AI 编码的批评者说：&quot;Fork it. 或者直接走开。&quot;</title>
+<link>https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/</guid>
+<pubDate>Thu, 16 Jul 2026 19:18:23 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Linux 创始人表示，他将"非常大声地忽略"那些主张禁止 AI 工具的人。<br/><br/><a href="https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

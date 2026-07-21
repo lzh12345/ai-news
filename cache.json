@@ -4050,5 +4050,53 @@
 "https://www.marktechpost.com/?p=81167": {
 "t": "NVIDIA发布Cosmos 3 Edge：一款40亿参数的开源世界模型，可在设备端推理并生成机器人动作",
 "s": "NVIDIA发布了Cosmos 3 Edge，这是一款40亿参数的开源世界模型，专为设备端运行而设计。它帮助机器人和视觉AI智能体理解周围环境、实时推理，并在本地生成机器人动作。Cosmos 3系列此前包括Cosmos 3 Nano（160亿参数）和Cosmos 3 Super（640亿参数），已于2026年5月31日在GTC台北大会上发布。……该文章《NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device》首发于MarkTechPost。"
+},
+"https://openai.com/index/introducing-chatgpt-small-business-program": {
+"t": "推出面向小企业的ChatGPT计划",
+"s": "OpenAI启动ChatGPT小企业计划，帮助创业者培养AI技能、实现工作自动化，并借助ChatGPT Work实现增长。"
+},
+"https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/": {
+"t": "谷歌发布更快更便宜的Gemini 3.6 Flash，称3.5 Pro仍在测试中",
+"s": "今天有新的3.6和3.5模型发布，但谷歌已在训练Gemini 4。"
+},
+"https://the-decoder.com/?p=38035": {
+"t": "谷歌发布三款全新Gemini Flash模型，但旗舰级3.5 Pro仍在训练中“失踪”",
+"s": "谷歌正在推出Gemini系列的三款全新Flash模型，其中包括效率更高的3.6 Flash，其令牌使用量最高可减少65%，以及一款仅面向政府和特定合作伙伴的网络安全模型。但备受期待的旗舰产品Gemini 3.5 Pro仍未现身，而OpenAI、Anthropic及中国实验室已在前沿领域展开竞争。本文《谷歌发布三款全新Gemini Flash模型，但旗舰级3.5 Pro仍在训练中“失踪”》最初发表于The Decoder。"
+},
+"https://github.blog/?p=97611": {
+"t": "如何利用画布构建交互式体验",
+"s": "画布将AI转变为交互式工作空间，您可以在其中可视化信息、探索工作流程，并在复杂任务中采取行动。本文《如何利用画布构建交互式体验》最初发布于GitHub博客。"
+},
+"https://the-decoder.com/?p=38019": {
+"t": "阿里巴巴Qwen-Image-3.0单次生成完整信息图网格与可读十像素文字",
+"s": "阿里巴巴Qwen团队推出Qwen-Image-3.0图像生成器，支持最长4500个token的提示词，可渲染小至十像素的清晰文字，并原生支持十二种语言。该模型能一次性生成信息图、LaTeX论文及报纸版面等复杂布局——尽管输出为像素图像而非可编辑格式时，其实用价值尚不明确。本文《阿里巴巴Qwen-Image-3.0单次生成完整信息图网格与可读十像素文字》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3144722": {
+"t": "美国以知识产权盗窃为由威胁制裁中国AI模型",
+"s": "美国财政部长斯科特·贝森特表示，美国可能因涉嫌知识产权盗窃对中国开源AI模型实施制裁，此举扩大了特朗普政府遏制中国AI发展的行动。"
+},
+"https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": {
+"t": "推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber",
+"s": "我们正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。"
+},
+"https://the-decoder.com/?p=38029": {
+"t": "微软与Mistral达成数十亿美元协议，在欧洲共建AI基础设施",
+"s": "微软与Mistral正在扩大战略合作伙伴关系，通过一项数十亿美元的协议在欧洲建设AI基础设施。本文《微软与Mistral达成数十亿美元协议，在欧洲共建AI基础设施》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3144590": {
+"t": "音乐流媒体平台Deezer称每日上传内容中超50%为AI生成",
+"s": "Deezer表示，6月份该平台每日上传的AI生成曲目超过9万首。"
+},
+"environment-free": {
+"t": "面向API调用代理的无环境合成数据生成方法",
+"s": "训练API调用型大语言模型代理需要海量高质量轨迹数据。然而，大规模收集此类数据通常需要具备可执行API的完整实现环境，以及预填充真实数据的后端数据库，这构成了可扩展性的主要瓶颈。为突破这一限制，我们提出一种无环境合成数据生成方法，利用大语言模型作为即时数字世界模型。仅需给定API规范，该方法即可生成模拟代理与有状态环境交互的轨迹。具体而言…"
+},
+"calibrated-sparse-attention": {
+"t": "利用校准稀疏注意力加速文本到视频生成",
+"s": "最近的扩散模型能够生成高质量视频，但运行速度较慢。这些模型中使用的基于Transformer的大型骨干网络受限于时空注意力机制。本文发现，大量token间连接在不同输入下始终产生可忽略的分数，且其模式在查询中经常重复。因此，这些情况下的注意力计算可以跳过，而对结果几乎没有影响。这一观察结果同样适用于局部token块之间的连接。受此启发，我们……"
+},
+"https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/": {
+"t": "谷歌推出 Gemini 3.5 Flash Cyber",
+"s": "谷歌推出 Gemini 3.5 Flash Cyber，这是一款轻量级网络安全模型，用于发现和修补漏洞。"
 }
 }
