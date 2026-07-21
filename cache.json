@@ -4030,5 +4030,25 @@
 "https://huggingface.co/blog/grabette": {
 "t": "Grabette：一个用于记录机器人操作数据的开放系统",
 "s": ""
+},
+"01KY2432VQPD5FTF2RARXXYQGH": {
+"t": "2026年世界杯如何影响互联网流量",
+"s": "我们分析了全球HTTP流量，以探究开球时间、流媒体习惯和补水暂停如何重塑全球在线活动。从深夜流量激增到中场休息时的浏览高峰，以下是全球赛事期间世界如何保持连接。"
+},
+"https://the-decoder.com/?p=38014": {
+"t": "阿里巴巴Qwen Audio 3.0 TTS Plus在语音合成排行榜中登顶",
+"s": "阿里巴巴的Qwen Audio 3.0 TTS Plus在Artificial Analysis的语音竞技场排行榜中位居榜首。该模型支持16种语言，并允许用户通过自然语言或[angry]等标签控制说话风格。不过，其每秒16个字符的速度远低于竞争对手Sonic 3.5和Simba 3.2。本文《阿里巴巴Qwen Audio 3.0 TTS Plus在语音合成排行榜中登顶》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3144417": {
+"t": "Gritt 携3400万美元资金走出隐身模式，用机器人建造太阳能电站——然后，拓展至一切领域",
+"s": "Gritt 带着3400万美元资金走出隐身模式，并计划自动化建筑工地上最艰巨的任务。"
+},
+"https://www.marktechpost.com/?p=81170": {
+"t": "Meta 开源 Astryx：一个包含 150 多个无障碍组件、七种主题和 CLI 的 Agent-Ready React 设计系统",
+"s": "Meta 已开源 Astryx，这是其在内部运行了八年、横跨 13000 多个应用的 React 和 StyleX 设计系统。它提供了 150 多个无障碍组件、七种主题、深色模式、模板以及一个 Agent-Ready CLI，采用 MIT 许可协议，并要求 React 19+ 版本。该文章《Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI》最初出现在 MarkTechPost 上。"
+},
+"https://www.marktechpost.com/?p=81167": {
+"t": "NVIDIA发布Cosmos 3 Edge：一款40亿参数的开源世界模型，可在设备端推理并生成机器人动作",
+"s": "NVIDIA发布了Cosmos 3 Edge，这是一款40亿参数的开源世界模型，专为设备端运行而设计。它帮助机器人和视觉AI智能体理解周围环境、实时推理，并在本地生成机器人动作。Cosmos 3系列此前包括Cosmos 3 Nano（160亿参数）和Cosmos 3 Super（640亿参数），已于2026年5月31日在GTC台北大会上发布。……该文章《NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device》首发于MarkTechPost。"
 }
 }

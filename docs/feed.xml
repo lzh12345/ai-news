@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 21 Jul 2026 10:17:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 13:20:27 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>2026年世界杯如何影响互联网流量</title>
+<link>https://blog.cloudflare.com/2026-world-cup-internet-traffic/</link>
+<guid isPermaLink="false">01KY2432VQPD5FTF2RARXXYQGH</guid>
+<pubDate>Tue, 21 Jul 2026 12:59:40 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们分析了全球HTTP流量，以探究开球时间、流媒体习惯和补水暂停如何重塑全球在线活动。从深夜流量激增到中场休息时的浏览高峰，以下是全球赛事期间世界如何保持连接。<br/><br/><a href="https://blog.cloudflare.com/2026-world-cup-internet-traffic/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>阿里巴巴Qwen Audio 3.0 TTS Plus在语音合成排行榜中登顶</title>
+<link>https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38014</guid>
+<pubDate>Tue, 21 Jul 2026 11:31:15 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】阿里巴巴的Qwen Audio 3.0 TTS Plus在Artificial Analysis的语音竞技场排行榜中位居榜首。该模型支持16种语言，并允许用户通过自然语言或[angry]等标签控制说话风格。不过，其每秒16个字符的速度远低于竞争对手Sonic 3.5和Simba 3.2。本文《阿里巴巴Qwen Audio 3.0 TTS Plus在语音合成排行榜中登顶》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gritt 携3400万美元资金走出隐身模式，用机器人建造太阳能电站——然后，拓展至一切领域</title>
+<link>https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3144417</guid>
+<pubDate>Tue, 21 Jul 2026 10:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Gritt 带着3400万美元资金走出隐身模式，并计划自动化建筑工地上最艰巨的任务。<br/><br/><a href="https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>小米机器人1号表明，训练机器人移动时，更多数据胜过更大模型</title>
 <link>https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/</link>
@@ -14,6 +38,22 @@
 <pubDate>Tue, 21 Jul 2026 08:56:51 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】小米利用人们使用配备摄像头的手持夹爪而非机器人收集的超过10万小时运动数据，训练了小米机器人1号。增加数据对性能的提升远大于扩大模型规模。尽管绝对成功率仍然较低，但性能提升尚未达到平台期。本文《小米机器人1号表明，训练机器人移动时，更多数据胜过更大模型》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta 开源 Astryx：一个包含 150 多个无障碍组件、七种主题和 CLI 的 Agent-Ready React 设计系统</title>
+<link>https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81170</guid>
+<pubDate>Tue, 21 Jul 2026 08:49:55 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Meta 已开源 Astryx，这是其在内部运行了八年、横跨 13000 多个应用的 React 和 StyleX 设计系统。它提供了 150 多个无障碍组件、七种主题、深色模式、模板以及一个 Agent-Ready CLI，采用 MIT 许可协议，并要求 React 19+ 版本。该文章《Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA发布Cosmos 3 Edge：一款40亿参数的开源世界模型，可在设备端推理并生成机器人动作</title>
+<link>https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81167</guid>
+<pubDate>Tue, 21 Jul 2026 07:48:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA发布了Cosmos 3 Edge，这是一款40亿参数的开源世界模型，专为设备端运行而设计。它帮助机器人和视觉AI智能体理解周围环境、实时推理，并在本地生成机器人动作。Cosmos 3系列此前包括Cosmos 3 Nano（160亿参数）和Cosmos 3 Super（640亿参数），已于2026年5月31日在GTC台北大会上发布。……该文章《NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic 里程碑式的15亿美元版权和解获批</title>
@@ -54,6 +94,14 @@
 <pubDate>Mon, 20 Jul 2026 21:21:15 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】据报道，谷歌母公司Alphabet正在开发一款新芯片，旨在使其Gemini模型运行得更加高效。<br/><br/><a href="https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>阿里通义实验室发布Qwen-Audio-3.0-TTS，一款支持16种语言的Flash和Plus级别的托管式文本转语音模型</title>
+<link>https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81164</guid>
+<pubDate>Mon, 20 Jul 2026 21:14:19 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】阿里通义实验室发布了Qwen-Audio-3.0-TTS，这是一款面向生产的文本转语音（TTS）系统。该模型提供同一系列的两个变体：Flash版本面向实时交互，Plus版本面向高质量生成。两者均通过阿里云模型工作室以托管模型形式提供，而非可下载的权重文件。此次发布聚焦于开发者在生产环境中遇到的四个关键问题：更广泛的……该文章《阿里通义实验室发布Qwen-Audio-3.0-TTS，一款支持16种语言的Flash和Plus级别的托管式文本转语音模型》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Cloudflare 内部 DNS 现已全面上市</title>
@@ -184,6 +232,22 @@
 <description><![CDATA[【the-decoder.com】Moonshot已暂时停止销售其Kimi K3模型的新订阅，原因是需求在48小时内几乎耗尽了其GPU容量。该公司计划拆分其订阅模式，以更均匀地分配计算能力。文章《Moonshot在GPU需求48小时内达到上限后暂停新Kimi K3订阅》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>有人基于Claude Fable 5轨迹微调OpenBMB的MiniCPM5-1B，推出657MB本地推理模型</title>
+<link>https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81155</guid>
+<pubDate>Mon, 20 Jul 2026 01:56:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】一位社区开发者将OpenBMB的MiniCPM5-1B在Claude Fable 5轨迹上进行微调，打造出一款完全本地运行的1B模型——最小构建仅657MB，支持128K上下文，并具备可见推理过程。我们对照Hugging Face模型卡逐一验证了所有规格，区分了微调模型从真实能力中实际继承的部分，并指出了模型卡中未明确的许可问题。本文《Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比</title>
+<link>https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81152</guid>
+<pubDate>Mon, 20 Jul 2026 01:18:46 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】单张24GB GPU是进行严肃本地推理的实用门槛。本指南对比了六款在Q4_K_M量化下适配单卡的开源权重模型，涵盖Qwen3.6、Gemma 4、Mistral Small、gpt-oss-20b和DeepSeek-R1-Distill。每款模型均列出了显存占用、许可协议及其最擅长的任务。本文《2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>RayRoPE：用于多视角注意力的投影射线位置编码</title>
 <link>https://machinelearning.apple.com/research/rayrope-projective-ray</link>
 <guid isPermaLink="false">rayrope-projective-ray</guid>
@@ -206,6 +270,22 @@
 <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】Token是现代自回归模型的基本计算单元，生成长度直接影响推理成本与推理性能。尽管其重要性显著，现有方法缺乏细粒度的长度建模能力，主要停留在粗粒度的序列层级操作。本文提出长度价值模型（LenVM），这是一种在解码每一步对剩余生成长度进行建模的Token级框架。通过将长度建模形式化为价值估计问题，并为每个生成的Token分配恒定负奖励，LenVM...<br/><br/><a href="https://machinelearning.apple.com/research/length-value-model">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Feyn AI 发布 SQRL：一种在编写查询前先检查数据库的文本转SQL模型系列</title>
+<link>https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81148</guid>
+<pubDate>Sun, 19 Jul 2026 22:20:23 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Feyn Labs 发布了 SQRL，这是一系列文本转SQL模型，在提交查询前会通过只读探针检查数据库。旗舰模型 SQRL-35B-A3B 在 BIRD Dev 上报告了70.6%的执行准确率，领先 Claude Opus 4.6个百分点，并提炼出可自托管的4B和9B检查点。本文《Feyn AI 发布 SQRL：一种在编写查询前先检查数据库的文本转SQL模型系列》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>阿里预览Qwen3.8-Max：2.4万亿参数多模态模型，紧随月之暗面Kimi K3开源权重发布之后</title>
+<link>https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81142</guid>
+<pubDate>Sun, 19 Jul 2026 21:42:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】阿里巴巴Qwen团队预览了Qwen3.8-Max-Preview，这是一款2.4万亿参数的多模态MoE模型，号称“仅次于Fable 5”。该预览版已在Token Plan、Qoder和QoderWork上线，定价为标准价格的10%。但尚未公开的内容包括：任何基准测试表、模型卡、许可证、单token价格或活跃参数数量。本文梳理了阿里巴巴已确认的信息与其仅声称的内容之间的差异。该文章《Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>黄仁勋日本之行后值得关注的动向</title>
@@ -256,12 +336,28 @@
 <description><![CDATA[【the-decoder.com】Google Deepmind 的 GenCeption 将视频生成器重新用于深度估计和分割等经典视觉任务，以远少于训练数据的方式达到与最先进系统相当的水平。该模型几乎完全基于合成视频进行训练。其成果加剧了关于视频生成器是否已包含某种通用世界模型的争论。本文《Google Deepmind 认为视频生成器已包含计算机视觉缺失的世界模型》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>月之暗面Kimi K3在前端代码上超越Fable 5，但在复杂数学领域大幅落后</title>
-<link>https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37942</guid>
-<pubDate>Sun, 19 Jul 2026 09:32:19 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】月之暗面的Kimi K3是首个登顶Code Arena：前端排行榜的中国模型，以显著优势击败了Claude Fable 5和GPT-5.6 Sol。但在高级数学领域，差距明显：Kimi K3在FrontierMath Tier 4上仅获得约39%的分数，而OpenAI和Anthropic的模型则接近90%。文章《月之暗面Kimi K3在前端代码上超越Fable 5，但在复杂数学领域大幅落后》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/">阅读原文</a>]]></description>
+<title>Perplexity AI 发布 WANDR：一个评估需广搜深究的研究型智能体的开放基准</title>
+<link>https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81138</guid>
+<pubDate>Sun, 19 Jul 2026 07:19:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity 的 WANDR 是一个包含500项证据密集型任务的开放基准与评估框架。它测试研究型智能体能否发现大量符合条件的实体，并为每个实体提供可引用、可重新验证的证据。Perplexity Search as Code 以0.363的软F1分数和0.133的硬F1分数领先。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>10个用于构建LLM应用、RAG系统和AI智能体的开源无代码AI平台</title>
+<link>https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81135</guid>
+<pubDate>Sun, 19 Jul 2026 05:53:19 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】检索、智能体和工作流现已作为可视化及纯英文工具提供。本综述涵盖10个用于构建LLM应用、RAG系统和AI智能体的开源无代码及低代码平台，每个平台均附有已验证的许可证、代码仓库及最佳适用场景。该文章《10个用于构建LLM应用、RAG系统和AI智能体的开源无代码AI平台》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2：开源万亿级MoE模型在基准测试、许可证和服务成本上的对比</title>
+<link>https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81131</guid>
+<pubDate>Sun, 19 Jul 2026 01:41:33 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】三款开源MoE旗舰模型在测量智能、MIT与修改版MIT权重以及实际服务成本上展开对决。该文章《Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2：开源万亿级MoE模型在基准测试、许可证和服务成本上的对比》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Kimi：威胁还是隐患？</title>
@@ -344,14 +440,6 @@
 <description><![CDATA[【arstechnica.com】FireSat项目能够探测到其他卫星无法发现的野火。<br/><br/><a href="https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>苹果重大诉讼或扰乱OpenAI的IPO计划</title>
-<link>https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3143835</guid>
-<pubDate>Fri, 17 Jul 2026 17:45:46 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】苹果公司上周五对OpenAI提起商业秘密诉讼，态度强硬。诉状指控其存在不当行为模式，涉及OpenAI首席硬件官，并声称超过400名前苹果员工目前在该公司任职。OpenAI迄今的回应谨慎且有所保留，而这一时机对其极为不利——据报道，该公司正考虑进行IPO……<br/><br/><a href="https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>说“是”的成本已经改变</title>
 <link>https://github.blog/engineering/the-cost-of-saying-yes-has-changed/</link>
 <guid isPermaLink="false">https://github.blog/?p=97604</guid>
@@ -398,94 +486,6 @@
 <pubDate>Thu, 16 Jul 2026 20:41:45 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】谷歌表示，这些变化可能会危及用户隐私和安全。<br/><br/><a href="https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>xAI 无法再否认 Grok 生成儿童性虐待内容，于是起诉用户</title>
-<link>https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</guid>
-<pubDate>Thu, 16 Jul 2026 20:26:23 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】埃隆·马斯克的 xAI 对一名被指控制作儿童色情图像的 Grok 用户提起了首起诉讼。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>对类人机器人的恐惧引发现代汽车工厂工人罢工</title>
-<link>https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/</guid>
-<pubDate>Thu, 16 Jul 2026 20:09:48 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】现代汽车计划从2028年起在美国工厂部署25000台Atlas机器人。<br/><br/><a href="https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Linus Torvalds 对 Linux 中 AI 编码的批评者说：&quot;Fork it. 或者直接走开。&quot;</title>
-<link>https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/</guid>
-<pubDate>Thu, 16 Jul 2026 19:18:23 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Linux 创始人表示，他将"非常大声地忽略"那些主张禁止 AI 工具的人。<br/><br/><a href="https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI算力鸿沟：企业基础设施采购速度远超成本核算能力</title>
-<link>https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs</link>
-<guid isPermaLink="false">3RCeHS5ENXpygHO6HPhX6f</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:48 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】在107家企业中，AI基础设施支出正加速增长，远超企业对其经济性的洞察或管控能力。多数组织仍依托熟悉的超大规模云服务商和模型提供商API运行AI，但下一笔资金正流向几乎无人当前使用的专用算力；大部分企业计划在年内更换或新增供应商，其中许多将在季度内完成。采购决策取决于集成度与总拥有成本，而非表面上的Token价格——这实属幸运，因为多数企业尚无法清晰核算单位经济性：GPU利用率仅达半数。<br/><br/><a href="https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI代理安全缺口：54%的企业已遭遇AI代理安全事件，多数企业仍允许代理共享凭证</title>
-<link>https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials</link>
-<guid isPermaLink="false">guLr7ih5ILpsMnOOTAHLN</guid>
-<pubDate>Thu, 16 Jul 2026 19:02:38 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】在107家企业中，AI代理已被授予对系统和数据的真实访问权限，而旨在约束它们的管控措施却滞后。超过半数企业已确认发生代理安全事件或险些发生事故；仅约三分之一的企业为每个代理分配独立的限定身份，多数代理仍共享凭证；只有三成企业隔离了最高风险的代理。安全技术栈绝大多数来自模型提供商和超大规模云服务商，而非专为代理构建，安全支出仅占预算的极小部分，且企业在是否应加强代理安全管控上意见分歧明显。<br/><br/><a href="https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI上下文鸿沟：企业AI组织面临的是信任问题，而非检索问题——多数企业仍在构建解决方案</title>
-<link>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</link>
-<guid isPermaLink="false">2Jg9kvtAsPN9IxCbC6KaEt</guid>
-<pubDate>Thu, 16 Jul 2026 17:06:08 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】在101家企业中，为AI智能体提供业务上下文的基础设施建设速度已超过其可信度。检索增强生成已成为默认的上下文来源，而供应商原生检索已悄然超越定义该领域的专用向量数据库——然而，大多数企业已观察到其智能体因缺失或不一致的上下文而生成自信但错误的答案。一种受管控的语义层正作为解决方案浮现，但多数企业仍在构建中；该领域正趋向混合检索；即便供应商<br/><br/><a href="https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix">阅读原文</a>]]></description>
-</item>
-<item>
-<title>智能体评估鸿沟：企业AI组织面临的是现实对齐问题，而非覆盖问题——且多数仍在将产品推向生产环境</title>
-<link>https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway</link>
-<guid isPermaLink="false">6G1thpG74idpHRWrKUSYQ9</guid>
-<pubDate>Thu, 16 Jul 2026 16:40:48 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】在157家企业中，组织正赋予AI智能体更多自主权，同时却对用于约束这种自主权的评估手段信任度降低。半数企业已出现智能体通过内部评估却在生产环境中导致客户失败的情况；目前仅二十分之一的企业完全信任自动化评估；最常被提及的缺陷是评估结果与现实结果不匹配。然而，三分之二的企业已允许或正积极推动仅凭自动化评估（无人工介入）就将智能体变更部署至生产环境。由此形成了评估鸿沟——<br/><br/><a href="https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway">阅读原文</a>]]></description>
-</item>
-<item>
-<title>青少年为何应获得安全的AI使用权限</title>
-<link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
-<guid isPermaLink="false">https://openai.com/index/why-teens-deserve-access-safe-ai</guid>
-<pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】了解OpenAI如何通过适龄保护措施、学习工具、家长控制功能及专家合作，让ChatGPT对青少年更加安全。<br/><br/><a href="https://openai.com/index/why-teens-deserve-access-safe-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>能源公司IPO激增，投资者寻求搭上AI热潮的快车</title>
-<link>https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/</link>
-<guid isPermaLink="false">https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/</guid>
-<pubDate>Thu, 16 Jul 2026 15:48:21 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】上市企业正以本世纪最快速度筹集资金。<br/><br/><a href="https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>更新模型，同样优势</title>
-<link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
-<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</guid>
-<pubDate>Thu, 16 Jul 2026 11:49:48 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages">阅读原文</a>]]></description>
-</item>
-<item>
-<title>我们的生物韧性应对策略</title>
-<link>https://deepmind.google/blog/our-approach-to-bioresilience/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/our-approach-to-bioresilience/</guid>
-<pubDate>Thu, 16 Jul 2026 09:30:42 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Google DeepMind 与 Isomorphic Labs 正在分享我们关于生物韧性与人工智能模型的联合应对策略。<br/><br/><a href="https://deepmind.google/blog/our-approach-to-bioresilience/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
