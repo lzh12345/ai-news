@@ -4246,5 +4246,45 @@
 "https://openai.com/index/advancing-the-next-era-of-national-science": {
 "t": "推动国家科学的新时代",
 "s": "OpenAI 概述了其致力于推进美国科学的承诺，与美国能源部及国家实验室合作，利用前沿人工智能加速科学发现。"
+},
+"https://techcrunch.com/?p=3145517": {
+"t": "美国财政部威胁实施制裁，白宫指控月之暗面蒸馏Anthropic的Fable模型",
+"s": "美国财政部长斯科特·贝森特警告称，在白宫官员指控月之暗面蒸馏Anthropic的Fable模型以开发Kimi K3后，美国政府可能对中国人工智能公司实施制裁。"
+},
+"https://the-decoder.com/?p=38101": {
+"t": "Anthropic与图书作者达成15亿美元盗版和解，创纪录损失却为AI实验室带来最大法律胜利",
+"s": "Anthropic需向图书作者支付15亿美元，这是集体诉讼历史上最大的版权和解金额。但该赔偿针对的是从盗版数据库下载约482,460部作品的行为，而非AI训练本身。法官Alsup此前已裁定，基于合法获取的图书进行AI训练属于“变革性”使用，符合合理使用原则。此次和解实际上是AI实验室的胜利。本文《Anthropic与图书作者达成15亿美元盗版和解，创纪录损失却为AI实验室带来最大法律胜利》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3145421": {
+"t": "OpenAI的人为失误如何导致对Hugging Face的AI驱动攻击",
+"s": "OpenAI在设置其所谓的“高度隔离”测试环境和沙箱时犯了一个错误。据网络安全专家称，正是这个人为失误使得针对Hugging Face的AI驱动攻击成为可能。"
+},
+"https://github.blog/?p=97686": {
+"t": "Copilot 与原始 API 访问：你实际上在为什么付费？",
+"s": "Copilot 现在按公布的 API 费率计费。比较直接模型访问与围绕它的编码工作流、策略和工具链。这篇文章《Copilot vs. raw API access: What are you actually paying for?》最初出现在 GitHub 博客上。"
+},
+"https://techcrunch.com/?p=3145456": {
+"t": "特拉维斯·卡兰尼克的机器人公司获17亿美元融资，由a16z领投",
+"s": "优步也投资了特拉维斯·卡兰尼克的公司Atoms，该公司曾模糊宣称将利用工业AI推动世界现代化。"
+},
+"https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/": {
+"t": "现代汽车称人形机器人计划并非与罢工工人谈判内容",
+"s": "工会此前警告汽车制造商，任何机器人部署都必须经过协商。"
+},
+"https://techcrunch.com/?p=3145364": {
+"t": "Yope 获 1230 万美元融资，打造无算法无广告的私密社交网络",
+"s": "Yope 是一款专注于亲友私密群的快速增长社交应用，已获得 1230 万美元种子轮融资。这家初创公司不追逐创作者和算法推送，而是押注社交网络的未来在于由消息、照片分享和旨在强化现实关系的人工智能功能驱动的小型私密社区。"
+},
+"https://techcrunch.com/?p=3145367": {
+"t": "Monday.com裁员数百人，聚焦人工智能发展",
+"s": "该公司表示将裁员20%，约630名员工，以“支持更精简、更专注的运营模式”，同时聚焦其AI工作平台。"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3145431": {
+"t": "Menlo Ventures的Matt Murphy详解AI初创公司创始人必须做出的改变",
+"s": "Anthropic在5月营收年化运行率跃升至470亿美元，而2025年这一数字为90亿美元。Menlo Ventures的Matt Murphy表示，这种增长速度在他25年的投资生涯中前所未见——无论是互联网浪潮、移动时代，还是第一轮云计算热潮都无法比拟。Menlo领投了Anthropic的5亿美元D轮融资，Murphy亲眼见证了这家公司从零收入起步的全过程。"
+},
+"https://openai.com/index/how-news-organizations-are-using-ai": {
+"t": "新闻机构如何利用人工智能推进其重要使命",
+"s": "新闻机构正借助人工智能强化报道、扩大受众群体并优化业务运营，OpenAI工具为全球记者和出版商提供支持。"
 }
 }
