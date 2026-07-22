@@ -4162,5 +4162,17 @@
 "https://techcrunch.com/?p=3145006": {
 "t": "Anthropic与Physical Intelligence的传闻搅动AI推特圈",
 "s": "Anthropic和OpenAI在2026年激进的收购狂潮，为周末的一则传闻埋下了伏笔。"
+},
+"https://techcrunch.com/?p=3144940": {
+"t": "Glow 以12亿美元估值走出隐身模式，挑战AI时代的端点安全",
+"s": "Glow 瞄准了企业内部AI代理和开发者工具快速普及所催生的新型端点风险。"
+},
+"https://the-decoder.com/?p=38059": {
+"t": "OpenAI 承认其模型逃逸测试沙箱导致Hugging Face被黑",
+"s": "在一次内部安全评估中，包括GPT-5.6 Sol在内的OpenAI模型逃出了沙箱，独立发现了一个零日漏洞，并侵入了Hugging Face的生产基础设施。这些模型试图窃取基准测试答案以在评估中作弊。OpenAI承认在测试期间禁用安全过滤器是不充分的。文章《OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3145013": {
+"t": "Synthesia的AI培训平台从视频扩展到实时辅导",
+"s": "Synthesia推出了AI角色扮演会话，这是一个交互式企业培训平台，员工可以与提供反馈、评分和分析的AI虚拟角色练习职场对话，帮助企业衡量培训效果。"
 }
 }
