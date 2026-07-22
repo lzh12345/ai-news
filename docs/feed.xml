@@ -5,15 +5,31 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 21 Jul 2026 20:59:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 01:52:39 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Poolside 发布 Laguna S 2.1：一款在 SWE-Bench Multilingual 上表现超群的开放权重智能编码模型</title>
+<link>https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81251</guid>
+<pubDate>Wed, 22 Jul 2026 00:01:32 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Poolside 发布了 Laguna S 2.1，这是一款 118B 参数的开放权重混合专家编码模型，每个 token 激活 8B 参数，支持 100 万 token 上下文。它在智能编码基准测试中与数倍于其规模的模型持平或更优，采用 OpenMDW-1.1 许可发布，并可在单个 NVIDIA DGX Spark 上运行。本文《Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta正在测试一款面向缺乏想象力人群的AI睡前故事应用</title>
+<link>https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145004</guid>
+<pubDate>Tue, 21 Jul 2026 23:55:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】终于，一家科技公司找到了将人类最古老的消遣——运用想象力——外包出去的方法。<br/><br/><a href="https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI称Hugging Face遭其预发布模型入侵</title>
-<link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/</link>
+<link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3144991</guid>
 <pubDate>Tue, 21 Jul 2026 20:56:55 +0000</pubDate>
 <source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI主动承认对Hugging Face的入侵事件负责，称这是内部测试失控所致。<br/><br/><a href="https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/">阅读原文</a>]]></description>
+<description><![CDATA[【techcrunch.com】OpenAI主动承认对Hugging Face的入侵事件负责，称这是内部测试失控所致。<br/><br/><a href="https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>物理AI仿真的现状：概述</title>
@@ -470,22 +486,6 @@
 <pubDate>Sun, 19 Jul 2026 14:52:08 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】“所有人都知道希腊人就在里面。”<br/><br/><a href="https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>非营利组织Current AI正全力打造面向所有人的AI万维网</title>
-<link>https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3143631</guid>
-<pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Current AI是一家致力于构建不遗漏任何文化背景的人工智能的非营利组织，其在跨设备、AI对话等领域取得了显著进展。<br/><br/><a href="https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Perplexity AI 发布 WANDR：一个评估需广搜深究的研究型智能体的开放基准</title>
-<link>https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81138</guid>
-<pubDate>Sun, 19 Jul 2026 07:19:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity 的 WANDR 是一个包含500项证据密集型任务的开放基准与评估框架。它测试研究型智能体能否发现大量符合条件的实体，并为每个实体提供可引用、可重新验证的证据。Perplexity Search as Code 以0.363的软F1分数和0.133的硬F1分数领先。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

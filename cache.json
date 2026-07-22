@@ -4150,5 +4150,13 @@
 "https://openai.com/index/david-velez-robin-vince-join-openai-boards": {
 "t": "David Vélez 与 Robin Vince 加入 OpenAI 基金会及 OpenAI Group PBC 董事会",
 "s": "David Vélez 与 Robin Vince 加入 OpenAI 基金会及 OpenAI Group PBC 董事会，为组织带来金融、技术与治理领域的全球领导力。"
+},
+"https://www.marktechpost.com/?p=81251": {
+"t": "Poolside 发布 Laguna S 2.1：一款在 SWE-Bench Multilingual 上表现超群的开放权重智能编码模型",
+"s": "Poolside 发布了 Laguna S 2.1，这是一款 118B 参数的开放权重混合专家编码模型，每个 token 激活 8B 参数，支持 100 万 token 上下文。它在智能编码基准测试中与数倍于其规模的模型持平或更优，采用 OpenMDW-1.1 许可发布，并可在单个 NVIDIA DGX Spark 上运行。本文《Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual》最初发表于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3145004": {
+"t": "Meta正在测试一款面向缺乏想象力人群的AI睡前故事应用",
+"s": "终于，一家科技公司找到了将人类最古老的消遣——运用想象力——外包出去的方法。"
 }
 }
