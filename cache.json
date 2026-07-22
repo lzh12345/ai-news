@@ -4174,5 +4174,29 @@
 "https://techcrunch.com/?p=3145013": {
 "t": "Synthesia的AI培训平台从视频扩展到实时辅导",
 "s": "Synthesia推出了AI角色扮演会话，这是一个交互式企业培训平台，员工可以与提供反馈、评分和分析的AI虚拟角色练习职场对话，帮助企业衡量培训效果。"
+},
+"https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community": {
+"t": "与埃芬汉县社区共建AI基础设施",
+"s": "OpenAI在佐治亚州埃芬汉县宣布“卡米莉亚项目”，承诺致力于负责任能源、社区投资、就业机会及Codex访问权限。"
+},
+"https://techcrunch.com/?p=3144582": {
+"t": "Passionfroot 获1500万美元融资，将B2B创作者市场拓展至美国",
+"s": "德国初创公司Passionfroot正在打造一个连接B2B创作者与品牌的市场平台，该公司在由Insight Partners领投的A轮融资中筹集了1500万美元。"
+},
+"https://the-decoder.com/?p=38069": {
+"t": "三星拟以数十亿欧元入股欧洲最热门AI初创公司，深化其AI帝国布局",
+"s": "三星正洽谈向法国AI初创公司Mistral投资高达10亿欧元，此举将推动该公司估值达到约200亿欧元。本文《三星拟以数十亿欧元入股欧洲最热门AI初创公司，深化其AI帝国布局》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81263": {
+"t": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比",
+"s": "当前，四个开源项目主导着大语言模型微调领域。Unsloth、Axolotl、TRL和LLaMA-Factory都基于相同的底层PyTorch和Hugging Face技术栈，但在工程投入方向上各有侧重。Unsloth重写内核，Axolotl组合并行策略，TRL定义了其他框架所依赖的训练器API，而LLaMA-Factory则致力于最大化模型覆盖范围。[…] 该文章《Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81259": {
+"t": "Cisco Foundation AI 发布 Antares：350M 和 1B 参数开源权重模型，可在真实代码库中定位已知漏洞",
+"s": "Cisco Foundation AI 发布了 Antares，这是一系列小型语言模型，经过训练可精确定位代码库中已知漏洞的位置。Antares-1B 在新的漏洞定位基准测试中达到了 0.209 的 File F1 分数，超过了参数规模达 753B 的 GLM-5.2 和 Gemini 3 Pro。未经训练的 Granite 4.0 检查点在相同协议下得分接近零，因此后训练提供了几乎全部能力。在单块 H100 上运行完整的 500 任务扫描大约需要 13 分钟，成本不到 1 美元，而 GPT-5.5 则需要 141 美元。"
+},
+"https://openai.com/index/introducing-openai-presence": {
+"t": "OpenAI Presence 正式发布",
+"s": "OpenAI Presence 正式推出，这是一款经过验证的企业级AI智能体平台，可帮助组织在客户及内部工作流程中部署值得信赖的语音与聊天智能体。"
 }
 }

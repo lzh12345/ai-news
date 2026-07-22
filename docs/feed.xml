@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 22 Jul 2026 10:17:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 13:24:49 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>浏览器之争不再围绕搜索展开——以下是 Chrome 和 Safari 的最佳替代品</title>
+<link>https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3026701</guid>
+<pubDate>Wed, 22 Jul 2026 13:20:35 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】我们整理了一份当前旨在挑战 Chrome 和 Safari 的顶级替代浏览器概览。<br/><br/><a href="https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>与埃芬汉县社区共建AI基础设施</title>
+<link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
+<guid isPermaLink="false">https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</guid>
+<pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI在佐治亚州埃芬汉县宣布“卡米莉亚项目”，承诺致力于负责任能源、社区投资、就业机会及Codex访问权限。<br/><br/><a href="https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Passionfroot 获1500万美元融资，将B2B创作者市场拓展至美国</title>
+<link>https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3144582</guid>
+<pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】德国初创公司Passionfroot正在打造一个连接B2B创作者与品牌的市场平台，该公司在由Insight Partners领投的A轮融资中筹集了1500万美元。<br/><br/><a href="https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>三星拟以数十亿欧元入股欧洲最热门AI初创公司，深化其AI帝国布局</title>
+<link>https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38069</guid>
+<pubDate>Wed, 22 Jul 2026 11:24:08 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】三星正洽谈向法国AI初创公司Mistral投资高达10亿欧元，此举将推动该公司估值达到约200亿欧元。本文《三星拟以数十亿欧元入股欧洲最热门AI初创公司，深化其AI帝国布局》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Glow 以12亿美元估值走出隐身模式，挑战AI时代的端点安全</title>
 <link>https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/</link>
@@ -14,6 +46,14 @@
 <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Glow 瞄准了企业内部AI代理和开发者工具快速普及所催生的新型端点风险。<br/><br/><a href="https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比</title>
+<link>https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81263</guid>
+<pubDate>Wed, 22 Jul 2026 09:16:40 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】当前，四个开源项目主导着大语言模型微调领域。Unsloth、Axolotl、TRL和LLaMA-Factory都基于相同的底层PyTorch和Hugging Face技术栈，但在工程投入方向上各有侧重。Unsloth重写内核，Axolotl组合并行策略，TRL定义了其他框架所依赖的训练器API，而LLaMA-Factory则致力于最大化模型覆盖范围。[…] 该文章《Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI 承认其模型逃逸测试沙箱导致Hugging Face被黑</title>
@@ -32,12 +72,36 @@
 <description><![CDATA[【techcrunch.com】Synthesia推出了AI角色扮演会话，这是一个交互式企业培训平台，员工可以与提供反馈、评分和分析的AI虚拟角色练习职场对话，帮助企业衡量培训效果。<br/><br/><a href="https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Cisco Foundation AI 发布 Antares：350M 和 1B 参数开源权重模型，可在真实代码库中定位已知漏洞</title>
+<link>https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81259</guid>
+<pubDate>Wed, 22 Jul 2026 06:27:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cisco Foundation AI 发布了 Antares，这是一系列小型语言模型，经过训练可精确定位代码库中已知漏洞的位置。Antares-1B 在新的漏洞定位基准测试中达到了 0.209 的 File F1 分数，超过了参数规模达 753B 的 GLM-5.2 和 Gemini 3 Pro。未经训练的 Granite 4.0 检查点在相同协议下得分接近零，因此后训练提供了几乎全部能力。在单块 H100 上运行完整的 500 任务扫描大约需要 13 分钟，成本不到 1 美元，而 GPT-5.5 则需要 141 美元。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI Presence 正式发布</title>
+<link>https://openai.com/index/introducing-openai-presence</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-openai-presence</guid>
+<pubDate>Wed, 22 Jul 2026 05:30:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI Presence 正式推出，这是一款经过验证的企业级AI智能体平台，可帮助组织在客户及内部工作流程中部署值得信赖的语音与聊天智能体。<br/><br/><a href="https://openai.com/index/introducing-openai-presence">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Anthropic与Physical Intelligence的传闻搅动AI推特圈</title>
 <link>https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3145006</guid>
 <pubDate>Wed, 22 Jul 2026 03:20:57 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Anthropic和OpenAI在2026年激进的收购狂潮，为周末的一则传闻埋下了伏笔。<br/><br/><a href="https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Poolside 发布 Laguna S 2.1：一款在 SWE-Bench Multilingual 上表现超群的开放权重智能编码模型</title>
+<link>https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81251</guid>
+<pubDate>Wed, 22 Jul 2026 00:01:32 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Poolside 发布了 Laguna S 2.1，这是一款 118B 参数的开放权重混合专家编码模型，每个 token 激活 8B 参数，支持 100 万 token 上下文。它在智能编码基准测试中与数倍于其规模的模型持平或更优，采用 OpenMDW-1.1 许可发布，并可在单个 NVIDIA DGX Spark 上运行。本文《Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta正在测试一款面向缺乏想象力人群的AI睡前故事应用</title>
@@ -96,6 +160,14 @@
 <description><![CDATA[【techcrunch.com】到2033年新建的数据中心可能消耗相当于印度当前用电量的电力。<br/><br/><a href="https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>谷歌发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber：更便宜、更节省 Token 的 Flash 系列，专为智能体工作负载打造</title>
+<link>https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81177</guid>
+<pubDate>Tue, 21 Jul 2026 17:45:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】谷歌于 2026 年 7 月 21 日发布了 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。Flash 系列变得更便宜且更节省 Token，其中 3.6 Flash 将输出 Token 减少了 17%，输出价格降至每 100 万 Token 7.50 美元。Flash-Lite 的运行速度为每秒 350 个 Token，而受控访问的 Flash Cyber 则为 CodeMender 提供漏洞查找能力。旗舰产品 3.5 Pro 仍处于延迟状态。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Anthropic 15亿美元版权和解获批；仅350名作者选择退出</title>
 <link>https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</guid>
@@ -142,6 +214,14 @@
 <pubDate>Tue, 21 Jul 2026 16:52:51 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】谷歌正在推出Gemini系列的三款全新Flash模型，其中包括效率更高的3.6 Flash，其令牌使用量最高可减少65%，以及一款仅面向政府和特定合作伙伴的网络安全模型。但备受期待的旗舰产品Gemini 3.5 Pro仍未现身，而OpenAI、Anthropic及中国实验室已在前沿领域展开竞争。本文《谷歌发布三款全新Gemini Flash模型，但旗舰级3.5 Pro仍在训练中“失踪”》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用NVIDIA srt-slurm、SLURM配方、参数扫描和帕累托分析验证分布式LLM服务基准测试</title>
+<link>https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81174</guid>
+<pubDate>Tue, 21 Jul 2026 16:29:36 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们探讨了NVIDIA的srt-slurm框架，并学习了如何使用srtctl将声明式YAML配置转换为可复现的SLURM基准测试工作流，用于分布式LLM服务。我们在Google Colab中设置项目，检查其内部架构，定义集群配置，试运行内置和自定义配方，并建模一个分离的预填充与解码部署……该文章《Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>如何利用画布构建交互式体验</title>
@@ -224,6 +304,22 @@
 <description><![CDATA[【the-decoder.com】小米利用人们使用配备摄像头的手持夹爪而非机器人收集的超过10万小时运动数据，训练了小米机器人1号。增加数据对性能的提升远大于扩大模型规模。尽管绝对成功率仍然较低，但性能提升尚未达到平台期。本文《小米机器人1号表明，训练机器人移动时，更多数据胜过更大模型》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Meta 开源 Astryx：一个包含 150 多个无障碍组件、七种主题和 CLI 的 Agent-Ready React 设计系统</title>
+<link>https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81170</guid>
+<pubDate>Tue, 21 Jul 2026 08:49:55 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Meta 已开源 Astryx，这是其在内部运行了八年、横跨 13000 多个应用的 React 和 StyleX 设计系统。它提供了 150 多个无障碍组件、七种主题、深色模式、模板以及一个 Agent-Ready CLI，采用 MIT 许可协议，并要求 React 19+ 版本。该文章《Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA发布Cosmos 3 Edge：一款40亿参数的开源世界模型，可在设备端推理并生成机器人动作</title>
+<link>https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81167</guid>
+<pubDate>Tue, 21 Jul 2026 07:48:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA发布了Cosmos 3 Edge，这是一款40亿参数的开源世界模型，专为设备端运行而设计。它帮助机器人和视觉AI智能体理解周围环境、实时推理，并在本地生成机器人动作。Cosmos 3系列此前包括Cosmos 3 Nano（160亿参数）和Cosmos 3 Super（640亿参数），已于2026年5月31日在GTC台北大会上发布。……该文章《NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI与Hugging Face合作应对模型评估期间的安全事件</title>
 <link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
 <guid isPermaLink="false">https://openai.com/index/hugging-face-model-evaluation-security-incident</guid>
@@ -296,6 +392,14 @@
 <description><![CDATA[【techcrunch.com】据报道，谷歌母公司Alphabet正在开发一款新芯片，旨在使其Gemini模型运行得更加高效。<br/><br/><a href="https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>阿里通义实验室发布Qwen-Audio-3.0-TTS，一款支持16种语言的Flash和Plus级别的托管式文本转语音模型</title>
+<link>https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81164</guid>
+<pubDate>Mon, 20 Jul 2026 21:14:19 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】阿里通义实验室发布了Qwen-Audio-3.0-TTS，这是一款面向生产的文本转语音（TTS）系统。该模型提供同一系列的两个变体：Flash版本面向实时交互，Plus版本面向高质量生成。两者均通过阿里云模型工作室以托管模型形式提供，而非可下载的权重文件。此次发布聚焦于开发者在生产环境中遇到的四个关键问题：更广泛的……该文章《阿里通义实验室发布Qwen-Audio-3.0-TTS，一款支持16种语言的Flash和Plus级别的托管式文本转语音模型》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Cloudflare 内部 DNS 现已全面上市</title>
 <link>https://blog.cloudflare.com/internal-dns/</link>
 <guid isPermaLink="false">01KXNA2XDCKTZTZQ1NC6HM40AZ</guid>
@@ -336,36 +440,12 @@
 <description><![CDATA[【the-decoder.com】谷歌正在开发"Frozen v2"服务器芯片，将Gemini架构直接集成到硬件中。据内部消息，其效率可能比当前TPU高出6到10倍。该芯片计划于2028年推出，将大幅降低谷歌的AI推理成本，并可能使公司在价格上优于OpenAI和Anthropic。本文《谷歌"Frozen v2"芯片据报将Gemini架构直接融入硅片以提升效率》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>《第九区》导演尼尔·布洛姆坎普发布首部完全由AI视频生成技术制作的短片</title>
-<link>https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37984</guid>
-<pubDate>Mon, 20 Jul 2026 17:32:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】《第九区》导演尼尔·布洛姆坎普发布了《夜生者》，这是一部13分钟的科幻恐怖短片，完全由Seedance 2.0视频模型生成。布洛姆坎普通过文本提示逐帧执导，并创立了新的AI电影工作室Barley Studios，计划下一步制作一部长片。本文《第九区》导演尼尔·布洛姆坎普发布首部完全由AI视频生成技术制作的短片最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>1亿美元用于开源：社区共同铸就的里程碑</title>
 <link>https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/</link>
 <guid isPermaLink="false">https://github.blog/?p=97607</guid>
 <pubDate>Mon, 20 Jul 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】庆祝社区为那些每天构建和维护开源的人们贡献了1亿美元。这篇关于“1亿美元用于开源：社区共同铸就的里程碑”的文章最初发表于GitHub博客。<br/><br/><a href="https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Adobe相机应用新功能将利用AI点评你的照片</title>
-<link>https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144118</guid>
-<pubDate>Mon, 20 Jul 2026 15:45:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Adobe的Project Indigo现在可以移除你使用该应用拍摄的照片中的各种背景。<br/><br/><a href="https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>YouTube 明确关于AI低质内容和令人不适视频的政策</title>
-<link>https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144190</guid>
-<pubDate>Mon, 20 Jul 2026 15:23:06 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】YouTube 已更新其变现政策，更清晰地界定了哪些类型的AI生成及低质量视频无法获得广告收入。<br/><br/><a href="https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>超越grep：构建上下文丰富的AI编码工具的必要性</title>
@@ -384,108 +464,28 @@
 <description><![CDATA[【openai.com】OpenAI分享了部署长周期AI模型的经验教训，强调了新的安全风险、观察到的失败案例，以及通过迭代部署改进的防护措施。<br/><br/><a href="https://openai.com/index/safety-alignment-long-horizon-models">阅读原文</a>]]></description>
 </item>
 <item>
+<title>有人基于Claude Fable 5轨迹微调OpenBMB的MiniCPM5-1B，推出657MB本地推理模型</title>
+<link>https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81155</guid>
+<pubDate>Mon, 20 Jul 2026 01:56:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】一位社区开发者将OpenBMB的MiniCPM5-1B在Claude Fable 5轨迹上进行微调，打造出一款完全本地运行的1B模型——最小构建仅657MB，支持128K上下文，并具备可见推理过程。我们对照Hugging Face模型卡逐一验证了所有规格，区分了微调模型从真实能力中实际继承的部分，并指出了模型卡中未明确的许可问题。本文《Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比</title>
+<link>https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81152</guid>
+<pubDate>Mon, 20 Jul 2026 01:18:46 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】单张24GB GPU是进行严肃本地推理的实用门槛。本指南对比了六款在Q4_K_M量化下适配单卡的开源权重模型，涵盖Qwen3.6、Gemma 4、Mistral Small、gpt-oss-20b和DeepSeek-R1-Distill。每款模型均列出了显存占用、许可协议及其最擅长的任务。本文《2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>RayRoPE：用于多视角注意力的投影射线位置编码</title>
 <link>https://machinelearning.apple.com/research/rayrope-projective-ray</link>
 <guid isPermaLink="false">rayrope-projective-ray</guid>
 <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】我们研究了多视角Transformer的位置编码机制，这类模型需处理来自一组带姿态输入图像的标记，并寻求一种能唯一编码图像块、支持多频率相似性的SE(3)不变注意力，且能自适应底层场景几何结构的编码方案。我们发现，现有的多视角注意力（绝对或相对）编码方案无法满足上述需求，因此提出RayRoPE以填补这一空白。RayRoPE基于关联射线表示图像块位置，但利用沿射线预测的点而非方向来……<br/><br/><a href="https://machinelearning.apple.com/research/rayrope-projective-ray">阅读原文</a>]]></description>
-</item>
-<item>
-<title>LVSum：面向时间感知的长视频摘要基准</title>
-<link>https://machinelearning.apple.com/research/lvsum-video-summarization</link>
-<guid isPermaLink="false">lvsum-video-summarization</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】长视频摘要对多模态大语言模型（MLLMs）提出了重大挑战，尤其是在长时间跨度内保持时间准确性，以及生成兼具语义和时间依据的摘要方面。我们推出了LVSum，这是一个人工标注的基准，用于评估具有细粒度时间对齐的长视频摘要。LVSum包含72个跨13个领域的多样化视频，平均时长16分钟，每个视频都配有最多10条包含时间参考信息的人工生成摘要。我们进行了全面评估…<br/><br/><a href="https://machinelearning.apple.com/research/lvsum-video-summarization">阅读原文</a>]]></description>
-</item>
-<item>
-<title>长度价值模型：面向Token级长度建模的可扩展价值预训练方法</title>
-<link>https://machinelearning.apple.com/research/length-value-model</link>
-<guid isPermaLink="false">length-value-model</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Token是现代自回归模型的基本计算单元，生成长度直接影响推理成本与推理性能。尽管其重要性显著，现有方法缺乏细粒度的长度建模能力，主要停留在粗粒度的序列层级操作。本文提出长度价值模型（LenVM），这是一种在解码每一步对剩余生成长度进行建模的Token级框架。通过将长度建模形式化为价值估计问题，并为每个生成的Token分配恒定负奖励，LenVM...<br/><br/><a href="https://machinelearning.apple.com/research/length-value-model">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI 会改善事先授权——还是让情况更糟？</title>
-<link>https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</guid>
-<pubDate>Sat, 18 Jul 2026 11:18:25 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】政府正在试点一个项目，利用人工智能进行保险覆盖决策。<br/><br/><a href="https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare WAF 保护 WordPress 应用免受两个高危漏洞影响</title>
-<link>https://blog.cloudflare.com/wordpress-vulnerabilities/</link>
-<guid isPermaLink="false">01KXQS1XDD7HKB324JEWG6BZDA</guid>
-<pubDate>Fri, 17 Jul 2026 21:30:43 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare 已部署两条 WAF 规则，以应对 WordPress 安全团队向我们披露的高危漏洞。这些新规则可保护所有使用受影响 WordPress 版本的 Cloudflare 客户，但客户仍应立即更新至已修复的版本。<br/><br/><a href="https://blog.cloudflare.com/wordpress-vulnerabilities/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌支持的野火探测卫星发射，烟雾笼罩美加两国</title>
-<link>https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/</link>
-<guid isPermaLink="false">https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/</guid>
-<pubDate>Fri, 17 Jul 2026 19:50:18 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】FireSat项目能够探测到其他卫星无法发现的野火。<br/><br/><a href="https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>说“是”的成本已经改变</title>
-<link>https://github.blog/engineering/the-cost-of-saying-yes-has-changed/</link>
-<guid isPermaLink="false">https://github.blog/?p=97604</guid>
-<pubDate>Fri, 17 Jul 2026 16:46:47 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】编写代码的成本下降了，但拥有代码的成本并未降低。这是一个在AI时代判断哪些变更真正便宜的框架。本文首发于GitHub博客。<br/><br/><a href="https://github.blog/engineering/the-cost-of-saying-yes-has-changed/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>旧金山要求苹果和谷歌从应用商店移除“脱衣”应用</title>
-<link>https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/</guid>
-<pubDate>Fri, 17 Jul 2026 16:10:05 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】官方估计谷歌和苹果可能从“脱衣”应用中赚取了数百万美元的费用。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌推出 Gemini 3.5 Flash Cyber</title>
-<link>https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</guid>
-<pubDate>Fri, 17 Jul 2026 15:00:11 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】谷歌推出 Gemini 3.5 Flash Cyber，这是一款轻量级网络安全模型，用于发现和修补漏洞。<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI时代的记分卡</title>
-<link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
-<guid isPermaLink="false">https://openai.com/index/a-scorecard-for-the-ai-age</guid>
-<pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI首席财务官Sarah Friar介绍了一种实用的AI记分卡，通过有用工作、每项成功任务的成本、可靠性和计算回报来衡量投资回报率。<br/><br/><a href="https://openai.com/index/a-scorecard-for-the-ai-age">阅读原文</a>]]></description>
-</item>
-<item>
-<title>当遗忘无需代价：利用低影响点降低计算成本</title>
-<link>https://machinelearning.apple.com/research/unlearning-free-low-influence</link>
-<guid isPermaLink="false">unlearning-free-low-influence</guid>
-<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】随着机器学习中数据隐私问题的日益突出，从已训练模型中“遗忘”或移除特定数据点的能力变得愈发重要。尽管当前最先进的遗忘方法已应运而生，但它们通常将遗忘集中的所有数据点一视同仁。本研究对此提出质疑：对模型学习影响微乎其微的数据点是否真的需要被移除？通过跨语言与视觉任务的影响力函数对比分析，我们识别出对模型输出影响可忽略的训练数据子集……<br/><br/><a href="https://machinelearning.apple.com/research/unlearning-free-low-influence">阅读原文</a>]]></description>
-</item>
-<item>
-<title>展示示例：从图像集合中推断视觉概念</title>
-<link>https://machinelearning.apple.com/research/visual-concept-inference</link>
-<guid isPermaLink="false">visual-concept-inference</guid>
-<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】视觉语言模型（VLM）能够遵循复杂的文本指令，但在仅凭视觉上下文进行推理方面存在困难。具体而言，当前模型无法从示例图像集合中推断共享概念，并将其应用于新输入。我们提出了“从集合中推断视觉概念”（VICIS）任务，用于评估这一能力。给定一个包含共享概念的少量图像上下文集合以及一张查询图像，模型必须生成新图像，这些图像需保留上下文定义的概念，同时与查询保持一致。研究表明，最先进的VLM在此任务上表现不佳……<br/><br/><a href="https://machinelearning.apple.com/research/visual-concept-inference">阅读原文</a>]]></description>
-</item>
-<item>
-<title>官方确认：欧盟将强制谷歌共享搜索数据并开放安卓AI功能</title>
-<link>https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/</guid>
-<pubDate>Thu, 16 Jul 2026 20:41:45 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】谷歌表示，这些变化可能会危及用户隐私和安全。<br/><br/><a href="https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
