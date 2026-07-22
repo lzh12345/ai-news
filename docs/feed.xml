@@ -5,8 +5,96 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 22 Jul 2026 13:24:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 17:08:42 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic 将部署 2 吉瓦 AMD GPU 用于 Claude，交易价值高达 50 亿美元</title>
+<link>https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38096</guid>
+<pubDate>Wed, 22 Jul 2026 16:54:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】AMD 向 Anthropic 投资高达 50 亿美元。作为回报，Anthropic 将部署高达 2 吉瓦的 MI450 GPU，用于训练和运行其 Claude 模型。对 AMD 而言，这是继 Meta 和 OpenAI 之后的又一重大交易，旨在挑战英伟达作为 AI 芯片供应商的地位。批评者认为这些协议属于循环现金流。文章《Anthropic 将部署 2 吉瓦 AMD GPU 用于 Claude，交易价值高达 50 亿美元》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI称其AI代理突破测试沙盒，入侵Hugging Face</title>
+<link>https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/</guid>
+<pubDate>Wed, 22 Jul 2026 16:47:49 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】“这是智能体时代网络安全的第一天，”Hugging Face首席执行官表示。<br/><br/><a href="https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>英国安全研究所测试的所有前沿AI模型都试图在网络安全评估中作弊</title>
+<link>https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38079</guid>
+<pubDate>Wed, 22 Jul 2026 16:41:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】英国人工智能安全研究所对OpenAI和Anthropic的五款前沿模型进行了网络安全评估。所有五款模型都试图作弊。其中一款甚至通过外部服务运行代码以访问该研究所的基础设施，触发了安全警报。本文《英国安全研究所测试的所有前沿AI模型都试图在网络安全评估中作弊》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>思科押注其小型开源网络安全模型能以更低成本在漏洞检测上超越GPT-5.5</title>
+<link>https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38088</guid>
+<pubDate>Wed, 22 Jul 2026 16:28:08 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】思科发布了两款小型开源网络安全AI模型，据该公司自身测试显示，这些模型每美元可检测到的漏洞数量约为大型AI代理的150倍。本文《思科押注其小型开源网络安全模型能以更低成本在漏洞检测上超越GPT-5.5》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国开源AI实验室Arcee表示，中国模型本身并不危险</title>
+<link>https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3144980</guid>
+<pubDate>Wed, 22 Jul 2026 16:24:08 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】随着中国AI模型能力提升并在美国企业中日益流行，关于应如何应对它们的争论已进入白热化阶段。<br/><br/><a href="https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Substack 新工具可显示哪些作者用AI写新闻通讯</title>
+<link>https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145276</guid>
+<pubDate>Wed, 22 Jul 2026 16:23:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Substack 为读者提供了一种估算新闻通讯中AI撰写内容比例的方式，这标志着围绕AI辅助内容的透明度正迎来更广泛的转变。<br/><br/><a href="https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI的AI支出狂潮已膨胀至7500亿美元</title>
+<link>https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145288</guid>
+<pubDate>Wed, 22 Jul 2026 16:13:30 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】到2030年，OpenAI在基础设施上的支出将相当于瑞典的国内生产总值。<br/><br/><a href="https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>新篇章：重构GitHub的漏洞赏金计划</title>
+<link>https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</link>
+<guid isPermaLink="false">https://github.blog/?p=97671</guid>
+<pubDate>Wed, 22 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】GitHub正对其漏洞赏金计划进行重大调整，将重心转向为研究人员提供与GitHub团队合作的更优体验。本文最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年</title>
+<link>https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38076</guid>
+<pubDate>Wed, 22 Jul 2026 15:45:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI 计划在佐治亚州建设一个名为“卡米莉亚项目”的数据中心，并与佐治亚电力公司签订了 3.2 吉瓦的电力协议。该公司承诺向当地社区投入 8000 万美元，并向学生提供 7100 万美元的 Codex 积分，以应对美国数据中心日益增长的反对声音——许多居民认为这些设施耗能巨大但就业机会稀少。文章《OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年》首发于 The Decoder。<br/><br/><a href="https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>加速科学发现的前沿：谷歌向Genesis Mission承诺4000万美元</title>
+<link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</guid>
+<pubDate>Wed, 22 Jul 2026 13:38:54 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】谷歌为Genesis Mission承诺提供4000万美元的AI代币和积分<br/><br/><a href="https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>无限AI代币终究并非无限，美军部队消耗殆尽</title>
+<link>https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/</guid>
+<pubDate>Wed, 22 Jul 2026 13:35:17 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】部队收到邮件通知，他们正在迅速耗尽AI代币。<br/><br/><a href="https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>浏览器之争不再围绕搜索展开——以下是 Chrome 和 Safari 的最佳替代品</title>
 <link>https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</link>
@@ -30,6 +118,14 @@
 <pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】德国初创公司Passionfroot正在打造一个连接B2B创作者与品牌的市场平台，该公司在由Insight Partners领投的A轮融资中筹集了1500万美元。<br/><br/><a href="https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推动国家科学的新时代</title>
+<link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
+<guid isPermaLink="false">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
+<pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI 概述了其致力于推进美国科学的承诺，与美国能源部及国家实验室合作，利用前沿人工智能加速科学发现。<br/><br/><a href="https://openai.com/index/advancing-the-next-era-of-national-science">阅读原文</a>]]></description>
 </item>
 <item>
 <title>三星拟以数十亿欧元入股欧洲最热门AI初创公司，深化其AI帝国布局</title>
@@ -256,14 +352,6 @@
 <description><![CDATA[【deepmind.google】我们正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>微软与Mistral达成数十亿美元协议，在欧洲共建AI基础设施</title>
-<link>https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38029</guid>
-<pubDate>Tue, 21 Jul 2026 15:07:22 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】微软与Mistral正在扩大战略合作伙伴关系，通过一项数十亿美元的协议在欧洲建设AI基础设施。本文《微软与Mistral达成数十亿美元协议，在欧洲共建AI基础设施》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>音乐流媒体平台Deezer称每日上传内容中超50%为AI生成</title>
 <link>https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3144590</guid>
@@ -280,28 +368,12 @@
 <description><![CDATA[【blog.cloudflare.com】我们分析了全球HTTP流量，以探究开球时间、流媒体习惯和补水暂停如何重塑全球在线活动。从深夜流量激增到中场休息时的浏览高峰，以下是全球赛事期间世界如何保持连接。<br/><br/><a href="https://blog.cloudflare.com/2026-world-cup-internet-traffic/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>阿里巴巴Qwen Audio 3.0 TTS Plus在语音合成排行榜中登顶</title>
-<link>https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38014</guid>
-<pubDate>Tue, 21 Jul 2026 11:31:15 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】阿里巴巴的Qwen Audio 3.0 TTS Plus在Artificial Analysis的语音竞技场排行榜中位居榜首。该模型支持16种语言，并允许用户通过自然语言或[angry]等标签控制说话风格。不过，其每秒16个字符的速度远低于竞争对手Sonic 3.5和Simba 3.2。本文《阿里巴巴Qwen Audio 3.0 TTS Plus在语音合成排行榜中登顶》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Gritt 携3400万美元资金走出隐身模式，用机器人建造太阳能电站——然后，拓展至一切领域</title>
 <link>https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3144417</guid>
 <pubDate>Tue, 21 Jul 2026 10:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Gritt 带着3400万美元资金走出隐身模式，并计划自动化建筑工地上最艰巨的任务。<br/><br/><a href="https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>小米机器人1号表明，训练机器人移动时，更多数据胜过更大模型</title>
-<link>https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37994</guid>
-<pubDate>Tue, 21 Jul 2026 08:56:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】小米利用人们使用配备摄像头的手持夹爪而非机器人收集的超过10万小时运动数据，训练了小米机器人1号。增加数据对性能的提升远大于扩大模型规模。尽管绝对成功率仍然较低，但性能提升尚未达到平台期。本文《小米机器人1号表明，训练机器人移动时，更多数据胜过更大模型》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta 开源 Astryx：一个包含 150 多个无障碍组件、七种主题和 CLI 的 Agent-Ready React 设计系统</title>
@@ -408,84 +480,12 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare 内部 DNS 将私有网络的权威 DNS 和递归 DNS 引入到运行 Cloudflare 零信任、网络和公共 DNS 的同一全球网络和控制平面中。<br/><br/><a href="https://blog.cloudflare.com/internal-dns/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI最重要的协议正变得更容易使用</title>
-<link>https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144390</guid>
-<pubDate>Mon, 20 Jul 2026 20:50:40 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】模型上下文协议（MCP）是AI互操作性的基本构建模块之一，为AI模型提供了一种安全访问外部数据源和服务的方式。它就像管道系统，让聊天机器人能够接入你的日历、数据库或内部工具，而无需工程师为每个连接构建定制管道。接下来……<br/><br/><a href="https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>X 历经一年努力，重新推出重建版安卓应用</title>
-<link>https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144370</guid>
-<pubDate>Mon, 20 Jul 2026 19:37:39 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】X 表示，其重建版安卓应用现已面向全球用户开放。<br/><br/><a href="https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI对开放权重模型感到担忧。美国也应该如此吗？</title>
-<link>https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144280</guid>
-<pubDate>Mon, 20 Jul 2026 19:33:25 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】关于禁止中国制造的开放权重大型语言模型的讨论，揭示了将人工智能转化为商业所面临的挑战。<br/><br/><a href="https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌&quot;Frozen v2&quot;芯片据报将Gemini架构直接融入硅片以提升效率</title>
-<link>https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=37988</guid>
-<pubDate>Mon, 20 Jul 2026 18:08:33 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】谷歌正在开发"Frozen v2"服务器芯片，将Gemini架构直接集成到硬件中。据内部消息，其效率可能比当前TPU高出6到10倍。该芯片计划于2028年推出，将大幅降低谷歌的AI推理成本，并可能使公司在价格上优于OpenAI和Anthropic。本文《谷歌"Frozen v2"芯片据报将Gemini架构直接融入硅片以提升效率》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>1亿美元用于开源：社区共同铸就的里程碑</title>
 <link>https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/</link>
 <guid isPermaLink="false">https://github.blog/?p=97607</guid>
 <pubDate>Mon, 20 Jul 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】庆祝社区为那些每天构建和维护开源的人们贡献了1亿美元。这篇关于“1亿美元用于开源：社区共同铸就的里程碑”的文章最初发表于GitHub博客。<br/><br/><a href="https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>超越grep：构建上下文丰富的AI编码工具的必要性</title>
-<link>https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/</guid>
-<pubDate>Mon, 20 Jul 2026 11:20:10 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Augment Code的Vinay Perneti探讨了模型、工具链以及上下文的重要性。<br/><br/><a href="https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>长周期模型时代的安全与对齐</title>
-<link>https://openai.com/index/safety-alignment-long-horizon-models</link>
-<guid isPermaLink="false">https://openai.com/index/safety-alignment-long-horizon-models</guid>
-<pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI分享了部署长周期AI模型的经验教训，强调了新的安全风险、观察到的失败案例，以及通过迭代部署改进的防护措施。<br/><br/><a href="https://openai.com/index/safety-alignment-long-horizon-models">阅读原文</a>]]></description>
-</item>
-<item>
-<title>有人基于Claude Fable 5轨迹微调OpenBMB的MiniCPM5-1B，推出657MB本地推理模型</title>
-<link>https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81155</guid>
-<pubDate>Mon, 20 Jul 2026 01:56:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】一位社区开发者将OpenBMB的MiniCPM5-1B在Claude Fable 5轨迹上进行微调，打造出一款完全本地运行的1B模型——最小构建仅657MB，支持128K上下文，并具备可见推理过程。我们对照Hugging Face模型卡逐一验证了所有规格，区分了微调模型从真实能力中实际继承的部分，并指出了模型卡中未明确的许可问题。本文《Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比</title>
-<link>https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81152</guid>
-<pubDate>Mon, 20 Jul 2026 01:18:46 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】单张24GB GPU是进行严肃本地推理的实用门槛。本指南对比了六款在Q4_K_M量化下适配单卡的开源权重模型，涵盖Qwen3.6、Gemma 4、Mistral Small、gpt-oss-20b和DeepSeek-R1-Distill。每款模型均列出了显存占用、许可协议及其最擅长的任务。本文《2026年单张24GB GPU可运行的最佳本地大语言模型：Qwen、Gemma、Mistral、DeepSeek对比》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>RayRoPE：用于多视角注意力的投影射线位置编码</title>
-<link>https://machinelearning.apple.com/research/rayrope-projective-ray</link>
-<guid isPermaLink="false">rayrope-projective-ray</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】我们研究了多视角Transformer的位置编码机制，这类模型需处理来自一组带姿态输入图像的标记，并寻求一种能唯一编码图像块、支持多频率相似性的SE(3)不变注意力，且能自适应底层场景几何结构的编码方案。我们发现，现有的多视角注意力（绝对或相对）编码方案无法满足上述需求，因此提出RayRoPE以填补这一空白。RayRoPE基于关联射线表示图像块位置，但利用沿射线预测的点而非方向来……<br/><br/><a href="https://machinelearning.apple.com/research/rayrope-projective-ray">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

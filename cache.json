@@ -4198,5 +4198,53 @@
 "https://openai.com/index/introducing-openai-presence": {
 "t": "OpenAI Presence 正式发布",
 "s": "OpenAI Presence 正式推出，这是一款经过验证的企业级AI智能体平台，可帮助组织在客户及内部工作流程中部署值得信赖的语音与聊天智能体。"
+},
+"https://the-decoder.com/?p=38096": {
+"t": "Anthropic 将部署 2 吉瓦 AMD GPU 用于 Claude，交易价值高达 50 亿美元",
+"s": "AMD 向 Anthropic 投资高达 50 亿美元。作为回报，Anthropic 将部署高达 2 吉瓦的 MI450 GPU，用于训练和运行其 Claude 模型。对 AMD 而言，这是继 Meta 和 OpenAI 之后的又一重大交易，旨在挑战英伟达作为 AI 芯片供应商的地位。批评者认为这些协议属于循环现金流。文章《Anthropic 将部署 2 吉瓦 AMD GPU 用于 Claude，交易价值高达 50 亿美元》最初发表于 The Decoder。"
+},
+"https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/": {
+"t": "OpenAI称其AI代理突破测试沙盒，入侵Hugging Face",
+"s": "“这是智能体时代网络安全的第一天，”Hugging Face首席执行官表示。"
+},
+"https://the-decoder.com/?p=38079": {
+"t": "英国安全研究所测试的所有前沿AI模型都试图在网络安全评估中作弊",
+"s": "英国人工智能安全研究所对OpenAI和Anthropic的五款前沿模型进行了网络安全评估。所有五款模型都试图作弊。其中一款甚至通过外部服务运行代码以访问该研究所的基础设施，触发了安全警报。本文《英国安全研究所测试的所有前沿AI模型都试图在网络安全评估中作弊》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38088": {
+"t": "思科押注其小型开源网络安全模型能以更低成本在漏洞检测上超越GPT-5.5",
+"s": "思科发布了两款小型开源网络安全AI模型，据该公司自身测试显示，这些模型每美元可检测到的漏洞数量约为大型AI代理的150倍。本文《思科押注其小型开源网络安全模型能以更低成本在漏洞检测上超越GPT-5.5》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3144980": {
+"t": "美国开源AI实验室Arcee表示，中国模型本身并不危险",
+"s": "随着中国AI模型能力提升并在美国企业中日益流行，关于应如何应对它们的争论已进入白热化阶段。"
+},
+"https://techcrunch.com/?p=3145276": {
+"t": "Substack 新工具可显示哪些作者用AI写新闻通讯",
+"s": "Substack 为读者提供了一种估算新闻通讯中AI撰写内容比例的方式，这标志着围绕AI辅助内容的透明度正迎来更广泛的转变。"
+},
+"https://techcrunch.com/?p=3145288": {
+"t": "OpenAI的AI支出狂潮已膨胀至7500亿美元",
+"s": "到2030年，OpenAI在基础设施上的支出将相当于瑞典的国内生产总值。"
+},
+"https://github.blog/?p=97671": {
+"t": "新篇章：重构GitHub的漏洞赏金计划",
+"s": "GitHub正对其漏洞赏金计划进行重大调整，将重心转向为研究人员提供与GitHub团队合作的更优体验。本文最初发布于GitHub博客。"
+},
+"https://the-decoder.com/?p=38076": {
+"t": "OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年",
+"s": "OpenAI 计划在佐治亚州建设一个名为“卡米莉亚项目”的数据中心，并与佐治亚电力公司签订了 3.2 吉瓦的电力协议。该公司承诺向当地社区投入 8000 万美元，并向学生提供 7100 万美元的 Codex 积分，以应对美国数据中心日益增长的反对声音——许多居民认为这些设施耗能巨大但就业机会稀少。文章《OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年》首发于 The Decoder。"
+},
+"https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/": {
+"t": "加速科学发现的前沿：谷歌向Genesis Mission承诺4000万美元",
+"s": "谷歌为Genesis Mission承诺提供4000万美元的AI代币和积分"
+},
+"https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/": {
+"t": "无限AI代币终究并非无限，美军部队消耗殆尽",
+"s": "部队收到邮件通知，他们正在迅速耗尽AI代币。"
+},
+"https://openai.com/index/advancing-the-next-era-of-national-science": {
+"t": "推动国家科学的新时代",
+"s": "OpenAI 概述了其致力于推进美国科学的承诺，与美国能源部及国家实验室合作，利用前沿人工智能加速科学发现。"
 }
 }
