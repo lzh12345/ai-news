@@ -4338,5 +4338,49 @@
 "https://www.marktechpost.com/?p=81279": {
 "t": "认识Gigatoken：一款以24.53 GB/s速度编码文本的Rust BPE分词器，比HuggingFace分词器快989倍",
 "s": "Gigatoken是一款采用MIT许可证的Rust BPE分词器，能以每秒千兆字节的速度编码文本。在144核AMD EPYC 9565处理器上，它运行GPT-2分词的速度达到24.53 GB/s。相比已用多线程Rust编写的基线，其速度是HuggingFace分词器的989倍，是tiktoken的681倍。性能提升源于手写的SWAR预分词器和预分词缓存，而非更快的BPE合并循环。本文《认识Gigatoken：一款以24.53 GB/s速度编码文本的Rust BPE分词器，比HuggingFace分词器快989倍》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3145764": {
+"t": "Runway推出AI模型路由器，生成式媒体领域竞争加剧",
+"s": "Runway不再满足于仅作为一家AI模型公司，而是希望成为生成式媒体的基础设施层。本周四，这家初创公司通过其本月早些时候发布的开发者平台Runway Dev，推出了Runway Media Router。该平台为不断增加的第三方图像、视频和音频模型提供API访问接口……"
+},
+"https://the-decoder.com/?p=38119": {
+"t": "一个被篡改的ChatGPT链接可能每五分钟生成一个听从攻击者指令的恶意AI代理",
+"s": "Zenity Labs发现了OpenAI Agent Builder中的一个漏洞“AgentForger”，该漏洞允许一个被操纵的ChatGPT链接以员工身份创建自主代理。该代理继承了受害者的身份和访问权限，通过恶意提示绕过审批要求，并每五分钟从攻击者的收件箱中获取新指令。本文《一个被篡改的ChatGPT链接可能每五分钟生成一个听从攻击者指令的恶意AI代理》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3145731": {
+"t": "OpenAI 向所有美国用户开放 ChatGPT Health 服务",
+"s": "用户还可以整合来自 Apple Health、Function 和 MyFitnessPal 等服务的个人数据。"
+},
+"https://techcrunch.com/?p=3145730": {
+"t": "Meta发布新AI乐观广告，配乐却是关于人类灭绝的歌曲",
+"s": "大卫·鲍伊的歌曲《五年》被Meta用于一则本应鼓舞人心的广告中，但这首歌讲述的是人类得知自己只剩五年生命、即将面临世界末日的故事。"
+},
+"https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/": {
+"t": "谷歌因巨额AI支出首次出现季度负现金流",
+"s": "谷歌继续报告季度营收可观，但其AI支出已大幅飙升。"
+},
+"https://github.blog/?p=97619": {
+"t": "冷却期的理由：为什么Dependabot现在在发布版本更新前会等待",
+"s": "新的默认三天冷却期会延迟版本更新拉取请求，以便维护者和安全研究人员在更新进入你的代码之前，先处理发布版本中发现的问题。本文《冷却期的理由：为什么Dependabot现在在发布版本更新前会等待》最初发布于GitHub博客。"
+},
+"https://techcrunch.com/?p=3145719": {
+"t": "英伟达将GPU送往月球",
+"s": "如果宇宙中某个地方没有GPU，英伟达就会把它们送到那里。"
+},
+"https://techcrunch.com/?p=3145576": {
+"t": "AI芯片初创公司Etched逆势而上，获知名投资者青睐估值达103亿美元",
+"s": "Etched由三位哈佛辍学生创立，开发出新型芯片和内存组件，据称能加速任何AI模型的推理过程——无需GPU支持。"
+},
+"https://techcrunch.com/?p=3145698": {
+"t": "谷歌Gemini即将突破十亿用户大关",
+"s": "Gemini在二月份的月活跃用户已超过7.5亿。"
+},
+"https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/": {
+"t": "OpenAI遭黑客攻击后，AI军备竞赛面临清算时刻",
+"s": "激进的训练技术加剧了领先模型出现不良行为的威胁。"
+},
+"https://openai.com/index/health-in-chatgpt": {
+"t": "ChatGPT 推出健康功能",
+"s": "ChatGPT 的健康功能现已允许符合条件的美国用户安全连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解自身健康状况。"
 }
 }

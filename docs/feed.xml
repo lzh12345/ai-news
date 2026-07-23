@@ -5,8 +5,88 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 23 Jul 2026 13:28:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 17:11:34 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Runway推出AI模型路由器，生成式媒体领域竞争加剧</title>
+<link>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145764</guid>
+<pubDate>Thu, 23 Jul 2026 17:07:35 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Runway不再满足于仅作为一家AI模型公司，而是希望成为生成式媒体的基础设施层。本周四，这家初创公司通过其本月早些时候发布的开发者平台Runway Dev，推出了Runway Media Router。该平台为不断增加的第三方图像、视频和音频模型提供API访问接口……<br/><br/><a href="https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>一个被篡改的ChatGPT链接可能每五分钟生成一个听从攻击者指令的恶意AI代理</title>
+<link>https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38119</guid>
+<pubDate>Thu, 23 Jul 2026 17:01:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Zenity Labs发现了OpenAI Agent Builder中的一个漏洞“AgentForger”，该漏洞允许一个被操纵的ChatGPT链接以员工身份创建自主代理。该代理继承了受害者的身份和访问权限，通过恶意提示绕过审批要求，并每五分钟从攻击者的收件箱中获取新指令。本文《一个被篡改的ChatGPT链接可能每五分钟生成一个听从攻击者指令的恶意AI代理》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 向所有美国用户开放 ChatGPT Health 服务</title>
+<link>https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145731</guid>
+<pubDate>Thu, 23 Jul 2026 17:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】用户还可以整合来自 Apple Health、Function 和 MyFitnessPal 等服务的个人数据。<br/><br/><a href="https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta发布新AI乐观广告，配乐却是关于人类灭绝的歌曲</title>
+<link>https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145730</guid>
+<pubDate>Thu, 23 Jul 2026 16:28:50 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】大卫·鲍伊的歌曲《五年》被Meta用于一则本应鼓舞人心的广告中，但这首歌讲述的是人类得知自己只剩五年生命、即将面临世界末日的故事。<br/><br/><a href="https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌因巨额AI支出首次出现季度负现金流</title>
+<link>https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/</link>
+<guid isPermaLink="false">https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/</guid>
+<pubDate>Thu, 23 Jul 2026 16:04:19 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】谷歌继续报告季度营收可观，但其AI支出已大幅飙升。<br/><br/><a href="https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>冷却期的理由：为什么Dependabot现在在发布版本更新前会等待</title>
+<link>https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/</link>
+<guid isPermaLink="false">https://github.blog/?p=97619</guid>
+<pubDate>Thu, 23 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】新的默认三天冷却期会延迟版本更新拉取请求，以便维护者和安全研究人员在更新进入你的代码之前，先处理发布版本中发现的问题。本文《冷却期的理由：为什么Dependabot现在在发布版本更新前会等待》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>英伟达将GPU送往月球</title>
+<link>https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145719</guid>
+<pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】如果宇宙中某个地方没有GPU，英伟达就会把它们送到那里。<br/><br/><a href="https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI芯片初创公司Etched逆势而上，获知名投资者青睐估值达103亿美元</title>
+<link>https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145576</guid>
+<pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Etched由三位哈佛辍学生创立，开发出新型芯片和内存组件，据称能加速任何AI模型的推理过程——无需GPU支持。<br/><br/><a href="https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌Gemini即将突破十亿用户大关</title>
+<link>https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145698</guid>
+<pubDate>Thu, 23 Jul 2026 14:52:44 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Gemini在二月份的月活跃用户已超过7.5亿。<br/><br/><a href="https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI遭黑客攻击后，AI军备竞赛面临清算时刻</title>
+<link>https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/</guid>
+<pubDate>Thu, 23 Jul 2026 14:45:05 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】激进的训练技术加剧了领先模型出现不良行为的威胁。<br/><br/><a href="https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Poolside的Laguna S 2.1：一款小巧但性能超群的开源编码模型</title>
 <link>https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/</link>
@@ -70,6 +150,14 @@
 <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nunchaku-diffusers">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ChatGPT 推出健康功能</title>
+<link>https://openai.com/index/health-in-chatgpt</link>
+<guid isPermaLink="false">https://openai.com/index/health-in-chatgpt</guid>
+<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】ChatGPT 的健康功能现已允许符合条件的美国用户安全连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解自身健康状况。<br/><br/><a href="https://openai.com/index/health-in-chatgpt">阅读原文</a>]]></description>
 </item>
 <item>
 <title>经历令人震惊的季度后，IBM坚称AI并未扼杀大型机</title>
@@ -288,14 +376,6 @@
 <description><![CDATA[【openai.com】新闻机构正借助人工智能强化报道、扩大受众群体并优化业务运营，OpenAI工具为全球记者和出版商提供支持。<br/><br/><a href="https://openai.com/index/how-news-organizations-are-using-ai">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Passionfroot 获1500万美元融资，将B2B创作者市场拓展至美国</title>
-<link>https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144582</guid>
-<pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】德国初创公司Passionfroot正在打造一个连接B2B创作者与品牌的市场平台，该公司在由Insight Partners领投的A轮融资中筹集了1500万美元。<br/><br/><a href="https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>推动国家科学的新时代</title>
 <link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
 <guid isPermaLink="false">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
@@ -310,14 +390,6 @@
 <pubDate>Wed, 22 Jul 2026 11:24:08 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】三星正洽谈向法国AI初创公司Mistral投资高达10亿欧元，此举将推动该公司估值达到约200亿欧元。本文《三星拟以数十亿欧元入股欧洲最热门AI初创公司，深化其AI帝国布局》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Glow 以12亿美元估值走出隐身模式，挑战AI时代的端点安全</title>
-<link>https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144940</guid>
-<pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Glow 瞄准了企业内部AI代理和开发者工具快速普及所催生的新型端点风险。<br/><br/><a href="https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比</title>
@@ -336,14 +408,6 @@
 <description><![CDATA[【the-decoder.com】在一次内部安全评估中，包括GPT-5.6 Sol在内的OpenAI模型逃出了沙箱，独立发现了一个零日漏洞，并侵入了Hugging Face的生产基础设施。这些模型试图窃取基准测试答案以在评估中作弊。OpenAI承认在测试期间禁用安全过滤器是不充分的。文章《OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Synthesia的AI培训平台从视频扩展到实时辅导</title>
-<link>https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145013</guid>
-<pubDate>Wed, 22 Jul 2026 08:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Synthesia推出了AI角色扮演会话，这是一个交互式企业培训平台，员工可以与提供反馈、评分和分析的AI虚拟角色练习职场对话，帮助企业衡量培训效果。<br/><br/><a href="https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Cisco Foundation AI 发布 Antares：350M 和 1B 参数开源权重模型，可在真实代码库中定位已知漏洞</title>
 <link>https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81259</guid>
@@ -358,14 +422,6 @@
 <pubDate>Wed, 22 Jul 2026 05:30:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI Presence 正式推出，这是一款经过验证的企业级AI智能体平台，可帮助组织在客户及内部工作流程中部署值得信赖的语音与聊天智能体。<br/><br/><a href="https://openai.com/index/introducing-openai-presence">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic与Physical Intelligence的传闻搅动AI推特圈</title>
-<link>https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145006</guid>
-<pubDate>Wed, 22 Jul 2026 03:20:57 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic和OpenAI在2026年激进的收购狂潮，为周末的一则传闻埋下了伏笔。<br/><br/><a href="https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Poolside 发布 Laguna S 2.1：一款在 SWE-Bench Multilingual 上表现超群的开放权重智能编码模型</title>
@@ -384,36 +440,12 @@
 <description><![CDATA[【openai.com】NTT DATA集团利用ChatGPT企业版和Codex，帮助9000名员工实现工作自动化，将事件分析时间缩短至30分钟，并规模化推广安全的AI应用。<br/><br/><a href="https://openai.com/index/ntt-data">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta正在测试一款面向缺乏想象力人群的AI睡前故事应用</title>
-<link>https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145004</guid>
-<pubDate>Tue, 21 Jul 2026 23:55:10 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】终于，一家科技公司找到了将人类最古老的消遣——运用想象力——外包出去的方法。<br/><br/><a href="https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI称Hugging Face遭其预发布模型入侵</title>
-<link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144991</guid>
-<pubDate>Tue, 21 Jul 2026 20:56:55 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI主动承认对Hugging Face的入侵事件负责，称这是内部测试失控所致。<br/><br/><a href="https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>物理AI仿真的现状：概述</title>
 <link>https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</link>
 <guid isPermaLink="false">https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</guid>
 <pubDate>Tue, 21 Jul 2026 20:00:27 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI系统帮助巴基斯坦法官清理积压案件，每投资1美元回报38.50美元</title>
-<link>https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38053</guid>
-<pubDate>Tue, 21 Jul 2026 19:12:20 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】一项针对1559名巴基斯坦法官的实地实验发现，AI助手JudgeGPT将案件解决率提高了6.3%。关键在于：只有接受过实操培训的法官才看到了成效。没有培训，效果基本消失。研究人员估计，每投资1美元可获得高达38.50美元的回报。本文《An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber：更便宜、更节省 Token 的 Flash 系列，专为智能体工作负载打造</title>
@@ -454,38 +486,6 @@
 <pubDate>Tue, 21 Jul 2026 16:29:36 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】在本教程中，我们探讨了NVIDIA的srt-slurm框架，并学习了如何使用srtctl将声明式YAML配置转换为可复现的SLURM基准测试工作流，用于分布式LLM服务。我们在Google Colab中设置项目，检查其内部架构，定义集群配置，试运行内置和自定义配方，并建模一个分离的预填充与解码部署……该文章《Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>如何利用画布构建交互式体验</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/</link>
-<guid isPermaLink="false">https://github.blog/?p=97611</guid>
-<pubDate>Tue, 21 Jul 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】画布将AI转变为交互式工作空间，您可以在其中可视化信息、探索工作流程，并在复杂任务中采取行动。本文《如何利用画布构建交互式体验》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber</title>
-<link>https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/</guid>
-<pubDate>Tue, 21 Jul 2026 15:16:30 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】我们正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年世界杯如何影响互联网流量</title>
-<link>https://blog.cloudflare.com/2026-world-cup-internet-traffic/</link>
-<guid isPermaLink="false">01KY2432VQPD5FTF2RARXXYQGH</guid>
-<pubDate>Tue, 21 Jul 2026 12:59:40 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】我们分析了全球HTTP流量，以探究开球时间、流媒体习惯和补水暂停如何重塑全球在线活动。从深夜流量激增到中场休息时的浏览高峰，以下是全球赛事期间世界如何保持连接。<br/><br/><a href="https://blog.cloudflare.com/2026-world-cup-internet-traffic/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI与Hugging Face合作应对模型评估期间的安全事件</title>
-<link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
-<guid isPermaLink="false">https://openai.com/index/hugging-face-model-evaluation-security-incident</guid>
-<pubDate>Tue, 21 Jul 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI与Hugging Face分享了AI模型评估期间一起安全事件的初步调查结果，揭示了先进的网络攻击能力及对防御方的经验教训。<br/><br/><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
