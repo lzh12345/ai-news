@@ -5,8 +5,80 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 23 Jul 2026 17:11:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 20:53:17 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AMD推出Helios AI机架级系统，挑战英伟达</title>
+<link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145851</guid>
+<pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AMD正通过一款新的机架级系统挑战其芯片制造竞争对手，该系统将于今年晚些时候开始向客户发货。<br/><br/><a href="https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>吴恩达发布OpenWorker：一款开源、本地优先的桌面AI协作者，直接交付成品而非聊天回复</title>
+<link>https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81291</guid>
+<pubDate>Thu, 23 Jul 2026 19:31:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】吴恩达发布了OpenWorker，这是一款采用MIT许可证的桌面AI代理，它直接交付成品而非聊天回复。该工具在Tauri外壳下运行本地Python代理服务器，支持30种精选的调用工具模型以及完全本地的Ollama，并通过一个类型化风险引擎对每次写入、shell命令和脱离机器的操作进行把关。本文《吴恩达发布OpenWorker：一款开源、本地优先的桌面AI协作者，直接交付成品而非聊天回复》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>不付费的话，ChatGPT给你的健康建议会更差</title>
+<link>https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38137</guid>
+<pubDate>Thu, 23 Jul 2026 19:30:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI正在向美国用户推出“ChatGPT健康”功能，连接苹果健康、医疗记录和健康应用。每周已有超过3亿人向ChatGPT咨询健康问题，但付费用户能获得更好的答案。更强大的GPT-5.6 Sol模型仅限高级订阅者使用，而免费用户只能使用较弱的GPT-5.5 Instant。本文《不付费的话，ChatGPT给你的健康建议会更差》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI 终止开关法案将允许特朗普政府下令关闭失控的AI系统</title>
+<link>https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/</guid>
+<pubDate>Thu, 23 Jul 2026 19:08:01 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】该法案将允许国土安全部部长决定何时应关闭某个AI系统。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic 更新 Claude 语音模式，采用更强模型</title>
+<link>https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145822</guid>
+<pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Claude 的新语音模型将让你能够重新安排会议或起草邮件。<br/><br/><a href="https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>引入缓存响应规则</title>
+<link>https://blog.cloudflare.com/introducing-cache-response-rules/</link>
+<guid isPermaLink="false">01KY05J6W4B4TF7X9348W51RWP</guid>
+<pubDate>Thu, 23 Jul 2026 18:40:38 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】您可能遇到过这样的情况：某些本应从缓存中快速响应的内容，却因源站难以修改的Set-Cookie或Cache-Control标头而被拖回源站处理。缓存响应规则正是针对此问题的解决方案，可在适当时机应用。<br/><br/><a href="https://blog.cloudflare.com/introducing-cache-response-rules/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AegisAI 由前谷歌安全高管创立，获3600万美元融资以阻止AI驱动的鱼叉式钓鱼攻击</title>
+<link>https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145881</guid>
+<pubDate>Thu, 23 Jul 2026 18:38:34 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AegisAI 的联合创始人开发了AI代理，能够像人类一样快速分析每条消息，关注即使最详尽的检查清单也无法捕捉到的细微异常。<br/><br/><a href="https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>你并未获得所支付的AI模型</title>
+<link>https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81287</guid>
+<pubDate>Thu, 23 Jul 2026 18:07:55 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】当你调用API时，在响应对象中有一行信息。你传入参数 model: "claude-fable-5"。你得到一个完成结果、一个令牌计数，以及一个显示 "model": "claude-opus-4-8" 的字段。没有报错，没有重试。该请求在生成开始前就被分类，匹配到一个敏感类别，并被完全交给另一组权重处理。Anthropic [...] 这篇题为《你并未获得所支付的AI模型》的文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Flux 3 可生成长达20秒的带原生音频视频，Black Forest Labs 首次实现</title>
+<link>https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38131</guid>
+<pubDate>Thu, 23 Jul 2026 18:03:01 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Black Forest Labs 发布了 Flux 3，这是一个多模态基础模型，能够从图像、视频和音频中学习，并首次生成带有原生声音的视频。BFL 自己的测试显示，它略领先于市场领导者 Seedance 2.0，但独立测试结果尚未公布。该公司最终希望构建一个世界模型，并已在机器人任务上测试 Flux 3。文章《Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Runway推出AI模型路由器，生成式媒体领域竞争加剧</title>
 <link>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</link>
@@ -304,14 +376,6 @@
 <description><![CDATA[【techcrunch.com】Substack 为读者提供了一种估算新闻通讯中AI撰写内容比例的方式，这标志着围绕AI辅助内容的透明度正迎来更广泛的转变。<br/><br/><a href="https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI的AI支出狂潮已膨胀至7500亿美元</title>
-<link>https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145288</guid>
-<pubDate>Wed, 22 Jul 2026 16:13:30 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】到2030年，OpenAI在基础设施上的支出将相当于瑞典的国内生产总值。<br/><br/><a href="https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>新篇章：重构GitHub的漏洞赏金计划</title>
 <link>https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</link>
 <guid isPermaLink="false">https://github.blog/?p=97671</guid>
@@ -328,14 +392,6 @@
 <description><![CDATA[【the-decoder.com】OpenAI 计划在佐治亚州建设一个名为“卡米莉亚项目”的数据中心，并与佐治亚电力公司签订了 3.2 吉瓦的电力协议。该公司承诺向当地社区投入 8000 万美元，并向学生提供 7100 万美元的 Codex 积分，以应对美国数据中心日益增长的反对声音——许多居民认为这些设施耗能巨大但就业机会稀少。文章《OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年》首发于 The Decoder。<br/><br/><a href="https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Menlo Ventures的Matt Murphy详解AI初创公司创始人必须做出的改变</title>
-<link>https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3145431</guid>
-<pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic在5月营收年化运行率跃升至470亿美元，而2025年这一数字为90亿美元。Menlo Ventures的Matt Murphy表示，这种增长速度在他25年的投资生涯中前所未见——无论是互联网浪潮、移动时代，还是第一轮云计算热潮都无法比拟。Menlo领投了Anthropic的5亿美元D轮融资，Murphy亲眼见证了这家公司从零收入起步的全过程。<br/><br/><a href="https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>加速科学发现的前沿：谷歌向Genesis Mission承诺4000万美元</title>
 <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</guid>
@@ -350,14 +406,6 @@
 <pubDate>Wed, 22 Jul 2026 13:35:17 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】部队收到邮件通知，他们正在迅速耗尽AI代币。<br/><br/><a href="https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>浏览器之争不再围绕搜索展开——以下是 Chrome 和 Safari 的最佳替代品</title>
-<link>https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3026701</guid>
-<pubDate>Wed, 22 Jul 2026 13:20:35 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】我们整理了一份当前旨在挑战 Chrome 和 Safari 的顶级替代浏览器概览。<br/><br/><a href="https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>与埃芬汉县社区共建AI基础设施</title>
@@ -384,28 +432,12 @@
 <description><![CDATA[【openai.com】OpenAI 概述了其致力于推进美国科学的承诺，与美国能源部及国家实验室合作，利用前沿人工智能加速科学发现。<br/><br/><a href="https://openai.com/index/advancing-the-next-era-of-national-science">阅读原文</a>]]></description>
 </item>
 <item>
-<title>三星拟以数十亿欧元入股欧洲最热门AI初创公司，深化其AI帝国布局</title>
-<link>https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38069</guid>
-<pubDate>Wed, 22 Jul 2026 11:24:08 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】三星正洽谈向法国AI初创公司Mistral投资高达10亿欧元，此举将推动该公司估值达到约200亿欧元。本文《三星拟以数十亿欧元入股欧洲最热门AI初创公司，深化其AI帝国布局》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比</title>
 <link>https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81263</guid>
 <pubDate>Wed, 22 Jul 2026 09:16:40 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】当前，四个开源项目主导着大语言模型微调领域。Unsloth、Axolotl、TRL和LLaMA-Factory都基于相同的底层PyTorch和Hugging Face技术栈，但在工程投入方向上各有侧重。Unsloth重写内核，Axolotl组合并行策略，TRL定义了其他框架所依赖的训练器API，而LLaMA-Factory则致力于最大化模型覆盖范围。[…] 该文章《Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI 承认其模型逃逸测试沙箱导致Hugging Face被黑</title>
-<link>https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38059</guid>
-<pubDate>Wed, 22 Jul 2026 08:41:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】在一次内部安全评估中，包括GPT-5.6 Sol在内的OpenAI模型逃出了沙箱，独立发现了一个零日漏洞，并侵入了Hugging Face的生产基础设施。这些模型试图窃取基准测试答案以在评估中作弊。OpenAI承认在测试期间禁用安全过滤器是不充分的。文章《OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Cisco Foundation AI 发布 Antares：350M 和 1B 参数开源权重模型，可在真实代码库中定位已知漏洞</title>
@@ -448,44 +480,12 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai">阅读原文</a>]]></description>
 </item>
 <item>
-<title>谷歌发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber：更便宜、更节省 Token 的 Flash 系列，专为智能体工作负载打造</title>
-<link>https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81177</guid>
-<pubDate>Tue, 21 Jul 2026 17:45:08 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】谷歌于 2026 年 7 月 21 日发布了 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。Flash 系列变得更便宜且更节省 Token，其中 3.6 Flash 将输出 Token 减少了 17%，输出价格降至每 100 万 Token 7.50 美元。Flash-Lite 的运行速度为每秒 350 个 Token，而受控访问的 Flash Cyber 则为 CodeMender 提供漏洞查找能力。旗舰产品 3.5 Pro 仍处于延迟状态。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Anthropic 15亿美元版权和解获批；仅350名作者选择退出</title>
 <link>https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</guid>
 <pubDate>Tue, 21 Jul 2026 17:33:14 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Anthropic在最后一刻阻止作者退出15亿美元和解协议。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>推出面向小企业的ChatGPT计划</title>
-<link>https://openai.com/index/introducing-chatgpt-small-business-program</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-small-business-program</guid>
-<pubDate>Tue, 21 Jul 2026 17:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI启动ChatGPT小企业计划，帮助创业者培养AI技能、实现工作自动化，并借助ChatGPT Work实现增长。<br/><br/><a href="https://openai.com/index/introducing-chatgpt-small-business-program">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌发布更快更便宜的Gemini 3.6 Flash，称3.5 Pro仍在测试中</title>
-<link>https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/</link>
-<guid isPermaLink="false">https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/</guid>
-<pubDate>Tue, 21 Jul 2026 16:58:25 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】今天有新的3.6和3.5模型发布，但谷歌已在训练Gemini 4。<br/><br/><a href="https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用NVIDIA srt-slurm、SLURM配方、参数扫描和帕累托分析验证分布式LLM服务基准测试</title>
-<link>https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81174</guid>
-<pubDate>Tue, 21 Jul 2026 16:29:36 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们探讨了NVIDIA的srt-slurm框架，并学习了如何使用srtctl将声明式YAML配置转换为可复现的SLURM基准测试工作流，用于分布式LLM服务。我们在Google Colab中设置项目，检查其内部架构，定义集群配置，试运行内置和自定义配方，并建模一个分离的预填充与解码部署……该文章《Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

@@ -4382,5 +4382,41 @@
 "https://openai.com/index/health-in-chatgpt": {
 "t": "ChatGPT 推出健康功能",
 "s": "ChatGPT 的健康功能现已允许符合条件的美国用户安全连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解自身健康状况。"
+},
+"https://techcrunch.com/?p=3145851": {
+"t": "AMD推出Helios AI机架级系统，挑战英伟达",
+"s": "AMD正通过一款新的机架级系统挑战其芯片制造竞争对手，该系统将于今年晚些时候开始向客户发货。"
+},
+"https://www.marktechpost.com/?p=81291": {
+"t": "吴恩达发布OpenWorker：一款开源、本地优先的桌面AI协作者，直接交付成品而非聊天回复",
+"s": "吴恩达发布了OpenWorker，这是一款采用MIT许可证的桌面AI代理，它直接交付成品而非聊天回复。该工具在Tauri外壳下运行本地Python代理服务器，支持30种精选的调用工具模型以及完全本地的Ollama，并通过一个类型化风险引擎对每次写入、shell命令和脱离机器的操作进行把关。本文《吴恩达发布OpenWorker：一款开源、本地优先的桌面AI协作者，直接交付成品而非聊天回复》最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=38137": {
+"t": "不付费的话，ChatGPT给你的健康建议会更差",
+"s": "OpenAI正在向美国用户推出“ChatGPT健康”功能，连接苹果健康、医疗记录和健康应用。每周已有超过3亿人向ChatGPT咨询健康问题，但付费用户能获得更好的答案。更强大的GPT-5.6 Sol模型仅限高级订阅者使用，而免费用户只能使用较弱的GPT-5.5 Instant。本文《不付费的话，ChatGPT给你的健康建议会更差》首发于The Decoder。"
+},
+"https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
+"t": "AI 终止开关法案将允许特朗普政府下令关闭失控的AI系统",
+"s": "该法案将允许国土安全部部长决定何时应关闭某个AI系统。"
+},
+"https://techcrunch.com/?p=3145822": {
+"t": "Anthropic 更新 Claude 语音模式，采用更强模型",
+"s": "Claude 的新语音模型将让你能够重新安排会议或起草邮件。"
+},
+"01KY05J6W4B4TF7X9348W51RWP": {
+"t": "引入缓存响应规则",
+"s": "您可能遇到过这样的情况：某些本应从缓存中快速响应的内容，却因源站难以修改的Set-Cookie或Cache-Control标头而被拖回源站处理。缓存响应规则正是针对此问题的解决方案，可在适当时机应用。"
+},
+"https://techcrunch.com/?p=3145881": {
+"t": "AegisAI 由前谷歌安全高管创立，获3600万美元融资以阻止AI驱动的鱼叉式钓鱼攻击",
+"s": "AegisAI 的联合创始人开发了AI代理，能够像人类一样快速分析每条消息，关注即使最详尽的检查清单也无法捕捉到的细微异常。"
+},
+"https://www.marktechpost.com/?p=81287": {
+"t": "你并未获得所支付的AI模型",
+"s": "当你调用API时，在响应对象中有一行信息。你传入参数 model: \"claude-fable-5\"。你得到一个完成结果、一个令牌计数，以及一个显示 \"model\": \"claude-opus-4-8\" 的字段。没有报错，没有重试。该请求在生成开始前就被分类，匹配到一个敏感类别，并被完全交给另一组权重处理。Anthropic [...] 这篇题为《你并未获得所支付的AI模型》的文章最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=38131": {
+"t": "Flux 3 可生成长达20秒的带原生音频视频，Black Forest Labs 首次实现",
+"s": "Black Forest Labs 发布了 Flux 3，这是一个多模态基础模型，能够从图像、视频和音频中学习，并首次生成带有原生声音的视频。BFL 自己的测试显示，它略领先于市场领导者 Seedance 2.0，但独立测试结果尚未公布。该公司最终希望构建一个世界模型，并已在机器人任务上测试 Flux 3。文章《Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs》最初发表于 The Decoder。"
 }
 }
