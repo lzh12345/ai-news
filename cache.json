@@ -4314,5 +4314,9 @@
 "https://www.marktechpost.com/?p=81268": {
 "t": "研究级EdgeBench分析：AI智能体基准测试、排行榜分析、规模法则与评估指标",
 "s": "在本教程中，我们将EdgeBench作为评估高级AI智能体在多样化任务类别、运行时环境和交互时间预算下的实用基准进行探讨。我们首先从Hugging Face下载数据集快照，解析发布的任务规范，并检查基准分类、执行设置、互联网需求、评判逻辑和评分元数据。随后，我们……该文章《研究级EdgeBench分析：AI智能体基准测试、排行榜分析、规模法则与评估指标》首次出现在MarkTechPost上。"
+},
+"https://huggingface.co/blog/nunchaku-diffusers": {
+"t": "将Nunchaku 4位扩散推理引入Diffusers",
+"s": ""
 }
 }
