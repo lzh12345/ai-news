@@ -4318,5 +4318,25 @@
 "https://huggingface.co/blog/nunchaku-diffusers": {
 "t": "将Nunchaku 4位扩散推理引入Diffusers",
 "s": ""
+},
+"https://the-decoder.com/?p=38110": {
+"t": "Poolside的Laguna S 2.1：一款小巧但性能超群的开源编码模型",
+"s": "Poolside发布了Laguna S 2.1，这是其三个月内推出的第三款编码模型。该模型不依赖原始规模，而是通过训练使其持续检查工作、修正失败方法，并在长时间自主任务中避免过早放弃。这款紧凑型模型在基准测试中击败了多个规模更大的竞争对手。Poolside表示，该模型还以不到10美分的成本解决了一个自1975年以来悬而未决的数学问题。文章《Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38105": {
+"t": "谷歌CEO皮查伊称Gemini的下一次飞跃取决于构建“更大的基础模型”",
+"s": "Alphabet已将2026年投资预测上调至最高2050亿美元，并表示需求持续超过支出。谷歌云第二季度增长82%。CEO桑达尔·皮查伊表示，谷歌需要更大的基础模型来实现AI领域的下一次飞跃，并已启动雄心勃勃的Gemini 4训练项目。本文《谷歌CEO皮查伊称Gemini的下一次飞跃取决于构建“更大的基础模型”》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3145469": {
+"t": "专家称利用Anthropic的Fable并非Kimi K3如此出色的原因",
+"s": "\"我不认为你能在Fable严格进行蒸馏后这么快就得到一个如此强大的模型，\"一位专家告诉TechCrunch。"
+},
+"https://www.marktechpost.com/?p=81284": {
+"t": "2026年最佳开源语音识别（ASR）模型：词错误率、语言、延迟与许可证对比",
+"s": "2026年，开源语音识别已不再是Whisper一家独大。Cohere Transcribe、IBM Granite Speech 4.1、ARK-ASR和MOSS-Transcribe在Hugging Face开源ASR排行榜上的词错误率差距已不到一个百分点——这意味着排名已不再具有决定性意义。本文对比了16个开源权重模型在词错误率、语言覆盖范围、流式延迟和许可证方面的表现，并解释了为何已发布的平均值不能直接相减。该文章《2026年最佳开源语音识别（ASR）模型：词错误率、语言、延迟与许可证对比》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81279": {
+"t": "认识Gigatoken：一款以24.53 GB/s速度编码文本的Rust BPE分词器，比HuggingFace分词器快989倍",
+"s": "Gigatoken是一款采用MIT许可证的Rust BPE分词器，能以每秒千兆字节的速度编码文本。在144核AMD EPYC 9565处理器上，它运行GPT-2分词的速度达到24.53 GB/s。相比已用多线程Rust编写的基线，其速度是HuggingFace分词器的989倍，是tiktoken的681倍。性能提升源于手写的SWAR预分词器和预分词缓存，而非更快的BPE合并循环。本文《认识Gigatoken：一款以24.53 GB/s速度编码文本的Rust BPE分词器，比HuggingFace分词器快989倍》最初发表于MarkTechPost。"
 }
 }
