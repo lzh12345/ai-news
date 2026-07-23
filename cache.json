@@ -4298,5 +4298,21 @@
 "https://openai.com/index/ntt-data": {
 "t": "NTT DATA集团借助Codex将事件分析时间缩短至30分钟",
 "s": "NTT DATA集团利用ChatGPT企业版和Codex，帮助9000名员工实现工作自动化，将事件分析时间缩短至30分钟，并规模化推广安全的AI应用。"
+},
+"https://www.marktechpost.com/?p=81275": {
+"t": "Anthropic 发布 Claude Code 的 Claude Security 插件测试版：一款在终端中运行的多智能体漏洞扫描器",
+"s": "Anthropic 已发布 Claude Code 的 Claude Security 插件测试版。该插件可在现有的 Claude Code 会话中，对代码仓库进行多智能体漏洞扫描，然后将你选中的发现结果转化为补丁文件，供你自行审查和应用。Anthropic 在发布时强调了该工具的通用性，并突出其能力……原文《Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal》首发于 MarkTechPost。"
+},
+"https://techcrunch.com/?p=3145578": {
+"t": "ServiceNow 斥资4000万美元押注印度银行软件专家，以扩大其金融服务布局",
+"s": "ServiceNow 的投资为 BusinessNext 带来了一个战略合作伙伴，助其将人工智能驱动的银行软件推向全球市场。"
+},
+"https://www.marktechpost.com/?p=81271": {
+"t": "Cursor发布Cursor Router：一个请求级分类器，以降低30-50%的成本提供前沿编码质量",
+"s": "Cursor已面向Teams和企业版计划全面推出Cursor Router。该系统根据查询、上下文、任务复杂度和领域对每个请求进行分类，然后将其路由到最合适的模型。Cursor报告称，在线A/B测试中，该方案以节省60%的成本实现了前沿质量的输出；而针对三个早期接入的企业账户，与Opus 4.8费率相比，成本节省了30-50%。本文《Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81268": {
+"t": "研究级EdgeBench分析：AI智能体基准测试、排行榜分析、规模法则与评估指标",
+"s": "在本教程中，我们将EdgeBench作为评估高级AI智能体在多样化任务类别、运行时环境和交互时间预算下的实用基准进行探讨。我们首先从Hugging Face下载数据集快照，解析发布的任务规范，并检查基准分类、执行设置、互联网需求、评判逻辑和评分元数据。随后，我们……该文章《研究级EdgeBench分析：AI智能体基准测试、排行榜分析、规模法则与评估指标》首次出现在MarkTechPost上。"
 }
 }

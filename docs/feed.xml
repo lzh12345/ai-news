@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 23 Jul 2026 02:00:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 06:24:38 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic 发布 Claude Code 的 Claude Security 插件测试版：一款在终端中运行的多智能体漏洞扫描器</title>
+<link>https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81275</guid>
+<pubDate>Thu, 23 Jul 2026 06:12:05 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic 已发布 Claude Code 的 Claude Security 插件测试版。该插件可在现有的 Claude Code 会话中，对代码仓库进行多智能体漏洞扫描，然后将你选中的发现结果转化为补丁文件，供你自行审查和应用。Anthropic 在发布时强调了该工具的通用性，并突出其能力……原文《Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ServiceNow 斥资4000万美元押注印度银行软件专家，以扩大其金融服务布局</title>
+<link>https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145578</guid>
+<pubDate>Thu, 23 Jul 2026 06:09:13 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】ServiceNow 的投资为 BusinessNext 带来了一个战略合作伙伴，助其将人工智能驱动的银行软件推向全球市场。<br/><br/><a href="https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>经历令人震惊的季度后，IBM坚称AI并未扼杀大型机</title>
 <link>https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/</link>
@@ -16,12 +32,28 @@
 <description><![CDATA[【techcrunch.com】在IBM上周因大型机销售疲软预警导致股价暴跌后，其首席执行官解释称，人工智能暂时打乱了企业硬件预算。<br/><br/><a href="https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Cursor发布Cursor Router：一个请求级分类器，以降低30-50%的成本提供前沿编码质量</title>
+<link>https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81271</guid>
+<pubDate>Wed, 22 Jul 2026 22:37:44 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cursor已面向Teams和企业版计划全面推出Cursor Router。该系统根据查询、上下文、任务复杂度和领域对每个请求进行分类，然后将其路由到最合适的模型。Cursor报告称，在线A/B测试中，该方案以节省60%的成本实现了前沿质量的输出；而针对三个早期接入的企业账户，与Opus 4.8费率相比，成本节省了30-50%。本文《Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>谷歌以蓬勃发展的云业务为其巨额AI支出辩护</title>
 <link>https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3145503</guid>
 <pubDate>Wed, 22 Jul 2026 22:01:52 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】谷歌的云业务正蓬勃发展，采用其AI及AI基础设施服务的公司帮助这家科技巨头实现了创纪录的利润。<br/><br/><a href="https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>研究级EdgeBench分析：AI智能体基准测试、排行榜分析、规模法则与评估指标</title>
+<link>https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81268</guid>
+<pubDate>Wed, 22 Jul 2026 21:53:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们将EdgeBench作为评估高级AI智能体在多样化任务类别、运行时环境和交互时间预算下的实用基准进行探讨。我们首先从Hugging Face下载数据集快照，解析发布的任务规范，并检查基准分类、执行设置、互联网需求、评判逻辑和评分元数据。随后，我们……该文章《研究级EdgeBench分析：AI智能体基准测试、排行榜分析、规模法则与评估指标》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>美国财政部威胁实施制裁，白宫指控月之暗面蒸馏Anthropic的Fable模型</title>
@@ -240,6 +272,14 @@
 <description><![CDATA[【techcrunch.com】Glow 瞄准了企业内部AI代理和开发者工具快速普及所催生的新型端点风险。<br/><br/><a href="https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比</title>
+<link>https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81263</guid>
+<pubDate>Wed, 22 Jul 2026 09:16:40 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】当前，四个开源项目主导着大语言模型微调领域。Unsloth、Axolotl、TRL和LLaMA-Factory都基于相同的底层PyTorch和Hugging Face技术栈，但在工程投入方向上各有侧重。Unsloth重写内核，Axolotl组合并行策略，TRL定义了其他框架所依赖的训练器API，而LLaMA-Factory则致力于最大化模型覆盖范围。[…] 该文章《Unsloth vs Axolotl vs TRL vs LLaMA-Factory：速度、显存与多GPU微调框架对比》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI 承认其模型逃逸测试沙箱导致Hugging Face被黑</title>
 <link>https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=38059</guid>
@@ -256,6 +296,14 @@
 <description><![CDATA[【techcrunch.com】Synthesia推出了AI角色扮演会话，这是一个交互式企业培训平台，员工可以与提供反馈、评分和分析的AI虚拟角色练习职场对话，帮助企业衡量培训效果。<br/><br/><a href="https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Cisco Foundation AI 发布 Antares：350M 和 1B 参数开源权重模型，可在真实代码库中定位已知漏洞</title>
+<link>https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81259</guid>
+<pubDate>Wed, 22 Jul 2026 06:27:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cisco Foundation AI 发布了 Antares，这是一系列小型语言模型，经过训练可精确定位代码库中已知漏洞的位置。Antares-1B 在新的漏洞定位基准测试中达到了 0.209 的 File F1 分数，超过了参数规模达 753B 的 GLM-5.2 和 Gemini 3 Pro。未经训练的 Granite 4.0 检查点在相同协议下得分接近零，因此后训练提供了几乎全部能力。在单块 H100 上运行完整的 500 任务扫描大约需要 13 分钟，成本不到 1 美元，而 GPT-5.5 则需要 141 美元。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI Presence 正式发布</title>
 <link>https://openai.com/index/introducing-openai-presence</link>
 <guid isPermaLink="false">https://openai.com/index/introducing-openai-presence</guid>
@@ -270,6 +318,14 @@
 <pubDate>Wed, 22 Jul 2026 03:20:57 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Anthropic和OpenAI在2026年激进的收购狂潮，为周末的一则传闻埋下了伏笔。<br/><br/><a href="https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Poolside 发布 Laguna S 2.1：一款在 SWE-Bench Multilingual 上表现超群的开放权重智能编码模型</title>
+<link>https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81251</guid>
+<pubDate>Wed, 22 Jul 2026 00:01:32 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Poolside 发布了 Laguna S 2.1，这是一款 118B 参数的开放权重混合专家编码模型，每个 token 激活 8B 参数，支持 100 万 token 上下文。它在智能编码基准测试中与数倍于其规模的模型持平或更优，采用 OpenMDW-1.1 许可发布，并可在单个 NVIDIA DGX Spark 上运行。本文《Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>NTT DATA集团借助Codex将事件分析时间缩短至30分钟</title>
@@ -312,20 +368,20 @@
 <description><![CDATA[【techcrunch.com】Buzz是一款面向工作场所的群聊平台，将人类及其AI代理置于同一对话中。<br/><br/><a href="https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI与通用娱乐应用的崛起</title>
-<link>https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3144827</guid>
-<pubDate>Tue, 21 Jul 2026 19:39:30 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】过去十年间，流媒体平台通过主导音乐、视频、播客或有声书等单一格式展开竞争。如今，随着AI使内容创作、组织和推荐变得更加便捷，这些界限正逐渐模糊，推动Spotify、Netflix、YouTube和TikTok等公司转型为全能型娱乐平台。<br/><br/><a href="https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI系统帮助巴基斯坦法官清理积压案件，每投资1美元回报38.50美元</title>
 <link>https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=38053</guid>
 <pubDate>Tue, 21 Jul 2026 19:12:20 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】一项针对1559名巴基斯坦法官的实地实验发现，AI助手JudgeGPT将案件解决率提高了6.3%。关键在于：只有接受过实操培训的法官才看到了成效。没有培训，效果基本消失。研究人员估计，每投资1美元可获得高达38.50美元的回报。本文《An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber：更便宜、更节省 Token 的 Flash 系列，专为智能体工作负载打造</title>
+<link>https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81177</guid>
+<pubDate>Tue, 21 Jul 2026 17:45:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】谷歌于 2026 年 7 月 21 日发布了 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。Flash 系列变得更便宜且更节省 Token，其中 3.6 Flash 将输出 Token 减少了 17%，输出价格降至每 100 万 Token 7.50 美元。Flash-Lite 的运行速度为每秒 350 个 Token，而受控访问的 Flash Cyber 则为 CodeMender 提供漏洞查找能力。旗舰产品 3.5 Pro 仍处于延迟状态。本文首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic 15亿美元版权和解获批；仅350名作者选择退出</title>
@@ -368,6 +424,14 @@
 <description><![CDATA[【the-decoder.com】谷歌正在推出Gemini系列的三款全新Flash模型，其中包括效率更高的3.6 Flash，其令牌使用量最高可减少65%，以及一款仅面向政府和特定合作伙伴的网络安全模型。但备受期待的旗舰产品Gemini 3.5 Pro仍未现身，而OpenAI、Anthropic及中国实验室已在前沿领域展开竞争。本文《谷歌发布三款全新Gemini Flash模型，但旗舰级3.5 Pro仍在训练中“失踪”》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>使用NVIDIA srt-slurm、SLURM配方、参数扫描和帕累托分析验证分布式LLM服务基准测试</title>
+<link>https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81174</guid>
+<pubDate>Tue, 21 Jul 2026 16:29:36 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们探讨了NVIDIA的srt-slurm框架，并学习了如何使用srtctl将声明式YAML配置转换为可复现的SLURM基准测试工作流，用于分布式LLM服务。我们在Google Colab中设置项目，检查其内部架构，定义集群配置，试运行内置和自定义配方，并建模一个分离的预填充与解码部署……该文章《Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>如何利用画布构建交互式体验</title>
 <link>https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/</link>
 <guid isPermaLink="false">https://github.blog/?p=97611</guid>
@@ -392,6 +456,22 @@
 <description><![CDATA[【blog.cloudflare.com】我们分析了全球HTTP流量，以探究开球时间、流媒体习惯和补水暂停如何重塑全球在线活动。从深夜流量激增到中场休息时的浏览高峰，以下是全球赛事期间世界如何保持连接。<br/><br/><a href="https://blog.cloudflare.com/2026-world-cup-internet-traffic/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Meta 开源 Astryx：一个包含 150 多个无障碍组件、七种主题和 CLI 的 Agent-Ready React 设计系统</title>
+<link>https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81170</guid>
+<pubDate>Tue, 21 Jul 2026 08:49:55 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Meta 已开源 Astryx，这是其在内部运行了八年、横跨 13000 多个应用的 React 和 StyleX 设计系统。它提供了 150 多个无障碍组件、七种主题、深色模式、模板以及一个 Agent-Ready CLI，采用 MIT 许可协议，并要求 React 19+ 版本。该文章《Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA发布Cosmos 3 Edge：一款40亿参数的开源世界模型，可在设备端推理并生成机器人动作</title>
+<link>https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81167</guid>
+<pubDate>Tue, 21 Jul 2026 07:48:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA发布了Cosmos 3 Edge，这是一款40亿参数的开源世界模型，专为设备端运行而设计。它帮助机器人和视觉AI智能体理解周围环境、实时推理，并在本地生成机器人动作。Cosmos 3系列此前包括Cosmos 3 Nano（160亿参数）和Cosmos 3 Super（640亿参数），已于2026年5月31日在GTC台北大会上发布。……该文章《NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI与Hugging Face合作应对模型评估期间的安全事件</title>
 <link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
 <guid isPermaLink="false">https://openai.com/index/hugging-face-model-evaluation-security-incident</guid>
@@ -406,86 +486,6 @@
 <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/grabette">阅读原文</a>]]></description>
-</item>
-<item>
-<title>面向API调用代理的无环境合成数据生成方法</title>
-<link>https://machinelearning.apple.com/research/environment-free</link>
-<guid isPermaLink="false">environment-free</guid>
-<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】训练API调用型大语言模型代理需要海量高质量轨迹数据。然而，大规模收集此类数据通常需要具备可执行API的完整实现环境，以及预填充真实数据的后端数据库，这构成了可扩展性的主要瓶颈。为突破这一限制，我们提出一种无环境合成数据生成方法，利用大语言模型作为即时数字世界模型。仅需给定API规范，该方法即可生成模拟代理与有状态环境交互的轨迹。具体而言…<br/><br/><a href="https://machinelearning.apple.com/research/environment-free">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用校准稀疏注意力加速文本到视频生成</title>
-<link>https://machinelearning.apple.com/research/calibrated-sparse-attention</link>
-<guid isPermaLink="false">calibrated-sparse-attention</guid>
-<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】最近的扩散模型能够生成高质量视频，但运行速度较慢。这些模型中使用的基于Transformer的大型骨干网络受限于时空注意力机制。本文发现，大量token间连接在不同输入下始终产生可忽略的分数，且其模式在查询中经常重复。因此，这些情况下的注意力计算可以跳过，而对结果几乎没有影响。这一观察结果同样适用于局部token块之间的连接。受此启发，我们……<br/><br/><a href="https://machinelearning.apple.com/research/calibrated-sparse-attention">阅读原文</a>]]></description>
-</item>
-<item>
-<title>David Vélez 与 Robin Vince 加入 OpenAI 基金会及 OpenAI Group PBC 董事会</title>
-<link>https://openai.com/index/david-velez-robin-vince-join-openai-boards</link>
-<guid isPermaLink="false">https://openai.com/index/david-velez-robin-vince-join-openai-boards</guid>
-<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】David Vélez 与 Robin Vince 加入 OpenAI 基金会及 OpenAI Group PBC 董事会，为组织带来金融、技术与治理领域的全球领导力。<br/><br/><a href="https://openai.com/index/david-velez-robin-vince-join-openai-boards">阅读原文</a>]]></description>
-</item>
-<item>
-<title>美国野火几乎全年肆虐，消防无人机正在研发中</title>
-<link>https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/</guid>
-<pubDate>Mon, 20 Jul 2026 21:55:52 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】加州与XPRIZE竞赛正在测试无人机能否在野火初期将其扑灭。<br/><br/><a href="https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare 内部 DNS 现已全面上市</title>
-<link>https://blog.cloudflare.com/internal-dns/</link>
-<guid isPermaLink="false">01KXNA2XDCKTZTZQ1NC6HM40AZ</guid>
-<pubDate>Mon, 20 Jul 2026 20:59:31 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare 内部 DNS 将私有网络的权威 DNS 和递归 DNS 引入到运行 Cloudflare 零信任、网络和公共 DNS 的同一全球网络和控制平面中。<br/><br/><a href="https://blog.cloudflare.com/internal-dns/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>1亿美元用于开源：社区共同铸就的里程碑</title>
-<link>https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/</link>
-<guid isPermaLink="false">https://github.blog/?p=97607</guid>
-<pubDate>Mon, 20 Jul 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】庆祝社区为那些每天构建和维护开源的人们贡献了1亿美元。这篇关于“1亿美元用于开源：社区共同铸就的里程碑”的文章最初发表于GitHub博客。<br/><br/><a href="https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>超越grep：构建上下文丰富的AI编码工具的必要性</title>
-<link>https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/</guid>
-<pubDate>Mon, 20 Jul 2026 11:20:10 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Augment Code的Vinay Perneti探讨了模型、工具链以及上下文的重要性。<br/><br/><a href="https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>长周期模型时代的安全与对齐</title>
-<link>https://openai.com/index/safety-alignment-long-horizon-models</link>
-<guid isPermaLink="false">https://openai.com/index/safety-alignment-long-horizon-models</guid>
-<pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI分享了部署长周期AI模型的经验教训，强调了新的安全风险、观察到的失败案例，以及通过迭代部署改进的防护措施。<br/><br/><a href="https://openai.com/index/safety-alignment-long-horizon-models">阅读原文</a>]]></description>
-</item>
-<item>
-<title>RayRoPE：用于多视角注意力的投影射线位置编码</title>
-<link>https://machinelearning.apple.com/research/rayrope-projective-ray</link>
-<guid isPermaLink="false">rayrope-projective-ray</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】我们研究了多视角Transformer的位置编码机制，这类模型需处理来自一组带姿态输入图像的标记，并寻求一种能唯一编码图像块、支持多频率相似性的SE(3)不变注意力，且能自适应底层场景几何结构的编码方案。我们发现，现有的多视角注意力（绝对或相对）编码方案无法满足上述需求，因此提出RayRoPE以填补这一空白。RayRoPE基于关联射线表示图像块位置，但利用沿射线预测的点而非方向来……<br/><br/><a href="https://machinelearning.apple.com/research/rayrope-projective-ray">阅读原文</a>]]></description>
-</item>
-<item>
-<title>LVSum：面向时间感知的长视频摘要基准</title>
-<link>https://machinelearning.apple.com/research/lvsum-video-summarization</link>
-<guid isPermaLink="false">lvsum-video-summarization</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】长视频摘要对多模态大语言模型（MLLMs）提出了重大挑战，尤其是在长时间跨度内保持时间准确性，以及生成兼具语义和时间依据的摘要方面。我们推出了LVSum，这是一个人工标注的基准，用于评估具有细粒度时间对齐的长视频摘要。LVSum包含72个跨13个领域的多样化视频，平均时长16分钟，每个视频都配有最多10条包含时间参考信息的人工生成摘要。我们进行了全面评估…<br/><br/><a href="https://machinelearning.apple.com/research/lvsum-video-summarization">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
