@@ -4418,5 +4418,13 @@
 "https://the-decoder.com/?p=38131": {
 "t": "Flux 3 可生成长达20秒的带原生音频视频，Black Forest Labs 首次实现",
 "s": "Black Forest Labs 发布了 Flux 3，这是一个多模态基础模型，能够从图像、视频和音频中学习，并首次生成带有原生声音的视频。BFL 自己的测试显示，它略领先于市场领导者 Seedance 2.0，但独立测试结果尚未公布。该公司最终希望构建一个世界模型，并已在机器人任务上测试 Flux 3。文章《Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs》最初发表于 The Decoder。"
+},
+"https://www.marktechpost.com/?p=81296": {
+"t": "如何利用百度Unlimited-OCR构建端到端OCR流水线，实现高分辨率图像与多页PDF解析",
+"s": "在本教程中，我们将构建一个完整的工作流程，用于在文档图像和多页PDF上运行百度的Unlimited-OCR模型。从配置GPU环境到对比高细节分块Gundam推理与更快的Base模式，你将学习如何以可复现的端到端流水线方式处理密集布局、表格及跨页内容。本文《如何利用百度Unlimited-OCR构建端到端OCR流水线，实现高分辨率图像与多页PDF解析》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3145932": {
+"t": "AI护栏如何阻碍进攻性网络安全研究人员的工作",
+"s": "我们与多位寻找未知漏洞并开发利用工具的网络安全研究人员进行了交流，探讨了OpenAI和Anthropic的护栏如何影响他们的工作。"
 }
 }

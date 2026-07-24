@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 24 Jul 2026 01:55:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 06:19:28 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>如何利用百度Unlimited-OCR构建端到端OCR流水线，实现高分辨率图像与多页PDF解析</title>
+<link>https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81296</guid>
+<pubDate>Fri, 24 Jul 2026 05:16:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们将构建一个完整的工作流程，用于在文档图像和多页PDF上运行百度的Unlimited-OCR模型。从配置GPU环境到对比高细节分块Gundam推理与更快的Base模式，你将学习如何以可复现的端到端流水线方式处理密集布局、表格及跨页内容。本文《如何利用百度Unlimited-OCR构建端到端OCR流水线，实现高分辨率图像与多页PDF解析》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI护栏如何阻碍进攻性网络安全研究人员的工作</title>
+<link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3145932</guid>
+<pubDate>Fri, 24 Jul 2026 01:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】我们与多位寻找未知漏洞并开发利用工具的网络安全研究人员进行了交流，探讨了OpenAI和Anthropic的护栏如何影响他们的工作。<br/><br/><a href="https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AMD推出Helios AI机架级系统，挑战英伟达</title>
 <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
@@ -368,14 +384,6 @@
 <description><![CDATA[【techcrunch.com】随着中国AI模型能力提升并在美国企业中日益流行，关于应如何应对它们的争论已进入白热化阶段。<br/><br/><a href="https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Substack 新工具可显示哪些作者用AI写新闻通讯</title>
-<link>https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145276</guid>
-<pubDate>Wed, 22 Jul 2026 16:23:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Substack 为读者提供了一种估算新闻通讯中AI撰写内容比例的方式，这标志着围绕AI辅助内容的透明度正迎来更广泛的转变。<br/><br/><a href="https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>新篇章：重构GitHub的漏洞赏金计划</title>
 <link>https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</link>
 <guid isPermaLink="false">https://github.blog/?p=97671</guid>
@@ -454,14 +462,6 @@
 <pubDate>Wed, 22 Jul 2026 05:30:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI Presence 正式推出，这是一款经过验证的企业级AI智能体平台，可帮助组织在客户及内部工作流程中部署值得信赖的语音与聊天智能体。<br/><br/><a href="https://openai.com/index/introducing-openai-presence">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Poolside 发布 Laguna S 2.1：一款在 SWE-Bench Multilingual 上表现超群的开放权重智能编码模型</title>
-<link>https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81251</guid>
-<pubDate>Wed, 22 Jul 2026 00:01:32 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Poolside 发布了 Laguna S 2.1，这是一款 118B 参数的开放权重混合专家编码模型，每个 token 激活 8B 参数，支持 100 万 token 上下文。它在智能编码基准测试中与数倍于其规模的模型持平或更优，采用 OpenMDW-1.1 许可发布，并可在单个 NVIDIA DGX Spark 上运行。本文《Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>NTT DATA集团借助Codex将事件分析时间缩短至30分钟</title>
