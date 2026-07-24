@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 24 Jul 2026 06:19:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 10:09:08 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Kimi K3在网络攻击能力上大幅落后于美国前沿模型，知识蒸馏或可解释原因</title>
+<link>https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38151</guid>
+<pubDate>Fri, 24 Jul 2026 09:48:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】英国人工智能安全研究所和美国人工智能标准与创新中心对月之暗面公司的Kimi K3进行了网络攻击任务测试。Kimi K3在ExploitBench上的得分为32%，而美国领先模型为76%，同时其安全防护措施未能阻止漏洞利用开发或模拟攻击。该模型在通用基准测试中的强劲表现与较弱的网络攻击能力之间的差距，也印证了月之暗面公司对Anthropic模型进行知识蒸馏的指控。本文《Kimi K3在网络攻击能力上大幅落后于美国前沿模型，知识蒸馏或可解释原因》最初发表于The。<br/><br/><a href="https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>如何利用百度Unlimited-OCR构建端到端OCR流水线，实现高分辨率图像与多页PDF解析</title>
 <link>https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/</link>
@@ -390,14 +398,6 @@
 <pubDate>Wed, 22 Jul 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】GitHub正对其漏洞赏金计划进行重大调整，将重心转向为研究人员提供与GitHub团队合作的更优体验。本文最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年</title>
-<link>https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38076</guid>
-<pubDate>Wed, 22 Jul 2026 15:45:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI 计划在佐治亚州建设一个名为“卡米莉亚项目”的数据中心，并与佐治亚电力公司签订了 3.2 吉瓦的电力协议。该公司承诺向当地社区投入 8000 万美元，并向学生提供 7100 万美元的 Codex 积分，以应对美国数据中心日益增长的反对声音——许多居民认为这些设施耗能巨大但就业机会稀少。文章《OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年》首发于 The Decoder。<br/><br/><a href="https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>加速科学发现的前沿：谷歌向Genesis Mission承诺4000万美元</title>
