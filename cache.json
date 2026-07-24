@@ -4474,5 +4474,21 @@
 "lead-no-recovery-bottleneck": {
 "t": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
 "s": "Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on controlled algorithmic puzzles, we demonstrate that while decomposition is essential for stability, extreme decomposition creates a “no-recovery bottleneck”. We show that this bottleneck becomes critical due to highly non-uniform error distribution, where consistent errors on a few “hard” steps become irreversible. To address this, we propose Lookahead-Enhanced Atomic Decomposition (LEAD). By incorporating short-horizon future validation and aggregating…"
+},
+"https://the-decoder.com/?p=38185": {
+"t": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+"s": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3146380": {
+"t": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+"s": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them."
+},
+"https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/": {
+"t": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+"s": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes."
+},
+"01KYAFZ0EEBE4R099P8HT79D5X": {
+"t": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+"s": "By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection."
 }
 }
