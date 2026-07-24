@@ -4434,5 +4434,45 @@
 "https://the-decoder.com/?p=38165": {
 "t": "Claude 语音模式现已在所有平台上运行于 Anthropic 最强大的模型",
 "s": "语音对话现在运行在更强大的 Opus 和 Sonnet 模型上，并可访问 Gmail、Google Calendar 和 Slack。Claude 是目前唯一能通过语音直接撰写和发送电子邮件的 AI 助手，这使其在与 OpenAI 和 Google 的竞争中占据优势，后者的语音输出听起来仍更自然。文章《Claude's voice mode now runs on Anthropic's most capable models across all platforms》最初发表于 The Decoder。"
+},
+"https://techcrunch.com/?p=3146446": {
+"t": "Anthropic launches Opus 5",
+"s": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases"
+},
+"https://the-decoder.com/?p=38181": {
+"t": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
+"s": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also swapping external models in products like Copilot for its in-house MAI family, which performs significantly worse in independent benchmarks. The article Microsoft's open-weight AI push is so obviously an Azure play it hurts appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3146372": {
+"t": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+"s": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
+},
+"https://techcrunch.com/?p=3146304": {
+"t": "Bluesky’s AI assistant Attie expands into an open social research tool",
+"s": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
+},
+"https://techcrunch.com/?p=3146313": {
+"t": "Midjourney acquired the astrology app Co-Star",
+"s": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
+},
+"https://the-decoder.com/?p=38175": {
+"t": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool",
+"s": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0. Independent verification doesn't exist yet. The update adds a Claude Code-compatible endpoint. The service remains unavailable in the EU. The article Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool appeared first on The Decoder."
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3146448": {
+"t": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+"s": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]"
+},
+"https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/": {
+"t": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+"s": "Rule would allow states to decide how much—if any—public input there can be."
+},
+"https://techcrunch.com/?p=3146199": {
+"t": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+"s": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
+},
+"lead-no-recovery-bottleneck": {
+"t": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+"s": "Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on controlled algorithmic puzzles, we demonstrate that while decomposition is essential for stability, extreme decomposition creates a “no-recovery bottleneck”. We show that this bottleneck becomes critical due to highly non-uniform error distribution, where consistent errors on a few “hard” steps become irreversible. To address this, we propose Lookahead-Enhanced Atomic Decomposition (LEAD). By incorporating short-horizon future validation and aggregating…"
 }
 }
