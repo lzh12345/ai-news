@@ -4490,5 +4490,25 @@
 "01KYAFZ0EEBE4R099P8HT79D5X": {
 "t": "BGP ORIGIN attribute manipulation and its impact on the Internet",
 "s": "By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection."
+},
+"https://techcrunch.com/?p=3144285": {
+"t": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+"s": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+},
+"https://techcrunch.com/?p=3146619": {
+"t": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+"s": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+},
+"https://www.marktechpost.com/?p=81300": {
+"t": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+"s": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […] The post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost."
+},
+"https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/": {
+"t": "Canadian legislator reads out apparent LLM response in floor speech",
+"s": "\"Here’s a more natural, flowing version of that section...\""
+},
+"https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/": {
+"t": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+"s": "Models are improving quickly, but the cheaper options are often good enough."
 }
 }
