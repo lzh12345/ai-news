@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 25 Jul 2026 09:29:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 13:05:05 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents</title>
+<link>https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38211</guid>
+<pubDate>Sat, 25 Jul 2026 10:43:36 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these numbers hold up in practice, Anthropic may have cracked one of the biggest security problems facing AI agents that operate in browsers. The article Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price</title>
+<link>https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38185</guid>
+<pubDate>Sat, 25 Jul 2026 10:04:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks</title>
+<link>https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38196</guid>
+<pubDate>Sat, 25 Jul 2026 09:31:00 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers. But the race at the top remains close. The article Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers</title>
 <link>https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/</link>
@@ -70,14 +94,6 @@
 <pubDate>Fri, 24 Jul 2026 21:05:51 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Models are improving quickly, but the cheaper options are often good enough.<br/><br/><a href="https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price</title>
-<link>https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38185</guid>
-<pubDate>Fri, 24 Jul 2026 18:36:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Why Cognition bought Poke: AI personality is becoming a competitive advantage</title>
@@ -304,14 +320,6 @@
 <description><![CDATA[【techcrunch.com】Runway不再满足于仅作为一家AI模型公司，而是希望成为生成式媒体的基础设施层。本周四，这家初创公司通过其本月早些时候发布的开发者平台Runway Dev，推出了Runway Media Router。该平台为不断增加的第三方图像、视频和音频模型提供API访问接口……<br/><br/><a href="https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>一个被篡改的ChatGPT链接可能每五分钟生成一个听从攻击者指令的恶意AI代理</title>
-<link>https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38119</guid>
-<pubDate>Thu, 23 Jul 2026 17:01:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Zenity Labs发现了OpenAI Agent Builder中的一个漏洞“AgentForger”，该漏洞允许一个被操纵的ChatGPT链接以员工身份创建自主代理。该代理继承了受害者的身份和访问权限，通过恶意提示绕过审批要求，并每五分钟从攻击者的收件箱中获取新指令。本文《一个被篡改的ChatGPT链接可能每五分钟生成一个听从攻击者指令的恶意AI代理》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI 向所有美国用户开放 ChatGPT Health 服务</title>
 <link>https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3145731</guid>
@@ -374,14 +382,6 @@
 <pubDate>Thu, 23 Jul 2026 14:45:05 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】激进的训练技术加剧了领先模型出现不良行为的威胁。<br/><br/><a href="https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Poolside的Laguna S 2.1：一款小巧但性能超群的开源编码模型</title>
-<link>https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38110</guid>
-<pubDate>Thu, 23 Jul 2026 12:24:53 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Poolside发布了Laguna S 2.1，这是其三个月内推出的第三款编码模型。该模型不依赖原始规模，而是通过训练使其持续检查工作、修正失败方法，并在长时间自主任务中避免过早放弃。这款紧凑型模型在基准测试中击败了多个规模更大的竞争对手。Poolside表示，该模型还以不到10美分的成本解决了一个自1975年以来悬而未决的数学问题。文章《Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>专家称利用Anthropic的Fable并非Kimi K3如此出色的原因</title>
