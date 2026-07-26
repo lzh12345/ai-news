@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 25 Jul 2026 20:41:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 01:59:22 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>2026年科技行业大规模裁员名单：雇主以AI为由</title>
+<link>https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3132769</guid>
+<pubDate>Sun, 26 Jul 2026 01:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】按时间倒序排列，汇总今年因明确提及AI因素而宣布大规模裁员的知名科技公司。<br/><br/><a href="https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM</title>
+<link>https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81354</guid>
+<pubDate>Sun, 26 Jul 2026 00:12:57 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean. The post Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published</title>
+<link>https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81349</guid>
+<pubDate>Sat, 25 Jul 2026 18:59:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an action-conditioned latent dynamics model, rollout generation, and FVD scoring. reactor-team/open-dreamer holds a […] The post Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning</title>
+<link>https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81345</guid>
+<pubDate>Sat, 25 Jul 2026 18:08:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex workloads—including tiled tensor-core GEMM, fused softmax, and FlashAttention—while letting the compiler handle intricate thread mapping, memory layouts, and low-level CUDA instruction generation. The post Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech</title>
 <link>https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/</link>
@@ -56,6 +88,30 @@
 <description><![CDATA[【the-decoder.com】Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers. But the race at the top remains close. The article Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers</title>
+<link>https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81324</guid>
+<pubDate>Sat, 25 Jul 2026 09:03:27 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed. The post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse</title>
+<link>https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81320</guid>
+<pubDate>Sat, 25 Jul 2026 07:54:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent systems. The post Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown</title>
+<link>https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81304</guid>
+<pubDate>Sat, 25 Jul 2026 04:42:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, and which one fits your use case. The post Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else</title>
 <link>https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3144285</guid>
@@ -70,6 +126,14 @@
 <pubDate>Fri, 24 Jul 2026 22:25:58 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.<br/><br/><a href="https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing</title>
+<link>https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81300</guid>
+<pubDate>Fri, 24 Jul 2026 21:50:46 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […] The post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Canadian legislator reads out apparent LLM response in floor speech</title>
@@ -208,6 +272,14 @@
 <description><![CDATA[【the-decoder.com】英国人工智能安全研究所和美国人工智能标准与创新中心对月之暗面公司的Kimi K3进行了网络攻击任务测试。Kimi K3在ExploitBench上的得分为32%，而美国领先模型为76%，同时其安全防护措施未能阻止漏洞利用开发或模拟攻击。该模型在通用基准测试中的强劲表现与较弱的网络攻击能力之间的差距，也印证了月之暗面公司对Anthropic模型进行知识蒸馏的指控。本文《Kimi K3在网络攻击能力上大幅落后于美国前沿模型，知识蒸馏或可解释原因》最初发表于The。<br/><br/><a href="https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>如何利用百度Unlimited-OCR构建端到端OCR流水线，实现高分辨率图像与多页PDF解析</title>
+<link>https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81296</guid>
+<pubDate>Fri, 24 Jul 2026 05:16:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们将构建一个完整的工作流程，用于在文档图像和多页PDF上运行百度的Unlimited-OCR模型。从配置GPU环境到对比高细节分块Gundam推理与更快的Base模式，你将学习如何以可复现的端到端流水线方式处理密集布局、表格及跨页内容。本文《如何利用百度Unlimited-OCR构建端到端OCR流水线，实现高分辨率图像与多页PDF解析》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>AI护栏如何阻碍进攻性网络安全研究人员的工作</title>
 <link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3145932</guid>
@@ -230,6 +302,14 @@
 <pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】AMD正通过一款新的机架级系统挑战其芯片制造竞争对手，该系统将于今年晚些时候开始向客户发货。<br/><br/><a href="https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>吴恩达发布OpenWorker：一款开源、本地优先的桌面AI协作者，直接交付成品而非聊天回复</title>
+<link>https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81291</guid>
+<pubDate>Thu, 23 Jul 2026 19:31:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】吴恩达发布了OpenWorker，这是一款采用MIT许可证的桌面AI代理，它直接交付成品而非聊天回复。该工具在Tauri外壳下运行本地Python代理服务器，支持30种精选的调用工具模型以及完全本地的Ollama，并通过一个类型化风险引擎对每次写入、shell命令和脱离机器的操作进行把关。本文《吴恩达发布OpenWorker：一款开源、本地优先的桌面AI协作者，直接交付成品而非聊天回复》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>不付费的话，ChatGPT给你的健康建议会更差</title>
@@ -270,6 +350,14 @@
 <pubDate>Thu, 23 Jul 2026 18:38:34 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】AegisAI 的联合创始人开发了AI代理，能够像人类一样快速分析每条消息，关注即使最详尽的检查清单也无法捕捉到的细微异常。<br/><br/><a href="https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>你并未获得所支付的AI模型</title>
+<link>https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81287</guid>
+<pubDate>Thu, 23 Jul 2026 18:07:55 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】当你调用API时，在响应对象中有一行信息。你传入参数 model: "claude-fable-5"。你得到一个完成结果、一个令牌计数，以及一个显示 "model": "claude-opus-4-8" 的字段。没有报错，没有重试。该请求在生成开始前就被分类，匹配到一个敏感类别，并被完全交给另一组权重处理。Anthropic [...] 这篇题为《你并未获得所支付的AI模型》的文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Runway推出AI模型路由器，生成式媒体领域竞争加剧</title>
@@ -318,14 +406,6 @@
 <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】如果宇宙中某个地方没有GPU，英伟达就会把它们送到那里。<br/><br/><a href="https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI芯片初创公司Etched逆势而上，获知名投资者青睐估值达103亿美元</title>
-<link>https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145576</guid>
-<pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Etched由三位哈佛辍学生创立，开发出新型芯片和内存组件，据称能加速任何AI模型的推理过程——无需GPU支持。<br/><br/><a href="https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI遭黑客攻击后，AI军备竞赛面临清算时刻</title>
@@ -406,86 +486,6 @@
 <pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI在佐治亚州埃芬汉县宣布“卡米莉亚项目”，承诺致力于负责任能源、社区投资、就业机会及Codex访问权限。<br/><br/><a href="https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community">阅读原文</a>]]></description>
-</item>
-<item>
-<title>新闻机构如何利用人工智能推进其重要使命</title>
-<link>https://openai.com/index/how-news-organizations-are-using-ai</link>
-<guid isPermaLink="false">https://openai.com/index/how-news-organizations-are-using-ai</guid>
-<pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】新闻机构正借助人工智能强化报道、扩大受众群体并优化业务运营，OpenAI工具为全球记者和出版商提供支持。<br/><br/><a href="https://openai.com/index/how-news-organizations-are-using-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>推动国家科学的新时代</title>
-<link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
-<guid isPermaLink="false">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
-<pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI 概述了其致力于推进美国科学的承诺，与美国能源部及国家实验室合作，利用前沿人工智能加速科学发现。<br/><br/><a href="https://openai.com/index/advancing-the-next-era-of-national-science">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI Presence 正式发布</title>
-<link>https://openai.com/index/introducing-openai-presence</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-openai-presence</guid>
-<pubDate>Wed, 22 Jul 2026 05:30:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI Presence 正式推出，这是一款经过验证的企业级AI智能体平台，可帮助组织在客户及内部工作流程中部署值得信赖的语音与聊天智能体。<br/><br/><a href="https://openai.com/index/introducing-openai-presence">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NTT DATA集团借助Codex将事件分析时间缩短至30分钟</title>
-<link>https://openai.com/index/ntt-data</link>
-<guid isPermaLink="false">https://openai.com/index/ntt-data</guid>
-<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】NTT DATA集团利用ChatGPT企业版和Codex，帮助9000名员工实现工作自动化，将事件分析时间缩短至30分钟，并规模化推广安全的AI应用。<br/><br/><a href="https://openai.com/index/ntt-data">阅读原文</a>]]></description>
-</item>
-<item>
-<title>物理AI仿真的现状：概述</title>
-<link>https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</guid>
-<pubDate>Tue, 21 Jul 2026 20:00:27 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic 15亿美元版权和解获批；仅350名作者选择退出</title>
-<link>https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</guid>
-<pubDate>Tue, 21 Jul 2026 17:33:14 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Anthropic在最后一刻阻止作者退出15亿美元和解协议。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>推出面向小企业的ChatGPT计划</title>
-<link>https://openai.com/index/introducing-chatgpt-small-business-program</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-small-business-program</guid>
-<pubDate>Tue, 21 Jul 2026 17:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI启动ChatGPT小企业计划，帮助创业者培养AI技能、实现工作自动化，并借助ChatGPT Work实现增长。<br/><br/><a href="https://openai.com/index/introducing-chatgpt-small-business-program">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌发布更快更便宜的Gemini 3.6 Flash，称3.5 Pro仍在测试中</title>
-<link>https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/</link>
-<guid isPermaLink="false">https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/</guid>
-<pubDate>Tue, 21 Jul 2026 16:58:25 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】今天有新的3.6和3.5模型发布，但谷歌已在训练Gemini 4。<br/><br/><a href="https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>如何利用画布构建交互式体验</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/</link>
-<guid isPermaLink="false">https://github.blog/?p=97611</guid>
-<pubDate>Tue, 21 Jul 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】画布将AI转变为交互式工作空间，您可以在其中可视化信息、探索工作流程，并在复杂任务中采取行动。本文《如何利用画布构建交互式体验》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber</title>
-<link>https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/</guid>
-<pubDate>Tue, 21 Jul 2026 15:16:30 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】我们正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
