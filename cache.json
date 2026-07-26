@@ -4554,5 +4554,29 @@
 "https://www.marktechpost.com/?p=81345": {
 "t": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
 "s": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex workloads—including tiled tensor-core GEMM, fused softmax, and FlashAttention—while letting the compiler handle intricate thread mapping, memory layouts, and low-level CUDA instruction generation. The post Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=38239": {
+"t": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+"s": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger logical reasoning. The article Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=81360": {
+"t": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
+"s": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system is Photon-1, a sparse 106B-A5B mixture-of-experts (MoE) […] The post Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=81357": {
+"t": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
+"s": "In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorganic materials. We configure an environment, authenticate with Hugging Face to access the gated UMA model weights, and initialize task-specific calculators for the omol, oc20, and omat domains. We […] The post FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=38235": {
+"t": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+"s": "In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall. According to the Wall Street Journal, some users got step-by-step instructions for making poisons and biological weapons. Hundreds asked for that kind of information. The article Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=38229": {
+"t": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns",
+"s": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models, yet OpenAI and Anthropic continue to lobby privately for those same restrictions amid security concerns and powerful business interests. The article US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=38160": {
+"t": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
+"s": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it. But nearly half of respondents say they lack proven examples for integrating AI into their courses. The article The AI coding tutor paradox grows as educators scramble to rethink how they test real skills appeared first on The Decoder."
 }
 }
