@@ -4674,5 +4674,49 @@
 "gh-esd": {
 "t": "GH-ESD：面向实例级视觉任务的基于假设驱动的错误切片发现方法",
 "s": "视觉模型在语义连贯子集上的系统性失败（即错误切片）揭示了其在鲁棒性和评估方面的局限性。现有的切片发现方法主要将切片建模为表示空间中的聚类或预定义属性的组合。虽然这些方法在图像级分类任务中有效，但对于目标检测和分割等实例级任务而言，此类公式化方法并不充分——因为在这些任务中，失败往往源于上下文关系及空间定位的视觉模式。我们提出GH-ESD（基于假设驱动的错误切片发现方法），一种……"
+},
+"https://www.marktechpost.com/?p=81394": {
+"t": "Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统",
+"s": "Moonshot AI的Kimi团队与kvcache-ai在MIT许可下开源了AgentENV（AENV），作为Kimi K3开放日的一部分。该系统将智能体沙箱作为Firecracker微虚拟机运行，具备毫秒级快照、恢复及16路分支功能，并通过兼容E2B的API提供支持。本文Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统最早出现在MarkTechPost上。"
+},
+"https://techcrunch.com/?p=3147064": {
+"t": "PSA：你的Claude共享聊天记录和Artifacts可能已出现在谷歌上",
+"s": "该问题似乎源于Claude的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定URL的人都能查看对话或项目。"
+},
+"https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/": {
+"t": "谷歌和Reddit并不拥有互联网，网络爬虫公司在胜诉后表示",
+"s": "专家称，谷歌和Reddit利用DMCA打击网络爬虫的行为十分奇怪。"
+},
+"https://the-decoder.com/?p=38292": {
+"t": "Moonshot AI 发布 Kimi K3 开放权重与基础设施，此前已搅动前沿模型竞争格局",
+"s": "Moonshot AI 已发布 Kimi K3 的模型权重，并将其部分基础设施开源。这款中国模型在主流基准测试中几乎与 Fable 5 和 GPT-5.6 Sol 等西方前沿模型持平，但独立测试发现其在网络安全和数学性能方面存在显著差距，可能指向蒸馏技术。本文《Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=38287": {
+"t": "OpenAI称更多员工正用ChatGPT代劳他人工作",
+"s": "OpenAI分析了超过80万条与工作相关的ChatGPT消息，发现43.5%的特定职业查询涉及其他专业领域的任务。该公司将此现象称为“任务交叉”。这一趋势在小型企业中最为显著，用户在没有专职专家的情况下越来越多地处理专业化工作。本文《OpenAI称更多员工正用ChatGPT代劳他人工作》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38281": {
+"t": "微软发布自有网络安全模型MAI-Cyber-1-Flash，但最艰巨任务仍依赖OpenAI",
+"s": "微软推出MAI-Cyber-1-Flash，这是一款紧凑型安全模型，嵌入其MDASH多智能体系统后，在CyberGym基准测试中得分达96%。微软表示，与纯前沿模型相比，成本预计可降低50%，因为只有复杂案例才会交由GPT-5.4处理。在复杂推理方面，微软仍依赖OpenAI。本文《微软发布自有网络安全模型MAI-Cyber-1-Flash，但最艰巨任务仍依赖OpenAI》最初发表于The Decoder。"
+},
+"https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/": {
+"t": "Verizon 宣称与谷歌数据中心的10亿美元暗光纤交易只是开始",
+"s": "电信公司预计将通过暗光纤交易和改造后的数据中心获得AI收入。"
+},
+"https://techcrunch.com/?p=3146944": {
+"t": "微软发布首个网络安全模型及全新自主网络安全系统",
+"s": "微软本周推出其首个AI安全模型及全新安全平台，进一步强化了其AI网络安全产品线。"
+},
+"https://www.marktechpost.com/?p=81391": {
+"t": "使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体",
+"s": "在本教程中，我们围绕Anthropic的金融服务代码库构建了一个高级工作流，并用纯Python复现了其技能驱动的架构。我们首先安装所需的库，克隆代码库，并以编程方式映射其智能体、垂直插件、合作伙伴集成、托管智能体手册和金融分析技能。接着，我们将代码库中的SKILL.md文件解析为可搜索的格式……该文章《使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体》最初发表于MarkTechPost。"
+},
+"https://github.blog/?p=97740": {
+"t": "工具链才是你需要的（大部分情况下）",
+"s": "一个实用的GitHub Copilot工作流程，用于原型设计、规划、实现和审查软件，无需追逐每一个新的人工智能工具。本文《工具链才是你需要的（大部分情况下）》最初发布于GitHub博客。"
+},
+"https://the-decoder.com/?p=38277": {
+"t": "德里高等法院驳回印度主要新闻机构的版权禁令，OpenAI取得胜利",
+"s": "德里高等法院在OpenAI与新闻机构ANI的版权纠纷中作出了有利于OpenAI的重大裁决。法院首次将AI训练归类为私人使用。ANI因引用模型训练后发表的文章而削弱了自身诉讼立场。主要审判仍在进行中。本文《德里高等法院驳回印度主要新闻机构的版权禁令，OpenAI取得胜利》最初发表于The Decoder。"
 }
 }

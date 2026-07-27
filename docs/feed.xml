@@ -5,8 +5,96 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 27 Jul 2026 17:37:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 21:03:53 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统</title>
+<link>https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81394</guid>
+<pubDate>Mon, 27 Jul 2026 20:48:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Moonshot AI的Kimi团队与kvcache-ai在MIT许可下开源了AgentENV（AENV），作为Kimi K3开放日的一部分。该系统将智能体沙箱作为Firecracker微虚拟机运行，具备毫秒级快照、恢复及16路分支功能，并通过兼容E2B的API提供支持。本文Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>PSA：你的Claude共享聊天记录和Artifacts可能已出现在谷歌上</title>
+<link>https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3147064</guid>
+<pubDate>Mon, 27 Jul 2026 20:19:42 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】该问题似乎源于Claude的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定URL的人都能查看对话或项目。<br/><br/><a href="https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌和Reddit并不拥有互联网，网络爬虫公司在胜诉后表示</title>
+<link>https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/</guid>
+<pubDate>Mon, 27 Jul 2026 20:12:42 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】专家称，谷歌和Reddit利用DMCA打击网络爬虫的行为十分奇怪。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Moonshot AI 发布 Kimi K3 开放权重与基础设施，此前已搅动前沿模型竞争格局</title>
+<link>https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38292</guid>
+<pubDate>Mon, 27 Jul 2026 19:35:08 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Moonshot AI 已发布 Kimi K3 的模型权重，并将其部分基础设施开源。这款中国模型在主流基准测试中几乎与 Fable 5 和 GPT-5.6 Sol 等西方前沿模型持平，但独立测试发现其在网络安全和数学性能方面存在显著差距，可能指向蒸馏技术。本文《Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI称更多员工正用ChatGPT代劳他人工作</title>
+<link>https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38287</guid>
+<pubDate>Mon, 27 Jul 2026 19:08:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI分析了超过80万条与工作相关的ChatGPT消息，发现43.5%的特定职业查询涉及其他专业领域的任务。该公司将此现象称为“任务交叉”。这一趋势在小型企业中最为显著，用户在没有专职专家的情况下越来越多地处理专业化工作。本文《OpenAI称更多员工正用ChatGPT代劳他人工作》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软发布自有网络安全模型MAI-Cyber-1-Flash，但最艰巨任务仍依赖OpenAI</title>
+<link>https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38281</guid>
+<pubDate>Mon, 27 Jul 2026 18:50:07 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】微软推出MAI-Cyber-1-Flash，这是一款紧凑型安全模型，嵌入其MDASH多智能体系统后，在CyberGym基准测试中得分达96%。微软表示，与纯前沿模型相比，成本预计可降低50%，因为只有复杂案例才会交由GPT-5.4处理。在复杂推理方面，微软仍依赖OpenAI。本文《微软发布自有网络安全模型MAI-Cyber-1-Flash，但最艰巨任务仍依赖OpenAI》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Verizon 宣称与谷歌数据中心的10亿美元暗光纤交易只是开始</title>
+<link>https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/</guid>
+<pubDate>Mon, 27 Jul 2026 18:48:41 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】电信公司预计将通过暗光纤交易和改造后的数据中心获得AI收入。<br/><br/><a href="https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软发布首个网络安全模型及全新自主网络安全系统</title>
+<link>https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146944</guid>
+<pubDate>Mon, 27 Jul 2026 18:32:11 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】微软本周推出其首个AI安全模型及全新安全平台，进一步强化了其AI网络安全产品线。<br/><br/><a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体</title>
+<link>https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81391</guid>
+<pubDate>Mon, 27 Jul 2026 18:08:24 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Anthropic的金融服务代码库构建了一个高级工作流，并用纯Python复现了其技能驱动的架构。我们首先安装所需的库，克隆代码库，并以编程方式映射其智能体、垂直插件、合作伙伴集成、托管智能体手册和金融分析技能。接着，我们将代码库中的SKILL.md文件解析为可搜索的格式……该文章《使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>工具链才是你需要的（大部分情况下）</title>
+<link>https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/</link>
+<guid isPermaLink="false">https://github.blog/?p=97740</guid>
+<pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】一个实用的GitHub Copilot工作流程，用于原型设计、规划、实现和审查软件，无需追逐每一个新的人工智能工具。本文《工具链才是你需要的（大部分情况下）》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>德里高等法院驳回印度主要新闻机构的版权禁令，OpenAI取得胜利</title>
+<link>https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38277</guid>
+<pubDate>Mon, 27 Jul 2026 17:55:24 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】德里高等法院在OpenAI与新闻机构ANI的版权纠纷中作出了有利于OpenAI的重大裁决。法院首次将AI训练归类为私人使用。ANI因引用模型训练后发表的文章而削弱了自身诉讼立场。主要审判仍在进行中。本文《德里高等法院驳回印度主要新闻机构的版权禁令，OpenAI取得胜利》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI的Hugging Face漏洞重新引发了对对齐与控制的争论</title>
 <link>https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/</link>
@@ -240,14 +328,6 @@
 <description><![CDATA[【the-decoder.com】The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models, yet OpenAI and Anthropic continue to lobby privately for those same restrictions amid security concerns and powerful business interests. The article US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>The AI coding tutor paradox grows as educators scramble to rethink how they test real skills</title>
-<link>https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38160</guid>
-<pubDate>Sun, 26 Jul 2026 06:59:56 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it. But nearly half of respondents say they lack proven examples for integrating AI into their courses. The article The AI coding tutor paradox grows as educators scramble to rethink how they test real skills appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>2026年科技行业大规模裁员名单：雇主以AI为由</title>
 <link>https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3132769</guid>
@@ -288,52 +368,12 @@
 <description><![CDATA[【techcrunch.com】At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.<br/><br/><a href="https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face</title>
-<link>https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38217</guid>
-<pubDate>Sat, 25 Jul 2026 13:45:50 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need. At least seven days passed before OpenAI realized what had happened. By then, the FBI was already involved. Earlier warning signs had apparently gone ignored. The article New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>One fallen power line exposed a growing AI data center problem. Here’s how to fix it.</title>
 <link>https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3146569</guid>
 <pubDate>Sat, 25 Jul 2026 13:05:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.<br/><br/><a href="https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents</title>
-<link>https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38211</guid>
-<pubDate>Sat, 25 Jul 2026 10:43:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these numbers hold up in practice, Anthropic may have cracked one of the biggest security problems facing AI agents that operate in browsers. The article Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price</title>
-<link>https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38185</guid>
-<pubDate>Sat, 25 Jul 2026 10:04:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers</title>
-<link>https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81324</guid>
-<pubDate>Sat, 25 Jul 2026 09:03:27 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed. The post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse</title>
-<link>https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81320</guid>
-<pubDate>Sat, 25 Jul 2026 07:54:21 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent systems. The post Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else</title>
@@ -408,22 +448,6 @@
 <description><![CDATA[【techcrunch.com】AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.<br/><br/><a href="https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Bluesky’s AI assistant Attie expands into an open social research tool</title>
-<link>https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146304</guid>
-<pubDate>Fri, 24 Jul 2026 15:13:57 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.<br/><br/><a href="https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Midjourney acquired the astrology app Co-Star</title>
-<link>https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146313</guid>
-<pubDate>Fri, 24 Jul 2026 15:09:55 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The AI lab Midjourney continues to expand its purview beyond image and video generation.<br/><br/><a href="https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI firms want more data centers; Trump's EPA may give neighbors less say</title>
 <link>https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</guid>
@@ -462,30 +486,6 @@
 <pubDate>Thu, 23 Jul 2026 16:04:19 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】谷歌继续报告季度营收可观，但其AI支出已大幅飙升。<br/><br/><a href="https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>冷却期的理由：为什么Dependabot现在在发布版本更新前会等待</title>
-<link>https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/</link>
-<guid isPermaLink="false">https://github.blog/?p=97619</guid>
-<pubDate>Thu, 23 Jul 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】新的默认三天冷却期会延迟版本更新拉取请求，以便维护者和安全研究人员在更新进入你的代码之前，先处理发布版本中发现的问题。本文《冷却期的理由：为什么Dependabot现在在发布版本更新前会等待》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI遭黑客攻击后，AI军备竞赛面临清算时刻</title>
-<link>https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/</guid>
-<pubDate>Thu, 23 Jul 2026 14:45:05 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】激进的训练技术加剧了领先模型出现不良行为的威胁。<br/><br/><a href="https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>将Nunchaku 4位扩散推理引入Diffusers</title>
-<link>https://huggingface.co/blog/nunchaku-diffusers</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nunchaku-diffusers</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nunchaku-diffusers">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
