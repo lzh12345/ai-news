@@ -4606,5 +4606,21 @@
 "http://bair.berkeley.edu/blog/2026/07/26/abbel/": {
 "t": "教会LLMs更新信念以实现高效长程交互",
 "s": "--> --> ABBEL与传统递归摘要的对比概览。信念取代完整交互历史成为智能体的工作上下文，信念分级通过监督每个信念状态的内容来提升性能。随着任务时间跨度的增长，LLM的上下文无法无限扩展。自我摘要能生成简洁、可解释的上下文，但会显著牺牲性能，尤其在高质量数据稀缺的人类辅助领域（如协作代码生成）。我们通过ABBEL框架解决这一问题：该框架隔离并监督信息内容。"
+},
+"https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/": {
+"t": "艺术家起诉AI梗图生成器，将其极具个人色彩的漫画作为广告模板出售",
+"s": "专家称，梗图生成器可能在输出中使用模板时出了差错。"
+},
+"https://huggingface.co/blog/nvidia/cosmos-h-dreams": {
+"t": "NVIDIA Cosmos-H-Dreams：将实时生成式仿真引入手术机器人领域",
+"s": "（无）"
+},
+"https://the-decoder.com/?p=38258": {
+"t": "据报道，共享的Claude聊天记录出现在搜索引擎中",
+"s": "与Anthropic的Claude聊天机器人的共享对话短暂出现在谷歌搜索结果中，因为这些页面缺少noindex标签。用户称部分聊天内容包含加密密钥和法律问题。OpenAI去年也犯过同样的错误。文章《据报道，共享的Claude聊天记录出现在搜索引擎中》最初发表于The Decoder。"
+},
+"https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
+"t": "人工智能如何拓展人们的工作内容",
+"s": "OpenAI的最新研究显示，人工智能正在扩大工作者的职责范围，ChatGPT用户跨角色承担任务，并重塑了职业边界。"
 }
 }
