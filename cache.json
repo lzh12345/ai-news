@@ -4622,5 +4622,13 @@
 "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
 "t": "人工智能如何拓展人们的工作内容",
 "s": "OpenAI的最新研究显示，人工智能正在扩大工作者的职责范围，ChatGPT用户跨角色承担任务，并重塑了职业边界。"
+},
+"01KYGZXPC2FQ4NSXSKXXYY86FZ": {
+"t": "我们正在开源隐私代理命令行工具",
+"s": "pvcli 是一款类似 curl 的工具，旨在简化 OHTTP 等复杂隐私协议的测试。"
+},
+"https://the-decoder.com/?p=38264": {
+"t": "METR 推出新指标，精确计算AI代理何时比人类更昂贵",
+"s": "METR 的新指标“支出视界”为AI代理解决问题的成本效益设定了美元数值。在NanoGPT速度赛中的早期结果并不理想，该指标存在盲点，而新一代模型可能改变这一局面。文章《METR introduces a new metric to calculate exactly when AI agents become more expensive than humans》最初发表于The Decoder。"
 }
 }

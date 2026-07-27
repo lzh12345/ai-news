@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 27 Jul 2026 11:11:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 14:13:30 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>我们正在开源隐私代理命令行工具</title>
+<link>https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/</link>
+<guid isPermaLink="false">01KYGZXPC2FQ4NSXSKXXYY86FZ</guid>
+<pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】pvcli 是一款类似 curl 的工具，旨在简化 OHTTP 等复杂隐私协议的测试。<br/><br/><a href="https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>METR 推出新指标，精确计算AI代理何时比人类更昂贵</title>
+<link>https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38264</guid>
+<pubDate>Mon, 27 Jul 2026 12:28:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】METR 的新指标“支出视界”为AI代理解决问题的成本效益设定了美元数值。在NanoGPT速度赛中的早期结果并不理想，该指标存在盲点，而新一代模型可能改变这一局面。文章《METR introduces a new metric to calculate exactly when AI agents become more expensive than humans》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>艺术家起诉AI梗图生成器，将其极具个人色彩的漫画作为广告模板出售</title>
 <link>https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/</link>
@@ -214,14 +230,6 @@
 <pubDate>Sat, 25 Jul 2026 10:04:42 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks</title>
-<link>https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38196</guid>
-<pubDate>Sat, 25 Jul 2026 09:31:00 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers. But the race at the top remains close. The article Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 22 Jul 2026 18:18:12 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】工会此前警告汽车制造商，任何机器人部署都必须经过协商。<br/><br/><a href="https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI称其AI代理突破测试沙盒，入侵Hugging Face</title>
-<link>https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/</guid>
-<pubDate>Wed, 22 Jul 2026 16:47:49 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】“这是智能体时代网络安全的第一天，”Hugging Face首席执行官表示。<br/><br/><a href="https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
