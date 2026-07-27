@@ -5,8 +5,88 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 27 Jul 2026 14:13:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 17:37:15 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI的Hugging Face漏洞重新引发了对对齐与控制的争论</title>
+<link>https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146990</guid>
+<pubDate>Mon, 27 Jul 2026 17:28:42 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI的Hugging Face漏洞重新引发了关于AI对齐与控制的辩论，暴露了在日益强大的AI是否应更好地对齐、更好地控制，或两者兼而有之的问题上的对立观点。<br/><br/><a href="https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ChatGPT开始阻止直接请求复制作者风格的行为</title>
+<link>https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</guid>
+<pubDate>Mon, 27 Jul 2026 16:58:46 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】捕捉作者“广泛特质”的新行为可能带来法律影响。<br/><br/><a href="https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Threads用户现可在私信中与Meta AI聊天</title>
+<link>https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146923</guid>
+<pubDate>Mon, 27 Jul 2026 16:45:24 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Meta周一宣布，正在Threads的私信功能中推出其Meta AI聊天机器人，让用户能够与这一AI助手进行对话。<br/><br/><a href="https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity 发布 pplx：一款将搜索 API 置于终端供编码代理使用的单一二进制 CLI 工具</title>
+<link>https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81383</guid>
+<pubDate>Mon, 27 Jul 2026 16:32:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity 已发布 pplx，这是其搜索 API 的官方命令行客户端。该工具提供两个命令——pplx search web 和 pplx content fetch——并在标准输出中返回一个 JSON 对象。它以经过校验和验证的单一二进制形式提供，适用于 macOS arm64 和 Linux，同时附带一个适用于 Claude Code、Codex CLI 及任何能读取 URL 的框架的 Agent Skill。原文《Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub Copilot 应用初学者指南：入门</title>
+<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/</link>
+<guid isPermaLink="false">https://github.blog/?p=97758</guid>
+<pubDate>Mon, 27 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】刚接触 GitHub Copilot 应用？了解如何启动项目、与 AI 代理协作、探索画布，并简化你的开发工作流程。该文章《GitHub Copilot 应用初学者指南：入门》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌AI搜索正迅速成为默认选项，新数据显示</title>
+<link>https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146884</guid>
+<pubDate>Mon, 27 Jul 2026 15:57:12 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】谷歌的AI概览现在出现在43%的搜索中，凸显了AI生成的答案正迅速成为人们在线获取信息的默认方式。<br/><br/><a href="https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>为你的AI基础设施赋能！TechCrunch Disrupt 2026智能系统舞台议程初探</title>
+<link>https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146499</guid>
+<pubDate>Mon, 27 Jul 2026 15:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在TechCrunch Disrupt 2026上，智能系统舞台将成为能源、基础设施与技术的交汇点，涵盖从聚变突破到AI给整个经济带来的电网压力等方方面面。<br/><br/><a href="https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>这款9美元的钥匙能物理锁定你最上瘾的应用</title>
+<link>https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146148</guid>
+<pubDate>Mon, 27 Jul 2026 15:25:37 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这款9美元的NFC钥匙需要你实际扫描它，才能解锁手机上那些令人分心的应用。<br/><br/><a href="https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>伊利亚·苏茨克维的“安全超级智能”与英伟达合作，扩大其AI研究规模</title>
+<link>https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146871</guid>
+<pubDate>Mon, 27 Jul 2026 15:01:50 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】经过两年的隐秘运营后，“安全超级智能”宣布与英伟达建立长期合作伙伴关系，为其下一阶段的规模化发展做准备。<br/><br/><a href="https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Enigma 获 7100 万美元融资，让操控机器人像调节音量一样简单</title>
+<link>https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146811</guid>
+<pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】本轮巨额种子轮融资由 Index Ventures 和 Ribbit Capital 领投，Sarah Guo 的 Conviction Partners 参投。<br/><br/><a href="https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>我们正在开源隐私代理命令行工具</title>
 <link>https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/</link>
@@ -62,6 +142,14 @@
 <pubDate>Mon, 27 Jul 2026 00:19:14 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】别再依赖YouTube视频——前沿的物理AI模型需要多角度摄像头、密集标注，以及不久的将来，脑电波数据。<br/><br/><a href="https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GH-ESD：面向实例级视觉任务的基于假设驱动的错误切片发现方法</title>
+<link>https://machinelearning.apple.com/research/gh-esd</link>
+<guid isPermaLink="false">gh-esd</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】视觉模型在语义连贯子集上的系统性失败（即错误切片）揭示了其在鲁棒性和评估方面的局限性。现有的切片发现方法主要将切片建模为表示空间中的聚类或预定义属性的组合。虽然这些方法在图像级分类任务中有效，但对于目标检测和分割等实例级任务而言，此类公式化方法并不充分——因为在这些任务中，失败往往源于上下文关系及空间定位的视觉模式。我们提出GH-ESD（基于假设驱动的错误切片发现方法），一种……<br/><br/><a href="https://machinelearning.apple.com/research/gh-esd">阅读原文</a>]]></description>
 </item>
 <item>
 <title>解读对中国人工智能的恐慌</title>
@@ -248,14 +336,6 @@
 <description><![CDATA[【marktechpost.com】Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent systems. The post Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown</title>
-<link>https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81304</guid>
-<pubDate>Sat, 25 Jul 2026 04:42:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, and which one fits your use case. The post Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else</title>
 <link>https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3144285</guid>
@@ -344,36 +424,12 @@
 <description><![CDATA[【techcrunch.com】The AI lab Midjourney continues to expand its purview beyond image and video generation.<br/><br/><a href="https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street</title>
-<link>https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3146448</guid>
-<pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]<br/><br/><a href="https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI firms want more data centers; Trump's EPA may give neighbors less say</title>
 <link>https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</guid>
 <pubDate>Fri, 24 Jul 2026 13:49:38 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Rule would allow states to decide how much—if any—public input there can be.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI’s new voice mode makes it to the ChatGPT desktop app</title>
-<link>https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146199</guid>
-<pubDate>Fri, 24 Jul 2026 13:36:42 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.<br/><br/><a href="https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI护栏如何阻碍进攻性网络安全研究人员的工作</title>
-<link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145932</guid>
-<pubDate>Fri, 24 Jul 2026 01:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】我们与多位寻找未知漏洞并开发利用工具的网络安全研究人员进行了交流，探讨了OpenAI和Anthropic的护栏如何影响他们的工作。<br/><br/><a href="https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning</title>
@@ -384,14 +440,6 @@
 <description><![CDATA[【machinelearning.apple.com】Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on controlled algorithmic puzzles, we demonstrate that while decomposition is essential for stability, extreme decomposition creates a “no-recovery bottleneck”. We show that this bottleneck becomes critical due to highly non-uniform error distribution, where consistent errors on a few “hard” steps become irreversible. To address this, we propose Lookahead-Enhanced Atomic Decomposition (LEAD). By incorporating short-horizon future validation and aggregating…<br/><br/><a href="https://machinelearning.apple.com/research/lead-no-recovery-bottleneck">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AMD推出Helios AI机架级系统，挑战英伟达</title>
-<link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145851</guid>
-<pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】AMD正通过一款新的机架级系统挑战其芯片制造竞争对手，该系统将于今年晚些时候开始向客户发货。<br/><br/><a href="https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI 终止开关法案将允许特朗普政府下令关闭失控的AI系统</title>
 <link>https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/</guid>
@@ -400,36 +448,12 @@
 <description><![CDATA[【arstechnica.com】该法案将允许国土安全部部长决定何时应关闭某个AI系统。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic 更新 Claude 语音模式，采用更强模型</title>
-<link>https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145822</guid>
-<pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Claude 的新语音模型将让你能够重新安排会议或起草邮件。<br/><br/><a href="https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>引入缓存响应规则</title>
 <link>https://blog.cloudflare.com/introducing-cache-response-rules/</link>
 <guid isPermaLink="false">01KY05J6W4B4TF7X9348W51RWP</guid>
 <pubDate>Thu, 23 Jul 2026 18:40:38 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】您可能遇到过这样的情况：某些本应从缓存中快速响应的内容，却因源站难以修改的Set-Cookie或Cache-Control标头而被拖回源站处理。缓存响应规则正是针对此问题的解决方案，可在适当时机应用。<br/><br/><a href="https://blog.cloudflare.com/introducing-cache-response-rules/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AegisAI 由前谷歌安全高管创立，获3600万美元融资以阻止AI驱动的鱼叉式钓鱼攻击</title>
-<link>https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145881</guid>
-<pubDate>Thu, 23 Jul 2026 18:38:34 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】AegisAI 的联合创始人开发了AI代理，能够像人类一样快速分析每条消息，关注即使最详尽的检查清单也无法捕捉到的细微异常。<br/><br/><a href="https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Runway推出AI模型路由器，生成式媒体领域竞争加剧</title>
-<link>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3145764</guid>
-<pubDate>Thu, 23 Jul 2026 17:07:35 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Runway不再满足于仅作为一家AI模型公司，而是希望成为生成式媒体的基础设施层。本周四，这家初创公司通过其本月早些时候发布的开发者平台Runway Dev，推出了Runway Media Router。该平台为不断增加的第三方图像、视频和音频模型提供API访问接口……<br/><br/><a href="https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌因巨额AI支出首次出现季度负现金流</title>
@@ -462,30 +486,6 @@
 <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nunchaku-diffusers">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT 推出健康功能</title>
-<link>https://openai.com/index/health-in-chatgpt</link>
-<guid isPermaLink="false">https://openai.com/index/health-in-chatgpt</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】ChatGPT 的健康功能现已允许符合条件的美国用户安全连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解自身健康状况。<br/><br/><a href="https://openai.com/index/health-in-chatgpt">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Copilot 与原始 API 访问：你实际上在为什么付费？</title>
-<link>https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/</link>
-<guid isPermaLink="false">https://github.blog/?p=97686</guid>
-<pubDate>Wed, 22 Jul 2026 19:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Copilot 现在按公布的 API 费率计费。比较直接模型访问与围绕它的编码工作流、策略和工具链。这篇文章《Copilot vs. raw API access: What are you actually paying for?》最初出现在 GitHub 博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>现代汽车称人形机器人计划并非与罢工工人谈判内容</title>
-<link>https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/</guid>
-<pubDate>Wed, 22 Jul 2026 18:18:12 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】工会此前警告汽车制造商，任何机器人部署都必须经过协商。<br/><br/><a href="https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

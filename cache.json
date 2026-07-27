@@ -4630,5 +4630,49 @@
 "https://the-decoder.com/?p=38264": {
 "t": "METR 推出新指标，精确计算AI代理何时比人类更昂贵",
 "s": "METR 的新指标“支出视界”为AI代理解决问题的成本效益设定了美元数值。在NanoGPT速度赛中的早期结果并不理想，该指标存在盲点，而新一代模型可能改变这一局面。文章《METR introduces a new metric to calculate exactly when AI agents become more expensive than humans》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3146990": {
+"t": "OpenAI的Hugging Face漏洞重新引发了对对齐与控制的争论",
+"s": "OpenAI的Hugging Face漏洞重新引发了关于AI对齐与控制的辩论，暴露了在日益强大的AI是否应更好地对齐、更好地控制，或两者兼而有之的问题上的对立观点。"
+},
+"https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/": {
+"t": "ChatGPT开始阻止直接请求复制作者风格的行为",
+"s": "捕捉作者“广泛特质”的新行为可能带来法律影响。"
+},
+"https://techcrunch.com/?p=3146923": {
+"t": "Threads用户现可在私信中与Meta AI聊天",
+"s": "Meta周一宣布，正在Threads的私信功能中推出其Meta AI聊天机器人，让用户能够与这一AI助手进行对话。"
+},
+"https://www.marktechpost.com/?p=81383": {
+"t": "Perplexity 发布 pplx：一款将搜索 API 置于终端供编码代理使用的单一二进制 CLI 工具",
+"s": "Perplexity 已发布 pplx，这是其搜索 API 的官方命令行客户端。该工具提供两个命令——pplx search web 和 pplx content fetch——并在标准输出中返回一个 JSON 对象。它以经过校验和验证的单一二进制形式提供，适用于 macOS arm64 和 Linux，同时附带一个适用于 Claude Code、Codex CLI 及任何能读取 URL 的框架的 Agent Skill。原文《Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents》首发于 MarkTechPost。"
+},
+"https://github.blog/?p=97758": {
+"t": "GitHub Copilot 应用初学者指南：入门",
+"s": "刚接触 GitHub Copilot 应用？了解如何启动项目、与 AI 代理协作、探索画布，并简化你的开发工作流程。该文章《GitHub Copilot 应用初学者指南：入门》最初发布于 GitHub 博客。"
+},
+"https://techcrunch.com/?p=3146884": {
+"t": "谷歌AI搜索正迅速成为默认选项，新数据显示",
+"s": "谷歌的AI概览现在出现在43%的搜索中，凸显了AI生成的答案正迅速成为人们在线获取信息的默认方式。"
+},
+"https://techcrunch.com/?p=3146499": {
+"t": "为你的AI基础设施赋能！TechCrunch Disrupt 2026智能系统舞台议程初探",
+"s": "在TechCrunch Disrupt 2026上，智能系统舞台将成为能源、基础设施与技术的交汇点，涵盖从聚变突破到AI给整个经济带来的电网压力等方方面面。"
+},
+"https://techcrunch.com/?p=3146148": {
+"t": "这款9美元的钥匙能物理锁定你最上瘾的应用",
+"s": "这款9美元的NFC钥匙需要你实际扫描它，才能解锁手机上那些令人分心的应用。"
+},
+"https://techcrunch.com/?p=3146871": {
+"t": "伊利亚·苏茨克维的“安全超级智能”与英伟达合作，扩大其AI研究规模",
+"s": "经过两年的隐秘运营后，“安全超级智能”宣布与英伟达建立长期合作伙伴关系，为其下一阶段的规模化发展做准备。"
+},
+"https://techcrunch.com/?p=3146811": {
+"t": "Enigma 获 7100 万美元融资，让操控机器人像调节音量一样简单",
+"s": "本轮巨额种子轮融资由 Index Ventures 和 Ribbit Capital 领投，Sarah Guo 的 Conviction Partners 参投。"
+},
+"gh-esd": {
+"t": "GH-ESD：面向实例级视觉任务的基于假设驱动的错误切片发现方法",
+"s": "视觉模型在语义连贯子集上的系统性失败（即错误切片）揭示了其在鲁棒性和评估方面的局限性。现有的切片发现方法主要将切片建模为表示空间中的聚类或预定义属性的组合。虽然这些方法在图像级分类任务中有效，但对于目标检测和分割等实例级任务而言，此类公式化方法并不充分——因为在这些任务中，失败往往源于上下文关系及空间定位的视觉模式。我们提出GH-ESD（基于假设驱动的错误切片发现方法），一种……"
 }
 }
