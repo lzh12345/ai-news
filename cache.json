@@ -4742,5 +4742,25 @@
 "https://www.marktechpost.com/?p=81398": {
 "t": "使用PrismML llama.cpp和OpenAI兼容的本地推理工作流部署1位Bonsai-27B模型",
 "s": "在本教程中，我们使用PrismML分支的llama.cpp部署1位Bonsai-27B语言模型，该分支提供了解码模型Q1_0_g128 GGUF量化格式所需的专用CUDA内核。本文《Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3147263": {
+"t": "递归超级智能与亚马逊签署4.1亿美元计算协议",
+"s": "递归公司此次4亿美元的支出占其迄今为止融资总额的大部分。"
+},
+"https://the-decoder.com/?p=38302": {
+"t": "台湾在扩大对中国芯片走私调查中拘留一名英伟达员工",
+"s": "据彭博社和路透社报道，台湾检方已拘留一名英伟达员工，该员工涉嫌非法向中国出口超微AI服务器。文章《台湾在扩大对中国芯片走私调查中拘留一名英伟达员工》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38300": {
+"t": "英伟达投资伊利亚·苏茨克沃的AI实验室，推动SSI摆脱谷歌芯片依赖",
+"s": "英伟达正向其所谓的“巨额”资金注入由OpenAI前首席科学家伊利亚·苏茨克沃领导的AI实验室Safe Superintelligence（SSI）。这篇题为《英伟达投资伊利亚·苏茨克沃的AI实验室，推动SSI摆脱谷歌芯片依赖》的文章首发于The Decoder。"
+},
+"01KYJZQZHMFNYN2EGYDF73J99A": {
+"t": "自然灾害与政府干预：2026年第二季度重大互联网中断事件分析",
+"s": "Cloudflare Radar追踪了上一季度由自然灾害、政府强制关闭及DNSSEC密钥轮换引发的互联网中断事件。本文通过分析流量遥测数据，阐释了这些事件如何影响全球网络连接。"
+},
+"https://the-decoder.com/?p=38295": {
+"t": "Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令",
+"s": "Anthropic CEO Dario Amodei再次警告开源AI模型的风险，同时坚称自己从未呼吁过禁令。他认为像中国这样的威权国家可能超越美国，且开源模型可能被滥用于生物或网络攻击。批评者称他主要是在试图保护自己的业务免受更廉价竞争对手的冲击。本文《Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令》最初发表于The Decoder。"
 }
 }
