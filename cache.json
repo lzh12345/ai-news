@@ -4762,5 +4762,33 @@
 "https://the-decoder.com/?p=38295": {
 "t": "Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令",
 "s": "Anthropic CEO Dario Amodei再次警告开源AI模型的风险，同时坚称自己从未呼吁过禁令。他认为像中国这样的威权国家可能超越美国，且开源模型可能被滥用于生物或网络攻击。批评者称他主要是在试图保护自己的业务免受更廉价竞争对手的冲击。本文《Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令》最初发表于The Decoder。"
+},
+"https://openai.com/index/scientific-computing-agentic-ai": {
+"t": "智能体AI时代的科学计算",
+"s": "一份新的领域报告展示了科学家如何利用AI编码代理来现代化科学计算，加速基因组学及其他领域的软件开发和发现。"
+},
+"https://huggingface.co/blog/allenai/olmoearth-infrastructure": {
+"t": "OlmoEarth平台：实现行星尺度的地理空间推理",
+"s": ""
+},
+"https://the-decoder.com/?p=38306": {
+"t": "亚马逊据报缩减Nova AI模型规模，押注新前沿研究团队",
+"s": "亚马逊正在缩减其大部分自研Nova AI模型，包括Nova Premier、Omni、Reel和Canvas。这些模型对现有客户保持“维持运营”模式，但不再积极开发。相反，亚马逊正押注于一个新的前沿模型研究团队，以及一款计划在今年秋季re:Invent大会上首次亮相的新基础模型。本文《亚马逊据报缩减Nova AI模型规模，押注新前沿研究团队》最初发表于The Decoder。"
+},
+"https://github.blog/?p=97755": {
+"t": "阻断针对 npm 和 GitHub Actions 的供应链攻击",
+"s": "探索我们在过去几个月对 npm 和 GitHub Actions 所做的变更，以阻断供应链攻击技术并限制其影响。本文《阻断针对 npm 和 GitHub Actions 的供应链攻击》最初发布于 GitHub 博客。"
+},
+"https://techcrunch.com/?p=3147357": {
+"t": "美国最大电网数据中心或面临临时断电以防停电风险",
+"s": "这一决定出台之际，数据中心建设的迅猛速度正迫使电网运营商争相发电。"
+},
+"https://huggingface.co/blog/LiquidAI/lfm2-5-encoders": {
+"t": "用于CPU上快速长上下文推理的LFM2.5编码器",
+"s": "(无)"
+},
+"https://techcrunch.com/?p=3146881": {
+"t": "Fish Audio 获5200万美元种子轮融资，为创作者和企业打造AI语音模型",
+"s": "自去年上线以来，这家初创公司如今已有超过800万人使用其开源或托管版本的模型，目前年经常性收入达2100万美元。"
 }
 }
