@@ -4734,5 +4734,13 @@
 "https://techcrunch.com/?p=3146880": {
 "t": "Cursor 在 SpaceX 收购前推出本地化定价，加大印度市场布局",
 "s": "Cursor 表示印度目前是其全球第三大市场，并计划扩大本地招聘和企业销售。"
+},
+"https://www.marktechpost.com/?p=81401": {
+"t": "微软AI发布MAI-Cyber-1-Flash：一款5B活跃参数的网络安全模型，将MDASH在CyberGym上的表现提升至95.95%",
+"s": "微软AI发布了MAI-Cyber-1-Flash，这是其首款专为网络防御构建的模型。该模型总参数量为137B，活跃参数为5B，是基于MAI-Code-1-Flash的稀疏MoE微调版本，支持256k上下文窗口。该模型并非作为独立端点提供，而是运行在微软的多模型代理扫描框架MDASH中，在其中处理高达90%的任务，并将系统在CyberGym上的表现提升至95.95%。本文《微软AI发布MAI-Cyber-1-Flash：一款5B活跃参数的网络安全模型，将MDASH在CyberGym上的表现提升至95.95%》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81398": {
+"t": "使用PrismML llama.cpp和OpenAI兼容的本地推理工作流部署1位Bonsai-27B模型",
+"s": "在本教程中，我们使用PrismML分支的llama.cpp部署1位Bonsai-27B语言模型，该分支提供了解码模型Q1_0_g128 GGUF量化格式所需的专用CUDA内核。本文《Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows》最初发表于MarkTechPost。"
 }
 }
