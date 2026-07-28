@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80513": {
-"t": "Claude Code 指南 2026：25 项功能详解及示例 + 演示",
-"s": "Claude Code 是一款分层式智能编码工具，而非单一聊天提示。本指南详细解析了 25 项功能，涵盖 CLAUDE.md、技能、子代理、钩子、MCP 及自动模式等。文中包含对比表格、可运行代码示例、实际应用案例，以及可供尝试的交互式演示。该文章《Claude Code Guide 2026: 25 Features with Examples + Demo》首发于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80510": {
-"t": "FineWeb实战教程：流式处理、过滤、去重、分词及大规模网络语料分析",
-"s": "在本教程中，我们通过一个高级实战工作流探索FineWeb数据集。我们无需下载整个数TB的语料库，即可流式获取数据集的可管理样本，检查其模式与元数据，并分析URL、语言、语言评分及词元计数等关键字段。我们还复现了FineWeb质量过滤管道的简化版本，并应用了……该文章《A Coding Hands-On on FineWeb for Streaming, Filtering, Deduplication, Tokenization, and Large-Scale Web Corpus Analytics》最初发表于MarkTechPost。"
-},
-"https://openai.com/index/introducing-openai-partner-network": {
-"t": "OpenAI合作伙伴网络正式推出",
-"s": "OpenAI推出合作伙伴网络，投资1.5亿美元助力全球合作伙伴加速企业级AI的采用、部署与转型。"
-},
 "https://techcrunch.com/?p=3132739": {
 "t": "AI公司竞相上市，谁将一同搭上这趟快车？",
 "s": "初创企业正试图“搭乘SpaceX的IPO浪潮”。"
@@ -4790,5 +4778,25 @@
 "https://techcrunch.com/?p=3146881": {
 "t": "Fish Audio 获5200万美元种子轮融资，为创作者和企业打造AI语音模型",
 "s": "自去年上线以来，这家初创公司如今已有超过800万人使用其开源或托管版本的模型，目前年经常性收入达2100万美元。"
+},
+"https://techcrunch.com/?p=3147500": {
+"t": "MCP初创公司Runlayer指控Rippling窃取其产品创意",
+"s": "Runlayer正在起诉Rippling，原因是Rippling在评估了该初创公司的MCP网关产品后，决定自行开发类似产品。"
+},
+"https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/": {
+"t": "尽管AI热潮汹涌，谷歌数据显示员工并未被自动化取代",
+"s": "对1500万次真实AI交互的分析发现，大多数岗位上的大部分任务并未受到影响。"
+},
+"https://techcrunch.com/?p=3147554": {
+"t": "山姆·奥特曼准备减速",
+"s": "他的立场转变发生在“我切身感受到的第一次安全事件”之后。"
+},
+"https://the-decoder.com/?p=38311": {
+"t": "Anthropic称其Mythos模型发现互联网安全加密算法中的漏洞",
+"s": "Anthropic的Claude Mythos Preview在关键加密算法中发现了弱点，包括对HAWK（一种后量子签名方案，人类专家已审查超过两年）提出了更优的攻击方法。该模型仅用60小时、约10万美元的API成本就完成了这一发现。Anthropic表示，这些发现目前不影响现有系统，但展示了AI如何挑战互联网安全的核心假设。本文《Anthropic称其Mythos模型发现互联网安全加密算法中的漏洞》最初发表于The Decoder。"
+},
+"https://huggingface.co/blog/agent-intrusion-technical-timeline": {
+"t": "前沿实验室智能体入侵剖析：2026年7月事件的技术时间线",
+"s": "(无)"
 }
 }
