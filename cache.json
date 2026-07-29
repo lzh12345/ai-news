@@ -1,28 +1,4 @@
 {
-"https://techcrunch.com/?p=3132739": {
-"t": "AI公司竞相上市，谁将一同搭上这趟快车？",
-"s": "初创企业正试图“搭乘SpaceX的IPO浪潮”。"
-},
-"https://garymarcus.substack.com/p/what-washington-must-do": {
-"t": "华盛顿必须做什么",
-"s": "“唯一的出路是坚持到底”"
-},
-"https://the-decoder.com/?p=36637": {
-"t": "微软研究院的Mirage为视频生成赋予持久空间记忆，不会遗忘角落场景",
-"s": "Mirage是微软研究院与多所大学合作开发的视频世界模型，它将场景信息直接存储在潜在空间中，而非基于像素的点云。这大幅削减了计算时间和图形内存，同时能在长镜头移动中保持场景空间一致性。不过，它仍无法可靠地跨片段追踪移动物体。本文《微软研究院的Mirage为视频生成赋予持久空间记忆，不会遗忘角落场景》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36634": {
-"t": "Google Cloud 的开放知识格式将分散文档转化为供AI代理使用的Markdown文件",
-"s": "Google Cloud 新推出的开放知识格式（OKF）将分散的组织知识标准化为带有YAML前置元数据的Markdown文件，使其具备可移植性并可供AI代理使用。这一极简规范将安德烈·卡帕西（Andrej Karpathy）近期推广的“LLM Wiki”模式正式化。本文《Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36629": {
-"t": "毕马威在旨在向客户推销AI应用的报告中编造AI案例研究",
-"s": "毕马威发布了一份关于企业AI应用的报告，其中包含涉及瑞银、英国国家医疗服务体系及其他组织的虚构案例研究。GPTZero首席执行官爱德华·田协助发现了这些错误，他警告称存在“二次幻觉”，即来自受信任咨询公司的错误主张未经核查便广泛传播。毕马威已撤回该报告。本文《毕马威在旨在向客户推销AI应用的报告中编造AI案例研究》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36619": {
-"t": "研究显示AI编程代理能找到正确文件，但会遗漏关键代码行",
-"s": "像Claude Code或Codex这样的AI编程代理能可靠地找到正确文件，但会遗漏其中大部分关键代码行。新的SWE-Explore基准测试首次将代码搜索与实际修复分开评估，结果显示，若缺乏足够上下文，即使最佳修复方案也会失败。本文《AI coding agents find the right file but miss the exact lines that matter, study shows》最初发表于The Decoder。"
-},
 "https://the-decoder.com/?p=36615": {
 "t": "亚马逊等五家公司据报引发政府对Anthropic的Fable模型采取打压行动",
 "s": "据报道，亚马逊CEO安迪·贾西及其他科技公司高管向特朗普政府警告了Anthropic的Fable模型存在安全漏洞，尽管亚马逊是Anthropic最大的投资者之一。数小时内，白宫通过一项出口管制令迫使该模型下线。此举很可能是一项合法的安全政策决定，但也可解读为对一家不便合作的公司展示强硬姿态。本文《亚马逊等五家公司据报引发政府对Anthropic的Fable模型采取打压行动》最初发表于The Decoder。"
@@ -4798,5 +4774,29 @@
 "https://huggingface.co/blog/agent-intrusion-technical-timeline": {
 "t": "前沿实验室智能体入侵剖析：2026年7月事件的技术时间线",
 "s": "(无)"
+},
+"https://techcrunch.com/?p=3147673": {
+"t": "Cyera 同意以10亿美元收购Oasis Security，以保护日益增多的AI代理",
+"s": "这笔交易是Cyera今年的第三次收购。"
+},
+"https://www.marktechpost.com/?p=81410": {
+"t": "利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流",
+"s": "在本教程中，我们将Kimi CLI配置并操作为一个完全非交互式的AI编码代理。我们通过uv在隔离的Python 3.13环境中安装CLI，通过基于TOML的提供者和模型定义配置Moonshot API认证，并构建一个可重用的Python封装器来执行非交互式CLI命令。然后，我们将Kimi应用于……本文《利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81406": {
+"t": "Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型",
+"s": "Fireworks AI 发布了 Fireworks Nexus，这是一个面向工程组织的 AI 管理与路由平台。它将开发者已使用的编码工具连接到一个由开源权重模型管理的层。该平台旨在解决一个广为人知的问题：据《福布斯》报道，Uber 在四个月内就耗尽了其整个 2026 年的 AI 预算。而 Claude Code 此前也已达到……本文《Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型》首发于 MarkTechPost。"
+},
+"https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/": {
+"t": "我们现在更清楚地了解了OpenAI是如何入侵Hugging Face的",
+"s": "从OpenAI模型利用JFrog Artifactory零日漏洞到补丁发布，过去了10天。"
+},
+"https://techcrunch.com/?p=3147594": {
+"t": "机器人检测初创公司Spur从Insight获得2亿美元融资",
+"s": "Spur Intelligence从Insight Partners处获得2亿美元融资，用于其能够区分真实人类流量与机器人的技术。"
+},
+"audio-synthesis-diffusion-transformers": {
+"t": "利用解耦时间深度扩散Transformer实现内存高效的音频合成",
+"s": "Siri情感语音通过AFM 3 Core Advanced（苹果最强大的设备端基础模型）在设备上实时合成丰富、可配置的语音。本文介绍了该功能背后的内存高效音频合成架构：一种解标记器，能够在Apple矩阵协处理器（AMX）严格的计算和内存预算内，将基础模型生成的语义音频标记转换为高保真音频。我们通过三组件设计将语义音频标记转换为残差向量量化（RVQ）表示——包括流式处理……"
 }
 }

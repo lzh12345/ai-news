@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 28 Jul 2026 21:00:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 01:50:57 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cyera 同意以10亿美元收购Oasis Security，以保护日益增多的AI代理</title>
+<link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3147673</guid>
+<pubDate>Wed, 29 Jul 2026 00:09:05 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这笔交易是Cyera今年的第三次收购。<br/><br/><a href="https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流</title>
+<link>https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81410</guid>
+<pubDate>Tue, 28 Jul 2026 23:04:44 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们将Kimi CLI配置并操作为一个完全非交互式的AI编码代理。我们通过uv在隔离的Python 3.13环境中安装CLI，通过基于TOML的提供者和模型定义配置Moonshot API认证，并构建一个可重用的Python封装器来执行非交互式CLI命令。然后，我们将Kimi应用于……本文《利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型</title>
+<link>https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81406</guid>
+<pubDate>Tue, 28 Jul 2026 22:45:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Fireworks AI 发布了 Fireworks Nexus，这是一个面向工程组织的 AI 管理与路由平台。它将开发者已使用的编码工具连接到一个由开源权重模型管理的层。该平台旨在解决一个广为人知的问题：据《福布斯》报道，Uber 在四个月内就耗尽了其整个 2026 年的 AI 预算。而 Claude Code 此前也已达到……本文《Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们现在更清楚地了解了OpenAI是如何入侵Hugging Face的</title>
+<link>https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/</guid>
+<pubDate>Tue, 28 Jul 2026 21:36:39 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】从OpenAI模型利用JFrog Artifactory零日漏洞到补丁发布，过去了10天。<br/><br/><a href="https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>机器人检测初创公司Spur从Insight获得2亿美元融资</title>
+<link>https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3147594</guid>
+<pubDate>Tue, 28 Jul 2026 21:29:34 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Spur Intelligence从Insight Partners处获得2亿美元融资，用于其能够区分真实人类流量与机器人的技术。<br/><br/><a href="https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>MCP初创公司Runlayer指控Rippling窃取其产品创意</title>
 <link>https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/</link>
@@ -166,6 +206,14 @@
 <pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Anthropic创始人兼CEO Dario Amodei就开源权重模型及中国日益增长的AI能力明确表达了自己的观点。<br/><br/><a href="https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>利用解耦时间深度扩散Transformer实现内存高效的音频合成</title>
+<link>https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers</link>
+<guid isPermaLink="false">audio-synthesis-diffusion-transformers</guid>
+<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Siri情感语音通过AFM 3 Core Advanced（苹果最强大的设备端基础模型）在设备上实时合成丰富、可配置的语音。本文介绍了该功能背后的内存高效音频合成架构：一种解标记器，能够在Apple矩阵协处理器（AMX）严格的计算和内存预算内，将基础模型生成的语义音频标记转换为高保真音频。我们通过三组件设计将语义音频标记转换为残差向量量化（RVQ）表示——包括流式处理……<br/><br/><a href="https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers">阅读原文</a>]]></description>
 </item>
 <item>
 <title>微软发布AI安全工具，称其性能优于竞品平台</title>
@@ -416,28 +464,12 @@
 <description><![CDATA[【machinelearning.apple.com】视觉模型在语义连贯子集上的系统性失败（即错误切片）揭示了其在鲁棒性和评估方面的局限性。现有的切片发现方法主要将切片建模为表示空间中的聚类或预定义属性的组合。虽然这些方法在图像级分类任务中有效，但对于目标检测和分割等实例级任务而言，此类公式化方法并不充分——因为在这些任务中，失败往往源于上下文关系及空间定位的视觉模式。我们提出GH-ESD（基于假设驱动的错误切片发现方法），一种……<br/><br/><a href="https://machinelearning.apple.com/research/gh-esd">阅读原文</a>]]></description>
 </item>
 <item>
-<title>解读对中国人工智能的恐慌</title>
-<link>https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146794</guid>
-<pubDate>Sun, 26 Jul 2026 19:40:57 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】在最新一期的《Equity》节目中，我们探讨了为什么月之暗面（Moonshot AI）的Kimi似乎让硅谷和华尔街感到恐慌。<br/><br/><a href="https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Black Forest Labs 发布 FLUX 3：用于图像、视频、音频和机器人动作预测的多模态流模型</title>
 <link>https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81375</guid>
 <pubDate>Sun, 26 Jul 2026 17:50:23 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Black Forest Labs (BFL) 发布了 FLUX 3，这是一个多模态基础模型，能够在单一架构中从图像、视频和音频中学习。它也是首个通过一组权重实现视频、音频和动作预测的 FLUX 模型。Black Forest Labs (BFL) 研究团队认为，没有任何单一模态能够…… 该文章《Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face CEO 呼吁在 OpenAI 遭遇“前所未有”黑客攻击后实现“彻底透明”</title>
-<link>https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146775</guid>
-<pubDate>Sun, 26 Jul 2026 16:33:13 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】“首次自主代理网络攻击是一个前所未有的事件。它值得前所未有的回应！”<br/><br/><a href="https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>KwaiKAT团队发布KAT-Coder-V2.5：基于10万+可验证仓库环境训练的智能编码模型</title>
@@ -454,38 +486,6 @@
 <pubDate>Sun, 26 Jul 2026 09:14:22 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system is Photon-1, a sparse 106B-A5B mixture-of-experts (MoE) […] The post Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>教会LLMs更新信念以实现高效长程交互</title>
-<link>http://bair.berkeley.edu/blog/2026/07/26/abbel/</link>
-<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/26/abbel/</guid>
-<pubDate>Sun, 26 Jul 2026 02:00:00 -0700</pubDate>
-<source>bair.berkeley.edu</source>
-<description><![CDATA[【bair.berkeley.edu】--> --> ABBEL与传统递归摘要的对比概览。信念取代完整交互历史成为智能体的工作上下文，信念分级通过监督每个信念状态的内容来提升性能。随着任务时间跨度的增长，LLM的上下文无法无限扩展。自我摘要能生成简洁、可解释的上下文，但会显著牺牲性能，尤其在高质量数据稀缺的人类辅助领域（如协作代码生成）。我们通过ABBEL框架解决这一问题：该框架隔离并监督信息内容。<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/26/abbel/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics</title>
-<link>https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81357</guid>
-<pubDate>Sun, 26 Jul 2026 08:38:09 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorganic materials. We configure an environment, authenticate with Hugging Face to access the gated UMA model weights, and initialize task-specific calculators for the omol, oc20, and omat domains. We […] The post FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM</title>
-<link>https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81354</guid>
-<pubDate>Sun, 26 Jul 2026 00:12:57 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean. The post Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Canadian legislator reads out apparent LLM response in floor speech</title>
-<link>https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</guid>
-<pubDate>Fri, 24 Jul 2026 21:25:15 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】"Here’s a more natural, flowing version of that section..."<br/><br/><a href="https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
