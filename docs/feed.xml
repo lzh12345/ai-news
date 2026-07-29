@@ -5,15 +5,71 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 29 Jul 2026 10:31:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 13:49:57 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Liquid AI 发布 LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M：在 CPU 上 8K 上下文下仍保持快速的双向编码器</title>
-<link>https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81415</guid>
-<pubDate>Wed, 29 Jul 2026 09:38:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI 发布了两个开源权重双向编码器，LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M。两者均支持 8,192 个 token 的上下文，并基于 LFM2 混合骨干架构构建。其中 350M 版本在包含 17 项任务的 GLUE、SuperGLUE 和多语言套件中排名第四（共 14 个模型），仅次于更大的模型。230M 版本在 CPU 上完成一次 8K token 前向传播约需 28 秒。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/">阅读原文</a>]]></description>
+<title>Deepmind解散AlphaFold团队，核心作者转投Anthropic</title>
+<link>https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38331</guid>
+<pubDate>Wed, 29 Jul 2026 13:47:11 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】AlphaFold背后的多数研究人员现已转向其他项目，近四分之一已完全离开Google Deepmind。此次重组标志着该实验室背离了其成名战略的重大转变。文章《Deepmind dismantles its AlphaFold team as key authors leave for Anthropic》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>当AI被用于破译失传语言时会发生什么？</title>
+<link>https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/</link>
+<guid isPermaLink="false">https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/</guid>
+<pubDate>Wed, 29 Jul 2026 13:23:31 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】AI在识别模式方面表现出色，但人类的洞察力才是关键。<br/><br/><a href="https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>现已支持对源站进行后量子身份验证</title>
+<link>https://blog.cloudflare.com/post-quantum-authentication-to-origins/</link>
+<guid isPermaLink="false">01KYMH71B35NXQ00E0M2D0WMQV</guid>
+<pubDate>Wed, 29 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare 现已支持通过认证源站拉取和自定义源站信任存储连接到客户源站服务器时，采用后量子（PQ）身份验证。这是为所有 Cloudflare 产品提供 PQ 身份验证的第一步。<br/><br/><a href="https://blog.cloudflare.com/post-quantum-authentication-to-origins/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT Transcribe 相比前代有所改进，但在错误率上仍不及 ElevenLabs、Google 或 Mistral</title>
+<link>https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38326</guid>
+<pubDate>Wed, 29 Jul 2026 12:45:33 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI 发布了 GPT Transcribe 和 GPT Live Transcribe 两款新的语音识别模型，可通过其 API 使用。文章《GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>前沿AI开发者呼吁国际协调，在能力超越控制之前为自动化研究设定节奏</title>
+<link>https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38322</guid>
+<pubDate>Wed, 29 Jul 2026 12:13:16 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在一份联合声明中，来自领先AI实验室的员工呼吁美国政府推动国际协调。他们的论点很简单：没有哪家公司或国家能独自减缓发展速度。本文《前沿AI开发者呼吁国际协调，在能力超越控制之前为自动化研究设定节奏》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI 开源 Codex Security CLI，帮助开发者从命令行发现并修复漏洞</title>
+<link>https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38319</guid>
+<pubDate>Wed, 29 Jul 2026 11:50:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI 发布了 Codex Security CLI，这是一款开源工具，可自动检测并修复代码仓库中的漏洞。据OpenAI称，该系统此前内部代号为“Aardvark”，已帮助修复了超过3000个关键安全缺陷。它直接与Anthropic的Claude Security竞争，两家AI公司正竞相以AI驱动的防御手段应对日益自动化的网络攻击。本文《OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌SynthID水印难以破解，但无法解决AI虚假信息问题</title>
+<link>https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/</guid>
+<pubDate>Wed, 29 Jul 2026 11:00:39 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】未来在互联网上辨别真伪将变得不易。<br/><br/><a href="https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI内容充斥互联网，Pangram获900万美元用于检测</title>
+<link>https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3147680</guid>
+<pubDate>Wed, 29 Jul 2026 11:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Pangram已筹集900万美元，用于扩大其AI检测软件的规模。该初创公司还发布了新的AI文本检测模型Pangram 4，以及处于研究预览阶段的AI图像检测模型。<br/><br/><a href="https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Cyera 同意以10亿美元收购Oasis Security，以保护日益增多的AI代理</title>
@@ -22,22 +78,6 @@
 <pubDate>Wed, 29 Jul 2026 00:09:05 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】这笔交易是Cyera今年的第三次收购。<br/><br/><a href="https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流</title>
-<link>https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81410</guid>
-<pubDate>Tue, 28 Jul 2026 23:04:44 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们将Kimi CLI配置并操作为一个完全非交互式的AI编码代理。我们通过uv在隔离的Python 3.13环境中安装CLI，通过基于TOML的提供者和模型定义配置Moonshot API认证，并构建一个可重用的Python封装器来执行非交互式CLI命令。然后，我们将Kimi应用于……本文《利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型</title>
-<link>https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81406</guid>
-<pubDate>Tue, 28 Jul 2026 22:45:56 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Fireworks AI 发布了 Fireworks Nexus，这是一个面向工程组织的 AI 管理与路由平台。它将开发者已使用的编码工具连接到一个由开源权重模型管理的层。该平台旨在解决一个广为人知的问题：据《福布斯》报道，Uber 在四个月内就耗尽了其整个 2026 年的 AI 预算。而 Claude Code 此前也已达到……本文《Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>我们现在更清楚地了解了OpenAI是如何入侵Hugging Face的</title>
@@ -184,22 +224,6 @@
 <description><![CDATA[【the-decoder.com】Anthropic CEO Dario Amodei再次警告开源AI模型的风险，同时坚称自己从未呼吁过禁令。他认为像中国这样的威权国家可能超越美国，且开源模型可能被滥用于生物或网络攻击。批评者称他主要是在试图保护自己的业务免受更廉价竞争对手的冲击。本文《Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>微软AI发布MAI-Cyber-1-Flash：一款5B活跃参数的网络安全模型，将MDASH在CyberGym上的表现提升至95.95%</title>
-<link>https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81401</guid>
-<pubDate>Tue, 28 Jul 2026 08:33:30 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】微软AI发布了MAI-Cyber-1-Flash，这是其首款专为网络防御构建的模型。该模型总参数量为137B，活跃参数为5B，是基于MAI-Code-1-Flash的稀疏MoE微调版本，支持256k上下文窗口。该模型并非作为独立端点提供，而是运行在微软的多模型代理扫描框架MDASH中，在其中处理高达90%的任务，并将系统在CyberGym上的表现提升至95.95%。本文《微软AI发布MAI-Cyber-1-Flash：一款5B活跃参数的网络安全模型，将MDASH在CyberGym上的表现提升至95.95%》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用PrismML llama.cpp和OpenAI兼容的本地推理工作流部署1位Bonsai-27B模型</title>
-<link>https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81398</guid>
-<pubDate>Tue, 28 Jul 2026 07:53:48 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们使用PrismML分支的llama.cpp部署1位Bonsai-27B语言模型，该分支提供了解码模型Q1_0_g128 GGUF量化格式所需的专用CUDA内核。本文《Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Cursor 在 SpaceX 收购前推出本地化定价，加大印度市场布局</title>
 <link>https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3146880</guid>
@@ -240,14 +264,6 @@
 <description><![CDATA[【techcrunch.com】纳德拉表示，那些没有自有模型，或者缺乏被称为AI网关的AI基础设施层来将自身提示与模型本身分离的公司，将面临困境。<br/><br/><a href="https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统</title>
-<link>https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81394</guid>
-<pubDate>Mon, 27 Jul 2026 20:48:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Moonshot AI的Kimi团队与kvcache-ai在MIT许可下开源了AgentENV（AENV），作为Kimi K3开放日的一部分。该系统将智能体沙箱作为Firecracker微虚拟机运行，具备毫秒级快照、恢复及16路分支功能，并通过兼容E2B的API提供支持。本文Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>PSA：你的Claude共享聊天记录和Artifacts可能已出现在谷歌上</title>
 <link>https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3147064</guid>
@@ -272,22 +288,6 @@
 <description><![CDATA[【the-decoder.com】Moonshot AI 已发布 Kimi K3 的模型权重，并将其部分基础设施开源。这款中国模型在主流基准测试中几乎与 Fable 5 和 GPT-5.6 Sol 等西方前沿模型持平，但独立测试发现其在网络安全和数学性能方面存在显著差距，可能指向蒸馏技术。本文《Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI称更多员工正用ChatGPT代劳他人工作</title>
-<link>https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38287</guid>
-<pubDate>Mon, 27 Jul 2026 19:08:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI分析了超过80万条与工作相关的ChatGPT消息，发现43.5%的特定职业查询涉及其他专业领域的任务。该公司将此现象称为“任务交叉”。这一趋势在小型企业中最为显著，用户在没有专职专家的情况下越来越多地处理专业化工作。本文《OpenAI称更多员工正用ChatGPT代劳他人工作》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>微软发布自有网络安全模型MAI-Cyber-1-Flash，但最艰巨任务仍依赖OpenAI</title>
-<link>https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38281</guid>
-<pubDate>Mon, 27 Jul 2026 18:50:07 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】微软推出MAI-Cyber-1-Flash，这是一款紧凑型安全模型，嵌入其MDASH多智能体系统后，在CyberGym基准测试中得分达96%。微软表示，与纯前沿模型相比，成本预计可降低50%，因为只有复杂案例才会交由GPT-5.4处理。在复杂推理方面，微软仍依赖OpenAI。本文《微软发布自有网络安全模型MAI-Cyber-1-Flash，但最艰巨任务仍依赖OpenAI》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Verizon 宣称与谷歌数据中心的10亿美元暗光纤交易只是开始</title>
 <link>https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/</guid>
@@ -304,28 +304,12 @@
 <description><![CDATA[【techcrunch.com】微软本周推出其首个AI安全模型及全新安全平台，进一步强化了其AI网络安全产品线。<br/><br/><a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体</title>
-<link>https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81391</guid>
-<pubDate>Mon, 27 Jul 2026 18:08:24 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Anthropic的金融服务代码库构建了一个高级工作流，并用纯Python复现了其技能驱动的架构。我们首先安装所需的库，克隆代码库，并以编程方式映射其智能体、垂直插件、合作伙伴集成、托管智能体手册和金融分析技能。接着，我们将代码库中的SKILL.md文件解析为可搜索的格式……该文章《使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>工具链才是你需要的（大部分情况下）</title>
 <link>https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/</link>
 <guid isPermaLink="false">https://github.blog/?p=97740</guid>
 <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】一个实用的GitHub Copilot工作流程，用于原型设计、规划、实现和审查软件，无需追逐每一个新的人工智能工具。本文《工具链才是你需要的（大部分情况下）》最初发布于GitHub博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>德里高等法院驳回印度主要新闻机构的版权禁令，OpenAI取得胜利</title>
-<link>https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38277</guid>
-<pubDate>Mon, 27 Jul 2026 17:55:24 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】德里高等法院在OpenAI与新闻机构ANI的版权纠纷中作出了有利于OpenAI的重大裁决。法院首次将AI训练归类为私人使用。ANI因引用模型训练后发表的文章而削弱了自身诉讼立场。主要审判仍在进行中。本文《德里高等法院驳回印度主要新闻机构的版权禁令，OpenAI取得胜利》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI的Hugging Face漏洞重新引发了对对齐与控制的争论</title>
@@ -350,14 +334,6 @@
 <pubDate>Mon, 27 Jul 2026 16:45:24 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Meta周一宣布，正在Threads的私信功能中推出其Meta AI聊天机器人，让用户能够与这一AI助手进行对话。<br/><br/><a href="https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Perplexity 发布 pplx：一款将搜索 API 置于终端供编码代理使用的单一二进制 CLI 工具</title>
-<link>https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81383</guid>
-<pubDate>Mon, 27 Jul 2026 16:32:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity 已发布 pplx，这是其搜索 API 的官方命令行客户端。该工具提供两个命令——pplx search web 和 pplx content fetch——并在标准输出中返回一个 JSON 对象。它以经过校验和验证的单一二进制形式提供，适用于 macOS arm64 和 Linux，同时附带一个适用于 Claude Code、Codex CLI 及任何能读取 URL 的框架的 Agent Skill。原文《Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GitHub Copilot 应用初学者指南：入门</title>
@@ -416,14 +392,6 @@
 <description><![CDATA[【blog.cloudflare.com】pvcli 是一款类似 curl 的工具，旨在简化 OHTTP 等复杂隐私协议的测试。<br/><br/><a href="https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>METR 推出新指标，精确计算AI代理何时比人类更昂贵</title>
-<link>https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38264</guid>
-<pubDate>Mon, 27 Jul 2026 12:28:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】METR 的新指标“支出视界”为AI代理解决问题的成本效益设定了美元数值。在NanoGPT速度赛中的早期结果并不理想，该指标存在盲点，而新一代模型可能改变这一局面。文章《METR introduces a new metric to calculate exactly when AI agents become more expensive than humans》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>艺术家起诉AI梗图生成器，将其极具个人色彩的漫画作为广告模板出售</title>
 <link>https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/</guid>
@@ -448,14 +416,6 @@
 <description><![CDATA[【openai.com】OpenAI的最新研究显示，人工智能正在扩大工作者的职责范围，ChatGPT用户跨角色承担任务，并重塑了职业边界。<br/><br/><a href="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work">阅读原文</a>]]></description>
 </item>
 <item>
-<title>脑电波会是物理AI的下一个突破口吗？</title>
-<link>https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146429</guid>
-<pubDate>Mon, 27 Jul 2026 00:19:14 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】别再依赖YouTube视频——前沿的物理AI模型需要多角度摄像头、密集标注，以及不久的将来，脑电波数据。<br/><br/><a href="https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>前沿实验室智能体入侵剖析：2026年7月事件的技术时间线</title>
 <link>https://huggingface.co/blog/agent-intrusion-technical-timeline</link>
 <guid isPermaLink="false">https://huggingface.co/blog/agent-intrusion-technical-timeline</guid>
@@ -472,20 +432,60 @@
 <description><![CDATA[【machinelearning.apple.com】视觉模型在语义连贯子集上的系统性失败（即错误切片）揭示了其在鲁棒性和评估方面的局限性。现有的切片发现方法主要将切片建模为表示空间中的聚类或预定义属性的组合。虽然这些方法在图像级分类任务中有效，但对于目标检测和分割等实例级任务而言，此类公式化方法并不充分——因为在这些任务中，失败往往源于上下文关系及空间定位的视觉模式。我们提出GH-ESD（基于假设驱动的错误切片发现方法），一种……<br/><br/><a href="https://machinelearning.apple.com/research/gh-esd">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Black Forest Labs 发布 FLUX 3：用于图像、视频、音频和机器人动作预测的多模态流模型</title>
-<link>https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81375</guid>
-<pubDate>Sun, 26 Jul 2026 17:50:23 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Black Forest Labs (BFL) 发布了 FLUX 3，这是一个多模态基础模型，能够在单一架构中从图像、视频和音频中学习。它也是首个通过一组权重实现视频、音频和动作预测的 FLUX 模型。Black Forest Labs (BFL) 研究团队认为，没有任何单一模态能够…… 该文章《Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/">阅读原文</a>]]></description>
+<title>教会LLMs更新信念以实现高效长程交互</title>
+<link>http://bair.berkeley.edu/blog/2026/07/26/abbel/</link>
+<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/26/abbel/</guid>
+<pubDate>Sun, 26 Jul 2026 02:00:00 -0700</pubDate>
+<source>bair.berkeley.edu</source>
+<description><![CDATA[【bair.berkeley.edu】--> --> ABBEL与传统递归摘要的对比概览。信念取代完整交互历史成为智能体的工作上下文，信念分级通过监督每个信念状态的内容来提升性能。随着任务时间跨度的增长，LLM的上下文无法无限扩展。自我摘要能生成简洁、可解释的上下文，但会显著牺牲性能，尤其在高质量数据稀缺的人类辅助领域（如协作代码生成）。我们通过ABBEL框架解决这一问题：该框架隔离并监督信息内容。<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/26/abbel/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>KwaiKAT团队发布KAT-Coder-V2.5：基于10万+可验证仓库环境训练的智能编码模型</title>
-<link>https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81368</guid>
-<pubDate>Sun, 26 Jul 2026 10:46:19 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】快手KwaiKAT团队发布了KAT-Coder-V2.5技术报告，指出智能编码能力的瓶颈在于训练基础设施而非模型规模。AutoBuilder将环境构建成功率从16.5%提升至57.2%，在12种编程语言中生成超过10万个可验证环境；同时沙箱审计将强化学习反馈错误率从约16%降至2%以下。本文《KwaiKAT团队发布KAT-Coder-V2.5：基于10万+可验证仓库环境训练的智能编码模型》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/">阅读原文</a>]]></description>
+<title>Canadian legislator reads out apparent LLM response in floor speech</title>
+<link>https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</guid>
+<pubDate>Fri, 24 Jul 2026 21:25:15 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】"Here’s a more natural, flowing version of that section..."<br/><br/><a href="https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic's Opus 5 is about token efficiency, not a capability leap</title>
+<link>https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/</guid>
+<pubDate>Fri, 24 Jul 2026 21:05:51 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Models are improving quickly, but the cheaper options are often good enough.<br/><br/><a href="https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Team uses AlphaFold AI to redesign gene-editing proteins to make them safer</title>
+<link>https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/</link>
+<guid isPermaLink="false">https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/</guid>
+<pubDate>Fri, 24 Jul 2026 17:31:26 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.<br/><br/><a href="https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>BGP ORIGIN attribute manipulation and its impact on the Internet</title>
+<link>https://blog.cloudflare.com/bgp-origin-attribute/</link>
+<guid isPermaLink="false">01KYAFZ0EEBE4R099P8HT79D5X</guid>
+<pubDate>Fri, 24 Jul 2026 17:25:28 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection.<br/><br/><a href="https://blog.cloudflare.com/bgp-origin-attribute/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI firms want more data centers; Trump's EPA may give neighbors less say</title>
+<link>https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</guid>
+<pubDate>Fri, 24 Jul 2026 13:49:38 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Rule would allow states to decide how much—if any—public input there can be.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning</title>
+<link>https://machinelearning.apple.com/research/lead-no-recovery-bottleneck</link>
+<guid isPermaLink="false">lead-no-recovery-bottleneck</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on controlled algorithmic puzzles, we demonstrate that while decomposition is essential for stability, extreme decomposition creates a “no-recovery bottleneck”. We show that this bottleneck becomes critical due to highly non-uniform error distribution, where consistent errors on a few “hard” steps become irreversible. To address this, we propose Lookahead-Enhanced Atomic Decomposition (LEAD). By incorporating short-horizon future validation and aggregating…<br/><br/><a href="https://machinelearning.apple.com/research/lead-no-recovery-bottleneck">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

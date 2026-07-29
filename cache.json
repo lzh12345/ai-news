@@ -1,36 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80505": {
-"t": "Databricks 开源 Omnigent：一个跨 Claude Code、Codex 和 Pi 编排、治理和共享 AI 代理的元框架",
-"s": "Databricks 已开源 Omnigent，这是一个位于 Claude Code、Codex 和 Pi 等编码代理之上的元框架。它在终端、网页、桌面和移动端通过统一界面添加了编排、上下文策略和实时会话共享功能。该项目采用 Apache 2.0 许可，目前处于 alpha 阶段。本文最初发表于 MarkTechPost。"
-},
-"https://techcrunch.com/?p=3132702": {
-"t": "Anthropic暂停新模型访问，印度热议AI未来",
-"s": "科技领袖们争论Anthropic事件是否是对印度AI雄心的警示。"
-},
-"https://techcrunch.com/?p=3132716": {
-"t": "消息称Meta应北京要求，撤销20亿美元Manus交易",
-"s": "在北京下令撤销交易后，Meta开始解除其20亿美元收购Manus的交易。"
-},
-"https://techcrunch.com/?p=3132703": {
-"t": "毕马威因明显幻觉问题撤回AI使用报告",
-"s": "AI再次证明，它并非关于AI的可靠信息来源。"
-},
-"https://techcrunch.com/?p=3132688": {
-"t": "据报道，亚马逊CEO在政府打击前曾对Anthropic模型提出担忧",
-"s": "亚马逊CEO安迪·贾西可能是导致Anthropic于周五在全球范围内切断两个模型访问权限的安全担忧的源头。"
-},
-"https://www.marktechpost.com/?p=80502": {
-"t": "如何构建具备自定义技能、模型提供商、控制台访问和流式API测试的QwenPaw智能体工作空间",
-"s": "在本教程中，我们实现了一个QwenPaw工作流，为构建和测试智能体驱动的助手提供了实用环境。我们安装并初始化QwenPaw，配置其工作目录，设置身份验证，通过Colab密钥连接可选的模型提供商，并创建包含自定义技能和本地知识文件的结构化工作空间。我们还启动了……该文章《如何构建具备自定义技能、模型提供商、控制台访问和流式API测试的QwenPaw智能体工作空间》最初发表于MarkTechPost。"
-},
-"https://the-decoder.com/?p=36605": {
-"t": "名为“Count Anything”的新AI模型名副其实，但实现起来比听起来更难",
-"s": "“Count Anything”旨在成为首个仅凭文本提示就能对任意类型图像中的物体进行计数的AI模型，无论是人群还是显微镜下的细胞样本。在对比测试中，它将错误率较此前系统降低了一半。不过，该方法在处理极度密集的物体和模糊术语时仍存在困难。本文《名为“Count Anything”的新AI模型名副其实，但实现起来比听起来更难》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3132685": {
-"t": "OpenAI 面临州检察长调查",
-"s": "目前尚不清楚涉及哪些州，但调查内容涵盖从OpenAI的广告政策到其处理健康数据的各个方面。"
-},
 "https://garymarcus.substack.com/p/the-white-houses-shambolic-ai-policy": {
 "t": "白宫混乱的AI政策",
 "s": "此外，各州为何自行其是，以及什么可能是更好的选择"
@@ -4798,5 +4766,37 @@
 "https://www.marktechpost.com/?p=81415": {
 "t": "Liquid AI 发布 LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M：在 CPU 上 8K 上下文下仍保持快速的双向编码器",
 "s": "Liquid AI 发布了两个开源权重双向编码器，LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M。两者均支持 8,192 个 token 的上下文，并基于 LFM2 混合骨干架构构建。其中 350M 版本在包含 17 项任务的 GLUE、SuperGLUE 和多语言套件中排名第四（共 14 个模型），仅次于更大的模型。230M 版本在 CPU 上完成一次 8K token 前向传播约需 28 秒。该文章最初发表于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=38331": {
+"t": "Deepmind解散AlphaFold团队，核心作者转投Anthropic",
+"s": "AlphaFold背后的多数研究人员现已转向其他项目，近四分之一已完全离开Google Deepmind。此次重组标志着该实验室背离了其成名战略的重大转变。文章《Deepmind dismantles its AlphaFold team as key authors leave for Anthropic》最初发表于The Decoder。"
+},
+"https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/": {
+"t": "当AI被用于破译失传语言时会发生什么？",
+"s": "AI在识别模式方面表现出色，但人类的洞察力才是关键。"
+},
+"01KYMH71B35NXQ00E0M2D0WMQV": {
+"t": "现已支持对源站进行后量子身份验证",
+"s": "Cloudflare 现已支持通过认证源站拉取和自定义源站信任存储连接到客户源站服务器时，采用后量子（PQ）身份验证。这是为所有 Cloudflare 产品提供 PQ 身份验证的第一步。"
+},
+"https://the-decoder.com/?p=38326": {
+"t": "GPT Transcribe 相比前代有所改进，但在错误率上仍不及 ElevenLabs、Google 或 Mistral",
+"s": "OpenAI 发布了 GPT Transcribe 和 GPT Live Transcribe 两款新的语音识别模型，可通过其 API 使用。文章《GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates》最初发表于 The Decoder。"
+},
+"https://the-decoder.com/?p=38322": {
+"t": "前沿AI开发者呼吁国际协调，在能力超越控制之前为自动化研究设定节奏",
+"s": "在一份联合声明中，来自领先AI实验室的员工呼吁美国政府推动国际协调。他们的论点很简单：没有哪家公司或国家能独自减缓发展速度。本文《前沿AI开发者呼吁国际协调，在能力超越控制之前为自动化研究设定节奏》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38319": {
+"t": "OpenAI 开源 Codex Security CLI，帮助开发者从命令行发现并修复漏洞",
+"s": "OpenAI 发布了 Codex Security CLI，这是一款开源工具，可自动检测并修复代码仓库中的漏洞。据OpenAI称，该系统此前内部代号为“Aardvark”，已帮助修复了超过3000个关键安全缺陷。它直接与Anthropic的Claude Security竞争，两家AI公司正竞相以AI驱动的防御手段应对日益自动化的网络攻击。本文《OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line》最初发表于The Decoder。"
+},
+"https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/": {
+"t": "谷歌SynthID水印难以破解，但无法解决AI虚假信息问题",
+"s": "未来在互联网上辨别真伪将变得不易。"
+},
+"https://techcrunch.com/?p=3147680": {
+"t": "AI内容充斥互联网，Pangram获900万美元用于检测",
+"s": "Pangram已筹集900万美元，用于扩大其AI检测软件的规模。该初创公司还发布了新的AI文本检测模型Pangram 4，以及处于研究预览阶段的AI图像检测模型。"
 }
 }
