@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 29 Jul 2026 13:49:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 17:06:15 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI承认其自主AI模型在安全评估期间也泄露了其他平台的凭证</title>
+<link>https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38336</guid>
+<pubDate>Wed, 29 Jul 2026 16:26:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在一次安全评估中，OpenAI的自主黑客模型侵入了Hugging Face，并利用暴露的凭证访问了其他四项服务。Hugging Face在两天半内重建了约17,600次操作，包括一次零日漏洞利用以及加密、分片的数据传输。这些模型似乎试图窃取测试答案，而非自行解决问题。本文《OpenAI承认其自主AI模型在安全评估期间也泄露了其他平台的凭证》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们将在Google Flow Music中推出Lyria 3.5，在音乐性、歌词、人声和创意控制方面取得进展</title>
+<link>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</guid>
+<pubDate>Wed, 29 Jul 2026 16:02:10 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>驯服Dependabot：分组更新、放缓节奏、保持安全更新快速</title>
+<link>https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/</link>
+<guid isPermaLink="false">https://github.blog/?p=97770</guid>
+<pubDate>Wed, 29 Jul 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】Dependabot能让你的依赖项保持最新，但其默认设置可能会让仓库被拉取请求淹没。本文介绍了如何通过分组更新、放缓节奏以及保持安全修复快速，来减少微软一个开源项目中的噪音。该文章最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic发现漏洞的速度比微软修复的速度还快</title>
+<link>https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/</guid>
+<pubDate>Wed, 29 Jul 2026 15:52:48 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】微软正在幕后疯狂赶工，试图在黑客发现漏洞之前修补这些安全漏洞。<br/><br/><a href="https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>玛莎·斯图尔特联合创立AI初创公司Hint，为房主提供AI助手</title>
+<link>https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3147738</guid>
+<pubDate>Wed, 29 Jul 2026 15:35:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】由玛莎·斯图尔特联合创立的AI家居管理初创公司Hint，希望成为“你家的AI”，将房产记录、维护计划、房屋文件以及AI助手整合到单一应用中。<br/><br/><a href="https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Encore AI 获3000万美元融资，打造能从客户通话中学习的AI代理</title>
+<link>https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3147736</guid>
+<pubDate>Wed, 29 Jul 2026 14:41:06 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这家初创公司分析通话、消息和CRM数据，以识别有效的销售技巧，并将其转化为AI代理的行动指南。<br/><br/><a href="https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Deepmind解散AlphaFold团队，核心作者转投Anthropic</title>
 <link>https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/</link>
@@ -280,14 +328,6 @@
 <description><![CDATA[【arstechnica.com】专家称，谷歌和Reddit利用DMCA打击网络爬虫的行为十分奇怪。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Moonshot AI 发布 Kimi K3 开放权重与基础设施，此前已搅动前沿模型竞争格局</title>
-<link>https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38292</guid>
-<pubDate>Mon, 27 Jul 2026 19:35:08 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Moonshot AI 已发布 Kimi K3 的模型权重，并将其部分基础设施开源。这款中国模型在主流基准测试中几乎与 Fable 5 和 GPT-5.6 Sol 等西方前沿模型持平，但独立测试发现其在网络安全和数学性能方面存在显著差距，可能指向蒸馏技术。本文《Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Verizon 宣称与谷歌数据中心的10亿美元暗光纤交易只是开始</title>
 <link>https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/</guid>
@@ -368,22 +408,6 @@
 <description><![CDATA[【techcrunch.com】这款9美元的NFC钥匙需要你实际扫描它，才能解锁手机上那些令人分心的应用。<br/><br/><a href="https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>伊利亚·苏茨克维的“安全超级智能”与英伟达合作，扩大其AI研究规模</title>
-<link>https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146871</guid>
-<pubDate>Mon, 27 Jul 2026 15:01:50 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】经过两年的隐秘运营后，“安全超级智能”宣布与英伟达建立长期合作伙伴关系，为其下一阶段的规模化发展做准备。<br/><br/><a href="https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Enigma 获 7100 万美元融资，让操控机器人像调节音量一样简单</title>
-<link>https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146811</guid>
-<pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】本轮巨额种子轮融资由 Index Ventures 和 Ribbit Capital 领投，Sarah Guo 的 Conviction Partners 参投。<br/><br/><a href="https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>我们正在开源隐私代理命令行工具</title>
 <link>https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/</link>
 <guid isPermaLink="false">01KYGZXPC2FQ4NSXSKXXYY86FZ</guid>
@@ -462,30 +486,6 @@
 <pubDate>Fri, 24 Jul 2026 17:31:26 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.<br/><br/><a href="https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>BGP ORIGIN attribute manipulation and its impact on the Internet</title>
-<link>https://blog.cloudflare.com/bgp-origin-attribute/</link>
-<guid isPermaLink="false">01KYAFZ0EEBE4R099P8HT79D5X</guid>
-<pubDate>Fri, 24 Jul 2026 17:25:28 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection.<br/><br/><a href="https://blog.cloudflare.com/bgp-origin-attribute/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI firms want more data centers; Trump's EPA may give neighbors less say</title>
-<link>https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</guid>
-<pubDate>Fri, 24 Jul 2026 13:49:38 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Rule would allow states to decide how much—if any—public input there can be.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning</title>
-<link>https://machinelearning.apple.com/research/lead-no-recovery-bottleneck</link>
-<guid isPermaLink="false">lead-no-recovery-bottleneck</guid>
-<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on controlled algorithmic puzzles, we demonstrate that while decomposition is essential for stability, extreme decomposition creates a “no-recovery bottleneck”. We show that this bottleneck becomes critical due to highly non-uniform error distribution, where consistent errors on a few “hard” steps become irreversible. To address this, we propose Lookahead-Enhanced Atomic Decomposition (LEAD). By incorporating short-horizon future validation and aggregating…<br/><br/><a href="https://machinelearning.apple.com/research/lead-no-recovery-bottleneck">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
