@@ -1,44 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80483": {
-"t": "Moonshot AI 发布 Kimi K2.7-Code：编码模型在 Kimi Code Bench v2 上较 K2.6 提升 21.8%",
-"s": "Moonshot AI 已根据修改版 MIT 许可证开源了 Kimi K2.7-Code。这是一款以编码为核心的智能体模型，基于 Kimi K2.6 构建，拥有 256K 上下文窗口，推理 token 使用量降低约 30%。Moonshot 报告称，该模型在六项基准测试中均优于 K2.6，其中在 Kimi Code Bench v2 上提升 21.8%。该模型可通过 Kimi API 和 Kimi Code 获取。本文首发于 MarkTechPost。"
-},
-"https://techcrunch.com/?p=3132491": {
-"t": "安德鲁·杨认为下一个重大创业机会是降低生活成本",
-"s": "安德鲁·杨列出了美国人支付过高的所有项目——住房、食品、无线通信——并认为下一个创业淘金热就是把这些钱还给他们。"
-},
-"https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/": {
-"t": "Anthropic 在特朗普政府指令下关闭 Fable、Mythos 模型",
-"s": "商务部担心 Fable 5 的“越狱”可能构成国家安全威胁。"
-},
-"https://www.marktechpost.com/?p=80479": {
-"t": "基于city2graph、OSMnx和PyTorch Geometric的空间图神经网络城市功能推断编码实现",
-"s": "我们利用city2graph构建了一个端到端的空间图学习流程。从OpenStreetMap收集城市POI和街道网络数据，并采用合成回退机制确保可靠性。我们设计了空间特征，构建了多种邻近图族，并比较了每种图族对同一城市环境的表征方式。随后构建异质图和同质图，将其转换为PyTorch Geometric格式，并训练GraphSAGE模型从空间结构预测POI类别。"
-},
-"https://techcrunch.com/?p=3132661": {
-"t": "Anthropic的安全警告可能适得其反——政府已叫停其最强AI模型",
-"s": "Anthropic毫不掩饰其不满情绪。该公司在一篇博客文章中写道：“我们不同意，一个狭隘的潜在越狱发现，就应该成为召回一个已部署给数亿用户的商业模型的理由。”"
-},
-"https://garymarcus.substack.com/p/breaking-news-us-commerce-department": {
-"t": "突发新闻：美国商务部实质上关闭了Anthropic的最新模型",
-"s": "在两年对AI监管不足之后，美国政府突然采取了核选项。"
-},
-"https://techcrunch.com/?p=3132276": {
-"t": "SpaceX IPO：你需要了解的一切实时更新",
-"s": "TechCrunch从早期就追踪了SpaceX的起步、挣扎与成功。我们也将继续关注接下来的发展。这份SpaceX IPO报道合集涵盖了谁可能成为赢家（或许也包括一些输家）、IPO前的交易，以及其S-1注册文件中隐藏的内容。"
-},
-"https://techcrunch.com/?p=3132623": {
-"t": "Meta成立数月的AI部门被内部工程师称为“灵魂磨灭的古拉格”",
-"s": "一份新报告显示，这个拥有6500名员工的部门正处于反抗的边缘。"
-},
-"https://github.blog/?p=96755": {
-"t": "我们如何让GitHub Copilot CLI在委派任务时更具选择性",
-"s": "更好的编排、更少的交接、更快的进展，无需新增任何控制选项。本文原载于GitHub博客。"
-},
-"https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/": {
-"t": "SpaceX 成为上市公司，其人工智能潜力备受瞩目，接下来会发生什么？",
-"s": "从今天起，SpaceX 由投资者持有，他们将期望看到公司盈利。"
-},
 "https://www.marktechpost.com/?p=80475": {
 "t": "Google 发布 Gemini-SQL2：Gemini 3.1 Pro 文本转 SQL 在 BIRD 单模型排行榜上取得 80.04% 成绩",
 "s": "我们关注 Gemini-SQL2，这是 Google Research 于 2026 年 6 月 12 日宣布的文本转 SQL 能力。基于 Gemini 3.1 Pro，它在 BIRD 单模型排行榜上实现了 80.04% 的执行准确率。我们解释了该分数的衡量标准、排行榜的对比情况，以及 Google 尚未披露的内容。我们还涵盖了使用案例和基于模式的实现模式。本文《Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard》首发于 MarkTechPost。"
@@ -4798,5 +4758,45 @@
 "https://techcrunch.com/?p=3147736": {
 "t": "Encore AI 获3000万美元融资，打造能从客户通话中学习的AI代理",
 "s": "这家初创公司分析通话、消息和CRM数据，以识别有效的销售技巧，并将其转化为AI代理的行动指南。"
+},
+"https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/": {
+"t": "美国禁止外国机器人后，谁赢谁输？",
+"s": "政府禁止外国制造的机器人可能反而阻碍美国机器人技术的发展。"
+},
+"https://techcrunch.com/?p=3147668": {
+"t": "Hugging Face AI 入侵事件，通过一个愈发投入的熊比喻来讲述",
+"s": "换个角度思考整件事，可以想象一只熊在露营地。（真的，我们就要这么讲。）"
+},
+"https://www.marktechpost.com/?p=81422": {
+"t": "提示工程 vs 循环工程 vs 图工程：每一层的变化是什么",
+"s": "现在有三个术语在AI工程职位描述中争夺同一位置。提示工程是已确立的术语。循环工程于2025年底进入AI词汇，并在2026年6月前主导了开发者讨论。图工程大约在六周后出现。它们被混用。它们应该被混用吗？这三种并非相互竞争的技术。[…] 这篇《提示工程 vs 循环工程 vs 图工程：每一层的变化是什么》最初出现在MarkTechPost上。"
+},
+"https://techcrunch.com/?p=3147626": {
+"t": "Claude Opus 5 在运行自动售货机任务时变得毫不留情",
+"s": "Andon Labs 的最新自动售货机模拟显示，Opus 5 通过撒谎和合谋，成为了有史以来最出色的 AI 资本家。"
+},
+"https://the-decoder.com/?p=38351": {
+"t": "谷歌Lyria 3.5音乐模型现允许用户编辑单个音轨段落，无需从头开始",
+"s": "谷歌发布了其新一代音乐生成模型Lyria 3.5，并将其集成到Google Flow Music中。该模型可生成时长30秒至3分钟的音轨。一项名为“选择性段落绘制”的新功能让用户能够编辑音轨的特定部分。谷歌仍未透露任何关于训练数据的细节。本文《谷歌Lyria 3.5音乐模型现允许用户编辑单个音轨段落，无需从头开始》最初发表于The Decoder。"
+},
+"https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/": {
+"t": "埃隆·马斯克的xAI试图通过诉讼摆脱Grok的困境",
+"s": "马斯克为Grok辩护，称明尼苏达州的“脱衣”应用禁令违宪。"
+},
+"https://the-decoder.com/?p=38347": {
+"t": "普华永道被指发布AI生成的报告，其中包含虚假或捏造的来源",
+"s": "继毕马威、德勤和安永之后，GPTZero在普华永道中东的四份报告中发现了捏造的来源和虚假声明。其中一份治理报告被判定84%由AI生成，并利用未经核实的客户引用推广普华永道的一款产品。四大会计师事务所如今均受到AI幻觉的影响。本文《普华永道被指发布AI生成的报告，其中包含虚假或捏造的来源》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38342": {
+"t": "Pangram称其新AI文本检测器每24,000份文档仅出现一次错误",
+"s": "Pangram 4据称能检测出99.66%的AI生成文本，每24,000份文档仅出现一次误报。该模型还能抵抗将AI写作伪装成人类写作的“人性化”工具。API价格将上涨2至10倍。本文《Pangram称其新AI文本检测器每24,000份文档仅出现一次错误》首发于The Decoder。"
+},
+"https://openai.com/index/chatgpt-for-academic-researchers": {
+"t": "借助ChatGPT加速学术研究者的科学发现",
+"s": "OpenAI正向10万名学术研究者免费提供ChatGPT最先进的AI模型访问权限，以加速科学研究、协作与发现进程。"
+},
+"https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
+"t": "GPT-5.6 如何融合前沿智能与前沿效率",
+"s": "GPT-5.6 在模型、推理及智能体工作流中提升了AI效率，助力实现每美元成本下更有用的智能。"
 }
 }

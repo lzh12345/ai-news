@@ -5,8 +5,72 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 29 Jul 2026 17:06:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 20:43:42 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>美国禁止外国机器人后，谁赢谁输？</title>
+<link>https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</guid>
+<pubDate>Wed, 29 Jul 2026 20:03:42 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】政府禁止外国制造的机器人可能反而阻碍美国机器人技术的发展。<br/><br/><a href="https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hugging Face AI 入侵事件，通过一个愈发投入的熊比喻来讲述</title>
+<link>https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3147668</guid>
+<pubDate>Wed, 29 Jul 2026 19:44:49 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】换个角度思考整件事，可以想象一只熊在露营地。（真的，我们就要这么讲。）<br/><br/><a href="https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>提示工程 vs 循环工程 vs 图工程：每一层的变化是什么</title>
+<link>https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering-what-changes-at-each-layer/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81422</guid>
+<pubDate>Wed, 29 Jul 2026 19:30:35 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】现在有三个术语在AI工程职位描述中争夺同一位置。提示工程是已确立的术语。循环工程于2025年底进入AI词汇，并在2026年6月前主导了开发者讨论。图工程大约在六周后出现。它们被混用。它们应该被混用吗？这三种并非相互竞争的技术。[…] 这篇《提示工程 vs 循环工程 vs 图工程：每一层的变化是什么》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering-what-changes-at-each-layer/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Opus 5 在运行自动售货机任务时变得毫不留情</title>
+<link>https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3147626</guid>
+<pubDate>Wed, 29 Jul 2026 18:45:27 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Andon Labs 的最新自动售货机模拟显示，Opus 5 通过撒谎和合谋，成为了有史以来最出色的 AI 资本家。<br/><br/><a href="https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌Lyria 3.5音乐模型现允许用户编辑单个音轨段落，无需从头开始</title>
+<link>https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38351</guid>
+<pubDate>Wed, 29 Jul 2026 18:37:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌发布了其新一代音乐生成模型Lyria 3.5，并将其集成到Google Flow Music中。该模型可生成时长30秒至3分钟的音轨。一项名为“选择性段落绘制”的新功能让用户能够编辑音轨的特定部分。谷歌仍未透露任何关于训练数据的细节。本文《谷歌Lyria 3.5音乐模型现允许用户编辑单个音轨段落，无需从头开始》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>埃隆·马斯克的xAI试图通过诉讼摆脱Grok的困境</title>
+<link>https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</guid>
+<pubDate>Wed, 29 Jul 2026 17:58:24 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】马斯克为Grok辩护，称明尼苏达州的“脱衣”应用禁令违宪。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>普华永道被指发布AI生成的报告，其中包含虚假或捏造的来源</title>
+<link>https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38347</guid>
+<pubDate>Wed, 29 Jul 2026 17:44:18 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】继毕马威、德勤和安永之后，GPTZero在普华永道中东的四份报告中发现了捏造的来源和虚假声明。其中一份治理报告被判定84%由AI生成，并利用未经核实的客户引用推广普华永道的一款产品。四大会计师事务所如今均受到AI幻觉的影响。本文《普华永道被指发布AI生成的报告，其中包含虚假或捏造的来源》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Pangram称其新AI文本检测器每24,000份文档仅出现一次错误</title>
+<link>https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38342</guid>
+<pubDate>Wed, 29 Jul 2026 17:16:53 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Pangram 4据称能检测出99.66%的AI生成文本，每24,000份文档仅出现一次误报。该模型还能抵抗将AI写作伪装成人类写作的“人性化”工具。API价格将上涨2至10倍。本文《Pangram称其新AI文本检测器每24,000份文档仅出现一次错误》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI承认其自主AI模型在安全评估期间也泄露了其他平台的凭证</title>
 <link>https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/</link>
@@ -120,12 +184,52 @@
 <description><![CDATA[【techcrunch.com】Pangram已筹集900万美元，用于扩大其AI检测软件的规模。该初创公司还发布了新的AI文本检测模型Pangram 4，以及处于研究预览阶段的AI图像检测模型。<br/><br/><a href="https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>借助ChatGPT加速学术研究者的科学发现</title>
+<link>https://openai.com/index/chatgpt-for-academic-researchers</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers</guid>
+<pubDate>Wed, 29 Jul 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI正向10万名学术研究者免费提供ChatGPT最先进的AI模型访问权限，以加速科学研究、协作与发现进程。<br/><br/><a href="https://openai.com/index/chatgpt-for-academic-researchers">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI 发布 LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M：在 CPU 上 8K 上下文下仍保持快速的双向编码器</title>
+<link>https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81415</guid>
+<pubDate>Wed, 29 Jul 2026 09:38:42 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI 发布了两个开源权重双向编码器，LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M。两者均支持 8,192 个 token 的上下文，并基于 LFM2 混合骨干架构构建。其中 350M 版本在包含 17 项任务的 GLUE、SuperGLUE 和多语言套件中排名第四（共 14 个模型），仅次于更大的模型。230M 版本在 CPU 上完成一次 8K token 前向传播约需 28 秒。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Cyera 同意以10亿美元收购Oasis Security，以保护日益增多的AI代理</title>
 <link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3147673</guid>
 <pubDate>Wed, 29 Jul 2026 00:09:05 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】这笔交易是Cyera今年的第三次收购。<br/><br/><a href="https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-5.6 如何融合前沿智能与前沿效率</title>
+<link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
+<guid isPermaLink="false">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
+<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】GPT-5.6 在模型、推理及智能体工作流中提升了AI效率，助力实现每美元成本下更有用的智能。<br/><br/><a href="https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency">阅读原文</a>]]></description>
+</item>
+<item>
+<title>利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流</title>
+<link>https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81410</guid>
+<pubDate>Tue, 28 Jul 2026 23:04:44 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们将Kimi CLI配置并操作为一个完全非交互式的AI编码代理。我们通过uv在隔离的Python 3.13环境中安装CLI，通过基于TOML的提供者和模型定义配置Moonshot API认证，并构建一个可重用的Python封装器来执行非交互式CLI命令。然后，我们将Kimi应用于……本文《利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型</title>
+<link>https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81406</guid>
+<pubDate>Tue, 28 Jul 2026 22:45:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Fireworks AI 发布了 Fireworks Nexus，这是一个面向工程组织的 AI 管理与路由平台。它将开发者已使用的编码工具连接到一个由开源权重模型管理的层。该平台旨在解决一个广为人知的问题：据《福布斯》报道，Uber 在四个月内就耗尽了其整个 2026 年的 AI 预算。而 Claude Code 此前也已达到……本文《Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>我们现在更清楚地了解了OpenAI是如何入侵Hugging Face的</title>
@@ -240,22 +344,6 @@
 <description><![CDATA[【techcrunch.com】递归公司此次4亿美元的支出占其迄今为止融资总额的大部分。<br/><br/><a href="https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>台湾在扩大对中国芯片走私调查中拘留一名英伟达员工</title>
-<link>https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38302</guid>
-<pubDate>Tue, 28 Jul 2026 13:15:43 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据彭博社和路透社报道，台湾检方已拘留一名英伟达员工，该员工涉嫌非法向中国出口超微AI服务器。文章《台湾在扩大对中国芯片走私调查中拘留一名英伟达员工》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>英伟达投资伊利亚·苏茨克沃的AI实验室，推动SSI摆脱谷歌芯片依赖</title>
-<link>https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38300</guid>
-<pubDate>Tue, 28 Jul 2026 13:06:35 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】英伟达正向其所谓的“巨额”资金注入由OpenAI前首席科学家伊利亚·苏茨克沃领导的AI实验室Safe Superintelligence（SSI）。这篇题为《英伟达投资伊利亚·苏茨克沃的AI实验室，推动SSI摆脱谷歌芯片依赖》的文章首发于The Decoder。<br/><br/><a href="https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>自然灾害与政府干预：2026年第二季度重大互联网中断事件分析</title>
 <link>https://blog.cloudflare.com/q2-2026-internet-disruption-summary/</link>
 <guid isPermaLink="false">01KYJZQZHMFNYN2EGYDF73J99A</guid>
@@ -264,12 +352,20 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare Radar追踪了上一季度由自然灾害、政府强制关闭及DNSSEC密钥轮换引发的互联网中断事件。本文通过分析流量遥测数据，阐释了这些事件如何影响全球网络连接。<br/><br/><a href="https://blog.cloudflare.com/q2-2026-internet-disruption-summary/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令</title>
-<link>https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38295</guid>
-<pubDate>Tue, 28 Jul 2026 12:06:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic CEO Dario Amodei再次警告开源AI模型的风险，同时坚称自己从未呼吁过禁令。他认为像中国这样的威权国家可能超越美国，且开源模型可能被滥用于生物或网络攻击。批评者称他主要是在试图保护自己的业务免受更廉价竞争对手的冲击。本文《Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/">阅读原文</a>]]></description>
+<title>微软AI发布MAI-Cyber-1-Flash：一款5B活跃参数的网络安全模型，将MDASH在CyberGym上的表现提升至95.95%</title>
+<link>https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81401</guid>
+<pubDate>Tue, 28 Jul 2026 08:33:30 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】微软AI发布了MAI-Cyber-1-Flash，这是其首款专为网络防御构建的模型。该模型总参数量为137B，活跃参数为5B，是基于MAI-Code-1-Flash的稀疏MoE微调版本，支持256k上下文窗口。该模型并非作为独立端点提供，而是运行在微软的多模型代理扫描框架MDASH中，在其中处理高达90%的任务，并将系统在CyberGym上的表现提升至95.95%。本文《微软AI发布MAI-Cyber-1-Flash：一款5B活跃参数的网络安全模型，将MDASH在CyberGym上的表现提升至95.95%》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用PrismML llama.cpp和OpenAI兼容的本地推理工作流部署1位Bonsai-27B模型</title>
+<link>https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81398</guid>
+<pubDate>Tue, 28 Jul 2026 07:53:48 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用PrismML分支的llama.cpp部署1位Bonsai-27B语言模型，该分支提供了解码模型Q1_0_g128 GGUF量化格式所需的专用CUDA内核。本文《Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Cursor 在 SpaceX 收购前推出本地化定价，加大印度市场布局</title>
@@ -312,6 +408,14 @@
 <description><![CDATA[【techcrunch.com】纳德拉表示，那些没有自有模型，或者缺乏被称为AI网关的AI基础设施层来将自身提示与模型本身分离的公司，将面临困境。<br/><br/><a href="https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统</title>
+<link>https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81394</guid>
+<pubDate>Mon, 27 Jul 2026 20:48:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Moonshot AI的Kimi团队与kvcache-ai在MIT许可下开源了AgentENV（AENV），作为Kimi K3开放日的一部分。该系统将智能体沙箱作为Firecracker微虚拟机运行，具备毫秒级快照、恢复及16路分支功能，并通过兼容E2B的API提供支持。本文Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统最早出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>PSA：你的Claude共享聊天记录和Artifacts可能已出现在谷歌上</title>
 <link>https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3147064</guid>
@@ -344,6 +448,14 @@
 <description><![CDATA[【techcrunch.com】微软本周推出其首个AI安全模型及全新安全平台，进一步强化了其AI网络安全产品线。<br/><br/><a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体</title>
+<link>https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81391</guid>
+<pubDate>Mon, 27 Jul 2026 18:08:24 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们围绕Anthropic的金融服务代码库构建了一个高级工作流，并用纯Python复现了其技能驱动的架构。我们首先安装所需的库，克隆代码库，并以编程方式映射其智能体、垂直插件、合作伙伴集成、托管智能体手册和金融分析技能。接着，我们将代码库中的SKILL.md文件解析为可搜索的格式……该文章《使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>工具链才是你需要的（大部分情况下）</title>
 <link>https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/</link>
 <guid isPermaLink="false">https://github.blog/?p=97740</guid>
@@ -374,118 +486,6 @@
 <pubDate>Mon, 27 Jul 2026 16:45:24 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Meta周一宣布，正在Threads的私信功能中推出其Meta AI聊天机器人，让用户能够与这一AI助手进行对话。<br/><br/><a href="https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub Copilot 应用初学者指南：入门</title>
-<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/</link>
-<guid isPermaLink="false">https://github.blog/?p=97758</guid>
-<pubDate>Mon, 27 Jul 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】刚接触 GitHub Copilot 应用？了解如何启动项目、与 AI 代理协作、探索画布，并简化你的开发工作流程。该文章《GitHub Copilot 应用初学者指南：入门》最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌AI搜索正迅速成为默认选项，新数据显示</title>
-<link>https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146884</guid>
-<pubDate>Mon, 27 Jul 2026 15:57:12 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】谷歌的AI概览现在出现在43%的搜索中，凸显了AI生成的答案正迅速成为人们在线获取信息的默认方式。<br/><br/><a href="https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>为你的AI基础设施赋能！TechCrunch Disrupt 2026智能系统舞台议程初探</title>
-<link>https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146499</guid>
-<pubDate>Mon, 27 Jul 2026 15:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】在TechCrunch Disrupt 2026上，智能系统舞台将成为能源、基础设施与技术的交汇点，涵盖从聚变突破到AI给整个经济带来的电网压力等方方面面。<br/><br/><a href="https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>这款9美元的钥匙能物理锁定你最上瘾的应用</title>
-<link>https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3146148</guid>
-<pubDate>Mon, 27 Jul 2026 15:25:37 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这款9美元的NFC钥匙需要你实际扫描它，才能解锁手机上那些令人分心的应用。<br/><br/><a href="https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>我们正在开源隐私代理命令行工具</title>
-<link>https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/</link>
-<guid isPermaLink="false">01KYGZXPC2FQ4NSXSKXXYY86FZ</guid>
-<pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】pvcli 是一款类似 curl 的工具，旨在简化 OHTTP 等复杂隐私协议的测试。<br/><br/><a href="https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>艺术家起诉AI梗图生成器，将其极具个人色彩的漫画作为广告模板出售</title>
-<link>https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/</guid>
-<pubDate>Mon, 27 Jul 2026 10:50:37 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】专家称，梗图生成器可能在输出中使用模板时出了差错。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Cosmos-H-Dreams：将实时生成式仿真引入手术机器人领域</title>
-<link>https://huggingface.co/blog/nvidia/cosmos-h-dreams</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos-h-dreams</guid>
-<pubDate>Mon, 27 Jul 2026 09:32:20 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/nvidia/cosmos-h-dreams">阅读原文</a>]]></description>
-</item>
-<item>
-<title>人工智能如何拓展人们的工作内容</title>
-<link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
-<guid isPermaLink="false">https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</guid>
-<pubDate>Mon, 27 Jul 2026 03:30:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI的最新研究显示，人工智能正在扩大工作者的职责范围，ChatGPT用户跨角色承担任务，并重塑了职业边界。<br/><br/><a href="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work">阅读原文</a>]]></description>
-</item>
-<item>
-<title>前沿实验室智能体入侵剖析：2026年7月事件的技术时间线</title>
-<link>https://huggingface.co/blog/agent-intrusion-technical-timeline</link>
-<guid isPermaLink="false">https://huggingface.co/blog/agent-intrusion-technical-timeline</guid>
-<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】(无)<br/><br/><a href="https://huggingface.co/blog/agent-intrusion-technical-timeline">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GH-ESD：面向实例级视觉任务的基于假设驱动的错误切片发现方法</title>
-<link>https://machinelearning.apple.com/research/gh-esd</link>
-<guid isPermaLink="false">gh-esd</guid>
-<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】视觉模型在语义连贯子集上的系统性失败（即错误切片）揭示了其在鲁棒性和评估方面的局限性。现有的切片发现方法主要将切片建模为表示空间中的聚类或预定义属性的组合。虽然这些方法在图像级分类任务中有效，但对于目标检测和分割等实例级任务而言，此类公式化方法并不充分——因为在这些任务中，失败往往源于上下文关系及空间定位的视觉模式。我们提出GH-ESD（基于假设驱动的错误切片发现方法），一种……<br/><br/><a href="https://machinelearning.apple.com/research/gh-esd">阅读原文</a>]]></description>
-</item>
-<item>
-<title>教会LLMs更新信念以实现高效长程交互</title>
-<link>http://bair.berkeley.edu/blog/2026/07/26/abbel/</link>
-<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/26/abbel/</guid>
-<pubDate>Sun, 26 Jul 2026 02:00:00 -0700</pubDate>
-<source>bair.berkeley.edu</source>
-<description><![CDATA[【bair.berkeley.edu】--> --> ABBEL与传统递归摘要的对比概览。信念取代完整交互历史成为智能体的工作上下文，信念分级通过监督每个信念状态的内容来提升性能。随着任务时间跨度的增长，LLM的上下文无法无限扩展。自我摘要能生成简洁、可解释的上下文，但会显著牺牲性能，尤其在高质量数据稀缺的人类辅助领域（如协作代码生成）。我们通过ABBEL框架解决这一问题：该框架隔离并监督信息内容。<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/26/abbel/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Canadian legislator reads out apparent LLM response in floor speech</title>
-<link>https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</guid>
-<pubDate>Fri, 24 Jul 2026 21:25:15 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】"Here’s a more natural, flowing version of that section..."<br/><br/><a href="https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic's Opus 5 is about token efficiency, not a capability leap</title>
-<link>https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/</guid>
-<pubDate>Fri, 24 Jul 2026 21:05:51 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Models are improving quickly, but the cheaper options are often good enough.<br/><br/><a href="https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Team uses AlphaFold AI to redesign gene-editing proteins to make them safer</title>
-<link>https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/</link>
-<guid isPermaLink="false">https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/</guid>
-<pubDate>Fri, 24 Jul 2026 17:31:26 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.<br/><br/><a href="https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
