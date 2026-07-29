@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=36615": {
-"t": "亚马逊等五家公司据报引发政府对Anthropic的Fable模型采取打压行动",
-"s": "据报道，亚马逊CEO安迪·贾西及其他科技公司高管向特朗普政府警告了Anthropic的Fable模型存在安全漏洞，尽管亚马逊是Anthropic最大的投资者之一。数小时内，白宫通过一项出口管制令迫使该模型下线。此举很可能是一项合法的安全政策决定，但也可解读为对一家不便合作的公司展示强硬姿态。本文《亚马逊等五家公司据报引发政府对Anthropic的Fable模型采取打压行动》最初发表于The Decoder。"
-},
 "https://www.marktechpost.com/?p=80505": {
 "t": "Databricks 开源 Omnigent：一个跨 Claude Code、Codex 和 Pi 编排、治理和共享 AI 代理的元框架",
 "s": "Databricks 已开源 Omnigent，这是一个位于 Claude Code、Codex 和 Pi 等编码代理之上的元框架。它在终端、网页、桌面和移动端通过统一界面添加了编排、上下文策略和实时会话共享功能。该项目采用 Apache 2.0 许可，目前处于 alpha 阶段。本文最初发表于 MarkTechPost。"
@@ -4798,5 +4794,9 @@
 "audio-synthesis-diffusion-transformers": {
 "t": "利用解耦时间深度扩散Transformer实现内存高效的音频合成",
 "s": "Siri情感语音通过AFM 3 Core Advanced（苹果最强大的设备端基础模型）在设备上实时合成丰富、可配置的语音。本文介绍了该功能背后的内存高效音频合成架构：一种解标记器，能够在Apple矩阵协处理器（AMX）严格的计算和内存预算内，将基础模型生成的语义音频标记转换为高保真音频。我们通过三组件设计将语义音频标记转换为残差向量量化（RVQ）表示——包括流式处理……"
+},
+"https://www.marktechpost.com/?p=81415": {
+"t": "Liquid AI 发布 LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M：在 CPU 上 8K 上下文下仍保持快速的双向编码器",
+"s": "Liquid AI 发布了两个开源权重双向编码器，LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M。两者均支持 8,192 个 token 的上下文，并基于 LFM2 混合骨干架构构建。其中 350M 版本在包含 17 项任务的 GLUE、SuperGLUE 和多语言套件中排名第四（共 14 个模型），仅次于更大的模型。230M 版本在 CPU 上完成一次 8K token 前向传播约需 28 秒。该文章最初发表于 MarkTechPost。"
 }
 }

@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 29 Jul 2026 06:24:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 10:31:41 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Liquid AI 发布 LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M：在 CPU 上 8K 上下文下仍保持快速的双向编码器</title>
+<link>https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81415</guid>
+<pubDate>Wed, 29 Jul 2026 09:38:42 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI 发布了两个开源权重双向编码器，LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M。两者均支持 8,192 个 token 的上下文，并基于 LFM2 混合骨干架构构建。其中 350M 版本在包含 17 项任务的 GLUE、SuperGLUE 和多语言套件中排名第四（共 14 个模型），仅次于更大的模型。230M 版本在 CPU 上完成一次 8K token 前向传播约需 28 秒。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Cyera 同意以10亿美元收购Oasis Security，以保护日益增多的AI代理</title>
 <link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
@@ -478,14 +486,6 @@
 <pubDate>Sun, 26 Jul 2026 10:46:19 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】快手KwaiKAT团队发布了KAT-Coder-V2.5技术报告，指出智能编码能力的瓶颈在于训练基础设施而非模型规模。AutoBuilder将环境构建成功率从16.5%提升至57.2%，在12种编程语言中生成超过10万个可验证环境；同时沙箱审计将强化学习反馈错误率从约16%降至2%以下。本文《KwaiKAT团队发布KAT-Coder-V2.5：基于10万+可验证仓库环境训练的智能编码模型》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run</title>
-<link>https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81360</guid>
-<pubDate>Sun, 26 Jul 2026 09:14:22 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system is Photon-1, a sparse 106B-A5B mixture-of-experts (MoE) […] The post Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
