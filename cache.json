@@ -1,52 +1,4 @@
 {
-"https://techcrunch.com/?p=3131650": {
-"t": "更便宜、更快、更具文化意识，Avataar的视频AI专为印度规模打造",
-"s": "Avataar AI的精简视频模型每生成一秒收费0.005美元。"
-},
-"https://techcrunch.com/?p=3132154": {
-"t": "Theker 融资8500万美元，打造不专精于任何特定任务的工厂机器人",
-"s": "与波士顿动力等公司设计的固定形态人形机器人不同，Theker 的机器人被设计为可重新配置。"
-},
-"https://techcrunch.com/?p=3132323": {
-"t": "杰夫·贝佐斯的普罗米修斯公司融资120亿美元，打造面向物理世界的“通用人工智能工程师”",
-"s": "这轮融资使这家旨在自动化重型工程和药物设计的物理AI初创公司估值达到410亿美元。"
-},
-"https://openai.com/index/preply": {
-"t": "Preply 如何结合人工智能与真人导师实现个性化学习",
-"s": "Preply 利用 OpenAI 推出人工智能生成的课程摘要，提供个性化反馈和语言学习练习。"
-},
-"https://github.blog/?p=96626": {
-"t": "GitHub 可用性报告：2026年5月",
-"s": "5月份，我们经历了九起导致GitHub服务性能下降的事件。这篇GitHub可用性报告：2026年5月首次出现在GitHub博客上。"
-},
-"https://techcrunch.com/?p=3132274": {
-"t": "SpaceX 正式将股价定为每股135美元，创史上最大规模IPO",
-"s": "随着官方股价公告的发布，SpaceX的首次公开募股已正式启动。"
-},
-"https://techcrunch.com/?p=3132124": {
-"t": "SpaceX SPV投资者在IPO锁定期解除前无法知晓真实持股情况",
-"s": "在SpaceX公开上市后，次级SPV投资者将面临隐性费用、漫长的付款延迟以及直接欺诈的风险。"
-},
-"https://techcrunch.com/?p=3132190": {
-"t": "Deezer 新工具可识别来自 Spotify、Apple Music 等平台的 AI 音乐",
-"s": "Deezer 推出了一款工具，可扫描来自 Spotify、Apple Music 及其他平台的播放列表，以识别 AI 音乐。"
-},
-"https://github.blog/?p=96621": {
-"t": "让秘密扫描更值得信赖：大规模减少误报",
-"s": "当噪音减少时，警报更值得信赖且可操作。了解我们如何通过上下文感知的LLM推理改进验证步骤。本文《让秘密扫描更值得信赖：大规模减少误报》最初发布于GitHub博客。"
-},
-"https://huggingface.co/blog/torch-mlp-fusion": {
-"t": "PyTorch 中的性能分析（第二部分）：从 nn.Linear 到融合 MLP",
-"s": "（无）"
-},
-"https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
-"t": "支持欧洲构建可信赖的人工智能生态系统",
-"s": "OpenAI支持欧盟关于人工智能内容透明度的实践准则，推动溯源标准与工具的发展，以帮助人们理解人工智能生成的内容。"
-},
-"https://openai.com/index/bbva": {
-"t": "BBVA将AI置于银行业务核心，携手OpenAI",
-"s": "了解BBVA如何将ChatGPT Enterprise推广至10万名员工，并与OpenAI合作，加速全球AI驱动的银行业务转型。"
-},
 "https://openai.com/index/openai-to-acquire-ona": {
 "t": "OpenAI 将收购 Ona",
 "s": "OpenAI 计划收购 Ona，以通过安全、持久的云环境扩展 Codex，从而在企业工作流中实现长期运行的 AI 代理。"
@@ -4798,5 +4750,53 @@
 "https://the-decoder.com/?p=38373": {
 "t": "FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁",
 "s": "FCC正在阻止进口新型中国仿人机器人和机器狗。但该规则的宽泛定义也涵盖了扫地机器人、割草机器人和配送机器人。本文《FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3148308": {
+"t": "Okta 收购 AI 安全初创公司 Permiso；消息人士称交易金额约 2 亿美元",
+"s": "该交易使 Okta 获得身份威胁检测能力，以满足企业在云环境中保护 AI 代理及其他非人类身份的需求。"
+},
+"https://techcrunch.com/?p=3148216": {
+"t": "Meta称AI让构建新应用变得更容易——更多应用即将推出",
+"s": "Meta表示，人工智能正显著简化新消费应用的构建与发布流程。首席执行官马克·扎克伯格向投资者透露，在近期为Facebook群组、Marketplace卖家、Instagram及游戏领域推出一系列新功能后，公司还有更多消费级产品即将面世。"
+},
+"https://techcrunch.com/?p=3148209": {
+"t": "Nscale收购Anyscale，旨在进一步掌控AI计算栈",
+"s": "英国AI新云服务商Nscale正在收购软件初创公司Anyscale，后者帮助企业跨数据中心和服务器扩展其AI工作负载。"
+},
+"https://huggingface.co/blog/Dharma-AI/gpu-management": {
+"t": "GPU管理：闲置GPU为何成为新型“停飞飞机”",
+"s": ""
+},
+"https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/": {
+"t": "Gemini Robotics ER 2：以视频理解、任务编排与多机器人协作赋能机器人技术",
+"s": "Gemini Robotics ER 2 助力机器人进行推理、协作并解决现实世界中的任务。它在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶跃式变革。"
+},
+"https://techcrunch.com/?p=3147978": {
+"t": "前部署工程师成为AI行业最新的人才争夺焦点",
+"s": "一项新研究估计，美国仅有约2000名工程师具备实现有意义AI投资回报的专业知识，而企业正竞相招聘前部署工程师，以大规模实施AI。"
+},
+"https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/": {
+"t": "新MCP规范解决了企业采用的主要障碍",
+"s": "此外，AI协议的新政策确保功能不会突然被移除。"
+},
+"https://techcrunch.com/?p=3148205": {
+"t": "在Hugging Face入侵事件中，OpenAI的黑客行动喧嚣且迅速——但并非不可阻挡",
+"s": "网络安全专家向TechCrunch表示，从OpenAI对Hugging Face的黑客攻击中汲取的最大教训与人工智能无关，而是传统的网络安全防御。"
+},
+"https://the-decoder.com/?p=38380": {
+"t": "语言模型无法引发科学革命，但世界模型或许可以",
+"s": "语言模型能引发科学革命吗？在一篇题为“LLMs can't jump”的立场论文中，谷歌DeepMind的Tom Zahavy认为它们不能。它们缺少创造真正新事物所需的认知机制。文章《语言模型无法引发科学革命，但世界模型或许可以》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3147661": {
+"t": "TechCrunch Disrupt 2026 主舞台汇聚亚马逊、Replit、Tether 等企业领袖，更多精彩即将揭晓",
+"s": "Disrupt 舞台是科技界诸多重大对话的发生地，其传统可追溯至十多年前。"
+},
+"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+"t": "以GPT-5.6推进性价比前沿",
+"s": "探索Luna和Terra更低的GPT-5.6定价——以及OpenAI更高效的模型如何帮助企业大规模部署AI工作流。"
+},
+"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": {
+"t": "Gemini Robotics 2 为机器人带来全身智能",
+"s": ""
 }
 }
