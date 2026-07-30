@@ -1,40 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80475": {
-"t": "Google 发布 Gemini-SQL2：Gemini 3.1 Pro 文本转 SQL 在 BIRD 单模型排行榜上取得 80.04% 成绩",
-"s": "我们关注 Gemini-SQL2，这是 Google Research 于 2026 年 6 月 12 日宣布的文本转 SQL 能力。基于 Gemini 3.1 Pro，它在 BIRD 单模型排行榜上实现了 80.04% 的执行准确率。我们解释了该分数的衡量标准、排行榜的对比情况，以及 Google 尚未披露的内容。我们还涵盖了使用案例和基于模式的实现模式。本文《Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard》首发于 MarkTechPost。"
-},
-"https://techcrunch.com/?p=3132480": {
-"t": "谷歌起诉利用AI诈骗“数十万受害者”的中国网络犯罪团伙",
-"s": "这家科技巨头称，一个名为“Outsider Enterprise”的团伙利用人工智能诈骗了数十万受害者，在两周内发送了250万条短信。"
-},
-"https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/": {
-"t": "杰夫·贝佐斯新创企Prometheus将做什么",
-"s": "它并非唯一涉足物理AI的初创公司，但却是资金最雄厚的之一。"
-},
-"https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/": {
-"t": "乌克兰一次性测试使用全自主无人机击杀俄罗斯士兵",
-"s": "全自主作战极为罕见，但乌克兰正在无人机和机器人上安装人工智能模块。"
-},
-"https://techcrunch.com/?p=3132412": {
-"t": "Mistral 据传以200亿欧元估值融资30亿欧元",
-"s": "本轮融资将使该公司估值达到约200亿欧元（约合231.5亿美元），几乎是其C轮融资时117亿欧元估值的两倍。"
-},
-"https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/": {
-"t": "今年迄今已有1300亿美元的数据中心项目因抗议受阻",
-"s": "对抗AI数据中心的胜利让人们尝到了“政治权力的滋味”。"
-},
-"https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/": {
-"t": "就总用水量而言，AI数据中心只是九牛一毛",
-"s": "即使是中等规模的数据中心，也可能对当地产生不成比例的影响。"
-},
-"https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/": {
-"t": "谷歌起诉利用Gemini自动化诈骗的中国网络犯罪团伙",
-"s": "据称，该诈骗团伙通过Gemini编码的诈骗网站，针对数十万人实施欺诈活动。"
-},
-"https://techcrunch.com/?post_type=tc_video&p=3132423": {
-"t": "SpaceX、Anthropic 与 OpenAI 的炙热 IPO 之夏",
-"s": "IPO 市场再度活跃，但引领潮流的已不再是那些熟悉的面孔。FAANG 曾风光一时，如今新的缩写词 MANGOS 正取而代之——即 Meta（或微软，视具体说法而定）、Anthropic、英伟达、谷歌、OpenAI 和 SpaceX。其中半数公司将在同一时间段内登陆公开市场，这对投资者、估值体系乃至整个市场而言，都是一场压力测试。"
-},
 "https://huggingface.co/blog/allenai/olmo-eval": {
 "t": "olmo-eval：面向模型开发循环的评估工作台",
 "s": ""
@@ -4798,5 +4762,41 @@
 "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
 "t": "GPT-5.6 如何融合前沿智能与前沿效率",
 "s": "GPT-5.6 在模型、推理及智能体工作流中提升了AI效率，助力实现每美元成本下更有用的智能。"
+},
+"https://techcrunch.com/?p=3148055": {
+"t": "微软正前所未有地公开与OpenAI、Anthropic展开竞争",
+"s": "微软在周三向华尔街展示其自主研发的AI模型、工具链，甚至推出了Mythos的竞品，并表示计划持续增长。"
+},
+"https://techcrunch.com/?p=3148017": {
+"t": "马克·扎克伯格预测五年内将有数十亿人拥有个人AI代理",
+"s": "随着Meta向AI基础设施和代理投入数十亿美元，扎克伯格正努力说服投资者，这些投入的回报将物有所值。"
+},
+"https://techcrunch.com/?p=3148002": {
+"t": "微软从Anthropic投资中获利32亿美元，但OpenAI表现参差不齐",
+"s": "微软在公布2026财年（截至6月30日）第四季度强劲财报时，悄悄透露了其对两家最大且相互竞争的AI实验室的投资表现情况。"
+},
+"https://techcrunch.com/?p=3148020": {
+"t": "扎克伯格称Meta的企业AI机遇不止于智能体",
+"s": "在周三的公司第二季度财报电话会议上，CEO马克·扎克伯格表示，Meta看到了一个涵盖AI智能体、API、计算和内部软件的“大型企业机遇”。"
+},
+"https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/": {
+"t": "第三轮PQC算法候选遭Mythos攻击，宣告失效",
+"s": "HAWK在多年的测试中一直未被发现致命弱点，但Mythos攻击最终将其击破。"
+},
+"https://techcrunch.com/?p=3147648": {
+"t": "在TechCrunch Disrupt 2026大会上，探索AI的未来——从SaaS变革到智能体安全缺口",
+"s": "在TechCrunch Disrupt 2026大会上，由Google for Startups呈现的AI舞台将再次聚焦过去几年社区中最热门的话题，深入探讨相关议题。"
+},
+"https://techcrunch.com/?p=3147986": {
+"t": "Thinking Machines 联合创始人 Lilian Weng 因健康原因离职，随后加入 OpenAI",
+"s": "Weng 此前曾担任 OpenAI 的 AI 安全研究副总裁。"
+},
+"https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
+"t": "启用两个设置如何使我们在ARC-AGI-3基准测试中的得分翻了三倍",
+"s": "两个API设置如何通过保留推理能力和启用压缩功能，提升了GPT-5.6在ARC-AGI-3上的性能，从而提高了得分和效率。"
+},
+"http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/": {
+"t": "从CUDA到MLX：K-Search如何将数十年的内核经验带到Apple Silicon",
+"s": "图1：CUDA到MLX的优化转换映射图。CUDA优化知识可以转化为架构原生的MLX策略，而非逐条指令复制。我们正面临计算的新纪元。硬件正在快速变化——不仅是更快的GPU，还有来自不同供应商的日益多样化的芯片，每种芯片都有其独特的架构，并且通常针对特定的AI工作负载进行定制。软件的变化同样迅速，AI编码工具现在能在几分钟内生成几年前需要数月努力才能完成的内容。随着计算领域如今如此集中于AI，GPU内核已成为关键组成部分。"
 }
 }
