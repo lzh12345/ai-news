@@ -1,20 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/": {
-"t": "宝可梦Go玩家无意中为军用无人机技术做出贡献",
-"s": "将宝可梦Go数据重新用于AI训练的做法持续引发关注。"
-},
-"https://openai.com/index/academy-courses-applying-ai-at-work": {
-"t": "OpenAI推出面向未来工作新时代的学院课程",
-"s": "OpenAI推出三门学院课程，帮助人们掌握实用的人工智能技能，创建可重复的工作流程，并将智能体应用于日常工作中。"
-},
-"https://www.marktechpost.com/?p=80469": {
-"t": "Moonshot AI 推出 Kimi Work，一款本地桌面代理，据称运行于 Kimi K2.6，配备 300 个子代理的 Agent Swarm",
-"s": "Moonshot AI 的 Kimi Work 是一款适用于 macOS 和 Windows 的本地桌面代理。它运行一个包含 300 个子代理的 swarm，通过 WebBridge 驱动您已登录的浏览器，并调度后台任务。本文 Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm 最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80461": {
-"t": "Zyphra发布Zamba2-VL：混合Mamba2-Transformer视觉语言模型，首令牌生成时间缩短约一个数量级",
-"s": "Zyphra发布了Zamba2-VL，这是一个开源的视觉语言模型系列，包含1.2B、2.7B和7B三种参数规模。这些模型采用混合Mamba2状态空间与Transformer骨干架构，基于Apache 2.0许可证发布。它们在保持与同类Transformer VLM竞争力相当的同时，将首令牌生成时间缩短了约一个数量级。本文《Zyphra发布Zamba2-VL：混合Mamba2-Transformer视觉语言模型，首令牌生成时间缩短约一个数量级》最初发表于MarkTechPost。"
-},
 "https://techcrunch.com/?p=3131650": {
 "t": "更便宜、更快、更具文化意识，Avataar的视频AI专为印度规模打造",
 "s": "Avataar AI的精简视频模型每生成一秒收费0.005美元。"
@@ -4798,5 +4782,21 @@
 "https://www.marktechpost.com/?p=81432": {
 "t": "Moonshot AI 开源 MoonEP：一款完美平衡的 MoE 训练专家并行库",
 "s": "Moonshot AI 已开源 MoonEP，这是一个面向分布式混合专家（MoE）工作负载的专家并行（EP）通信库。团队宣布该库旨在提升大规模专家并行通信的效率，并以 MIT 许可证发布。MoonEP 作为 Kimi K3 开放日的一部分亮相，同时发布的还有 K3 模型权重及技术细节。该文章最初发表于 MarkTechPost。"
+},
+"https://the-decoder.com/?p=38367": {
+"t": "微软AI押注廉价专业模型，而非追逐前沿",
+"s": "微软AI首席执行官穆斯塔法·苏莱曼表示，微软AI正押注于小型专业模型，而非昂贵的通用模型。MAI-Cyber-1-Flash在嵌入编排器后，在CyberGym基准测试中名列前茅，据报道其成本仅为Anthropic的Mythos的一半，但在处理困难任务时仍依赖OpenAI。竞争正从单个模型转向负责路由和管理这些模型的编排软件。本文《微软AI押注廉价专业模型，而非追逐前沿》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3148116": {
+"t": "Dili 融资2170万美元，为基础设施热潮带来AI合规解决方案",
+"s": "本轮A轮融资由Khosla Ventures领投，Allianz、Rebel Fund、Brick and Mortar Ventures的Darren Bechtel以及Y Combinator的Garry Tan参与投资。"
+},
+"01KYQNRTVJ54SHCVBMMXFYGJ5P": {
+"t": "大规模内部测试：将cdnjs迁移至Cloudflare开发者平台",
+"s": "我们将每日处理90亿次请求的cdnjs完全迁移至Cloudflare开发者平台。这意味着我们正利用自身构建模块运行互联网最繁忙的开源CDN之一，并为此提升了Workflows和Workers对所有用户的限制上限。"
+},
+"https://the-decoder.com/?p=38373": {
+"t": "FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁",
+"s": "FCC正在阻止进口新型中国仿人机器人和机器狗。但该规则的宽泛定义也涵盖了扫地机器人、割草机器人和配送机器人。本文《FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁》首发于The Decoder。"
 }
 }

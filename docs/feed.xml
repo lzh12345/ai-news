@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 30 Jul 2026 10:14:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 13:40:24 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>微软AI押注廉价专业模型，而非追逐前沿</title>
+<link>https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38367</guid>
+<pubDate>Thu, 30 Jul 2026 13:11:48 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】微软AI首席执行官穆斯塔法·苏莱曼表示，微软AI正押注于小型专业模型，而非昂贵的通用模型。MAI-Cyber-1-Flash在嵌入编排器后，在CyberGym基准测试中名列前茅，据报道其成本仅为Anthropic的Mythos的一半，但在处理困难任务时仍依赖OpenAI。竞争正从单个模型转向负责路由和管理这些模型的编排软件。本文《微软AI押注廉价专业模型，而非追逐前沿》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Dili 融资2170万美元，为基础设施热潮带来AI合规解决方案</title>
+<link>https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3148116</guid>
+<pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】本轮A轮融资由Khosla Ventures领投，Allianz、Rebel Fund、Brick and Mortar Ventures的Darren Bechtel以及Y Combinator的Garry Tan参与投资。<br/><br/><a href="https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>大规模内部测试：将cdnjs迁移至Cloudflare开发者平台</title>
+<link>https://blog.cloudflare.com/cdnjs-dev-platform-migration/</link>
+<guid isPermaLink="false">01KYQNRTVJ54SHCVBMMXFYGJ5P</guid>
+<pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们将每日处理90亿次请求的cdnjs完全迁移至Cloudflare开发者平台。这意味着我们正利用自身构建模块运行互联网最繁忙的开源CDN之一，并为此提升了Workflows和Workers对所有用户的限制上限。<br/><br/><a href="https://blog.cloudflare.com/cdnjs-dev-platform-migration/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁</title>
+<link>https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38373</guid>
+<pubDate>Thu, 30 Jul 2026 12:47:46 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】FCC正在阻止进口新型中国仿人机器人和机器狗。但该规则的宽泛定义也涵盖了扫地机器人、割草机器人和配送机器人。本文《FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架</title>
 <link>https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/</link>
@@ -256,14 +288,6 @@
 <description><![CDATA[【the-decoder.com】在一份联合声明中，来自领先AI实验室的员工呼吁美国政府推动国际协调。他们的论点很简单：没有哪家公司或国家能独自减缓发展速度。本文《前沿AI开发者呼吁国际协调，在能力超越控制之前为自动化研究设定节奏》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI 开源 Codex Security CLI，帮助开发者从命令行发现并修复漏洞</title>
-<link>https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38319</guid>
-<pubDate>Wed, 29 Jul 2026 11:50:56 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI 发布了 Codex Security CLI，这是一款开源工具，可自动检测并修复代码仓库中的漏洞。据OpenAI称，该系统此前内部代号为“Aardvark”，已帮助修复了超过3000个关键安全缺陷。它直接与Anthropic的Claude Security竞争，两家AI公司正竞相以AI驱动的防御手段应对日益自动化的网络攻击。本文《OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>谷歌SynthID水印难以破解，但无法解决AI虚假信息问题</title>
 <link>https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/</guid>
@@ -376,14 +400,6 @@
 <description><![CDATA[【techcrunch.com】他的立场转变发生在“我切身感受到的第一次安全事件”之后。<br/><br/><a href="https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic称其Mythos模型发现互联网安全加密算法中的漏洞</title>
-<link>https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38311</guid>
-<pubDate>Tue, 28 Jul 2026 19:12:27 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic的Claude Mythos Preview在关键加密算法中发现了弱点，包括对HAWK（一种后量子签名方案，人类专家已审查超过两年）提出了更优的攻击方法。该模型仅用60小时、约10万美元的API成本就完成了这一发现。Anthropic表示，这些发现目前不影响现有系统，但展示了AI如何挑战互联网安全的核心假设。本文《Anthropic称其Mythos模型发现互联网安全加密算法中的漏洞》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>智能体AI时代的科学计算</title>
 <link>https://openai.com/index/scientific-computing-agentic-ai</link>
 <guid isPermaLink="false">https://openai.com/index/scientific-computing-agentic-ai</guid>
@@ -470,22 +486,6 @@
 <pubDate>Tue, 28 Jul 2026 04:30:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Cursor 表示印度目前是其全球第三大市场，并计划扩大本地招聘和企业销售。<br/><br/><a href="https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic的Dario Amodei回应：不反对开源权重模型，但担忧中国AI</title>
-<link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3147197</guid>
-<pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic创始人兼CEO Dario Amodei就开源权重模型及中国日益增长的AI能力明确表达了自己的观点。<br/><br/><a href="https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用解耦时间深度扩散Transformer实现内存高效的音频合成</title>
-<link>https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers</link>
-<guid isPermaLink="false">audio-synthesis-diffusion-transformers</guid>
-<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Siri情感语音通过AFM 3 Core Advanced（苹果最强大的设备端基础模型）在设备上实时合成丰富、可配置的语音。本文介绍了该功能背后的内存高效音频合成架构：一种解标记器，能够在Apple矩阵协处理器（AMX）严格的计算和内存预算内，将基础模型生成的语义音频标记转换为高保真音频。我们通过三组件设计将语义音频标记转换为残差向量量化（RVQ）表示——包括流式处理……<br/><br/><a href="https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
