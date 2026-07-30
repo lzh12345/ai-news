@@ -1,20 +1,4 @@
 {
-"https://huggingface.co/blog/allenai/olmo-eval": {
-"t": "olmo-eval：面向模型开发循环的评估工作台",
-"s": ""
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3132406": {
-"t": "IPO盛夏来袭，MANGOS已然成熟",
-"s": "IPO市场回暖，但引领潮流的已不再是那些老面孔。FAANG曾风光一时，但如今新缩写MANGOS正取而代之——Meta（或微软，视乎你问谁）、Anthropic、英伟达、谷歌、OpenAI和SpaceX。其中半数公司将在同一窗口期登陆公开市场，这对投资者、估值体系乃至整个市场而言，都是一场压力测试。"
-},
-"https://garymarcus.substack.com/p/you-cant-get-more-2026-than-that": {
-"t": "没有比这更2026的了",
-"s": "今日幻觉："
-},
-"2K9aPHKPuXNJBQtPo0ylUi": {
-"t": "扩展安全洞察：我们如何实现全球扫描能力提升10倍",
-"s": "Cloudflare安全洞察系统现在每秒处理超过120次扫描，为所有客户提供频繁的洞察。通过优化Kafka消费者、Postgres查询以及我们的API，我们在不增加硬件的情况下将吞吐量提升了10倍。"
-},
 "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/": {
 "t": "宝可梦Go玩家无意中为军用无人机技术做出贡献",
 "s": "将宝可梦Go数据重新用于AI训练的做法持续引发关注。"
@@ -4798,5 +4782,21 @@
 "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/": {
 "t": "从CUDA到MLX：K-Search如何将数十年的内核经验带到Apple Silicon",
 "s": "图1：CUDA到MLX的优化转换映射图。CUDA优化知识可以转化为架构原生的MLX策略，而非逐条指令复制。我们正面临计算的新纪元。硬件正在快速变化——不仅是更快的GPU，还有来自不同供应商的日益多样化的芯片，每种芯片都有其独特的架构，并且通常针对特定的AI工作负载进行定制。软件的变化同样迅速，AI编码工具现在能在几分钟内生成几年前需要数月努力才能完成的内容。随着计算领域如今如此集中于AI，GPU内核已成为关键组成部分。"
+},
+"https://www.marktechpost.com/?p=81442": {
+"t": "腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架",
+"s": "腾讯发布了AngelSpec，这是一个开源的、基于原生PyTorch的训练框架，支持六种架构的推测解码草稿模型。该框架引入了DFly，一种具有混合目标条件约束和隐式校正自回归头的块扩散草稿模型，并集成了D-cut用于运行时自适应验证预算分配。在TP=8配置下的HY3-295B-A21B模型上，DFly-8在并发数4至64范围内，相比自回归解码实现了1.98至2.40倍的加速。本文《腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架》首发于。"
+},
+"https://the-decoder.com/?p=38355": {
+"t": "OpenAI声称GPT-5.6 Sol在ARC-AGI-3上凭借最新API及两项额外设置击败Opus 5",
+"s": "OpenAI对Anthropic在ARC-AGI-3上的纪录做出回应：GPT-5.6 Sol得分38.3%，但仅在使用其自有API功能而非官方测试设置时达成——在该设置下模型得分仅为7.8%。ARC Prize声称其测试环境是供应商中立的，但可能使用了过时的API，导致与Opus 5的比较出现偏差。本文《OpenAI声称GPT-5.6 Sol在ARC-AGI-3上凭借最新API及两项额外设置击败Opus 5》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81436": {
+"t": "Token Saver 登场：一款利用本地混合 RAG 将 Claude PDF 令牌成本削减 90-99% 的开源 MCP 扩展",
+"s": "Marktechpost AI 发布了 Token Saver，这是一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 技术将 PDF 令牌消耗最高降低 99%，同时确保文档的绝对隐私。本文《Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81432": {
+"t": "Moonshot AI 开源 MoonEP：一款完美平衡的 MoE 训练专家并行库",
+"s": "Moonshot AI 已开源 MoonEP，这是一个面向分布式混合专家（MoE）工作负载的专家并行（EP）通信库。团队宣布该库旨在提升大规模专家并行通信的效率，并以 MIT 许可证发布。MoonEP 作为 Kimi K3 开放日的一部分亮相，同时发布的还有 K3 模型权重及技术细节。该文章最初发表于 MarkTechPost。"
 }
 }
