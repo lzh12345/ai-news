@@ -1,48 +1,4 @@
 {
-"https://openai.com/index/openai-to-acquire-ona": {
-"t": "OpenAI 将收购 Ona",
-"s": "OpenAI 计划收购 Ona，以通过安全、持久的云环境扩展 Codex，从而在企业工作流中实现长期运行的 AI 代理。"
-},
-"https://openai.com/index/using-codex-to-simulate-black-holes": {
-"t": "天体物理学家如何利用Codex模拟黑洞",
-"s": "了解天体物理学家Chi-kwan Chan如何利用Codex构建黑洞模拟，帮助科学家研究极端物理学并检验爱因斯坦的广义相对论。"
-},
-"https://openai.com/index/openai-on-oracle-cloud": {
-"t": "通过您的 Oracle 云承诺访问 OpenAI 模型和 Codex",
-"s": "通过 Oracle 云访问 OpenAI 模型和 Codex，利用现有承诺，以企业级安全性和治理能力构建并部署 AI。"
-},
-"https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/": {
-"t": "Google DeepMind 发布 DiffusionGemma，本地 AI 运行速度提升 4 倍",
-"s": "扩散 AI 在图像生成领域最为常见，但它也能大幅提升文本输出的速度。"
-},
-"https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/": {
-"t": "法院裁定：无人需要AI来搜索互联网，谷歌败诉",
-"s": "谷歌在德国因AI概览功能败诉，这可能预示着AI搜索行业的终结。"
-},
-"https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
-"t": "DiffusionGemma：文本生成速度提升4倍",
-"s": "（无）"
-},
-"https://github.blog/?p=96610": {
-"t": "通过语言服务器为 GitHub Copilot CLI 赋予真正的代码智能",
-"s": "安装并配置适用于 GitHub Copilot CLI 的 LSP 服务器，用真正的代码智能取代暴力 grep/反编译。本文《Give GitHub Copilot CLI real code intelligence with language servers》最初发布于 GitHub 博客。"
-},
-"7it4N1iImLVhf4Mt9YilGH": {
-"t": "使用Cloudflare将公共流量路由到私有应用",
-"s": "私有源应用服务现已进入封闭测试阶段。您可以通过现有的IPsec、GRE、CNI或Cloudflare Mesh路径，将公共主机名路由到私有IP源。无需公共IP或额外的连接器软件。"
-},
-"https://openai.com/index/prc-linked-influence-operations-ai-debates": {
-"t": "与PRC相关的影响力行动正瞄准美国的AI辩论",
-"s": "OpenAI的一份新报告详细描述了与PRC相关的影响力行动，这些行动利用AI瞄准美国的技术辩论、数据中心叙事、关税以及对ChatGPT的虚假指控。"
-},
-"https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": {
-"t": "投资多智能体AI安全研究",
-"s": "Google DeepMind及其合作伙伴宣布为多智能体安全研究提供1000万美元的资金征集。"
-},
-"https://openai.com/index/lseg": {
-"t": "从数据到决策：LSEG 如何规模化可信 AI",
-"s": "了解 LSEG 如何利用 OpenAI 在其全球业务中规模化可信 AI，加速洞察、缩短发布周期，并赋能 4,000 名员工。"
-},
 "https://techcrunch.com/?p=3132797": {
 "t": "Sarvam 获 HCLTech 领投 2.34 亿美元融资，成为印度最新 AI 独角兽",
 "s": "印度 IT 服务公司 HCLTech 向这家班加罗尔初创公司投资 1.5 亿美元。"
@@ -4798,5 +4754,49 @@
 "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": {
 "t": "Gemini Robotics 2 为机器人带来全身智能",
 "s": ""
+},
+"https://techcrunch.com/?p=3148510": {
+"t": "法官称特朗普政府仍缺乏证据支持将Anthropic列为“供应链风险”",
+"s": "一名联邦法官表示，特朗普政府尚未提供足够证据来证明将Anthropic列为供应链风险的合理性，这对其禁止该公司AI技术的政府禁令提出了质疑。"
+},
+"https://techcrunch.com/?p=3148423": {
+"t": "孤独的AI可穿戴设备Friend携新语音回归，价格大幅上涨",
+"s": "AI可穿戴设备Friend现在能与用户对话——但价格也随之提升。"
+},
+"https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/": {
+"t": "Chrome 或将实现无需重启的更快更新",
+"s": "最近两个版本的 Chrome 所包含的补丁数量，超过了此前 23 个版本的总和。"
+},
+"https://techcrunch.com/?p=3148357": {
+"t": "谷歌称6月修复的Chrome漏洞数量超过过去两年总和，AI功不可没",
+"s": "正如专家过去两年所警告的那样，一些公司——如微软以及现在的谷歌——正借助大语言模型和AI工具，在其产品中发现并修复数量呈指数级增长的漏洞。"
+},
+"https://the-decoder.com/?p=38398": {
+"t": "OpenAI全面进入中国定价模式，将其最实惠的GPT-5.6模型降价80%",
+"s": "自7月30日起，OpenAI将GPT-5.6 Luna的价格下调80%，Terra下调20%。OpenAI表示，其顶级Sol模型帮助公司自身基础设施更高效，从而实现了降价。来自廉价中国供应商和微软自有MAI模型的价格压力可能也起到了一定作用。本文《OpenAI全面进入中国定价模式，将其最实惠的GPT-5.6模型降价80%》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38392": {
+"t": "前OpenAI研究员预测千亿美元将涌入训练数据领域，因为仅靠规模扩展行不通",
+"s": "前OpenAI员工Andrew Ho与剑桥研究员Adam Hunt发现大语言模型正面临日益严重的问题。模型并未变得更加全能，反而趋于专业化——在编程和数学领域表现优异，但在其他领域停滞甚至退步。Ho离开OpenAI创立了一家专注专业训练数据的公司，并预测AI实验室需在定向数据采集上投入超1000亿美元。本文《前OpenAI研究员预测千亿美元将涌入训练数据领域，因为仅靠规模扩展行不通》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3148364": {
+"t": "LinkedIn 新增按钮，可举报AI生成的“垃圾内容”",
+"s": "LinkedIn 正在推出新措施以减少低质量的AI生成帖子，包括新增一个“看起来像AI垃圾内容”的举报选项。同时，它还将用自己的AI写作功能替换为校对工具。"
+},
+"https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/": {
+"t": "谷歌发布Gemini Robotics 2.0，承诺提升灵活性与安全性",
+"s": "Gemini Robotics 2包含三个模型，但目前仅有一个对外开放。"
+},
+"https://github.blog/?p=97813": {
+"t": "GitHub Copilot 应用中的堆叠会话与拉取请求",
+"s": "了解我如何通过 GitHub Copilot 应用中的堆叠会话与拉取请求，对旧代码库进行现代化改造。本文最初发布于 GitHub 博客。"
+},
+"https://www.marktechpost.com/?p=81447": {
+"t": "Google DeepMind 发布三款物理AI模型，用于全身控制、灵巧操作及多机器人协作",
+"s": "Google DeepMind 发布了 Gemini Robotics 2，这是其下一代机器人的智能层。此次发布包含三款模型：用于全身人形控制的视觉-语言-动作模型、用于具身推理和任务编排的 Gemini Robotics ER 2，以及一款可在数小时内适应新机器人本体的设备端 VLA。一个检查点驱动了 Apptronik Apollo 2 和 Franka Duo。仅 ER 2 公开可用。该文章最初发表于 MarkTechPost。"
+},
+"umap-knn-graph-sensemaking": {
+"t": "降维遇上网络科学：基于UMAP的kNN图进行数据理解",
+"s": "尽管UMAP被广泛用于探索高维数据，但典型的工作流程聚焦于其低维嵌入，很大程度上忽略了UMAP内部构建的丰富k近邻（kNN）图。该图在原始高维空间中编码了数据流形，尚未受到UMAP二维投影引入的失真影响。我们展示了这一内部表示尚未开发的潜力，说明将标准图算法应用于该图如何增强数据理解：（1）PageRank识别代表性数据点，（2）k-core分解揭示密集区域。"
 }
 }
