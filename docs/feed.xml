@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 30 Jul 2026 20:58:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 02:01:07 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic称其AI模型在安全测试中入侵了三家公司</title>
+<link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3148621</guid>
+<pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在OpenAI的模型入侵Hugging Face之后，Anthropic检查了自己的历史记录，发现了三起类似事件。<br/><br/><a href="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI对冲基金Situational Awareness或已清仓公开投资组合，但仍持有Anthropic股份</title>
+<link>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3148482</guid>
+<pubDate>Thu, 30 Jul 2026 23:25:58 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这位前OpenAI研究员的基金在杠杆公开押注暴跌后被迫平仓公开股票。但他手中仍有牌可打。<br/><br/><a href="https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Reddit季度业绩稳健，但显现AI影响迹象</title>
+<link>https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3148540</guid>
+<pubDate>Thu, 30 Jul 2026 23:08:58 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Reddit的财务状况看似良好，但与其与谷歌的关系及新兴AI化网络的不确定性，正引发市场担忧。<br/><br/><a href="https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>投资者热爱AI，前提是你是一家云服务商</title>
+<link>https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3148562</guid>
+<pubDate>Thu, 30 Jul 2026 22:41:41 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】亚马逊并未放缓数据中心支出——但投资者似乎并不介意。<br/><br/><a href="https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>法官称特朗普政府仍缺乏证据支持将Anthropic列为“供应链风险”</title>
 <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/</link>
@@ -264,6 +296,22 @@
 <description><![CDATA[【machinelearning.apple.com】尽管UMAP被广泛用于探索高维数据，但典型的工作流程聚焦于其低维嵌入，很大程度上忽略了UMAP内部构建的丰富k近邻（kNN）图。该图在原始高维空间中编码了数据流形，尚未受到UMAP二维投影引入的失真影响。我们展示了这一内部表示尚未开发的潜力，说明将标准图算法应用于该图如何增强数据理解：（1）PageRank识别代表性数据点，（2）k-core分解揭示密集区域。<br/><br/><a href="https://machinelearning.apple.com/research/umap-knn-graph-sensemaking">阅读原文</a>]]></description>
 </item>
 <item>
+<title>MoMo：通过时空动作标记化实现机器人操作中的动态运动模式</title>
+<link>https://machinelearning.apple.com/research/momo-motion-mode-manipulation</link>
+<guid isPermaLink="false">momo-motion-mode-manipulation</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】为了在不同情境中有效运作，机器人不仅需要精确执行操作任务，还需根据任务、物体及交互环境调整其动作展开方式。我们探究这种执行层面的变化能否作为跨任务共享的可复用行为因素进行学习。我们提出MoMo，一个两阶段模仿学习框架，包含时空动作标记器和一个行为克隆变换器，后者以任务和连续运动模式条件为输入。在六个真实机器人操作任务中，改变该条件可产生稳定的…<br/><br/><a href="https://machinelearning.apple.com/research/momo-motion-mode-manipulation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>avatarin如何利用GPT-Realtime打造全天候零售代理</title>
+<link>https://openai.com/index/avatarin</link>
+<guid isPermaLink="false">https://openai.com/index/avatarin</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】avatarin利用OpenAI的GPT-Realtime为山田电机购物者提供24/7多语言支持。两周内，3万人使用了该代理，92%的调查反馈为正面。<br/><br/><a href="https://openai.com/index/avatarin">阅读原文</a>]]></description>
+</item>
+<item>
 <title>马克·扎克伯格预测五年内将有数十亿人拥有个人AI代理</title>
 <link>https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3148017</guid>
@@ -304,36 +352,12 @@
 <description><![CDATA[【techcrunch.com】在TechCrunch Disrupt 2026大会上，由Google for Startups呈现的AI舞台将再次聚焦过去几年社区中最热门的话题，深入探讨相关议题。<br/><br/><a href="https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Thinking Machines 联合创始人 Lilian Weng 因健康原因离职，随后加入 OpenAI</title>
-<link>https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3147986</guid>
-<pubDate>Wed, 29 Jul 2026 21:07:48 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Weng 此前曾担任 OpenAI 的 AI 安全研究副总裁。<br/><br/><a href="https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>美国禁止外国机器人后，谁赢谁输？</title>
 <link>https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</guid>
 <pubDate>Wed, 29 Jul 2026 20:03:42 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】政府禁止外国制造的机器人可能反而阻碍美国机器人技术的发展。<br/><br/><a href="https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face AI 入侵事件，通过一个愈发投入的熊比喻来讲述</title>
-<link>https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3147668</guid>
-<pubDate>Wed, 29 Jul 2026 19:44:49 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】换个角度思考整件事，可以想象一只熊在露营地。（真的，我们就要这么讲。）<br/><br/><a href="https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Opus 5 在运行自动售货机任务时变得毫不留情</title>
-<link>https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3147626</guid>
-<pubDate>Wed, 29 Jul 2026 18:45:27 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Andon Labs 的最新自动售货机模拟显示，Opus 5 通过撒谎和合谋，成为了有史以来最出色的 AI 资本家。<br/><br/><a href="https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌Lyria 3.5音乐模型现允许用户编辑单个音轨段落，无需从头开始</title>
@@ -400,14 +424,6 @@
 <description><![CDATA[【arstechnica.com】微软正在幕后疯狂赶工，试图在黑客发现漏洞之前修补这些安全漏洞。<br/><br/><a href="https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>玛莎·斯图尔特联合创立AI初创公司Hint，为房主提供AI助手</title>
-<link>https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3147738</guid>
-<pubDate>Wed, 29 Jul 2026 15:35:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】由玛莎·斯图尔特联合创立的AI家居管理初创公司Hint，希望成为“你家的AI”，将房产记录、维护计划、房屋文件以及AI助手整合到单一应用中。<br/><br/><a href="https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>启用两个设置如何使我们在ARC-AGI-3基准测试中的得分翻了三倍</title>
 <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
 <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GPT-5.6 在模型、推理及智能体工作流中提升了AI效率，助力实现每美元成本下更有用的智能。<br/><br/><a href="https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流</title>
-<link>https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81410</guid>
-<pubDate>Tue, 28 Jul 2026 23:04:44 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们将Kimi CLI配置并操作为一个完全非交互式的AI编码代理。我们通过uv在隔离的Python 3.13环境中安装CLI，通过基于TOML的提供者和模型定义配置Moonshot API认证，并构建一个可重用的Python封装器来执行非交互式CLI命令。然后，我们将Kimi应用于……本文《利用Moonshot AI的Kimi CLI、JSONL流式处理、测试和会话记忆构建非交互式智能编码工作流》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型</title>
-<link>https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81406</guid>
-<pubDate>Tue, 28 Jul 2026 22:45:56 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Fireworks AI 发布了 Fireworks Nexus，这是一个面向工程组织的 AI 管理与路由平台。它将开发者已使用的编码工具连接到一个由开源权重模型管理的层。该平台旨在解决一个广为人知的问题：据《福布斯》报道，Uber 在四个月内就耗尽了其整个 2026 年的 AI 预算。而 Claude Code 此前也已达到……本文《Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
