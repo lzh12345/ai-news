@@ -5,23 +5,23 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 31 Jul 2026 06:37:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 10:29:48 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>PolyAI发布Dialog-RSN-1：融合话轮转换、语音识别、功能调用与响应的音频原生对话模型</title>
-<link>https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81457</guid>
-<pubDate>Fri, 31 Jul 2026 05:06:43 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】PolyAI推出了Dialog-RSN-1，这是一款直接感知来电者音频而非读取ASR转录文本的对话模型。它将话轮转换、语音识别、功能调用和响应生成融合到一个单一的音频原生模型中，同时将TTS分离，以保持输出语音的可控性，并以基于请求的LLM形式运行，而非持续在线流。PolyAI报告称，在实时部署中响应时间低于300毫秒。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/">阅读原文</a>]]></description>
+<title>在欧洲推进负责任的人工智能</title>
+<link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
+<guid isPermaLink="false">https://openai.com/index/advancing-responsible-ai-across-europe</guid>
+<pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI分享了其安全、安保、透明度和来源追溯实践如何支持欧洲负责任的人工智能治理。随着欧盟《人工智能法案》的推进，这项工作将持续进行。<br/><br/><a href="https://openai.com/index/advancing-responsible-ai-across-europe">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用Omnigent构建策略治理的多智能体金融研究工作流</title>
-<link>https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81452</guid>
-<pubDate>Fri, 31 Jul 2026 04:44:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们演示如何在安全、隔离的Python环境中使用Omnigent构建并执行多智能体工作流。学习集成实时汇率数据、实现层级智能体委派以进行金融文本审计，并直接从Google Colab将硬性治理策略（如成本预算和工具调用限制）应用于研究流程。本文《使用Omnigent构建策略治理的多智能体金融研究工作流》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/">阅读原文</a>]]></description>
+<title>Univé打造AI就绪的员工队伍</title>
+<link>https://openai.com/index/unive</link>
+<guid isPermaLink="false">https://openai.com/index/unive</guid>
+<pubDate>Fri, 31 Jul 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】了解Univé如何通过结合领导力、负责任治理与员工主导的创新，利用ChatGPT Enterprise打造AI就绪的员工队伍，实现工作的大规模转型。<br/><br/><a href="https://openai.com/index/unive">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic称其AI模型在安全测试中入侵了三家公司</title>
@@ -126,14 +126,6 @@
 <pubDate>Thu, 30 Jul 2026 17:30:24 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】了解我如何通过 GitHub Copilot 应用中的堆叠会话与拉取请求，对旧代码库进行现代化改造。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google DeepMind 发布三款物理AI模型，用于全身控制、灵巧操作及多机器人协作</title>
-<link>https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81447</guid>
-<pubDate>Thu, 30 Jul 2026 17:20:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google DeepMind 发布了 Gemini Robotics 2，这是其下一代机器人的智能层。此次发布包含三款模型：用于全身人形控制的视觉-语言-动作模型、用于具身推理和任务编排的 Gemini Robotics ER 2，以及一款可在数小时内适应新机器人本体的设备端 VLA。一个检查点驱动了 Apptronik Apollo 2 和 Franka Duo。仅 ER 2 公开可用。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Okta 收购 AI 安全初创公司 Permiso；消息人士称交易金额约 2 亿美元</title>
@@ -248,14 +240,6 @@
 <description><![CDATA[【the-decoder.com】FCC正在阻止进口新型中国仿人机器人和机器狗。但该规则的宽泛定义也涵盖了扫地机器人、割草机器人和配送机器人。本文《FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架</title>
-<link>https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81442</guid>
-<pubDate>Thu, 30 Jul 2026 10:08:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】腾讯发布了AngelSpec，这是一个开源的、基于原生PyTorch的训练框架，支持六种架构的推测解码草稿模型。该框架引入了DFly，一种具有混合目标条件约束和隐式校正自回归头的块扩散草稿模型，并集成了D-cut用于运行时自适应验证预算分配。在TP=8配置下的HY3-295B-A21B模型上，DFly-8在并发数4至64范围内，相比自回归解码实现了1.98至2.40倍的加速。本文《腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架》首发于。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>以GPT-5.6推进性价比前沿</title>
 <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
 <guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
@@ -270,30 +254,6 @@
 <pubDate>Thu, 30 Jul 2026 09:03:11 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI对Anthropic在ARC-AGI-3上的纪录做出回应：GPT-5.6 Sol得分38.3%，但仅在使用其自有API功能而非官方测试设置时达成——在该设置下模型得分仅为7.8%。ARC Prize声称其测试环境是供应商中立的，但可能使用了过时的API，导致与Opus 5的比较出现偏差。本文《OpenAI声称GPT-5.6 Sol在ARC-AGI-3上凭借最新API及两项额外设置击败Opus 5》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Token Saver 登场：一款利用本地混合 RAG 将 Claude PDF 令牌成本削减 90-99% 的开源 MCP 扩展</title>
-<link>https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81436</guid>
-<pubDate>Thu, 30 Jul 2026 07:43:29 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Marktechpost AI 发布了 Token Saver，这是一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 技术将 PDF 令牌消耗最高降低 99%，同时确保文档的绝对隐私。本文《Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>提示工程 vs 循环工程 vs 图工程：每一层的变化是什么</title>
-<link>https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81422</guid>
-<pubDate>Thu, 30 Jul 2026 05:45:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】现在有三个术语在AI工程职位描述中争夺同一位置。提示工程是已确立的术语。循环工程于2025年底进入AI词汇，并在2026年6月前主导了开发者讨论。图工程大约在六周后出现。它们被混用。它们应该被混用吗？这三种并非相互竞争的技术。[…] 这篇《提示工程 vs 循环工程 vs 图工程：每一层的变化是什么》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Moonshot AI 开源 MoonEP：一款完美平衡的 MoE 训练专家并行库</title>
-<link>https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81432</guid>
-<pubDate>Thu, 30 Jul 2026 05:28:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Moonshot AI 已开源 MoonEP，这是一个面向分布式混合专家（MoE）工作负载的专家并行（EP）通信库。团队宣布该库旨在提升大规模专家并行通信的效率，并以 MIT 许可证发布。MoonEP 作为 Kimi K3 开放日的一部分亮相，同时发布的还有 K3 模型权重及技术细节。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>微软正前所未有地公开与OpenAI、Anthropic展开竞争</title>
@@ -480,12 +440,52 @@
 <description><![CDATA[【openai.com】OpenAI正向10万名学术研究者免费提供ChatGPT最先进的AI模型访问权限，以加速科学研究、协作与发现进程。<br/><br/><a href="https://openai.com/index/chatgpt-for-academic-researchers">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Liquid AI 发布 LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M：在 CPU 上 8K 上下文下仍保持快速的双向编码器</title>
-<link>https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81415</guid>
-<pubDate>Wed, 29 Jul 2026 09:38:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI 发布了两个开源权重双向编码器，LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M。两者均支持 8,192 个 token 的上下文，并基于 LFM2 混合骨干架构构建。其中 350M 版本在包含 17 项任务的 GLUE、SuperGLUE 和多语言套件中排名第四（共 14 个模型），仅次于更大的模型。230M 版本在 CPU 上完成一次 8K token 前向传播约需 28 秒。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/">阅读原文</a>]]></description>
+<title>从CUDA到MLX：K-Search如何将数十年的内核经验带到Apple Silicon</title>
+<link>http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/</link>
+<guid isPermaLink="false">http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/</guid>
+<pubDate>Wed, 29 Jul 2026 02:00:00 -0700</pubDate>
+<source>bair.berkeley.edu</source>
+<description><![CDATA[【bair.berkeley.edu】图1：CUDA到MLX的优化转换映射图。CUDA优化知识可以转化为架构原生的MLX策略，而非逐条指令复制。我们正面临计算的新纪元。硬件正在快速变化——不仅是更快的GPU，还有来自不同供应商的日益多样化的芯片，每种芯片都有其独特的架构，并且通常针对特定的AI工作负载进行定制。软件的变化同样迅速，AI编码工具现在能在几分钟内生成几年前需要数月努力才能完成的内容。随着计算领域如今如此集中于AI，GPU内核已成为关键组成部分。<br/><br/><a href="http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-5.6 如何融合前沿智能与前沿效率</title>
+<link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
+<guid isPermaLink="false">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
+<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】GPT-5.6 在模型、推理及智能体工作流中提升了AI效率，助力实现每美元成本下更有用的智能。<br/><br/><a href="https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们现在更清楚地了解了OpenAI是如何入侵Hugging Face的</title>
+<link>https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/</guid>
+<pubDate>Tue, 28 Jul 2026 21:36:39 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】从OpenAI模型利用JFrog Artifactory零日漏洞到补丁发布，过去了10天。<br/><br/><a href="https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>尽管AI热潮汹涌，谷歌数据显示员工并未被自动化取代</title>
+<link>https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/</guid>
+<pubDate>Tue, 28 Jul 2026 20:20:20 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】对1500万次真实AI交互的分析发现，大多数岗位上的大部分任务并未受到影响。<br/><br/><a href="https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>智能体AI时代的科学计算</title>
+<link>https://openai.com/index/scientific-computing-agentic-ai</link>
+<guid isPermaLink="false">https://openai.com/index/scientific-computing-agentic-ai</guid>
+<pubDate>Tue, 28 Jul 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】一份新的领域报告展示了科学家如何利用AI编码代理来现代化科学计算，加速基因组学及其他领域的软件开发和发现。<br/><br/><a href="https://openai.com/index/scientific-computing-agentic-ai">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OlmoEarth平台：实现行星尺度的地理空间推理</title>
+<link>https://huggingface.co/blog/allenai/olmoearth-infrastructure</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/olmoearth-infrastructure</guid>
+<pubDate>Tue, 28 Jul 2026 16:27:42 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/olmoearth-infrastructure">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

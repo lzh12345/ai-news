@@ -1,12 +1,4 @@
 {
-"https://github.blog/?p=96776": {
-"t": "通过新的开放数据集加速研究人员和开发者构建多语言AI",
-"s": "一个全新的仓库级数据集已在GitHub上以CC0-1.0许可发布，帮助研究人员和开发者发现跨README、议题和拉取请求的多语言开发者内容。本文《通过新的开放数据集加速研究人员和开发者构建多语言AI》最初发表于GitHub博客。"
-},
-"https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/": {
-"t": "芯片制造商英伟达寻求自2021年以来首次发行超250亿美元债券",
-"s": "此次债券发行将测试投资者在借贷浪潮中对进一步涉足人工智能领域的兴趣。"
-},
 "https://techcrunch.com/?p=3132926": {
 "t": "Meta在Facebook推出新的“AI模式”，从旗下各平台的公开信息中提取数据",
 "s": "Meta周一宣布，正在Facebook上推出一系列新的人工智能功能，这是该公司在AI竞赛中努力追赶并让用户更活跃于平台的最新迹象。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=81452": {
 "t": "使用Omnigent构建策略治理的多智能体金融研究工作流",
 "s": "在本教程中，我们演示如何在安全、隔离的Python环境中使用Omnigent构建并执行多智能体工作流。学习集成实时汇率数据、实现层级智能体委派以进行金融文本审计，并直接从Google Colab将硬性治理策略（如成本预算和工具调用限制）应用于研究流程。本文《使用Omnigent构建策略治理的多智能体金融研究工作流》最初发表于MarkTechPost。"
+},
+"https://openai.com/index/advancing-responsible-ai-across-europe": {
+"t": "在欧洲推进负责任的人工智能",
+"s": "OpenAI分享了其安全、安保、透明度和来源追溯实践如何支持欧洲负责任的人工智能治理。随着欧盟《人工智能法案》的推进，这项工作将持续进行。"
+},
+"https://openai.com/index/unive": {
+"t": "Univé打造AI就绪的员工队伍",
+"s": "了解Univé如何通过结合领导力、负责任治理与员工主导的创新，利用ChatGPT Enterprise打造AI就绪的员工队伍，实现工作的大规模转型。"
 }
 }
