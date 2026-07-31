@@ -5,15 +5,71 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 31 Jul 2026 17:21:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 20:55:33 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>瓦解犯罪诈骗行动</title>
-<link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
-<guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
-<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI 瓦解了一个位于柬埔寨的诈骗行动，该行动利用 ChatGPT 支持投资、婚恋、赌博和冒充诈骗。<br/><br/><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation">阅读原文</a>]]></description>
+<title>Claude向互联网发布恶意代码并攻击了3家真实公司</title>
+<link>https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/</guid>
+<pubDate>Fri, 31 Jul 2026 20:39:14 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】如果这些黑客采用常规手段，很可能有人会因此入狱。<br/><br/><a href="https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌因撤回可生成虚假卫星图像的AI工具而面临风险</title>
+<link>https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/</guid>
+<pubDate>Fri, 31 Jul 2026 20:21:05 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】“谷歌到底在做什么？”虚假信息担忧促使撤回AI工具。<br/><br/><a href="https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌在推出地球AI功能一天后即予取消，因遭批评恐传播不实信息</title>
+<link>https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3148844</guid>
+<pubDate>Fri, 31 Jul 2026 19:47:28 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】一项允许任何人生成虚假AI图像并将其叠加在真实谷歌地球地图上的工具迅速引发争议。<br/><br/><a href="https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>你会为了在一家每周工作7天的AI初创公司面试而纹身吗？</title>
+<link>https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/</link>
+<guid isPermaLink="false">https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/</guid>
+<pubDate>Fri, 31 Jul 2026 19:04:56 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】LemonLime的首席执行官因纹身噱头而“忘乎所以”。<br/><br/><a href="https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌DeepMind发布Gemini Robotics 2，为从桌面机械臂到人形机器人的各种形态机器人提供动力</title>
+<link>https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38428</guid>
+<pubDate>Fri, 31 Jul 2026 18:25:08 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌DeepMind的Gemini Robotics 2是其迄今最先进的视觉-语言-动作模型，旨在控制从桌面机器人到全身人形机器人的各类设备。Gemini Robotics ER 2则为机器人任务增加了更高层次的推理层。本文《谷歌DeepMind发布Gemini Robotics 2，为从桌面机械臂到人形机器人的各种形态机器人提供动力》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>高中为男生制作59名同学AI裸照保持沉默辩护</title>
+<link>https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/</guid>
+<pubDate>Fri, 31 Jul 2026 18:11:55 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】法律漏洞或使宾夕法尼亚州高中逃脱AI裸照丑闻责任。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Thinking Machines发布第二款模型Inkling Small，押注效率而非规模</title>
+<link>https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38423</guid>
+<pubDate>Fri, 31 Jul 2026 17:41:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】由前OpenAI首席技术官米拉·穆拉蒂创立的AI实验室Thinking Machines推出了Inkling Small。这款开放权重的推理模型体积不到Inkling的三分之一，但在多项编程和推理基准测试中表现更优。文章《Thinking Machines bets on efficiency over size with its second model, Inkling Small》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>山姆·奥特曼并非唯一希望为AI发展踩刹车的人</title>
+<link>https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3148833</guid>
+<pubDate>Fri, 31 Jul 2026 17:26:32 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在多年全力推进人工智能发展后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让AI行业“放慢脚步”了。就在他发表此番言论的几天前，OpenAI自家的一款模型突破了测试环境，并卷入了一起Hugging Face的安全漏洞事件——尽管正如《Equity》的主持人所指出的，粗心的安全措施似乎才是问题所在……<br/><br/><a href="https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Snapchat不再奖励完全由AI生成的Spotlight内容</title>
@@ -150,6 +206,14 @@
 <pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】在OpenAI的模型入侵Hugging Face之后，Anthropic检查了自己的历史记录，发现了三起类似事件。<br/><br/><a href="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>瓦解犯罪诈骗行动</title>
+<link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
+<guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI 瓦解了一个位于柬埔寨的诈骗行动，该行动利用 ChatGPT 支持投资、婚恋、赌博和冒充诈骗。<br/><br/><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI对冲基金Situational Awareness或已清仓公开投资组合，但仍持有Anthropic股份</title>
@@ -320,28 +384,12 @@
 <description><![CDATA[【the-decoder.com】语言模型能引发科学革命吗？在一篇题为“LLMs can't jump”的立场论文中，谷歌DeepMind的Tom Zahavy认为它们不能。它们缺少创造真正新事物所需的认知机制。文章《语言模型无法引发科学革命，但世界模型或许可以》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>TechCrunch Disrupt 2026 主舞台汇聚亚马逊、Replit、Tether 等企业领袖，更多精彩即将揭晓</title>
-<link>https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3147661</guid>
-<pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Disrupt 舞台是科技界诸多重大对话的发生地，其传统可追溯至十多年前。<br/><br/><a href="https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>微软AI押注廉价专业模型，而非追逐前沿</title>
 <link>https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=38367</guid>
 <pubDate>Thu, 30 Jul 2026 13:11:48 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】微软AI首席执行官穆斯塔法·苏莱曼表示，微软AI正押注于小型专业模型，而非昂贵的通用模型。MAI-Cyber-1-Flash在嵌入编排器后，在CyberGym基准测试中名列前茅，据报道其成本仅为Anthropic的Mythos的一半，但在处理困难任务时仍依赖OpenAI。竞争正从单个模型转向负责路由和管理这些模型的编排软件。本文《微软AI押注廉价专业模型，而非追逐前沿》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Dili 融资2170万美元，为基础设施热潮带来AI合规解决方案</title>
-<link>https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148116</guid>
-<pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】本轮A轮融资由Khosla Ventures领投，Allianz、Rebel Fund、Brick and Mortar Ventures的Darren Bechtel以及Y Combinator的Garry Tan参与投资。<br/><br/><a href="https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>大规模内部测试：将cdnjs迁移至Cloudflare开发者平台</title>
@@ -352,28 +400,12 @@
 <description><![CDATA[【blog.cloudflare.com】我们将每日处理90亿次请求的cdnjs完全迁移至Cloudflare开发者平台。这意味着我们正利用自身构建模块运行互联网最繁忙的开源CDN之一，并为此提升了Workflows和Workers对所有用户的限制上限。<br/><br/><a href="https://blog.cloudflare.com/cdnjs-dev-platform-migration/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁</title>
-<link>https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38373</guid>
-<pubDate>Thu, 30 Jul 2026 12:47:46 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】FCC正在阻止进口新型中国仿人机器人和机器狗。但该规则的宽泛定义也涵盖了扫地机器人、割草机器人和配送机器人。本文《FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>以GPT-5.6推进性价比前沿</title>
 <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
 <guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
 <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】探索Luna和Terra更低的GPT-5.6定价——以及OpenAI更高效的模型如何帮助企业大规模部署AI工作流。<br/><br/><a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI声称GPT-5.6 Sol在ARC-AGI-3上凭借最新API及两项额外设置击败Opus 5</title>
-<link>https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38355</guid>
-<pubDate>Thu, 30 Jul 2026 09:03:11 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI对Anthropic在ARC-AGI-3上的纪录做出回应：GPT-5.6 Sol得分38.3%，但仅在使用其自有API功能而非官方测试设置时达成——在该设置下模型得分仅为7.8%。ARC Prize声称其测试环境是供应商中立的，但可能使用了过时的API，导致与Opus 5的比较出现偏差。本文《OpenAI声称GPT-5.6 Sol在ARC-AGI-3上凭借最新API及两项额外设置击败Opus 5》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>降维遇上网络科学：基于UMAP的kNN图进行数据理解</title>
@@ -454,38 +486,6 @@
 <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】两个API设置如何通过保留推理能力和启用压缩功能，提升了GPT-5.6在ARC-AGI-3上的性能，从而提高了得分和效率。<br/><br/><a href="https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores">阅读原文</a>]]></description>
-</item>
-<item>
-<title>当AI被用于破译失传语言时会发生什么？</title>
-<link>https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/</link>
-<guid isPermaLink="false">https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/</guid>
-<pubDate>Wed, 29 Jul 2026 13:23:31 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】AI在识别模式方面表现出色，但人类的洞察力才是关键。<br/><br/><a href="https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>现已支持对源站进行后量子身份验证</title>
-<link>https://blog.cloudflare.com/post-quantum-authentication-to-origins/</link>
-<guid isPermaLink="false">01KYMH71B35NXQ00E0M2D0WMQV</guid>
-<pubDate>Wed, 29 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare 现已支持通过认证源站拉取和自定义源站信任存储连接到客户源站服务器时，采用后量子（PQ）身份验证。这是为所有 Cloudflare 产品提供 PQ 身份验证的第一步。<br/><br/><a href="https://blog.cloudflare.com/post-quantum-authentication-to-origins/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌SynthID水印难以破解，但无法解决AI虚假信息问题</title>
-<link>https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/</guid>
-<pubDate>Wed, 29 Jul 2026 11:00:39 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】未来在互联网上辨别真伪将变得不易。<br/><br/><a href="https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>借助ChatGPT加速学术研究者的科学发现</title>
-<link>https://openai.com/index/chatgpt-for-academic-researchers</link>
-<guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers</guid>
-<pubDate>Wed, 29 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI正向10万名学术研究者免费提供ChatGPT最先进的AI模型访问权限，以加速科学研究、协作与发现进程。<br/><br/><a href="https://openai.com/index/chatgpt-for-academic-researchers">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

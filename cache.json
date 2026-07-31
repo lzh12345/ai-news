@@ -1,36 +1,4 @@
 {
-"https://the-decoder.com/?p=36684": {
-"t": "SpaceX押注600亿美元收购Cursor，以追赶OpenAI和Anthropic",
-"s": "在IPO仅两个交易日后，埃隆·马斯克的SpaceX收购了AI编程初创公司Anysphere。这笔交易旨在帮助陷入困境的xAI部门追赶Anthropic和OpenAI。文章《SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3133261": {
-"t": "美国司法部称xAI未经许可的燃气轮机事关“国家、经济和能源安全”",
-"s": "美国司法部表示，五角大楼需要xAI继续使用其未经许可的燃气轮机。"
-},
-"https://techcrunch.com/?p=3133218": {
-"t": "Plaud 称其软件业务年经常性收入突破1亿美元，AI 录音笔出货量超200万台",
-"s": "Plaud 正试图在竞争激烈的 AI 会议记录市场中脱颖而出。"
-},
-"https://techcrunch.com/?p=3133252": {
-"t": "Robinhood裁员10%的声明显示，将责任推给AI并不奏效",
-"s": "与许多科技行业同行因声称需要重组以充分利用AI而裁员数千人不同，Robinhood首席执行官Vlad Tenev在关于裁员的声明中明显未提及AI。"
-},
-"https://techcrunch.com/?p=3133253": {
-"t": "SpaceX估值飙升至2.7万亿美元，超越亚马逊",
-"s": "自上周五股票开始交易以来，SpaceX的估值已增加1万亿美元。"
-},
-"https://the-decoder.com/?p=36681": {
-"t": "美国司法部援引国家安全为由，在NAACP诉讼中为xAI未经许可的燃气轮机辩护",
-"s": "美国司法部称xAI的聊天机器人Grok对军事行动至关重要，为其争议性的燃气轮机进行辩护。本文《美国司法部援引国家安全为由，在NAACP诉讼中为xAI未经许可的燃气轮机辩护》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3133240": {
-"t": "Probably 融资 900 万美元，打造更可靠的 AI",
-"s": "Probably 旨在防止幻觉和事实错误传递给用户，并实现与确定性系统相当的准确性。"
-},
-"1Ng3fFBbnnbu6qxP1HMqpB": {
-"t": "Cloudflare DMARC 管理现已全面可用",
-"s": "通过更深入的报告、记录分析和 SPF 审计，为每位 Cloudflare 客户免费提供统一的电子邮件认证状态可见性，并实现全面的 DMARC 强制执行。"
-},
 "https://the-decoder.com/?p=36676": {
 "t": "俄罗斯宣传能多容易地欺骗AI模型？新基准测试揭示真相",
 "s": "爱沙尼亚语言研究所发布了一项基准测试，用于衡量AI语言模型对俄罗斯宣传的敏感程度。本文《俄罗斯宣传能多容易地欺骗AI模型？新基准测试揭示真相》最初发表于The Decoder。"
@@ -4798,5 +4766,37 @@
 "https://techcrunch.com/?post_type=tc_podcast&p=3148831": {
 "t": "AI实验室欲踩刹车，亚马逊与SpaceX却仍在加速升空",
 "s": "在多年全力推进AI发展后，OpenAI首席执行官萨姆·奥尔特曼表示，或许AI行业是时候“放慢节奏”了。此番言论发表前几天，OpenAI自家的一款模型突破了测试环境，并卷入Hugging Face的一起安全漏洞事件——不过正如Equity的主持人所指出的，安全措施松懈似乎是……"
+},
+"https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/": {
+"t": "Claude向互联网发布恶意代码并攻击了3家真实公司",
+"s": "如果这些黑客采用常规手段，很可能有人会因此入狱。"
+},
+"https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/": {
+"t": "谷歌因撤回可生成虚假卫星图像的AI工具而面临风险",
+"s": "“谷歌到底在做什么？”虚假信息担忧促使撤回AI工具。"
+},
+"https://techcrunch.com/?p=3148844": {
+"t": "谷歌在推出地球AI功能一天后即予取消，因遭批评恐传播不实信息",
+"s": "一项允许任何人生成虚假AI图像并将其叠加在真实谷歌地球地图上的工具迅速引发争议。"
+},
+"https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/": {
+"t": "你会为了在一家每周工作7天的AI初创公司面试而纹身吗？",
+"s": "LemonLime的首席执行官因纹身噱头而“忘乎所以”。"
+},
+"https://the-decoder.com/?p=38428": {
+"t": "谷歌DeepMind发布Gemini Robotics 2，为从桌面机械臂到人形机器人的各种形态机器人提供动力",
+"s": "谷歌DeepMind的Gemini Robotics 2是其迄今最先进的视觉-语言-动作模型，旨在控制从桌面机器人到全身人形机器人的各类设备。Gemini Robotics ER 2则为机器人任务增加了更高层次的推理层。本文《谷歌DeepMind发布Gemini Robotics 2，为从桌面机械臂到人形机器人的各种形态机器人提供动力》首发于The Decoder。"
+},
+"https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/": {
+"t": "高中为男生制作59名同学AI裸照保持沉默辩护",
+"s": "法律漏洞或使宾夕法尼亚州高中逃脱AI裸照丑闻责任。"
+},
+"https://the-decoder.com/?p=38423": {
+"t": "Thinking Machines发布第二款模型Inkling Small，押注效率而非规模",
+"s": "由前OpenAI首席技术官米拉·穆拉蒂创立的AI实验室Thinking Machines推出了Inkling Small。这款开放权重的推理模型体积不到Inkling的三分之一，但在多项编程和推理基准测试中表现更优。文章《Thinking Machines bets on efficiency over size with its second model, Inkling Small》首发于The Decoder。"
+},
+"https://techcrunch.com/?post_type=tc_video&p=3148833": {
+"t": "山姆·奥特曼并非唯一希望为AI发展踩刹车的人",
+"s": "在多年全力推进人工智能发展后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让AI行业“放慢脚步”了。就在他发表此番言论的几天前，OpenAI自家的一款模型突破了测试环境，并卷入了一起Hugging Face的安全漏洞事件——尽管正如《Equity》的主持人所指出的，粗心的安全措施似乎才是问题所在……"
 }
 }
