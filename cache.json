@@ -1,48 +1,4 @@
 {
-"https://techcrunch.com/?p=3132810": {
-"t": "Salesforce 以36亿美元收购AI客服平台Fin",
-"s": "Salesforce表示，希望利用Fin的团队和技术来改进其现有企业平台Agentforce，企业可使用该平台构建自定义AI代理以自动化任务。"
-},
-"https://github.blog/?p=96773": {
-"t": "GitHub Copilot CLI 初学者指南：常用斜杠命令概览",
-"s": "GitHub Copilot CLI 初学者指南：了解如何使用斜杠命令控制终端AI代理。本文最初发布于GitHub博客。"
-},
-"https://www.marktechpost.com/?p=80521": {
-"t": "认识 Flash-KMeans：一种 IO 感知的精确 K-Means 算法，在 GPU 上比 FAISS 快 200 倍以上",
-"s": "Flash-KMeans 是一种开源的、IO 感知的标准 Lloyd K-Means 实现，基于 Triton GPU 内核。它不改变数学原理或进行近似计算。FlashAssign 消除了距离矩阵的物化；Sort-Inverse Update 消除了原子竞争。在 NVIDIA H200 上，它报告端到端性能提升 17.9 倍，相比 cuML 提升 33 倍，相比 FAISS 提升超过 200 倍。本文《Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80518": {
-"t": "Z.ai发布GLM-5.2：支持可用百万Token上下文、两种思考努力级别，发布时未附带基准测试",
-"s": "Z.ai于2026年6月13日在其所有GLM编程计划层级中推出了GLM-5.2。其亮点在于支持可用的百万Token上下文窗口，以及高和最大两种努力级别。该模型通过兼容Anthropic的端点集成到Claude Code、Cline和OpenClaw中。发布时未附带任何基准测试结果，并承诺下周开放MIT权重。文章《Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch》首发于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3133119": {
-"t": "桑达尔·皮查伊在斯坦福毕业典礼上因谷歌与以色列及ICE的合作关系遭遇嘘声和退场",
-"s": "人工智能再次成为大学毕业典礼抗议的核心——这次是因为该技术在谷歌国防合同中的应用。"
-},
-"https://www.marktechpost.com/?p=80529": {
-"t": "Sakana AI 将 AB-MCTS 商业化于 Sakana Marlin，该企业智能体可生成多达100页的研究报告及幻灯片",
-"s": "Sakana AI 的首款商业产品可自主运行，每项任务最长耗时八小时。它基于 AB-MCTS 和 AI Scientist 工作流，返回多页报告和幻灯片。本文《Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides》最初发表于 MarkTechPost。"
-},
-"https://techcrunch.com/?p=3133070": {
-"t": "美国政府禁止Anthropic模型并非针对AI越狱行为",
-"s": "特朗普政府迫使Anthropic撤回其最新网络安全模型的决定，可能是出于反应过度、报复性，或两者兼有，但传递的信息很明确：AI行业无法免受美国政府干预。"
-},
-"https://www.marktechpost.com/?p=80549": {
-"t": "认识 Atoms：一款利用 AI 代理构建、部署和营销应用的“氛围编程”工具（无需编码）",
-"s": "“氛围编程”的概念很有趣；你无需成为开发者或软件工程师就能构建自己的应用。你可以用日常语言向 AI 描述你的想法，它会构建、编辑并优化你的应用，让你无需逐行编写代码。听起来很简单……这篇文章《认识 Atoms：一款利用 AI 代理构建、部署和营销应用的“氛围编程”工具（无需编码）》最初出现在 MarkTechPost 上。"
-},
-"https://www.marktechpost.com/?p=80542": {
-"t": "Google Cloud 推出开放知识格式（OKF）：一种供应商中立的 Markdown 规范，用于为 AI 代理提供精选上下文",
-"s": "我们解析了 Google Cloud 的新开放知识格式（OKF），这是一种将 LLM-wiki 模式形式化的开放规范。我们解释了 bundle 的工作原理：一个包含 YAML 前置元数据的 Markdown 文件目录，其中每个概念只需一个类型字段。我们涵盖了三个设计原则、Google 发布的参考工具，以及 OKF 与 RAG 的区别。我们还提供了一个可运行的 Python 消费者和一个可嵌入的交互式 bundle 浏览器。本文《Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80539": {
-"t": "如何使用Docling Parse构建布局感知文档智能的解析管道",
-"s": "在本教程中，我们构建了一个工作流程，利用Docling Parse对PDF文档进行详细的层级结构分析。我们准备了稳定的Python环境，处理了常见的Colab依赖问题，并生成了一个包含文本、列、表格类内容、矢量形状和嵌入图像的自定义多页PDF。随后，我们提取了带有页面级坐标的单词、字符和行，渲染了视觉叠加层，并将结果保存为结构化的JSON和CSV格式。我们展示了底层解析如何支持布局分析、阅读顺序重建以及面向检索的文档准备。"
-},
-"https://techcrunch.com/?p=3133092": {
-"t": "马来西亚AI智能体驱动的消息应用Respond.io融资6250万美元，计划进行收购",
-"s": "Respond.io是马来西亚值得关注的初创企业之一，它利用AI智能体处理大量客户咨询，并按对话次数收费，而非按席位收费。"
-},
 "https://the-decoder.com/?p=36684": {
 "t": "SpaceX押注600亿美元收购Cursor，以追赶OpenAI和Anthropic",
 "s": "在IPO仅两个交易日后，埃隆·马斯克的SpaceX收购了AI编程初创公司Anysphere。这笔交易旨在帮助陷入困境的xAI部门追赶Anthropic和OpenAI。文章《SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic》最初发表于The Decoder。"
@@ -4798,5 +4754,49 @@
 "https://the-decoder.com/?p=38406": {
 "t": "阿申布伦纳的人工智能论点或许正确，但其时机与杠杆运用却失当",
 "s": "利奥波德·阿申布伦纳的人工智能对冲基金“情境意识”在杠杆人工智能股票头寸上遭受重创后，不得不将其几乎全部公开交易的投资组合抛售给肯·格里芬的城堡对冲基金。就在几天前，阿申布伦纳还报告了六个月内439%的回报率，并吸引了新资金注入。随后，追加保证金的要求迫使进行了紧急抛售。文章《阿申布伦纳的人工智能论点或许正确，但其时机与杠杆运用却失当》最初发表于The Decoder。"
+},
+"https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
+"t": "瓦解犯罪诈骗行动",
+"s": "OpenAI 瓦解了一个位于柬埔寨的诈骗行动，该行动利用 ChatGPT 支持投资、婚恋、赌博和冒充诈骗。"
+},
+"https://techcrunch.com/?p=3148803": {
+"t": "Snapchat不再奖励完全由AI生成的Spotlight内容",
+"s": "Snapchat已调整其推荐系统，确保只有真人创作的视频才有资格获得Spotlight推荐，以此表明对AI垃圾内容的立场。"
+},
+"https://the-decoder.com/?p=38414": {
+"t": "Deepseek新款Flash模型以约60%更低成本媲美OpenAI的GPT-5.6 Luna",
+"s": "Deepseek的平价模型V4 Flash通过“0731”更新获得显著提升，在人工智能分析智能指数上跃升十分，达到50分。这使其仅落后OpenAI的GPT-5.6 Luna一分，而每项任务的成本却低约60%。文章《Deepseek新款Flash模型以约60%更低成本媲美OpenAI的GPT-5.6 Luna》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3148730": {
+"t": "Siri AI 或将对高级用户设置付费墙",
+"s": "苹果CEO蒂姆·库克设想用户可通过现有的iCloud+订阅，为Siri AI购买更多计算资源。"
+},
+"https://github.blog/?p=97648": {
+"t": "不要提前停止：以内存速度对源代码进行大小写折叠",
+"s": "通过无分支循环和字节空间算术，GitHub 在单核上以超过45 GiB/s的速度对代码搜索中的每个字节进行大小写折叠。这篇“不要提前停止：以内存速度对源代码进行大小写折叠”的文章最初出现在GitHub博客上。"
+},
+"https://the-decoder.com/?p=38417": {
+"t": "欧盟为AI超级工厂汇集高达300亿欧元，而美国科技巨头轻松支出其20倍",
+"s": "欧盟委员会计划在欧洲各地建设多达七座AI超级工厂，获得约300亿欧元的公共和私人资金支持。相比之下，仅美国主要科技公司今年就计划在计算基础设施上投入超过6000亿美元。文章《欧盟为AI超级工厂汇集高达300亿欧元，而美国科技巨头轻松支出其20倍》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3148699": {
+"t": "SpaceX 不会在一年内移除 xAI 所有未经许可的涡轮机",
+"s": "SpaceX 正在为 xAI 的 Colossus 数据中心建造新的发电厂，但不会在数月内移除现有的未经许可的涡轮机。"
+},
+"https://openai.com/index/building-abundant-intelligence": {
+"t": "构建丰裕智能",
+"s": "一种全栈方法，旨在使先进AI更强大、更经济、更广泛实用。"
+},
+"https://techcrunch.com/?p=3148682": {
+"t": "Smallest.ai 筹集1300万美元，打造听起来真正像人类的超快语音AI",
+"s": "这家初创公司正在构建旨在让AI电话通话通过图灵测试的语音模型。"
+},
+"https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/": {
+"t": "AI骗子在建立信任方面胜过人类",
+"s": "AI聊天机器人在创造“可利用的信任”方面比人类更有效。"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3148831": {
+"t": "AI实验室欲踩刹车，亚马逊与SpaceX却仍在加速升空",
+"s": "在多年全力推进AI发展后，OpenAI首席执行官萨姆·奥尔特曼表示，或许AI行业是时候“放慢节奏”了。此番言论发表前几天，OpenAI自家的一款模型突破了测试环境，并卷入Hugging Face的一起安全漏洞事件——不过正如Equity的主持人所指出的，安全措施松懈似乎是……"
 }
 }
