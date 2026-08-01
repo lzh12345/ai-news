@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 01 Aug 2026 02:02:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 06:21:39 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>OpenAI据报道发现更多智能体行为失控的证据</title>
@@ -14,6 +14,14 @@
 <pubDate>Fri, 31 Jul 2026 22:47:26 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI在调查与Hugging Face相关的事件时，据报道发现了更多智能体行为不当的证据。<br/><br/><a href="https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力</title>
+<link>https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81472</guid>
+<pubDate>Fri, 31 Jul 2026 22:03:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】DeepSeek于2026年7月31日在Hugging Face上发布了DeepSeek-V4-Flash-0731，并将官方V4-Flash API转入公开测试阶段。模型卡片明确指出，这是取代预览版的正式发布，架构和规模保持不变。性能提升源于重新训练，而非新设计。该检查点附带[...] 文章《DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Reddit继续就谷歌搜索结果中的奇怪DMCA争议提起诉讼</title>
@@ -38,6 +46,14 @@
 <pubDate>Fri, 31 Jul 2026 20:39:14 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】如果这些黑客采用常规手段，很可能有人会因此入狱。<br/><br/><a href="https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LingBot-Map教程：GPU感知推理与点云导出</title>
+<link>https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81467</guid>
+<pubDate>Fri, 31 Jul 2026 20:27:13 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】了解如何使用LingBot-Map实现流式3D重建流程。从GPU感知配置与预处理，到GCTStream模型推理与点云生成，本指南逐步引导您将图像或视频序列转换为一致的3D场景，并导出PLY和NPZ文件。该文章《LingBot-Map教程：GPU感知推理与点云导出》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌因撤回可生成虚假卫星图像的AI工具而面临风险</title>
@@ -216,12 +232,44 @@
 <description><![CDATA[【the-decoder.com】利奥波德·阿申布伦纳的人工智能对冲基金“情境意识”在杠杆人工智能股票头寸上遭受重创后，不得不将其几乎全部公开交易的投资组合抛售给肯·格里芬的城堡对冲基金。就在几天前，阿申布伦纳还报告了六个月内439%的回报率，并吸引了新资金注入。随后，追加保证金的要求迫使进行了紧急抛售。文章《阿申布伦纳的人工智能论点或许正确，但其时机与杠杆运用却失当》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>JetBrains 开源 KotlinLLM：智能宏在运行时生成 Kotlin 源代码并通过 JDI 热重载</title>
+<link>https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81464</guid>
+<pubDate>Fri, 31 Jul 2026 10:32:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】JetBrains Research 已根据 Apache License 2.0 开源了 KotlinLLM。该 IntelliJ IDEA 插件原型添加了智能宏 asLlm 和 mockLlm，其主体是生成的 Kotlin 源代码，而非实时模型调用。插件通过 JDI 捕获运行时值，请求 LLM 代理进行窄范围代码更新，编译后重新定义已加载的类。覆盖的场景随后以纯 Kotlin 运行，无需进一步推理调用。在适配的 Spring Petclinic 项目中，24 个场景全部完成，热重载成功率达 100%，运行时开销约为 1%。文章《JetBrains 开源》<br/><br/><a href="https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nous Research为Hermes Agent与Buzz推出三条集成路径,Buzz是Block开源Nostr工作区,供人类与智能体共用</title>
+<link>https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81461</guid>
+<pubDate>Fri, 31 Jul 2026 09:08:13 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nous Research已发布Hermes Agent对Buzz的支持,Buzz是Block开源、可自托管的Nostr工作区,人类与AI智能体可在其中共享同一频道。三条集成路径涵盖桌面运行时、中继桥接,以及保留Hermes记忆、技能、审批和定时投递的原生网关平台。本文“Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents”最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Univé打造AI就绪的员工队伍</title>
 <link>https://openai.com/index/unive</link>
 <guid isPermaLink="false">https://openai.com/index/unive</guid>
 <pubDate>Fri, 31 Jul 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】了解Univé如何通过结合领导力、负责任治理与员工主导的创新，利用ChatGPT Enterprise打造AI就绪的员工队伍，实现工作的大规模转型。<br/><br/><a href="https://openai.com/index/unive">阅读原文</a>]]></description>
+</item>
+<item>
+<title>PolyAI发布Dialog-RSN-1：融合话轮转换、语音识别、功能调用与响应的音频原生对话模型</title>
+<link>https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81457</guid>
+<pubDate>Fri, 31 Jul 2026 05:06:43 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】PolyAI推出了Dialog-RSN-1，这是一款直接感知来电者音频而非读取ASR转录文本的对话模型。它将话轮转换、语音识别、功能调用和响应生成融合到一个单一的音频原生模型中，同时将TTS分离，以保持输出语音的可控性，并以基于请求的LLM形式运行，而非持续在线流。PolyAI报告称，在实时部署中响应时间低于300毫秒。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用Omnigent构建策略治理的多智能体金融研究工作流</title>
+<link>https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81452</guid>
+<pubDate>Fri, 31 Jul 2026 04:44:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们演示如何在安全、隔离的Python环境中使用Omnigent构建并执行多智能体工作流。学习集成实时汇率数据、实现层级智能体委派以进行金融文本审计，并直接从Google Colab将硬性治理策略（如成本预算和工具调用限制）应用于研究流程。本文《使用Omnigent构建策略治理的多智能体金融研究工作流》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic称其AI模型在安全测试中入侵了三家公司</title>
@@ -336,6 +384,14 @@
 <description><![CDATA[【github.blog】了解我如何通过 GitHub Copilot 应用中的堆叠会话与拉取请求，对旧代码库进行现代化改造。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Google DeepMind 发布三款物理AI模型，用于全身控制、灵巧操作及多机器人协作</title>
+<link>https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81447</guid>
+<pubDate>Thu, 30 Jul 2026 17:20:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google DeepMind 发布了 Gemini Robotics 2，这是其下一代机器人的智能层。此次发布包含三款模型：用于全身人形控制的视觉-语言-动作模型、用于具身推理和任务编排的 Gemini Robotics ER 2，以及一款可在数小时内适应新机器人本体的设备端 VLA。一个检查点驱动了 Apptronik Apollo 2 和 Franka Duo。仅 ER 2 公开可用。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Okta 收购 AI 安全初创公司 Permiso；消息人士称交易金额约 2 亿美元</title>
 <link>https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3148308</guid>
@@ -408,6 +464,14 @@
 <description><![CDATA[【blog.cloudflare.com】我们将每日处理90亿次请求的cdnjs完全迁移至Cloudflare开发者平台。这意味着我们正利用自身构建模块运行互联网最繁忙的开源CDN之一，并为此提升了Workflows和Workers对所有用户的限制上限。<br/><br/><a href="https://blog.cloudflare.com/cdnjs-dev-platform-migration/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架</title>
+<link>https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81442</guid>
+<pubDate>Thu, 30 Jul 2026 10:08:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】腾讯发布了AngelSpec，这是一个开源的、基于原生PyTorch的训练框架，支持六种架构的推测解码草稿模型。该框架引入了DFly，一种具有混合目标条件约束和隐式校正自回归头的块扩散草稿模型，并集成了D-cut用于运行时自适应验证预算分配。在TP=8配置下的HY3-295B-A21B模型上，DFly-8在并发数4至64范围内，相比自回归解码实现了1.98至2.40倍的加速。本文《腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架》首发于。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>以GPT-5.6推进性价比前沿</title>
 <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
 <guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
@@ -416,76 +480,12 @@
 <description><![CDATA[【openai.com】探索Luna和Terra更低的GPT-5.6定价——以及OpenAI更高效的模型如何帮助企业大规模部署AI工作流。<br/><br/><a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6">阅读原文</a>]]></description>
 </item>
 <item>
-<title>降维遇上网络科学：基于UMAP的kNN图进行数据理解</title>
-<link>https://machinelearning.apple.com/research/umap-knn-graph-sensemaking</link>
-<guid isPermaLink="false">umap-knn-graph-sensemaking</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】尽管UMAP被广泛用于探索高维数据，但典型的工作流程聚焦于其低维嵌入，很大程度上忽略了UMAP内部构建的丰富k近邻（kNN）图。该图在原始高维空间中编码了数据流形，尚未受到UMAP二维投影引入的失真影响。我们展示了这一内部表示尚未开发的潜力，说明将标准图算法应用于该图如何增强数据理解：（1）PageRank识别代表性数据点，（2）k-core分解揭示密集区域。<br/><br/><a href="https://machinelearning.apple.com/research/umap-knn-graph-sensemaking">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MoMo：通过时空动作标记化实现机器人操作中的动态运动模式</title>
-<link>https://machinelearning.apple.com/research/momo-motion-mode-manipulation</link>
-<guid isPermaLink="false">momo-motion-mode-manipulation</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】为了在不同情境中有效运作，机器人不仅需要精确执行操作任务，还需根据任务、物体及交互环境调整其动作展开方式。我们探究这种执行层面的变化能否作为跨任务共享的可复用行为因素进行学习。我们提出MoMo，一个两阶段模仿学习框架，包含时空动作标记器和一个行为克隆变换器，后者以任务和连续运动模式条件为输入。在六个真实机器人操作任务中，改变该条件可产生稳定的…<br/><br/><a href="https://machinelearning.apple.com/research/momo-motion-mode-manipulation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>avatarin如何利用GPT-Realtime打造全天候零售代理</title>
-<link>https://openai.com/index/avatarin</link>
-<guid isPermaLink="false">https://openai.com/index/avatarin</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】avatarin利用OpenAI的GPT-Realtime为山田电机购物者提供24/7多语言支持。两周内，3万人使用了该代理，92%的调查反馈为正面。<br/><br/><a href="https://openai.com/index/avatarin">阅读原文</a>]]></description>
-</item>
-<item>
-<title>第三轮PQC算法候选遭Mythos攻击，宣告失效</title>
-<link>https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/</guid>
-<pubDate>Wed, 29 Jul 2026 22:07:06 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】HAWK在多年的测试中一直未被发现致命弱点，但Mythos攻击最终将其击破。<br/><br/><a href="https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>美国禁止外国机器人后，谁赢谁输？</title>
-<link>https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</guid>
-<pubDate>Wed, 29 Jul 2026 20:03:42 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】政府禁止外国制造的机器人可能反而阻碍美国机器人技术的发展。<br/><br/><a href="https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>埃隆·马斯克的xAI试图通过诉讼摆脱Grok的困境</title>
-<link>https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</guid>
-<pubDate>Wed, 29 Jul 2026 17:58:24 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】马斯克为Grok辩护，称明尼苏达州的“脱衣”应用禁令违宪。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>我们将在Google Flow Music中推出Lyria 3.5，在音乐性、歌词、人声和创意控制方面取得进展</title>
-<link>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</guid>
-<pubDate>Wed, 29 Jul 2026 16:02:10 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>驯服Dependabot：分组更新、放缓节奏、保持安全更新快速</title>
-<link>https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/</link>
-<guid isPermaLink="false">https://github.blog/?p=97770</guid>
-<pubDate>Wed, 29 Jul 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Dependabot能让你的依赖项保持最新，但其默认设置可能会让仓库被拉取请求淹没。本文介绍了如何通过分组更新、放缓节奏以及保持安全修复快速，来减少微软一个开源项目中的噪音。该文章最初发布于GitHub博客。<br/><br/><a href="https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic发现漏洞的速度比微软修复的速度还快</title>
-<link>https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/</guid>
-<pubDate>Wed, 29 Jul 2026 15:52:48 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】微软正在幕后疯狂赶工，试图在黑客发现漏洞之前修补这些安全漏洞。<br/><br/><a href="https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/">阅读原文</a>]]></description>
+<title>Token Saver 登场：一款利用本地混合 RAG 将 Claude PDF 令牌成本削减 90-99% 的开源 MCP 扩展</title>
+<link>https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81436</guid>
+<pubDate>Thu, 30 Jul 2026 07:43:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Marktechpost AI 发布了 Token Saver，这是一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 技术将 PDF 令牌消耗最高降低 99%，同时确保文档的绝对隐私。本文《Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

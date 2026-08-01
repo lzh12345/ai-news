@@ -1,20 +1,4 @@
 {
-"https://the-decoder.com/?p=36672": {
-"t": "DeepSeek首次接受外部融资，估值达500亿美元",
-"s": "中国AI初创公司DeepSeek在首轮外部融资中筹集了超过500亿元人民币（约合74亿美元）。本文《DeepSeek首次接受外部融资，估值达500亿美元》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36667": {
-"t": "OpenAI 去年烧掉340亿美元",
-"s": "OpenAI 在过去一年中花费了340亿美元，远超前一年。文章《OpenAI 去年烧掉340亿美元》最初发表于 The Decoder。"
-},
-"https://github.blog/?p=96276": {
-"t": "从一次性提示到工作流：如何在GitHub Copilot CLI中使用自定义代理",
-"s": "自定义代理让GitHub Copilot CLI理解你的技术栈和团队工作流，将一次性的终端提示转化为可重复、可审查的流程。本文《从一次性提示到工作流：如何在GitHub Copilot CLI中使用自定义代理》最初发布于GitHub博客。"
-},
-"https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
-"t": "使用 Gemini 3.5 Live Translate 实现流畅自然的语音翻译",
-"s": "Gemini 3.5 Live Translate 为 Google AI Studio、Google Translate 和 Google Meet 带来了近乎实时的自然语音翻译功能。"
-},
 "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
 "t": "推出 Gemma 4 12B：一款统一的、无编码器的多模态模型",
 "s": ""
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3148857": {
 "t": "印度开始为应用付费，而不仅仅是下载",
 "s": "印度应用市场在第二季度创下了3.45亿美元的纪录收入。"
+},
+"https://www.marktechpost.com/?p=81472": {
+"t": "DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力",
+"s": "DeepSeek于2026年7月31日在Hugging Face上发布了DeepSeek-V4-Flash-0731，并将官方V4-Flash API转入公开测试阶段。模型卡片明确指出，这是取代预览版的正式发布，架构和规模保持不变。性能提升源于重新训练，而非新设计。该检查点附带[...] 文章《DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81467": {
+"t": "LingBot-Map教程：GPU感知推理与点云导出",
+"s": "了解如何使用LingBot-Map实现流式3D重建流程。从GPU感知配置与预处理，到GCTStream模型推理与点云生成，本指南逐步引导您将图像或视频序列转换为一致的3D场景，并导出PLY和NPZ文件。该文章《LingBot-Map教程：GPU感知推理与点云导出》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81464": {
+"t": "JetBrains 开源 KotlinLLM：智能宏在运行时生成 Kotlin 源代码并通过 JDI 热重载",
+"s": "JetBrains Research 已根据 Apache License 2.0 开源了 KotlinLLM。该 IntelliJ IDEA 插件原型添加了智能宏 asLlm 和 mockLlm，其主体是生成的 Kotlin 源代码，而非实时模型调用。插件通过 JDI 捕获运行时值，请求 LLM 代理进行窄范围代码更新，编译后重新定义已加载的类。覆盖的场景随后以纯 Kotlin 运行，无需进一步推理调用。在适配的 Spring Petclinic 项目中，24 个场景全部完成，热重载成功率达 100%，运行时开销约为 1%。文章《JetBrains 开源》"
+},
+"https://www.marktechpost.com/?p=81461": {
+"t": "Nous Research为Hermes Agent与Buzz推出三条集成路径,Buzz是Block开源Nostr工作区,供人类与智能体共用",
+"s": "Nous Research已发布Hermes Agent对Buzz的支持,Buzz是Block开源、可自托管的Nostr工作区,人类与AI智能体可在其中共享同一频道。三条集成路径涵盖桌面运行时、中继桥接,以及保留Hermes记忆、技能、审批和定时投递的原生网关平台。本文“Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents”最初发表于MarkTechPost。"
 }
 }
