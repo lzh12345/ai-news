@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 01 Aug 2026 06:21:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 09:52:15 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI发布“下一代重大模型”Astra，一举解决十道此前未解数学难题</title>
+<link>https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38432</guid>
+<pubDate>Sat, 01 Aug 2026 09:29:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI正在构建一个名为“Astra”的新模型系列，该系列将允许多个智能体协同工作数小时甚至数天，共同解决复杂问题。CEO萨姆·奥尔特曼已向华盛顿的政策制定者演示了Astra。OpenAI尚未决定将其作为GPT-6还是GPT-5的新变体发布。本文《OpenAI announces its "next major model" Astra by dropping ten previously unsolved math solutions》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌向用户提供了制作虚假卫星图像的最简单工具，两天后便将其撤下</title>
+<link>https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38435</guid>
+<pubDate>Sat, 01 Aug 2026 09:00:04 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌在Google Earth中推出Nano Banana 2图像模型仅两天后便将其撤下。用户展示了生成令人信服的虚假卫星图像有多么容易。只需一个简单的提示，就能在墨西哥边境的空地上填满一列难民。文章《谷歌向用户提供了制作虚假卫星图像的最简单工具，两天后便将其撤下》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MiniMax发布MiniMax H3：一款生成15秒2K原生立体声视频的全模态模型</title>
+<link>https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81476</guid>
+<pubDate>Sat, 01 Aug 2026 08:28:07 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】MiniMax发布MiniMax H3，一款通用多模态生成模型。MiniMax H3并非附加功能的文本转视频模型。MiniMax将其描述为一种通用多模态生成模型，能够将文本、图像、视频和音频作为统一上下文读取，并返回带有原生立体声的视频。主要规格包括：2K输出，4至15秒，整数时长[…]该文章《MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>数学与理论计算机科学的十项进展</title>
+<link>https://openai.com/index/ten-advances-in-mathematics</link>
+<guid isPermaLink="false">https://openai.com/index/ten-advances-in-mathematics</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI分享了在数学和理论计算机科学领域长期未解问题上的新成果，包括几何学、密码学和复杂性理论方面的进展。<br/><br/><a href="https://openai.com/index/ten-advances-in-mathematics">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI据报道发现更多智能体行为失控的证据</title>
 <link>https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</link>
@@ -440,22 +472,6 @@
 <description><![CDATA[【arstechnica.com】此外，AI协议的新政策确保功能不会突然被移除。<br/><br/><a href="https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>语言模型无法引发科学革命，但世界模型或许可以</title>
-<link>https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38380</guid>
-<pubDate>Thu, 30 Jul 2026 14:01:33 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】语言模型能引发科学革命吗？在一篇题为“LLMs can't jump”的立场论文中，谷歌DeepMind的Tom Zahavy认为它们不能。它们缺少创造真正新事物所需的认知机制。文章《语言模型无法引发科学革命，但世界模型或许可以》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>微软AI押注廉价专业模型，而非追逐前沿</title>
-<link>https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38367</guid>
-<pubDate>Thu, 30 Jul 2026 13:11:48 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】微软AI首席执行官穆斯塔法·苏莱曼表示，微软AI正押注于小型专业模型，而非昂贵的通用模型。MAI-Cyber-1-Flash在嵌入编排器后，在CyberGym基准测试中名列前茅，据报道其成本仅为Anthropic的Mythos的一半，但在处理困难任务时仍依赖OpenAI。竞争正从单个模型转向负责路由和管理这些模型的编排软件。本文《微软AI押注廉价专业模型，而非追逐前沿》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>大规模内部测试：将cdnjs迁移至Cloudflare开发者平台</title>
 <link>https://blog.cloudflare.com/cdnjs-dev-platform-migration/</link>
 <guid isPermaLink="false">01KYQNRTVJ54SHCVBMMXFYGJ5P</guid>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 30 Jul 2026 10:08:18 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】腾讯发布了AngelSpec，这是一个开源的、基于原生PyTorch的训练框架，支持六种架构的推测解码草稿模型。该框架引入了DFly，一种具有混合目标条件约束和隐式校正自回归头的块扩散草稿模型，并集成了D-cut用于运行时自适应验证预算分配。在TP=8配置下的HY3-295B-A21B模型上，DFly-8在并发数4至64范围内，相比自回归解码实现了1.98至2.40倍的加速。本文《腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架》首发于。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>以GPT-5.6推进性价比前沿</title>
-<link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
-<guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
-<pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】探索Luna和Terra更低的GPT-5.6定价——以及OpenAI更高效的模型如何帮助企业大规模部署AI工作流。<br/><br/><a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Token Saver 登场：一款利用本地混合 RAG 将 Claude PDF 令牌成本削减 90-99% 的开源 MCP 扩展</title>
-<link>https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81436</guid>
-<pubDate>Thu, 30 Jul 2026 07:43:29 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Marktechpost AI 发布了 Token Saver，这是一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 技术将 PDF 令牌消耗最高降低 99%，同时确保文档的绝对隐私。本文《Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

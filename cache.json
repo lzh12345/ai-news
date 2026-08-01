@@ -1,20 +1,4 @@
 {
-"https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
-"t": "推出 Gemma 4 12B：一款统一的、无编码器的多模态模型",
-"s": ""
-},
-"https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/": {
-"t": "赋能欧洲机器人技术的未来",
-"s": ""
-},
-"https://openai.com/index/nextdoor": {
-"t": "Nextdoor工程师如何利用Codex突破限制进行开发",
-"s": "Nextdoor工程师如何借助Codex与GPT-5.5来调查难以复现的问题、跨平台构建，并专注于产品成果。"
-},
-"https://openai.com/index/notion": {
-"t": "Codex 为 Notion 解锁了什么",
-"s": "Notion 如何利用 Codex 一次性生成规格说明、为网页构建 AI 语音输入功能，并在小团队中倍增工程能力。"
-},
 "5Jw5AkmauDqCVgDeCs0mBa": {
 "t": "防御前沿网络模型：Cloudflare 作为零号客户的架构实践",
 "s": "在我们关于 Project Glasswing 的文章中，我们提出漏洞周围的架构比补丁速度更重要。本文详细阐述了该架构的具体形态、它所防御的威胁，以及我们作为 Cloudflare 的零号客户如何自行运行这一架构。"
@@ -4798,5 +4782,21 @@
 "https://www.marktechpost.com/?p=81461": {
 "t": "Nous Research为Hermes Agent与Buzz推出三条集成路径,Buzz是Block开源Nostr工作区,供人类与智能体共用",
 "s": "Nous Research已发布Hermes Agent对Buzz的支持,Buzz是Block开源、可自托管的Nostr工作区,人类与AI智能体可在其中共享同一频道。三条集成路径涵盖桌面运行时、中继桥接,以及保留Hermes记忆、技能、审批和定时投递的原生网关平台。本文“Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents”最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=38432": {
+"t": "OpenAI发布“下一代重大模型”Astra，一举解决十道此前未解数学难题",
+"s": "OpenAI正在构建一个名为“Astra”的新模型系列，该系列将允许多个智能体协同工作数小时甚至数天，共同解决复杂问题。CEO萨姆·奥尔特曼已向华盛顿的政策制定者演示了Astra。OpenAI尚未决定将其作为GPT-6还是GPT-5的新变体发布。本文《OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38435": {
+"t": "谷歌向用户提供了制作虚假卫星图像的最简单工具，两天后便将其撤下",
+"s": "谷歌在Google Earth中推出Nano Banana 2图像模型仅两天后便将其撤下。用户展示了生成令人信服的虚假卫星图像有多么容易。只需一个简单的提示，就能在墨西哥边境的空地上填满一列难民。文章《谷歌向用户提供了制作虚假卫星图像的最简单工具，两天后便将其撤下》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81476": {
+"t": "MiniMax发布MiniMax H3：一款生成15秒2K原生立体声视频的全模态模型",
+"s": "MiniMax发布MiniMax H3，一款通用多模态生成模型。MiniMax H3并非附加功能的文本转视频模型。MiniMax将其描述为一种通用多模态生成模型，能够将文本、图像、视频和音频作为统一上下文读取，并返回带有原生立体声的视频。主要规格包括：2K输出，4至15秒，整数时长[…]该文章《MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio》最初出现在MarkTechPost上。"
+},
+"https://openai.com/index/ten-advances-in-mathematics": {
+"t": "数学与理论计算机科学的十项进展",
+"s": "OpenAI分享了在数学和理论计算机科学领域长期未解问题上的新成果，包括几何学、密码学和复杂性理论方面的进展。"
 }
 }
