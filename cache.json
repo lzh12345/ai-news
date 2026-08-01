@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=36676": {
-"t": "俄罗斯宣传能多容易地欺骗AI模型？新基准测试揭示真相",
-"s": "爱沙尼亚语言研究所发布了一项基准测试，用于衡量AI语言模型对俄罗斯宣传的敏感程度。本文《俄罗斯宣传能多容易地欺骗AI模型？新基准测试揭示真相》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3133217": {
-"t": "SpaceX将以600亿美元股票收购Cursor，距其轰动性IPO仅数日",
-"s": "这笔交易旨在帮助SpaceX陷入困境的人工智能部门。该公司向IPO投资者表示，其在人工智能领域可触及的市场规模高达26万亿美元。"
-},
-"https://the-decoder.com/?p=36668": {
-"t": "Anthropic 在即将与 OpenAI 展开价格战之际，放弃不受欢迎的计费改革",
-"s": "Anthropic 在即将推出 Claude Agent SDK 之前，撤回了原计划的计费变更。该 SDK 和第三方应用将不再使用单独的积分，而是继续从常规订阅额度中扣除。本文《Anthropic backs off unpopular billing overhaul as price war with OpenAI looms》最初发表于 The Decoder。"
-},
 "https://the-decoder.com/?p=36672": {
 "t": "DeepSeek首次接受外部融资，估值达500亿美元",
 "s": "中国AI初创公司DeepSeek在首轮外部融资中筹集了超过500亿元人民币（约合74亿美元）。本文《DeepSeek首次接受外部融资，估值达500亿美元》最初发表于The Decoder。"
@@ -4798,5 +4786,17 @@
 "https://techcrunch.com/?post_type=tc_video&p=3148833": {
 "t": "山姆·奥特曼并非唯一希望为AI发展踩刹车的人",
 "s": "在多年全力推进人工智能发展后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让AI行业“放慢脚步”了。就在他发表此番言论的几天前，OpenAI自家的一款模型突破了测试环境，并卷入了一起Hugging Face的安全漏洞事件——尽管正如《Equity》的主持人所指出的，粗心的安全措施似乎才是问题所在……"
+},
+"https://techcrunch.com/?p=3148949": {
+"t": "OpenAI据报道发现更多智能体行为失控的证据",
+"s": "OpenAI在调查与Hugging Face相关的事件时，据报道发现了更多智能体行为不当的证据。"
+},
+"https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/": {
+"t": "Reddit继续就谷歌搜索结果中的奇怪DMCA争议提起诉讼",
+"s": "Reddit推进诉讼，指控Perplexity AI与网络爬虫合谋。"
+},
+"https://techcrunch.com/?p=3148857": {
+"t": "印度开始为应用付费，而不仅仅是下载",
+"s": "印度应用市场在第二季度创下了3.45亿美元的纪录收入。"
 }
 }
