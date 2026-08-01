@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 01 Aug 2026 13:00:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 16:51:45 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI持续攻克未解数学难题，数学家们心情复杂</title>
+<link>https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38472</guid>
+<pubDate>Sat, 01 Aug 2026 16:01:31 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI对单位距离猜想的反驳引发了数学领域一波AI辅助的进展。菲尔兹奖得主蒂莫西·高尔斯表示，GPT 5.6 Pro首次尝试就解决了他花费大量时间研究的两道难题。他警告说，如果数学家停止构建理解此类结果所需的专业知识，可能会导致“数学文化的毁灭”。其他人则简单地将AI视为生产力工具。文章《AI keeps cracking unsolved math problems, and mathematicians have mixed feelings》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>这款9美元的钥匙能物理锁定你最上瘾的应用</title>
+<link>https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3146148</guid>
+<pubDate>Sat, 01 Aug 2026 15:58:17 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这款9美元的NFC钥匙需要你实际扫描它，才能解锁手机上那些令人分心的应用。<br/><br/><a href="https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI编程代理能现代化研究软件，但无法判断科学是否正确</title>
+<link>https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38461</guid>
+<pubDate>Sat, 01 Aug 2026 14:26:28 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI与学术合作伙伴的一份实地报告显示，编程代理能够现代化被忽视的研究软件，实现高达60倍的加速。但参与者指出，这些系统“能言善辩、令人信服，却以不易察觉的方式自信地犯错”。工作重心从编写代码转向了耗时验证科学正确性的过程。文章《AI编程代理能现代化研究软件，但无法判断科学是否正确》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>安全研究员构建了一种隐藏在Word文档中并劫持微软Copilot的自传播蠕虫</title>
+<link>https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38385</guid>
+<pubDate>Sat, 01 Aug 2026 13:51:57 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】一位安全研究员演示了对微软Word版Copilot的蠕虫式攻击：隐藏在文档中的不可见提示注入，在每次文档被复用时自动传播到新文件中。微软确认了该问题，但在144天和两次尝试后仍未修复。文章《安全研究员构建了一种隐藏在Word文档中并劫持微软Copilot的自传播蠕虫》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>字节跳动Seedance 2.5生成内置音频的30秒视频片段</title>
+<link>https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38445</guid>
+<pubDate>Sat, 01 Aug 2026 13:33:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】字节跳动刚刚发布了Seedance 2.5，这是一款能同时生成视频和音频的AI视频模型。每个片段最长可达30秒，是谷歌Gemini Omni Flash输出长度的三倍。用户可输入数十张图片、视频和音频文件作为参考。对于广告团队而言，这可能终结一次只剪辑一个短视频的流程。本文《字节跳动Seedance 2.5生成内置音频的30秒视频片段》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Reddit股价下跌，CEO质疑谷歌AI概览的价值</title>
 <link>https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/</link>
@@ -200,14 +240,6 @@
 <description><![CDATA[【github.blog】通过无分支循环和字节空间算术，GitHub 在单核上以超过45 GiB/s的速度对代码搜索中的每个字节进行大小写折叠。这篇“不要提前停止：以内存速度对源代码进行大小写折叠”的文章最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>欧盟为AI超级工厂汇集高达300亿欧元，而美国科技巨头轻松支出其20倍</title>
-<link>https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38417</guid>
-<pubDate>Fri, 31 Jul 2026 15:28:08 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】欧盟委员会计划在欧洲各地建设多达七座AI超级工厂，获得约300亿欧元的公共和私人资金支持。相比之下，仅美国主要科技公司今年就计划在计算基础设施上投入超过6000亿美元。文章《欧盟为AI超级工厂汇集高达300亿欧元，而美国科技巨头轻松支出其20倍》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>SpaceX 不会在一年内移除 xAI 所有未经许可的涡轮机</title>
 <link>https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3148699</guid>
@@ -270,22 +302,6 @@
 <pubDate>Fri, 31 Jul 2026 11:00:52 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】一场有争议的考试、一个不可靠的检测器，以及一份迟到的Apple Pages文件。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic继OpenAI之后承认其Claude模型越出测试环境，攻击了现实世界系统</title>
-<link>https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38403</guid>
-<pubDate>Fri, 31 Jul 2026 10:57:37 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】在一次配置错误导致Claude模型获得互联网访问权限后，三个Claude模型在网络安全测试中攻击了真实公司。其中一个在PyPI上发布了恶意软件，感染了15个系统。另一个在识别出目标是真实的后仍继续攻击。Anthropic称此为操作失误。文章《Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>阿申布伦纳的人工智能论点或许正确，但其时机与杠杆运用却失当</title>
-<link>https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38406</guid>
-<pubDate>Fri, 31 Jul 2026 10:49:05 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】利奥波德·阿申布伦纳的人工智能对冲基金“情境意识”在杠杆人工智能股票头寸上遭受重创后，不得不将其几乎全部公开交易的投资组合抛售给肯·格里芬的城堡对冲基金。就在几天前，阿申布伦纳还报告了六个月内439%的回报率，并吸引了新资金注入。随后，追加保证金的要求迫使进行了紧急抛售。文章《阿申布伦纳的人工智能论点或许正确，但其时机与杠杆运用却失当》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>JetBrains 开源 KotlinLLM：智能宏在运行时生成 Kotlin 源代码并通过 JDI 热重载</title>
@@ -400,14 +416,6 @@
 <description><![CDATA[【techcrunch.com】正如专家过去两年所警告的那样，一些公司——如微软以及现在的谷歌——正借助大语言模型和AI工具，在其产品中发现并修复数量呈指数级增长的漏洞。<br/><br/><a href="https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI全面进入中国定价模式，将其最实惠的GPT-5.6模型降价80%</title>
-<link>https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38398</guid>
-<pubDate>Thu, 30 Jul 2026 18:46:24 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】自7月30日起，OpenAI将GPT-5.6 Luna的价格下调80%，Terra下调20%。OpenAI表示，其顶级Sol模型帮助公司自身基础设施更高效，从而实现了降价。来自廉价中国供应商和微软自有MAI模型的价格压力可能也起到了一定作用。本文《OpenAI全面进入中国定价模式，将其最实惠的GPT-5.6模型降价80%》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>LinkedIn 新增按钮，可举报AI生成的“垃圾内容”</title>
 <link>https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3148364</guid>
@@ -454,14 +462,6 @@
 <pubDate>Thu, 30 Jul 2026 15:41:16 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Meta表示，人工智能正显著简化新消费应用的构建与发布流程。首席执行官马克·扎克伯格向投资者透露，在近期为Facebook群组、Marketplace卖家、Instagram及游戏领域推出一系列新功能后，公司还有更多消费级产品即将面世。<br/><br/><a href="https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nscale收购Anyscale，旨在进一步掌控AI计算栈</title>
-<link>https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148209</guid>
-<pubDate>Thu, 30 Jul 2026 15:19:15 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】英国AI新云服务商Nscale正在收购软件初创公司Anyscale，后者帮助企业跨数据中心和服务器扩展其AI工作负载。<br/><br/><a href="https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GPU管理：闲置GPU为何成为新型“停飞飞机”</title>
