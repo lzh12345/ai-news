@@ -1,16 +1,4 @@
 {
-"5Jw5AkmauDqCVgDeCs0mBa": {
-"t": "防御前沿网络模型：Cloudflare 作为零号客户的架构实践",
-"s": "在我们关于 Project Glasswing 的文章中，我们提出漏洞周围的架构比补丁速度更重要。本文详细阐述了该架构的具体形态、它所防御的威胁，以及我们作为 Cloudflare 的零号客户如何自行运行这一架构。"
-},
-"https://openai.com/index/industrial-policy-for-the-intelligence-age": {
-"t": "智能时代的产业政策",
-"s": "探索我们为人工智能时代制定的雄心勃勃、以人为本的产业政策理念——聚焦于在先进智能演进过程中扩大机遇、共享繁荣并构建韧性制度。"
-},
-"https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/": {
-"t": "利用AI加速规划，解锁英国房屋建设",
-"s": "英国政府与谷歌DeepMind合作，构建一个基于AI的新原型系统，旨在加快住房决策速度。"
-},
 "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/": {
 "t": "Anthropic \"暂停\"其Claude Agent SDK基于代币的计费方式",
 "s": "原定于周一实施的变动本将大幅增加重度用户的成本。"
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/ten-advances-in-mathematics": {
 "t": "数学与理论计算机科学的十项进展",
 "s": "OpenAI分享了在数学和理论计算机科学领域长期未解问题上的新成果，包括几何学、密码学和复杂性理论方面的进展。"
+},
+"https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/": {
+"t": "Reddit股价下跌，CEO质疑谷歌AI概览的价值",
+"s": "Reddit可能仍在考虑终止与谷歌的授权协议。"
+},
+"https://the-decoder.com/?p=38441": {
+"t": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+"s": "慕尼黑一家法院裁定，AI音乐生成器Suno在训练和输出过程中均侵犯了版权。法院认定Suno的模型中可复现地存储了六首歌曲，并驳回了德国文本与数据挖掘例外条款及美国合理使用抗辩。该裁决尚未最终生效，多个关键问题仍悬而未决。文章《德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81479": {
+"t": "Supabase发布Evals：一个开源基准测试，用于评估Claude Code、Codex和OpenCode在真实Supabase任务中的表现",
+"s": "Supabase已开源supabase/evals，这是一个Apache-2.0许可的基准测试和框架，在容器化技术栈中运行包括Claude Code、Codex和OpenCode在内的编码代理，针对真实Supabase任务（如构建模式、调试Edge Functions、修复RLS策略）进行评估，并通过确定性检查和LLM-as-a-judge进行评分。该文章《Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks》最初发表于MarkTechPost。"
 }
 }
