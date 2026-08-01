@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 01 Aug 2026 16:51:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 20:41:18 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>法官驳回xAI关于阻止明尼苏达州禁止“脱衣”应用的请求</title>
+<link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
+<pubDate>Sat, 01 Aug 2026 20:26:04 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】尽管xAI提起诉讼，明尼苏达州对允许用户“脱衣”图像的应用的禁令仍可继续执行。<br/><br/><a href="https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>YouTuber Hank Green 表示他使用 AI 的方式“不健康”</title>
+<link>https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3149017</guid>
+<pubDate>Sat, 01 Aug 2026 19:45:45 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】格林发表了一番引人注目的道歉，称“我从与大型语言模型互动中获得的多巴胺水平……对我个人不健康，对世界也无益。”<br/><br/><a href="https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AMD发布Instella-MoE-16B-A3B：一款基于Instinct GPU训练、拥有28亿激活参数的全开放混合专家大语言模型</title>
+<link>https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81485</guid>
+<pubDate>Sat, 01 Aug 2026 19:01:42 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】AMD发布了Instella-MoE-16B-A3B，这是一款完全开放的混合专家语言模型，从零开始在Instinct MI300X和MI325X GPU上训练而成。该模型总参数为160亿，但每个令牌仅激活28亿参数，采用了Gated MLA和FarSkip-Collective技术。AMD公开了每个训练阶段的权重，以及数据混合、配置和推理代码。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练</title>
+<link>https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81482</guid>
+<pubDate>Sat, 01 Aug 2026 18:31:15 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】了解如何使用NVIDIA Transformer Engine优化Transformer工作负载。本教程指导您配置融合GPU内核、实现FP8延迟缩放以及基准测试模型性能。通过实用代码示例和性能分析，学习在PyTorch中构建和训练高效的GPT风格因果语言模型。该文章《利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>山姆·奥特曼仍在为通过ChatGPT育儿辩护</title>
+<link>https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3149010</guid>
+<pubDate>Sat, 01 Aug 2026 17:07:34 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI的首席执行官似乎很兴奋地分享了一个面向父母的“酷炫用例”。<br/><br/><a href="https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AI持续攻克未解数学难题，数学家们心情复杂</title>
 <link>https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/</link>
@@ -416,14 +456,6 @@
 <description><![CDATA[【techcrunch.com】正如专家过去两年所警告的那样，一些公司——如微软以及现在的谷歌——正借助大语言模型和AI工具，在其产品中发现并修复数量呈指数级增长的漏洞。<br/><br/><a href="https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>LinkedIn 新增按钮，可举报AI生成的“垃圾内容”</title>
-<link>https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148364</guid>
-<pubDate>Thu, 30 Jul 2026 18:05:21 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】LinkedIn 正在推出新措施以减少低质量的AI生成帖子，包括新增一个“看起来像AI垃圾内容”的举报选项。同时，它还将用自己的AI写作功能替换为校对工具。<br/><br/><a href="https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>谷歌发布Gemini Robotics 2.0，承诺提升灵活性与安全性</title>
 <link>https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/</guid>
@@ -440,30 +472,6 @@
 <description><![CDATA[【github.blog】了解我如何通过 GitHub Copilot 应用中的堆叠会话与拉取请求，对旧代码库进行现代化改造。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google DeepMind 发布三款物理AI模型，用于全身控制、灵巧操作及多机器人协作</title>
-<link>https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81447</guid>
-<pubDate>Thu, 30 Jul 2026 17:20:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google DeepMind 发布了 Gemini Robotics 2，这是其下一代机器人的智能层。此次发布包含三款模型：用于全身人形控制的视觉-语言-动作模型、用于具身推理和任务编排的 Gemini Robotics ER 2，以及一款可在数小时内适应新机器人本体的设备端 VLA。一个检查点驱动了 Apptronik Apollo 2 和 Franka Duo。仅 ER 2 公开可用。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Okta 收购 AI 安全初创公司 Permiso；消息人士称交易金额约 2 亿美元</title>
-<link>https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148308</guid>
-<pubDate>Thu, 30 Jul 2026 16:09:42 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】该交易使 Okta 获得身份威胁检测能力，以满足企业在云环境中保护 AI 代理及其他非人类身份的需求。<br/><br/><a href="https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta称AI让构建新应用变得更容易——更多应用即将推出</title>
-<link>https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148216</guid>
-<pubDate>Thu, 30 Jul 2026 15:41:16 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meta表示，人工智能正显著简化新消费应用的构建与发布流程。首席执行官马克·扎克伯格向投资者透露，在近期为Facebook群组、Marketplace卖家、Instagram及游戏领域推出一系列新功能后，公司还有更多消费级产品即将面世。<br/><br/><a href="https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GPU管理：闲置GPU为何成为新型“停飞飞机”</title>
 <link>https://huggingface.co/blog/Dharma-AI/gpu-management</link>
 <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/gpu-management</guid>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 30 Jul 2026 15:00:59 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】Gemini Robotics ER 2 助力机器人进行推理、协作并解决现实世界中的任务。它在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶跃式变革。<br/><br/><a href="https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>新MCP规范解决了企业采用的主要障碍</title>
-<link>https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</guid>
-<pubDate>Thu, 30 Jul 2026 14:53:07 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】此外，AI协议的新政策确保功能不会突然被移除。<br/><br/><a href="https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

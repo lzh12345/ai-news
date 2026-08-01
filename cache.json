@@ -1,24 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/": {
-"t": "五角大楼宣称使用AI撰写国会要求的报告",
-"s": "五角大楼还声称有150万人员正在使用生成式AI工具。"
-},
-"https://techcrunch.com/?p=3133365": {
-"t": "Android 17 发布，新增多任务工具，谷歌扩展 Gemini 功能",
-"s": "谷歌已发布 Android 17 和 Wear OS 7，引入了新的多任务功能、家长控制、安全工具以及智能手表升级。此次发布还伴随着 Pixel Drop 更新，将谷歌最新的 AI 模型引入其设备。"
-},
-"https://techcrunch.com/?p=3133302": {
-"t": "调查发现，六成美国消费者认为品牌信息中出现“AI”会让人反感",
-"s": "WordPress VIP的最新调查显示，尽管企业越来越将AI搜索视为重要的推荐渠道，但消费者对AI生成的答案仍持谨慎态度。"
-},
-"https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/": {
-"t": "SpaceX 将以600亿美元收购AI编程平台Cursor",
-"s": "各自为战时，两者均无法竞争。如今他们希望联手能够做到。"
-},
-"https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/": {
-"t": "泄露的财务文件显示OpenAI每年亏损数十亿美元",
-"s": "经审计的会计数据显示，不断增长的收入被研发及其他支出所掩盖。"
-},
 "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/": {
 "t": "关键Copilot漏洞允许黑客窃取用户双重验证码",
 "s": "SearchLeak漏洞揭示了行业在大型语言模型安全防护方面屡屡失败的原因。"
@@ -4798,5 +4778,25 @@
 "https://the-decoder.com/?p=38445": {
 "t": "字节跳动Seedance 2.5生成内置音频的30秒视频片段",
 "s": "字节跳动刚刚发布了Seedance 2.5，这是一款能同时生成视频和音频的AI视频模型。每个片段最长可达30秒，是谷歌Gemini Omni Flash输出长度的三倍。用户可输入数十张图片、视频和音频文件作为参考。对于广告团队而言，这可能终结一次只剪辑一个短视频的流程。本文《字节跳动Seedance 2.5生成内置音频的30秒视频片段》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3149027": {
+"t": "法官驳回xAI关于阻止明尼苏达州禁止“脱衣”应用的请求",
+"s": "尽管xAI提起诉讼，明尼苏达州对允许用户“脱衣”图像的应用的禁令仍可继续执行。"
+},
+"https://techcrunch.com/?p=3149017": {
+"t": "YouTuber Hank Green 表示他使用 AI 的方式“不健康”",
+"s": "格林发表了一番引人注目的道歉，称“我从与大型语言模型互动中获得的多巴胺水平……对我个人不健康，对世界也无益。”"
+},
+"https://www.marktechpost.com/?p=81485": {
+"t": "AMD发布Instella-MoE-16B-A3B：一款基于Instinct GPU训练、拥有28亿激活参数的全开放混合专家大语言模型",
+"s": "AMD发布了Instella-MoE-16B-A3B，这是一款完全开放的混合专家语言模型，从零开始在Instinct MI300X和MI325X GPU上训练而成。该模型总参数为160亿，但每个令牌仅激活28亿参数，采用了Gated MLA和FarSkip-Collective技术。AMD公开了每个训练阶段的权重，以及数据混合、配置和推理代码。该文章最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81482": {
+"t": "利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练",
+"s": "了解如何使用NVIDIA Transformer Engine优化Transformer工作负载。本教程指导您配置融合GPU内核、实现FP8延迟缩放以及基准测试模型性能。通过实用代码示例和性能分析，学习在PyTorch中构建和训练高效的GPT风格因果语言模型。该文章《利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练》首发于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3149010": {
+"t": "山姆·奥特曼仍在为通过ChatGPT育儿辩护",
+"s": "OpenAI的首席执行官似乎很兴奋地分享了一个面向父母的“酷炫用例”。"
 }
 }
