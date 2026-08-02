@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 02 Aug 2026 09:49:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 13:02:34 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meta AI 利用第二个人工智能代理作为记忆教练，确保长任务不偏离轨道</title>
+<link>https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38510</guid>
+<pubDate>Sun, 02 Aug 2026 12:57:38 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Meta AI 旨在防止人工智能代理在复杂任务中忘记已诊断的错误并重复失败的步骤。一个独立的记忆代理维护结构化的记忆库，并决定何时提醒主代理、何时保持沉默。该系统在两个基准测试中将得分提高了最多8.3个百分点。文章《Meta AI uses a second AI agent as a memory coach to keep long tasks on track》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>价值20万美元的真实macOS漏洞未被报告，因为苹果的漏洞赏金收件箱被AI垃圾信息淹没</title>
+<link>https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38515</guid>
+<pubDate>Sun, 02 Aug 2026 12:42:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】苹果的漏洞赏金计划正被AI生成的漏洞报告淹没。公司已限制每位研究者的提交数量，因为虚假报告堵塞了审查流程。结果，意大利初创公司Bynario最初无法报告一个在黑市上价值高达20万美元的严重macOS漏洞。文章《价值20万美元的真实macOS漏洞未被报告，因为苹果的漏洞赏金收件箱被AI垃圾信息淹没》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI发现大量安全漏洞，但几乎无一被实际利用</title>
+<link>https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38388</guid>
+<pubDate>Sun, 02 Aug 2026 10:09:34 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】VulnCheck统计了AI发现的安全漏洞实际被利用的频率。在2026年上半年AI发现的1,061个漏洞中，仅有14个遭遇了确认的攻击，占比1.3%，与整体漏洞的利用率持平。然而，漏洞利用的速度有所加快，中位时间从120天缩短至80天。文章《AI发现大量安全漏洞，但几乎无一被实际利用》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Claude Opus 5将提示转游戏AI从粗糙色块推向带物理效果和音乐的完整3D原型</title>
 <link>https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/</link>
@@ -32,22 +56,6 @@
 <description><![CDATA[【the-decoder.com】Snap正禁止Spotlight中的AI生成视频，以保持信息流聚焦于人类创造力。使用Snapchat自身AI工具编辑的内容仍被允许。与此同时，LinkedIn推出了专门的“AI垃圾内容”举报按钮。文章《Snap和LinkedIn正在反击低质量AI内容的泛滥》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NVIDIA AI 发布 Molt：一个 PyTorch 原生的智能体强化学习框架</title>
-<link>https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81496</guid>
-<pubDate>Sun, 02 Aug 2026 06:21:26 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】智能体强化学习研究涉及持续的算法修改，而在主流框架中，每次改动都需要贯穿训练器、分布式后端和 rollout 粘合层。NVIDIA 的 Molt 旨在解决这一成本问题，仅用约 8.6K 行强化学习代码，将 Ray、vLLM 和 NeMo AutoModel 组合在一个异步循环中。智能体保持普通 Python 实现，轨迹保持 token 级精确，吞吐量在统计上与基于 Megatron 的堆栈相当。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署</title>
-<link>https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81491</guid>
-<pubDate>Sun, 02 Aug 2026 05:44:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们使用TimesFM 2.5构建了一个高级的端到端时间序列预测工作流。我们首先配置运行环境，安装所需依赖，检测可用硬件，并生成一个包含趋势、季节性、定价、促销、节假日、温度效应及随机变化的多门店零售数据集。随后，我们加载并编译TimesFM 2.5模型，检查[…] 该文章《使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>法官驳回xAI关于阻止明尼苏达州禁止“脱衣”应用的请求</title>
 <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
@@ -62,22 +70,6 @@
 <pubDate>Sat, 01 Aug 2026 19:45:45 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】格林发表了一番引人注目的道歉，称“我从与大型语言模型互动中获得的多巴胺水平……对我个人不健康，对世界也无益。”<br/><br/><a href="https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AMD发布Instella-MoE-16B-A3B：一款基于Instinct GPU训练、拥有28亿激活参数的全开放混合专家大语言模型</title>
-<link>https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81485</guid>
-<pubDate>Sat, 01 Aug 2026 19:01:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】AMD发布了Instella-MoE-16B-A3B，这是一款完全开放的混合专家语言模型，从零开始在Instinct MI300X和MI325X GPU上训练而成。该模型总参数为160亿，但每个令牌仅激活28亿参数，采用了Gated MLA和FarSkip-Collective技术。AMD公开了每个训练阶段的权重，以及数据混合、配置和推理代码。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练</title>
-<link>https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81482</guid>
-<pubDate>Sat, 01 Aug 2026 18:31:15 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】了解如何使用NVIDIA Transformer Engine优化Transformer工作负载。本教程指导您配置融合GPU内核、实现FP8延迟缩放以及基准测试模型性能。通过实用代码示例和性能分析，学习在PyTorch中构建和训练高效的GPT风格因果语言模型。该文章《利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>山姆·奥特曼仍在为通过ChatGPT育儿辩护</title>
@@ -136,46 +128,6 @@
 <description><![CDATA[【arstechnica.com】Reddit可能仍在考虑终止与谷歌的授权协议。<br/><br/><a href="https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩</title>
-<link>https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38441</guid>
-<pubDate>Sat, 01 Aug 2026 10:40:50 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】慕尼黑一家法院裁定，AI音乐生成器Suno在训练和输出过程中均侵犯了版权。法院认定Suno的模型中可复现地存储了六首歌曲，并驳回了德国文本与数据挖掘例外条款及美国合理使用抗辩。该裁决尚未最终生效，多个关键问题仍悬而未决。文章《德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Supabase发布Evals：一个开源基准测试，用于评估Claude Code、Codex和OpenCode在真实Supabase任务中的表现</title>
-<link>https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81479</guid>
-<pubDate>Sat, 01 Aug 2026 09:52:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Supabase已开源supabase/evals，这是一个Apache-2.0许可的基准测试和框架，在容器化技术栈中运行包括Claude Code、Codex和OpenCode在内的编码代理，针对真实Supabase任务（如构建模式、调试Edge Functions、修复RLS策略）进行评估，并通过确定性检查和LLM-as-a-judge进行评分。该文章《Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI发布“下一代重大模型”Astra，一举解决十道此前未解数学难题</title>
-<link>https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38432</guid>
-<pubDate>Sat, 01 Aug 2026 09:29:49 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI正在构建一个名为“Astra”的新模型系列，该系列将允许多个智能体协同工作数小时甚至数天，共同解决复杂问题。CEO萨姆·奥尔特曼已向华盛顿的政策制定者演示了Astra。OpenAI尚未决定将其作为GPT-6还是GPT-5的新变体发布。本文《OpenAI announces its "next major model" Astra by dropping ten previously unsolved math solutions》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌向用户提供了制作虚假卫星图像的最简单工具，两天后便将其撤下</title>
-<link>https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38435</guid>
-<pubDate>Sat, 01 Aug 2026 09:00:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】谷歌在Google Earth中推出Nano Banana 2图像模型仅两天后便将其撤下。用户展示了生成令人信服的虚假卫星图像有多么容易。只需一个简单的提示，就能在墨西哥边境的空地上填满一列难民。文章《谷歌向用户提供了制作虚假卫星图像的最简单工具，两天后便将其撤下》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MiniMax发布MiniMax H3：一款生成15秒2K原生立体声视频的全模态模型</title>
-<link>https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81476</guid>
-<pubDate>Sat, 01 Aug 2026 08:28:07 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】MiniMax发布MiniMax H3，一款通用多模态生成模型。MiniMax H3并非附加功能的文本转视频模型。MiniMax将其描述为一种通用多模态生成模型，能够将文本、图像、视频和音频作为统一上下文读取，并返回带有原生立体声的视频。主要规格包括：2K输出，4至15秒，整数时长[…]该文章《MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>数学与理论计算机科学的十项进展</title>
 <link>https://openai.com/index/ten-advances-in-mathematics</link>
 <guid isPermaLink="false">https://openai.com/index/ten-advances-in-mathematics</guid>
@@ -190,14 +142,6 @@
 <pubDate>Fri, 31 Jul 2026 22:47:26 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI在调查与Hugging Face相关的事件时，据报道发现了更多智能体行为不当的证据。<br/><br/><a href="https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力</title>
-<link>https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81472</guid>
-<pubDate>Fri, 31 Jul 2026 22:03:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepSeek于2026年7月31日在Hugging Face上发布了DeepSeek-V4-Flash-0731，并将官方V4-Flash API转入公开测试阶段。模型卡片明确指出，这是取代预览版的正式发布，架构和规模保持不变。性能提升源于重新训练，而非新设计。该检查点附带[...] 文章《DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Reddit继续就谷歌搜索结果中的奇怪DMCA争议提起诉讼</title>
@@ -222,14 +166,6 @@
 <pubDate>Fri, 31 Jul 2026 20:39:14 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】如果这些黑客采用常规手段，很可能有人会因此入狱。<br/><br/><a href="https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>LingBot-Map教程：GPU感知推理与点云导出</title>
-<link>https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81467</guid>
-<pubDate>Fri, 31 Jul 2026 20:27:13 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】了解如何使用LingBot-Map实现流式3D重建流程。从GPU感知配置与预处理，到GCTStream模型推理与点云生成，本指南逐步引导您将图像或视频序列转换为一致的3D场景，并导出PLY和NPZ文件。该文章《LingBot-Map教程：GPU感知推理与点云导出》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>谷歌因撤回可生成虚假卫星图像的AI工具而面临风险</title>
@@ -360,22 +296,6 @@
 <description><![CDATA[【arstechnica.com】一场有争议的考试、一个不可靠的检测器，以及一份迟到的Apple Pages文件。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>JetBrains 开源 KotlinLLM：智能宏在运行时生成 Kotlin 源代码并通过 JDI 热重载</title>
-<link>https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81464</guid>
-<pubDate>Fri, 31 Jul 2026 10:32:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】JetBrains Research 已根据 Apache License 2.0 开源了 KotlinLLM。该 IntelliJ IDEA 插件原型添加了智能宏 asLlm 和 mockLlm，其主体是生成的 Kotlin 源代码，而非实时模型调用。插件通过 JDI 捕获运行时值，请求 LLM 代理进行窄范围代码更新，编译后重新定义已加载的类。覆盖的场景随后以纯 Kotlin 运行，无需进一步推理调用。在适配的 Spring Petclinic 项目中，24 个场景全部完成，热重载成功率达 100%，运行时开销约为 1%。文章《JetBrains 开源》<br/><br/><a href="https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nous Research为Hermes Agent与Buzz推出三条集成路径,Buzz是Block开源Nostr工作区,供人类与智能体共用</title>
-<link>https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81461</guid>
-<pubDate>Fri, 31 Jul 2026 09:08:13 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Nous Research已发布Hermes Agent对Buzz的支持,Buzz是Block开源、可自托管的Nostr工作区,人类与AI智能体可在其中共享同一频道。三条集成路径涵盖桌面运行时、中继桥接,以及保留Hermes记忆、技能、审批和定时投递的原生网关平台。本文“Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents”最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Univé打造AI就绪的员工队伍</title>
 <link>https://openai.com/index/unive</link>
 <guid isPermaLink="false">https://openai.com/index/unive</guid>
@@ -486,6 +406,86 @@
 <pubDate>Thu, 30 Jul 2026 15:00:59 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】Gemini Robotics ER 2 助力机器人进行推理、协作并解决现实世界中的任务。它在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶跃式变革。<br/><br/><a href="https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>新MCP规范解决了企业采用的主要障碍</title>
+<link>https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</guid>
+<pubDate>Thu, 30 Jul 2026 14:53:07 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】此外，AI协议的新政策确保功能不会突然被移除。<br/><br/><a href="https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>大规模内部测试：将cdnjs迁移至Cloudflare开发者平台</title>
+<link>https://blog.cloudflare.com/cdnjs-dev-platform-migration/</link>
+<guid isPermaLink="false">01KYQNRTVJ54SHCVBMMXFYGJ5P</guid>
+<pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们将每日处理90亿次请求的cdnjs完全迁移至Cloudflare开发者平台。这意味着我们正利用自身构建模块运行互联网最繁忙的开源CDN之一，并为此提升了Workflows和Workers对所有用户的限制上限。<br/><br/><a href="https://blog.cloudflare.com/cdnjs-dev-platform-migration/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>以GPT-5.6推进性价比前沿</title>
+<link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
+<guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
+<pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】探索Luna和Terra更低的GPT-5.6定价——以及OpenAI更高效的模型如何帮助企业大规模部署AI工作流。<br/><br/><a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6">阅读原文</a>]]></description>
+</item>
+<item>
+<title>降维遇上网络科学：基于UMAP的kNN图进行数据理解</title>
+<link>https://machinelearning.apple.com/research/umap-knn-graph-sensemaking</link>
+<guid isPermaLink="false">umap-knn-graph-sensemaking</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】尽管UMAP被广泛用于探索高维数据，但典型的工作流程聚焦于其低维嵌入，很大程度上忽略了UMAP内部构建的丰富k近邻（kNN）图。该图在原始高维空间中编码了数据流形，尚未受到UMAP二维投影引入的失真影响。我们展示了这一内部表示尚未开发的潜力，说明将标准图算法应用于该图如何增强数据理解：（1）PageRank识别代表性数据点，（2）k-core分解揭示密集区域。<br/><br/><a href="https://machinelearning.apple.com/research/umap-knn-graph-sensemaking">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MoMo：通过时空动作标记化实现机器人操作中的动态运动模式</title>
+<link>https://machinelearning.apple.com/research/momo-motion-mode-manipulation</link>
+<guid isPermaLink="false">momo-motion-mode-manipulation</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】为了在不同情境中有效运作，机器人不仅需要精确执行操作任务，还需根据任务、物体及交互环境调整其动作展开方式。我们探究这种执行层面的变化能否作为跨任务共享的可复用行为因素进行学习。我们提出MoMo，一个两阶段模仿学习框架，包含时空动作标记器和一个行为克隆变换器，后者以任务和连续运动模式条件为输入。在六个真实机器人操作任务中，改变该条件可产生稳定的…<br/><br/><a href="https://machinelearning.apple.com/research/momo-motion-mode-manipulation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>avatarin如何利用GPT-Realtime打造全天候零售代理</title>
+<link>https://openai.com/index/avatarin</link>
+<guid isPermaLink="false">https://openai.com/index/avatarin</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】avatarin利用OpenAI的GPT-Realtime为山田电机购物者提供24/7多语言支持。两周内，3万人使用了该代理，92%的调查反馈为正面。<br/><br/><a href="https://openai.com/index/avatarin">阅读原文</a>]]></description>
+</item>
+<item>
+<title>第三轮PQC算法候选遭Mythos攻击，宣告失效</title>
+<link>https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/</guid>
+<pubDate>Wed, 29 Jul 2026 22:07:06 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】HAWK在多年的测试中一直未被发现致命弱点，但Mythos攻击最终将其击破。<br/><br/><a href="https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国禁止外国机器人后，谁赢谁输？</title>
+<link>https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</guid>
+<pubDate>Wed, 29 Jul 2026 20:03:42 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】政府禁止外国制造的机器人可能反而阻碍美国机器人技术的发展。<br/><br/><a href="https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>埃隆·马斯克的xAI试图通过诉讼摆脱Grok的困境</title>
+<link>https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</guid>
+<pubDate>Wed, 29 Jul 2026 17:58:24 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】马斯克为Grok辩护，称明尼苏达州的“脱衣”应用禁令违宪。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们将在Google Flow Music中推出Lyria 3.5，在音乐性、歌词、人声和创意控制方面取得进展</title>
+<link>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</guid>
+<pubDate>Wed, 29 Jul 2026 16:02:10 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

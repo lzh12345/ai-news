@@ -1,16 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/": {
-"t": "特朗普政府试图阻止关于xAI燃气轮机的《清洁空气法》诉讼",
-"s": "NAACP诉讼称xAI在未获许可的情况下为Grok数据中心使用燃气轮机。"
-},
-"https://www.marktechpost.com/?p=80559": {
-"t": "认识Qwen-RobotSuite：三个用于VLA操控、视频世界建模和导航的具身AI模型",
-"s": "我们解析了Qwen团队推出的三个新具身AI模型——Qwen-RobotSuite。其中包括RobotManip，一个基于Qwen3.5-4B构建的视觉-语言-动作操控模型；RobotWorld，一个具有60层MMDiT的语言条件视频世界模型；以及RobotNav，一个基于Qwen3-VL、涵盖2B、4B和8B参数规模的导航模型。我们逐一介绍了它们的架构、数据管道和基准测试结果。本文《Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation》首发于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80556": {
-"t": "Hermes Agent新增异步子代理，委托任务不再阻塞父对话",
-"s": "我们探讨了Nous Research的Hermes Agent新增的异步子代理功能。委托工具现在可以生成后台代理，不再阻塞父对话。我们详细介绍了issue #5586中追踪的async_delegation工具集，涵盖如何生成、检查、引导和收集任务。我们还讨论了子代理隔离、同步与异步的权衡，以及何时应改用ACP。本文Hermes Agent Adds Asynchronous Subagents, So Delegated Work No Longer Blocks the Parent Chat最初发表于MarkTechPost。"
-},
 "https://www.marktechpost.com/?p=80575": {
 "t": "MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制",
 "s": "MiniMax发布了MSA，这是一种基于分组查询注意力构建的稀疏注意力机制。轻量级索引分支为每个查询和GQA组选择Top-k键值块；主分支仅关注这些块。在下游基准测试中，MSA与GQA表现相当，同时在1M上下文下将每个token的注意力计算量减少了28.4倍。本文MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制最早出现在MarkTechPost上。"
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=81491": {
 "t": "使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署",
 "s": "在本教程中，我们使用TimesFM 2.5构建了一个高级的端到端时间序列预测工作流。我们首先配置运行环境，安装所需依赖，检测可用硬件，并生成一个包含趋势、季节性、定价、促销、节假日、温度效应及随机变化的多门店零售数据集。随后，我们加载并编译TimesFM 2.5模型，检查[…] 该文章《使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署》首次出现在MarkTechPost上。"
+},
+"https://the-decoder.com/?p=38510": {
+"t": "Meta AI 利用第二个人工智能代理作为记忆教练，确保长任务不偏离轨道",
+"s": "Meta AI 旨在防止人工智能代理在复杂任务中忘记已诊断的错误并重复失败的步骤。一个独立的记忆代理维护结构化的记忆库，并决定何时提醒主代理、何时保持沉默。该系统在两个基准测试中将得分提高了最多8.3个百分点。文章《Meta AI uses a second AI agent as a memory coach to keep long tasks on track》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38515": {
+"t": "价值20万美元的真实macOS漏洞未被报告，因为苹果的漏洞赏金收件箱被AI垃圾信息淹没",
+"s": "苹果的漏洞赏金计划正被AI生成的漏洞报告淹没。公司已限制每位研究者的提交数量，因为虚假报告堵塞了审查流程。结果，意大利初创公司Bynario最初无法报告一个在黑市上价值高达20万美元的严重macOS漏洞。文章《价值20万美元的真实macOS漏洞未被报告，因为苹果的漏洞赏金收件箱被AI垃圾信息淹没》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=38388": {
+"t": "AI发现大量安全漏洞，但几乎无一被实际利用",
+"s": "VulnCheck统计了AI发现的安全漏洞实际被利用的频率。在2026年上半年AI发现的1,061个漏洞中，仅有14个遭遇了确认的攻击，占比1.3%，与整体漏洞的利用率持平。然而，漏洞利用的速度有所加快，中位时间从120天缩短至80天。文章《AI发现大量安全漏洞，但几乎无一被实际利用》最初发表于The Decoder。"
 }
 }
