@@ -1,12 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80575": {
-"t": "MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制",
-"s": "MiniMax发布了MSA，这是一种基于分组查询注意力构建的稀疏注意力机制。轻量级索引分支为每个查询和GQA组选择Top-k键值块；主分支仅关注这些块。在下游基准测试中，MSA与GQA表现相当，同时在1M上下文下将每个token的注意力计算量减少了28.4倍。本文MiniMax稀疏注意力（MSA）：一种基于109B参数MoE、3T Token预算训练的双分支块稀疏注意力机制最早出现在MarkTechPost上。"
-},
-"https://www.marktechpost.com/?p=80570": {
-"t": "OpenAI 部署模拟通过模拟工具调用将预部署风险评估扩展至智能编码",
-"s": "OpenAI 于2026年6月16日推出部署模拟。该方法在发布前通过新候选模型重放过往对话，随后对完成结果进行评分，以估算部署时不良行为的发生率。我们解析了该流程的工作原理、报告的中位数1.5倍乘性误差及其局限性。本文《OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls》首发于MarkTechPost。"
-},
 "https://the-decoder.com/?p=36706": {
 "t": "OpenAI 研究人员希望在发布前预测AI模型失败频率",
 "s": "OpenAI研究人员提出一种方法，用于预测新AI模型发布后犯错的频率。该方法可填补标准安全测试留下的空白。本文《OpenAI研究人员希望在发布前预测AI模型失败频率》最初发表于The Decoder。"
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=38388": {
 "t": "AI发现大量安全漏洞，但几乎无一被实际利用",
 "s": "VulnCheck统计了AI发现的安全漏洞实际被利用的频率。在2026年上半年AI发现的1,061个漏洞中，仅有14个遭遇了确认的攻击，占比1.3%，与整体漏洞的利用率持平。然而，漏洞利用的速度有所加快，中位时间从120天缩短至80天。文章《AI发现大量安全漏洞，但几乎无一被实际利用》最初发表于The Decoder。"
+},
+"01KYZDDR9B6VG028YHK8T709TD": {
+"t": "欢迎来到智能体周",
+"s": "智能体周探讨云基础设施如何演进，以服务于自主智能体而非人类浏览器。加入我们，一同解析构建智能体原生网络所需的存储、执行和安全基础组件。"
+},
+"https://the-decoder.com/?p=38521": {
+"t": "OpenAI Presence旨在让AI代理为企业生产环境做好准备",
+"s": "OpenAI的新企业产品Presence，旨在将AI代理应用于客户服务和内部工作流程的生产环境。与现有的Workspace Agents不同，Presence专注于外部部署。对于复杂案例，OpenAI自家的工程师会介入。本文《OpenAI Presence wants to make AI agents production-ready for businesses》最初出现在The Decoder上。"
 }
 }
