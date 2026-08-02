@@ -1,24 +1,4 @@
 {
-"https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/": {
-"t": "关键Copilot漏洞允许黑客窃取用户双重验证码",
-"s": "SearchLeak漏洞揭示了行业在大型语言模型安全防护方面屡屡失败的原因。"
-},
-"https://techcrunch.com/?p=3132789": {
-"t": "ChatGPT市场份额首次跌破50%",
-"s": "该聊天机器人仍以超过11亿月活用户位居全球最受欢迎AI助手，紧随其后的是Gemini（6.62亿用户）和Claude（2.45亿用户）。"
-},
-"https://openai.com/index/deployment-simulation": {
-"t": "通过模拟部署在发布前预测模型行为",
-"s": "OpenAI 推出部署模拟方法，利用真实对话数据在部署前预测AI模型行为，以提升安全性与评估准确性。"
-},
-"https://www.marktechpost.com/?p=80567": {
-"t": "如何使用xFormers构建内存高效的Transformer：打包序列、GQA、ALiBi、SwiGLU和因果注意力",
-"s": "我们实现了xFormers，这是一个用于在GPU上构建快速、内存高效的Transformer模型的实用工具包。我们验证了内存高效注意力机制与标准实现的对比，然后比较了不同序列长度下的速度和内存占用。我们逐步讲解了因果掩码、打包变长序列、分组查询注意力以及自定义ALiBi偏置。最后，我们将这些技术整合到一个可训练的GPT风格模型中，并加入了SwiGLU层和自动混合精度训练。本文《如何使用xFormers构建内存高效的Transformer：打包序列、GQA、ALiBi、SwiGLU和因果注意力》首次发布。"
-},
-"https://techcrunch.com/?p=3133474": {
-"t": "Anthropic与特朗普政府的最新争端或对其有利，销售数据表明",
-"s": "Ramp的数据显示，Anthropic在企业用户中的受欢迎程度正在快速增长，以至于与政府的最新冲突反而可能助其发展。"
-},
 "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/": {
 "t": "特朗普政府试图阻止关于xAI燃气轮机的《清洁空气法》诉讼",
 "s": "NAACP诉讼称xAI在未获许可的情况下为Grok数据中心使用燃气轮机。"
@@ -4798,5 +4778,25 @@
 "https://techcrunch.com/?p=3149010": {
 "t": "山姆·奥特曼仍在为通过ChatGPT育儿辩护",
 "s": "OpenAI的首席执行官似乎很兴奋地分享了一个面向父母的“酷炫用例”。"
+},
+"https://the-decoder.com/?p=38448": {
+"t": "Claude Opus 5将提示转游戏AI从粗糙色块推向带物理效果和音乐的完整3D原型",
+"s": "Anthropic的Claude Opus 5能从单一提示生成完整3D游戏，包括第一人称射击游戏、卡丁车赛车和《我的世界》克隆版，全程无需任何外部资源。几何、纹理、物理效果，部分情况下还有音乐，均以代码形式生成并直接在浏览器中运行。在与GPT-5.6 Sol和Kimi K3的并排对比中，Opus 5产出的结果细节显著更丰富。文章《Claude Opus 5将提示转游戏AI从粗糙色块推向带物理效果和音乐的完整3D原型》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=38364": {
+"t": "Hugging Face事件后，METR呼吁对AI代理不当行为进行独立根本原因调查",
+"s": "研究组织METR呼吁，每当AI代理自主行动违背开发者意图时，应进行系统性、独立主导的调查。这一呼吁部分是对OpenAI模型实施的Hugging Face黑客攻击的回应。METR自身的《前沿风险报告》记录了所有主要AI公司中的44起此类事件，包括沙箱逃逸、伪造结果和主动掩盖行为。文章《Hugging Face事件后，METR呼吁对AI代理不当行为进行独立根本原因调查》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=38485": {
+"t": "Snap与LinkedIn反击低质量AI内容泛滥",
+"s": "Snap正禁止Spotlight中的AI生成视频，以保持信息流聚焦于人类创造力。使用Snapchat自身AI工具编辑的内容仍被允许。与此同时，LinkedIn推出了专门的“AI垃圾内容”举报按钮。文章《Snap和LinkedIn正在反击低质量AI内容的泛滥》最初出现在The Decoder上。"
+},
+"https://www.marktechpost.com/?p=81496": {
+"t": "NVIDIA AI 发布 Molt：一个 PyTorch 原生的智能体强化学习框架",
+"s": "智能体强化学习研究涉及持续的算法修改，而在主流框架中，每次改动都需要贯穿训练器、分布式后端和 rollout 粘合层。NVIDIA 的 Molt 旨在解决这一成本问题，仅用约 8.6K 行强化学习代码，将 Ray、vLLM 和 NeMo AutoModel 组合在一个异步循环中。智能体保持普通 Python 实现，轨迹保持 token 级精确，吞吐量在统计上与基于 Megatron 的堆栈相当。该文章最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81491": {
+"t": "使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署",
+"s": "在本教程中，我们使用TimesFM 2.5构建了一个高级的端到端时间序列预测工作流。我们首先配置运行环境，安装所需依赖，检测可用硬件，并生成一个包含趋势、季节性、定价、促销、节假日、温度效应及随机变化的多门店零售数据集。随后，我们加载并编译TimesFM 2.5模型，检查[…] 该文章《使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署》首次出现在MarkTechPost上。"
 }
 }
