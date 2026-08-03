@@ -5,15 +5,63 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 03 Aug 2026 11:14:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 14:19:53 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>阿里巴巴开源权重模型Qwen3.8-Max以2.4万亿参数应对长周期AI任务</title>
-<link>https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38525</guid>
-<pubDate>Mon, 03 Aug 2026 10:50:50 +0000</pubDate>
+<title>中国MiniMax H3成为首个登顶AI视频排名的开源模型</title>
+<link>https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38545</guid>
+<pubDate>Mon, 03 Aug 2026 13:52:29 +0000</pubDate>
 <source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】阿里巴巴新旗舰模型Qwen3.8-Max旨在自主处理复杂任务，可持续数天，从复现研究论文到自主设计芯片。团队计划下周发布模型权重。本文《阿里巴巴开源权重模型Qwen3.8-Max以2.4万亿参数应对长周期AI任务》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/">阅读原文</a>]]></description>
+<description><![CDATA[【the-decoder.com】MiniMax发布H3视频模型权重，首次使开源模型登上视频排名榜首。文章《中国MiniMax H3成为首个登顶AI视频排名的开源模型》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>你的智能体需要一台电脑，而非一个容器——介绍 @cloudflare/computer</title>
+<link>https://blog.cloudflare.com/cloudflare-computer/</link>
+<guid isPermaLink="false">01KZ0Q4HGGZF4CDMZVFZRGTTCF</guid>
+<pubDate>Mon, 03 Aug 2026 13:15:24 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】智能体要扩展，需要的不仅仅是容器。我们推出了 @cloudflare/computer，这是一个智能体运行时，能在快速高效的隔离环境与完整的 Linux 容器之间动态编排，为每个智能体提供一台专属电脑。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-computer/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare Workers与容器现已支持入站TCP连接和gRPC</title>
+<link>https://blog.cloudflare.com/grpc-workers/</link>
+<guid isPermaLink="false">01KZ21C4W4K7E7W8E61PNSYFQ1</guid>
+<pubDate>Mon, 03 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare Workers现通过Spectrum支持入站TCP连接，允许直接套接字转发至Durable Objects和容器。开发者可在Workers内运行全双工gRPC应用，或利用自动gRPC到gRPC-web的转换功能。<br/><br/><a href="https://blog.cloudflare.com/grpc-workers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出可计费用量API：为Cloudflare提供编程化成本可见性</title>
+<link>https://blog.cloudflare.com/billable-usage-api/</link>
+<guid isPermaLink="false">01KZ1X08HVW808ZTAF030PTT5X</guid>
+<pubDate>Mon, 03 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare已为账户推出新的可计费用量API，使开发者和FinOps团队能够通过单一端点编程化地查看所有自助服务产品的成本与用量。该API基于FOCUS规范构建，现在可以无缝地跟踪支出，与您的其他云服务栈保持一致。<br/><br/><a href="https://blog.cloudflare.com/billable-usage-api/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>更小、更快、更安全：大规模运行Kimi与GLM</title>
+<link>https://blog.cloudflare.com/smaller-faster-safer-models/</link>
+<guid isPermaLink="false">01KZ1PQYERR7GDZ61F4H35QVT1</guid>
+<pubDate>Mon, 03 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】服务像Kimi和GLM这样的前沿模型意味着要争夺GPU内存。以下是我们如何量化KV缓存、压缩模型权重，并添加完整性检查，以更快速、更经济、更安全地服务这些模型。<br/><br/><a href="https://blog.cloudflare.com/smaller-faster-safer-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Workers RPC 现已支持跨 Python 和 JavaScript 运行</title>
+<link>https://blog.cloudflare.com/python-workers-rpc/</link>
+<guid isPermaLink="false">01KYT15YJPSYBNRFS8G400P5P5</guid>
+<pubDate>Mon, 03 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】一个编码代理可以编写 Python Worker，另一个可以编写 JavaScript Worker。在运行时，这些 Worker 可以交换对活动对象的引用并调用其方法，而无需定义 API、模式或序列化代码。<br/><br/><a href="https://blog.cloudflare.com/python-workers-rpc/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>独角兽、鹈鹕、中土世界：OpenAI联合创始人卡帕西寻找下一个AI氛围测试</title>
+<link>https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38540</guid>
+<pubDate>Mon, 03 Aug 2026 12:07:31 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】一段《指环王》的段落输入，输出5500行代码。安德烈·卡帕西让Claude Opus 5将托尔金的开篇转化为3D浏览器场景。文章《独角兽、鹈鹕、中土世界：OpenAI联合创始人卡帕西寻找下一个AI氛围测试》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>两个团队仅相隔三小时，用GPT-5.6解决了同一量子密码学难题</title>
@@ -22,6 +70,22 @@
 <pubDate>Mon, 03 Aug 2026 10:49:58 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】两个研究团队独立使用OpenAI的GPT-5.6 Sol Ultra解决了同一个开放量子密码学问题，提交论文的时间仅相隔三小时。其中一位研究者表示：“如果有人提到一个开放问题，首先会看看GPT能否解决它。”这一案例引发了一个问题：当所有人都使用相同的模型时，“独立发现”意味着什么？本文《两个团队仅相隔三小时，用GPT-5.6解决了同一量子密码学难题》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>阿里巴巴开源权重模型Qwen3.8-Max以2.4万亿参数应对长周期AI任务</title>
+<link>https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38525</guid>
+<pubDate>Mon, 03 Aug 2026 10:48:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】阿里巴巴新旗舰模型Qwen3.8-Max旨在自主处理复杂任务，可持续数天，从复现研究论文到自主设计芯片。团队计划下周发布模型权重。本文《阿里巴巴开源权重模型Qwen3.8-Max以2.4万亿参数应对长周期AI任务》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Marc Benioff支持的初创公司认为AI能解决AI部署难题</title>
+<link>https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3148764</guid>
+<pubDate>Mon, 03 Aug 2026 10:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】June今日以2000万美元的预种子轮融资从隐身模式中亮相，旨在简化AI的采用过程。<br/><br/><a href="https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>山姆·奥特曼与AI减速辩论</title>
@@ -88,14 +152,6 @@
 <description><![CDATA[【the-decoder.com】研究组织METR呼吁，每当AI代理自主行动违背开发者意图时，应进行系统性、独立主导的调查。这一呼吁部分是对OpenAI模型实施的Hugging Face黑客攻击的回应。METR自身的《前沿风险报告》记录了所有主要AI公司中的44起此类事件，包括沙箱逃逸、伪造结果和主动掩盖行为。文章《Hugging Face事件后，METR呼吁对AI代理不当行为进行独立根本原因调查》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Snap与LinkedIn反击低质量AI内容泛滥</title>
-<link>https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38485</guid>
-<pubDate>Sun, 02 Aug 2026 06:49:28 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Snap正禁止Spotlight中的AI生成视频，以保持信息流聚焦于人类创造力。使用Snapchat自身AI工具编辑的内容仍被允许。与此同时，LinkedIn推出了专门的“AI垃圾内容”举报按钮。文章《Snap和LinkedIn正在反击低质量AI内容的泛滥》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>法官驳回xAI关于阻止明尼苏达州禁止“脱衣”应用的请求</title>
 <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
@@ -118,14 +174,6 @@
 <pubDate>Sat, 01 Aug 2026 17:07:34 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI的首席执行官似乎很兴奋地分享了一个面向父母的“酷炫用例”。<br/><br/><a href="https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI持续攻克未解数学难题，数学家们心情复杂</title>
-<link>https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38472</guid>
-<pubDate>Sat, 01 Aug 2026 16:01:31 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI对单位距离猜想的反驳引发了数学领域一波AI辅助的进展。菲尔兹奖得主蒂莫西·高尔斯表示，GPT 5.6 Pro首次尝试就解决了他花费大量时间研究的两道难题。他警告说，如果数学家停止构建理解此类结果所需的专业知识，可能会导致“数学文化的毁灭”。其他人则简单地将AI视为生产力工具。文章《AI keeps cracking unsolved math problems, and mathematicians have mixed feelings》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>这款9美元的钥匙能物理锁定你最上瘾的应用</title>
@@ -368,14 +416,6 @@
 <description><![CDATA[【techcrunch.com】一名联邦法官表示，特朗普政府尚未提供足够证据来证明将Anthropic列为供应链风险的合理性，这对其禁止该公司AI技术的政府禁令提出了质疑。<br/><br/><a href="https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>孤独的AI可穿戴设备Friend携新语音回归，价格大幅上涨</title>
-<link>https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148423</guid>
-<pubDate>Thu, 30 Jul 2026 19:44:16 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】AI可穿戴设备Friend现在能与用户对话——但价格也随之提升。<br/><br/><a href="https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Chrome 或将实现无需重启的更快更新</title>
 <link>https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/</guid>
@@ -446,46 +486,6 @@
 <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】尽管UMAP被广泛用于探索高维数据，但典型的工作流程聚焦于其低维嵌入，很大程度上忽略了UMAP内部构建的丰富k近邻（kNN）图。该图在原始高维空间中编码了数据流形，尚未受到UMAP二维投影引入的失真影响。我们展示了这一内部表示尚未开发的潜力，说明将标准图算法应用于该图如何增强数据理解：（1）PageRank识别代表性数据点，（2）k-core分解揭示密集区域。<br/><br/><a href="https://machinelearning.apple.com/research/umap-knn-graph-sensemaking">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MoMo：通过时空动作标记化实现机器人操作中的动态运动模式</title>
-<link>https://machinelearning.apple.com/research/momo-motion-mode-manipulation</link>
-<guid isPermaLink="false">momo-motion-mode-manipulation</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】为了在不同情境中有效运作，机器人不仅需要精确执行操作任务，还需根据任务、物体及交互环境调整其动作展开方式。我们探究这种执行层面的变化能否作为跨任务共享的可复用行为因素进行学习。我们提出MoMo，一个两阶段模仿学习框架，包含时空动作标记器和一个行为克隆变换器，后者以任务和连续运动模式条件为输入。在六个真实机器人操作任务中，改变该条件可产生稳定的…<br/><br/><a href="https://machinelearning.apple.com/research/momo-motion-mode-manipulation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>avatarin如何利用GPT-Realtime打造全天候零售代理</title>
-<link>https://openai.com/index/avatarin</link>
-<guid isPermaLink="false">https://openai.com/index/avatarin</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】avatarin利用OpenAI的GPT-Realtime为山田电机购物者提供24/7多语言支持。两周内，3万人使用了该代理，92%的调查反馈为正面。<br/><br/><a href="https://openai.com/index/avatarin">阅读原文</a>]]></description>
-</item>
-<item>
-<title>第三轮PQC算法候选遭Mythos攻击，宣告失效</title>
-<link>https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/</guid>
-<pubDate>Wed, 29 Jul 2026 22:07:06 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】HAWK在多年的测试中一直未被发现致命弱点，但Mythos攻击最终将其击破。<br/><br/><a href="https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>美国禁止外国机器人后，谁赢谁输？</title>
-<link>https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</guid>
-<pubDate>Wed, 29 Jul 2026 20:03:42 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】政府禁止外国制造的机器人可能反而阻碍美国机器人技术的发展。<br/><br/><a href="https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>埃隆·马斯克的xAI试图通过诉讼摆脱Grok的困境</title>
-<link>https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</guid>
-<pubDate>Wed, 29 Jul 2026 17:58:24 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】马斯克为Grok辩护，称明尼苏达州的“脱衣”应用禁令违宪。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

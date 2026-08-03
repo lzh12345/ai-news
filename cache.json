@@ -1,36 +1,4 @@
 {
-"https://the-decoder.com/?p=36693": {
-"t": "超大规模企业可能很快无法仅靠现金流支撑AI建设",
-"s": "根据Epoch AI的分析，微软、亚马逊、Alphabet、Meta和甲骨文每年在AI基础设施上的支出增长约70%，而运营现金流仅增长23%。如果这一趋势持续，支出最早可能在2026年第三季度超过现金流。其中几家公司已经在寻求外部融资。本文《超大规模企业可能很快无法仅靠现金流支撑AI建设》最初发表于The Decoder。"
-},
-"https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware": {
-"t": "从Hugging Face Hub到机器人硬件：借助Strands Agents和LeRobot实现",
-"s": ""
-},
-"https://huggingface.co/blog/zai-org/glm-52-blog": {
-"t": "GLM-5.2：专为长周期任务打造",
-"s": ""
-},
-"https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/": {
-"t": "“危险”的AI模型无论如何都会到来",
-"s": "具备高级黑客能力的AI模型很快将成为常态。"
-},
-"https://techcrunch.com/?p=3133823": {
-"t": "世界模型制造商Odyssey获亚马逊等巨头支持，估值达14.5亿美元",
-"s": "世界模型是继大语言模型之后AI领域的下一个重大方向，而通过本轮融资，Odyssey已巩固其作为值得关注的初创公司之一的地位。"
-},
-"https://the-decoder.com/?p=36698": {
-"t": "智谱AI的GLM-5.2在编程马拉松中逼近闭源领导者",
-"s": "中国AI实验室智谱AI发布了GLM-5.2，在MIT许可下支持稳定的100万token上下文。在针对数小时长编码任务的基准测试FrontierSWE上，这款开源模型仅落后Anthropic的Claude Opus 4.8一个百分点。在推理能力方面，它仍远落后于闭源竞争对手。文章《智谱AI的GLM-5.2在编程马拉松中逼近闭源领导者》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80581": {
-"t": "Vercel 发布 Eve：一个开源 AI 智能体框架，每个智能体对应一个映射到能力的文件目录",
-"s": "Vercel 已开源 Eve，这是一个 Apache-2.0 许可的智能体框架，目前处于公开预览阶段。每个智能体对应一个文件目录，内置持久化执行、沙箱、审批、连接、频道和评估功能。可通过 npx eve@latest init 进行脚手架搭建，并通过 vercel deploy 直接部署而无需修改。本文《Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities》最初发表于 MarkTechPost。"
-},
-"https://techcrunch.com/?p=3133545": {
-"t": "新研究显示，仅16%的美国人认为AI将对社会产生积极影响",
-"s": "尽管华尔街对AI青睐有加，但皮尤研究中心的一份新报告显示，普通美国人对该行业的乐观程度显著降低。"
-},
 "https://techcrunch.com/?p=3133765": {
 "t": "谷歌押注Gemini重塑智能音箱",
 "s": "谷歌正押注生成式AI能为智能音箱注入新活力。其新款99.99美元的Google Home音箱用更具对话性的Gemini交互，取代了谷歌助手时代僵硬的指令模式。"
@@ -4798,5 +4766,37 @@
 "https://the-decoder.com/?p=38533": {
 "t": "两个团队仅相隔三小时，用GPT-5.6解决了同一量子密码学难题",
 "s": "两个研究团队独立使用OpenAI的GPT-5.6 Sol Ultra解决了同一个开放量子密码学问题，提交论文的时间仅相隔三小时。其中一位研究者表示：“如果有人提到一个开放问题，首先会看看GPT能否解决它。”这一案例引发了一个问题：当所有人都使用相同的模型时，“独立发现”意味着什么？本文《两个团队仅相隔三小时，用GPT-5.6解决了同一量子密码学难题》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=38545": {
+"t": "中国MiniMax H3成为首个登顶AI视频排名的开源模型",
+"s": "MiniMax发布H3视频模型权重，首次使开源模型登上视频排名榜首。文章《中国MiniMax H3成为首个登顶AI视频排名的开源模型》最初发表于The Decoder。"
+},
+"01KZ0Q4HGGZF4CDMZVFZRGTTCF": {
+"t": "你的智能体需要一台电脑，而非一个容器——介绍 @cloudflare/computer",
+"s": "智能体要扩展，需要的不仅仅是容器。我们推出了 @cloudflare/computer，这是一个智能体运行时，能在快速高效的隔离环境与完整的 Linux 容器之间动态编排，为每个智能体提供一台专属电脑。"
+},
+"01KZ21C4W4K7E7W8E61PNSYFQ1": {
+"t": "Cloudflare Workers与容器现已支持入站TCP连接和gRPC",
+"s": "Cloudflare Workers现通过Spectrum支持入站TCP连接，允许直接套接字转发至Durable Objects和容器。开发者可在Workers内运行全双工gRPC应用，或利用自动gRPC到gRPC-web的转换功能。"
+},
+"01KZ1X08HVW808ZTAF030PTT5X": {
+"t": "推出可计费用量API：为Cloudflare提供编程化成本可见性",
+"s": "Cloudflare已为账户推出新的可计费用量API，使开发者和FinOps团队能够通过单一端点编程化地查看所有自助服务产品的成本与用量。该API基于FOCUS规范构建，现在可以无缝地跟踪支出，与您的其他云服务栈保持一致。"
+},
+"01KZ1PQYERR7GDZ61F4H35QVT1": {
+"t": "更小、更快、更安全：大规模运行Kimi与GLM",
+"s": "服务像Kimi和GLM这样的前沿模型意味着要争夺GPU内存。以下是我们如何量化KV缓存、压缩模型权重，并添加完整性检查，以更快速、更经济、更安全地服务这些模型。"
+},
+"01KYT15YJPSYBNRFS8G400P5P5": {
+"t": "Workers RPC 现已支持跨 Python 和 JavaScript 运行",
+"s": "一个编码代理可以编写 Python Worker，另一个可以编写 JavaScript Worker。在运行时，这些 Worker 可以交换对活动对象的引用并调用其方法，而无需定义 API、模式或序列化代码。"
+},
+"https://the-decoder.com/?p=38540": {
+"t": "独角兽、鹈鹕、中土世界：OpenAI联合创始人卡帕西寻找下一个AI氛围测试",
+"s": "一段《指环王》的段落输入，输出5500行代码。安德烈·卡帕西让Claude Opus 5将托尔金的开篇转化为3D浏览器场景。文章《独角兽、鹈鹕、中土世界：OpenAI联合创始人卡帕西寻找下一个AI氛围测试》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3148764": {
+"t": "Marc Benioff支持的初创公司认为AI能解决AI部署难题",
+"s": "June今日以2000万美元的预种子轮融资从隐身模式中亮相，旨在简化AI的采用过程。"
 }
 }
