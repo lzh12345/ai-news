@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 03 Aug 2026 17:46:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 20:56:34 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AWS助力“氛围编程”初创公司Superblocks，影响深远</title>
+<link>https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3148841</guid>
+<pubDate>Mon, 03 Aug 2026 20:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AWS现已允许“氛围编程”工具Superblocks嵌入其客户的私有云中。这标志着应用与模型解耦的又一进展。<br/><br/><a href="https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DesignArena创作者融资790万美元，为AI模型注入审美品味</title>
+<link>https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3149146</guid>
+<pubDate>Mon, 03 Aug 2026 19:28:57 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】DesignArena全球拥有530万用户，为前沿实验室提供关键的人类评估服务。<br/><br/><a href="https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>网红参加OpenAI首次奢华之旅引发争议</title>
+<link>https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3149254</guid>
+<pubDate>Mon, 03 Aug 2026 19:09:56 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI首次举办的网红品牌之旅正引发网络反弹，随着对AI使用的争议持续升温。<br/><br/><a href="https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI监考的远程考试遭遇重大挫折，5.8万名学生需重考</title>
+<link>https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/</link>
+<guid isPermaLink="false">https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/</guid>
+<pubDate>Mon, 03 Aug 2026 19:00:50 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】高分成绩激增了5倍。<br/><br/><a href="https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>苹果终于修复了Siri，为何却让人感觉平淡无奇？</title>
+<link>https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3149128</guid>
+<pubDate>Mon, 03 Aug 2026 18:43:43 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】苹果期待已久的人工智能革新终于让Siri成为了它本该成为的助手。但经过多年的延迟，此次发布却落入了这样一个AI格局：聊天机器人已进化为能编码、推理、创作媒体并完成复杂任务的智能体。Siri AI确实实用，但它的到来正值仅仅成为一个能干的AI助手已不再让人感觉具有革命性的时刻。<br/><br/><a href="https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>阿里巴巴新Qwen模型也在抢你的饭碗，但这次它很棒</title>
 <link>https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/</link>
@@ -118,6 +158,14 @@
 <pubDate>Mon, 03 Aug 2026 10:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】June今日以2000万美元的预种子轮融资从隐身模式中亮相，旨在简化AI的采用过程。<br/><br/><a href="https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们如何在六个月内构建响应式语音AI的实时系统</title>
+<link>https://openai.com/index/continuous-voice-interaction-with-gpt-live</link>
+<guid isPermaLink="false">https://openai.com/index/continuous-voice-interaction-with-gpt-live</guid>
+<pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】GPT-Live通过无轮次语音模型和低延迟架构，实现了与AI的连续语音交互，使对话更快、更自然。<br/><br/><a href="https://openai.com/index/continuous-voice-interaction-with-gpt-live">阅读原文</a>]]></description>
 </item>
 <item>
 <title>多模态大语言模型中的对齐理解：一项综合研究</title>
@@ -384,44 +432,12 @@
 <description><![CDATA[【openai.com】了解Univé如何通过结合领导力、负责任治理与员工主导的创新，利用ChatGPT Enterprise打造AI就绪的员工队伍，实现工作的大规模转型。<br/><br/><a href="https://openai.com/index/unive">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic称其AI模型在安全测试中入侵了三家公司</title>
-<link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148621</guid>
-<pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】在OpenAI的模型入侵Hugging Face之后，Anthropic检查了自己的历史记录，发现了三起类似事件。<br/><br/><a href="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>瓦解犯罪诈骗行动</title>
 <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
 <guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
 <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI 瓦解了一个位于柬埔寨的诈骗行动，该行动利用 ChatGPT 支持投资、婚恋、赌博和冒充诈骗。<br/><br/><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI对冲基金Situational Awareness或已清仓公开投资组合，但仍持有Anthropic股份</title>
-<link>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148482</guid>
-<pubDate>Thu, 30 Jul 2026 23:25:58 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这位前OpenAI研究员的基金在杠杆公开押注暴跌后被迫平仓公开股票。但他手中仍有牌可打。<br/><br/><a href="https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Reddit季度业绩稳健，但显现AI影响迹象</title>
-<link>https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148540</guid>
-<pubDate>Thu, 30 Jul 2026 23:08:58 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Reddit的财务状况看似良好，但与其与谷歌的关系及新兴AI化网络的不确定性，正引发市场担忧。<br/><br/><a href="https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>投资者热爱AI，前提是你是一家云服务商</title>
-<link>https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148562</guid>
-<pubDate>Thu, 30 Jul 2026 22:41:41 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】亚马逊并未放缓数据中心支出——但投资者似乎并不介意。<br/><br/><a href="https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Chrome 或将实现无需重启的更快更新</title>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 30 Jul 2026 14:53:07 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】此外，AI协议的新政策确保功能不会突然被移除。<br/><br/><a href="https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>大规模内部测试：将cdnjs迁移至Cloudflare开发者平台</title>
-<link>https://blog.cloudflare.com/cdnjs-dev-platform-migration/</link>
-<guid isPermaLink="false">01KYQNRTVJ54SHCVBMMXFYGJ5P</guid>
-<pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】我们将每日处理90亿次请求的cdnjs完全迁移至Cloudflare开发者平台。这意味着我们正利用自身构建模块运行互联网最繁忙的开源CDN之一，并为此提升了Workflows和Workers对所有用户的限制上限。<br/><br/><a href="https://blog.cloudflare.com/cdnjs-dev-platform-migration/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>以GPT-5.6推进性价比前沿</title>
-<link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
-<guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
-<pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】探索Luna和Terra更低的GPT-5.6定价——以及OpenAI更高效的模型如何帮助企业大规模部署AI工作流。<br/><br/><a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

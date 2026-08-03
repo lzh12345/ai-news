@@ -1,28 +1,4 @@
 {
-"https://the-decoder.com/?p=36707": {
-"t": "英伟达研究展示通过AI编码代理自我训练的机器人",
-"s": "来自英伟达、卡内基梅隆大学和加州大学伯克利分校的研究人员正在利用AI编码代理，在现实世界中教机器人进行灵巧抓取。由八台机器人组成的集群在复杂任务上的成功率高达99%。本文《英伟达研究展示通过AI编码代理自我训练的机器人》最初发表于The Decoder。"
-},
-"https://openai.com/index/ai-chemist-improves-reaction": {
-"t": "近乎自主的AI化学家改进了一项药物化学中的挑战性反应",
-"s": "OpenAI与Molecule.one展示了使用GPT-5.4的近乎自主AI化学家如何改进了一项关键的药物制造反应，推动了药物化学研究的发展。"
-},
-"https://huggingface.co/blog/agentic-resource-discovery-launch": {
-"t": "自主资源发现：让智能体自主搜索",
-"s": ""
-},
-"https://techcrunch.com/?p=3133982": {
-"t": "Roelof Botha 加入 SpaceX 董事会",
-"s": "这位红杉资本前领导人填补了 SpaceX 董事会的“现有空缺”，而就在几天前，该公司以史上最大规模 IPO 上市。"
-},
-"https://techcrunch.com/?p=3133859": {
-"t": "Snap发布天价AR眼镜后，股价应声下跌",
-"s": "Snap备受期待的智能眼镜亮相并未给公司股价带来奇迹般的提振。"
-},
-"https://techcrunch.com/?post_type=tc_video&p=3133988": {
-"t": "NEA的Tiffany Luck表示，企业仍在摸索AI的投资回报率",
-"s": "今年早些时候，Tokenmaxxing成为硅谷最热门的趋势，CEO们鼓励员工尽可能多地使用AI。然而，账单随之而来。据报道，Uber在几个月内就花光了年度AI预算，一些公司削减了部分部门的Claude许可证，Meta也取消了内部排行榜。这种矛盾仍在持续……"
-},
 "https://github.blog/?p=96832": {
 "t": "从每个Token中获取更多价值：Copilot如何优化上下文处理与模型路由",
 "s": "GitHub Copilot如何让每次会话更高效地用于有用工作，从而让您的积分发挥更大作用。本文《从每个Token中获取更多价值：Copilot如何优化上下文处理与模型路由》最初发布于GitHub博客。"
@@ -4798,5 +4774,29 @@
 "alignment-multimodal-llms": {
 "t": "多模态大语言模型中的对齐理解：一项综合研究",
 "s": "偏好对齐已成为提升大语言模型（LLMs）性能的关键组成部分，然而其在多模态大语言模型（MLLMs）中的影响仍相对未被充分探索。与语言模型类似，用于图像理解任务的MLLMs也面临幻觉等挑战。在MLLMs中，幻觉不仅可能通过陈述错误事实发生，还可能通过生成与图像内容不一致的响应出现。MLLMs对齐的一个主要目标是促使这些模型使响应更紧密地与图像信息对齐。最近……"
+},
+"https://techcrunch.com/?p=3148841": {
+"t": "AWS助力“氛围编程”初创公司Superblocks，影响深远",
+"s": "AWS现已允许“氛围编程”工具Superblocks嵌入其客户的私有云中。这标志着应用与模型解耦的又一进展。"
+},
+"https://techcrunch.com/?p=3149146": {
+"t": "DesignArena创作者融资790万美元，为AI模型注入审美品味",
+"s": "DesignArena全球拥有530万用户，为前沿实验室提供关键的人类评估服务。"
+},
+"https://techcrunch.com/?p=3149254": {
+"t": "网红参加OpenAI首次奢华之旅引发争议",
+"s": "OpenAI首次举办的网红品牌之旅正引发网络反弹，随着对AI使用的争议持续升温。"
+},
+"https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/": {
+"t": "AI监考的远程考试遭遇重大挫折，5.8万名学生需重考",
+"s": "高分成绩激增了5倍。"
+},
+"https://techcrunch.com/?p=3149128": {
+"t": "苹果终于修复了Siri，为何却让人感觉平淡无奇？",
+"s": "苹果期待已久的人工智能革新终于让Siri成为了它本该成为的助手。但经过多年的延迟，此次发布却落入了这样一个AI格局：聊天机器人已进化为能编码、推理、创作媒体并完成复杂任务的智能体。Siri AI确实实用，但它的到来正值仅仅成为一个能干的AI助手已不再让人感觉具有革命性的时刻。"
+},
+"https://openai.com/index/continuous-voice-interaction-with-gpt-live": {
+"t": "我们如何在六个月内构建响应式语音AI的实时系统",
+"s": "GPT-Live通过无轮次语音模型和低延迟架构，实现了与AI的连续语音交互，使对话更快、更自然。"
 }
 }
