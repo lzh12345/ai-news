@@ -5,23 +5,23 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 03 Aug 2026 06:52:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 11:14:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Onton发布Ontology 1：神经符号搜索模型，准确率比全球最佳电商搜索引擎高2.7倍</title>
-<link>https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81506</guid>
-<pubDate>Mon, 03 Aug 2026 00:49:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】总部位于旧金山的搜索与发现公司Onton发布了Ontology 1，这是一种用于复杂、对话式、多模态产品搜索的神经符号模型。在由三位独立LLM评委评分的90个查询基准测试中，Ontology 1的平均精确度@10达到0.630，而Google Shopping为0.543，Amazon为0.469。它仅索引了约1%的数据就实现了这一表现。该文章《Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/">阅读原文</a>]]></description>
+<title>阿里巴巴开源权重模型Qwen3.8-Max以2.4万亿参数应对长周期AI任务</title>
+<link>https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38525</guid>
+<pubDate>Mon, 03 Aug 2026 10:50:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】阿里巴巴新旗舰模型Qwen3.8-Max旨在自主处理复杂任务，可持续数天，从复现研究论文到自主设计芯片。团队计划下周发布模型权重。本文《阿里巴巴开源权重模型Qwen3.8-Max以2.4万亿参数应对长周期AI任务》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>GeoAI教程：利用U-Net、Grounding DINO、SAM和Mask R-CNN设计从NAIP影像中提取足迹</title>
-<link>https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81503</guid>
-<pubDate>Sun, 02 Aug 2026 21:19:48 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们设计了一个完整的GeoAI工作流程，用于从高分辨率NAIP航空影像中提取建筑足迹。我们首先配置地理空间深度学习环境，下载栅格影像和矢量标签，并在生成地理参考图像切片和分割掩膜之前检查其空间属性。随后，我们训练一个带有ResNet-34的U-Net模型[…] 该文章《A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/">阅读原文</a>]]></description>
+<title>两个团队仅相隔三小时，用GPT-5.6解决了同一量子密码学难题</title>
+<link>https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38533</guid>
+<pubDate>Mon, 03 Aug 2026 10:49:58 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】两个研究团队独立使用OpenAI的GPT-5.6 Sol Ultra解决了同一个开放量子密码学问题，提交论文的时间仅相隔三小时。其中一位研究者表示：“如果有人提到一个开放问题，首先会看看GPT能否解决它。”这一案例引发了一个问题：当所有人都使用相同的模型时，“独立发现”意味着什么？本文《两个团队仅相隔三小时，用GPT-5.6解决了同一量子密码学难题》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>山姆·奥特曼与AI减速辩论</title>
@@ -30,14 +30,6 @@
 <pubDate>Sun, 02 Aug 2026 20:54:22 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】在最新一期的《Equity》节目中，我们讨论了为何山姆·奥特曼呼吁业界“放缓AI发展速度”。<br/><br/><a href="https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Thinking Machines Lab发布Inkling-Small：276B总参数、12B激活参数的开源多模态MoE模型</title>
-<link>https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81499</guid>
-<pubDate>Sun, 02 Aug 2026 20:35:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Inkling-Small在四分之一规模下与Inkling性能相当，其NVFP4检查点可在单个NVIDIA B300 GPU上运行。本文首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>欢迎来到智能体周</title>
@@ -104,22 +96,6 @@
 <description><![CDATA[【the-decoder.com】Snap正禁止Spotlight中的AI生成视频，以保持信息流聚焦于人类创造力。使用Snapchat自身AI工具编辑的内容仍被允许。与此同时，LinkedIn推出了专门的“AI垃圾内容”举报按钮。文章《Snap和LinkedIn正在反击低质量AI内容的泛滥》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NVIDIA AI 发布 Molt：一个 PyTorch 原生的智能体强化学习框架</title>
-<link>https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81496</guid>
-<pubDate>Sun, 02 Aug 2026 06:21:26 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】智能体强化学习研究涉及持续的算法修改，而在主流框架中，每次改动都需要贯穿训练器、分布式后端和 rollout 粘合层。NVIDIA 的 Molt 旨在解决这一成本问题，仅用约 8.6K 行强化学习代码，将 Ray、vLLM 和 NeMo AutoModel 组合在一个异步循环中。智能体保持普通 Python 实现，轨迹保持 token 级精确，吞吐量在统计上与基于 Megatron 的堆栈相当。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署</title>
-<link>https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81491</guid>
-<pubDate>Sun, 02 Aug 2026 05:44:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们使用TimesFM 2.5构建了一个高级的端到端时间序列预测工作流。我们首先配置运行环境，安装所需依赖，检测可用硬件，并生成一个包含趋势、季节性、定价、促销、节假日、温度效应及随机变化的多门店零售数据集。随后，我们加载并编译TimesFM 2.5模型，检查[…] 该文章《使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>法官驳回xAI关于阻止明尼苏达州禁止“脱衣”应用的请求</title>
 <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
@@ -134,22 +110,6 @@
 <pubDate>Sat, 01 Aug 2026 19:45:45 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】格林发表了一番引人注目的道歉，称“我从与大型语言模型互动中获得的多巴胺水平……对我个人不健康，对世界也无益。”<br/><br/><a href="https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AMD发布Instella-MoE-16B-A3B：一款基于Instinct GPU训练、拥有28亿激活参数的全开放混合专家大语言模型</title>
-<link>https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81485</guid>
-<pubDate>Sat, 01 Aug 2026 19:01:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】AMD发布了Instella-MoE-16B-A3B，这是一款完全开放的混合专家语言模型，从零开始在Instinct MI300X和MI325X GPU上训练而成。该模型总参数为160亿，但每个令牌仅激活28亿参数，采用了Gated MLA和FarSkip-Collective技术。AMD公开了每个训练阶段的权重，以及数据混合、配置和推理代码。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练</title>
-<link>https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81482</guid>
-<pubDate>Sat, 01 Aug 2026 18:31:15 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】了解如何使用NVIDIA Transformer Engine优化Transformer工作负载。本教程指导您配置融合GPU内核、实现FP8延迟缩放以及基准测试模型性能。通过实用代码示例和性能分析，学习在PyTorch中构建和训练高效的GPT风格因果语言模型。该文章《利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>山姆·奥特曼仍在为通过ChatGPT育儿辩护</title>
@@ -176,44 +136,12 @@
 <description><![CDATA[【techcrunch.com】这款9美元的NFC钥匙需要你实际扫描它，才能解锁手机上那些令人分心的应用。<br/><br/><a href="https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI编程代理能现代化研究软件，但无法判断科学是否正确</title>
-<link>https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38461</guid>
-<pubDate>Sat, 01 Aug 2026 14:26:28 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI与学术合作伙伴的一份实地报告显示，编程代理能够现代化被忽视的研究软件，实现高达60倍的加速。但参与者指出，这些系统“能言善辩、令人信服，却以不易察觉的方式自信地犯错”。工作重心从编写代码转向了耗时验证科学正确性的过程。文章《AI编程代理能现代化研究软件，但无法判断科学是否正确》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>安全研究员构建了一种隐藏在Word文档中并劫持微软Copilot的自传播蠕虫</title>
-<link>https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38385</guid>
-<pubDate>Sat, 01 Aug 2026 13:51:57 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】一位安全研究员演示了对微软Word版Copilot的蠕虫式攻击：隐藏在文档中的不可见提示注入，在每次文档被复用时自动传播到新文件中。微软确认了该问题，但在144天和两次尝试后仍未修复。文章《安全研究员构建了一种隐藏在Word文档中并劫持微软Copilot的自传播蠕虫》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Reddit股价下跌，CEO质疑谷歌AI概览的价值</title>
 <link>https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/</guid>
 <pubDate>Sat, 01 Aug 2026 12:30:36 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Reddit可能仍在考虑终止与谷歌的授权协议。<br/><br/><a href="https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Supabase发布Evals：一个开源基准测试，用于评估Claude Code、Codex和OpenCode在真实Supabase任务中的表现</title>
-<link>https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81479</guid>
-<pubDate>Sat, 01 Aug 2026 09:52:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Supabase已开源supabase/evals，这是一个Apache-2.0许可的基准测试和框架，在容器化技术栈中运行包括Claude Code、Codex和OpenCode在内的编码代理，针对真实Supabase任务（如构建模式、调试Edge Functions、修复RLS策略）进行评估，并通过确定性检查和LLM-as-a-judge进行评分。该文章《Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MiniMax发布MiniMax H3：一款生成15秒2K原生立体声视频的全模态模型</title>
-<link>https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81476</guid>
-<pubDate>Sat, 01 Aug 2026 08:28:07 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】MiniMax发布MiniMax H3，一款通用多模态生成模型。MiniMax H3并非附加功能的文本转视频模型。MiniMax将其描述为一种通用多模态生成模型，能够将文本、图像、视频和音频作为统一上下文读取，并返回带有原生立体声的视频。主要规格包括：2K输出，4至15秒，整数时长[…]该文章《MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>数学与理论计算机科学的十项进展</title>
@@ -230,14 +158,6 @@
 <pubDate>Fri, 31 Jul 2026 22:47:26 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI在调查与Hugging Face相关的事件时，据报道发现了更多智能体行为不当的证据。<br/><br/><a href="https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力</title>
-<link>https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81472</guid>
-<pubDate>Fri, 31 Jul 2026 22:03:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepSeek于2026年7月31日在Hugging Face上发布了DeepSeek-V4-Flash-0731，并将官方V4-Flash API转入公开测试阶段。模型卡片明确指出，这是取代预览版的正式发布，架构和规模保持不变。性能提升源于重新训练，而非新设计。该检查点附带[...] 文章《DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Reddit继续就谷歌搜索结果中的奇怪DMCA争议提起诉讼</title>
@@ -486,6 +406,86 @@
 <pubDate>Thu, 30 Jul 2026 15:09:09 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/gpu-management">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gemini Robotics ER 2：以视频理解、任务编排与多机器人协作赋能机器人技术</title>
+<link>https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/</guid>
+<pubDate>Thu, 30 Jul 2026 15:00:59 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】Gemini Robotics ER 2 助力机器人进行推理、协作并解决现实世界中的任务。它在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶跃式变革。<br/><br/><a href="https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>新MCP规范解决了企业采用的主要障碍</title>
+<link>https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</guid>
+<pubDate>Thu, 30 Jul 2026 14:53:07 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】此外，AI协议的新政策确保功能不会突然被移除。<br/><br/><a href="https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>大规模内部测试：将cdnjs迁移至Cloudflare开发者平台</title>
+<link>https://blog.cloudflare.com/cdnjs-dev-platform-migration/</link>
+<guid isPermaLink="false">01KYQNRTVJ54SHCVBMMXFYGJ5P</guid>
+<pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们将每日处理90亿次请求的cdnjs完全迁移至Cloudflare开发者平台。这意味着我们正利用自身构建模块运行互联网最繁忙的开源CDN之一，并为此提升了Workflows和Workers对所有用户的限制上限。<br/><br/><a href="https://blog.cloudflare.com/cdnjs-dev-platform-migration/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>以GPT-5.6推进性价比前沿</title>
+<link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
+<guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
+<pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】探索Luna和Terra更低的GPT-5.6定价——以及OpenAI更高效的模型如何帮助企业大规模部署AI工作流。<br/><br/><a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6">阅读原文</a>]]></description>
+</item>
+<item>
+<title>降维遇上网络科学：基于UMAP的kNN图进行数据理解</title>
+<link>https://machinelearning.apple.com/research/umap-knn-graph-sensemaking</link>
+<guid isPermaLink="false">umap-knn-graph-sensemaking</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】尽管UMAP被广泛用于探索高维数据，但典型的工作流程聚焦于其低维嵌入，很大程度上忽略了UMAP内部构建的丰富k近邻（kNN）图。该图在原始高维空间中编码了数据流形，尚未受到UMAP二维投影引入的失真影响。我们展示了这一内部表示尚未开发的潜力，说明将标准图算法应用于该图如何增强数据理解：（1）PageRank识别代表性数据点，（2）k-core分解揭示密集区域。<br/><br/><a href="https://machinelearning.apple.com/research/umap-knn-graph-sensemaking">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MoMo：通过时空动作标记化实现机器人操作中的动态运动模式</title>
+<link>https://machinelearning.apple.com/research/momo-motion-mode-manipulation</link>
+<guid isPermaLink="false">momo-motion-mode-manipulation</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】为了在不同情境中有效运作，机器人不仅需要精确执行操作任务，还需根据任务、物体及交互环境调整其动作展开方式。我们探究这种执行层面的变化能否作为跨任务共享的可复用行为因素进行学习。我们提出MoMo，一个两阶段模仿学习框架，包含时空动作标记器和一个行为克隆变换器，后者以任务和连续运动模式条件为输入。在六个真实机器人操作任务中，改变该条件可产生稳定的…<br/><br/><a href="https://machinelearning.apple.com/research/momo-motion-mode-manipulation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>avatarin如何利用GPT-Realtime打造全天候零售代理</title>
+<link>https://openai.com/index/avatarin</link>
+<guid isPermaLink="false">https://openai.com/index/avatarin</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】avatarin利用OpenAI的GPT-Realtime为山田电机购物者提供24/7多语言支持。两周内，3万人使用了该代理，92%的调查反馈为正面。<br/><br/><a href="https://openai.com/index/avatarin">阅读原文</a>]]></description>
+</item>
+<item>
+<title>第三轮PQC算法候选遭Mythos攻击，宣告失效</title>
+<link>https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/</guid>
+<pubDate>Wed, 29 Jul 2026 22:07:06 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】HAWK在多年的测试中一直未被发现致命弱点，但Mythos攻击最终将其击破。<br/><br/><a href="https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国禁止外国机器人后，谁赢谁输？</title>
+<link>https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/</guid>
+<pubDate>Wed, 29 Jul 2026 20:03:42 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】政府禁止外国制造的机器人可能反而阻碍美国机器人技术的发展。<br/><br/><a href="https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>埃隆·马斯克的xAI试图通过诉讼摆脱Grok的困境</title>
+<link>https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/</guid>
+<pubDate>Wed, 29 Jul 2026 17:58:24 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】马斯克为Grok辩护，称明尼苏达州的“脱衣”应用禁令违宪。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

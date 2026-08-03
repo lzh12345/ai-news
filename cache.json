@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?p=3133711": {
-"t": "DeepL 收购 Mixhalo，进军现场活动音频流与翻译领域",
-"s": "通过此次收购，DeepL 在旧金山设立办事处，以拓展其美国业务。"
-},
-"https://techcrunch.com/?p=3133612": {
-"t": "Pinterest 推出名为“Ask Pinterest”的实验性AI购物应用",
-"s": "Pinterest 推出了“Ask Pinterest”，这是一款实验性的AI驱动购物应用，用户可以通过对话界面获取推荐和灵感。"
-},
 "https://the-decoder.com/?p=36693": {
 "t": "超大规模企业可能很快无法仅靠现金流支撑AI建设",
 "s": "根据Epoch AI的分析，微软、亚马逊、Alphabet、Meta和甲骨文每年在AI基础设施上的支出增长约70%，而运营现金流仅增长23%。如果这一趋势持续，支出最早可能在2026年第三季度超过现金流。其中几家公司已经在寻求外部融资。本文《超大规模企业可能很快无法仅靠现金流支撑AI建设》最初发表于The Decoder。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=81499": {
 "t": "Thinking Machines Lab发布Inkling-Small：276B总参数、12B激活参数的开源多模态MoE模型",
 "s": "Inkling-Small在四分之一规模下与Inkling性能相当，其NVFP4检查点可在单个NVIDIA B300 GPU上运行。本文首发于MarkTechPost。"
+},
+"https://the-decoder.com/?p=38525": {
+"t": "阿里巴巴开源权重模型Qwen3.8-Max以2.4万亿参数应对长周期AI任务",
+"s": "阿里巴巴新旗舰模型Qwen3.8-Max旨在自主处理复杂任务，可持续数天，从复现研究论文到自主设计芯片。团队计划下周发布模型权重。本文《阿里巴巴开源权重模型Qwen3.8-Max以2.4万亿参数应对长周期AI任务》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=38533": {
+"t": "两个团队仅相隔三小时，用GPT-5.6解决了同一量子密码学难题",
+"s": "两个研究团队独立使用OpenAI的GPT-5.6 Sol Ultra解决了同一个开放量子密码学问题，提交论文的时间仅相隔三小时。其中一位研究者表示：“如果有人提到一个开放问题，首先会看看GPT能否解决它。”这一案例引发了一个问题：当所有人都使用相同的模型时，“独立发现”意味着什么？本文《两个团队仅相隔三小时，用GPT-5.6解决了同一量子密码学难题》首发于The Decoder。"
 }
 }
