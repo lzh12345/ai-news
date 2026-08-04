@@ -1,36 +1,4 @@
 {
-"https://openai.com/index/diagnose-rare-childhood-diseases": {
-"t": "利用人工智能帮助医生诊断影响儿童的罕见遗传疾病",
-"s": "研究人员使用OpenAI推理模型协助诊断罕见疾病，在先前未解决的病例中识别出18种新诊断。"
-},
-"https://huggingface.co/blog/peft-beyond-lora": {
-"t": "超越LoRA：你能击败最流行的微调技术吗？",
-"s": ""
-},
-"https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/": {
-"t": "面对中国崛起，台湾加大无人机生产以强化防务并供应美军",
-"s": "台湾的无人机防务支出计划也可能推动海外业务增长。"
-},
-"https://techcrunch.com/?p=3134299": {
-"t": "AI推理初创公司Baseten据报在上一轮巨额融资数月后再筹15亿美元",
-"s": "初创公司Baseten据报即将完成一轮15亿美元融资，估值达130亿美元，随着“推理淘金热”持续升温。"
-},
-"https://techcrunch.com/?p=3134342": {
-"t": "Snap因成本考量，将AI视频团队剥离为新公司Dotmo",
-"s": "Snapchat的母公司正在剥离又一个内部部门。Dotmo将由当前Snap的员工组成，这些员工将离开这家社交媒体公司，专注于AI视频开发。"
-},
-"https://techcrunch.com/?p=3134350": {
-"t": "OpenAI在IPO前夕引入多位重量级人物",
-"s": "OpenAI正在IPO前扩充实力，同一周内招揽了Transformer共同发明人Noam Shazeer（来自Google DeepMind）以及前特朗普政府AI政策官员Dean Ball。"
-},
-"https://the-decoder.com/?p=36775": {
-"t": "OpenAI称ChatGPT健康升级后回答优于医生撰写内容",
-"s": "OpenAI通过GPT-5.5 Instant提升了ChatGPT的医疗健康能力。在公司自身的对比测试中，该模型在准确性、清晰度和完整性上得分已超过医生撰写的回答。据OpenAI称，健康相关陈述的错误率下降了71%。本文《ChatGPT's new health upgrade beats doctor-written answers, OpenAI says》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36771": {
-"t": "Anthropic 将 Artifacts 引入 Claude Code，让团队共享编码会话中的实时页面",
-"s": "Claude Code 现在可以将工作成果转化为名为“artifacts”的交互式网页，并与团队成员共享。这些页面会提取完整的会话上下文，在内容发生变化时自动更新，并保留版本历史。本文《Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions》最初发表于 The Decoder。"
-},
 "https://the-decoder.com/?p=36767": {
 "t": "SK Telecom被指与中国有关联，引发美国官员担忧并导致Anthropic危机",
 "s": "SK Telecom曾通过其合作伙伴项目Project Glasswing获取Anthropic的AI模型Claude Mythos，直到白宫介入。美国官员认为这家韩国企业集团与中国存在关联。文章《SK Telecom被指与中国有关联，引发美国官员担忧并导致Anthropic危机》最初发表于The Decoder。"
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/learn-teach-chatgpt-work-codex": {
 "t": "利用ChatGPT Work和Codex学习与教学的新方式",
 "s": "探索ChatGPT Work和Codex的新教育插件，助力K-12教师、大学教育工作者及学生在学习、教学、研究和构建方面取得进展。"
+},
+"https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/": {
+"t": "得克萨斯州因需求激增暂停数据中心接入电网",
+"s": "曾宣称得克萨斯为AI“中心”的州长暂停数据中心电网连接。"
+},
+"https://techcrunch.com/?p=3149807": {
+"t": "开放权重AI模型正逼近前沿水平，安全差距依然存在。",
+"s": "SaferAI的一份新报告发现，Z.ai的开放权重GLM-5.2模型接近前沿AI能力，但缺乏关键的安全缓解措施，这再次引发担忧，即强大的开放模型可能超越治理和保障措施的步伐。"
+},
+"https://techcrunch.com/?p=3149770": {
+"t": "Anthropic与AI云初创公司Volta签署100亿美元协议",
+"s": "近几个月来，Anthropic在云合作伙伴关系上动作频频，其最新举措据称是与AI云初创公司Volta达成一项100亿美元的交易。"
+},
+"https://techcrunch.com/?p=3149087": {
+"t": "遇见Wrinkles，一款揭示你身边地点隐藏故事的应用程序",
+"s": "Wrinkles，可在iOS和Android上使用，本质上是一款AI驱动的音频导览，揭示隐藏的历史和当地故事。"
+},
+"https://techcrunch.com/?p=3149725": {
+"t": "英伟达雷厉风行：开放AI行业组织成立一周后，已初见成效",
+"s": "由英伟达牵头、已壮大至超过120家企业的开放安全AI联盟，成立仅一周，便已提出针对AI代理的防御方案。"
+},
+"https://github.blog/?p=97698": {
+"t": "GitHub法律团队如何利用Copilot CLI优化工作流程",
+"s": "了解如何在不编写一行代码的情况下构建工具来简化工作。这篇关于GitHub法律团队使用Copilot CLI优化工作流程的文章首发于GitHub博客。"
+},
+"https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
+"t": "涉及OpenAI模型的第三方网络评估",
+"s": "OpenAI解释了近期第三方网络安全评估事件，并概述了加强AI模型测试与评估的新保障措施。"
+},
+"https://www.marktechpost.com/?p=81551": {
+"t": "Cursor开源Mixture-of-Kittens（MoK）：面向GB300 NVL72机架的确定性MoE训练巨核",
+"s": "Cursor Research已开源Mixture-of-Kittens（MoK），这是其Composer模型背后的MoE训练巨核。MoK将所有的混合专家通信和计算融合到一个单一的确定性内核中，在GB300 NVL72机架上运行速度比最强公开基线快达2.37倍。它需要Blackwell SM100或SM103 GPU，这使得没有NVL72容量的用户无法使用。文章《Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks》最初发表于MarkTechPost。"
 }
 }
