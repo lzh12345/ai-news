@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3134048": {
-"t": "如何在 Google Docs 中关闭 AI 功能",
-"s": "以下是你需要做的，以让那些烦人的“使用 Gemini 撰写”弹窗消失。"
-},
-"https://the-decoder.com/?p=36738": {
-"t": "谷歌Gemini联合负责人Noam Shazeer在回归两年后加入OpenAI",
-"s": "里程碑式论文《Attention Is All You Need》的合著者、前谷歌Gemini模型联合负责人Noam Shazeer将加入OpenAI。他于2024年才作为27亿美元交易的一部分，从Character.AI重返谷歌。继Karpathy转投Anthropic之后，这是今年第二次重大AI人才招聘变动。本文《谷歌Gemini联合负责人Noam Shazeer在回归两年后加入OpenAI》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80587": {
-"t": "OpenAI 发布 LifeSciBench：含750项任务的基准测试，用专家编写的评分标准评估AI模型在真实生命科学研究中的表现",
-"s": "OpenAI 的 LifeSciBench 评估前沿AI能否处理真实的生命科学研究，涵盖750项专家编写的任务、七个工作流程和七个生物学领域。该基准由173位博士科学家构建，包含19,020条评分标准，不仅考核记忆能力，更评估推理和决策能力。表现最佳的模型 GPT-Rosalind 通过率为36.1%，在人工制品、精确输出和操作决策方面仍有较大提升空间。本文 OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric 最早发布于 MarkTechPost。"
-},
 "https://www.marktechpost.com/?p=80584": {
 "t": "NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险",
 "s": "在本教程中，我们使用 NVIDIA SkillSpector 在部署前评估 AI 技能的安全风险。我们构建了一个包含良性及故意存在漏洞的技能语料库，然后通过 SkillSpector 的程序化 LangGraph 工作流对其进行扫描。我们利用 pandas 整理风险评分与发现结果，并可视化严重程度及类别分布。我们将结果导出为 SARIF 格式，注册自定义分析器，并可选地应用基于 LLM 的语义处理。本文《NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险》最初发表于 MarkTechPos。"
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/apple-is-getting-this-wrong": {
 "t": "苹果在这件事上搞错了",
 "s": "OpenAI回应苹果无根据的诉讼，纠正关于其员工的指控，并分享记录事件经过的通讯内容。"
+},
+"https://the-decoder.com/?p=38566": {
+"t": "OpenAI反击苹果商业秘密诉讼，公布聊天记录显示苹果员工持续联系前同事",
+"s": "OpenAI正对苹果提起的商业秘密诉讼进行反击，并公布了前苹果工程师张柳的iMessage聊天记录。这些信息似乎显示，苹果员工在张柳离职后，主动联系这位前同事寻求技术帮助和内部文件。文章《OpenAI反击苹果商业秘密诉讼，公布聊天记录显示苹果员工持续联系前同事》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81544": {
+"t": "Reflex开源XY：一款基于Rust的超快Python图表库，让1亿数据点的图表保持交互流畅",
+"s": "Reflex发布了XY，一个采用Apache-2.0许可的Python图表库，它将渲染工作转移到原生Rust核心和WebGL2客户端中。该库在1万到1亿个数据点之间保持约0.08秒的渲染时间，导出一个包含1000万个数据点的交互式散点图仅需258 KiB，并在Python中保留精确的f64列，使得悬停、选择和缩放钻取操作仍能返回原始数据行。该库目前处于早期alpha版本0.0.1。这篇题为“Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive”的文章首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81541": {
+"t": "利用NVIDIA SkillSpector、LangGraph、YARA规则、SARIF和CI策略门构建高级AI技能安全审计管道",
+"s": "了解如何使用NVIDIA SkillSpector和LangGraph构建端到端的AI代理技能安全评估管道。在本教程中，我们构建一个合成技能市场，扫描恶意提示注入、凭据访问和风险依赖，并实现自定义YARA规则、基线抑制和CI部署门。文章《利用NVIDIA SkillSpector、LangGraph、YARA规则、SARIF和CI策略门构建高级AI技能安全审计管道》最初出现在MarkTechPost上。"
 }
 }
