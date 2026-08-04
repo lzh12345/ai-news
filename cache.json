@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3133770": {
-"t": "社交媒体的下一轮进化：用户可控算法",
-"s": "随着Threads、Instagram和TikTok等平台推出让用户直接影响推荐算法的工具，社交媒体信息流正变得更加可定制化。"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3133981": {
-"t": "NEA的Tiffany Luck谈AI IPO、个人代理与投资回报率的清算时刻",
-"s": "今年早些时候，Token最大化成为硅谷最热门的趋势，CEO们鼓励员工尽可能推动AI的使用。然而，账单随后到期。据报道，Uber在几个月内就耗尽了年度AI预算，一些公司削减了部分部门的Claude许可证，Meta也取消了内部排行榜。这种紧张关系……"
-},
-"https://openai.com/index/introducing-life-sci-bench": {
-"t": "LifeSciBench 正式发布",
-"s": "LifeSciBench 是一个由专家编写并评审的基准测试，用于评估人工智能系统处理真实世界生命科学研究任务与决策的能力。"
-},
 "https://techcrunch.com/?p=3134048": {
 "t": "如何在 Google Docs 中关闭 AI 功能",
 "s": "以下是你需要做的，以让那些烦人的“使用 Gemini 撰写”弹窗消失。"
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/circles": {
 "t": "Circles借助OpenAI技术赋能电信个性化服务",
 "s": "Circles利用OpenAI API和Codex驱动AI原生的电信体验，使每用户平均收入（ARPU）提升22%，客户流失率降低9%，并提高了开发效率。"
+},
+"https://www.marktechpost.com/?p=81538": {
+"t": "Y Combinator 开源 QM：一款基于 MIT 许可、可在 Slack 和网页中运行的多智能体协作框架",
+"s": "Y Combinator 已开源其内部使用的多智能体协作框架 QM，该框架应用于会计、法律、活动和工程等多个领域。QM 于 2026 年 7 月 31 日以 MIT 许可证发布，为每位员工提供独立工作空间，并为每个 Slack 房间配备专属的内存、文件、密钥视图、权限、定时任务、网页应用和持久化沙盒。Pi、OpenCode、Codex 和 Claude Code 均驱动同一无头核心，从而避免部署时的供应商锁定。原文《Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web》首发于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81534": {
+"t": "Genspark 开源 GenOffice：面向 macOS 和 Windows 的免费无广告 AI 办公套件，涵盖文档、表格、演示文稿和 PDF",
+"s": "Genspark 已在 Apache License 2.0 下开源 GenOffice。这是一款面向 macOS 和 Windows 的 AI 原生办公套件，涵盖文档、表格、演示文稿和 PDF，以五个 Electron 应用形式共享一个统一引擎层。其显著的工程亮点是字节保留的往返处理：仅重新生成被编辑的段落为 OOXML，并拼接回原始文件，因此未触碰的块保留原始字节，布局在 Word 中得以保留。表格功能将开源 Univer 核心与自研 Rust xlsx 辅助模块相结合。AI 调用通过已登录的 Genspark 账户路由，并消耗积分。该代码库"
+},
+"https://openai.com/index/apple-is-getting-this-wrong": {
+"t": "苹果在这件事上搞错了",
+"s": "OpenAI回应苹果无根据的诉讼，纠正关于其员工的指控，并分享记录事件经过的通讯内容。"
 }
 }

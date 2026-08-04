@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 04 Aug 2026 01:47:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 06:20:48 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Y Combinator 开源 QM：一款基于 MIT 许可、可在 Slack 和网页中运行的多智能体协作框架</title>
+<link>https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81538</guid>
+<pubDate>Tue, 04 Aug 2026 04:17:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Y Combinator 已开源其内部使用的多智能体协作框架 QM，该框架应用于会计、法律、活动和工程等多个领域。QM 于 2026 年 7 月 31 日以 MIT 许可证发布，为每位员工提供独立工作空间，并为每个 Slack 房间配备专属的内存、文件、密钥视图、权限、定时任务、网页应用和持久化沙盒。Pi、OpenCode、Codex 和 Claude Code 均驱动同一无头核心，从而避免部署时的供应商锁定。原文《Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Genspark 开源 GenOffice：面向 macOS 和 Windows 的免费无广告 AI 办公套件，涵盖文档、表格、演示文稿和 PDF</title>
+<link>https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81534</guid>
+<pubDate>Tue, 04 Aug 2026 03:46:16 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Genspark 已在 Apache License 2.0 下开源 GenOffice。这是一款面向 macOS 和 Windows 的 AI 原生办公套件，涵盖文档、表格、演示文稿和 PDF，以五个 Electron 应用形式共享一个统一引擎层。其显著的工程亮点是字节保留的往返处理：仅重新生成被编辑的段落为 OOXML，并拼接回原始文件，因此未触碰的块保留原始字节，布局在 Word 中得以保留。表格功能将开源 Univer 核心与自研 Rust xlsx 辅助模块相结合。AI 调用通过已登录的 Genspark 账户路由，并消耗积分。该代码库<br/><br/><a href="https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>强劲季度后，Palantir CEO亚历克斯·卡普称AI行业为“马克思主义者”</title>
 <link>https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/</link>
@@ -30,6 +46,14 @@
 <pubDate>Mon, 03 Aug 2026 22:11:39 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】一项价值1亿美元的协议为5万架乌克兰无人机配备了美国研发的AI能力。<br/><br/><a href="https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>苹果在这件事上搞错了</title>
+<link>https://openai.com/index/apple-is-getting-this-wrong</link>
+<guid isPermaLink="false">https://openai.com/index/apple-is-getting-this-wrong</guid>
+<pubDate>Mon, 03 Aug 2026 22:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI回应苹果无根据的诉讼，纠正关于其员工的指控，并分享记录事件经过的通讯内容。<br/><br/><a href="https://openai.com/index/apple-is-getting-this-wrong">阅读原文</a>]]></description>
 </item>
 <item>
 <title>如何在生产环境中保护AI代理、MCP服务器和LLM应用</title>
@@ -304,14 +328,6 @@
 <description><![CDATA[【marktechpost.com】智能体强化学习研究涉及持续的算法修改，而在主流框架中，每次改动都需要贯穿训练器、分布式后端和 rollout 粘合层。NVIDIA 的 Molt 旨在解决这一成本问题，仅用约 8.6K 行强化学习代码，将 Ray、vLLM 和 NeMo AutoModel 组合在一个异步循环中。智能体保持普通 Python 实现，轨迹保持 token 级精确，吞吐量在统计上与基于 Megatron 的堆栈相当。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署</title>
-<link>https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81491</guid>
-<pubDate>Sun, 02 Aug 2026 05:44:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们使用TimesFM 2.5构建了一个高级的端到端时间序列预测工作流。我们首先配置运行环境，安装所需依赖，检测可用硬件，并生成一个包含趋势、季节性、定价、促销、节假日、温度效应及随机变化的多门店零售数据集。随后，我们加载并编译TimesFM 2.5模型，检查[…] 该文章《使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>法官驳回xAI关于阻止明尼苏达州禁止“脱衣”应用的请求</title>
 <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
@@ -326,14 +342,6 @@
 <pubDate>Sat, 01 Aug 2026 19:45:45 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】格林发表了一番引人注目的道歉，称“我从与大型语言模型互动中获得的多巴胺水平……对我个人不健康，对世界也无益。”<br/><br/><a href="https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AMD发布Instella-MoE-16B-A3B：一款基于Instinct GPU训练、拥有28亿激活参数的全开放混合专家大语言模型</title>
-<link>https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81485</guid>
-<pubDate>Sat, 01 Aug 2026 19:01:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】AMD发布了Instella-MoE-16B-A3B，这是一款完全开放的混合专家语言模型，从零开始在Instinct MI300X和MI325X GPU上训练而成。该模型总参数为160亿，但每个令牌仅激活28亿参数，采用了Gated MLA和FarSkip-Collective技术。AMD公开了每个训练阶段的权重，以及数据混合、配置和推理代码。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>山姆·奥特曼仍在为通过ChatGPT育儿辩护</title>
@@ -478,14 +486,6 @@
 <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI分享了其安全、安保、透明度和来源追溯实践如何支持欧洲负责任的人工智能治理。随着欧盟《人工智能法案》的推进，这项工作将持续进行。<br/><br/><a href="https://openai.com/index/advancing-responsible-ai-across-europe">阅读原文</a>]]></description>
-</item>
-<item>
-<title>构建丰裕智能</title>
-<link>https://openai.com/index/building-abundant-intelligence</link>
-<guid isPermaLink="false">https://openai.com/index/building-abundant-intelligence</guid>
-<pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】一种全栈方法，旨在使先进AI更强大、更经济、更广泛实用。<br/><br/><a href="https://openai.com/index/building-abundant-intelligence">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
