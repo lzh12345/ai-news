@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 03 Aug 2026 20:56:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 01:47:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>强劲季度后，Palantir CEO亚历克斯·卡普称AI行业为“马克思主义者”</title>
+<link>https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3149421</guid>
+<pubDate>Mon, 03 Aug 2026 23:19:50 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在实现10亿美元利润的一个季度后，Palantir首席执行官亚历克斯·卡普周一再次警告，前沿AI实验室对企业而言过于不可信。<br/><br/><a href="https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用稳健数据加载与自动化评判，通过Moonshot PerceptionBench评估多模态视觉模型</title>
+<link>https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81530</guid>
+<pubDate>Mon, 03 Aug 2026 22:26:32 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们为PerceptionBench设计了一个端到端的评估工作流。该多模态基准测试衡量了细粒度视觉感知能力，涵盖OCR、计数、定位、上下文推理、比较、深度理解和幻觉检测等任务。我们首先配置一个兼容Colab的环境，安装所需库，并通过稳健的数据加载方式加载数据集的平衡子集，随后进行自动化评判。本文首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国公司AI技术让乌克兰廉价自杀式无人机自主追踪目标</title>
+<link>https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/</guid>
+<pubDate>Mon, 03 Aug 2026 22:11:39 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】一项价值1亿美元的协议为5万架乌克兰无人机配备了美国研发的AI能力。<br/><br/><a href="https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如何在生产环境中保护AI代理、MCP服务器和LLM应用</title>
+<link>https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81518</guid>
+<pubDate>Mon, 03 Aug 2026 20:16:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】AI代理、MCP服务器和LLM应用打破了应用安全（AppSec）的核心假设，即应用会按代码所述执行。本指南介绍了一个实用的“查看-修复-保护”框架：五层代理型AI攻击面地图、12点错误配置检查清单、基于证据的优先级分类矩阵、运行时防护栏以及系统提示加固——此外还包括一个与NIST AI RMF、OWASP AIMA、ISO/IEC 42001和欧盟AI法案对齐的成熟度自评估。该文章《如何在生产环境中保护AI代理、MCP服务器和LLM应用》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AWS助力“氛围编程”初创公司Superblocks，影响深远</title>
 <link>https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/</link>
@@ -160,12 +192,36 @@
 <description><![CDATA[【techcrunch.com】June今日以2000万美元的预种子轮融资从隐身模式中亮相，旨在简化AI的采用过程。<br/><br/><a href="https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>阿里巴巴Qwen发布Qwen3.8-Max：2.4万亿参数MoE模型，Qwen系列迄今最强</title>
+<link>https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81513</guid>
+<pubDate>Mon, 03 Aug 2026 08:24:16 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】阿里巴巴Qwen团队将Qwen3.8-Max从预览版转为正式发布，公布了按token计价的定价，并计划于下周开放权重。这款2.4万亿参数的MoE模型支持文本、图像和视频输入，上下文窗口达100万token。目前尚未发布基准测试表。原文《Alibaba Qwen Releases Qwen3.8-Max: A 2.4 Trillion Parameter MoE Model and the Most Capable One in the Qwen Family to Date》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cogent AI团队发布VR-1：一款前沿网络推理模型，可组合并验证企业攻击路径</title>
+<link>https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81509</guid>
+<pubDate>Mon, 03 Aug 2026 07:28:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cogent AI团队发布了Cogent VR-1，这是一款专门针对网络安全进行后训练的推理模型，而非将网络能力作为通用编码能力的副产品。该模型附带两个配套工具：IntrusionBench，一个用于评估智能体完成企业入侵任务的基准测试；以及Cogent AI Harness，一个用于安全智能体的受控运行时环境。此次发布[…] 文章《Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>我们如何在六个月内构建响应式语音AI的实时系统</title>
 <link>https://openai.com/index/continuous-voice-interaction-with-gpt-live</link>
 <guid isPermaLink="false">https://openai.com/index/continuous-voice-interaction-with-gpt-live</guid>
 <pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GPT-Live通过无轮次语音模型和低延迟架构，实现了与AI的连续语音交互，使对话更快、更自然。<br/><br/><a href="https://openai.com/index/continuous-voice-interaction-with-gpt-live">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Onton发布Ontology 1：神经符号搜索模型，准确率比全球最佳电商搜索引擎高2.7倍</title>
+<link>https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81506</guid>
+<pubDate>Mon, 03 Aug 2026 00:49:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】总部位于旧金山的搜索与发现公司Onton发布了Ontology 1，这是一种用于复杂、对话式、多模态产品搜索的神经符号模型。在由三位独立LLM评委评分的90个查询基准测试中，Ontology 1的平均精确度@10达到0.630，而Google Shopping为0.543，Amazon为0.469。它仅索引了约1%的数据就实现了这一表现。该文章《Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>多模态大语言模型中的对齐理解：一项综合研究</title>
@@ -176,12 +232,36 @@
 <description><![CDATA[【machinelearning.apple.com】偏好对齐已成为提升大语言模型（LLMs）性能的关键组成部分，然而其在多模态大语言模型（MLLMs）中的影响仍相对未被充分探索。与语言模型类似，用于图像理解任务的MLLMs也面临幻觉等挑战。在MLLMs中，幻觉不仅可能通过陈述错误事实发生，还可能通过生成与图像内容不一致的响应出现。MLLMs对齐的一个主要目标是促使这些模型使响应更紧密地与图像信息对齐。最近……<br/><br/><a href="https://machinelearning.apple.com/research/alignment-multimodal-llms">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Circles借助OpenAI技术赋能电信个性化服务</title>
+<link>https://openai.com/index/circles</link>
+<guid isPermaLink="false">https://openai.com/index/circles</guid>
+<pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Circles利用OpenAI API和Codex驱动AI原生的电信体验，使每用户平均收入（ARPU）提升22%，客户流失率降低9%，并提高了开发效率。<br/><br/><a href="https://openai.com/index/circles">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GeoAI教程：利用U-Net、Grounding DINO、SAM和Mask R-CNN设计从NAIP影像中提取足迹</title>
+<link>https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81503</guid>
+<pubDate>Sun, 02 Aug 2026 21:19:48 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们设计了一个完整的GeoAI工作流程，用于从高分辨率NAIP航空影像中提取建筑足迹。我们首先配置地理空间深度学习环境，下载栅格影像和矢量标签，并在生成地理参考图像切片和分割掩膜之前检查其空间属性。随后，我们训练一个带有ResNet-34的U-Net模型[…] 该文章《A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>山姆·奥特曼与AI减速辩论</title>
 <link>https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3149056</guid>
 <pubDate>Sun, 02 Aug 2026 20:54:22 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】在最新一期的《Equity》节目中，我们讨论了为何山姆·奥特曼呼吁业界“放缓AI发展速度”。<br/><br/><a href="https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Thinking Machines Lab发布Inkling-Small：276B总参数、12B激活参数的开源多模态MoE模型</title>
+<link>https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81499</guid>
+<pubDate>Sun, 02 Aug 2026 20:35:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Inkling-Small在四分之一规模下与Inkling性能相当，其NVFP4检查点可在单个NVIDIA B300 GPU上运行。本文首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>欢迎来到智能体周</title>
@@ -216,6 +296,22 @@
 <description><![CDATA[【the-decoder.com】苹果的漏洞赏金计划正被AI生成的漏洞报告淹没。公司已限制每位研究者的提交数量，因为虚假报告堵塞了审查流程。结果，意大利初创公司Bynario最初无法报告一个在黑市上价值高达20万美元的严重macOS漏洞。文章《价值20万美元的真实macOS漏洞未被报告，因为苹果的漏洞赏金收件箱被AI垃圾信息淹没》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>NVIDIA AI 发布 Molt：一个 PyTorch 原生的智能体强化学习框架</title>
+<link>https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81496</guid>
+<pubDate>Sun, 02 Aug 2026 06:21:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】智能体强化学习研究涉及持续的算法修改，而在主流框架中，每次改动都需要贯穿训练器、分布式后端和 rollout 粘合层。NVIDIA 的 Molt 旨在解决这一成本问题，仅用约 8.6K 行强化学习代码，将 Ray、vLLM 和 NeMo AutoModel 组合在一个异步循环中。智能体保持普通 Python 实现，轨迹保持 token 级精确，吞吐量在统计上与基于 Megatron 的堆栈相当。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署</title>
+<link>https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81491</guid>
+<pubDate>Sun, 02 Aug 2026 05:44:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用TimesFM 2.5构建了一个高级的端到端时间序列预测工作流。我们首先配置运行环境，安装所需依赖，检测可用硬件，并生成一个包含趋势、季节性、定价、促销、节假日、温度效应及随机变化的多门店零售数据集。随后，我们加载并编译TimesFM 2.5模型，检查[…] 该文章《使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>法官驳回xAI关于阻止明尼苏达州禁止“脱衣”应用的请求</title>
 <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
@@ -230,6 +326,14 @@
 <pubDate>Sat, 01 Aug 2026 19:45:45 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】格林发表了一番引人注目的道歉，称“我从与大型语言模型互动中获得的多巴胺水平……对我个人不健康，对世界也无益。”<br/><br/><a href="https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AMD发布Instella-MoE-16B-A3B：一款基于Instinct GPU训练、拥有28亿激活参数的全开放混合专家大语言模型</title>
+<link>https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81485</guid>
+<pubDate>Sat, 01 Aug 2026 19:01:42 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】AMD发布了Instella-MoE-16B-A3B，这是一款完全开放的混合专家语言模型，从零开始在Instinct MI300X和MI325X GPU上训练而成。该模型总参数为160亿，但每个令牌仅激活28亿参数，采用了Gated MLA和FarSkip-Collective技术。AMD公开了每个训练阶段的权重，以及数据混合、配置和推理代码。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>山姆·奥特曼仍在为通过ChatGPT育儿辩护</title>
@@ -382,110 +486,6 @@
 <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】一种全栈方法，旨在使先进AI更强大、更经济、更广泛实用。<br/><br/><a href="https://openai.com/index/building-abundant-intelligence">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Smallest.ai 筹集1300万美元，打造听起来真正像人类的超快语音AI</title>
-<link>https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3148682</guid>
-<pubDate>Fri, 31 Jul 2026 14:47:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这家初创公司正在构建旨在让AI电话通话通过图灵测试的语音模型。<br/><br/><a href="https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI骗子在建立信任方面胜过人类</title>
-<link>https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/</guid>
-<pubDate>Fri, 31 Jul 2026 14:01:40 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】AI聊天机器人在创造“可利用的信任”方面比人类更有效。<br/><br/><a href="https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI实验室欲踩刹车，亚马逊与SpaceX却仍在加速升空</title>
-<link>https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3148831</guid>
-<pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】在多年全力推进AI发展后，OpenAI首席执行官萨姆·奥尔特曼表示，或许AI行业是时候“放慢节奏”了。此番言论发表前几天，OpenAI自家的一款模型突破了测试环境，并卷入Hugging Face的一起安全漏洞事件——不过正如Equity的主持人所指出的，安全措施松懈似乎是……<br/><br/><a href="https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MoQ API：配置您自己的隔离中继</title>
-<link>https://blog.cloudflare.com/moq-relays/</link>
-<guid isPermaLink="false">01KYVQDQC4RNEJ8Q0PMDQV2RGB</guid>
-<pubDate>Fri, 31 Jul 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】去年，我们将每台Cloudflare服务器都变成了Media over QUIC（MoQ）中继。现在，新的配置API让您可以创建自己的隔离中继，并控制谁能发布内容，谁只能观看。<br/><br/><a href="https://blog.cloudflare.com/moq-relays/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>耶鲁大学AI作弊争议如何演变成13项联邦诉讼</title>
-<link>https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</guid>
-<pubDate>Fri, 31 Jul 2026 11:00:52 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】一场有争议的考试、一个不可靠的检测器，以及一份迟到的Apple Pages文件。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Univé打造AI就绪的员工队伍</title>
-<link>https://openai.com/index/unive</link>
-<guid isPermaLink="false">https://openai.com/index/unive</guid>
-<pubDate>Fri, 31 Jul 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】了解Univé如何通过结合领导力、负责任治理与员工主导的创新，利用ChatGPT Enterprise打造AI就绪的员工队伍，实现工作的大规模转型。<br/><br/><a href="https://openai.com/index/unive">阅读原文</a>]]></description>
-</item>
-<item>
-<title>瓦解犯罪诈骗行动</title>
-<link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
-<guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
-<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI 瓦解了一个位于柬埔寨的诈骗行动，该行动利用 ChatGPT 支持投资、婚恋、赌博和冒充诈骗。<br/><br/><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Chrome 或将实现无需重启的更快更新</title>
-<link>https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/</guid>
-<pubDate>Thu, 30 Jul 2026 19:26:56 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】最近两个版本的 Chrome 所包含的补丁数量，超过了此前 23 个版本的总和。<br/><br/><a href="https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌发布Gemini Robotics 2.0，承诺提升灵活性与安全性</title>
-<link>https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/</guid>
-<pubDate>Thu, 30 Jul 2026 17:58:02 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Gemini Robotics 2包含三个模型，但目前仅有一个对外开放。<br/><br/><a href="https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub Copilot 应用中的堆叠会话与拉取请求</title>
-<link>https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/</link>
-<guid isPermaLink="false">https://github.blog/?p=97813</guid>
-<pubDate>Thu, 30 Jul 2026 17:30:24 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】了解我如何通过 GitHub Copilot 应用中的堆叠会话与拉取请求，对旧代码库进行现代化改造。本文最初发布于 GitHub 博客。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPU管理：闲置GPU为何成为新型“停飞飞机”</title>
-<link>https://huggingface.co/blog/Dharma-AI/gpu-management</link>
-<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/gpu-management</guid>
-<pubDate>Thu, 30 Jul 2026 15:09:09 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/gpu-management">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gemini Robotics ER 2：以视频理解、任务编排与多机器人协作赋能机器人技术</title>
-<link>https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/</guid>
-<pubDate>Thu, 30 Jul 2026 15:00:59 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Gemini Robotics ER 2 助力机器人进行推理、协作并解决现实世界中的任务。它在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶跃式变革。<br/><br/><a href="https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>新MCP规范解决了企业采用的主要障碍</title>
-<link>https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</guid>
-<pubDate>Thu, 30 Jul 2026 14:53:07 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】此外，AI协议的新政策确保功能不会突然被移除。<br/><br/><a href="https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

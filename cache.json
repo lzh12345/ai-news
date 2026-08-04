@@ -1,32 +1,4 @@
 {
-"https://github.blog/?p=96832": {
-"t": "从每个Token中获取更多价值：Copilot如何优化上下文处理与模型路由",
-"s": "GitHub Copilot如何让每次会话更高效地用于有用工作，从而让您的积分发挥更大作用。本文《从每个Token中获取更多价值：Copilot如何优化上下文处理与模型路由》最初发布于GitHub博客。"
-},
-"48yPgdpb7RGTBdh4DPPCUF": {
-"t": "将更多智能体工具与框架引入Cloudflare，从Flue开始",
-"s": "智能体SDK现已成为任何智能体框架均可构建的运行时。今天，我们开放了智能体SDK的基础组件，以Flue作为首个面向智能体SDK的框架，并在控制面板中逐步推出智能体功能。"
-},
-"https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/": {
-"t": "AI编程代理教会机器人如何安装GPU和剪扎带",
-"s": "英伟达的机器人自我改进项目招募了多组AI编程代理。"
-},
-"https://techcrunch.com/?p=3133924": {
-"t": "全球领导人想要美国的人工智能，只是不希望美国能随时关掉它。",
-"s": "法国总统马克龙和印度总理莫迪在G7峰会上发出警告，称美国可能一夜之间切断对美国人工智能的访问——而Anthropic的断供事件刚刚让这种担忧成为现实。"
-},
-"https://the-decoder.com/?p=36729": {
-"t": "微软研究员在《帝国时代2》中用山羊搭建出可运行的神经网络，以此批判AI科学",
-"s": "一位微软研究员在《帝国时代2》地图编辑器中，用山羊、桥梁和冰坡构建了一个可运行的神经网络。这看似玩笑，实则是对AI研究方法的尖锐批判。他对315篇论文的分析发现，超过半数在实验开始前就已假定语言模型具备类人特征。将聊天界面换成游荡的山羊，数学原理不变，但与人对话的感觉却消失了。本文《微软研究员在《帝国时代2》中用山羊搭建出可运行的神经网络，以此批判AI科学》已刊发。"
-},
-"https://techcrunch.com/?p=3133904": {
-"t": "Anthropic 成为首家加入前沿碳去除联盟的AI初创公司",
-"s": "Anthropic 已加入 Frontier 联盟，该联盟又获得了9.15亿美元的承诺资金，用于资助碳去除项目。"
-},
-"https://the-decoder.com/?p=36726": {
-"t": "亚马逊、英伟达和AMD向构建3D世界模型的AI初创公司投资3.1亿美元",
-"s": "亚马逊、英伟达和AMD向世界模型初创公司Odyssey ML投资3.1亿美元，该公司目前估值达14.5亿美元。与中情局有关联的基金IQT以及谷歌首席科学家杰夫·迪恩也参与了本轮融资。在纯语言模型之后，世界模型正成为下一个重大AI投资方向。本文《亚马逊、英伟达和AMD向构建3D世界模型的AI初创公司投资3.1亿美元》最初发表于The Decoder。"
-},
 "https://techcrunch.com/?p=3133770": {
 "t": "社交媒体的下一轮进化：用户可控算法",
 "s": "随着Threads、Instagram和TikTok等平台推出让用户直接影响推荐算法的工具，社交媒体信息流正变得更加可定制化。"
@@ -4798,5 +4770,33 @@
 "https://openai.com/index/continuous-voice-interaction-with-gpt-live": {
 "t": "我们如何在六个月内构建响应式语音AI的实时系统",
 "s": "GPT-Live通过无轮次语音模型和低延迟架构，实现了与AI的连续语音交互，使对话更快、更自然。"
+},
+"https://techcrunch.com/?p=3149421": {
+"t": "强劲季度后，Palantir CEO亚历克斯·卡普称AI行业为“马克思主义者”",
+"s": "在实现10亿美元利润的一个季度后，Palantir首席执行官亚历克斯·卡普周一再次警告，前沿AI实验室对企业而言过于不可信。"
+},
+"https://www.marktechpost.com/?p=81530": {
+"t": "使用稳健数据加载与自动化评判，通过Moonshot PerceptionBench评估多模态视觉模型",
+"s": "在本教程中，我们为PerceptionBench设计了一个端到端的评估工作流。该多模态基准测试衡量了细粒度视觉感知能力，涵盖OCR、计数、定位、上下文推理、比较、深度理解和幻觉检测等任务。我们首先配置一个兼容Colab的环境，安装所需库，并通过稳健的数据加载方式加载数据集的平衡子集，随后进行自动化评判。本文首发于MarkTechPost。"
+},
+"https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/": {
+"t": "美国公司AI技术让乌克兰廉价自杀式无人机自主追踪目标",
+"s": "一项价值1亿美元的协议为5万架乌克兰无人机配备了美国研发的AI能力。"
+},
+"https://www.marktechpost.com/?p=81518": {
+"t": "如何在生产环境中保护AI代理、MCP服务器和LLM应用",
+"s": "AI代理、MCP服务器和LLM应用打破了应用安全（AppSec）的核心假设，即应用会按代码所述执行。本指南介绍了一个实用的“查看-修复-保护”框架：五层代理型AI攻击面地图、12点错误配置检查清单、基于证据的优先级分类矩阵、运行时防护栏以及系统提示加固——此外还包括一个与NIST AI RMF、OWASP AIMA、ISO/IEC 42001和欧盟AI法案对齐的成熟度自评估。该文章《如何在生产环境中保护AI代理、MCP服务器和LLM应用》最初出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=81513": {
+"t": "阿里巴巴Qwen发布Qwen3.8-Max：2.4万亿参数MoE模型，Qwen系列迄今最强",
+"s": "阿里巴巴Qwen团队将Qwen3.8-Max从预览版转为正式发布，公布了按token计价的定价，并计划于下周开放权重。这款2.4万亿参数的MoE模型支持文本、图像和视频输入，上下文窗口达100万token。目前尚未发布基准测试表。原文《Alibaba Qwen Releases Qwen3.8-Max: A 2.4 Trillion Parameter MoE Model and the Most Capable One in the Qwen Family to Date》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81509": {
+"t": "Cogent AI团队发布VR-1：一款前沿网络推理模型，可组合并验证企业攻击路径",
+"s": "Cogent AI团队发布了Cogent VR-1，这是一款专门针对网络安全进行后训练的推理模型，而非将网络能力作为通用编码能力的副产品。该模型附带两个配套工具：IntrusionBench，一个用于评估智能体完成企业入侵任务的基准测试；以及Cogent AI Harness，一个用于安全智能体的受控运行时环境。此次发布[…] 文章《Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths》首次出现在MarkTechPost上。"
+},
+"https://openai.com/index/circles": {
+"t": "Circles借助OpenAI技术赋能电信个性化服务",
+"s": "Circles利用OpenAI API和Codex驱动AI原生的电信体验，使每用户平均收入（ARPU）提升22%，客户流失率降低9%，并提高了开发效率。"
 }
 }
