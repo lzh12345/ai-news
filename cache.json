@@ -1,44 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80584": {
-"t": "NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险",
-"s": "在本教程中，我们使用 NVIDIA SkillSpector 在部署前评估 AI 技能的安全风险。我们构建了一个包含良性及故意存在漏洞的技能语料库，然后通过 SkillSpector 的程序化 LangGraph 工作流对其进行扫描。我们利用 pandas 整理风险评分与发现结果，并可视化严重程度及类别分布。我们将结果导出为 SARIF 格式，注册自定义分析器，并可选地应用基于 LLM 的语义处理。本文《NVIDIA SkillSpector 指南：利用静态分析与 SARIF 报告扫描 AI 技能中的安全风险》最初发表于 MarkTechPos。"
-},
-"https://the-decoder.com/?p=36749": {
-"t": "《自然》新研究显示AI系统与医生水平相当，但一项结果表明该技术难以持久",
-"s": "《自然》杂志发表的两项新研究表明，在模拟患者病例中，专业AI系统在诊断疾病和制定治疗决策方面与医生表现相当，有时甚至更优。然而，这两个系统所基于的基础模型已经过时。本文《AI systems rival doctors in new Nature studies, but one result suggests the tech won't age well》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36753": {
-"t": "Yann LeCun警告OpenAI和Anthropic等AI实验室面临“大泡沫破裂”",
-"s": "据Yann LeCun称，OpenAI和Anthropic等AI实验室正走向“大泡沫破裂”：他表示，这些实验室的运营实际上由投资者补贴，而运营成本下降速度不够快。LeCun的批评并非完全无私：他自己的初创公司AMI Labs筹集了10亿美元，用于探索另一种AI方法。文章《Yann LeCun警告OpenAI和Anthropic等AI实验室面临“大泡沫破裂”》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36747": {
-"t": "以AI图像生成闻名的Midjourney，推出全身超声波扫描仪及自有水疗中心",
-"s": "关于Midjourney硬件的传闻已流传多年，但没人料到会是这样的发展。这家AI图像初创公司正在打造一款全身超声波扫描仪，并在旧金山开设自有水疗中心来安置它。本文《以AI图像生成闻名的Midjourney，推出全身超声波扫描仪及自有水疗中心》最初发表于The Decoder。"
-},
-"1kBoofDb8dfLiYnekjlUaX": {
-"t": "庆祝伽利略计划12周年",
-"s": "为纪念伽利略计划12周年，Cloudflare发布了首份全面报告，分析了针对公民社会的网络攻击。"
-},
-"https://the-decoder.com/?p=36743": {
-"t": "Adobe 为 Photoshop、Premiere 等更多 Creative Cloud 应用添加 AI 代理",
-"s": "Adobe 正在其主要的 Creative Cloud 应用以及 ChatGPT、Claude 等第三方 AI 平台上推出其“创意代理”。用户描述需求后，软件会处理多步骤工作。本文《Adobe 为 Photoshop、Premiere 等更多 Creative Cloud 应用添加 AI 代理》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3133343": {
-"t": "Pixi 推出全新 iOS 应用，将短信转化为交互式增强现实体验",
-"s": "忘掉贴纸、GIF 和表情符号回复吧。Pixi 押注消息传递的下一次进化将是交互式增强现实（AR）。"
-},
-"https://www.marktechpost.com/?p=80594": {
-"t": "KV缓存压缩竞赛：TurboQuant vs OSCAR vs EpiCache",
-"s": "在长上下文场景下，KV缓存现已超过模型权重成为内存瓶颈。本文解析TurboQuant、OSCAR与EpiCache各自如何攻克这一内存瓶颈，并阐明三者为何更偏向互补而非竞争关系。该文章首发于MarkTechPost。"
-},
-"https://huggingface.co/blog/is-it-agentic-enough": {
-"t": "它足够智能体化吗？在自有工具上对开源模型进行基准测试",
-"s": ""
-},
-"https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
-"t": "保障AI代理的未来安全",
-"s": "通过AI控制路线图保护内部系统，结合传统安全措施与实时监控。"
-},
 "https://techcrunch.com/?p=3134182": {
 "t": "亚马逊希望通过销售其AI芯片更直接地挑战英伟达",
 "s": "AWS正在洽谈将其芯片销售给其他数据中心。CEO安迪·贾西表示，这对公司而言代表着500亿美元的机会。"
@@ -4798,5 +4758,45 @@
 "https://www.marktechpost.com/?p=81541": {
 "t": "利用NVIDIA SkillSpector、LangGraph、YARA规则、SARIF和CI策略门构建高级AI技能安全审计管道",
 "s": "了解如何使用NVIDIA SkillSpector和LangGraph构建端到端的AI代理技能安全评估管道。在本教程中，我们构建一个合成技能市场，扫描恶意提示注入、凭据访问和风险依赖，并实现自定义YARA规则、基线抑制和CI部署门。文章《利用NVIDIA SkillSpector、LangGraph、YARA规则、SARIF和CI策略门构建高级AI技能安全审计管道》最初出现在MarkTechPost上。"
+},
+"https://techcrunch.com/?p=3149459": {
+"t": "数据中心未来是否便携？Runware打造模块化吊舱探索答案",
+"s": "周二，AI基础设施公司Runware宣布推出其自研的模块化数据中心，名为Sonic Inference Pod。"
+},
+"01KZ67XSDB3QZRT3JC43EGMSD1": {
+"t": "Agent开发生命周期已登陆Cloudflare",
+"s": "智能体编写代码的速度超过了团队审查、部署和维护的速度。今天，我们推出了Agent开发生命周期及其所依托的Cloudflare基础组件。"
+},
+"01KZ518N1HS1MZE4GF7XES27C5": {
+"t": "宣布推出Cloudflare Wallets：面向代理互联网的可编程钱包",
+"s": "Cloudflare Wallets将为AI代理提供网页上的原生支付和可验证身份。通过使用x402协议，代理能够在明确的安全护栏内自主购买API和内容。"
+},
+"01KZ4ZEV9RTTBYR2S8AX9R4NNF": {
+"t": "为数百万仓库运行CI/CD——在你的平台上，在Cloudflare上",
+"s": "了解如何使用Workflows、Artifacts和CI SDK在Cloudflare上原生构建可定制、沙盒化的CI/CD流水线。我们演示了如何用TypeScript工作流步骤和自愈AI代理替代复杂的YAML配置。"
+},
+"01KZ4XGGJ39E5ZDS4AHVQSB0M3": {
+"t": "Cloudflare如何利用AI执行工程标准",
+"s": "我们创建了Cloudflare Codex，这是一个受治理的工程标准体系，AI代理在开发全生命周期中都会参考它。通过将结构化的RFC与代理审查相结合，团队能自动确保代码、规格说明和事件报告之间的一致性。"
+},
+"01KZ4WJAC5X5TGJJZKJDY8XHTD": {
+"t": "推出：Cloudflare Agents",
+"s": "Cloudflare Agents将您所有已部署的代理会话整合到一个体验中，呈现关键信息及关于代理在大规模运行时的表现洞察。"
+},
+"01KZ4VTTGC4FD3MQ89XQDW2ZZ6": {
+"t": "您的代理现在可以通过本地追踪调试 Workers",
+"s": "wrangler dev 现在为每个本地请求生成结构化追踪。您的编码代理只需调用一个 API 即可精确定位失败原因，无需部署。"
+},
+"01KZ4HYXCHKAZHVPH6PMEG04RZ": {
+"t": "我们如何构建软件工厂，将Astro的GitHub问题数降至零",
+"s": "通过用运行在GitHub Actions中的隔离AI子代理替代手动问题验证，Astro维护者将未解决问题数量减少了85%。本文探讨了自动化错误复现、补丁验证和预览发布背后的架构。"
+},
+"https://the-decoder.com/?p=38569": {
+"t": "硅谷在开源问题上的分歧，促使白宫暂缓考虑对华AI禁令",
+"s": "据《纽约时报》报道，特朗普政府曾讨论针对中国开源AI模型的制裁和云服务禁令。OpenAI和Anthropic主张实施限制，而英伟达、谷歌和Meta则持反对意见。在硅谷的抵制下，华盛顿暂时退让，但预计在习近平九月访问前将做出决定。本文《硅谷在开源问题上的分歧，促使白宫暂缓考虑对华AI禁令》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3148851": {
+"t": "EON欲将数据高速公路从海底光纤迁至太空激光",
+"s": "奋进光学网络公司计划发射迄今建造的最快太空激光通信系统。"
 }
 }
