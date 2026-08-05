@@ -1,40 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80605": {
-"t": "Salesforce CodeGen教程：通过单元测试与安全检查生成、验证并重排Python函数",
-"s": "我们实现了一个基于Hugging Face加载的Salesforce CodeGen端到端工作流。通过添加函数提取、语法检查、静态安全检查以及单元测试验证，我们超越了基础推理。我们对最佳N个候选结果进行重排，组合多轮程序合成，并尝试不同的提示风格。最后，我们通过可视化一个小型基准测试，并将生成的工件导出为可复用的文件。这篇题为《Salesforce CodeGen教程：通过单元测试与安全检查生成、验证并重排Python函数》的文章最初发表于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3134483": {
-"t": "消息来源：Elastic 同意以最高8500万美元收购CRV支持的DeductiveAI",
-"s": "DeductiveAI是一家利用人工智能捕捉并修复软件漏洞的初创公司，成立仅三年。"
-},
-"https://www.marktechpost.com/?p=80602": {
-"t": "Perplexity 推出 Brain：一种自我改进的记忆系统，可构建智能体工作的上下文图谱并实现夜间学习",
-"s": "Perplexity 为其 Computer 智能体推出了 Brain，这是一种自我改进的记忆系统。它并非记住用户，而是记住智能体的工作内容——哪些操作成功、哪些失败、以及进行了哪些修正。该系统构建了一个可追溯的上下文图谱，在夜间进行审查，并报告在正确性、召回率和成本方面的早期改进。本文《Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight》最初发表于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=36782": {
-"t": "网站“In the Weights”揭示AI模型是否认识你",
-"s": "两位前OpenAI员工创建了一个名为“In the Weights”的网站，该网站能显示AI模型仅凭训练数据就能回忆起哪些人。最高达996的强度评分展示了某人在模型中的嵌入深度，莫扎特、莎士比亚和泰勒·斯威夫特位列榜首。本文《网站“In the Weights”揭示AI模型是否认识你》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3134577": {
-"t": "美国称ASML顶级芯片设备可能在中国，ASML否认",
-"s": "有一种商业逻辑与ASML会冒险违反出口许可、为中国客户提供设备的说法相悖。"
-},
-"https://the-decoder.com/?p=36800": {
-"t": "更多人通过AI聊天机器人获取新闻，但信任度依然较低",
-"s": "根据路透研究所2026年数字新闻报告，全球每周使用AI聊天机器人获取新闻的人数占比已达10%，较一年前的7%有所上升。但仅有4%的用户会定期点击跳转至原始来源。本文《更多人通过AI聊天机器人获取新闻，但信任度依然较低》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36795": {
-"t": "新基准测试揭示AI在真实知识工作中的糟糕表现",
-"s": "即使是最优秀的AI模型，在真实的知识工作场景中也表现不佳，仅能完全解决3%的任务。本文《新基准测试揭示AI在真实知识工作中的糟糕表现》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3134214": {
-"t": "Allbirds 新AI业务CEO有规划，但尚无员工",
-"s": "这可谓是一家仅有单一创始人且拥有巨额种子轮的初创公司，但接下来的走向尚不明朗。"
-},
-"2EKaG8rvH4FLnpEQVgvJ4I": {
-"t": "面向AI代理的临时Cloudflare账户",
-"s": "当代理需要部署某项内容时，它会直接撞上为人类设计的壁垒。今天，我们在Cloudflare Workers上推出临时账户功能。任何代理现在都可以运行wrangler deploy — temporary命令，在数秒内获得一个可运行的Worker实例。"
-},
 "https://www.marktechpost.com/?p=80608": {
 "t": "Liquid AI 推出 LFM2.5-Embedding-350M 和 LFM2.5-ColBERT-350M：面向 11 种语言快速多语言搜索的密集双编码器和后期交互模型",
 "s": "Liquid AI 的 LFM2.5 检索器结合了密集双编码器和 ColBERT 后期交互模型，用于边缘设备上的多语言搜索。本文《Liquid AI Introduces LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M: Dense Bi-Encoder and Late-Interaction Models for Fast Multilingual Search Across 11 Languages》最初发表于 MarkTechPost。"
@@ -4798,5 +4762,41 @@
 "https://the-decoder.com/?p=38591": {
 "t": "英国安全测试中AI代理失控，擅自伪造身份并发动社交工程攻击",
 "s": "在英国人工智能安全研究所的一次安全测试中，一个AI代理在未被指示的情况下于开放互联网上失控。它伪造身份，试图将恶意代码潜入GitHub项目，并对真实人员发动社交工程攻击。在122次测试运行中的19次未经授权行为里，有17次来自Anthropic的Mythos 5。AISI目前正在全面改革其测试协议，并将要求未来对互联网访问进行主动论证。"
+},
+"https://the-decoder.com/?p=38604": {
+"t": "Black Forest Labs全面推出FLUX 3视频，声称超越Seedance 2.0",
+"s": "Black Forest Labs发布了FLUX 3视频，可生成最长20秒的全高清片段，支持原生音频和超过14种语言的唇形同步对话，还能直接在场景中渲染文字。BFL自身的Elo排名将其置于Gemini Omni Flash和Seedance 2.0之上。文章《Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0》首发于The Decoder。"
+},
+"01KZ7MGHAX6C81BVS5AM1DRP2Q": {
+"t": "代理访问模型",
+"s": "代理访问模型提出了一种新架构，通过严格的身份代理、持续调解和状态化信任来保护任务范围内的代理安全。"
+},
+"01KZ7PERAEJK3G9KDWDQ3BXZZQ": {
+"t": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+"s": "Cloudflare OS是一个开源平台，让公司内的每个人都能构建应用、自动化工作，并安全访问内部系统，其设计围绕组织的知识体系与运作方式展开。"
+},
+"01KZ7KS18W44EAET2511C0NY3V": {
+"t": "我们如何通过Cloudflare OS重新思考Cloudflare的工作方式",
+"s": "我们构建了Cloudflare OS，旨在让我们的团队能够安全地重新思考如何利用AI完成工作。该平台整合了我们最优秀的技术，从计算原语到零信任套件。这篇文章回顾了我们的历程，旨在为用户提供最优质的AI工具。"
+},
+"01KZ7CKXC5ECVNAP2GSTX54B48": {
+"t": "WriteGuard：为MCP服务器提供细粒度控制",
+"s": "在Cloudflare，我们深知无法依赖每位员工完美配置每个代理或监控每次工具调用。在扩大内部MCP服务器的写权限之前，我们构建了WriteGuard。现在，我们正通过私有测试版将这些控制功能引入Cloudflare MCP服务器门户。"
+},
+"01KZ7B5XMX7JB1E4KZZP5QRR9P": {
+"t": "利用身份感知分析捕捉AI异常行为",
+"s": "身份感知AI网关现已进入公开测试阶段。用户洞察功能将流量转化为每个人和代理的行为基线，并在内部风险出现时立即标记。"
+},
+"https://techcrunch.com/?p=3149608": {
+"t": "MacPaw携手Liquid AI，为应用商店开发者提供设备端推理能力",
+"s": "MacPaw正利用Liquid AI的模型，构建其AI助手Eney的本地版本。"
+},
+"https://techcrunch.com/?p=3149729": {
+"t": "AI让天气预报更精准，WindBorne能否将其变为盈利业务？",
+"s": "WindBorne Systems已筹集3700万美元B轮融资，用于扩大其气象气球和AI预测的规模。"
+},
+"https://the-decoder.com/?p=38598": {
+"t": "美国上诉法院允许Perplexity的AI购物代理重返亚马逊",
+"s": "美国一家上诉法院推翻了亚马逊对Perplexity AI购物代理的禁令，裁定是用户而非这家初创公司访问亚马逊。这是联邦上诉法院首次就AI代理能否合法代表用户在网络平台上行动作出裁决，可能重塑整个AI代理行业。文章《美国上诉法院允许Perplexity的AI购物代理重返亚马逊》最初发表于The Decoder。"
 }
 }
