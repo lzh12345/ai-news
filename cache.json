@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=36767": {
-"t": "SK Telecom被指与中国有关联，引发美国官员担忧并导致Anthropic危机",
-"s": "SK Telecom曾通过其合作伙伴项目Project Glasswing获取Anthropic的AI模型Claude Mythos，直到白宫介入。美国官员认为这家韩国企业集团与中国存在关联。文章《SK Telecom被指与中国有关联，引发美国官员担忧并导致Anthropic危机》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3134243": {
-"t": "Match称近半数美国单身人士对AI应用于约会持负面态度",
-"s": "约47%的单身人士对在约会中使用AI持负面看法——但许多约会应用用户愿意接受AI帮助优化个人资料和开启对话。"
-},
 "5Ad3Svz0xFxJQNx6eQZjJP": {
 "t": "构建你自己的漏洞利用框架",
 "s": "我们解析了多阶段漏洞发现框架及自动化分类循环背后的技术架构。了解我们如何管理状态控制、通过对抗性审查消除误报，以及如何规避大语言模型上下文限制。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=81551": {
 "t": "Cursor开源Mixture-of-Kittens（MoK）：面向GB300 NVL72机架的确定性MoE训练巨核",
 "s": "Cursor Research已开源Mixture-of-Kittens（MoK），这是其Composer模型背后的MoE训练巨核。MoK将所有的混合专家通信和计算融合到一个单一的确定性内核中，在GB300 NVL72机架上运行速度比最强公开基线快达2.37倍。它需要Blackwell SM100或SM103 GPU，这使得没有NVL72容量的用户无法使用。文章《Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81557": {
+"t": "像素原生RAG：视觉文档索引实用指南",
+"s": "超越传统文本解析，PixelRAG是一种端到端系统，将网页和PDF视为图像处理。本教程探索了从渲染、分块到多模态嵌入和混合搜索的完整流程，使开发者能够构建高性能的视觉文档检索系统。该文章首发于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3149877": {
+"t": "SpaceX今年已购入价值3.29亿美元的特斯拉Megapacks",
+"s": "此次采购凸显了埃隆·马斯克旗下公司之间的紧密联系。"
 }
 }

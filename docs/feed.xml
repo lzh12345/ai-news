@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 04 Aug 2026 21:03:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 01:48:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>像素原生RAG：视觉文档索引实用指南</title>
+<link>https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81557</guid>
+<pubDate>Tue, 04 Aug 2026 22:27:38 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】超越传统文本解析，PixelRAG是一种端到端系统，将网页和PDF视为图像处理。本教程探索了从渲染、分块到多模态嵌入和混合搜索的完整流程，使开发者能够构建高性能的视觉文档检索系统。该文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceX今年已购入价值3.29亿美元的特斯拉Megapacks</title>
+<link>https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3149877</guid>
+<pubDate>Tue, 04 Aug 2026 21:07:26 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】此次采购凸显了埃隆·马斯克旗下公司之间的紧密联系。<br/><br/><a href="https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>得克萨斯州因需求激增暂停数据中心接入电网</title>
 <link>https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/</link>
@@ -470,22 +486,6 @@
 <pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GPT-Live通过无轮次语音模型和低延迟架构，实现了与AI的连续语音交互，使对话更快、更自然。<br/><br/><a href="https://openai.com/index/continuous-voice-interaction-with-gpt-live">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Onton发布Ontology 1：神经符号搜索模型，准确率比全球最佳电商搜索引擎高2.7倍</title>
-<link>https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81506</guid>
-<pubDate>Mon, 03 Aug 2026 00:49:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】总部位于旧金山的搜索与发现公司Onton发布了Ontology 1，这是一种用于复杂、对话式、多模态产品搜索的神经符号模型。在由三位独立LLM评委评分的90个查询基准测试中，Ontology 1的平均精确度@10达到0.630，而Google Shopping为0.543，Amazon为0.469。它仅索引了约1%的数据就实现了这一表现。该文章《Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>多模态大语言模型中的对齐理解：一项综合研究</title>
-<link>https://machinelearning.apple.com/research/alignment-multimodal-llms</link>
-<guid isPermaLink="false">alignment-multimodal-llms</guid>
-<pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】偏好对齐已成为提升大语言模型（LLMs）性能的关键组成部分，然而其在多模态大语言模型（MLLMs）中的影响仍相对未被充分探索。与语言模型类似，用于图像理解任务的MLLMs也面临幻觉等挑战。在MLLMs中，幻觉不仅可能通过陈述错误事实发生，还可能通过生成与图像内容不一致的响应出现。MLLMs对齐的一个主要目标是促使这些模型使响应更紧密地与图像信息对齐。最近……<br/><br/><a href="https://machinelearning.apple.com/research/alignment-multimodal-llms">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
