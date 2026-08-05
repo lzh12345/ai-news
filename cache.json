@@ -1,8 +1,4 @@
 {
-"5Ad3Svz0xFxJQNx6eQZjJP": {
-"t": "构建你自己的漏洞利用框架",
-"s": "我们解析了多阶段漏洞发现框架及自动化分类循环背后的技术架构。了解我们如何管理状态控制、通过对抗性审查消除误报，以及如何规避大语言模型上下文限制。"
-},
 "https://openai.com/index/chatgpt-enterprise-spend-controls": {
 "t": "企业版新增使用分析与支出控制功能",
 "s": "OpenAI为ChatGPT企业版推出新的支出控制与使用分析功能，帮助组织管理成本并自信地扩展AI应用。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3149877": {
 "t": "SpaceX今年已购入价值3.29亿美元的特斯拉Megapacks",
 "s": "此次采购凸显了埃隆·马斯克旗下公司之间的紧密联系。"
+},
+"https://www.marktechpost.com/?p=81560": {
+"t": "CopilotKit 开源 Channels SDK：一款 MIT 许可的库，可在 Slack 和 Microsoft Teams 中运行任意 AG-UI 代理",
+"s": "CopilotKit 发布了 Channels SDK，这是一款 MIT 许可的库，可在 Slack 和 Microsoft Teams 中运行现有的 AG-UI 代理。版本 0.5.0 提供了五个平台适配器和一个文档化的运行时契约。本文详细介绍了已验证的部署路径、基本要求，以及一个容易被忽视的依赖项。该文章最初发表于 MarkTechPost。"
 }
 }

@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 05 Aug 2026 01:48:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 06:20:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>CopilotKit 开源 Channels SDK：一款 MIT 许可的库，可在 Slack 和 Microsoft Teams 中运行任意 AG-UI 代理</title>
+<link>https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81560</guid>
+<pubDate>Wed, 05 Aug 2026 04:43:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】CopilotKit 发布了 Channels SDK，这是一款 MIT 许可的库，可在 Slack 和 Microsoft Teams 中运行现有的 AG-UI 代理。版本 0.5.0 提供了五个平台适配器和一个文档化的运行时契约。本文详细介绍了已验证的部署路径、基本要求，以及一个容易被忽视的依赖项。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>像素原生RAG：视觉文档索引实用指南</title>
 <link>https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/</link>
@@ -470,14 +478,6 @@
 <pubDate>Mon, 03 Aug 2026 08:24:16 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】阿里巴巴Qwen团队将Qwen3.8-Max从预览版转为正式发布，公布了按token计价的定价，并计划于下周开放权重。这款2.4万亿参数的MoE模型支持文本、图像和视频输入，上下文窗口达100万token。目前尚未发布基准测试表。原文《Alibaba Qwen Releases Qwen3.8-Max: A 2.4 Trillion Parameter MoE Model and the Most Capable One in the Qwen Family to Date》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cogent AI团队发布VR-1：一款前沿网络推理模型，可组合并验证企业攻击路径</title>
-<link>https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81509</guid>
-<pubDate>Mon, 03 Aug 2026 07:28:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Cogent AI团队发布了Cogent VR-1，这是一款专门针对网络安全进行后训练的推理模型，而非将网络能力作为通用编码能力的副产品。该模型附带两个配套工具：IntrusionBench，一个用于评估智能体完成企业入侵任务的基准测试；以及Cogent AI Harness，一个用于安全智能体的受控运行时环境。此次发布[…] 文章《Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>我们如何在六个月内构建响应式语音AI的实时系统</title>
