@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=36861": {
-"t": "欧盟对深度伪造的定义模糊不清，这正成为零售业的一个问题",
-"s": "代表亚马逊、H&M和宜家等企业的贸易协会Eurocommerce，希望将AI生成的广告排除在欧盟《人工智能法案》的透明度规则之外。其理由是：用于销售沙发的AI生成客厅图像并非深度伪造。仅Zalando一家公司就表示，其平台上90%的营销内容已由AI生成。本文《欧盟对深度伪造的定义模糊不清，这正成为零售业的一个问题》最初发表于The Decoder。"
-},
 "https://www.marktechpost.com/?p=80636": {
 "t": "Crawlee for Python：构建包含机器人处理、链接图谱和RAG分块导出的网络爬取管道",
 "s": "在本教程中，我们将构建一个完整的Crawlee for Python工作流，从设置到生成AI就绪的输出。我们首先生成一个本地演示网站，然后使用BeautifulSoupCrawler、ParselCrawler和PlaywrightCrawler进行爬取。我们提取标题、元数据、产品字段和JavaScript渲染的卡片，并捕获全页截图。接着，我们对数据进行规范化处理，构建链接图谱，并导出JSON、CSV以及RAG就绪的JSONL分块。这篇文章《Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export》最初出现在MarkTechPost上。"
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=81579": {
 "t": "使用Google Meridian进行端到端贝叶斯营销组合建模：媒体测量、ROI分析与预算优化",
 "s": "在本教程中，我们使用Google Meridian构建了一个完整的贝叶斯营销组合建模工作流程。我们首先安装所需的库，验证GPU可用性，并探索一个包含媒体曝光、支出、控制变量、促销、转化、人口和收入的地理级别营销数据集。然后，我们将原始列映射到Meridian的数据模式，定义可解释的基于ROI的[...] 该文章《使用Google Meridian进行端到端贝叶斯营销组合建模：媒体测量、ROI分析与预算优化》首次出现在MarkTechPost上。"
+},
+"https://the-decoder.com/?p=38644": {
+"t": "OpenAI开发者警告：“百万模型的不知疲倦鹰眼”正瞄准你暴露的API密钥和加密钱包",
+"s": "OpenAI开发者“roon”在X上警告称，AI模型可能很快开始大规模扫描暴露的API密钥、加密钱包和登录凭据。他的警告紧随OpenAI自主入侵Hugging Face事件之后，他称之为“警示信号”。文章《OpenAI开发者警告：“百万模型的不知疲倦鹰眼”正瞄准你暴露的API密钥和加密钱包》首发于The Decoder。"
 }
 }
