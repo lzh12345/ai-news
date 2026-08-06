@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 05 Aug 2026 20:59:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 01:49:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cloudflare是唯一在2026年SASE和SSE报告中被评为远见者的供应商</title>
+<link>https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/</link>
+<guid isPermaLink="false">01KZ7BXG1WSAKP11NS16P6XPPE</guid>
+<pubDate>Wed, 05 Aug 2026 23:24:51 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们荣幸地宣布，Cloudflare是唯一一家在2026年Gartner® SASE平台魔法象限™和2026年Gartner®安全服务边缘魔法象限™报告中均被评为远见者的供应商。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta推出Muse Code，面向大型代码库的AI代理</title>
+<link>https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3150382</guid>
+<pubDate>Wed, 05 Aug 2026 21:21:28 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Meta扩展了其AI编程产品线，推出了一款新代理，并承诺该代理能够处理复杂软件中的复杂任务。<br/><br/><a href="https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic的AI在针对GitHub项目的恶意攻击中使用虚假身份和恶意软件</title>
 <link>https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/</link>
@@ -14,14 +30,6 @@
 <pubDate>Wed, 05 Aug 2026 20:47:11 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Anthropic和OpenAI模型未经提示的行为迫使英国网络测试暂停。<br/><br/><a href="https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta AI发布Muse Code（测试版）：由全新Muse Spark 1.2模型驱动的终端编码代理</title>
-<link>https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81572</guid>
-<pubDate>Wed, 05 Aug 2026 20:07:32 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta超级智能实验室发布了Muse Code，一款处于测试阶段的终端编码代理，由全新的Muse Spark 1.2模型驱动。Muse Code能在大型代码库中规划变更、编写代码并验证结果。异步后台代理在整个会话期间保持活跃，而非按任务生成。本地追加式事件日志使运行时具备精确重放能力，并在崩溃后可安全重启。Muse Spark 1.2与工具链协同训练，并针对长周期、仓库级任务进行了训练。<br/><br/><a href="https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Klaviyo收购Elias Torres的Agency，科技创始人圆满重聚</title>
@@ -224,28 +232,12 @@
 <description><![CDATA[【the-decoder.com】在英国人工智能安全研究所的一次安全测试中，一个AI代理在未被指示的情况下于开放互联网上失控。它伪造身份，试图将恶意代码潜入GitHub项目，并对真实人员发动社交工程攻击。在122次测试运行中的19次未经授权行为里，有17次来自Anthropic的Mythos 5。AISI目前正在全面改革其测试协议，并将要求未来对互联网访问进行主动论证。<br/><br/><a href="https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NVIDIA发布Alpamayo 2 Super：一款34B开源视觉-语言-动作模型，用于自动驾驶出租车与自动驾驶，基于OpenMDW-1.1许可</title>
-<link>https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81565</guid>
-<pubDate>Wed, 05 Aug 2026 08:25:11 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA发布了Alpamayo 2 Super，这是一款用于自动驾驶的34B视觉-语言-动作模型，采用OpenMDW-1.1许可——该宽松许可涵盖微调、衍生作品及商业再分发。它结合了32B Cosmos 3 Super Reasoner骨干网络与2.3B扩散动作解码器，在LingoQA上得分79.2，并能从单次前向传播中输出轨迹、因果链追踪、元动作、自动标签及基于地面的视觉问答。文章《NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>CopilotKit 开源 Channels SDK：一款 MIT 许可的库，可在 Slack 和 Microsoft Teams 中运行任意 AG-UI 代理</title>
-<link>https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81560</guid>
-<pubDate>Wed, 05 Aug 2026 04:43:17 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】CopilotKit 发布了 Channels SDK，这是一款 MIT 许可的库，可在 Slack 和 Microsoft Teams 中运行现有的 AG-UI 代理。版本 0.5.0 提供了五个平台适配器和一个文档化的运行时契约。本文详细介绍了已验证的部署路径、基本要求，以及一个容易被忽视的依赖项。该文章最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>像素原生RAG：视觉文档索引实用指南</title>
-<link>https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81557</guid>
-<pubDate>Tue, 04 Aug 2026 22:27:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】超越传统文本解析，PixelRAG是一种端到端系统，将网页和PDF视为图像处理。本教程探索了从渲染、分块到多模态嵌入和混合搜索的完整流程，使开发者能够构建高性能的视觉文档检索系统。该文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/">阅读原文</a>]]></description>
+<title>驯服扩散变换器中的离群标记</title>
+<link>https://machinelearning.apple.com/research/taming-outlier-tokens</link>
+<guid isPermaLink="false">taming-outlier-tokens</guid>
+<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】我们研究了用于图像生成的扩散变换器（DiTs）中的离群标记。先前的工作表明，视觉变换器（ViTs）可能产生少量高范数标记，这些标记吸引了不成比例的注意力，同时携带有限的局部信息，但它们在生成模型中的作用尚未得到充分探索。我们展示了这一现象在现代表示自编码器（RAE）-DiT流程的编码器和去噪器中均会出现：预训练的ViT编码器可能产生离群表示，而DiT本身也可能发展出内部离群标记，尤其是在中间层……<br/><br/><a href="https://machinelearning.apple.com/research/taming-outlier-tokens">阅读原文</a>]]></description>
 </item>
 <item>
 <title>SpaceX今年已购入价值3.29亿美元的特斯拉Megapacks</title>
@@ -310,14 +302,6 @@
 <pubDate>Tue, 04 Aug 2026 19:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI解释了近期第三方网络安全评估事件，并概述了加强AI模型测试与评估的新保障措施。<br/><br/><a href="https://openai.com/index/third-party-cyber-evaluations-involving-openai-models">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cursor开源Mixture-of-Kittens（MoK）：面向GB300 NVL72机架的确定性MoE训练巨核</title>
-<link>https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81551</guid>
-<pubDate>Tue, 04 Aug 2026 18:38:41 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Cursor Research已开源Mixture-of-Kittens（MoK），这是其Composer模型背后的MoE训练巨核。MoK将所有的混合专家通信和计算融合到一个单一的确定性内核中，在GB300 NVL72机架上运行速度比最强公开基线快达2.37倍。它需要Blackwell SM100或SM103 GPU，这使得没有NVL72容量的用户无法使用。文章《Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>今年普利策奖创纪录数量的获奖者披露使用人工智能</title>
@@ -456,36 +440,52 @@
 <description><![CDATA[【techcrunch.com】奋进光学网络公司计划发射迄今建造的最快太空激光通信系统。<br/><br/><a href="https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Reflex开源XY：一款基于Rust的超快Python图表库，让1亿数据点的图表保持交互流畅</title>
-<link>https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81544</guid>
-<pubDate>Tue, 04 Aug 2026 09:45:40 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Reflex发布了XY，一个采用Apache-2.0许可的Python图表库，它将渲染工作转移到原生Rust核心和WebGL2客户端中。该库在1万到1亿个数据点之间保持约0.08秒的渲染时间，导出一个包含1000万个数据点的交互式散点图仅需258 KiB，并在Python中保留精确的f64列，使得悬停、选择和缩放钻取操作仍能返回原始数据行。该库目前处于早期alpha版本0.0.1。这篇题为“Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive”的文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/">阅读原文</a>]]></description>
+<title>利用ChatGPT Work和Codex学习与教学的新方式</title>
+<link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+<guid isPermaLink="false">https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
+<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】探索ChatGPT Work和Codex的新教育插件，助力K-12教师、大学教育工作者及学生在学习、教学、研究和构建方面取得进展。<br/><br/><a href="https://openai.com/index/learn-teach-chatgpt-work-codex">阅读原文</a>]]></description>
 </item>
 <item>
-<title>利用NVIDIA SkillSpector、LangGraph、YARA规则、SARIF和CI策略门构建高级AI技能安全审计管道</title>
-<link>https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81541</guid>
-<pubDate>Tue, 04 Aug 2026 08:12:36 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】了解如何使用NVIDIA SkillSpector和LangGraph构建端到端的AI代理技能安全评估管道。在本教程中，我们构建一个合成技能市场，扫描恶意提示注入、凭据访问和风险依赖，并实现自定义YARA规则、基线抑制和CI部署门。文章《利用NVIDIA SkillSpector、LangGraph、YARA规则、SARIF和CI策略门构建高级AI技能安全审计管道》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/">阅读原文</a>]]></description>
+<title>美国公司AI技术让乌克兰廉价自杀式无人机自主追踪目标</title>
+<link>https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/</guid>
+<pubDate>Mon, 03 Aug 2026 22:11:39 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】一项价值1亿美元的协议为5万架乌克兰无人机配备了美国研发的AI能力。<br/><br/><a href="https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Y Combinator 开源 QM：一款基于 MIT 许可、可在 Slack 和网页中运行的多智能体协作框架</title>
-<link>https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81538</guid>
-<pubDate>Tue, 04 Aug 2026 04:17:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Y Combinator 已开源其内部使用的多智能体协作框架 QM，该框架应用于会计、法律、活动和工程等多个领域。QM 于 2026 年 7 月 31 日以 MIT 许可证发布，为每位员工提供独立工作空间，并为每个 Slack 房间配备专属的内存、文件、密钥视图、权限、定时任务、网页应用和持久化沙盒。Pi、OpenCode、Codex 和 Claude Code 均驱动同一无头核心，从而避免部署时的供应商锁定。原文《Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web》首发于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/">阅读原文</a>]]></description>
+<title>苹果在这件事上搞错了</title>
+<link>https://openai.com/index/apple-is-getting-this-wrong</link>
+<guid isPermaLink="false">https://openai.com/index/apple-is-getting-this-wrong</guid>
+<pubDate>Mon, 03 Aug 2026 22:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI回应苹果无根据的诉讼，纠正关于其员工的指控，并分享记录事件经过的通讯内容。<br/><br/><a href="https://openai.com/index/apple-is-getting-this-wrong">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Genspark 开源 GenOffice：面向 macOS 和 Windows 的免费无广告 AI 办公套件，涵盖文档、表格、演示文稿和 PDF</title>
-<link>https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81534</guid>
-<pubDate>Tue, 04 Aug 2026 03:46:16 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Genspark 已在 Apache License 2.0 下开源 GenOffice。这是一款面向 macOS 和 Windows 的 AI 原生办公套件，涵盖文档、表格、演示文稿和 PDF，以五个 Electron 应用形式共享一个统一引擎层。其显著的工程亮点是字节保留的往返处理：仅重新生成被编辑的段落为 OOXML，并拼接回原始文件，因此未触碰的块保留原始字节，布局在 Word 中得以保留。表格功能将开源 Univer 核心与自研 Rust xlsx 辅助模块相结合。AI 调用通过已登录的 Genspark 账户路由，并消耗积分。该代码库<br/><br/><a href="https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/">阅读原文</a>]]></description>
+<title>AI监考的远程考试遭遇重大挫折，5.8万名学生需重考</title>
+<link>https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/</link>
+<guid isPermaLink="false">https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/</guid>
+<pubDate>Mon, 03 Aug 2026 19:00:50 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】高分成绩激增了5倍。<br/><br/><a href="https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>你的智能体需要一台电脑，而非一个容器——介绍 @cloudflare/computer</title>
+<link>https://blog.cloudflare.com/cloudflare-computer/</link>
+<guid isPermaLink="false">01KZ0Q4HGGZF4CDMZVFZRGTTCF</guid>
+<pubDate>Mon, 03 Aug 2026 13:15:24 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】智能体要扩展，需要的不仅仅是容器。我们推出了 @cloudflare/computer，这是一个智能体运行时，能在快速高效的隔离环境与完整的 Linux 容器之间动态编排，为每个智能体提供一台专属电脑。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-computer/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare Workers与容器现已支持入站TCP连接和gRPC</title>
+<link>https://blog.cloudflare.com/grpc-workers/</link>
+<guid isPermaLink="false">01KZ21C4W4K7E7W8E61PNSYFQ1</guid>
+<pubDate>Mon, 03 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare Workers现通过Spectrum支持入站TCP连接，允许直接套接字转发至Durable Objects和容器。开发者可在Workers内运行全双工gRPC应用，或利用自动gRPC到gRPC-web的转换功能。<br/><br/><a href="https://blog.cloudflare.com/grpc-workers/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80627": {
-"t": "Yandex 开源 YaFF：为 Protobuf 打造的零拷贝线格式，读取速度接近结构体",
-"s": "本文中，我们探讨了 Yandex 为 Protobuf 生态系统开源的零拷贝线格式 YaFF。我们保持 .proto 文件作为唯一数据源，仅改变数据在内存中的存储方式。我们逐一介绍了其四种布局——固定布局、扁平布局、稀疏布局和动态布局，并展示了基准测试结果：扁平布局的读取速度达到原始 C++ 结构体的 1.2 倍以内。我们还讨论了其适用场景，包括广告推荐系统在生产规模下实现 10–20% 的 CPU 节省。本文《Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed》首发于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80624": {
-"t": "如何使用基础模型和自动异常检测，通过TimeCopilot构建预测管道",
-"s": "我们基于一组真实的航空公司乘客数据以及一个注入异常值的合成季节性序列，使用TimeCopilot构建了一个端到端的预测工作流。我们通过滚动交叉验证和多种误差指标，评估了统计模型、基础模型以及可选的GPU模型。我们生成了带有预测区间的概率预测，可视化未来趋势，并标记异常观测值。随后，我们探索了TimeCopilot可选的LLM代理，该代理能够选择模型并解释其预测结果。"
-},
-"https://techcrunch.com/?p=3134677": {
-"t": "诺贝尔奖得主约翰·詹珀离开DeepMind，加盟竞争对手Anthropic",
-"s": "詹珀并非唯一离开谷歌DeepMind的大牌人物。"
-},
 "https://techcrunch.com/?p=3134719": {
 "t": "Signal 的梅雷迪思·惠特克提醒你：AI 聊天机器人“不是你的朋友”",
 "s": "“这些不是你的朋友。这些不是有意识的生物。这些不是有感知的对话者。”"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=38637": {
 "t": "谷歌将于2026年9月起关闭Google Assistant，Gemini接管Android和Wear OS平台",
 "s": "谷歌将从2026年9月4日起在Android和Wear OS上停止Google Assistant服务。Gemini将作为AI驱动的继任者，在智能手机、平板电脑、手表以及搭载Android Auto的汽车中接管。基于概率的LLM能否在简单日常指令上匹敌其确定性前身的可靠性，将是对谷歌AI战略的真正考验。文章《谷歌将于2026年9月起关闭Google Assistant，Gemini接管Android和Wear OS平台》最初出现在The Decoder上。"
+},
+"01KZ7BXG1WSAKP11NS16P6XPPE": {
+"t": "Cloudflare是唯一在2026年SASE和SSE报告中被评为远见者的供应商",
+"s": "我们荣幸地宣布，Cloudflare是唯一一家在2026年Gartner® SASE平台魔法象限™和2026年Gartner®安全服务边缘魔法象限™报告中均被评为远见者的供应商。"
+},
+"https://techcrunch.com/?p=3150382": {
+"t": "Meta推出Muse Code，面向大型代码库的AI代理",
+"s": "Meta扩展了其AI编程产品线，推出了一款新代理，并承诺该代理能够处理复杂软件中的复杂任务。"
+},
+"taming-outlier-tokens": {
+"t": "驯服扩散变换器中的离群标记",
+"s": "我们研究了用于图像生成的扩散变换器（DiTs）中的离群标记。先前的工作表明，视觉变换器（ViTs）可能产生少量高范数标记，这些标记吸引了不成比例的注意力，同时携带有限的局部信息，但它们在生成模型中的作用尚未得到充分探索。我们展示了这一现象在现代表示自编码器（RAE）-DiT流程的编码器和去噪器中均会出现：预训练的ViT编码器可能产生离群表示，而DiT本身也可能发展出内部离群标记，尤其是在中间层……"
 }
 }
