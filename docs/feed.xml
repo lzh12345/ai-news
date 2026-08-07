@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 07 Aug 2026 00:51:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 05:27:56 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Liquid AI发布LFM2.5-2.6B：一款具备128K上下文、工具调用及开放权重的端侧智能体模型</title>
+<link>https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81599</guid>
+<pubDate>Fri, 07 Aug 2026 03:42:27 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI发布了LFM2.5-2.6B，这是一款智能体模型，能够完全在设备端进行规划、调用工具并完成多步骤任务。该模型拥有26.9亿参数，结合了22个双门控短卷积块和8个GQA块，分布在30层中，支持131,072个令牌的上下文长度，并在M5 Max上以每秒220个令牌的速度解码，占用内存不到2.5GB。开放权重以GGUF、MLX和ONNX格式提供。原文《Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI新型AI智能音箱据报售价将在300至400美元之间</title>
 <link>https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/</link>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 05 Aug 2026 13:59:17 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】尽管集团表示其季度营收几乎翻倍，但盘前交易中股价仍下滑。<br/><br/><a href="https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>代理访问模型</title>
-<link>https://blog.cloudflare.com/the-agent-access-model/</link>
-<guid isPermaLink="false">01KZ7MGHAX6C81BVS5AM1DRP2Q</guid>
-<pubDate>Wed, 05 Aug 2026 13:00:41 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】代理访问模型提出了一种新架构，通过严格的身份代理、持续调解和状态化信任来保护任务范围内的代理安全。<br/><br/><a href="https://blog.cloudflare.com/the-agent-access-model/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

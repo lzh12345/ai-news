@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80661": {
-"t": "Prime Intellect 发布 prime-rl 0.6.0，用于在智能体强化学习工作负载上训练万亿参数 MoE 模型",
-"s": "Prime Intellect 发布了 prime-rl 0.6.0，这是一个用于在万亿参数混合专家模型上进行异步强化学习的开放框架。该框架在 28 个 H200 节点上，以高达 131k 的序列长度、低于 5 分钟的步进时间和 256 次展开，在 SWE 任务上训练了 GLM-5。本文详细解析了这些数字背后的推理和训练优化——包括 FP8 推理、宽专家并行、预填充/解码分离、路由器重放以及 3D 并行（FSDP、EP、CP）。"
-},
 "https://www.marktechpost.com/?p=80658": {
 "t": "GLM-5.2 OpenAI兼容API：推理努力、函数调用与长上下文检索的实践指南",
 "s": "我们利用GLM-5.2托管的OpenAI兼容API构建了一个实用工作流，而非在本地运行模型。我们设置了多个提供商，安全加载API密钥，并创建了一个可复用的聊天封装器。随后，我们测试了思考努力控制、流式推理、函数调用、工具使用代理、结构化JSON输出以及长上下文检索。最后，我们进行了令牌和成本核算，确保每个演示都可量化。本文《GLM-5.2 OpenAI兼容API：推理努力、函数调用与长上下文检索的实践指南》首发于MarkTechPost。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work": {
 "t": "从提问到行动：全球如何将ChatGPT投入实际应用",
 "s": "OpenAI Signals的新数据显示了全球用户如何使用ChatGPT，提供了关于采用率、使用趋势及行为演变的国别洞察。"
+},
+"https://www.marktechpost.com/?p=81599": {
+"t": "Liquid AI发布LFM2.5-2.6B：一款具备128K上下文、工具调用及开放权重的端侧智能体模型",
+"s": "Liquid AI发布了LFM2.5-2.6B，这是一款智能体模型，能够完全在设备端进行规划、调用工具并完成多步骤任务。该模型拥有26.9亿参数，结合了22个双门控短卷积块和8个GQA块，分布在30层中，支持131,072个令牌的上下文长度，并在M5 Max上以每秒220个令牌的速度解码，占用内存不到2.5GB。开放权重以GGUF、MLX和ONNX格式提供。原文《Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights》首发于MarkTechPost。"
 }
 }
