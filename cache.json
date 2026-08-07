@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80658": {
-"t": "GLM-5.2 OpenAI兼容API：推理努力、函数调用与长上下文检索的实践指南",
-"s": "我们利用GLM-5.2托管的OpenAI兼容API构建了一个实用工作流，而非在本地运行模型。我们设置了多个提供商，安全加载API密钥，并创建了一个可复用的聊天封装器。随后，我们测试了思考努力控制、流式推理、函数调用、工具使用代理、结构化JSON输出以及长上下文检索。最后，我们进行了令牌和成本核算，确保每个演示都可量化。本文《GLM-5.2 OpenAI兼容API：推理努力、函数调用与长上下文检索的实践指南》首发于MarkTechPost。"
-},
-"https://huggingface.co/blog/local-models-pr-triage": {
-"t": "我们免费让本地模型对OpenClaw仓库进行了分诊！*",
-"s": ""
-},
-"https://the-decoder.com/?p=36927": {
-"t": "OpenAI称新版GPT-5.5-Cyber在网络安全基准测试中超越Anthropic的Mythos",
-"s": "OpenAI正在扩展其Daybreak网络安全计划，推出更新版Codex Security插件、完整的GPT-5.5-Cyber模型，以及一个包含超过25家安全公司和多个政府的合作伙伴网络。重点从发现漏洞转向自动修补漏洞。本文《OpenAI称新版GPT-5.5-Cyber在网络安全基准测试中超越Anthropic的Mythos》首发于The Decoder。"
-},
 "https://huggingface.co/blog/huggingface-hub-release-ci": {
 "t": "每周发布huggingface_hub，融合AI、开放工具与人工审核",
 "s": ""
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=81599": {
 "t": "Liquid AI发布LFM2.5-2.6B：一款具备128K上下文、工具调用及开放权重的端侧智能体模型",
 "s": "Liquid AI发布了LFM2.5-2.6B，这是一款智能体模型，能够完全在设备端进行规划、调用工具并完成多步骤任务。该模型拥有26.9亿参数，结合了22个双门控短卷积块和8个GQA块，分布在30层中，支持131,072个令牌的上下文长度，并在M5 Max上以每秒220个令牌的速度解码，占用内存不到2.5GB。开放权重以GGUF、MLX和ONNX格式提供。原文《Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights》首发于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3151093": {
+"t": "新墨西哥州法院责令Meta在儿童安全案中额外支付5.67亿美元",
+"s": "在此案中，Meta的罚款总额已累计至9.42亿美元"
+},
+"https://openai.com/index/hsp-gruppe": {
+"t": "HSP GRUPPE如何构建税务咨询的AI能力",
+"s": "了解HSP GRUPPE如何利用ChatGPT Enterprise提升生产力、改善工作质量，并为税务咨询和客户服务创造更多容量。"
+},
+"https://the-decoder.com/?p=38687": {
+"t": "亚马逊、Cursor、微软、OpenAI与Vercel联手制定AI代理插件共享标准",
+"s": "亚马逊、Cursor、微软、OpenAI和Vercel共同创建了Agent Plugins，这是一个开放标准，为AI代理扩展定义了统一的包格式。1.0.0版本采用plugin.json清单文件，并支持代理技能和MCP服务器。文章《亚马逊、Cursor、微软、OpenAI与Vercel联手制定AI代理插件共享标准》首发于The Decoder。"
 }
 }
