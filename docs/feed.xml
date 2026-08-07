@@ -5,8 +5,88 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 07 Aug 2026 12:43:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 16:43:43 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cloudflare推出Kitesurf，一款专为AI代理打造的浏览器</title>
+<link>https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151175</guid>
+<pubDate>Fri, 07 Aug 2026 16:16:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Cloudflare发布了Kitesurf，这是一款面向AI代理而非人类用户的云托管浏览器。该公司表示，该浏览器在执行常见自动化任务时比Chromium消耗更少的计算资源，帮助开发者更高效地构建基于浏览器的AI代理。<br/><br/><a href="https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>应对关键网络能力的新前沿</title>
+<link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
+<guid isPermaLink="false">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</guid>
+<pubDate>Fri, 07 Aug 2026 15:20:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI正在分享针对Astra的初步网络安全评估，以及我们为加强防护措施和安全控制所采取的步骤。<br/><br/><a href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Airbnb表示，AI正助其加快功能发布速度，并测试新搜索功能</title>
+<link>https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151106</guid>
+<pubDate>Fri, 07 Aug 2026 14:22:49 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Airbnb将推出一项由AI驱动的新搜索体验，并配备一个切换开关。<br/><br/><a href="https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>揭示代理互联网上的良好与不良行为</title>
+<link>https://blog.cloudflare.com/good-and-bad-agentic-behaviors/</link>
+<guid isPermaLink="false">01KZCHBWNB93JTTPTBKQZF0SG9</guid>
+<pubDate>Fri, 07 Aug 2026 13:01:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare正在将机器人缓解从时点风险评估转向持续信任评估。了解我们的系统（包括BotBase和Precursor）如何评估机器人和代理的新良好与不良行为——并尝试我们的Precursor Trace模拟，看看您自己的光标移动会被评估为人类还是机器人。<br/><br/><a href="https://blog.cloudflare.com/good-and-bad-agentic-behaviors/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出Radar Researcher：用自然语言探索互联网数据的AI工具</title>
+<link>https://blog.cloudflare.com/introducing-radar-researcher/</link>
+<guid isPermaLink="false">01KZCGVT7YXBW6BH8Y05159WAR</guid>
+<pubDate>Fri, 07 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare Radar Researcher是一款全新的AI驱动工具，让您能用自然语言探索全球互联网趋势和流量数据。它完全构建在Cloudflare的开发者平台上，将自然语言查询转化为真实、交互式的图表。<br/><br/><a href="https://blog.cloudflare.com/introducing-radar-researcher/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>宣布Cloudflare大使、社区工程师计划，并追加100万美元开源资金支持</title>
+<link>https://blog.cloudflare.com/community-program-refresh/</link>
+<guid isPermaLink="false">01KZCB7QVKW1EKYJAYCVTDKH4K</guid>
+<pubDate>Fri, 07 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们正在推出更新的社区项目，包括Cloudflare大使和社区工程师，并得到100万美元开源资金的支持。了解我们如何支持维护者并扩展开发者社区。<br/><br/><a href="https://blog.cloudflare.com/community-program-refresh/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>将 Workers AI 与 AI Gateway 统一为单一 AI 控制平面</title>
+<link>https://blog.cloudflare.com/workers-ai-gateway-unification/</link>
+<guid isPermaLink="false">01KZA4HFQTZ276N6FJQ3CS9ACG</guid>
+<pubDate>Fri, 07 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare 正在将 AI Gateway 和 Workers AI 整合为一个统一控制平面，为开发者提供跨托管 GPU 和外部提供商的观测性、计费和动态路由。了解统一绑定和模型优先路由如何简化构建弹性 AI 应用的过程。<br/><br/><a href="https://blog.cloudflare.com/workers-ai-gateway-unification/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>字节跳动正在开发中国最大的AI模型</title>
+<link>https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38693</guid>
+<pubDate>Fri, 07 Aug 2026 12:54:17 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据《金融时报》报道，字节跳动正在训练一个参数高达十万亿的AI模型。这一规模是月之暗面Kimi K3的三倍，后者目前是中国最大的模型。文章《中国最大的AI模型正在字节跳动开发》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>斯坦福与Arc研究所科学家利用AI设计新病毒，在实验室中杀灭细菌</title>
+<link>https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=27409</guid>
+<pubDate>Fri, 07 Aug 2026 12:50:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】加利福尼亚的一个研究团队利用人工智能设计了能够杀死细菌的功能性病毒，他们称之为“完整基因组的首次生成式设计”。据《麻省理工科技评论》报道，该项目标志着向AI设计生命形式迈出的早期一步。文章《斯坦福与Arc研究所科学家利用AI设计新病毒，在实验室中杀灭细菌》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI冰球大小的智能音箱，带活动部件，预计2027年发货</title>
+<link>https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38692</guid>
+<pubDate>Fri, 07 Aug 2026 12:45:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI计划中的智能音箱正在成形。据彭博社报道，该公司的首款硬件设备将呈甜甜圈形状，大小约相当于一个冰球，售价超过300美元。文章《OpenAI冰球大小的智能音箱，带活动部件，预计2027年发货》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>新墨西哥州法院责令Meta在儿童安全案中额外支付5.67亿美元</title>
 <link>https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/</link>
@@ -48,28 +128,36 @@
 <description><![CDATA[【the-decoder.com】OpenAI已更新GPT-5.6 Sol，提供更聚焦的回复，并新增推理滑块，让用户可调整模型思考的深度。自下周起，免费用户将可无限次使用较小的GPT-5.6 Luna进行文本聊天，并附有一个按钮，使Luna能进行更长时间的推理。但该较小模型仍远不及更大版本的性能。文章《OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>微软开源代码测试生成器：多语言单元测试代理任务完成率达92.1%，而标准Copilot为78.9%</title>
+<link>https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81603</guid>
+<pubDate>Fri, 07 Aug 2026 05:42:45 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】微软已开源代码测试生成器（code-testing-generator），这是一个多语言单元测试代理，现已在MIT许可的dotnet/skills仓库中发布。它在编写任何内容之前会先读取仓库——检测语言、测试框架、现有约定以及真实的构建和测试命令——然后规划、编写、运行并验证其生成的测试。在微软内部的152任务基准测试中，它完成了140个任务，而标准GitHub Copilot在同一模型上完成了120个，增益几乎完全集中在模糊提示和针对差异的请求上。文章《微软开源代码测试生成器》进一步详述了这一成果。<br/><br/><a href="https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI发布LFM2.5-2.6B：一款具备128K上下文、工具调用及开放权重的端侧智能体模型</title>
+<link>https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81599</guid>
+<pubDate>Fri, 07 Aug 2026 03:42:27 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI发布了LFM2.5-2.6B，这是一款智能体模型，能够完全在设备端进行规划、调用工具并完成多步骤任务。该模型拥有26.9亿参数，结合了22个双门控短卷积块和8个GQA块，分布在30层中，支持131,072个令牌的上下文长度，并在M5 Max上以每秒220个令牌的速度解码，占用内存不到2.5GB。开放权重以GGUF、MLX和ONNX格式提供。原文《Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>缩放分类流映射</title>
+<link>https://machinelearning.apple.com/research/scaling-categorical-flow-maps</link>
+<guid isPermaLink="false">scaling-categorical-flow-maps</guid>
+<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】连续扩散和流匹配模型可能成为语言建模（LM）中自回归方法的有力替代方案，因为它们解锁了目前仅适用于连续模态的一系列优势，包括加速采样和倾斜。近期，多项研究展示了通过高斯分布与独热编码数据分布之间的简单流匹配过程，连续生成离散数据的可能性。他们进一步证明了通过分类流映射（CFMs）实现加速采样的可行性，从而产生具有竞争力的样本……<br/><br/><a href="https://machinelearning.apple.com/research/scaling-categorical-flow-maps">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI新型AI智能音箱据报售价将在300至400美元之间</title>
 <link>https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151017</guid>
 <pubDate>Thu, 06 Aug 2026 22:43:53 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】关于OpenAI神秘新AI设备的更多细节显示，它可能是一款价格不菲的智能音箱。<br/><br/><a href="https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Suno希望通过为AI生成音乐添加水印来走向合法化</title>
-<link>https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/</guid>
-<pubDate>Thu, 06 Aug 2026 20:17:36 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Suno计划引入水印和下载限制，以防止“大规模滥用”。<br/><br/><a href="https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic将自主研发硬件以驱动Claude</title>
-<link>https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/</guid>
-<pubDate>Thu, 06 Aug 2026 20:03:44 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Anthropic与OpenAI正竞相扩大规模，同时减少对Nvidia的依赖。<br/><br/><a href="https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GitHub Copilot 应用中的斜杠命令指南</title>
@@ -80,12 +168,12 @@
 <description><![CDATA[【github.blog】通过GitHub Copilot应用中的这些斜杠命令，超越简单的聊天功能。它们将帮助您规划、协作、自动化并定制开发工作流程。这篇文章《GitHub Copilot 应用中的斜杠命令指南》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>大型基因组模型用于设计新病毒</title>
-<link>https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/</link>
-<guid isPermaLink="false">https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/</guid>
-<pubDate>Thu, 06 Aug 2026 19:04:57 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】该AI系统能够制造出与细菌杀伤病毒在遗传上相距甚远的版本。<br/><br/><a href="https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/">阅读原文</a>]]></description>
+<title>Cloudflare 推出 Kitesurf：一款完全运行在 Cloudflare Workers 的 V8 隔离环境中的代理优先网页浏览器</title>
+<link>https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81594</guid>
+<pubDate>Thu, 06 Aug 2026 19:35:32 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cloudflare 发布了 Kitesurf，这是一款专为 AI 代理构建的无状态网页浏览器，完全运行在 Cloudflare Workers 的 V8 隔离环境中，底层无需 Chromium。该浏览器摒弃了标签页和扩展等面向人类的功能，转而聚焦代理所需：机器可读内容、可扩展性和隔离性。它利用 Rust 组件（如 Blitz、Stylo 和 Boa JS）在 12 周内构建完成，已通过 215,000 多项 Web 平台测试。基准测试显示，在截图和 HTML 提取方面，其 CPU 使用量比 Chromium 低 3.1–3.8 倍，内存使用量低 4.7–7.0 倍。现有的 Puppeteer、Playwright 和 MCP 客户端均可兼容。<br/><br/><a href="https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Deepmind人才流失或源于芯片短缺、利益冲突及谷歌官僚体制</title>
@@ -112,6 +200,14 @@
 <description><![CDATA[【techcrunch.com】OpenAI表示，ChatGPT免费版和Go用户也将获得一个新的“思考”按钮，用于处理复杂查询。<br/><br/><a href="https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>使用Meta的Ax进行自适应实验：实用编码指南</title>
+<link>https://www.marktechpost.com/2026/08/06/adaptive-experimentation-with-metas-ax-a-practical-coding-guide/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81591</guid>
+<pubDate>Thu, 06 Aug 2026 17:17:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们探讨了使用Meta的Ax与现代客户端API进行自适应实验的方法。我们完成了一个完整的工作流程，在合成分类数据集上调整随机森林模型，同时平衡预测准确性与模型规模。我们首先定义了一个包含整数、浮点数、对数缩放和分类参数的混合搜索空间，然后[...] 该文章《使用Meta的Ax进行自适应实验：实用编码指南》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/06/adaptive-experimentation-with-metas-ax-a-practical-coding-guide/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Naïve融资2850万美元，自动化公司设立与运营的繁琐工作</title>
 <link>https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3150524</guid>
@@ -134,14 +230,6 @@
 <pubDate>Thu, 06 Aug 2026 16:33:59 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Composio 在四个智能体框架上测试了 Deepseek V4 Flash，涉及30个真实世界任务。成功率大多相近，但成本差异接近3倍：OpenCode 以每任务0.073美元成为最便宜选项，而 Claude Code 尽管使用了最少的工具调用和输出令牌，成本却高达0.195美元。框架的选择主要取决于价格和速度。文章《Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare开源面向非程序员的vibe-coding平台</title>
-<link>https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/</guid>
-<pubDate>Thu, 06 Aug 2026 16:15:30 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Cloudflare为其员工构建了一个AI代理工作空间。现在，它已开源。<br/><br/><a href="https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Z世代约会应用Ditto弃用滑动，转向AI匹配</title>
@@ -248,14 +336,6 @@
 <description><![CDATA[【blog.cloudflare.com】今天，我们在Cloudflare上推出了WebMCP的开发者预览版。只需一个开关，任何网站都能被浏览器AI代理使用——无需新API，无需更改源站——同时人类保持控制权，创作者保留其流量。<br/><br/><a href="https://blog.cloudflare.com/webmcp/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>让开放权重成为主流的公司，如今在折扣上展开竞争</title>
-<link>https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38655</guid>
-<pubDate>Thu, 06 Aug 2026 12:31:52 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta发布了Muse Spark 1.2及其自有的编程代理Muse Code，后者旨在崩溃后能准确从断点继续工作。最便宜的层级每百万输出令牌仅需20美分，但要求用户共享数据用于训练。Meta正以价格而非顶级性能进行竞争，且在基准测试中存在明显差距。文章《让开放权重成为主流的公司，如今在折扣上展开竞争》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>谷歌地图新增智能代理功能，涵盖订餐与酒店预订</title>
 <link>https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3150297</guid>
@@ -272,28 +352,20 @@
 <description><![CDATA[【techcrunch.com】这轮B轮融资是该公司自2020年上次融资以来的第二次融资。在此期间，其年度经常性收入增长了10倍，达到6000万美元。<br/><br/><a href="https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>仅靠AI不足以保护社交媒体社区免受AI影响</title>
-<link>https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</guid>
-<pubDate>Thu, 06 Aug 2026 11:00:44 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】为何人类需要监管人类。<br/><br/><a href="https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI开发者警告：“百万模型的不知疲倦鹰眼”正瞄准你暴露的API密钥和加密钱包</title>
-<link>https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38644</guid>
-<pubDate>Thu, 06 Aug 2026 10:11:02 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI开发者“roon”在X上警告称，AI模型可能很快开始大规模扫描暴露的API密钥、加密钱包和登录凭据。他的警告紧随OpenAI自主入侵Hugging Face事件之后，他称之为“警示信号”。文章《OpenAI开发者警告：“百万模型的不知疲倦鹰眼”正瞄准你暴露的API密钥和加密钱包》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>在ChatGPT中改进GPT-5.6 Sol——并扩大免费用户对GPT-5.6 Luna的访问权限</title>
 <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
 <guid isPermaLink="false">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</guid>
 <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】ChatGPT推出了改进版GPT-5.6 Sol，提升了准确性和一致性，同时扩大了免费用户的访问权限，并提供了对GPT-5.6 Luna的无限日常聊天支持。<br/><br/><a href="https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Prime Intellect发布Prime Agent：一个开源RLM工具，子代理作为持久化IPython内核中的函数调用</title>
+<link>https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81586</guid>
+<pubDate>Thu, 06 Aug 2026 09:00:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Prime Intellect已将Prime Agent开源，这是一个基于两种抽象构建的编码与研究工具：递归语言模型（Recursive Language Model），它将子代理调用转化为持久化IPython内核中的函数；以及持续工具（Continual Harness），它允许代理在运行过程中编辑自身的提示、技能、记忆和子代理规格。使用Opus 5，它在ARC-AGI-3上报告了95.5%的RHAE Best@1，高于报告的人类专家基线95.4%。文章《Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel》首发于MarkTe。<br/><br/><a href="https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>与美国心理学会合作，关注青少年心理健康与人工智能</title>
@@ -304,12 +376,12 @@
 <description><![CDATA[【openai.com】OpenAI与美国心理学会共同推进基于证据的指导、资源及保障措施，以促进负责任的人工智能使用和青少年心理健康。<br/><br/><a href="https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Baseten 登陆 Hugging Face 推理提供商 🔥</title>
-<link>https://huggingface.co/blog/baseten</link>
-<guid isPermaLink="false">https://huggingface.co/blog/baseten</guid>
-<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/baseten">阅读原文</a>]]></description>
+<title>微软SkillOpt展示优化后的智能体技能工件可在不同模型规模间及Codex与Claude Code工具间迁移</title>
+<link>https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81582</guid>
+<pubDate>Thu, 06 Aug 2026 00:37:42 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】关于微软SkillOpt的大多数报道都聚焦于其52/52的成绩。更重要的发现在第4.3节：导出的best_skill.md在从未训练过的环境中依然有效。一个在Codex上训练的SpreadsheetBench技能将Claude Code的成绩从22.1提升至81.8，略高于该工具自行训练技能所达到的80.4。保留效果因任务类型而异——电子表格任务为102%，数学任务为10%——这正是值得细读该结果的原因。<br/><br/><a href="https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>通过深度低秩残差蒸馏锁定预训练权重</title>
@@ -344,6 +416,14 @@
 <description><![CDATA[【blog.cloudflare.com】我们荣幸地宣布，Cloudflare是唯一一家在2026年Gartner® SASE平台魔法象限™和2026年Gartner®安全服务边缘魔法象限™报告中均被评为远见者的供应商。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>使用Google Meridian进行端到端贝叶斯营销组合建模：媒体测量、ROI分析与预算优化</title>
+<link>https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81579</guid>
+<pubDate>Wed, 05 Aug 2026 21:56:03 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用Google Meridian构建了一个完整的贝叶斯营销组合建模工作流程。我们首先安装所需的库，验证GPU可用性，并探索一个包含媒体曝光、支出、控制变量、促销、转化、人口和收入的地理级别营销数据集。然后，我们将原始列映射到Meridian的数据模式，定义可解释的基于ROI的[...] 该文章《使用Google Meridian进行端到端贝叶斯营销组合建模：媒体测量、ROI分析与预算优化》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Meta推出Muse Code，面向大型代码库的AI代理</title>
 <link>https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3150382</guid>
@@ -352,12 +432,12 @@
 <description><![CDATA[【techcrunch.com】Meta扩展了其AI编程产品线，推出了一款新代理，并承诺该代理能够处理复杂软件中的复杂任务。<br/><br/><a href="https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic的AI在针对GitHub项目的恶意攻击中使用虚假身份和恶意软件</title>
-<link>https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/</guid>
-<pubDate>Wed, 05 Aug 2026 20:47:11 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Anthropic和OpenAI模型未经提示的行为迫使英国网络测试暂停。<br/><br/><a href="https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/">阅读原文</a>]]></description>
+<title>Meta AI发布Muse Code（测试版）：由全新Muse Spark 1.2模型驱动的终端编码代理</title>
+<link>https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81572</guid>
+<pubDate>Wed, 05 Aug 2026 20:07:32 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Meta超级智能实验室发布了Muse Code，一款处于测试阶段的终端编码代理，由全新的Muse Spark 1.2模型驱动。Muse Code能在大型代码库中规划变更、编写代码并验证结果。异步后台代理在整个会话期间保持活跃，而非按任务生成。本地追加式事件日志使运行时具备精确重放能力，并在崩溃后可安全重启。Muse Spark 1.2与工具链协同训练，并针对长周期、仓库级任务进行了训练。<br/><br/><a href="https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Klaviyo收购Elias Torres的Agency，科技创始人圆满重聚</title>
@@ -368,36 +448,12 @@
 <description><![CDATA[【techcrunch.com】这位连续创业者加入电商公司担任首席产品官，负责领导其AI代理业务。<br/><br/><a href="https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Reddit暗示旧版reddit.com即将迎来“重大变革”</title>
-<link>https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/</guid>
-<pubDate>Wed, 05 Aug 2026 20:01:32 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Reddit表示，这个备受喜爱的网站被用于一些“不良行为”。<br/><br/><a href="https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hank Green发现了YouTube标签无法捕捉的AI问题</title>
-<link>https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/</guid>
-<pubDate>Wed, 05 Aug 2026 19:51:40 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】“垃圾内容”并非唯一的问题。<br/><br/><a href="https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Jeff Dean等顶尖AI研究员离开谷歌，共同创立新创企</title>
 <link>https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3150299</guid>
 <pubDate>Wed, 05 Aug 2026 19:30:19 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】这位谷歌传奇高管与其他离职高管联手，旨在利用人工智能推动科学发现的进程。<br/><br/><a href="https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌DeepMind同时失去CEO和首席科学家，德米斯·哈萨比斯与杰夫·迪恩双双卸任</title>
-<link>https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38631</guid>
-<pubDate>Wed, 05 Aug 2026 18:20:53 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】谷歌DeepMind正在进行领导层重组，德米斯·哈萨比斯退出日常管理，转任Alphabet首席科学家，而杰夫·迪恩在谷歌工作27年后离职，创办AI初创公司Discovery Loop。前DeepMind首席技术官科拉伊·卡武库乔格卢将接任，谷歌正努力缩小与顶尖AI竞争对手的差距。文章《谷歌DeepMind同时失去CEO和首席科学家，德米斯·哈萨比斯与杰夫·迪恩双双卸任》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Shopify称AI搜索正带动更多流量和销售，而非取代谷歌</title>
@@ -416,14 +472,6 @@
 <description><![CDATA[【techcrunch.com】Hark声称其浏览器使用代理比竞争对手更快、更便宜。<br/><br/><a href="https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>谷歌计划于9月4日终止手机上的Assistant服务</title>
-<link>https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/</guid>
-<pubDate>Wed, 05 Aug 2026 15:30:02 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】在未来几周内，Assistant将消失，仅保留Gemini用于语音控制。<br/><br/><a href="https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>TechCrunch Disrupt 2026“现实世界AI”舞台聚焦机器人、自动化工厂与灭绝动物</title>
 <link>https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3149903</guid>
@@ -438,54 +486,6 @@
 <pubDate>Wed, 05 Aug 2026 14:13:18 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Anthropic正在组建一支团队，用于设计其自有的定制AI芯片。这家Claude的制造商表示，将协同设计硬件与模型，以帮助其技术运行得更快、更高效。<br/><br/><a href="https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>SpaceX首份财报令投资者震惊</title>
-<link>https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/</guid>
-<pubDate>Wed, 05 Aug 2026 13:59:17 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】尽管集团表示其季度营收几乎翻倍，但盘前交易中股价仍下滑。<br/><br/><a href="https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>代理访问模型</title>
-<link>https://blog.cloudflare.com/the-agent-access-model/</link>
-<guid isPermaLink="false">01KZ7MGHAX6C81BVS5AM1DRP2Q</guid>
-<pubDate>Wed, 05 Aug 2026 13:00:41 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】代理访问模型提出了一种新架构，通过严格的身份代理、持续调解和状态化信任来保护任务范围内的代理安全。<br/><br/><a href="https://blog.cloudflare.com/the-agent-access-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>我们如何通过Cloudflare OS重新思考Cloudflare的工作方式</title>
-<link>https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/</link>
-<guid isPermaLink="false">01KZ7KS18W44EAET2511C0NY3V</guid>
-<pubDate>Wed, 05 Aug 2026 13:00:01 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】我们构建了Cloudflare OS，旨在让我们的团队能够安全地重新思考如何利用AI完成工作。该平台整合了我们最优秀的技术，从计算原语到零信任套件。这篇文章回顾了我们的历程，旨在为用户提供最优质的AI工具。<br/><br/><a href="https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare OS：面向智能体、应用与工作的开放平台</title>
-<link>https://blog.cloudflare.com/cloudflare-os/</link>
-<guid isPermaLink="false">01KZ7PERAEJK3G9KDWDQ3BXZZQ</guid>
-<pubDate>Wed, 05 Aug 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare OS是一个开源平台，让公司内的每个人都能构建应用、自动化工作，并安全访问内部系统，其设计围绕组织的知识体系与运作方式展开。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-os/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>WriteGuard：为MCP服务器提供细粒度控制</title>
-<link>https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/</link>
-<guid isPermaLink="false">01KZ7CKXC5ECVNAP2GSTX54B48</guid>
-<pubDate>Wed, 05 Aug 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】在Cloudflare，我们深知无法依赖每位员工完美配置每个代理或监控每次工具调用。在扩大内部MCP服务器的写权限之前，我们构建了WriteGuard。现在，我们正通过私有测试版将这些控制功能引入Cloudflare MCP服务器门户。<br/><br/><a href="https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用身份感知分析捕捉AI异常行为</title>
-<link>https://blog.cloudflare.com/identity-aware-ai-gateway/</link>
-<guid isPermaLink="false">01KZ7B5XMX7JB1E4KZZP5QRR9P</guid>
-<pubDate>Wed, 05 Aug 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】身份感知AI网关现已进入公开测试阶段。用户洞察功能将流量转化为每个人和代理的行为基线，并在内部风险出现时立即标记。<br/><br/><a href="https://blog.cloudflare.com/identity-aware-ai-gateway/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
