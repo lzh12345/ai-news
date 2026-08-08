@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 08 Aug 2026 01:00:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 04:47:54 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mistral AI发布Shieldstral 1.0 3B：一款开放权重、策略自适应的多模态安全分类器，性能媲美其7倍大小的模型</title>
+<link>https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81620</guid>
+<pubDate>Sat, 08 Aug 2026 04:36:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Mistral AI发布了Shieldstral 1.0 3B，这是一款开放权重、策略自适应的多模态安全分类器，将内容审核框架化为一个简单的“是/否”问题，而非固定的危害分类体系。操作者可在推理时以自然语言查询的形式提供策略，并通过一次前向传播获得校准的安全评分——无需重新训练即可调整模型目标。该模型基于Ministral-3-3B-Base-2512构建，配备Pixtral视觉编码器，并在约5410万个样本上训练，报告显示其在文本安全方面的平均F1分数为84.9%（与GPT-OSS-Safeguard-20B相当），多模态安全方面为83.8%，以及91.3%的……<br/><br/><a href="https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI称因安全顾虑放缓Astra模型开发</title>
 <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】这轮B轮融资是该公司自2020年上次融资以来的第二次融资。在此期间，其年度经常性收入增长了10倍，达到6000万美元。<br/><br/><a href="https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>仅靠AI不足以保护社交媒体社区免受AI影响</title>
-<link>https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</guid>
-<pubDate>Thu, 06 Aug 2026 11:00:44 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】为何人类需要监管人类。<br/><br/><a href="https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
