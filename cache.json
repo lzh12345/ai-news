@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3135849": {
-"t": "企业纷纷采取措施，防止员工因处理小任务而耗尽AI预算",
-"s": "Tokenmaxxing时代短暂。如今，我们似乎正步入Token配给时代。"
-},
-"https://www.marktechpost.com/?p=80696": {
-"t": "Gradium 推出 stt-translate 和 s2s-translate，实时语音翻译模型在准确性和延迟上超越 gpt-realtime-translate",
-"s": "Gradium 发布了两款实时语音翻译模型 stt-translate 和 s2s-translate，覆盖英语、法语、德语、西班牙语和葡萄牙语，共 20 种语言对。这些模型将标准的三模型级联简化为两个，通过单程 WebSocket 将单次转录与翻译结合，并搭配 Gradium TTS 阶段。Gradium 报告称，其模型在准确性与延迟的权衡上优于 gpt-realtime-translate 和 gemini-3.5-live-translate，同时支持输出语音选择和克隆。"
-},
-"https://the-decoder.com/?p=36977": {
-"t": "OpenAI称ChatGPT Instant现在能更好地理解用户真实意图",
-"s": "OpenAI正在更新其最常用的ChatGPT模型GPT-5.5 Instant。此次更新聚焦于对话质量，提升了意图识别能力、多轮对话的上下文理解，以及对复杂多条件提示的处理可靠性。本文《OpenAI称ChatGPT Instant现在能更好地理解用户真实意图》首发于The Decoder。"
-},
 "https://www.marktechpost.com/?p=80693": {
 "t": "如何设计一个具备工具、记忆、权限、技能和多智能体协调能力的OpenHarness风格智能体运行时",
 "s": "在本教程中，我们将从零开始构建一个OpenHarness风格的智能体框架，以了解实际智能体系统的工作原理。我们将重新创建核心构建模块：工具使用、类型化工具模式、权限、生命周期钩子、记忆、技能、上下文压缩、重试逻辑、成本跟踪以及多智能体协调。我们将暴露完整的控制流程，而不是将框架视为黑盒。我们保持所有代码可运行，因此无需API密钥或额外基础设施即可进行实验。"
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=81626": {
 "t": "使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出",
 "s": "深入了解Reflex XY Python库的高级可视化功能。本教程指导您构建高性能、交互式图表——从处理百万点数据集和实时流式处理，到创建自定义标记插件和导出出版级视觉效果。文章《使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出》最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=38766": {
+"t": "Anthropic将Claude Code默认设为自动模式，以保护开发者免受不良审批影响",
+"s": "自8月14日起，Anthropic将把Claude Code中的自动模式设为Pro、Max和Team计划的默认选项。公司表示这更安全。在测试中，分类器捕捉到了89%的危险命令，而人工审查员仅捕捉到13.6%。对于最广泛使用的AI编码工具而言，这意味着开发者正进一步从编写代码转向监控AI输出。文章《Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38758": {
+"t": "读者在得知故事由机器撰写前，对AI生成的短篇小说评价高于人类作品",
+"s": "一项新研究显示，人们无法区分ChatGPT生成的短篇小说与人类创作的作品。超过2500名参与者的表现仅相当于随机猜测。实际上，AI生成的文本获得了更高的评分，但一旦参与者得知这些故事由机器撰写，评分便随之下降。本文《读者在得知故事由机器撰写前，对AI生成的短篇小说评价高于人类作品》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=38751": {
+"t": "Claude Code会话现在可以相互通信，并在终端间共享上下文",
+"s": "Claude Code现在允许会话之间相互通信。在macOS和Linux系统上，并行运行的实例可以发送消息、分享见解，并检查彼此的状态。文章《Claude Code sessions can now talk to each other and share context across terminals》最初出现在The Decoder上。"
 }
 }
