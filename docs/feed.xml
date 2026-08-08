@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 08 Aug 2026 16:22:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 20:19:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI 收购演示文稿初创公司 NextSlide</title>
+<link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151377</guid>
+<pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】NextSlide 表示其团队成员现正致力于 ChatGPT 的开发工作。<br/><br/><a href="https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic将Claude Code默认设为自动模式，以保护开发者免受不良审批影响</title>
 <link>https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/</link>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】集成搜索工具的大型语言模型（LLMs）在开放域问答（QA）中展现出强大潜力，但面对诸如“电影《盗火线》中哪位演员至少获得过一次奥斯卡奖？”这类复杂问题时，它们往往难以生成完整的答案集。这类问题要求（1）区分共享同一片名的多部电影，以及（2）在大量演员中进行推理以收集和整合证据。现有的QA基准很少同时评估这两个挑战。为解决这一问题，我们引入了DEEPAMBIGQAGEN，一种自动数据生成流水线，用于构建QA…<br/><br/><a href="https://machinelearning.apple.com/research/deepambigqa-multihop-questions">阅读原文</a>]]></description>
-</item>
-<item>
-<title>从提问到行动：全球如何将ChatGPT投入实际应用</title>
-<link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
-<guid isPermaLink="false">https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</guid>
-<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI Signals的新数据显示了全球用户如何使用ChatGPT，提供了关于采用率、使用趋势及行为演变的国别洞察。<br/><br/><a href="https://openai.com/index/how-the-world-is-putting-chatgpt-to-work">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
