@@ -1,32 +1,4 @@
 {
-"https://the-decoder.com/?p=36955": {
-"t": "OpenAI与博通联合推出专为LLM推理设计的定制芯片\"Jalapeño\"",
-"s": "OpenAI正在为其技术栈增添定制硬件。这款与博通合作开发的\"Jalapeño\"芯片专为大语言模型推理而设计，预计将于2026年底实现规模化运行。本文《OpenAI与博通联合推出专为LLM推理设计的定制芯片\"Jalapeño\"》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36951": {
-"t": "OpenAI部署主管谈Codex增长、AI价格下降及投资回报率问题",
-"s": "OpenAI部署主管Arnaud Fournier在接受采访时解释了DeployCo如何利用自身工程师将AI深度嵌入大型企业。他谈及了Codex的爆发式增长、客户反馈如何反哺模型开发，以及他认为AI智能价格大幅下降的原因。本文《OpenAI部署主管谈Codex增长、AI价格下降及投资回报率问题》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36948": {
-"t": "Pangram CEO称语言模型因论点雷同而暴露自身",
-"s": "语言模型可能比大多数人写出的文章更整洁，但若要求其就某一主题提出100个论点，这些论点会高度聚集。Pangram首席执行官Max Spero表示，人类推理的多样性远超于此，而这正是可能暴露AI之处。本文《Pangram CEO称语言模型因论点雷同而暴露自身》最初发表于The Decoder。"
-},
-"https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
-"t": "OpenAI与博通推出针对LLM推理优化的芯片",
-"s": "OpenAI和博通联合推出Jalapeño，这是一款专为LLM推理设计的定制AI芯片，旨在提升AI系统的性能、效率和扩展能力。"
-},
-"77AgsHNNnpUDvP0Z6gqgp6": {
-"t": "通过OAuth为所有开发者解锁Cloudflare应用生态系统",
-"s": "自管理OAuth现已面向Cloudflare上的所有开发者开放。以下是我们在零停机迁移核心OAuth引擎过程中所采取的实现方式。"
-},
-"https://techcrunch.com/?p=3135724": {
-"t": "Facebook 为创作者推出AI伴侣应用",
-"s": "这款新应用目前正在与部分创作者进行测试，其中内置了Facebook最近推出的AI创作者助手。"
-},
-"https://the-decoder.com/?p=36960": {
-"t": "Snowflake CEO发现GLM-5.2以极低成本与Opus 4.7竞争",
-"s": "智谱AI的GLM-5.2在Snowflake基准测试中，以每输出token五分之一的价格，在103个编码任务上几乎与Claude Opus 4.7持平。但该中国模型每个任务消耗的token数几乎是后者的两倍。尽管如此，这一价格差距正给Anthropic和OpenAI带来实际压力，并可能动摇西方AI实验室的估值。本文《Snowflake CEO发现GLM-5.2以极低成本与Opus 4.7竞争》首发于The Decoder。"
-},
 "https://the-decoder.com/?p=36964": {
 "t": "Figma在Config 2026押注人类判断力，但其画布背后的AI却属于他人",
 "s": "在Config 2026大会上，Figma将其画布转变为一个集代码、动画、着色器和AI代理于一体的完整工作空间。但驱动这一切的智能能力均来自API提供商，这挤压了利润空间。而其中一家提供商如今正在构建与之竞争的设计工具。本文《Figma在Config 2026押注人类判断力，但其画布背后的AI却属于他人》首发于The Decoder。"
@@ -4798,5 +4770,33 @@
 "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/": {
 "t": "字节跳动训练大规模AI模型，意在挑战Anthropic",
 "s": "TikTok母公司正在训练一个拥有10万亿参数的模型。"
+},
+"https://techcrunch.com/?p=3151331": {
+"t": "OpenAI称因安全顾虑放缓Astra模型开发",
+"s": "OpenAI表示，这款仍在开发中的模型已达到其“关键网络安全阈值”，意味着它能够独立识别并对传统上防护良好的现实世界系统发起网络攻击。"
+},
+"https://www.marktechpost.com/?p=81617": {
+"t": "腾讯云开源TencentDB Agent Memory v2.0：面向AI编程代理的团队级记忆中心",
+"s": "腾讯云已开源TencentDB Agent Memory v2.0，这是一个团队级记忆中心，可将对话、文档和代码转化为四种受管且可复用的资产——聊天记忆、技能、LLM维基和代码图谱。该项目采用MIT许可证，可通过Docker自托管，并集成了Claude Code、OpenClaw、Hermes和CodeBuddy。其差异化优势不在于检索，而在于治理：基于ACL的可见性决定了哪个代理可访问哪些资产，以及哪个版本有效。原文《腾讯云开源TencentDB Agent Memory v2.0：面向AI编程代理的团队级记忆中心》首发于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3151218": {
+"t": "Rippling数月烧掉数百万于AI后，打造员工投资回报率工具",
+"s": "在自身AI使用警钟敲响后，Rippling本周推出了AI Spend Console，这是一款追踪员工个人及团队AI支出的产品。"
+},
+"https://www.marktechpost.com/?p=81613": {
+"t": "使用NVIDIA NeMo Retriever、托管NIM、LanceDB、重排序及基于事实的生成构建多模态RAG管道",
+"s": "在本教程中，我们使用NVIDIA NeMo Retriever构建了一个先进的多模态检索增强生成管道。我们首先配置Python 3.12环境，安装所需包，并在不依赖GPU或外部API密钥的情况下进行离线PDF文本提取。随后，我们通过托管NVIDIA NIM端点扩展工作流程，以检测页面[…] 该文章《使用NVIDIA NeMo Retriever、托管NIM、LanceDB、重排序及基于事实的生成构建多模态RAG管道》最初出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=81609": {
+"t": "NVIDIA AI发布NOOA：一个面向对象的Python框架，将AI代理转化为单一Python类",
+"s": "NVIDIA实验室已开源NOOA（NVIDIA面向对象代理），这是一个模型无关的Python框架，用于构建AI代理。当前代理开发分散在提示模板、工具模式、回调代码和工作流图中。NOOA将所有内容整合到一个Python类中。方法是模型可以采取的动作。字段是代理状态。文档字符串是提示。[…] 该文章首次出现在MarkTechPost上。"
+},
+"diffusion-autoregressive-performance": {
+"t": "超越下一个词元预测：扩散式与自回归语言模型的性能特征对比研究",
+"s": "大型语言模型（LLMs）已在广泛自然语言处理（NLP）任务中达到最先进性能，包括文档处理和代码生成。自回归语言模型（ARMs）通过依次生成词元并基于所有先前词元进行条件化，一直是LLMs的主导范式。尽管这些模型在多种下游任务中实现了高精度，但由于下一个词元预测中固有的顺序依赖性，它们表现出较低的算术强度。近期，扩散语言模型（DLMs）作为一种有前景的替代方案崭露头角……"
+},
+"arbitrage-efficient-reasoning": {
+"t": "套利：通过优势感知推测实现高效推理",
+"s": "现代大型语言模型通过长思维链实现了令人印象深刻的推理能力，但这在推理过程中带来了巨大的计算成本，因此推动了提升性能-成本比的技术发展。在这些技术中，推测解码通过使用快速但不精确的草稿模型自回归地提出令牌，然后由更强大的目标模型并行验证这些令牌，从而加速推理。然而，由于在语义等价步骤中令牌不匹配导致的不必要拒绝，传统的令牌级推测解码……"
 }
 }
