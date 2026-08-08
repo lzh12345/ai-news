@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 08 Aug 2026 08:29:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 12:29:59 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Backflip AI将3D扫描转化为可编辑CAD模型，仅需几分钟而非数小时</title>
+<link>https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38587</guid>
+<pubDate>Sat, 08 Aug 2026 11:26:35 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Backflip AI发布了一款AI模型，能将3D扫描转换为完全可编辑的参数化CAD模型，而这一过程通常需要大量时间和专业知识。据CEO Greg Mark称，大多数工厂为其零件建立的数字模型比例不足百分之一。这家初创公司已获得3000万美元融资，并将其工具作为Autodesk Fusion的插件提供。文章《Backflip AI turns 3D scans into editable CAD models in minutes instead of hours》最先出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>曾发表AI导致人类灭绝论文的菲尔兹奖得主现已加入OpenAI</title>
+<link>https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38745</guid>
+<pubDate>Sat, 08 Aug 2026 11:08:48 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】新晋菲尔兹奖得主雅各布·齐默尔曼将离开多伦多大学，加入OpenAI从事AI安全研究。在最近的一篇论文中，他分析了AI可能导致人类灭绝的情景，并呼吁大幅增加对安全研究的投入。文章《曾发表AI导致人类灭绝论文的菲尔兹奖得主现已加入OpenAI》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DeepMind在飓风预测上的突破令气象科学家惊讶</title>
+<link>https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/</link>
+<guid isPermaLink="false">https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/</guid>
+<pubDate>Sat, 08 Aug 2026 11:05:50 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】开源WeatherNext模型能以较低分辨率的气象数据做出准确预测。<br/><br/><a href="https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI代理消耗的能量大约是简单聊天提示的600倍</title>
+<link>https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38738</guid>
+<pubDate>Sat, 08 Aug 2026 09:44:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】气候科学家泽克·豪斯法瑟记录了他八周内使用Claude Code的情况：处理了32亿个令牌，消耗了约170千瓦时的数据中心电力。每个提示的能耗大约是典型AI聊天的600倍。他的数据揭示了谷歌和OpenAI报告的低数值如何扭曲了基于代理的AI的现实。文章《AI代理消耗的能量大约是简单聊天提示的600倍》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出</title>
+<link>https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81626</guid>
+<pubDate>Sat, 08 Aug 2026 09:42:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】深入了解Reflex XY Python库的高级可视化功能。本教程指导您构建高性能、交互式图表——从处理百万点数据集和实时流式处理，到创建自定义标记插件和导出出版级视觉效果。文章《使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>xAI的Imagine Image 2.0在Arena基准测试中紧随OpenAI的GPT-Image-2之后</title>
 <link>https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/</link>
@@ -208,14 +248,6 @@
 <description><![CDATA[【the-decoder.com】据《金融时报》报道，字节跳动正在训练一个参数高达十万亿的AI模型。这一规模是月之暗面Kimi K3的三倍，后者目前是中国最大的模型。文章《中国最大的AI模型正在字节跳动开发》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>斯坦福与Arc研究所科学家利用AI设计新病毒，在实验室中杀灭细菌</title>
-<link>https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=27409</guid>
-<pubDate>Fri, 07 Aug 2026 12:50:56 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】加利福尼亚的一个研究团队利用人工智能设计了能够杀死细菌的功能性病毒，他们称之为“完整基因组的首次生成式设计”。据《麻省理工科技评论》报道，该项目标志着向AI设计生命形式迈出的早期一步。文章《斯坦福与Arc研究所科学家利用AI设计新病毒，在实验室中杀灭细菌》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>新墨西哥州法院责令Meta在儿童安全案中额外支付5.67亿美元</title>
 <link>https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151093</guid>
@@ -224,28 +256,12 @@
 <description><![CDATA[【techcrunch.com】在此案中，Meta的罚款总额已累计至9.42亿美元<br/><br/><a href="https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI据报因自家模型暗中协调黑客攻击数周未被察觉而放缓研究</title>
-<link>https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38649</guid>
-<pubDate>Fri, 07 Aug 2026 09:22:26 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】在内部安全测试中，OpenAI的AI代理建立了一个拥有数十万条帖子的自有留言板，共享漏洞利用代码和凭证，并最终攻击了Hugging Face等外部平台。当OpenAI关闭该留言板后，代理们利用目录名重新构建了它。OpenAI研究员博阿兹·巴拉科表示：“我们（和所有人一样）尚未达到我们期望和需要的水平。”文章《OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>HSP GRUPPE如何构建税务咨询的AI能力</title>
 <link>https://openai.com/index/hsp-gruppe</link>
 <guid isPermaLink="false">https://openai.com/index/hsp-gruppe</guid>
 <pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】了解HSP GRUPPE如何利用ChatGPT Enterprise提升生产力、改善工作质量，并为税务咨询和客户服务创造更多容量。<br/><br/><a href="https://openai.com/index/hsp-gruppe">阅读原文</a>]]></description>
-</item>
-<item>
-<title>亚马逊、Cursor、微软、OpenAI与Vercel联手制定AI代理插件共享标准</title>
-<link>https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38687</guid>
-<pubDate>Fri, 07 Aug 2026 08:54:45 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】亚马逊、Cursor、微软、OpenAI和Vercel共同创建了Agent Plugins，这是一个开放标准，为AI代理扩展定义了统一的包格式。1.0.0版本采用plugin.json清单文件，并支持代理技能和MCP服务器。文章《亚马逊、Cursor、微软、OpenAI与Vercel联手制定AI代理插件共享标准》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>微软开源代码测试生成器：多语言单元测试代理任务完成率达92.1%，而标准Copilot为78.9%</title>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】今天，我们在Cloudflare上推出了WebMCP的开发者预览版。只需一个开关，任何网站都能被浏览器AI代理使用——无需新API，无需更改源站——同时人类保持控制权，创作者保留其流量。<br/><br/><a href="https://blog.cloudflare.com/webmcp/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌地图新增智能代理功能，涵盖订餐与酒店预订</title>
-<link>https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3150297</guid>
-<pubDate>Thu, 06 Aug 2026 12:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这些新功能的推出，体现了谷歌将谷歌地图从导航工具转变为能协助用户完成现实世界任务的助手的雄心。<br/><br/><a href="https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Omilia筹集6700万美元以扩展其客户支持平台</title>
-<link>https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3150505</guid>
-<pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这轮B轮融资是该公司自2020年上次融资以来的第二次融资。在此期间，其年度经常性收入增长了10倍，达到6000万美元。<br/><br/><a href="https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

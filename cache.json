@@ -1,24 +1,4 @@
 {
-"https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": {
-"t": "在 Gemini 3.5 Flash 中引入计算机使用功能",
-"s": "（无）"
-},
-"https://techcrunch.com/?p=3135624": {
-"t": "Figma 新版本新增代码层、动画支持及更多AI功能",
-"s": "Figma 此次更新新增了代码层、对动态效果和着色器的支持，以及利用AI为各类任务创建自定义插件的能力。"
-},
-"https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": {
-"t": "使用NVIDIA NeMo AutoModel加速Transformer微调",
-"s": ""
-},
-"https://techcrunch.com/?p=3135687": {
-"t": "OpenAI 发布首款定制芯片，由博通制造",
-"s": "这款名为 Jalapeño 的新处理器专为 OpenAI 推理系统的独特需求而设计。"
-},
-"https://huggingface.co/blog/ffasr-leaderboard": {
-"t": "FFASR排行榜发布：在真实世界中基准测试语音识别技术",
-"s": ""
-},
 "https://techcrunch.com/?p=3135849": {
 "t": "企业纷纷采取措施，防止员工因处理小任务而耗尽AI预算",
 "s": "Tokenmaxxing时代短暂。如今，我们似乎正步入Token配给时代。"
@@ -4798,5 +4778,25 @@
 "https://the-decoder.com/?p=38731": {
 "t": "xAI的Imagine Image 2.0在Arena基准测试中紧随OpenAI的GPT-Image-2之后",
 "s": "xAI已发布Imagine Image 2.0，作为Grok的新图像生成器。该模型在Arena基准测试中排名第二，仅次于OpenAI的GPT-Image-2。新增的编辑工具如Magic Wand和Multi-Ref Editing，以及预配置模板，旨在满足实际创意工作流程的需求。文章《xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=38587": {
+"t": "Backflip AI将3D扫描转化为可编辑CAD模型，仅需几分钟而非数小时",
+"s": "Backflip AI发布了一款AI模型，能将3D扫描转换为完全可编辑的参数化CAD模型，而这一过程通常需要大量时间和专业知识。据CEO Greg Mark称，大多数工厂为其零件建立的数字模型比例不足百分之一。这家初创公司已获得3000万美元融资，并将其工具作为Autodesk Fusion的插件提供。文章《Backflip AI turns 3D scans into editable CAD models in minutes instead of hours》最先出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=38745": {
+"t": "曾发表AI导致人类灭绝论文的菲尔兹奖得主现已加入OpenAI",
+"s": "新晋菲尔兹奖得主雅各布·齐默尔曼将离开多伦多大学，加入OpenAI从事AI安全研究。在最近的一篇论文中，他分析了AI可能导致人类灭绝的情景，并呼吁大幅增加对安全研究的投入。文章《曾发表AI导致人类灭绝论文的菲尔兹奖得主现已加入OpenAI》最初出现在The Decoder上。"
+},
+"https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/": {
+"t": "DeepMind在飓风预测上的突破令气象科学家惊讶",
+"s": "开源WeatherNext模型能以较低分辨率的气象数据做出准确预测。"
+},
+"https://the-decoder.com/?p=38738": {
+"t": "AI代理消耗的能量大约是简单聊天提示的600倍",
+"s": "气候科学家泽克·豪斯法瑟记录了他八周内使用Claude Code的情况：处理了32亿个令牌，消耗了约170千瓦时的数据中心电力。每个提示的能耗大约是典型AI聊天的600倍。他的数据揭示了谷歌和OpenAI报告的低数值如何扭曲了基于代理的AI的现实。文章《AI代理消耗的能量大约是简单聊天提示的600倍》最初出现在The Decoder上。"
+},
+"https://www.marktechpost.com/?p=81626": {
+"t": "使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出",
+"s": "深入了解Reflex XY Python库的高级可视化功能。本教程指导您构建高性能、交互式图表——从处理百万点数据集和实时流式处理，到创建自定义标记插件和导出出版级视觉效果。文章《使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出》最初发表于MarkTechPost。"
 }
 }
