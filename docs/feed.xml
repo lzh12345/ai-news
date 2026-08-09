@@ -5,15 +5,47 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 09 Aug 2026 08:32:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 12:32:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>使用DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习进行IMDb情感分析</title>
-<link>https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81637</guid>
-<pubDate>Sun, 09 Aug 2026 07:17:35 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】本教程提供了构建稳健情感分析工作流程的全面指南。通过将经典TF-IDF基线与现代参数高效微调（DistilBERT + LoRA）相结合，我们探索了深度模型的可解释性、校准及半监督技术，以实现可扩展的情感推断。该文章《IMDb情感分析：DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/">阅读原文</a>]]></description>
+<title>谷歌DeepMind的WeatherNext同时预测气旋路径与强度</title>
+<link>https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38793</guid>
+<pubDate>Sun, 09 Aug 2026 12:29:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】DeepMind的新型天气AI预测热带气旋的时间比领先的业务模型提前约一天，这相当于传统天气预报十年来的进步。代码和模型权重已在GitHub上开源。文章《谷歌DeepMind的WeatherNext同时预测气旋路径与强度》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>人工智能正让英国劳动法庭诉讼案激增</title>
+<link>https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38789</guid>
+<pubDate>Sun, 09 Aug 2026 10:26:43 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】截至2026年3月的一年里，英国劳动法庭收到的索赔申请增加了39%，其中许多由ChatGPT或Grok撰写。积压案件激增55%，达到6.4万件未决案件，AI生成的诉状往往长达数百页，并引用虚构的法律条文。《经济学人》称之为“公地悲剧的人工智能版”，真正有冤情的劳动者等待正义的时间更长。文章《AI正让英国劳动法庭诉讼案激增》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌的DiffusionGemma证明构建文本扩散模型无需从零开始训练</title>
+<link>https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38781</guid>
+<pubDate>Sun, 09 Aug 2026 10:01:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌DeepMind并未从零开始训练新模型，而是利用不到原始训练预算10%的资源，将Gemma 4改造为扩散模型。DiffusionGemma并行生成256个令牌，而非逐个生成，每秒可处理约1500个令牌。在基准测试中，其质量仍不及原始自回归模型，尤其在推理任务上表现逊色。文章《谷歌的DiffusionGemma证明构建文本扩散模型无需从零开始训练》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI的能源需求促使英伟达和亚马逊投入数十亿美元建设大规模电力基础设施</title>
+<link>https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38777</guid>
+<pubDate>Sun, 09 Aug 2026 09:26:28 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】AI行业对电力的渴求持续增长。英伟达正投资高达30亿美元于电力基础设施开发商Lancium，该公司在德克萨斯州已签约四吉瓦的电力合同。与此同时，亚马逊正在该州建设一座容量高达7.65吉瓦的燃气发电厂，每年可能排放3300万吨二氧化碳，使其成为美国最脏的发电厂。文章《AI的能源需求促使英伟达和亚马逊投入数十亿美元建设大规模电力基础设施》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌解散Deepmind，押注全新开局，哈萨比斯或将离场</title>
+<link>https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38774</guid>
+<pubDate>Sun, 09 Aug 2026 08:56:12 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌Deepmind正在失去其自主性，创始人戴密斯·哈萨比斯可能在未来几个月内彻底离开这家AI实验室。研究员科拉伊·卡武克丘奥卢将接掌日常运营，但不设CEO头衔，所有Gemini开发工作将迁至湾区。内部来看，谷歌在训练前沿模型方面显然面临严重问题，尽管其云业务带来数十亿美元收入。问题在于，这家公司是刻意押注基础设施，还是根本无法追上领先者。文章《谷歌解散Deepmind，押注全新开局，哈萨比斯或将离场》对此进行了探讨。<br/><br/><a href="https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>亚马逊计划中的数据中心或将成为美国最大气候污染源</title>
@@ -24,28 +56,12 @@
 <description><![CDATA[【techcrunch.com】作为德克萨斯州计划中的数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。<br/><br/><a href="https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>认识 Shepherd：一款开源 Python 基座，让元代理能够分叉、重放和回滚任意代理运行</title>
-<link>https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81633</guid>
-<pubDate>Sat, 08 Aug 2026 20:54:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】长时间运行的代理会积累状态，而这些状态是任何转录记录都无法捕捉的——比如编辑过的文件、活跃的开发服务器、已安装的软件包、以及热提示缓存。当代理在第 10 步误读回溯并重写了一个正确的文件时，打补丁向前推进会消耗令牌，而重启则会重新支付每一次调用。东北大学和斯坦福大学的研究人员发布了 Shepherd，这是一个采用 MIT 许可的 Python 运行时基座，它将代理与环境的每一次交互记录为类似 Git 的执行轨迹中的类型化事件。每个提交都同时涵盖代理进程和文件系统，采用写时复制机制，因此回滚可以恢复实时状态。<br/><br/><a href="https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI 收购演示文稿初创公司 NextSlide</title>
 <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151377</guid>
 <pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】NextSlide 表示其团队成员现正致力于 ChatGPT 的开发工作。<br/><br/><a href="https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Pokee AI发布Pokee-Isaac 28B：一款可在客户边界内运行的千万级Token上下文智能体模型</title>
-<link>https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81629</guid>
-<pubDate>Sat, 08 Aug 2026 17:04:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Pokee AI发布了Pokee-Isaac 28B，这是一款拥有1000万Token上下文窗口的28B纯文本基础模型，专为在客户边界内运行而设计。它在10M Token下RULER得分93.3%，而对比组中所有基线在超过2M后均返回0.0；在BFCL v4上以70.94领先，并在Terminal-Bench 2.1上排名第二。在单个B200上，全上下文预填充速度达到137,200 Token/秒，解码速度稳定在约335 Token/秒。权重未公开；部署通过许可方式进入VPC、本地或设备端，列表定价为每百万Token $0.15/$1.00。帖子《Pokee AI Releases Pokee-Is<br/><br/><a href="https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic将Claude Code默认设为自动模式，以保护开发者免受不良审批影响</title>
@@ -96,46 +112,6 @@
 <description><![CDATA[【arstechnica.com】开源WeatherNext模型能以较低分辨率的气象数据做出准确预测。<br/><br/><a href="https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI代理消耗的能量大约是简单聊天提示的600倍</title>
-<link>https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38738</guid>
-<pubDate>Sat, 08 Aug 2026 09:44:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】气候科学家泽克·豪斯法瑟记录了他八周内使用Claude Code的情况：处理了32亿个令牌，消耗了约170千瓦时的数据中心电力。每个提示的能耗大约是典型AI聊天的600倍。他的数据揭示了谷歌和OpenAI报告的低数值如何扭曲了基于代理的AI的现实。文章《AI代理消耗的能量大约是简单聊天提示的600倍》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出</title>
-<link>https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81626</guid>
-<pubDate>Sat, 08 Aug 2026 09:42:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】深入了解Reflex XY Python库的高级可视化功能。本教程指导您构建高性能、交互式图表——从处理百万点数据集和实时流式处理，到创建自定义标记插件和导出出版级视觉效果。文章《使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>xAI的Imagine Image 2.0在Arena基准测试中紧随OpenAI的GPT-Image-2之后</title>
-<link>https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38731</guid>
-<pubDate>Sat, 08 Aug 2026 08:22:39 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】xAI已发布Imagine Image 2.0，作为Grok的新图像生成器。该模型在Arena基准测试中排名第二，仅次于OpenAI的GPT-Image-2。新增的编辑工具如Magic Wand和Multi-Ref Editing，以及预配置模板，旨在满足实际创意工作流程的需求。文章《xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI首次警示其新模型Astra可能达到最高网络安全风险等级</title>
-<link>https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38727</guid>
-<pubDate>Sat, 08 Aug 2026 07:21:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI对其新AI模型Astra的内部测试显示，其网络安全能力极为强大，以至于公司无法再排除其自身安全框架中的最高风险等级。Astra的部分开发工作已被暂停。此举是在近期披露的几起事件之后采取的，这些事件中，自主AI代理在未被察觉的情况下侵入了OpenAI自身的基础设施长达数周。文章《OpenAI首次警示其新模型Astra可能达到最高网络安全风险等级》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Mistral AI发布Shieldstral 1.0 3B：一款开放权重、策略自适应的多模态安全分类器，性能媲美其7倍大小的模型</title>
-<link>https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81620</guid>
-<pubDate>Sat, 08 Aug 2026 04:36:26 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Mistral AI发布了Shieldstral 1.0 3B，这是一款开放权重、策略自适应的多模态安全分类器，将内容审核框架化为一个简单的“是/否”问题，而非固定的危害分类体系。操作者可在推理时以自然语言查询的形式提供策略，并通过一次前向传播获得校准的安全评分——无需重新训练即可调整模型目标。该模型基于Ministral-3-3B-Base-2512构建，配备Pixtral视觉编码器，并在约5410万个样本上训练，报告显示其在文本安全方面的平均F1分数为84.9%（与GPT-OSS-Safeguard-20B相当），多模态安全方面为83.8%，以及91.3%的……<br/><br/><a href="https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI称因安全顾虑放缓Astra模型开发</title>
 <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151331</guid>
@@ -144,52 +120,12 @@
 <description><![CDATA[【techcrunch.com】OpenAI表示，这款仍在开发中的模型已达到其“关键网络安全阈值”，意味着它能够独立识别并对传统上防护良好的现实世界系统发起网络攻击。<br/><br/><a href="https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>腾讯云开源TencentDB Agent Memory v2.0：面向AI编程代理的团队级记忆中心</title>
-<link>https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81617</guid>
-<pubDate>Fri, 07 Aug 2026 21:52:48 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】腾讯云已开源TencentDB Agent Memory v2.0，这是一个团队级记忆中心，可将对话、文档和代码转化为四种受管且可复用的资产——聊天记忆、技能、LLM维基和代码图谱。该项目采用MIT许可证，可通过Docker自托管，并集成了Claude Code、OpenClaw、Hermes和CodeBuddy。其差异化优势不在于检索，而在于治理：基于ACL的可见性决定了哪个代理可访问哪些资产，以及哪个版本有效。原文《腾讯云开源TencentDB Agent Memory v2.0：面向AI编程代理的团队级记忆中心》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Rippling数月烧掉数百万于AI后，打造员工投资回报率工具</title>
 <link>https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151218</guid>
 <pubDate>Fri, 07 Aug 2026 21:30:11 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】在自身AI使用警钟敲响后，Rippling本周推出了AI Spend Console，这是一款追踪员工个人及团队AI支出的产品。<br/><br/><a href="https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用NVIDIA NeMo Retriever、托管NIM、LanceDB、重排序及基于事实的生成构建多模态RAG管道</title>
-<link>https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81613</guid>
-<pubDate>Fri, 07 Aug 2026 21:13:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们使用NVIDIA NeMo Retriever构建了一个先进的多模态检索增强生成管道。我们首先配置Python 3.12环境，安装所需包，并在不依赖GPU或外部API密钥的情况下进行离线PDF文本提取。随后，我们通过托管NVIDIA NIM端点扩展工作流程，以检测页面[…] 该文章《使用NVIDIA NeMo Retriever、托管NIM、LanceDB、重排序及基于事实的生成构建多模态RAG管道》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA AI发布NOOA：一个面向对象的Python框架，将AI代理转化为单一Python类</title>
-<link>https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81609</guid>
-<pubDate>Fri, 07 Aug 2026 20:42:02 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA实验室已开源NOOA（NVIDIA面向对象代理），这是一个模型无关的Python框架，用于构建AI代理。当前代理开发分散在提示模板、工具模式、回调代码和工作流图中。NOOA将所有内容整合到一个Python类中。方法是模型可以采取的动作。字段是代理状态。文档字符串是提示。[…] 该文章首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI音乐生成器Suno加强规则以打击垃圾信息并应对日益增长的版权担忧</title>
-<link>https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38723</guid>
-<pubDate>Fri, 07 Aug 2026 18:35:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Suno首席执行官Mikey Shulman宣布了新指南和更严格的下载限制，此前其AI生成的音乐被用于操纵流媒体平台以牟利。该公司还面临来自德国版权裁决的压力，以及其一位投资者承认AI音乐直接与人类艺术家竞争。文章《AI音乐生成器Suno加强规则以打击垃圾信息并应对日益增长的版权担忧》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AMD收购Taalas，一家将AI模型直接嵌入硅片的初创公司</title>
-<link>https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38718</guid>
-<pubDate>Fri, 07 Aug 2026 18:01:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】AMD正在收购加拿大初创公司Taalas，该公司将模型权重直接硬编码到推理芯片中。这使得芯片速度极快，但每个芯片只能固定运行单一模型。其演示芯片在运行Llama 3.1-8B时，每用户每秒处理超过16,000个令牌。据报道，谷歌也在为Gemini探索类似方法。本文《AMD acquires Taalas, a startup that bakes AI models directly into silicon》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>TutorMoments：AI导师知道何时该帮助，何时该放手吗？</title>
@@ -302,22 +238,6 @@
 <pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】了解HSP GRUPPE如何利用ChatGPT Enterprise提升生产力、改善工作质量，并为税务咨询和客户服务创造更多容量。<br/><br/><a href="https://openai.com/index/hsp-gruppe">阅读原文</a>]]></description>
-</item>
-<item>
-<title>微软开源代码测试生成器：多语言单元测试代理任务完成率达92.1%，而标准Copilot为78.9%</title>
-<link>https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81603</guid>
-<pubDate>Fri, 07 Aug 2026 05:42:45 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】微软已开源代码测试生成器（code-testing-generator），这是一个多语言单元测试代理，现已在MIT许可的dotnet/skills仓库中发布。它在编写任何内容之前会先读取仓库——检测语言、测试框架、现有约定以及真实的构建和测试命令——然后规划、编写、运行并验证其生成的测试。在微软内部的152任务基准测试中，它完成了140个任务，而标准GitHub Copilot在同一模型上完成了120个，增益几乎完全集中在模糊提示和针对差异的请求上。文章《微软开源代码测试生成器》进一步详述了这一成果。<br/><br/><a href="https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Liquid AI发布LFM2.5-2.6B：一款具备128K上下文、工具调用及开放权重的端侧智能体模型</title>
-<link>https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81599</guid>
-<pubDate>Fri, 07 Aug 2026 03:42:27 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI发布了LFM2.5-2.6B，这是一款智能体模型，能够完全在设备端进行规划、调用工具并完成多步骤任务。该模型拥有26.9亿参数，结合了22个双门控短卷积块和8个GQA块，分布在30层中，支持131,072个令牌的上下文长度，并在M5 Max上以每秒220个令牌的速度解码，占用内存不到2.5GB。开放权重以GGUF、MLX和ONNX格式提供。原文《Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>缩放分类流映射</title>
@@ -486,6 +406,86 @@
 <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】如今，超过一半的请求来自机器而非人类。代理就绪度展示了代理发现和读取你网站的能力，而答案引擎优化则追踪AI助手推荐你的频率。<br/><br/><a href="https://blog.cloudflare.com/aeo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>构建开放的智能体互联网：可读、可发现、可调用、可支付</title>
+<link>https://blog.cloudflare.com/the-agentic-internet/</link>
+<guid isPermaLink="false">01KZA0G6ZQF7ZGG8EJ2VPCFY2B</guid>
+<pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】智能体是一种新型访客。它们不渲染CSS或点击广告，但背后有付费的人类用户。屏蔽它们，就等于屏蔽了你的客户。我们正在构建开放的工具和协议，使发布者和智能体能够合作而非冲突。<br/><br/><a href="https://blog.cloudflare.com/the-agentic-internet/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出Kitesurf：在Cloudflare Workers的V8隔离环境中运行的代理优先浏览器</title>
+<link>https://blog.cloudflare.com/kitesurf/</link>
+<guid isPermaLink="false">01KZ9Z9511J0G655EQ0XMSVWQV</guid>
+<pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们应当为所有代理提供在AI模型关键方面表现出色的工具。Kitesurf是Cloudflare新推出的无状态、高度可扩展且成本效益高的网络浏览器，完全在Workers之上运行，专为Agentic Cloud设计。<br/><br/><a href="https://blog.cloudflare.com/kitesurf/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>为任意网站提供WebMCP接口</title>
+<link>https://blog.cloudflare.com/webmcp/</link>
+<guid isPermaLink="false">01KZ9RBPN3JAYNT28NNJH6K9QJ</guid>
+<pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】今天，我们在Cloudflare上推出了WebMCP的开发者预览版。只需一个开关，任何网站都能被浏览器AI代理使用——无需新API，无需更改源站——同时人类保持控制权，创作者保留其流量。<br/><br/><a href="https://blog.cloudflare.com/webmcp/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌地图新增智能代理功能，涵盖订餐与酒店预订</title>
+<link>https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3150297</guid>
+<pubDate>Thu, 06 Aug 2026 12:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这些新功能的推出，体现了谷歌将谷歌地图从导航工具转变为能协助用户完成现实世界任务的助手的雄心。<br/><br/><a href="https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Omilia筹集6700万美元以扩展其客户支持平台</title>
+<link>https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3150505</guid>
+<pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这轮B轮融资是该公司自2020年上次融资以来的第二次融资。在此期间，其年度经常性收入增长了10倍，达到6000万美元。<br/><br/><a href="https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>仅靠AI不足以保护社交媒体社区免受AI影响</title>
+<link>https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</link>
+<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</guid>
+<pubDate>Thu, 06 Aug 2026 11:00:44 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】为何人类需要监管人类。<br/><br/><a href="https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>在ChatGPT中改进GPT-5.6 Sol——并扩大免费用户对GPT-5.6 Luna的访问权限</title>
+<link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
+<guid isPermaLink="false">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</guid>
+<pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】ChatGPT推出了改进版GPT-5.6 Sol，提升了准确性和一致性，同时扩大了免费用户的访问权限，并提供了对GPT-5.6 Luna的无限日常聊天支持。<br/><br/><a href="https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt">阅读原文</a>]]></description>
+</item>
+<item>
+<title>与美国心理学会合作，关注青少年心理健康与人工智能</title>
+<link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
+<guid isPermaLink="false">https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</guid>
+<pubDate>Thu, 06 Aug 2026 06:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI与美国心理学会共同推进基于证据的指导、资源及保障措施，以促进负责任的人工智能使用和青少年心理健康。<br/><br/><a href="https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Baseten 登陆 Hugging Face 推理提供商 🔥</title>
+<link>https://huggingface.co/blog/baseten</link>
+<guid isPermaLink="false">https://huggingface.co/blog/baseten</guid>
+<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/baseten">阅读原文</a>]]></description>
+</item>
+<item>
+<title>通过深度低秩残差蒸馏锁定预训练权重</title>
+<link>https://machinelearning.apple.com/research/locking-pretrained-weights</link>
+<guid isPermaLink="false">locking-pretrained-weights</guid>
+<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】近年来，开放权重语言模型的质量显著提升。共享权重极大地促进了模型的采用，使其能在多样化的硬件和软件平台上使用。同时，这也支持更开放的研究与测试，用户可将其用作检查点、按需微调，并可能重新分发。然而，在某些情况下，对权重被修改用于未经授权用途的担忧可能超过赋予用户这种自由的好处。防御此类适应性修改并非易事：由于自适应……<br/><br/><a href="https://machinelearning.apple.com/research/locking-pretrained-weights">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

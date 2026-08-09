@@ -1,24 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80672": {
-"t": "Mistral OCR 4 为 RAG、智能体及企业搜索流程带来可引用结构化输出",
-"s": "Mistral AI 于 2026 年 6 月 23 日发布了 OCR 4，从纯文本提取转向结构化文档输出。每个区块返回边界框、类型分类，以及每页和每词的置信度分数。该模型支持 170 种语言，在单个自托管容器中运行，并通过一个 API 端点将可引用输入馈送到 RAG、智能体及企业搜索流程中。本文《Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines》首发于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80667": {
-"t": "Datalab 发布 lift：一款 9B 开放权重视觉模型，利用模式从 PDF 中提取结构化 JSON",
-"s": "Datalab 发布了 lift，这是一款 9B 开放权重视觉模型，能将 PDF 和图像转换为匹配模式的 JSON。它采用模式约束解码来确保结构有效，并通过训练有素的弃权机制，在缺失字段时返回 null 而非产生幻觉，在包含 225 份文档的基准测试中实现了 90.2% 的字段准确率。本文《Datalab 发布 lift：一款 9B 开放权重视觉模型，利用模式从 PDF 中提取结构化 JSON》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80664": {
-"t": "如何在Python中使用NVIDIA Canary-1B-v2进行ASR、翻译和自动SRT字幕导出",
-"s": "在本教程中，我们使用NVIDIA Canary-1B-v2构建了一个多语言ASR和语音翻译管道。我们在支持GPU的运行环境中加载模型，将音频准备为16 kHz单声道格式，并运行英语ASR。然后，我们将语音翻译成法语、德语、西班牙语和意大利语，并提取单词和片段的时间戳。我们将翻译后的字幕导出为SRT文件，测试长文本转录，进行批量处理，并基准测试推理速度。这篇文章《How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python》最初出现在MarkTechPost上。"
-},
-"https://techcrunch.com/?p=3136032": {
-"t": "欧洲正对华盛顿的芯片战予以回击",
-"s": "正如ASML首席执行官克里斯托夫·富凯在5月向TechCrunch所言，中国目前能够购买的是约十年前首次出货的老一代深紫外光刻工具，而《匹配法案》如今将把这些设备也列入限制范围。"
-},
-"https://techcrunch.com/?p=3135964": {
-"t": "前Infosys首席执行官创立新公司，欲挑战IT服务行业格局",
-"s": "在Mayfield和Aramco Ventures的支持下，Vishal Sikka的新公司汇聚了来自SAP、Infosys和VianAI的资深人士。"
-},
 "https://techcrunch.com/?p=3135956": {
 "t": "Cerebras 财报后股价暴跌，CEO称利润率展望被误解",
 "s": "这家AI芯片公司在上市后的首份财报中预测其核心业务的毛利率将收窄，令投资者感到恐慌。"
@@ -4798,5 +4778,25 @@
 "https://www.marktechpost.com/?p=81637": {
 "t": "使用DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习进行IMDb情感分析",
 "s": "本教程提供了构建稳健情感分析工作流程的全面指南。通过将经典TF-IDF基线与现代参数高效微调（DistilBERT + LoRA）相结合，我们探索了深度模型的可解释性、校准及半监督技术，以实现可扩展的情感推断。该文章《IMDb情感分析：DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习》首发于MarkTechPost。"
+},
+"https://the-decoder.com/?p=38793": {
+"t": "谷歌DeepMind的WeatherNext同时预测气旋路径与强度",
+"s": "DeepMind的新型天气AI预测热带气旋的时间比领先的业务模型提前约一天，这相当于传统天气预报十年来的进步。代码和模型权重已在GitHub上开源。文章《谷歌DeepMind的WeatherNext同时预测气旋路径与强度》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=38789": {
+"t": "人工智能正让英国劳动法庭诉讼案激增",
+"s": "截至2026年3月的一年里，英国劳动法庭收到的索赔申请增加了39%，其中许多由ChatGPT或Grok撰写。积压案件激增55%，达到6.4万件未决案件，AI生成的诉状往往长达数百页，并引用虚构的法律条文。《经济学人》称之为“公地悲剧的人工智能版”，真正有冤情的劳动者等待正义的时间更长。文章《AI正让英国劳动法庭诉讼案激增》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=38781": {
+"t": "谷歌的DiffusionGemma证明构建文本扩散模型无需从零开始训练",
+"s": "谷歌DeepMind并未从零开始训练新模型，而是利用不到原始训练预算10%的资源，将Gemma 4改造为扩散模型。DiffusionGemma并行生成256个令牌，而非逐个生成，每秒可处理约1500个令牌。在基准测试中，其质量仍不及原始自回归模型，尤其在推理任务上表现逊色。文章《谷歌的DiffusionGemma证明构建文本扩散模型无需从零开始训练》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=38777": {
+"t": "AI的能源需求促使英伟达和亚马逊投入数十亿美元建设大规模电力基础设施",
+"s": "AI行业对电力的渴求持续增长。英伟达正投资高达30亿美元于电力基础设施开发商Lancium，该公司在德克萨斯州已签约四吉瓦的电力合同。与此同时，亚马逊正在该州建设一座容量高达7.65吉瓦的燃气发电厂，每年可能排放3300万吨二氧化碳，使其成为美国最脏的发电厂。文章《AI的能源需求促使英伟达和亚马逊投入数十亿美元建设大规模电力基础设施》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=38774": {
+"t": "谷歌解散Deepmind，押注全新开局，哈萨比斯或将离场",
+"s": "谷歌Deepmind正在失去其自主性，创始人戴密斯·哈萨比斯可能在未来几个月内彻底离开这家AI实验室。研究员科拉伊·卡武克丘奥卢将接掌日常运营，但不设CEO头衔，所有Gemini开发工作将迁至湾区。内部来看，谷歌在训练前沿模型方面显然面临严重问题，尽管其云业务带来数十亿美元收入。问题在于，这家公司是刻意押注基础设施，还是根本无法追上领先者。文章《谷歌解散Deepmind，押注全新开局，哈萨比斯或将离场》对此进行了探讨。"
 }
 }
