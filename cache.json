@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80675": {
-"t": "DFlash投机解码并行生成完整Token块，在NVIDIA Blackwell上实现高达15倍吞吐量提升",
-"s": "加州大学圣地亚哥分校的DFlash采用轻量级块扩散模型替代自回归式草稿生成，实现投机解码。它通过单次前向传播生成完整Token块，并借助KV注入机制以目标隐藏特征为条件。论文报告称，在Qwen3-8B模型上实现最高6.08倍无损加速，而NVIDIA在固定交互性条件下，于Blackwell平台测得高达15倍吞吐量提升。DFlash已发布20个检查点，并支持SGLang、vLLM及TensorRT-LLM框架。该文章《DFlash投机解码并行生成完整Token块，在NVIDIA Blackwell上实现高达15倍吞吐量提升》首发于Mark平台。"
-},
 "https://www.marktechpost.com/?p=80672": {
 "t": "Mistral OCR 4 为 RAG、智能体及企业搜索流程带来可引用结构化输出",
 "s": "Mistral AI 于 2026 年 6 月 23 日发布了 OCR 4，从纯文本提取转向结构化文档输出。每个区块返回边界框、类型分类，以及每页和每词的置信度分数。该模型支持 170 种语言，在单个自托管容器中运行，并通过一个 API 端点将可引用输入馈送到 RAG、智能体及企业搜索流程中。本文《Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines》首发于 MarkTechPost。"
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=81629": {
 "t": "Pokee AI发布Pokee-Isaac 28B：一款可在客户边界内运行的千万级Token上下文智能体模型",
 "s": "Pokee AI发布了Pokee-Isaac 28B，这是一款拥有1000万Token上下文窗口的28B纯文本基础模型，专为在客户边界内运行而设计。它在10M Token下RULER得分93.3%，而对比组中所有基线在超过2M后均返回0.0；在BFCL v4上以70.94领先，并在Terminal-Bench 2.1上排名第二。在单个B200上，全上下文预填充速度达到137,200 Token/秒，解码速度稳定在约335 Token/秒。权重未公开；部署通过许可方式进入VPC、本地或设备端，列表定价为每百万Token $0.15/$1.00。帖子《Pokee AI Releases Pokee-Is"
+},
+"https://www.marktechpost.com/?p=81637": {
+"t": "使用DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习进行IMDb情感分析",
+"s": "本教程提供了构建稳健情感分析工作流程的全面指南。通过将经典TF-IDF基线与现代参数高效微调（DistilBERT + LoRA）相结合，我们探索了深度模型的可解释性、校准及半监督技术，以实现可扩展的情感推断。该文章《IMDb情感分析：DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习》首发于MarkTechPost。"
 }
 }
