@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80690": {
-"t": "使用Graphify和NetworkX映射Python代码库结构：上帝节点、社区与架构可视化",
-"s": "在本教程中，我们构建了一个完全离线的Graphify管道，将多模块Python应用程序转化为知识图谱。我们安装Graphify，生成一个连接的示例应用，并使用tree-sitter在本地提取图谱，无需API密钥或LLM后端。我们将graph.json加载到NetworkX中，分析文件类型、关系类型、中心性得分、社区检测和最短路径。然后，我们创建静态和交互式可视化，展示模块、类、函数和数据库对象之间的连接方式。"
-},
 "https://www.marktechpost.com/?p=80687": {
 "t": "Nous Research 为 Hermes Agent 技能系统新增 /learn 功能，无需手动编写 SKILL.md 即可将工作流捕获为斜杠命令",
 "s": "Nous Research 已为 Hermes Agent 技能系统新增 /learn 功能。该命令可从本地目录、文档 URL、历史对话或粘贴的笔记中自动生成符合标准的 SKILL.md 文件。实时代理使用自身工具获取素材，然后编写技能——无需手动编写，也无需单独的摄取引擎。本文介绍了其工作原理、适用场景以及在使用输出前需审查的要点。该文章最初发表于 MarkTechPost。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3151377": {
 "t": "OpenAI 收购演示文稿初创公司 NextSlide",
 "s": "NextSlide 表示其团队成员现正致力于 ChatGPT 的开发工作。"
+},
+"https://techcrunch.com/?p=3151379": {
+"t": "亚马逊计划中的数据中心或将成为美国最大气候污染源",
+"s": "作为德克萨斯州计划中的数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。"
 }
 }

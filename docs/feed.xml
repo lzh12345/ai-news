@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 08 Aug 2026 20:19:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 01:03:38 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>亚马逊计划中的数据中心或将成为美国最大气候污染源</title>
+<link>https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151379</guid>
+<pubDate>Sat, 08 Aug 2026 21:24:02 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】作为德克萨斯州计划中的数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。<br/><br/><a href="https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI 收购演示文稿初创公司 NextSlide</title>
 <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】近年来，开放权重语言模型的质量显著提升。共享权重极大地促进了模型的采用，使其能在多样化的硬件和软件平台上使用。同时，这也支持更开放的研究与测试，用户可将其用作检查点、按需微调，并可能重新分发。然而，在某些情况下，对权重被修改用于未经授权用途的担忧可能超过赋予用户这种自由的好处。防御此类适应性修改并非易事：由于自适应……<br/><br/><a href="https://machinelearning.apple.com/research/locking-pretrained-weights">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepAmbigQA：用于评估大语言模型答案完整性的模糊多跳问题</title>
-<link>https://machinelearning.apple.com/research/deepambigqa-multihop-questions</link>
-<guid isPermaLink="false">deepambigqa-multihop-questions</guid>
-<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】集成搜索工具的大型语言模型（LLMs）在开放域问答（QA）中展现出强大潜力，但面对诸如“电影《盗火线》中哪位演员至少获得过一次奥斯卡奖？”这类复杂问题时，它们往往难以生成完整的答案集。这类问题要求（1）区分共享同一片名的多部电影，以及（2）在大量演员中进行推理以收集和整合证据。现有的QA基准很少同时评估这两个挑战。为解决这一问题，我们引入了DEEPAMBIGQAGEN，一种自动数据生成流水线，用于构建QA…<br/><br/><a href="https://machinelearning.apple.com/research/deepambigqa-multihop-questions">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
