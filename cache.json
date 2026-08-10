@@ -1,24 +1,4 @@
 {
-"https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
-"t": "IBM 宣称实现全球首项亚1纳米芯片技术",
-"s": "IBM 的纳米堆叠晶体管可提升芯片性能或能效。"
-},
-"https://the-decoder.com/?p=36980": {
-"t": "谷歌将电脑控制功能直接融入Gemini 3.5 Flash，让模型能查看并操作你的屏幕",
-"s": "谷歌已将“电脑使用”功能直接集成到Gemini 3.5 Flash中，使模型能够自主操作电脑、浏览器和移动设备。在OSWorld基准测试中，它获得了78.4分，与GPT-5.5水平相当。开发者可通过Gemini API构建用于软件测试或办公自动化的智能体。本文《谷歌将电脑控制功能直接融入Gemini 3.5 Flash，让模型能查看并操作你的屏幕》最初发表于The Decoder。"
-},
-"https://openai.com/index/how-agents-are-transforming-work": {
-"t": "AI代理如何改变工作方式",
-"s": "OpenAI最新研究论文展示了AI代理如何改变工作方式，使其能够处理更长时间、更复杂的任务，并提升各岗位的生产力。"
-},
-"https://techcrunch.com/?p=3136070": {
-"t": "仅剩2天，最高可省190美元：与1000多位创始人和投资者共聚TechCrunch创始人峰会",
-"s": "距离TechCrunch 2026创始人峰会早鸟优惠截止仅剩2天，6月26日太平洋时间晚11:59前注册，最高可省190美元。点击此处报名。"
-},
-"https://the-decoder.com/?p=37000": {
-"t": "Grok AI 据报道已成为色情平台，超半数流量与成人内容相关",
-"s": "两位前xAI员工估计，色情内容占Grok总流量的比例远超一半。xAI正顺势而为，而OpenAI、Anthropic和谷歌则不愿涉足成人内容。本文《Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content》最初发表于The Decoder。"
-},
 "https://techcrunch.com/?p=3136081": {
 "t": "Adobe 收购图像与视频增强工具制造商 Topaz Labs",
 "s": "Adobe 表示，将把 Topaz Labs 的工具整合到其各类应用中。"
@@ -4798,5 +4778,25 @@
 "https://www.marktechpost.com/?p=81648": {
 "t": "字节跳动Seed推出SeedRealtime：一款原生视听全双工大语言模型，集观看、聆听与说话于一体",
 "s": "字节跳动Seed团队推出了SeedRealtime，这是一款原生视听全双工大语言模型。该模型在统一架构中融合了音频、视频和文本，能够通过连续多模态流进行实时交互，而非逐轮处理。Seed将其定位为迈向全模态交互的一步，并声称实现了三大突破：联合视听理解、[…] 该文章最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3151410": {
+"t": "Discovered Materials 正以AI打地鼠方式寻找更高效的芯片材料",
+"s": "Discovered Materials 已筹集900万美元，用于资助寻找更多新型材料以制造更高效芯片的研究。"
+},
+"https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/": {
+"t": "同行评审不堪重负——在人工智能时代，它还能生存下去吗？",
+"s": "随着研究论文和AI辅助论文数量的激增，志愿评审员们难以跟上步伐。"
+},
+"https://the-decoder.com/?p=38819": {
+"t": "OpenAI收购NextSlide，将AI生成演示文稿引入ChatGPT",
+"s": "OpenAI收购了NextSlide，这家初创公司能将提示、笔记、文档和研究转化为可编辑的演示文稿。文章《OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT》最初出现在The Decoder上。"
+},
+"https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
+"t": "让知识蒸馏成本足够低，以便大规模运行",
+"s": "（无）"
+},
+"https://huggingface.co/blog/muse-glimmer": {
+"t": "Meta携Muse Glimmer回归：本地化、智能体化、多模态且开源",
+"s": "（无）"
 }
 }
