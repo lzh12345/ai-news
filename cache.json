@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=36987": {
-"t": "谷歌持续流失顶尖AI研究人员至竞争对手",
-"s": "谷歌似乎正面临关键AI研究人员大量流向竞争对手的局面。本文《谷歌持续流失顶尖AI研究人员至竞争对手》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=36988": {
-"t": "高通携自有处理器进军数据中心市场",
-"s": "高通正通过一款名为Dragonfly C1000的新处理器进一步拓展数据中心市场。本文《高通携自有处理器进军数据中心市场》最初发表于The Decoder。"
-},
 "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
 "t": "IBM 宣称实现全球首项亚1纳米芯片技术",
 "s": "IBM 的纳米堆叠晶体管可提升芯片性能或能效。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=81640": {
 "t": "2026年顶级LLM可观测性与评估平台对比：Langfuse、LangSmith、Braintrust、Arize等",
 "s": "一份经过验证的2026年LLM可观测性平台对比，涵盖追踪深度、评估能力、生产监控及定价。文章《2026年顶级LLM可观测性与评估平台对比：Langfuse、LangSmith、Braintrust、Arize等》首发于MarkTechPost。"
+},
+"https://the-decoder.com/?p=38806": {
+"t": "PDF中的隐藏文本足以通过Atlassian的AI代理Rovo窃取敏感数据",
+"s": "安全公司PromptArmor展示了PDF中的隐藏指令如何劫持Atlassian的AI代理Rovo，悄无声息地将Jira和Confluence中的敏感数据转发至外部服务器。该攻击无需用户确认，且不留痕迹。文章《PDF中的隐藏文本足以通过Atlassian的AI代理Rovo窃取敏感数据》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81648": {
+"t": "字节跳动Seed推出SeedRealtime：一款原生视听全双工大语言模型，集观看、聆听与说话于一体",
+"s": "字节跳动Seed团队推出了SeedRealtime，这是一款原生视听全双工大语言模型。该模型在统一架构中融合了音频、视频和文本，能够通过连续多模态流进行实时交互，而非逐轮处理。Seed将其定位为迈向全模态交互的一步，并声称实现了三大突破：联合视听理解、[…] 该文章最初发表于MarkTechPost。"
 }
 }
