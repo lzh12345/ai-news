@@ -1,36 +1,4 @@
 {
-"https://techcrunch.com/?p=3136344": {
-"t": "Databricks前AI负责人认为可将AI能耗降低1000倍",
-"s": "Un-0是一款图像生成系统工具，首次展示了该公司技术如何复制传统AI系统。"
-},
-"https://huggingface.co/blog/allenai/hybrid-token-prediction": {
-"t": "混合模型对哪些令牌的预测更准确？",
-"s": "(无)"
-},
-"https://the-decoder.com/?p=37007": {
-"t": "多数主流AI聊天机器人在政治问题上仍偏左，甚至“反觉醒”模型也不例外",
-"s": "《华盛顿邮报》的一项调查显示，多数主流AI聊天机器人在政治问题上仍倾向于左派立场。OpenAI的GPT-5.5在80%的情况下只提供左倾论点，就连马斯克旗下标榜“反觉醒”的Grok也更多时候偏左。唯一的例外是谷歌的Gemini 3.1 Pro，它在93%的情况下呈现了双方观点。本文《多数主流AI聊天机器人在政治问题上仍偏左，甚至“反觉醒”模型也不例外》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3136123": {
-"t": "Netris 从 a16z 获得 1500 万美元 A 轮融资，助力 AI 新云更快上线",
-"s": "Netris 提供运行在网络交换机上的软件，并提供一个平台，帮助新云运营商缩短上线时间。"
-},
-"https://the-decoder.com/?p=37003": {
-"t": "保险公司借助生成式AI进行灾难建模，但幻觉和销售逻辑可能成为障碍",
-"s": "扩散模型能在缺乏历史数据的领域生成数万个合理的天气事件。保险公司期望借此获得更精准的风险评估。研究人员则对幻觉现象发出警告。本文《保险公司借助生成式AI进行灾难建模，但幻觉和销售逻辑可能成为障碍》首发于The Decoder。"
-},
-"https://huggingface.co/blog/vllm-jobs": {
-"t": "一条命令在 HF 任务上运行 vLLM 服务器",
-"s": ""
-},
-"https://techcrunch.com/?p=3136499": {
-"t": "Patronus AI 获5000万美元融资，打造“数字世界”以压力测试AI智能体",
-"s": "由前Meta AI研究员创立的智能体测试初创公司Patronus AI，其投资者表示，该公司正面临近乎无法满足的市场需求。"
-},
-"https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/": {
-"t": "Notion 关闭受 Skiff 影响的邮件应用，因多数用户改用 AI 代理",
-"s": "Notion 正“全力投入使用代理来管理你的收件箱”。"
-},
 "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/": {
 "t": "谷歌终于推出金融安卓应用，承诺2026年晚些时候发布iOS版本",
 "s": "历经20年，金融应用终于面世，并恰逢其时地融入了大量人工智能功能。"
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/model-ml": {
 "t": "Model ML借助GPT-5.6 Sol更高效完成金融工作",
 "s": "Model ML利用GPT-5.6 Sol处理金融工作，从研究与分析到可编辑、可追溯的PowerPoint演示文稿和Excel工作簿。"
+},
+"https://techcrunch.com/?p=3151503": {
+"t": "Claude代理入侵健身房引发科技行业热议",
+"s": "一个OpenClaw代理入侵了健身房的预约系统，将其人类老板在课程候补名单上的位置提前。这一事件引起了科技行业的广泛关注。"
+},
+"https://github.blog/?p=97992": {
+"t": "使用GitHub Copilot SDK for Java",
+"s": "企业级Java开发者迎来新利器——通过惯用的Java代码，利用注解、虚拟线程等特性驱动GitHub Copilot。这篇文章《使用GitHub Copilot SDK for Java》最初出现在GitHub博客上。"
+},
+"01KZEF237MMZ9CHJ8RTKBA8G7A": {
+"t": "我们在智能体周期间推出的所有内容",
+"s": "我们最近的智能体周已落下帷幕。以下是我们在该周发布的所有公告的回顾，从钱包到雷达。"
+},
+"https://the-decoder.com/?p=38851": {
+"t": "旧式OCR文本阻碍语言模型训练，FineBooks欲大规模解决此问题",
+"s": "Hugging Face与EleutherAI的FineBooks项目在超过2000页历史书籍上测试了14种开源OCR模型。表现最佳的模型dots.mocr，在每千页成本低于两美元的情况下，字符准确率达到97.6%。团队表示，这一水平足以用于AI训练数据，但尚不足以满足学术转录需求。文章《Old OCR text cripples language model training, and FineBooks wants to fix that at scale》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38855": {
+"t": "OpenAI发布GPT-5.6-Cyber，助力防御者先于攻击者发现漏洞",
+"s": "OpenAI旨在为网络安全防御者提供先机：新型GPT-5.6-Cyber模型能回答高达98.5%的原本会被拦截的安全查询，并已发现两个此前未知的Chrome漏洞。据OpenAI称，防御者的机会窗口正在缩小。访问该模型需进行身份验证。文章《OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do》最初发表于The Decoder。"
+},
+"https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
+"t": "随着网络防御窗口收窄，Daybreak不断扩展",
+"s": "认识GPT-5.6-Cyber，OpenAI专为网络安全设计的模型，通过Daybreak Red供授权漏洞研究、漏洞验证及安全测试使用。"
+},
+"https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
+"t": "将前沿网络模型交予更值得信赖的机构",
+"s": "经批准的Daybreak合作伙伴可使用OpenAI的前沿网络模型，为客户提供经授权且受监管的网络安全服务。"
+},
+"https://openai.com/index/premium-seats-chatgpt-business": {
+"t": "ChatGPT Business 即将推出高级席位",
+"s": "ChatGPT Business 即将推出高级席位。在8月20日前注册，即可获得100美元的工作区积分，并为团队最繁重的工作解锁更高使用权限。"
 }
 }

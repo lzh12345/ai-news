@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 10 Aug 2026 16:44:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 20:32:51 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude代理入侵健身房引发科技行业热议</title>
+<link>https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151503</guid>
+<pubDate>Mon, 10 Aug 2026 20:04:24 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】一个OpenClaw代理入侵了健身房的预约系统，将其人类老板在课程候补名单上的位置提前。这一事件引起了科技行业的广泛关注。<br/><br/><a href="https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用GitHub Copilot SDK for Java</title>
+<link>https://github.blog/engineering/using-the-github-copilot-sdk-for-java/</link>
+<guid isPermaLink="false">https://github.blog/?p=97992</guid>
+<pubDate>Mon, 10 Aug 2026 19:30:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】企业级Java开发者迎来新利器——通过惯用的Java代码，利用注解、虚拟线程等特性驱动GitHub Copilot。这篇文章《使用GitHub Copilot SDK for Java》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/engineering/using-the-github-copilot-sdk-for-java/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们在智能体周期间推出的所有内容</title>
+<link>https://blog.cloudflare.com/agents-week-review-august-2026/</link>
+<guid isPermaLink="false">01KZEF237MMZ9CHJ8RTKBA8G7A</guid>
+<pubDate>Mon, 10 Aug 2026 18:34:10 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们最近的智能体周已落下帷幕。以下是我们在该周发布的所有公告的回顾，从钱包到雷达。<br/><br/><a href="https://blog.cloudflare.com/agents-week-review-august-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>旧式OCR文本阻碍语言模型训练，FineBooks欲大规模解决此问题</title>
+<link>https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38851</guid>
+<pubDate>Mon, 10 Aug 2026 18:20:39 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Hugging Face与EleutherAI的FineBooks项目在超过2000页历史书籍上测试了14种开源OCR模型。表现最佳的模型dots.mocr，在每千页成本低于两美元的情况下，字符准确率达到97.6%。团队表示，这一水平足以用于AI训练数据，但尚不足以满足学术转录需求。文章《Old OCR text cripples language model training, and FineBooks wants to fix that at scale》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI发布GPT-5.6-Cyber，助力防御者先于攻击者发现漏洞</title>
+<link>https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38855</guid>
+<pubDate>Mon, 10 Aug 2026 18:01:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI旨在为网络安全防御者提供先机：新型GPT-5.6-Cyber模型能回答高达98.5%的原本会被拦截的安全查询，并已发现两个此前未知的Chrome漏洞。据OpenAI称，防御者的机会窗口正在缩小。访问该模型需进行身份验证。文章《OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>构建AI原生财务职能教会了我什么</title>
 <link>https://openai.com/index/building-an-ai-native-finance-function</link>
@@ -104,6 +144,22 @@
 <description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation">阅读原文</a>]]></description>
 </item>
 <item>
+<title>随着网络防御窗口收窄，Daybreak不断扩展</title>
+<link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
+<guid isPermaLink="false">https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
+<pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】认识GPT-5.6-Cyber，OpenAI专为网络安全设计的模型，通过Daybreak Red供授权漏洞研究、漏洞验证及安全测试使用。<br/><br/><a href="https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows">阅读原文</a>]]></description>
+</item>
+<item>
+<title>将前沿网络模型交予更值得信赖的机构</title>
+<link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
+<guid isPermaLink="false">https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</guid>
+<pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】经批准的Daybreak合作伙伴可使用OpenAI的前沿网络模型，为客户提供经授权且受监管的网络安全服务。<br/><br/><a href="https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands">阅读原文</a>]]></description>
+</item>
+<item>
 <title>PDF中的隐藏文本足以通过Atlassian的AI代理Rovo窃取敏感数据</title>
 <link>https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=38806</guid>
@@ -118,6 +174,14 @@
 <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/muse-glimmer">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ChatGPT Business 即将推出高级席位</title>
+<link>https://openai.com/index/premium-seats-chatgpt-business</link>
+<guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】ChatGPT Business 即将推出高级席位。在8月20日前注册，即可获得100美元的工作区积分，并为团队最繁重的工作解锁更高使用权限。<br/><br/><a href="https://openai.com/index/premium-seats-chatgpt-business">阅读原文</a>]]></description>
 </item>
 <item>
 <title>陷入困境的对冲基金Situational Awareness向芯片初创公司Source Foundry投资4亿美元</title>
@@ -182,22 +246,6 @@
 <pubDate>Sun, 09 Aug 2026 10:01:26 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】谷歌DeepMind并未从零开始训练新模型，而是利用不到原始训练预算10%的资源，将Gemma 4改造为扩散模型。DiffusionGemma并行生成256个令牌，而非逐个生成，每秒可处理约1500个令牌。在基准测试中，其质量仍不及原始自回归模型，尤其在推理任务上表现逊色。文章《谷歌的DiffusionGemma证明构建文本扩散模型无需从零开始训练》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI的能源需求促使英伟达和亚马逊投入数十亿美元建设大规模电力基础设施</title>
-<link>https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38777</guid>
-<pubDate>Sun, 09 Aug 2026 09:26:28 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】AI行业对电力的渴求持续增长。英伟达正投资高达30亿美元于电力基础设施开发商Lancium，该公司在德克萨斯州已签约四吉瓦的电力合同。与此同时，亚马逊正在该州建设一座容量高达7.65吉瓦的燃气发电厂，每年可能排放3300万吨二氧化碳，使其成为美国最脏的发电厂。文章《AI的能源需求促使英伟达和亚马逊投入数十亿美元建设大规模电力基础设施》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌解散Deepmind，押注全新开局，哈萨比斯或将离场</title>
-<link>https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38774</guid>
-<pubDate>Sun, 09 Aug 2026 08:56:12 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】谷歌Deepmind正在失去其自主性，创始人戴密斯·哈萨比斯可能在未来几个月内彻底离开这家AI实验室。研究员科拉伊·卡武克丘奥卢将接掌日常运营，但不设CEO头衔，所有Gemini开发工作将迁至湾区。内部来看，谷歌在训练前沿模型方面显然面临严重问题，尽管其云业务带来数十亿美元收入。问题在于，这家公司是刻意押注基础设施，还是根本无法追上领先者。文章《谷歌解散Deepmind，押注全新开局，哈萨比斯或将离场》对此进行了探讨。<br/><br/><a href="https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>亚马逊计划中的数据中心或将成为美国最大气候污染源</title>
@@ -438,54 +486,6 @@
 <pubDate>Thu, 06 Aug 2026 16:51:12 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】GitHub恶意软件公告不再局限于npm。本文介绍了我们如何将OpenSSF的恶意软件包数据接入公告数据库，以及为何我们以偏执心态构建这一管道。该文章《我们如何将恶意软件公告扩展到npm之外》最初发布在GitHub博客上。<br/><br/><a href="https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare开源面向非程序员的vibe-coding平台</title>
-<link>https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/</guid>
-<pubDate>Thu, 06 Aug 2026 16:15:30 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Cloudflare为其员工构建了一个AI代理工作空间。现在，它已开源。<br/><br/><a href="https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Z世代约会应用Ditto弃用滑动，转向AI匹配</title>
-<link>https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3150667</guid>
-<pubDate>Thu, 06 Aug 2026 15:53:03 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这一代二十多岁的年轻人对基于滑动的约会应用深感失望，以至于他们愿意尝试任何其他方式——甚至包括AI红娘。<br/><br/><a href="https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI称苹果自身的安全实践削弱了其商业秘密案</title>
-<link>https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3150664</guid>
-<pubDate>Thu, 06 Aug 2026 15:10:32 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】新提交的法庭证据显示，OpenAI在苹果商业秘密诉讼中的法律策略是：主张苹果自身的安全和离职管理实践——包括允许一名苹果经理在前工程师离职后访问其iCloud账户——削弱了其关于所谓被盗信息得到妥善保护的主张。<br/><br/><a href="https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>WeatherNext：AI模型在气旋预报领域取得突破性进展</title>
-<link>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</guid>
-<pubDate>Thu, 06 Aug 2026 15:06:15 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在诉讼缠身之际，Suno宣布将为歌曲添加水印</title>
-<link>https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3150555</guid>
-<pubDate>Thu, 06 Aug 2026 13:31:57 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Suno的水印功能推出之际，该公司正面临多方面的法律诉讼。<br/><br/><a href="https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare AI搜索：为您的数据代理提供搜索引擎</title>
-<link>https://blog.cloudflare.com/ai-search-easier/</link>
-<guid isPermaLink="false">01KZA4HXGQQ9FD8XRZB8E0CJEN</guid>
-<pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】AI搜索让搜索变得前所未有的简单，无需拼接Cloudflare基础组件。只需指向您的数据，即可为您的文件和网站创建搜索功能。同时，我们还将预览新的定价模式。<br/><br/><a href="https://blog.cloudflare.com/ai-search-easier/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
