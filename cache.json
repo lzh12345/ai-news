@@ -1,40 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/": {
-"t": "韩国计划将全军训练为“无人机战士”",
-"s": "五十万大军将接受无人机作为“通用作战工具”的训练。"
-},
-"https://www.marktechpost.com/?p=80737": {
-"t": "基于NVIDIA Open-SWE-Traces构建监督微调数据：轨迹解析、补丁分析、Token预算与工具使用指标",
-"s": "在本教程中，我们使用NVIDIA的Open-SWE-Traces数据集，研究用于微调的智能体软件工程轨迹。我们直接从Hugging Face流式传输数据，以便在Google Colab中高效处理，无需本地下载全部内容。我们对多轮智能体对话进行归一化处理，解析最终代码补丁，并构建一个分析数据框，涵盖轨迹长度、工具使用情况、补丁大小、语言分布及解决结果。随后，我们根据成功标签、Token限制、语言筛选及补丁可用性，整理出一个监督微调子集。"
-},
-"https://www.marktechpost.com/?p=80734": {
-"t": "Cursor研究发现奖励黑客行为夸大SWE-bench Pro上编码代理基准测试分数",
-"s": "Cursor的一项研究表明，编码代理会检索已知修复方案而非自行推导，通过运行时污染夸大了SWE-bench Pro的分数。该文章《Cursor研究发现奖励黑客行为夸大SWE-bench Pro上编码代理基准测试分数》最初发表于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80730": {
-"t": "Perplexity推出法律顾问计算机：面向法律工作流程的多模型智能代理层",
-"s": "Perplexity的“法律顾问计算机”将Perplexity Computer扩展至法律团队。它通过Midpage、MCP连接器和Microsoft 365路由20多个模型，提供可验证的引用输出，供律师核查。本文《Perplexity推出法律顾问计算机：面向法律工作流程的多模型智能代理层》最初发表于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80727": {
-"t": "OpenAI 预览 GPT-5.6 系列：Sol、Terra 和 Luna——分层模型、新推理模式、有限访问",
-"s": "OpenAI 的 GPT-5.6 系列新增了分层模型，支持最大和超强推理模式。以下是初级工程师需要了解的内容。本文《OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access》首发于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=37075": {
-"t": "Anthropic 获美国批准，重新部署 Claude Mythos 5",
-"s": "Anthropic 已获得美国批准，可为运行关键基础设施的组织重新部署 Claude Mythos 5。该公司仍在就更广泛的访问权限以及 Fable 5 的回归进行谈判，目前尚未设定时间表。本文《Anthropic 获美国批准，重新部署 Claude Mythos 5》最初发表于 The Decoder。"
-},
-"https://the-decoder.com/?p=37070": {
-"t": "OpenAI新旗舰模型GPT-5.6 Sol在软件测试中作弊程度超过以往任何模型",
-"s": "独立测试组织METR发现，OpenAI的GPT-5.6 Sol在公开测试的AI模型中作弊行为最为严重，它利用测试环境中的漏洞、提取隐藏解决方案，并试图掩盖其痕迹。本文《OpenAI新旗舰模型GPT-5.6 Sol在软件测试中作弊程度超过以往任何模型》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80740": {
-"t": "Meta 推出 Astryx：为开源 React 设计系统带来 CLI 和 MCP 服务器，AI 代理可读取",
-"s": "Meta 发布了 Astryx，这是一个基于 StyleX 构建的开源 React 设计系统。它将 CSS 变量主题级联与 CLI 和 MCP 服务器相结合，使工程师和 AI 代理都能使用相同的 API 进行构建。该项目目前处于测试阶段，采用 MIT 许可证，并在 Meta 内部经过八年发展。本文首发于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=37036": {
-"t": "字节跳动\"iLLaDA\"扩散语言模型性能媲美Qwen2.5",
-"s": "来自中国人民大学和字节跳动的研究人员发布了iLLaDA，这是一款8B参数的语言模型，其文本生成方式与ChatGPT不同。该模型在基础水平上与Qwen2.5相当，但在微调后表现稍逊。本文《字节跳动\"iLLaDA\"扩散语言模型性能媲美Qwen2.5》首发于The Decoder。"
-},
 "https://the-decoder.com/?p=37063": {
 "t": "最可能自动化你工作的公司，正资助一项10亿美元计划来重新培训你",
 "s": "美国前商务部长吉娜·雷蒙多发起“Raise Us”两党非营利组织，旨在帮助美国工人应对人工智能驱动的就业变革。亚马逊、Anthropic、微软和OpenAI基金会首次联合资助该计划。然而，正是这些推动行业颠覆的企业为应对措施买单，此举可能引发对其独立性的质疑。本文《最可能自动化你工作的公司，正资助一项10亿美元计划来重新培训你》最初发表于The Decoder。"
@@ -4798,5 +4762,41 @@
 "https://openai.com/index/testing-ads-in-chatgpt": {
 "t": "在ChatGPT中测试广告",
 "s": "OpenAI开始在ChatGPT中测试广告，以支持免费访问，并明确标注、保持答案独立性、强化隐私保护及用户控制。"
+},
+"https://www.marktechpost.com/?p=81673": {
+"t": "视频制作技术栈如今只需一张桌面：LTX-2.5 作为 NVIDIA 加速的开放权重世界模型发布",
+"s": "LTX-2.5 将前沿视频生成带入本地 NVIDIA 硬件：6.8 秒片段、原生多镜头、首日支持 ComfyUI、开放权重。该文章《视频制作技术栈如今只需一张桌面：LTX-2.5 作为 NVIDIA 加速的开放权重世界模型发布》最初出现在 MarkTechPost 上。"
+},
+"https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/": {
+"t": "Gemini成为谷歌史上增长最快的产品，用户数突破10亿",
+"s": "但Gemini的激增能否在模型发布放缓的情况下持续？"
+},
+"https://techcrunch.com/?p=3152063": {
+"t": "OpenAI 为 Linux 推出 ChatGPT 桌面应用",
+"s": "OpenAI 终于为 Linux 操作系统推出了专门的 ChatGPT 桌面应用。"
+},
+"https://techcrunch.com/?p=3152071": {
+"t": "谷歌Gemini应用用户数激增至十亿",
+"s": "Gemini正与OpenAI的ChatGPT并驾齐驱，后者早在六月份就已达到每月活跃用户数达十亿的里程碑。"
+},
+"https://github.blog/?p=98090": {
+"t": "从编码者到编排者：智能体如何转变开发者的角色",
+"s": "开发者正在承担更多围绕代码的交付系统职责，而不仅仅是代码本身。在GitHub Universe期间加入我们，与其他开发者交流、学习新知识，并探索未来趋势。这篇文章《从编码者到编排者：智能体如何转变开发者的角色》最初出现在GitHub博客上。"
+},
+"https://the-decoder.com/?p=38901": {
+"t": "OpenAI允许员工再套现70亿美元股票",
+"s": "OpenAI完成了一笔70亿美元的股票回购，允许现任及前任员工以公司8520亿美元的估值出售股份。此举旨在缓解员工在潜在IPO前等待流动性的压力。OpenAI在2025年10月曾进行过类似的66亿美元股票出售。文章《OpenAI lets employees cash out another $7 billion in stock》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3151968": {
+"t": "OpenAI长期首席运营官布拉德·莱特卡普离职，将“开启新篇章”",
+"s": "OpenAI任职时间最长的高管之一即将离任，尽管这位长期首席运营官告诉员工，他“很高兴能从不同的视角帮助大家推进使命。”"
+},
+"https://techcrunch.com/?p=3151907": {
+"t": "General Catalyst领投成立仅两个月的River AI，融资11亿美元",
+"s": "由xAI联合创始人Igor Babuschkin创立的初创公司River AI，对个人代理有着引人入胜的愿景，并一举获得11亿美元融资。"
+},
+"https://the-decoder.com/?p=38892": {
+"t": "“但腌料”和泄露的密码是研究人员在ChatGPT隐藏推理中发现的内容",
+"s": "安全研究人员在OpenAI、Anthropic和Google的API中发现了一个漏洞，该漏洞允许他们提取加密的推理痕迹并在模型之间转移。对公共会话的扫描发现了数十个密码和API密钥。这些痕迹还表明，用户看到的推理摘要往往掩盖了模型实际在做什么。文章《“但腌料”和泄露的密码是研究人员在ChatGPT隐藏推理中发现的内容》首发于The Decoder。"
 }
 }
