@@ -1,36 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80724": {
-"t": "认识 container：苹果在 Apple Silicon 上以轻量级虚拟机运行 Linux 容器的开源 Swift 工具",
-"s": "苹果发布了 container 1.0，这是一款开源 Swift 工具，可在 Apple Silicon 上以轻量级虚拟机的方式运行 Linux 容器。本文《认识 container：苹果在 Apple Silicon 上以轻量级虚拟机运行 Linux 容器的开源 Swift 工具》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80721": {
-"t": "在Google Colab中构建纳米机器人风格AI智能体：集成工具调用、会话记忆、技能与MCP服务器",
-"s": "本教程将构建一个受纳米机器人架构启发的轻量级个人AI智能体，完全可在Google Colab中运行。我们从提供者抽象层开始，逐步添加工具注册、会话记忆、生命周期钩子、技能以及MCP风格的工具服务器。我们不依赖外部框架，而是自行重建每个基础模块，以理解消息、工具、记忆和模型响应如何协同工作。最终形成一个与提供者无关的智能体循环，可扩展至真实LLM提供者和生产级工具。"
-},
-"https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/": {
-"t": "《纽约时报》抨击微软为OpenAI构建侵犯版权的超级计算机",
-"s": "在美国最高法院对索尼案作出不利裁决后，《纽约时报》调整了对OpenAI/微软的版权指控。"
-},
-"https://techcrunch.com/?p=3136773": {
-"t": "OpenAI 应政府要求限制 GPT-5.6 发布，称此类限制不应成为常态",
-"s": "“我们认为这种政府介入流程不应成为长期默认做法，”OpenAI 表示，“这会让最优秀的工具无法触及用户、开发者、企业、网络防御者以及全球合作伙伴，而他们正需要这些工具。”"
-},
-"https://the-decoder.com/?p=37054": {
-"t": "OpenAI发布GPT-5.6 Sol，与Claude Mythos竞争，但受制于其称不可持续的政府准入规则",
-"s": "OpenAI的新旗舰模型GPT-5.6 Sol在编程基准测试中击败了Anthropic的Claude Mythos 5，但美国政府强制要求限制其发布。OpenAI对此表示不满。本文《OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3136733": {
-"t": "OpenAI 挖角 Uber 印度负责人，领导其美国以外最大市场",
-"s": "此次聘用标志着 OpenAI 进一步拓展印度市场，扩大办公室、合作伙伴关系并加大招聘力度。"
-},
-"https://techcrunch.com/?post_type=tc_video&p=3136708": {
-"t": "从OpenAI到SpaceX，为何都在自研芯片（并给英伟达加压）",
-"s": "英伟达多年来一直主导着AI芯片市场，但完全依赖它的时代或许即将终结。OpenAI刚刚公布了其计划，将与博通合作打造定制推理芯片Jalapeño，加入谷歌、苹果和SpaceX等日益壮大的公司行列，通过自研芯片来摆脱单一供应商风险。其目标是减少对……"
-},
-"https://techcrunch.com/?p=3136944": {
-"t": "特朗普政府发布Anthropic Mythos，供100多家美国企业及机构使用",
-"s": "据报道，超过100家企业和政府机构获准使用Mythos 5，其中包括其非美国籍员工。"
-},
 "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/": {
 "t": "韩国计划将全军训练为“无人机战士”",
 "s": "五十万大军将接受无人机作为“通用作战工具”的训练。"
@@ -4798,5 +4766,37 @@
 "https://www.marktechpost.com/?p=81656": {
 "t": "使用ComfyUI API实现MiniMax-H3多模态视频与音频生成流水线",
 "s": "在本全面指南中，我们演示了如何实现一个完整、可编程的MiniMax-H3多模态生成流水线。通过利用ComfyUI作为无头后端，我们逐步介绍了设置自动化推理环境的过程，该环境处理硬件性能分析、模型权重下载、动态图构建以及视频-音频联合解码。文章《使用ComfyUI API实现MiniMax-H3多模态视频与音频生成流水线》首次出现在MarkTechPost上。"
+},
+"https://techcrunch.com/?p=3151819": {
+"t": "Anthropic未发布模型在数学最大未解难题之一上取得进展",
+"s": "150多年来，黎曼猜想一直是数学领域的主要未解难题之一。Anthropic并未解决它——但该公司的模型取得的进展可能超出你的预期。"
+},
+"https://www.marktechpost.com/?p=81669": {
+"t": "使用OctoBot构建并验证量化交易策略：前向走查回测、参数优化与交互式分析",
+"s": "在本教程中，我们使用OctoBot和OctoBot-Script构建一个完整的量化回测工作流，同时将环境与Colab预装依赖隔离。我们配置了一个基于规则的交易策略，该策略结合了基于RSI的超卖信号、EMA趋势确认以及ATR驱动的自适应止损和止盈水平，并通过OctoBot的原生市价单和回测API执行该策略。[…] 这篇文章《使用OctoBot构建并验证量化交易策略：前向走查回测、参数优化与交互式分析》首次出现在..."
+},
+"https://the-decoder.com/?p=38883": {
+"t": "英伟达开源权重Nemotron 3.5 Lightning：速度优先于极致智能",
+"s": "英伟达的Nemotron 3.5 Lightning是一款开源权重模型，仅拥有36亿个活跃参数，在智能指数上与OpenAI的gpt-oss-120b相当，尽管其规模仅为后者的四分之一。该模型每秒处理近670个令牌，是对比中速度最快的模型，这表明英伟达正押注于效率而非原始规模。文章《英伟达开源权重Nemotron 3.5 Lightning：速度优先于极致智能》首发于The Decoder。"
+},
+"https://huggingface.co/blog/ibm-research/altk-evolve-sldd": {
+"t": "考虑ACE？我们可以用更少的令牌实现",
+"s": "（无）"
+},
+"https://techcrunch.com/?p=3151643": {
+"t": "Spotify将为“AI人设”档案打标签，并默认将其音乐排除在推荐之外",
+"s": "Spotify正在为代表AI生成身份的艺术家档案引入“AI人设”标签，并默认将这些音乐从编辑、算法及个性化推荐中排除。"
+},
+"01KZQNDKFVX2ZXMBEHCJJHFH8N": {
+"t": "Cloudflare 2026年上半年DDoS威胁报告：1 Tbps攻击激增，DNS洪水与地缘政治紧张局势掀起新浪潮",
+"s": "2026年上半年，Cloudflare在其网络上检测到超大规模DDoS攻击激增519%。这些攻击主要由DNS和CLDAP反射向量驱动。本报告解析了重大地缘政治冲突如何重塑全球网络威胁格局。"
+},
+"https://the-decoder.com/?p=38880": {
+"t": "Anthropic计划中的大型IPO面临投资者对中国竞争对手及政治逆风的质疑",
+"s": "据《华尔街日报》报道，Anthropic正准备于9月或10月进行IPO，可能成为史上最大规模。在投资者会议期间，这家估值达9650亿美元的公司正面临关于中国竞争、与特朗普政府关系紧张以及数据中心建设抗议等尖锐问题。该公司的IPO估值很可能为整个AI行业的估值设定基准。文章《Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds》最初发表于The Decoder。"
+},
+"https://openai.com/index/testing-ads-in-chatgpt": {
+"t": "在ChatGPT中测试广告",
+"s": "OpenAI开始在ChatGPT中测试广告，以支持免费访问，并明确标注、保持答案独立性、强化隐私保护及用户控制。"
 }
 }

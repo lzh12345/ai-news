@@ -5,8 +5,64 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 11 Aug 2026 12:44:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 16:49:35 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic未发布模型在数学最大未解难题之一上取得进展</title>
+<link>https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151819</guid>
+<pubDate>Tue, 11 Aug 2026 16:25:20 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】150多年来，黎曼猜想一直是数学领域的主要未解难题之一。Anthropic并未解决它——但该公司的模型取得的进展可能超出你的预期。<br/><br/><a href="https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用OctoBot构建并验证量化交易策略：前向走查回测、参数优化与交互式分析</title>
+<link>https://www.marktechpost.com/2026/08/11/building-and-validating-a-quantitative-trading-strategy-with-octobot-walk-forward-backtesting-parameter-optimization-and-interactive-analysis/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81669</guid>
+<pubDate>Tue, 11 Aug 2026 15:17:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用OctoBot和OctoBot-Script构建一个完整的量化回测工作流，同时将环境与Colab预装依赖隔离。我们配置了一个基于规则的交易策略，该策略结合了基于RSI的超卖信号、EMA趋势确认以及ATR驱动的自适应止损和止盈水平，并通过OctoBot的原生市价单和回测API执行该策略。[…] 这篇文章《使用OctoBot构建并验证量化交易策略：前向走查回测、参数优化与交互式分析》首次出现在...<br/><br/><a href="https://www.marktechpost.com/2026/08/11/building-and-validating-a-quantitative-trading-strategy-with-octobot-walk-forward-backtesting-parameter-optimization-and-interactive-analysis/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>英伟达开源权重Nemotron 3.5 Lightning：速度优先于极致智能</title>
+<link>https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38883</guid>
+<pubDate>Tue, 11 Aug 2026 15:07:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】英伟达的Nemotron 3.5 Lightning是一款开源权重模型，仅拥有36亿个活跃参数，在智能指数上与OpenAI的gpt-oss-120b相当，尽管其规模仅为后者的四分之一。该模型每秒处理近670个令牌，是对比中速度最快的模型，这表明英伟达正押注于效率而非原始规模。文章《英伟达开源权重Nemotron 3.5 Lightning：速度优先于极致智能》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>考虑ACE？我们可以用更少的令牌实现</title>
+<link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-sldd</guid>
+<pubDate>Tue, 11 Aug 2026 13:37:10 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/ibm-research/altk-evolve-sldd">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Spotify将为“AI人设”档案打标签，并默认将其音乐排除在推荐之外</title>
+<link>https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151643</guid>
+<pubDate>Tue, 11 Aug 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Spotify正在为代表AI生成身份的艺术家档案引入“AI人设”标签，并默认将这些音乐从编辑、算法及个性化推荐中排除。<br/><br/><a href="https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare 2026年上半年DDoS威胁报告：1 Tbps攻击激增，DNS洪水与地缘政治紧张局势掀起新浪潮</title>
+<link>https://blog.cloudflare.com/ddos-threat-report-2026-h1/</link>
+<guid isPermaLink="false">01KZQNDKFVX2ZXMBEHCJJHFH8N</guid>
+<pubDate>Tue, 11 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】2026年上半年，Cloudflare在其网络上检测到超大规模DDoS攻击激增519%。这些攻击主要由DNS和CLDAP反射向量驱动。本报告解析了重大地缘政治冲突如何重塑全球网络威胁格局。<br/><br/><a href="https://blog.cloudflare.com/ddos-threat-report-2026-h1/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic计划中的大型IPO面临投资者对中国竞争对手及政治逆风的质疑</title>
+<link>https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38880</guid>
+<pubDate>Tue, 11 Aug 2026 12:49:15 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据《华尔街日报》报道，Anthropic正准备于9月或10月进行IPO，可能成为史上最大规模。在投资者会议期间，这家估值达9650亿美元的公司正面临关于中国竞争、与特朗普政府关系紧张以及数据中心建设抗议等尖锐问题。该公司的IPO估值很可能为整个AI行业的估值设定基准。文章《Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic表示将为其AI模型生成的文本添加水印</title>
 <link>https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/</link>
@@ -30,6 +86,14 @@
 <pubDate>Tue, 11 Aug 2026 11:33:00 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】据彭博社报道，Anthropic将从比特币矿商Riot Platforms租赁位于德克萨斯州的价值91亿美元的数据中心容量。该协议涵盖Riot Rockdale基地的191兆瓦电力，并包含可扩展选项，总价值可能增至161亿美元。这是Anthropic在基础设施领域积极扩张的最新举措，其合作伙伴从亚马逊延伸至SpaceX和谷歌。文章《Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>在ChatGPT中测试广告</title>
+<link>https://openai.com/index/testing-ads-in-chatgpt</link>
+<guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+<pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI开始在ChatGPT中测试广告，以支持免费访问，并明确标注、保持答案独立性、强化隐私保护及用户控制。<br/><br/><a href="https://openai.com/index/testing-ads-in-chatgpt">阅读原文</a>]]></description>
 </item>
 <item>
 <title>英伟达为其芯片价值提供担保，以解锁5000亿美元AI基础设施融资</title>
@@ -232,14 +296,6 @@
 <description><![CDATA[【arstechnica.com】随着研究论文和AI辅助论文数量的激增，志愿评审员们难以跟上步伐。<br/><br/><a href="https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI收购NextSlide，将AI生成演示文稿引入ChatGPT</title>
-<link>https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38819</guid>
-<pubDate>Mon, 10 Aug 2026 10:08:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI收购了NextSlide，这家初创公司能将提示、笔记、文档和研究转化为可编辑的演示文稿。文章《OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>让知识蒸馏成本足够低，以便大规模运行</title>
 <link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
 <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</guid>
@@ -262,14 +318,6 @@
 <pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】经批准的Daybreak合作伙伴可使用OpenAI的前沿网络模型，为客户提供经授权且受监管的网络安全服务。<br/><br/><a href="https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands">阅读原文</a>]]></description>
-</item>
-<item>
-<title>PDF中的隐藏文本足以通过Atlassian的AI代理Rovo窃取敏感数据</title>
-<link>https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38806</guid>
-<pubDate>Mon, 10 Aug 2026 08:46:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】安全公司PromptArmor展示了PDF中的隐藏指令如何劫持Atlassian的AI代理Rovo，悄无声息地将Jira和Confluence中的敏感数据转发至外部服务器。该攻击无需用户确认，且不留痕迹。文章《PDF中的隐藏文本足以通过Atlassian的AI代理Rovo窃取敏感数据》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>字节跳动Seed推出SeedRealtime：一款原生视听全双工大语言模型，集观看、聆听与说话于一体</title>
@@ -408,14 +456,6 @@
 <description><![CDATA[【arstechnica.com】开源WeatherNext模型能以较低分辨率的气象数据做出准确预测。<br/><br/><a href="https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出</title>
-<link>https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81626</guid>
-<pubDate>Sat, 08 Aug 2026 09:42:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】深入了解Reflex XY Python库的高级可视化功能。本教程指导您构建高性能、交互式图表——从处理百万点数据集和实时流式处理，到创建自定义标记插件和导出出版级视觉效果。文章《使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI称因安全顾虑放缓Astra模型开发</title>
 <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151331</guid>
@@ -446,46 +486,6 @@
 <pubDate>Fri, 07 Aug 2026 17:36:22 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】古尔曼报道称，OpenAI确认该音箱并非苹果产品的仿制品。<br/><br/><a href="https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare推出Kitesurf，一款专为AI代理打造的浏览器</title>
-<link>https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3151175</guid>
-<pubDate>Fri, 07 Aug 2026 16:16:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Cloudflare发布了Kitesurf，这是一款面向AI代理而非人类用户的云托管浏览器。该公司表示，该浏览器在执行常见自动化任务时比Chromium消耗更少的计算资源，帮助开发者更高效地构建基于浏览器的AI代理。<br/><br/><a href="https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>应对关键网络能力的新前沿</title>
-<link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
-<guid isPermaLink="false">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</guid>
-<pubDate>Fri, 07 Aug 2026 15:20:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI正在分享针对Astra的初步网络安全评估，以及我们为加强防护措施和安全控制所采取的步骤。<br/><br/><a href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Airbnb表示，AI正助其加快功能发布速度，并测试新搜索功能</title>
-<link>https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3151106</guid>
-<pubDate>Fri, 07 Aug 2026 14:22:49 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Airbnb将推出一项由AI驱动的新搜索体验，并配备一个切换开关。<br/><br/><a href="https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>吉尔·勒波尔谈“人工国家”及硅谷领袖为何不擅长阅读科幻小说</title>
-<link>https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3151233</guid>
-<pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】历史学家吉尔·勒波尔有一个理论，解释为何科技公司常以高亢言辞描述其产品——几乎像是在组建一个新政府。无论你想到的是推特旧时的“口袋里的市政厅”，还是Anthropic的Claude宪法，这一理论都未给硅谷带来多少光彩。在勒波尔即将出版的新书《人工国家的兴衰》中，这位普利策奖得主……<br/><br/><a href="https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI聊天机器人在危机中辜负了人们。这能修复吗？</title>
-<link>https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/</guid>
-<pubDate>Fri, 07 Aug 2026 13:49:37 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】临床医生和研究人员表示，AI公司需要公开其安全数据。<br/><br/><a href="https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
