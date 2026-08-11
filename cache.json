@@ -1,36 +1,4 @@
 {
-"https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/": {
-"t": "谷歌终于推出金融安卓应用，承诺2026年晚些时候发布iOS版本",
-"s": "历经20年，金融应用终于面世，并恰逢其时地融入了大量人工智能功能。"
-},
-"https://techcrunch.com/?p=3136540": {
-"t": "白宫因安全顾虑要求OpenAI推迟新模型发布",
-"s": "据报道，OpenAI计划仅向特定合作伙伴分享其最新模型GPT 5.6，而非面向更广泛的公众。原因在于：特朗普政府已就此提出要求。"
-},
-"https://github.blog/?p=97041": {
-"t": "评估GitHub Copilot智能体框架在多种模型和任务中的性能与效率",
-"s": "探索GitHub Copilot智能体框架如何在多个基准测试中取得优异表现，并实现领先的令牌效率，同时保持选择20多种模型的灵活性。本文《评估GitHub Copilot智能体框架在多种模型和任务中的性能与效率》首发于GitHub博客。"
-},
-"https://the-decoder.com/?p=37018": {
-"t": "Linux 基金会与 20 家科技巨头联合推出 Akrites，在 AI 攻击前修复开源漏洞",
-"s": "约二十家科技公司、AI 实验室和银行通过 Akrites 联手，在 AI 工具利用关键开源软件漏洞之前进行修复。本文《Linux 基金会与 20 家科技巨头联合推出 Akrites，在 AI 攻击前修复开源漏洞》首发于 The Decoder。"
-},
-"https://the-decoder.com/?p=37014": {
-"t": "OpenAI的GPT-5.6发布现需美国政府按“逐个客户”审批",
-"s": "应美国政府要求，OpenAI将初步仅向特定合作伙伴提供其新模型GPT-5.6，且访问权限需按“逐个客户”方式审批。CEO山姆·奥尔特曼表示，这并非“长期偏好的模式”。在Anthropic的Fable模型被强制下架后，AI实验室担忧实际上已形成针对AI模型的许可制度。本文《OpenAI的GPT-5.6发布现需美国政府按“逐个客户”审批》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3136609": {
-"t": "TechCrunch创始人峰会早鸟票价今晚截止",
-"s": "参加2026年TechCrunch创始人峰会的通行证可节省高达190美元。早鸟票价将于太平洋时间今晚11:59结束，之后价格将上涨。请立即注册。"
-},
-"https://the-decoder.com/?p=37025": {
-"t": "奥特曼坚持万亿估值才上市，OpenAI IPO或推迟至2027年",
-"s": "顾问建议OpenAI推迟至明年再上市。触发因素包括：科技市场波动剧烈，以及SpaceX在创纪录IPO后股价表现疲软。OpenAI最大投资者之一软银集团单日市值蒸发13%。本文《奥特曼坚持万亿估值才上市，OpenAI IPO或推迟至2027年》首发于The Decoder。"
-},
-"https://github.blog/?p=97031": {
-"t": "作为Hubber的转变",
-"s": "GitHub的文化与福利如何帮助我成为最好的自己。这篇文章《作为Hubber的转变》最初发表于GitHub博客。"
-},
 "https://the-decoder.com/?p=37022": {
 "t": "Anthropic不再需要初级工程师，AI引发经济冲击预警，其他行业或将效仿",
 "s": "\"直觉回报\"：为何Anthropic不再需要初级工程师，并发出经济冲击警告。文章《Anthropic不再需要初级工程师，AI引发经济冲击预警，其他行业或将效仿》首发于The Decoder。"
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/premium-seats-chatgpt-business": {
 "t": "ChatGPT Business 即将推出高级席位",
 "s": "ChatGPT Business 即将推出高级席位。在8月20日前注册，即可获得100美元的工作区积分，并为团队最繁重的工作解锁更高使用权限。"
+},
+"https://techcrunch.com/?p=3151767": {
+"t": "OpenAI据报道完成了70亿美元员工股票出售要约",
+"s": "旧金山的房地产市场再次陷入困境。"
+},
+"https://techcrunch.com/?p=3151655": {
+"t": "随着AI主导的攻击增多，OpenAI推出新型网络模型",
+"s": "OpenAI正在扩展其AI网络安全防御项目Daybreak，并随之推出一个经过网络训练的新型AI模型。"
+},
+"https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/": {
+"t": "Meta携新开源模型，再度重启其挣扎中的AI战略",
+"s": "Meta一直落后于竞争对手。扎克伯格认为他已找到了前进的方向。"
+},
+"https://techcrunch.com/?p=3151570": {
+"t": "马克·扎克伯格的AI宣言正是人们不喜欢AI的原因",
+"s": "周一，马克·扎克伯格发布了一篇6500字的关于个人AI的宣言，主要围绕Meta AI正在构建的“个人超级智能”系统的可能性展开。"
+},
+"https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/": {
+"t": "亚马逊支持可能成为美国气候污染主要来源的发电厂",
+"s": "亚马逊宣布建设首个离网数据中心，竞逐人工智能利润。"
+},
+"https://www.marktechpost.com/?p=81652": {
+"t": "Meta AI发布Muse Glimmer：一款可在单张消费级GPU上运行的300亿参数开放权重智能体模型",
+"s": "Meta的Muse Glimmer是一款基于Apache 2.0许可的300亿参数开放权重智能体模型。它适配24GB显存，并通过DFlash投机解码实现3.1倍更快的解码速度。该文章最初发表于MarkTechPost。"
+},
+"https://openai.com/index/zapier": {
+"t": "Zapier如何利用ChatGPT Work转型核心营销流程",
+"s": "Zapier的企业营销团队使用ChatGPT Work来减少潜在客户漏斗中的流失率，构建营销活动资产，并自动化报告流程。"
+},
+"https://openai.com/index/virgin-atlantic/chatgpt-work": {
+"t": "维珍大西洋航空借助ChatGPT Work优化客户旅程",
+"s": "维珍大西洋航空正利用ChatGPT Work加速研究、产品规划与决策过程，帮助团队连接客户旅程中的各项信号。"
 }
 }
