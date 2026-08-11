@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 11 Aug 2026 04:59:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 08:44:34 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>OpenAI据报道完成了70亿美元员工股票出售要约</title>
@@ -112,14 +112,6 @@
 <description><![CDATA[【techcrunch.com】Meta新发布的开源权重Muse Glimmer模型，让我们得以一窥马克·扎克伯格的个人超级智能愿景，同时也揭示了用户能够拥有和访问的AI之间日益明显的分野。<br/><br/><a href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta AI发布Muse Glimmer：一款可在单张消费级GPU上运行的300亿参数开放权重智能体模型</title>
-<link>https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81652</guid>
-<pubDate>Mon, 10 Aug 2026 15:11:51 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta的Muse Glimmer是一款基于Apache 2.0许可的300亿参数开放权重智能体模型。它适配24GB显存，并通过DFlash投机解码实现3.1倍更快的解码速度。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI致得州州长阿博特关于负责任AI基础设施的信函</title>
 <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
 <guid isPermaLink="false">https://openai.com/index/responsible-ai-infrastructure-texas</guid>
@@ -216,14 +208,6 @@
 <description><![CDATA[【the-decoder.com】安全公司PromptArmor展示了PDF中的隐藏指令如何劫持Atlassian的AI代理Rovo，悄无声息地将Jira和Confluence中的敏感数据转发至外部服务器。该攻击无需用户确认，且不留痕迹。文章《PDF中的隐藏文本足以通过Atlassian的AI代理Rovo窃取敏感数据》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>字节跳动Seed推出SeedRealtime：一款原生视听全双工大语言模型，集观看、聆听与说话于一体</title>
-<link>https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81648</guid>
-<pubDate>Mon, 10 Aug 2026 05:48:17 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】字节跳动Seed团队推出了SeedRealtime，这是一款原生视听全双工大语言模型。该模型在统一架构中融合了音频、视频和文本，能够通过连续多模态流进行实时交互，而非逐轮处理。Seed将其定位为迈向全模态交互的一步，并声称实现了三大突破：联合视听理解、[…] 该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta携Muse Glimmer回归：本地化、智能体化、多模态且开源</title>
 <link>https://huggingface.co/blog/muse-glimmer</link>
 <guid isPermaLink="false">https://huggingface.co/blog/muse-glimmer</guid>
@@ -256,14 +240,6 @@
 <description><![CDATA[【openai.com】维珍大西洋航空正利用ChatGPT Work加速研究、产品规划与决策过程，帮助团队连接客户旅程中的各项信号。<br/><br/><a href="https://openai.com/index/virgin-atlantic/chatgpt-work">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NVIDIA发布NemotronLabs VoiceChat 11B：一款开放的全双工语音到语音模型，具备约450毫秒的轮流对话和实时工具调用功能</title>
-<link>https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81644</guid>
-<pubDate>Sun, 09 Aug 2026 23:58:34 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA发布了NemotronLabs VoiceChat 11B，这是一款开放的全双工语音到语音模型，具有448毫秒的延迟和实时工具调用能力。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>陷入困境的对冲基金Situational Awareness向芯片初创公司Source Foundry投资4亿美元</title>
 <link>https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151435</guid>
@@ -278,14 +254,6 @@
 <pubDate>Sun, 09 Aug 2026 19:20:32 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】使用 Claude Code 进行编程将很快需要更少的人工监督。<br/><br/><a href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年顶级LLM可观测性与评估平台对比：Langfuse、LangSmith、Braintrust、Arize等</title>
-<link>https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81640</guid>
-<pubDate>Sun, 09 Aug 2026 18:15:30 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】一份经过验证的2026年LLM可观测性平台对比，涵盖追踪深度、评估能力、生产监控及定价。文章《2026年顶级LLM可观测性与评估平台对比：Langfuse、LangSmith、Braintrust、Arize等》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>历史学家吉尔·勒波尔指出硅谷误读科幻小说并削弱民主</title>
@@ -336,28 +304,12 @@
 <description><![CDATA[【the-decoder.com】谷歌DeepMind并未从零开始训练新模型，而是利用不到原始训练预算10%的资源，将Gemma 4改造为扩散模型。DiffusionGemma并行生成256个令牌，而非逐个生成，每秒可处理约1500个令牌。在基准测试中，其质量仍不及原始自回归模型，尤其在推理任务上表现逊色。文章《谷歌的DiffusionGemma证明构建文本扩散模型无需从零开始训练》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习进行IMDb情感分析</title>
-<link>https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81637</guid>
-<pubDate>Sun, 09 Aug 2026 07:17:35 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】本教程提供了构建稳健情感分析工作流程的全面指南。通过将经典TF-IDF基线与现代参数高效微调（DistilBERT + LoRA）相结合，我们探索了深度模型的可解释性、校准及半监督技术，以实现可扩展的情感推断。该文章《IMDb情感分析：DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>亚马逊计划中的数据中心或将成为美国最大气候污染源</title>
 <link>https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151379</guid>
 <pubDate>Sat, 08 Aug 2026 21:24:02 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】作为德克萨斯州计划中的数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。<br/><br/><a href="https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>认识 Shepherd：一款开源 Python 基座，让元代理能够分叉、重放和回滚任意代理运行</title>
-<link>https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81633</guid>
-<pubDate>Sat, 08 Aug 2026 20:54:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】长时间运行的代理会积累状态，而这些状态是任何转录记录都无法捕捉的——比如编辑过的文件、活跃的开发服务器、已安装的软件包、以及热提示缓存。当代理在第 10 步误读回溯并重写了一个正确的文件时，打补丁向前推进会消耗令牌，而重启则会重新支付每一次调用。东北大学和斯坦福大学的研究人员发布了 Shepherd，这是一个采用 MIT 许可的 Python 运行时基座，它将代理与环境的每一次交互记录为类似 Git 的执行轨迹中的类型化事件。每个提交都同时涵盖代理进程和文件系统，采用写时复制机制，因此回滚可以恢复实时状态。<br/><br/><a href="https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI 收购演示文稿初创公司 NextSlide</title>
@@ -368,14 +320,6 @@
 <description><![CDATA[【techcrunch.com】NextSlide 表示其团队成员现正致力于 ChatGPT 的开发工作。<br/><br/><a href="https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Pokee AI发布Pokee-Isaac 28B：一款可在客户边界内运行的千万级Token上下文智能体模型</title>
-<link>https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81629</guid>
-<pubDate>Sat, 08 Aug 2026 17:04:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Pokee AI发布了Pokee-Isaac 28B，这是一款拥有1000万Token上下文窗口的28B纯文本基础模型，专为在客户边界内运行而设计。它在10M Token下RULER得分93.3%，而对比组中所有基线在超过2M后均返回0.0；在BFCL v4上以70.94领先，并在Terminal-Bench 2.1上排名第二。在单个B200上，全上下文预填充速度达到137,200 Token/秒，解码速度稳定在约335 Token/秒。权重未公开；部署通过许可方式进入VPC、本地或设备端，列表定价为每百万Token $0.15/$1.00。帖子《Pokee AI Releases Pokee-Is<br/><br/><a href="https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>DeepMind在飓风预测上的突破令气象科学家惊讶</title>
 <link>https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/</link>
 <guid isPermaLink="false">https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/</guid>
@@ -384,36 +328,12 @@
 <description><![CDATA[【arstechnica.com】开源WeatherNext模型能以较低分辨率的气象数据做出准确预测。<br/><br/><a href="https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出</title>
-<link>https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81626</guid>
-<pubDate>Sat, 08 Aug 2026 09:42:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】深入了解Reflex XY Python库的高级可视化功能。本教程指导您构建高性能、交互式图表——从处理百万点数据集和实时流式处理，到创建自定义标记插件和导出出版级视觉效果。文章《使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Mistral AI发布Shieldstral 1.0 3B：一款开放权重、策略自适应的多模态安全分类器，性能媲美其7倍大小的模型</title>
-<link>https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81620</guid>
-<pubDate>Sat, 08 Aug 2026 04:36:26 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Mistral AI发布了Shieldstral 1.0 3B，这是一款开放权重、策略自适应的多模态安全分类器，将内容审核框架化为一个简单的“是/否”问题，而非固定的危害分类体系。操作者可在推理时以自然语言查询的形式提供策略，并通过一次前向传播获得校准的安全评分——无需重新训练即可调整模型目标。该模型基于Ministral-3-3B-Base-2512构建，配备Pixtral视觉编码器，并在约5410万个样本上训练，报告显示其在文本安全方面的平均F1分数为84.9%（与GPT-OSS-Safeguard-20B相当），多模态安全方面为83.8%，以及91.3%的……<br/><br/><a href="https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI称因安全顾虑放缓Astra模型开发</title>
 <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151331</guid>
 <pubDate>Fri, 07 Aug 2026 22:48:24 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI表示，这款仍在开发中的模型已达到其“关键网络安全阈值”，意味着它能够独立识别并对传统上防护良好的现实世界系统发起网络攻击。<br/><br/><a href="https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>腾讯云开源TencentDB Agent Memory v2.0：面向AI编程代理的团队级记忆中心</title>
-<link>https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81617</guid>
-<pubDate>Fri, 07 Aug 2026 21:52:48 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】腾讯云已开源TencentDB Agent Memory v2.0，这是一个团队级记忆中心，可将对话、文档和代码转化为四种受管且可复用的资产——聊天记忆、技能、LLM维基和代码图谱。该项目采用MIT许可证，可通过Docker自托管，并集成了Claude Code、OpenClaw、Hermes和CodeBuddy。其差异化优势不在于检索，而在于治理：基于ACL的可见性决定了哪个代理可访问哪些资产，以及哪个版本有效。原文《腾讯云开源TencentDB Agent Memory v2.0：面向AI编程代理的团队级记忆中心》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Rippling数月烧掉数百万于AI后，打造员工投资回报率工具</title>
@@ -486,6 +406,86 @@
 <pubDate>Fri, 07 Aug 2026 13:29:22 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】TikTok母公司正在训练一个拥有10万亿参数的模型。<br/><br/><a href="https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>揭示代理互联网上的良好与不良行为</title>
+<link>https://blog.cloudflare.com/good-and-bad-agentic-behaviors/</link>
+<guid isPermaLink="false">01KZCHBWNB93JTTPTBKQZF0SG9</guid>
+<pubDate>Fri, 07 Aug 2026 13:01:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare正在将机器人缓解从时点风险评估转向持续信任评估。了解我们的系统（包括BotBase和Precursor）如何评估机器人和代理的新良好与不良行为——并尝试我们的Precursor Trace模拟，看看您自己的光标移动会被评估为人类还是机器人。<br/><br/><a href="https://blog.cloudflare.com/good-and-bad-agentic-behaviors/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出Radar Researcher：用自然语言探索互联网数据的AI工具</title>
+<link>https://blog.cloudflare.com/introducing-radar-researcher/</link>
+<guid isPermaLink="false">01KZCGVT7YXBW6BH8Y05159WAR</guid>
+<pubDate>Fri, 07 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare Radar Researcher是一款全新的AI驱动工具，让您能用自然语言探索全球互联网趋势和流量数据。它完全构建在Cloudflare的开发者平台上，将自然语言查询转化为真实、交互式的图表。<br/><br/><a href="https://blog.cloudflare.com/introducing-radar-researcher/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>宣布Cloudflare大使、社区工程师计划，并追加100万美元开源资金支持</title>
+<link>https://blog.cloudflare.com/community-program-refresh/</link>
+<guid isPermaLink="false">01KZCB7QVKW1EKYJAYCVTDKH4K</guid>
+<pubDate>Fri, 07 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们正在推出更新的社区项目，包括Cloudflare大使和社区工程师，并得到100万美元开源资金的支持。了解我们如何支持维护者并扩展开发者社区。<br/><br/><a href="https://blog.cloudflare.com/community-program-refresh/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>将 Workers AI 与 AI Gateway 统一为单一 AI 控制平面</title>
+<link>https://blog.cloudflare.com/workers-ai-gateway-unification/</link>
+<guid isPermaLink="false">01KZA4HFQTZ276N6FJQ3CS9ACG</guid>
+<pubDate>Fri, 07 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare 正在将 AI Gateway 和 Workers AI 整合为一个统一控制平面，为开发者提供跨托管 GPU 和外部提供商的观测性、计费和动态路由。了解统一绑定和模型优先路由如何简化构建弹性 AI 应用的过程。<br/><br/><a href="https://blog.cloudflare.com/workers-ai-gateway-unification/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>新墨西哥州法院责令Meta在儿童安全案中额外支付5.67亿美元</title>
+<link>https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151093</guid>
+<pubDate>Fri, 07 Aug 2026 11:40:37 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在此案中，Meta的罚款总额已累计至9.42亿美元<br/><br/><a href="https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>HSP GRUPPE如何构建税务咨询的AI能力</title>
+<link>https://openai.com/index/hsp-gruppe</link>
+<guid isPermaLink="false">https://openai.com/index/hsp-gruppe</guid>
+<pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】了解HSP GRUPPE如何利用ChatGPT Enterprise提升生产力、改善工作质量，并为税务咨询和客户服务创造更多容量。<br/><br/><a href="https://openai.com/index/hsp-gruppe">阅读原文</a>]]></description>
+</item>
+<item>
+<title>缩放分类流映射</title>
+<link>https://machinelearning.apple.com/research/scaling-categorical-flow-maps</link>
+<guid isPermaLink="false">scaling-categorical-flow-maps</guid>
+<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】连续扩散和流匹配模型可能成为语言建模（LM）中自回归方法的有力替代方案，因为它们解锁了目前仅适用于连续模态的一系列优势，包括加速采样和倾斜。近期，多项研究展示了通过高斯分布与独热编码数据分布之间的简单流匹配过程，连续生成离散数据的可能性。他们进一步证明了通过分类流映射（CFMs）实现加速采样的可行性，从而产生具有竞争力的样本……<br/><br/><a href="https://machinelearning.apple.com/research/scaling-categorical-flow-maps">阅读原文</a>]]></description>
+</item>
+<item>
+<title>超越下一个词元预测：扩散式与自回归语言模型的性能特征对比研究</title>
+<link>https://machinelearning.apple.com/research/diffusion-autoregressive-performance</link>
+<guid isPermaLink="false">diffusion-autoregressive-performance</guid>
+<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】大型语言模型（LLMs）已在广泛自然语言处理（NLP）任务中达到最先进性能，包括文档处理和代码生成。自回归语言模型（ARMs）通过依次生成词元并基于所有先前词元进行条件化，一直是LLMs的主导范式。尽管这些模型在多种下游任务中实现了高精度，但由于下一个词元预测中固有的顺序依赖性，它们表现出较低的算术强度。近期，扩散语言模型（DLMs）作为一种有前景的替代方案崭露头角……<br/><br/><a href="https://machinelearning.apple.com/research/diffusion-autoregressive-performance">阅读原文</a>]]></description>
+</item>
+<item>
+<title>套利：通过优势感知推测实现高效推理</title>
+<link>https://machinelearning.apple.com/research/arbitrage-efficient-reasoning</link>
+<guid isPermaLink="false">arbitrage-efficient-reasoning</guid>
+<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】现代大型语言模型通过长思维链实现了令人印象深刻的推理能力，但这在推理过程中带来了巨大的计算成本，因此推动了提升性能-成本比的技术发展。在这些技术中，推测解码通过使用快速但不精确的草稿模型自回归地提出令牌，然后由更强大的目标模型并行验证这些令牌，从而加速推理。然而，由于在语义等价步骤中令牌不匹配导致的不必要拒绝，传统的令牌级推测解码……<br/><br/><a href="https://machinelearning.apple.com/research/arbitrage-efficient-reasoning">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI新型AI智能音箱据报售价将在300至400美元之间</title>
+<link>https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151017</guid>
+<pubDate>Thu, 06 Aug 2026 22:43:53 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】关于OpenAI神秘新AI设备的更多细节显示，它可能是一款价格不菲的智能音箱。<br/><br/><a href="https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
