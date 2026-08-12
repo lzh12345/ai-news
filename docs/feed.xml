@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 11 Aug 2026 20:36:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 01:12:20 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Accel在上一轮融资19个月后，数周内完成超额认购的5.5亿美元印度基金</title>
+<link>https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3151839</guid>
+<pubDate>Tue, 11 Aug 2026 21:39:11 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这家美国风险投资公司仍有超过55%的上一期6.5亿美元印度基金可供部署。<br/><br/><a href="https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>视频制作技术栈如今只需一张桌面：LTX-2.5 作为 NVIDIA 加速的开放权重世界模型发布</title>
 <link>https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model/</link>
@@ -166,6 +174,14 @@
 <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI开始在ChatGPT中测试广告，以支持免费访问，并明确标注、保持答案独立性、强化隐私保护及用户控制。<br/><br/><a href="https://openai.com/index/testing-ads-in-chatgpt">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Daybreak模型现已登陆AWS</title>
+<link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+<guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
+<pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI与AWS通过Amazon Bedrock提供Daybreak网络安全能力，以支持企业安全工作流程。<br/><br/><a href="https://openai.com/index/daybreak-models-are-now-available-on-aws">阅读原文</a>]]></description>
 </item>
 <item>
 <title>英伟达为其芯片价值提供担保，以解锁5000亿美元AI基础设施融资</title>
@@ -470,22 +486,6 @@
 <pubDate>Sun, 09 Aug 2026 07:17:35 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】本教程提供了构建稳健情感分析工作流程的全面指南。通过将经典TF-IDF基线与现代参数高效微调（DistilBERT + LoRA）相结合，我们探索了深度模型的可解释性、校准及半监督技术，以实现可扩展的情感推断。该文章《IMDb情感分析：DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>亚马逊计划中的数据中心或将成为美国最大气候污染源</title>
-<link>https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3151379</guid>
-<pubDate>Sat, 08 Aug 2026 21:24:02 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】作为德克萨斯州计划中的数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。<br/><br/><a href="https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>认识 Shepherd：一款开源 Python 基座，让元代理能够分叉、重放和回滚任意代理运行</title>
-<link>https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81633</guid>
-<pubDate>Sat, 08 Aug 2026 20:54:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】长时间运行的代理会积累状态，而这些状态是任何转录记录都无法捕捉的——比如编辑过的文件、活跃的开发服务器、已安装的软件包、以及热提示缓存。当代理在第 10 步误读回溯并重写了一个正确的文件时，打补丁向前推进会消耗令牌，而重启则会重新支付每一次调用。东北大学和斯坦福大学的研究人员发布了 Shepherd，这是一个采用 MIT 许可的 Python 运行时基座，它将代理与环境的每一次交互记录为类似 Git 的执行轨迹中的类型化事件。每个提交都同时涵盖代理进程和文件系统，采用写时复制机制，因此回滚可以恢复实时状态。<br/><br/><a href="https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

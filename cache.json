@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=37063": {
-"t": "最可能自动化你工作的公司，正资助一项10亿美元计划来重新培训你",
-"s": "美国前商务部长吉娜·雷蒙多发起“Raise Us”两党非营利组织，旨在帮助美国工人应对人工智能驱动的就业变革。亚马逊、Anthropic、微软和OpenAI基金会首次联合资助该计划。然而，正是这些推动行业颠覆的企业为应对措施买单，此举可能引发对其独立性的质疑。本文《最可能自动化你工作的公司，正资助一项10亿美元计划来重新培训你》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3136981": {
-"t": "据报道，Apple Vision Pro 高管将离职加入 OpenAI",
-"s": "据称，负责 Vision Pro 头显的苹果副总裁 Paul Meade 将离开公司，加入 OpenAI 的硬件团队。"
-},
 "https://the-decoder.com/?p=37090": {
 "t": "Anthropic调查显示半数Claude用户称AI已能承担一半工作",
 "s": "Anthropic对约9700名用户的调查显示，约半数Claude用户认为AI已能处理其50%或以上的工作任务。12个月内，26%的用户预计AI将覆盖其60%至90%的工作。早期职业阶段的员工最为担忧，而重度用户对自身职业前景最为乐观。本文《Anthropic调查显示半数Claude用户称AI已能承担一半工作》首发于The Decoder。"
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=38892": {
 "t": "“但腌料”和泄露的密码是研究人员在ChatGPT隐藏推理中发现的内容",
 "s": "安全研究人员在OpenAI、Anthropic和Google的API中发现了一个漏洞，该漏洞允许他们提取加密的推理痕迹并在模型之间转移。对公共会话的扫描发现了数十个密码和API密钥。这些痕迹还表明，用户看到的推理摘要往往掩盖了模型实际在做什么。文章《“但腌料”和泄露的密码是研究人员在ChatGPT隐藏推理中发现的内容》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3151839": {
+"t": "Accel在上一轮融资19个月后，数周内完成超额认购的5.5亿美元印度基金",
+"s": "这家美国风险投资公司仍有超过55%的上一期6.5亿美元印度基金可供部署。"
+},
+"https://openai.com/index/daybreak-models-are-now-available-on-aws": {
+"t": "Daybreak模型现已登陆AWS",
+"s": "OpenAI与AWS通过Amazon Bedrock提供Daybreak网络安全能力，以支持企业安全工作流程。"
 }
 }
