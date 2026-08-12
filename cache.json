@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=37090": {
-"t": "Anthropic调查显示半数Claude用户称AI已能承担一半工作",
-"s": "Anthropic对约9700名用户的调查显示，约半数Claude用户认为AI已能处理其50%或以上的工作任务。12个月内，26%的用户预计AI将覆盖其60%至90%的工作。早期职业阶段的员工最为担忧，而重度用户对自身职业前景最为乐观。本文《Anthropic调查显示半数Claude用户称AI已能承担一半工作》首发于The Decoder。"
-},
 "https://techcrunch.com/?p=3136695": {
 "t": "房间里最健康的创始人得了癌症。以下是他如何利用AI反击的经过。",
 "s": "面对癌症时，康纳·克里斯图将自己治疗方案相关的所有数据——血液检测结果、扫描数据、可穿戴设备输出、日记记录——全部输入了Claude。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/daybreak-models-are-now-available-on-aws": {
 "t": "Daybreak模型现已登陆AWS",
 "s": "OpenAI与AWS通过Amazon Bedrock提供Daybreak网络安全能力，以支持企业安全工作流程。"
+},
+"https://www.marktechpost.com/?p=81679": {
+"t": "小米MiLM Plus发布PROVE：感知对齐的对象移除指标RC-S与RC-T及真实世界视频基准",
+"s": "对象移除模型的发展速度已超过用于评估它们的指标。扩散擦除器现在能令人信服地重建阴影、反射和遮挡结构，但PSNR、SSIM、LPIPS、ReMOVE和CFD等指标却常常对其输出进行错误排序。根本原因在于结构性的：擦除是一个不适定的一对多任务，因此不存在单一的真实参照来[…] 该文章《小米MiLM Plus发布PROVE：感知对齐的对象移除指标RC-S与RC-T及真实世界视频基准》最初出现在MarkTechPost上。"
 }
 }

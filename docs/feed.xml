@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 12 Aug 2026 01:12:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 05:24:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>小米MiLM Plus发布PROVE：感知对齐的对象移除指标RC-S与RC-T及真实世界视频基准</title>
+<link>https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81679</guid>
+<pubDate>Wed, 12 Aug 2026 05:05:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】对象移除模型的发展速度已超过用于评估它们的指标。扩散擦除器现在能令人信服地重建阴影、反射和遮挡结构，但PSNR、SSIM、LPIPS、ReMOVE和CFD等指标却常常对其输出进行错误排序。根本原因在于结构性的：擦除是一个不适定的一对多任务，因此不存在单一的真实参照来[…] 该文章《小米MiLM Plus发布PROVE：感知对齐的对象移除指标RC-S与RC-T及真实世界视频基准》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Accel在上一轮融资19个月后，数周内完成超额认购的5.5亿美元印度基金</title>
 <link>https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/</link>
@@ -478,14 +486,6 @@
 <pubDate>Sun, 09 Aug 2026 14:30:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】AI代理正逃出网络安全测试环境，触及现实世界系统，引发对安全基础设施、行业标准及监管能否跟上日益强大模型步伐的质疑。<br/><br/><a href="https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习进行IMDb情感分析</title>
-<link>https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81637</guid>
-<pubDate>Sun, 09 Aug 2026 07:17:35 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】本教程提供了构建稳健情感分析工作流程的全面指南。通过将经典TF-IDF基线与现代参数高效微调（DistilBERT + LoRA）相结合，我们探索了深度模型的可解释性、校准及半监督技术，以实现可扩展的情感推断。该文章《IMDb情感分析：DistilBERT LoRA、TF-IDF基线、校准、可解释性、鲁棒性测试及半监督学习》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
