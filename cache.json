@@ -1,60 +1,4 @@
 {
-"https://the-decoder.com/?p=37097": {
-"t": "Anthropic的Fable 5或数日内回归，特朗普政府准备解除限制",
-"s": "Anthropic的AI模型Fable 5可能在数日内重新可用。据Axios报道，特朗普政府即将解除6月12日因安全担忧而施加的限制。五角大楼和国家安全局仍需批准。文章《Anthropic的Fable 5或数日内回归，特朗普政府准备解除限制》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80747": {
-"t": "DeepSeek发布DSpark推测解码框架，将DeepSeek-V4单用户生成速度较MTP-1提升60–85%",
-"s": "DeepSeek开源了DSpark，这是一个推测解码框架，可为现有DeepSeek-V4权重附加草稿模块。该框架将并行草稿主干与轻量级马尔可夫头配对以削减后缀衰减，并引入基于置信度的验证机制，根据实时GPU负载动态调整待校验令牌数量。离线测试中，其接受长度较DFlash和Eagle3提升16–31%；生产环境下，单用户生成速度较MTP-1基线无损提升57–85%。训练代码库DeepSpec采用MIT许可证发布。"
-},
-"https://www.marktechpost.com/?p=80753": {
-"t": "在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型",
-"s": "在本教程中，我们围绕Hugging Face的Fable 5 Traces数据集构建了一个稳定的工作流。我们避免使用脆弱的依赖项，并手动解析合并后的JSONL文件，以确保Colab的可靠性。我们检查仓库文件、标准化工具调用、审计数据结构、编辑敏感信息，并可视化关键分布。此外，我们还导出安全的无CoT聊天数据集，并在这些轨迹上训练纯Python的朴素贝叶斯基线模型。本文《在Colab中构建稳定的Fable 5 Traces工作流：解析工具调用、审计数据及训练基线模型》最初发表于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80750": {
-"t": "Liquid AI 发布 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 进行设备端推理",
-"s": "Liquid AI 发布了其最小模型 LFM2.5-230M。这款拥有 2.3 亿参数、权重开放的模型可在设备端运行，在 Galaxy S25 Ultra 上达到 213 tok/s，在 Raspberry Pi 5 上达到 42 tok/s。基于 LFM2 架构，该模型专注于工具使用和数据提取，在指令遵循方面超越了 Qwen3.5-0.8B 和 Gemma 3 1B 等更大模型。该文章《Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference》首发于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=37029": {
-"t": "仅有三款AI模型在500天创业生存测试中实现资本增值",
-"s": "普林斯顿大学的研究人员构建了CEO-Bench测试，要求AI代理在模拟环境中运营一家虚构软件公司500天。当前大多数模型均以破产告终，而一个基于规则的无AI简单启发式方法几乎击败了所有模型。该文章《仅有三款AI模型在500天创业生存测试中实现资本增值》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37108": {
-"t": "中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑",
-"s": "360创始人周鸿祎推出两款AI安全工具，旨在与Anthropic的Mythos竞争。其中一款工具已标记出3432个漏洞。周鸿祎承认中国模型落后西方模型20%至30%，但将Mythos比作\"网络核武器\"，并呼吁中国建立自己的战略威慑能力。本文《中国网络安全公司打造对标Mythos的AI工具，将竞争比作网络核威慑》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=37100": {
-"t": "新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然",
-"s": "新浪微博的VibeThinker-3B仅有30亿参数，但在数学和编程基准测试中却能与DeepSeek V3.2和Kimi K2.5等模型匹敌。这些模型的规模最大可达其333倍。其秘诀并非规模，而是多阶段后训练。研究人员基于发现提出假设：逻辑推理能力可良好压缩至小模型，但广泛的世界知识则无法做到。本文《新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实知识则不然》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=37124": {
-"t": "AI 只有停止回答问题、开始完成任务，才能成为真正的同事",
-"s": "腾讯与多所中国高校联合发布的一篇综述论文，勾勒了从聊天机器人到“数字同事”的发展路径。研究人员认为，AI 系统只有在持久工作环境中完成完整任务，而不仅仅是生成答案，才能成为可靠的同事。关键在于将持久工作空间与可复用技能相结合。本文《AI won't become a real coworker until it stops answering and starts finishing tasks》首发于 The Decoder。"
-},
-"https://the-decoder.com/?p=37116": {
-"t": "Coinbase加入中国AI模型热潮，西方实验室面临定价压力测试",
-"s": "Coinbase首席执行官布莱恩·阿姆斯特朗正将公司转向GLM 5.2和Kimi 2.7等中国AI模型。一个自动化路由系统根据任务和价格为每个请求选择最佳模型，而更好的缓存技术将命中率从5%提升至60%。尽管代币使用量持续攀升，Coinbase已将AI支出削减一半。本文《Coinbase加入中国AI模型热潮，西方实验室面临定价压力测试》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80756": {
-"t": "OCRmyPDF教程：将扫描文档转换为可搜索的PDF/A文件，支持侧边文本提取与批量处理",
-"s": "在本教程中，我们使用Python构建了一个完整的、自包含的OCRmyPDF流水线。我们生成合成的纯图像PDF，以便无需外部文件即可测试OCR，然后将其转换为可搜索的PDF和PDF/A输出。我们提取侧边文本、验证结果、测量单词召回率，并比较文件大小。我们还调优Tesseract、清理噪声扫描、校正方向、在内存中运行OCR，并对整个文件夹进行批量处理。本文OCRmyPDF教程：将扫描文档转换为可搜索的PDF/A文件，支持侧边文本提取与批量处理最初发表于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3136862": {
-"t": "华尔街为何认为美国内存制造商美光将成为下一个英伟达",
-"s": "急于寻找更多可能像英伟达一样表现出色的公开AI相关公司，华尔街投资者认为他们在美光身上找到了赢家。"
-},
-"https://techcrunch.com/?p=3137021": {
-"t": "福特在AI表现不佳后重新聘用“老法师”工程师",
-"s": "“我们错误地认为，只要引入人工智能……就能生产出高质量的产品。”"
-},
-"https://openai.com/index/hp-frontier-partnership": {
-"t": "惠普公司与OpenAI启动Frontier战略合作伙伴关系",
-"s": "惠普公司扩大其与OpenAI的Frontier合作伙伴关系，将人工智能部署于客户体验、软件开发及企业运营中。"
-},
-"https://the-decoder.com/?p=37137": {
-"t": "三星和SK海力士计划投资5900亿美元建设芯片工厂，AI需求推动内存价格飙升",
-"s": "在韩国政府的支持下，三星和SK海力士正投入5900亿美元建设新的芯片工厂和封装中心，以应对AI数据中心需求的激增。据杰富瑞预测，到2027年，内存价格每季度可能上涨50%。这两家公司控制着全球近80%的HBM市场。本文《三星和SK海力士计划投资5900亿美元建设芯片工厂，AI需求推动内存价格飙升》最初发表于The Decoder。"
-},
 "https://the-decoder.com/?p=37149": {
 "t": "德勤告知自家顾问：AI正在冲击按小时计费模式",
 "s": "德勤内部演示预测，咨询行业经典的按小时计费模式到2035年将萎缩至市场极小份额，并被AI代理取代。一位顾问总结道：“我们的模式要完蛋了。”麦肯锡和波士顿咨询已在寻找替代收入模式。本文《德勤告知自家顾问：AI正在冲击按小时计费模式》首发于The Decoder。"
@@ -4798,5 +4742,61 @@
 "https://the-decoder.com/?p=38905": {
 "t": "Mistral现提供欧盟数据处理及优先访问服务，但两者均存在重要限制",
 "s": "Mistral正为客户提供选项，将AI请求路由至欧洲或美国的服务器，并出售高峰流量期间的优先队列访问权。这两项服务均需额外付费，且区域路由并不覆盖所有功能或数据。文章《Mistral now offers EU data processing and priority access, but both come with important limits》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?post_type=tc_video&p=3152427": {
+"t": "为何Stream戒指制造商Sandbar认为AI可穿戴设备的未来在于语音",
+"s": "过去几年，AI笔记硬件迅速兴起，信用卡大小的设备、吊坠、胸针，甚至转录耳塞，都承诺能捕捉会议内容并将其转化为摘要和行动项。如今，一波新的可穿戴设备——尤其是戒指——正押注人们希望以同样方式捕捉零散的想法和灵感。其中一家[...]"
+},
+"https://the-decoder.com/?p=38931": {
+"t": "乳腺癌检测AI工具未达放射科医生预期",
+"s": "在接受调查的215名乳腺影像学会成员中，约半数已使用FDA批准的AI工具进行乳腺癌检测，但结果未达预期。仅有35%报告召回率降低，而59%曾预期有此效果。承诺与现实之间的差距贯穿于所有衡量类别。文章《乳腺癌检测AI工具未达放射科医生预期》首发于The Decoder。"
+},
+"https://huggingface.co/blog/allenai/olmoearth-embeddings": {
+"t": "推出OlmoEarth嵌入功能：从OlmoEarth Studio自定义嵌入导出，用于下游分析",
+"s": "（无）"
+},
+"https://techcrunch.com/?p=3152347": {
+"t": "Lovable确认新估值133亿美元，再融资4亿美元",
+"s": "这家初创公司向TechCrunch透露，在6月份达到5亿美元年化经常性收入后，Lovable获得了这笔新融资。"
+},
+"https://the-decoder.com/?p=38925": {
+"t": "新市场数据显示，谷歌Gemini正将市场份额拱手让给ChatGPT和Claude",
+"s": "三组数据来源揭示了同一趋势：谷歌的Gemini在AI市场份额上正逐渐失守。Pangram报告显示其份额从12%跌至1.9%，而OpenAI仍占据超过50%的份额，Anthropic则从4.3%增长至14.9%。Similarweb和OpenRouter也证实了这一趋势。文章《新市场数据显示，谷歌Gemini正将市场份额拱手让给ChatGPT和Claude》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3152187": {
+"t": "一笔2.5亿美元收购如何演变成欺诈与伪造签名指控",
+"s": "投资者仍在等待他们应得的2.5亿美元意外之财份额，而VideoVerse联合创始人Vinayak Shrivastav如今身陷多起法律诉讼。"
+},
+"https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/": {
+"t": "书商怀疑AI公司购买并销毁稀有书籍",
+"s": "AI公司悄然批量购买稀有书籍，遭到书商的抵制。"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3152426": {
+"t": "Sandbar为何认为其语音戒指能避开AI硬件“坟场”",
+"s": "过去几年，AI笔记硬件迅速兴起，信用卡大小的设备、吊坠、胸针，甚至转录耳塞，都承诺能捕捉你的会议内容并将其转化为摘要和行动项。如今，新一波可穿戴设备——尤其是戒指——正押注人们希望以同样方式捕捉零散的想法和灵感。其中一家公司是[…]"
+},
+"https://techcrunch.com/?p=3151814": {
+"t": "谷歌2026年发布会全览：Pixel 11、Pixel Watch 5、Pixel Tag及众多Gemini功能亮相",
+"s": "从Pixel 11系列到苹果AirTag的全新竞争对手，以下是2026年谷歌发布会的所有公告。"
+},
+"https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/": {
+"t": "将手语AI交到用户手中",
+"s": "推出手语转文字（SL2T）模型，这一突破性技术为聋哑及听力障碍用户提供全新手语功能。"
+},
+"https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": {
+"t": "LFM2.5-VL-3B：为边缘端提供更优、更快的视觉能力",
+"s": "（无）"
+},
+"https://the-decoder.com/?p=38920": {
+"t": "法律初创公司创始人罗伯特·马哈里加入Anthropic，引领Claude进军法律实务领域",
+"s": "罗伯特·马哈里成为Anthropic首位“Claude法律业务主管”，负责在法律行业部署并扩展Claude AI模型。文章《法律初创公司创始人罗伯特·马哈里加入Anthropic，引领Claude进军法律实务领域》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3151847": {
+"t": "AI代码测试初创公司Blacksmith估值不到一年飙升近10倍",
+"s": "Blacksmith表示，过去一年其营收增长了十倍以上。"
+},
+"https://openai.com/index/how-enterprises-put-ai-to-work": {
+"t": "从辅助到执行：企业如何让AI投入工作",
+"s": "OpenAI的研究揭示了企业如何采用代理式AI，利用ChatGPT和Codex，以及前沿企业如何在AI应用上领先。"
 }
 }
