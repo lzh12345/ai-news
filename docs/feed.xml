@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 12 Aug 2026 09:03:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 12:49:34 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>英伟达Nemotron 4剑指万亿参数，中国实验室已超越此规模</title>
+<link>https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38916</guid>
+<pubDate>Wed, 12 Aug 2026 12:37:58 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】英伟达正在研发Nemotron 4，这是一款新的开放权重模型，旨在与全球最优秀的免费可用模型一较高下。本文《英伟达Nemotron 4剑指万亿参数，中国实验室已超越此规模》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI为Linux推出ChatGPT桌面应用</title>
+<link>https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38913</guid>
+<pubDate>Wed, 12 Aug 2026 11:53:31 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI将其ChatGPT桌面应用带到了Linux平台。文章《OpenAI为Linux推出ChatGPT桌面应用》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软新推出的MAI Code 1.1 Flash在价格和性能上均被Deepseek碾压</title>
+<link>https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38904</guid>
+<pubDate>Wed, 12 Aug 2026 10:18:46 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】微软发布了MAI Code 1.1 Flash，这是一款用于GitHub Copilot的代码模型，据称其代币效率比前代提升25%，成本仅为前代的四分之一。然而，在基准测试中，它却被更便宜的Deepseek V4 Flash击败。此举符合一种模式：微软一边宣扬开放AI，一边却在自家应用中嵌入性能较差的专有模型以保护利润。文章《微软新推出的MAI Code 1.1 Flash在价格和性能上均被Deepseek碾压》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral现提供欧盟数据处理及优先访问服务，但两者均存在重要限制</title>
+<link>https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38905</guid>
+<pubDate>Wed, 12 Aug 2026 09:59:27 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Mistral正为客户提供选项，将AI请求路由至欧洲或美国的服务器，并出售高峰流量期间的优先队列访问权。这两项服务均需额外付费，且区域路由并不覆盖所有功能或数据。文章《Mistral now offers EU data processing and priority access, but both come with important limits》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Accel在上一轮融资19个月后，数周内完成超额认购的5.5亿美元印度基金</title>
 <link>https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/</link>
@@ -168,22 +200,6 @@
 <description><![CDATA[【openai.com】OpenAI与AWS通过Amazon Bedrock提供Daybreak网络安全能力，以支持企业安全工作流程。<br/><br/><a href="https://openai.com/index/daybreak-models-are-now-available-on-aws">阅读原文</a>]]></description>
 </item>
 <item>
-<title>英伟达为其芯片价值提供担保，以解锁5000亿美元AI基础设施融资</title>
-<link>https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38869</guid>
-<pubDate>Tue, 11 Aug 2026 09:41:03 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】英伟达正与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛和KKR合作，动员超过5000亿美元用于AI基础设施。为赢得投资者信心，这家芯片制造商为其硬件提供高达25%的残值担保。英国央行已警告，若AI行业遭受冲击，可能引发系统性风险。本文《英伟达为其芯片价值提供担保，以解锁5000亿美元AI基础设施融资》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic 为全球所有 Claude 输出添加水印，标记“可能在某些编辑后依然存在”</title>
-<link>https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38864</guid>
-<pubDate>Tue, 11 Aug 2026 08:45:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic 将在所有 Claude 生成的文本中嵌入隐形水印，并使用 C2PA 标准签署文件。自 2026 年 8 月起发布的新模型将内置标签功能。该政策适用于全球范围，Anthropic 计划提供检测工具供第三方验证。文章《Anthropic watermarks all Claude outputs globally with marks that "may persist through some editing"》最初发表于 The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI据报道完成了70亿美元员工股票出售要约</title>
 <link>https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3151767</guid>
@@ -246,22 +262,6 @@
 <pubDate>Mon, 10 Aug 2026 18:34:10 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】我们最近的智能体周已落下帷幕。以下是我们在该周发布的所有公告的回顾，从钱包到雷达。<br/><br/><a href="https://blog.cloudflare.com/agents-week-review-august-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>旧式OCR文本阻碍语言模型训练，FineBooks欲大规模解决此问题</title>
-<link>https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38851</guid>
-<pubDate>Mon, 10 Aug 2026 18:20:39 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Hugging Face与EleutherAI的FineBooks项目在超过2000页历史书籍上测试了14种开源OCR模型。表现最佳的模型dots.mocr，在每千页成本低于两美元的情况下，字符准确率达到97.6%。团队表示，这一水平足以用于AI训练数据，但尚不足以满足学术转录需求。文章《Old OCR text cripples language model training, and FineBooks wants to fix that at scale》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI发布GPT-5.6-Cyber，助力防御者先于攻击者发现漏洞</title>
-<link>https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38855</guid>
-<pubDate>Mon, 10 Aug 2026 18:01:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI旨在为网络安全防御者提供先机：新型GPT-5.6-Cyber模型能回答高达98.5%的原本会被拦截的安全查询，并已发现两个此前未知的Chrome漏洞。据OpenAI称，防御者的机会窗口正在缩小。访问该模型需进行身份验证。文章《OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>构建AI原生财务职能教会了我什么</title>
