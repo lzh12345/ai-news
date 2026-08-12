@@ -1,44 +1,4 @@
 {
-"https://the-decoder.com/?p=37149": {
-"t": "德勤告知自家顾问：AI正在冲击按小时计费模式",
-"s": "德勤内部演示预测，咨询行业经典的按小时计费模式到2035年将萎缩至市场极小份额，并被AI代理取代。一位顾问总结道：“我们的模式要完蛋了。”麦肯锡和波士顿咨询已在寻找替代收入模式。本文《德勤告知自家顾问：AI正在冲击按小时计费模式》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3136644": {
-"t": "机器人手部公司和解特斯拉商业秘密诉讼并宣布完成1100万美元融资",
-"s": "初创公司Proception正采用独特方式收集训练数据，以攻克机器人领域最棘手的难题之一：手部操作。"
-},
-"https://techcrunch.com/?p=3137020": {
-"t": "Omen AI 的数据中心优化计划全盘落空",
-"s": "Omen AI 筹集了3100万美元的A轮融资，用于监测芯片冷却液并防止数据中心内的细菌爆发。"
-},
-"https://the-decoder.com/?p=37145": {
-"t": "美军用AI筛选数千目标，却忽略标注称其中一处为学校",
-"s": "对伊朗一所学校遭导弹袭击的调查揭示了美军目标锁定基础设施中的严重漏洞。人工智能本应填补这些空白。本文《美军用AI筛选数千目标，却忽略标注称其中一处为学校》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80759": {
-"t": "认识EverOS：一款开源、以Markdown为先的智能体记忆运行时，支持混合BM25+向量检索与自我进化技能",
-"s": "EverMind 已开源 EverOS，这是一款本地优先的记忆运行时，将AI智能体的记忆以纯Markdown格式存储，并通过SQLite和LanceDB进行索引。它结合了混合BM25+向量检索、多模态数据摄取以及自我进化技能，采用Apache 2.0许可证。本文介绍了它的定义、架构工作原理、基准测试表现以及仍存在的不足——此外还提供了可运行的代码演练和交互式演示。这篇题为《认识EverOS：一款开源、以Markdown为先的智能体记忆运行时，支持混合BM25+向量检索与自我进化技能》的文章首发于MarkTechPost。"
-},
-"https://the-decoder.com/?p=37141": {
-"t": "Claude Code 未经验证即运行GitHub仓库中的隐藏恶意软件，使攻击者获得完全控制权",
-"s": "Mozilla 0DIN平台的安全研究人员展示了，一个被攻陷的GitHub仓库如何在Claude Code等AI编码工具运行其设置时，立即接管开发者的机器。关键在于：恶意代码仅在运行时通过DNS查询加载，在仓库中、对扫描器以及AI代理本身均不可见。本文《Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control》最初发表于The Decoder。"
-},
-"https://openai.com/index/mapping-ai-jobs-transition-eu": {
-"t": "绘制欧洲人工智能劳动力机遇图",
-"s": "OpenAI的一份新报告描绘了人工智能如何重塑欧盟各地的工作岗位，重点指出了哪些职业可能面临自动化、增长或工作流程变化。"
-},
-"https://huggingface.co/blog/allenai/discoformer": {
-"t": "DiScoFormer：一个适用于密度与分数的跨分布Transformer",
-"s": ""
-},
-"https://the-decoder.com/?p=37155": {
-"t": "欧盟寻求AI独立，奥地利提议吸引Anthropic落户欧洲",
-"s": "奥地利数字化国务秘书亚历山大·普罗尔呼吁欧盟委员会探讨将Anthropic引入欧洲。此举是对美国禁止向外国用户提供OpenAI和Anthropic先进AI模型的回应。然而，这一倡议可能并不现实。而作为替代方案浮出水面的中国AI模型，不过是换一种依赖关系。本文《欧盟寻求AI独立，奥地利提议吸引Anthropic落户欧洲》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3137220": {
-"t": "人人都在用的AI排行榜Arena，如今已成为估值1亿美元的业务",
-"s": "这家运营着广受欢迎的免费AI排行榜的初创公司，于去年9月才推出其商业服务。"
-},
 "https://github.blog/?p=97076": {
 "t": "Git 2.55 亮点一览",
 "s": "开源 Git 项目刚刚发布了 Git 2.55 版本。以下是 GitHub 对自上一版本以来引入的一些最有趣特性和变化的回顾。本文《Git 2.55 亮点一览》首发于 GitHub 博客。"
@@ -4798,5 +4758,45 @@
 "https://openai.com/index/how-enterprises-put-ai-to-work": {
 "t": "从辅助到执行：企业如何让AI投入工作",
 "s": "OpenAI的研究揭示了企业如何采用代理式AI，利用ChatGPT和Codex，以及前沿企业如何在AI应用上领先。"
+},
+"https://github.blog/?p=98221": {
+"t": "使用GitHub Copilot应用编写你的第一个提示词",
+"s": "了解如何在GitHub Copilot应用中编写你的第一个提示词，选择合适的上下文和模型，并自信地开始你的第一个任务。这篇文章《使用GitHub Copilot应用编写你的第一个提示词》最初出现在GitHub博客上。"
+},
+"https://the-decoder.com/?p=38956": {
+"t": "SpaceXAI的Grok 4.6与OpenAI最佳模型持平，且价格更低",
+"s": "xAI的Grok 4.6在人工智能分析智能指数上获得61分，与GPT-5.6 Sol持平，仅次于Anthropic的Claude Opus 5。在代理任务中，它能在约53步内完成复杂工作流，而Claude Opus 5需要103步，且价格低逾60%。文章《SpaceXAI的Grok 4.6与OpenAI最佳模型持平，且价格更低》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3152463": {
+"t": "AI编程初创公司Cognition据报道已在洽谈以400亿美元估值融资",
+"s": "Cognition可能在几个月前以260亿美元估值融资10亿美元后，正寻求再进行一轮巨额融资。"
+},
+"https://github.blog/?p=98128": {
+"t": "你的贡献者现在以AI为先。你的项目呢？",
+"s": "AI贡献者已经在你的队列中了。AutoGPT维护者Nicholas Tindle分享了保持维护者控制的仓库指令、门槛和边界。这篇文章《你的贡献者现在以AI为先。你的项目呢？》最初出现在GitHub博客上。"
+},
+"https://techcrunch.com/?p=3152082": {
+"t": "随着AI安全担忧加剧，三位先驱主张保持开放态度",
+"s": "在Ai4大会上，全球最受尊敬的三位AI专家——杰弗里·辛顿、李飞飞和吴恩达——就监管、开源访问以及随着中国在亚洲的进步，美国如何保持竞争力进行了辩论。"
+},
+"https://techcrunch.com/?p=3152464": {
+"t": "OpenAI支持的Thrive Holdings融资20亿美元，推动AI进入企业领域",
+"s": "Thrive Holdings已从软银、D1 Capital Partners和Altimeter Capital等投资者处筹集了20亿美元的新资金，估值达到120亿美元。"
+},
+"https://www.marktechpost.com/?p=81688": {
+"t": "AllenAI Open Instruct Tulu 3 后训练：结合SFT、DPO、RLVR、GRPO及基于验证器的评估",
+"s": "使用AllenAI的Open Instruct框架构建自定义LLM后训练流程。本全面指南详细介绍了监督微调（SFT）、直接偏好优化（DPO）以及基于可验证奖励的强化学习（GRPO），并优化至可在16GB硬件上高效运行，无需重型分布式计算基础设施。该文章《AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation》首发于MarkTechPost。"
+},
+"https://the-decoder.com/?p=38935": {
+"t": "研究人员现在可以近乎完美地从输出文本中逆向工程出LLM提示词",
+"s": "印度理工学院孟买分校和Adobe Research的研究人员构建了一个逆向语言模型，能够从LLM的输出中近乎完美地重建原始提示词。他们提出的方法名为“前一个词元预测”，无需访问模型权重，且适用于不同模型。对于依赖专有系统提示词的公司而言，这可能构成严重的安全风险。文章《研究人员现在可以近乎完美地从输出文本中逆向工程出LLM提示词》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3152358": {
+"t": "Mesh，Automattic面向所有人的CRM，现已登陆Android",
+"s": "Automattic推出的AI驱动联系人应用及关系管理工具Mesh，现已推出Android版本。"
+},
+"https://www.marktechpost.com/?p=81682": {
+"t": "NVIDIA发布Nemotron 3.5 Lightning：一款30B开放MoE模型，仅3B活跃参数，并推出NeMo Switchyard模型路由器",
+"s": "NVIDIA的开放30B MoE模型瞄准智能体执行层，Switchyard将每一步路由至成本最低且能力足够的模型。该文章《NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router》最初发表于MarkTechPost。"
 }
 }
