@@ -1,20 +1,4 @@
 {
-"https://techcrunch.com/?p=3137204": {
-"t": "韩国科技巨头承诺投入超5500亿美元缓解“内存危机”",
-"s": "全球最大的两家内存芯片公司誓言建设更多内存实验室工厂，韩国正将自己定位为人工智能技术强国。"
-},
-"https://the-decoder.com/?p=37161": {
-"t": "据报道，亚马逊工程师正在精简Anthropic模型以降低成本，迎接即将到来的基于代币的定价模式",
-"s": "亚马逊工程师已开始将Anthropic模型精简为更小、更便宜的版本供内部使用。从明年起，亚马逊将按处理的代币数量而非计算时长付费，这可能导致成本大幅上升。该公司也在探索OpenAI等其他替代方案。本文《亚马逊工程师据报道在精简Anthropic模型以降低成本，迎接即将到来的基于代币的定价模式》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3137107": {
-"t": "Vibe编码平台Base44推出自有模型，AI初创公司寻求防御性优势",
-"s": "Wix旗下的Vibe编码平台Base44已开始推出其自有AI模型，并希望该模型最终能超越前沿模型。"
-},
-"https://techcrunch.com/?p=3137448": {
-"t": "AI就业之争变得更加复杂",
-"s": "一份新报告发现，“高强度采用AI的企业”员工人数增长了10.2%。在这些公司中，入门级岗位人数增加了12%，这与AI会消灭初级岗位的说法相悖。"
-},
 "https://www.marktechpost.com/?p=80768": {
 "t": "OpenClaw 发布 iOS 和 Android 配套节点应用，将手机连接至自托管 AI 代理网关",
 "s": "OpenClaw 的 iOS 和 Android 应用是配套节点，而非独立聊天机器人。每部手机通过 WebSocket 与自托管网关配对。这为本地优先的 AI 代理增添了设备硬件功能——摄像头、位置、语音和 Canvas。本文介绍了其架构、能力以及开发者需权衡的利弊。该文章最初发表于 MarkTechPost。"
@@ -4798,5 +4782,21 @@
 "https://www.marktechpost.com/?p=81694": {
 "t": "SpaceXAI发布Grok 4.6：面向长时运行代理、编程与知识工作的50万上下文前沿模型",
 "s": "SpaceXAI于2026年8月12日发布Grok 4.6——这是对Grok 4.5的后训练升级，而非更大的基础模型。它在人工分析智能指数上以61分与GPT-5.6 Sol Max持平，提供50万上下文和新的xhigh推理级别，并将定价维持在每百万token 2美元/6美元。编程基准测试仍是其短板。本文首发于MarkTechPost。"
+},
+"https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/": {
+"t": "Claude的新“红字”水印目前隐形——但只是暂时的",
+"s": "这一标记会标注出所有经Claude处理过的内容，即便是它仅编辑过的人类写作也不例外。"
+},
+"https://the-decoder.com/?p=38969": {
+"t": "Fable 5采用缓慢，表明企业为前沿AI付费的意愿已达上限",
+"s": "Anthropic的Fable 5被认为是市场上最强大的AI模型，但美国企业几乎不购买它。根据Ramp的数据，Fable 5仅占Anthropic售出代币的6%。该模型的高昂价格表明，企业AI支出可能已达到上限，至少在性能提升未能转化为可衡量的日常价值的情况下。文章《Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=38966": {
+"t": "顶尖AI实验室研究人员警告自动化AI研究，其预测的多个里程碑已提前实现",
+"s": "IAPS研究员塞弗林·菲尔德采访了来自OpenAI、Anthropic、谷歌DeepMind、Meta及美国高校的25位研究人员，探讨递归自我改进问题。在一篇新博客文章中，他进行了总结。这些研究人员提到的几个里程碑已被达成。文章《顶尖AI实验室研究人员警告自动化AI研究，其预测的多个里程碑已提前实现》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38965": {
+"t": "Anthropic将Claude Cowork引入其Chrome扩展，为浏览器增添技能与插件",
+"s": "Claude Cowork现已直接在Anthropic Chrome扩展的侧边栏中运行。文章《Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser》最初发布于The Decoder。"
 }
 }
