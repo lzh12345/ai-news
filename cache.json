@@ -1,12 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80762": {
-"t": "NVIDIA BioNeMo Agent Toolkit 将生物分子模型转化为AI智能体在药物发现中的可调用技能",
-"s": "NVIDIA的开源BioNeMo Agent Toolkit将OpenFold3、DiffDock和GenMol等生物分子模型转化为有文档记录、可调用的AI智能体技能。每项技能描述了模型的目的、输入、产物和故障模式，使智能体能够选择、运行并解释它。在NVIDIA使用Codex CLI和GPT-5.5 fast进行的基准测试中，这些技能将任务完成率从57.1%提升至100%，并将代币效率提高了一倍。该文章NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery首次出现在MarkTechPost上。"
-},
-"https://techcrunch.com/?p=3137238": {
-"t": "Anthropic与加州州长纽森达成协议，允许加州政府以半价使用Claude",
-"s": "随着Anthropic与加利福尼亚州建立更紧密的关系，联邦政府却将这家OpenAI的竞争对手视为敌人。"
-},
 "https://techcrunch.com/?p=3137204": {
 "t": "韩国科技巨头承诺投入超5500亿美元缓解“内存危机”",
 "s": "全球最大的两家内存芯片公司誓言建设更多内存实验室工厂，韩国正将自己定位为人工智能技术强国。"
@@ -4798,5 +4790,13 @@
 "https://openai.com/index/ringcentral": {
 "t": "从工程到运维，RingCentral如何构建AI原生的企业工作流",
 "s": "了解RingCentral如何利用ChatGPT Work和Codex加速AI产品开发，并在工程与运维领域集中运营智能。"
+},
+"https://www.marktechpost.com/?p=81697": {
+"t": "Dyna Robotics推出Dyna-2：基于100万小时人类视频预训练的世界行动模型",
+"s": "Dyna Robotics发布了Dyna-2，这是一个在超过一百万小时的第一人称人类视频上预训练的世界行动模型。技术报告确立了三个成果：人类数据扩展到100万小时的缩放定律，该定律首次迁移到未见过的机器人数据，以及视频协同训练驱动跨实体泛化的证据。这篇关于Dyna Robotics推出Dyna-2的帖子首次出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=81694": {
+"t": "SpaceXAI发布Grok 4.6：面向长时运行代理、编程与知识工作的50万上下文前沿模型",
+"s": "SpaceXAI于2026年8月12日发布Grok 4.6——这是对Grok 4.5的后训练升级，而非更大的基础模型。它在人工分析智能指数上以61分与GPT-5.6 Sol Max持平，提供50万上下文和新的xhigh推理级别，并将定价维持在每百万token 2美元/6美元。编程基准测试仍是其短板。本文首发于MarkTechPost。"
 }
 }
