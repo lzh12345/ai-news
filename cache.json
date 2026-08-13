@@ -1,32 +1,4 @@
 {
-"https://github.blog/?p=97076": {
-"t": "Git 2.55 亮点一览",
-"s": "开源 Git 项目刚刚发布了 Git 2.55 版本。以下是 GitHub 对自上一版本以来引入的一些最有趣特性和变化的回顾。本文《Git 2.55 亮点一览》首发于 GitHub 博客。"
-},
-"https://techcrunch.com/?p=3137155": {
-"t": "Cursor 推出移动应用，可随时随地对编程代理进行远程监督",
-"s": "Cursor 发布了一款新的移动应用，用于对编程代理进行远程监督。"
-},
-"https://techcrunch.com/?p=3137152": {
-"t": "TIDAL 打击AI音乐，切断其变现渠道",
-"s": "TIDAL的新政策将阻止AI生成的音乐在其服务上获利。"
-},
-"https://github.blog/?p=97150": {
-"t": "深入解析咨询数据库：当漏洞数量打破纪录时会发生什么",
-"s": "GitHub 咨询数据库正在处理比以往更多的漏洞报告。以下是推动这一激增的原因、我们的应对措施以及社区如何提供帮助。本文《深入解析咨询数据库：当漏洞数量打破纪录时会发生什么》最初发布于 GitHub 博客。"
-},
-"https://the-decoder.com/?p=37152": {
-"t": "Meta限制使用Claude Code和Codex，防止竞争对手AI进入其训练数据",
-"s": "Meta正在限制其工程师使用Anthropic的Claude和OpenAI的Codex，以防止这些AI工具的输出被纳入其自身的训练数据。本文《Meta restricts use of Claude Code and Codex to keep rival AI out of its training data》最初发表于The Decoder。"
-},
-"https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/": {
-"t": "韩国将投入1万亿韩元扩大存储芯片生产及发展人形机器人",
-"s": "韩国计划到2028年实现物理AI领先地位并推动人形机器人商业化。"
-},
-"https://techcrunch.com/?p=3137386": {
-"t": "Gemini个性化AI图像生成功能现已面向美国用户免费开放",
-"s": "谷歌正在将Gemini的个性化AI图像生成功能扩展至美国符合条件的免费用户，允许该聊天机器人根据你的兴趣及关联Google应用的数据生成图像。"
-},
 "https://www.marktechpost.com/?p=80762": {
 "t": "NVIDIA BioNeMo Agent Toolkit 将生物分子模型转化为AI智能体在药物发现中的可调用技能",
 "s": "NVIDIA的开源BioNeMo Agent Toolkit将OpenFold3、DiffDock和GenMol等生物分子模型转化为有文档记录、可调用的AI智能体技能。每项技能描述了模型的目的、输入、产物和故障模式，使智能体能够选择、运行并解释它。在NVIDIA使用Codex CLI和GPT-5.5 fast进行的基准测试中，这些技能将任务完成率从57.1%提升至100%，并将代币效率提高了一倍。该文章NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery首次出现在MarkTechPost上。"
@@ -4798,5 +4770,33 @@
 "https://www.marktechpost.com/?p=81682": {
 "t": "NVIDIA发布Nemotron 3.5 Lightning：一款30B开放MoE模型，仅3B活跃参数，并推出NeMo Switchyard模型路由器",
 "s": "NVIDIA的开放30B MoE模型瞄准智能体执行层，Switchyard将每一步路由至成本最低且能力足够的模型。该文章《NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3152533": {
+"t": "部分Claude用户不满Anthropic新水印技术，担忧在工作与课堂上被追踪",
+"s": "Anthropic的新水印系统是否是一种荒谬之举？一些用户已在社交媒体上抱怨其不合理。"
+},
+"https://github.blog/?p=98241": {
+"t": "GitHub 可用性报告：2026年7月",
+"s": "7月份，我们经历了八起事件，导致GitHub服务性能下降。这篇关于GitHub可用性报告（2026年7月）的文章首发于GitHub博客。"
+},
+"https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/": {
+"t": "网络对抗AI抓取器的最新武器竟是一款字体",
+"s": "“ShieldFont”旨在污染AI训练数据，同时不损害人类用户的阅读体验。"
+},
+"https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/": {
+"t": "大规模供应链攻击泄露数TB凭据",
+"s": "此次攻击从被入侵的AI软件包的2,500名用户中窃取并外泄了数据。"
+},
+"https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/": {
+"t": "Twitch内容多年来一直在训练亚马逊AI，但用户现在可以选择退出",
+"s": "流媒体平台表示，用户生成的内容“可能用于未来生成式AI模型的改进”。"
+},
+"https://techcrunch.com/?p=3152544": {
+"t": "亚马逊将默认使用Twitch主播内容进行训练，除非主播选择退出",
+"s": "“如果这是选择加入，没人会加入，”Twitch首席产品官Mike Minton在直播中回应观众反馈时说。“老实说，这就是答案。”"
+},
+"https://openai.com/index/ringcentral": {
+"t": "从工程到运维，RingCentral如何构建AI原生的企业工作流",
+"s": "了解RingCentral如何利用ChatGPT Work和Codex加速AI产品开发，并在工程与运维领域集中运营智能。"
 }
 }
