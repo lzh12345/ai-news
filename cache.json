@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=3137627": {
-"t": "打造扑克AI的DeepMind三人组，如今正为量化对冲基金赚钱",
-"s": "EquiLibre Technologies，一家由三位前DeepMind研究员创立的布拉格AI实验室，目前估值已超过5亿美元。"
-},
 "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/": {
 "t": "新攻击再次证明AI浏览器并非好主意",
 "s": "只需告诉大语言模型2加2等于5，就足以让它执行被禁止的指令。"
@@ -4798,5 +4794,9 @@
 "https://huggingface.co/blog/icml-2026-open-reproductions": {
 "t": "我们通过复现ICML的2200篇论文所学到的",
 "s": "（无）"
+},
+"https://techcrunch.com/?p=3152760": {
+"t": "Writer推出新AI模型及升级版工具以控制代币成本",
+"s": "作为Z.ai开源模型GLM-5.2的后训练变体，Writer表示新系统应以更低价格提供部署就绪的能力。"
 }
 }
