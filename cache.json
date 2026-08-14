@@ -1,8 +1,4 @@
 {
-"https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/": {
-"t": "新攻击再次证明AI浏览器并非好主意",
-"s": "只需告诉大语言模型2加2等于5，就足以让它执行被禁止的指令。"
-},
 "https://techcrunch.com/?p=3137719": {
 "t": "谷歌推出更快、更便宜的图像生成器Nano Banana 2 Lite",
 "s": "谷歌正在更新其图像生成器，使其更快、更便宜，从而成为创作者制作AI内容时更有用的工具。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3152760": {
 "t": "Writer推出新AI模型及升级版工具以控制代币成本",
 "s": "作为Z.ai开源模型GLM-5.2的后训练变体，Writer表示新系统应以更低价格提供部署就绪的能力。"
+},
+"https://www.marktechpost.com/?p=81717": {
+"t": "打造专注推理的LLM：流式处理、数据策展与微调SupraLabs推理语料库的实用指南",
+"s": "本教程提供了一个构建紧凑型、专注推理的语言模型的完整工作流程。通过从Hugging Face流式处理SupraLabs推理语料库，我们应用质量过滤器并策展数据以进行监督微调（SFT）。利用SmolLM2-135M-Instruct和LoRA，我们演示了从数据集分析和启发式清洗到高效训练与推理的端到端流水线，从而在无需过多资源需求的情况下开发专用小型模型。"
 }
 }
