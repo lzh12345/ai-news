@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3137972": {
-"t": "“互联网之父”终于要退休了",
-"s": "作为互联网底层协议创始人之一的文顿·瑟夫，将于下周卸任谷歌首席互联网布道师一职。"
-},
-"https://techcrunch.com/?p=3137969": {
-"t": "Builders Stage议程揭晓：在TechCrunch Disrupt 2026上规模化初创企业的实用策略",
-"s": "Builders Stage将重返TechCrunch Disrupt 2026，汇聚超过10,000名创始人、初创企业运营者和投资者，围绕打造并规模化成功企业的实践进行对话与问答。立即注册，可节省高达330美元。"
-},
-"https://techcrunch.com/?p=3138038": {
-"t": "Meta效仿SpaceX，欲将过剩AI算力变现",
-"s": "Meta正制定云基础设施业务计划，拟出售AI算力及模型访问权限。此举将使其与亚马逊云服务、谷歌云及微软Azure等大型云服务商展开竞争。"
-},
 "6dNg0U03j4cnbacP8txDok": {
 "t": "宣布推出 Monetization Gateway：通过 x402 对 Cloudflare 背后的任何资源进行收费",
 "s": "我们已开放 Monetization Gateway 的候补名单，该网关将允许您对 Cloudflare 背后的任何网页、数据集、API 或 MCP 工具进行收费。费用将通过 x402 开放协议以稳定币结算，无需自行构建支付体系。"
@@ -4798,5 +4786,17 @@
 "https://huggingface.co/blog/state-of-open-models-summer-2026": {
 "t": "开放模型现状：2026年夏季观察",
 "s": "（无）"
+},
+"https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/": {
+"t": "怀疑法院使用AI，男子在诉讼文件中注入提示词试图赢得案件",
+"s": "法官警告自行诉讼者错误使用聊天机器人，且手段愈发绝望。"
+},
+"https://the-decoder.com/?p=39076": {
+"t": "阿里巴巴Qwen团队发布Qwen 3.8模型，采用Apache 2.0许可证开放权重",
+"s": "阿里巴巴的AI团队Qwen在Apache 2.0许可证下发布了新的开放模型权重，即Qwen 3.8。这款密集的270亿参数模型旨在在编程和办公任务上超越更大的Qwen 3.7 Plus，并原生处理高达262,000个令牌的上下文。此次发布，Qwen瞄准了构建本地和基于代理应用的开发者。文章《阿里巴巴Qwen团队发布Qwen 3.8模型，采用Apache 2.0许可证开放权重》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39071": {
+"t": "OpenAI的计算机历史功能将你的点击和按键转化为可搜索的ChatGPT记忆时间线",
+"s": "OpenAI的计算机历史功能记录Mac上的点击、按键和应用切换，并将其转化为ChatGPT和Codex的可搜索时间线。数据以未加密的Markdown文件形式本地存储。OpenAI表示这些数据不用于AI训练，但进入对话的记忆仍可能成为训练数据。文章《OpenAI的计算机历史功能将你的点击和按键转化为可搜索的ChatGPT记忆时间线》最初发表于The Decoder。"
 }
 }
