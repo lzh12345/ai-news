@@ -1,60 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/": {
-"t": "谷歌推出最新最快、最经济的Nano Banana 2 Lite图像模型",
-"s": "虽然生成图像的质量可能不如以往，但Nano Banana 2 Lite仅需几秒钟即可完成图像创作。"
-},
-"https://huggingface.co/blog/ibm-research/scarfbench": {
-"t": "ScarfBench：面向企业Java框架迁移的AI智能体基准测试",
-"s": ""
-},
-"https://techcrunch.com/?p=3137668": {
-"t": "Nvidia竞争对手Etched估值达50亿美元，AI芯片销售额达10亿美元",
-"s": "Nvidia的AI芯片竞争对手Etched表示，其芯片驱动的推理系统已签订价值10亿美元的合同。"
-},
-"https://the-decoder.com/?p=37210": {
-"t": "Anthropic 推出 Claude Science，专为研究人员打造的 AI 工作空间",
-"s": "Anthropic 发布了 Claude Science，这是一个面向研究人员的 AI 工作台。超过 60 项预配置技能覆盖基因组学和计算化学等领域，一个验证代理可自动检查引用和计算。该应用可在本地或 HPC 集群上运行，因此敏感数据无需离开实验室自身的基础设施。文章《Anthropic launches Claude Science, an AI workspace built specifically for researchers》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3137723": {
-"t": "Anthropic 推出 Claude Sonnet 5，以更低成本运行智能体",
-"s": "Anthropic 的 Claude Sonnet 5 带来了更强的智能体能力、更低的价格以及改进的安全性，将该模型定位为 Opus、GPT-5.5 和 Gemini Pro 的更廉价替代方案。"
-},
-"https://techcrunch.com/?p=3137678": {
-"t": "Acti 将AI智能体直接嵌入智能手机键盘",
-"s": "Acti 认为智能手机键盘将成为AI助手的下一个主场。这家初创公司为iOS和Android打造的新款键盘可跨应用运行，并允许用户通过自然语言创建自定义的AI驱动快捷操作。"
-},
-"https://techcrunch.com/?p=3137898": {
-"t": "特朗普解除对Anthropic的Mythos和Fable模型的限制",
-"s": "Anthropic表示将于7月1日开始恢复对Fable的访问权限。"
-},
-"https://techcrunch.com/?p=3137957": {
-"t": "Wayve 以85亿美元估值启动8500万美元员工要约收购",
-"s": "Wayve 的这一举措是人工智能初创公司利用员工要约收购作为吸引和留住人才战略工具这一日益增长趋势的一部分。"
-},
-"https://www.marktechpost.com/?p=80783": {
-"t": "Linq的iMessage应用通过imessage_app组件将支付、票务、航班和游戏带入iMessage气泡",
-"s": "Linq推出iMessage应用：交互式imessage_app卡片，可在iMessage会话中为智能体运行支付、票务、航班和游戏功能。该文章《Linq的iMessage应用通过imessage_app组件将支付、票务、航班和游戏带入iMessage气泡》最初发表于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3137864": {
-"t": "OpenClaw 终于登陆 Android 和 iOS 平台",
-"s": "这款免费开源的智能代理程序终于入侵你的手机。"
-},
-"https://www.marktechpost.com/?p=80776": {
-"t": "Anthropic Claude Sonnet 5 对比 Sonnet 4.6 与 Opus 4.8：自主编码基准测试、API 定价及成本性能权衡比较",
-"s": "Anthropic 的 Claude Sonnet 5 在自主编码方面缩小了与 Opus 4.8 的差距，同时保持了更低的 Sonnet 代币定价。本文《Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80789": {
-"t": "Google AI 推出 TabFM：一种用于零样本分类和回归的混合注意力表格基础模型",
-"s": "Google Research 发布了 TabFM，这是一种针对表格数据的基础模型。它通过上下文学习执行零样本分类和回归。预测通过单次前向传播完成，无需针对每个数据集进行训练、超参数调优或特征工程。该文章最初发表于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=37223": {
-"t": "Anthropic的Fable 5因越狱问题遭政府禁令两周后，全球重新上线",
-"s": "经过两周的禁令，美国政府已允许Anthropic在全球范围内再次发布Fable 5。亚马逊研究人员曾发现一个越狱漏洞，但Anthropic表示，即使是像Claude Haiku 4.5这样更小的模型也能实现同样的利用。一种新的安全分类器在超过99%的情况下能阻止该技术，但在此过程中也会标记更多无害请求。文章《Anthropic的Fable 5因越狱问题遭政府禁令两周后，全球重新上线》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80786": {
-"t": "CUP（Common Useful Python）：利用百度的实用工具包构建可靠的Python工作流",
-"s": "在本教程中，我们探讨了百度的Common Useful Python库（CUP），将其作为增强Python工作流的实用工具包。我们在Colab友好环境中安装它，并逐步介绍其子系统。内容涵盖日志记录、装饰器、嵌套配置、缓存、ID生成、线程池、调度以及Linux资源监控。在此过程中，我们将每个模块与实际任务（如自动化、并发和可靠性检查）联系起来。本文《CUP（Common Useful Python）：利用百度的实用工具包构建可靠的Python工作流》最初发表于MarkTechPost。"
-},
 "https://techcrunch.com/?p=3137972": {
 "t": "“互联网之父”终于要退休了",
 "s": "作为互联网底层协议创始人之一的文顿·瑟夫，将于下周卸任谷歌首席互联网布道师一职。"
@@ -4798,5 +4742,61 @@
 "https://the-decoder.com/?p=39035": {
 "t": "智谱AI发布GLM-5.3，声称是最强开源权重编程模型",
 "s": "智谱AI发布了GLM-5.3，据其自身基准测试显示，该模型是最强大的开源权重编程模型，仅通过后训练就比前代提升了50%。GLM-5.3专为网络安全训练，帮助安全团队在269个项目中发现了2436个漏洞。模型权重将在两周后开源。文章《智谱AI发布GLM-5.3，声称是最强开源权重编程模型》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3153145": {
+"t": "谷歌将允许用户从其AI生成内容中移除可见水印",
+"s": "关闭此设置不会影响用于识别AI生成文件的隐形基准标记。"
+},
+"https://the-decoder.com/?p=39061": {
+"t": "研究反驳Anthropic与OpenAI关于自主AI研究即将实现的论断",
+"s": "使用Claude Opus 4.8和GPT-5.6 Sol的AI代理被给予六天时间、3000美元API信用额度及GPU访问权限，以独立撰写AI研究论文。未发表的NeurIPS论文原作者将这些成果评为“拒绝”。根据与普林斯顿大学及英国AI安全研究所合作进行的研究，前沿模型能够处理完整的研究工程流程，但在研究判断、创造性问题解决以及放弃失败方法的能力上仍有不足。文章《研究反驳Anthropic与OpenAI关于自主AI研究即将实现的论断》已发布。"
+},
+"https://github.blog/?p=98252": {
+"t": "如何通过代理应用将软件交付工作流引入GitHub",
+"s": "了解四个GitHub代理应用如何帮助你在整个软件开发生命周期中，无需离开GitHub即可完成功能的范围界定、安全加固、部署和发布。这篇文章《如何通过代理应用将软件交付工作流引入GitHub》最初出现在GitHub博客上。"
+},
+"https://techcrunch.com/?post_type=tc_video&p=3153153": {
+"t": "马克·扎克伯格真的相信AI是“为所有人”的吗？",
+"s": "Meta本周发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行——这与该公司更强大的模型Muse Spark形成对比，后者仍被锁定在其自有API之后。此次发布伴随着马克·扎克伯格的一封信，他在信中主张AI应“为所有人”服务，而非由少数实验室控制，但正如Equity的[…]所指出，"
+},
+"https://techcrunch.com/?p=3153090": {
+"t": "Kog 正深入挖掘 GPU 推理潜力",
+"s": "法国初创公司 Kog 认为，GPU 不适合代理工作流的观点可能是一种误解。"
+},
+"https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/": {
+"t": "OpenAI与Anthropic陷入价格战，中国AI对手步步紧逼",
+"s": "面对新挑战对其万亿美元雄心的冲击，美国公司纷纷发布更便宜的模型。"
+},
+"https://the-decoder.com/?p=39052": {
+"t": "GPT-5.6 Sol提速14倍，OpenAI推出由Cerebras驱动的Ultrafast模式",
+"s": "OpenAI推出“Ultrafast”新推理模式，基于其与Cerebras的100亿美元合作硬件，GPT-5.6 Sol的输出速度可达每秒750个token。结合“Standard”和“Fast”，Ultrafast构成了三级定价结构，将推理速度本身转化为产品。文章《GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras》最初发布于The Decoder。"
+},
+"https://techcrunch.com/?p=3152944": {
+"t": "若新预测成真，超大规模云服务商或后悔拥抱天然气",
+"s": "美国部分地区天然气价格可能上涨两倍，这将使超大规模云服务商为其AI数据中心支付巨额电费。"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3153152": {
+"t": "Meta的“开放”AI，以及一笔2.5亿美元的交易严重出错",
+"s": "Meta本周发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行——这与该公司更强大的模型Muse Spark形成对比，后者仍被锁定在其自有API之后。此次发布伴随着马克·扎克伯格的一封信，他在信中主张AI应“为所有人”服务，而非由少数实验室控制，但正如Equity的[…]"
+},
+"01M005AFBW9P2YGZT4HH64D2BQ": {
+"t": "Cloudflare如何检测MCP流量并帮助确保其安全",
+"s": "Cloudflare Gateway利用协议级启发式方法识别MCP请求。安全团队可利用此信号发现影子MCP流量，对已批准的服务器强制实施仅限门户访问，并在受管网络路径上阻止直接连接。"
+},
+"01KZW0MF4VJTZW3F7601QANQ7Z": {
+"t": "一键保护所有内部“氛围编码”应用——Cloudflare Access for Workers 全新发布",
+"s": "为 Workers 引入 Cloudflare Access。直接将访问策略附加到 Worker 上，该策略将自动应用于 Worker 运行的所有环境——包括路由、自定义域名、workers.dev 及预览——无需额外配置。"
+},
+"https://www.marktechpost.com/?p=81725": {
+"t": "Z.ai发布GLM-5.3，无需重新训练基础模型：在复杂编码和长周期任务上表现更佳",
+"s": "Z.ai于2026年8月14日发布GLM-5.3。该模型沿用743B GLM-5.2基础模型不变。所有报告的性能提升均来自扩展的后训练：更多长周期任务环境、更多环境类型、更长的训练时间。Terminal-Bench 3.0得分从4.6提升至28.3，DeepSWE v1.1从46.2提升至66.9。网络安全领域的进展超出Z.ai原计划，CyberGym达到84.5%，ExploitBench得分翻倍以上至54.4%。权重将在约两周后发布。该文章《Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks》首发于MarkTechPo。"
+},
+"https://www.marktechpost.com/?p=81721": {
+"t": "Meet Needle 2：一款开源45M参数工具调用模型，以14MB二进制文件发布，仅需28MB内存即可运行完整会话",
+"s": "Cactus Compute发布了Needle 2，这是一款开源的45M参数模型，用于工具调用、设备使用和结构化提取。完整模型是一个14MB的单一二进制文件，运行一个会话仅需约28MB内存。它在两个Seal-Tools数据集上均领先，同时面向无GPU和无NPU的硬件设计。文章《Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM》首次出现在MarkTechPost上。"
+},
+"https://huggingface.co/blog/state-of-open-models-summer-2026": {
+"t": "开放模型现状：2026年夏季观察",
+"s": "（无）"
 }
 }
