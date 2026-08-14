@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?p=3137719": {
-"t": "谷歌推出更快、更便宜的图像生成器Nano Banana 2 Lite",
-"s": "谷歌正在更新其图像生成器，使其更快、更便宜，从而成为创作者制作AI内容时更有用的工具。"
-},
-"https://the-decoder.com/?p=37215": {
-"t": "Anthropic 新发布的 Claude Sonnet 5 缩小了与更昂贵的 Opus 模型系列的差距",
-"s": "Anthropic 发布了 Claude Sonnet 5，该模型在所有基准测试中均超越了前代 Sonnet 4.6，甚至在 GDPval-AA v2 知识工作测试中以 1,618 分的成绩略胜于更大的 Opus 4.8。Anthropic 还迅速指出，在网络安全任务方面，该模型的得分远低于美国政府目前封锁的模型，这很可能是针对当前辩论发出的一个有意信号。文章《Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series》最初发表于 The Decoder。"
-},
 "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/": {
 "t": "谷歌推出最新最快、最经济的Nano Banana 2 Lite图像模型",
 "s": "虽然生成图像的质量可能不如以往，但Nano Banana 2 Lite仅需几秒钟即可完成图像创作。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=81717": {
 "t": "打造专注推理的LLM：流式处理、数据策展与微调SupraLabs推理语料库的实用指南",
 "s": "本教程提供了一个构建紧凑型、专注推理的语言模型的完整工作流程。通过从Hugging Face流式处理SupraLabs推理语料库，我们应用质量过滤器并策展数据以进行监督微调（SFT）。利用SmolLM2-135M-Instruct和LoRA，我们演示了从数据集分析和启发式清洗到高效训练与推理的端到端流水线，从而在无需过多资源需求的情况下开发专用小型模型。"
+},
+"https://the-decoder.com/?p=39041": {
+"t": "Claude Code现以46%的合并率每日维护Anthropic软件",
+"s": "Anthropic正在测试Claude Code能否处理公司自身应用的日常维护，从崩溃模糊测试到死代码移除。在几周内，该AI创建了388个拉取请求，其中46%在人工审查后被合并。Claude Code的发明者Boris Cherny认为这是“早期迹象表明这可能实现”。文章《Claude Code现以46%的合并率每日维护Anthropic软件》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39035": {
+"t": "智谱AI发布GLM-5.3，声称是最强开源权重编程模型",
+"s": "智谱AI发布了GLM-5.3，据其自身基准测试显示，该模型是最强大的开源权重编程模型，仅通过后训练就比前代提升了50%。GLM-5.3专为网络安全训练，帮助安全团队在269个项目中发现了2436个漏洞。模型权重将在两周后开源。文章《智谱AI发布GLM-5.3，声称是最强开源权重编程模型》首发于The Decoder。"
 }
 }

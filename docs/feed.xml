@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 14 Aug 2026 09:00:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 12:44:45 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude Code现以46%的合并率每日维护Anthropic软件</title>
+<link>https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39041</guid>
+<pubDate>Fri, 14 Aug 2026 11:44:38 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic正在测试Claude Code能否处理公司自身应用的日常维护，从崩溃模糊测试到死代码移除。在几周内，该AI创建了388个拉取请求，其中46%在人工审查后被合并。Claude Code的发明者Boris Cherny认为这是“早期迹象表明这可能实现”。文章《Claude Code现以46%的合并率每日维护Anthropic软件》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>智谱AI发布GLM-5.3，声称是最强开源权重编程模型</title>
+<link>https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39035</guid>
+<pubDate>Fri, 14 Aug 2026 10:21:34 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】智谱AI发布了GLM-5.3，据其自身基准测试显示，该模型是最强大的开源权重编程模型，仅通过后训练就比前代提升了50%。GLM-5.3专为网络安全训练，帮助安全团队在269个项目中发现了2436个漏洞。模型权重将在两周后开源。文章《智谱AI发布GLM-5.3，声称是最强开源权重编程模型》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Writer推出新AI模型及升级版工具以控制代币成本</title>
 <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
@@ -352,14 +368,6 @@
 <description><![CDATA[【techcrunch.com】Thrive Holdings已从软银、D1 Capital Partners和Altimeter Capital等投资者处筹集了20亿美元的新资金，估值达到120亿美元。<br/><br/><a href="https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>研究人员现在可以近乎完美地从输出文本中逆向工程出LLM提示词</title>
-<link>https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38935</guid>
-<pubDate>Wed, 12 Aug 2026 17:32:59 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】印度理工学院孟买分校和Adobe Research的研究人员构建了一个逆向语言模型，能够从LLM的输出中近乎完美地重建原始提示词。他们提出的方法名为“前一个词元预测”，无需访问模型权重，且适用于不同模型。对于依赖专有系统提示词的公司而言，这可能构成严重的安全风险。文章《研究人员现在可以近乎完美地从输出文本中逆向工程出LLM提示词》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Mesh，Automattic面向所有人的CRM，现已登陆Android</title>
 <link>https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3152358</guid>
@@ -374,14 +382,6 @@
 <pubDate>Wed, 12 Aug 2026 16:46:02 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】过去几年，AI笔记硬件迅速兴起，信用卡大小的设备、吊坠、胸针，甚至转录耳塞，都承诺能捕捉会议内容并将其转化为摘要和行动项。如今，一波新的可穿戴设备——尤其是戒指——正押注人们希望以同样方式捕捉零散的想法和灵感。其中一家[...]<br/><br/><a href="https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>乳腺癌检测AI工具未达放射科医生预期</title>
-<link>https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38931</guid>
-<pubDate>Wed, 12 Aug 2026 16:24:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】在接受调查的215名乳腺影像学会成员中，约半数已使用FDA批准的AI工具进行乳腺癌检测，但结果未达预期。仅有35%报告召回率降低，而59%曾预期有此效果。承诺与现实之间的差距贯穿于所有衡量类别。文章《乳腺癌检测AI工具未达放射科医生预期》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>推出OlmoEarth嵌入功能：从OlmoEarth Studio自定义嵌入导出，用于下游分析</title>
