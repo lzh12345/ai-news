@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 15 Aug 2026 08:17:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 12:20:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>微调工具调用大语言模型：使用XYZ-Aquila-SFT和Qwen3的完整指南</title>
+<link>https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81728</guid>
+<pubDate>Sat, 15 Aug 2026 11:28:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】实现一个端到端的工具调用语言模型微调流程。本教程涵盖轨迹解析、结构化工具调用提取、兼容Qwen的ChatML渲染，以及使用PyTorch进行高效的LoRA适配。这篇关于微调工具调用大语言模型的完整指南（使用XYZ-Aquila-SFT和Qwen3）首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI生成的书籍正淹没亚马逊，导致人类作者销量暴跌</title>
+<link>https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38942</guid>
+<pubDate>Sat, 15 Aug 2026 11:00:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】AI生成的书籍占亚马逊自助出版目录的20%，但仅带来12%的销售额。一项新研究发现，在八个类型中有七个类型的人类撰写书籍的单书收入也在下降。这些发现可能为版权诉讼原告提供其针对AI公司案件中所缺失的市场损害数据。文章《AI生成的书籍正淹没亚马逊，导致人类作者销量暴跌》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>原告在法庭文件中隐藏隐形AI指令，秘密影响自动审查</title>
 <link>https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/</link>
@@ -158,14 +174,6 @@
 <pubDate>Fri, 14 Aug 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】为 Workers 引入 Cloudflare Access。直接将访问策略附加到 Worker 上，该策略将自动应用于 Worker 运行的所有环境——包括路由、自定义域名、workers.dev 及预览——无需额外配置。<br/><br/><a href="https://blog.cloudflare.com/workers-protected-by-access/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Code现以46%的合并率每日维护Anthropic软件</title>
-<link>https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39041</guid>
-<pubDate>Fri, 14 Aug 2026 11:44:38 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic正在测试Claude Code能否处理公司自身应用的日常维护，从崩溃模糊测试到死代码移除。在几周内，该AI创建了388个拉取请求，其中46%在人工审查后被合并。Claude Code的发明者Boris Cherny认为这是“早期迹象表明这可能实现”。文章《Claude Code现以46%的合并率每日维护Anthropic软件》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Z.ai发布GLM-5.3，无需重新训练基础模型：在复杂编码和长周期任务上表现更佳</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 12 Aug 2026 19:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】了解如何在GitHub Copilot应用中编写你的第一个提示词，选择合适的上下文和模型，并自信地开始你的第一个任务。这篇文章《使用GitHub Copilot应用编写你的第一个提示词》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI编程初创公司Cognition据报道已在洽谈以400亿美元估值融资</title>
-<link>https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3152463</guid>
-<pubDate>Wed, 12 Aug 2026 18:19:12 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Cognition可能在几个月前以260亿美元估值融资10亿美元后，正寻求再进行一轮巨额融资。<br/><br/><a href="https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

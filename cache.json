@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=37231": {
-"t": "Claude Sonnet 5延续Anthropic在不变代币费率下隐藏涨价的模式",
-"s": "Claude Sonnet 5在Artificial Analysis Intelligence Index中排名第五，得分为53分，甚至在某些基于代理的任务上超越了价格更高的Opus 4.8。但该模型每项任务消耗的代币比其前身多出约40%，尽管标价相同，实际成本却几乎翻倍。Anthropic隐藏涨价的做法正成为一种模式。文章《Claude Sonnet 5延续Anthropic在不变代币费率下隐藏涨价的模式》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37237": {
-"t": "OpenAI基因组学论文意外曝光尚未公布的Pro产品线",
-"s": "OpenAI一篇基准测试论文暗示，GPT-5.6的Pro层级可能推出三个变体。这将是自该计划启动以来ChatGPT Pro结构的首次重大调整。本文《OpenAI基因组学论文意外曝光尚未公布的Pro产品线》最初发表于The Decoder。"
-},
 "https://www.marktechpost.com/?p=80792": {
 "t": "NVIDIA发布Nemotron-Labs-TwoTower：基于冻结自回归Nemotron-3-Nano-30B-A3B骨干网络的开源权重扩散语言模型",
 "s": "NVIDIA发布了Nemotron-Labs-TwoTower，这是一个基于预训练自回归骨干网络的扩散语言模型。该模型以开源权重形式发布，遵循NVIDIA Nemotron开放模型许可协议。此次发布旨在解决文本生成中的吞吐量瓶颈问题。自回归（AR）模型每次解码一个token，这种串行处理限制了生成吞吐量。离散扩散语言模型则采用……该文章《NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone》最初发表于MarkTechPost。"
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=38813": {
 "t": "新基准测试证实AI模型在视觉感知方面仍表现不佳",
 "s": "Moonshot AI的PerceptionBench测试了多模态AI模型实际“看见”的能力，与逻辑推理分离。目前没有前沿模型达到60%的准确率，GPT-5.6 Sol以微弱优势领先。许多所谓的推理错误实际上早在图像读取阶段就已发生。文章《新基准测试证实AI模型在视觉感知方面仍表现不佳》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81728": {
+"t": "微调工具调用大语言模型：使用XYZ-Aquila-SFT和Qwen3的完整指南",
+"s": "实现一个端到端的工具调用语言模型微调流程。本教程涵盖轨迹解析、结构化工具调用提取、兼容Qwen的ChatML渲染，以及使用PyTorch进行高效的LoRA适配。这篇关于微调工具调用大语言模型的完整指南（使用XYZ-Aquila-SFT和Qwen3）首次出现在MarkTechPost上。"
+},
+"https://the-decoder.com/?p=38942": {
+"t": "AI生成的书籍正淹没亚马逊，导致人类作者销量暴跌",
+"s": "AI生成的书籍占亚马逊自助出版目录的20%，但仅带来12%的销售额。一项新研究发现，在八个类型中有七个类型的人类撰写书籍的单书收入也在下降。这些发现可能为版权诉讼原告提供其针对AI公司案件中所缺失的市场损害数据。文章《AI生成的书籍正淹没亚马逊，导致人类作者销量暴跌》最初发表于The Decoder。"
 }
 }
