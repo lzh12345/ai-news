@@ -1,12 +1,4 @@
 {
-"3wrqj94tEFsKCZ8OBUE52R": {
-"t": "通过归因业务洞察揭示爬虫行为",
-"s": "Cloudflare 新推出的归因业务洞察仪表板帮助网站所有者了解爬虫行为、需求及潜在价值，推动围绕爬虫补偿的业务层面讨论。"
-},
-"https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/": {
-"t": "在促使特朗普进行安全测试后，Anthropic的AI模型获准全球发布",
-"s": "美国解除对Anthropic先进Fable和Mythos模型的限制。"
-},
 "https://the-decoder.com/?p=37253": {
 "t": "Meta效仿SpaceX策略，打造云业务向外部客户出售闲置AI算力",
 "s": "Meta正在构建自己的云业务，向外部客户出售闲置的AI算力。该公司今年计划投入高达1450亿美元的AI投资，这引发了与xAI类似的问题：为何不将所有算力用于自身模型？本文《Meta效仿SpaceX策略，打造云业务向外部客户出售闲置AI算力》首发于The Decoder。"
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=39098": {
 "t": "投资者施压迫使英伟达缩减对OpenAI的投资，恰逢Anthropic业绩打破泡沫警告",
 "s": "英伟达已将其对OpenAI计划在俄亥俄州建设的数据中心的担保金额削减近半，从2500亿美元降至不到1200亿美元，原因是投资者对风险表示反对。与此同时，Anthropic以单季度营收从47亿美元跃升至115亿美元的表现，使AI泡沫之争更加复杂。文章《投资者施压迫使英伟达缩减对OpenAI的投资，恰逢Anthropic业绩打破泡沫警告》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3153310": {
+"t": "Anthropic 分享更多关于 Claude 新水印如何运作的细节",
+"s": "水印技术究竟如何运作？能否通过编辑隐藏？这对代码有何影响？"
+},
+"https://techcrunch.com/?p=3153306": {
+"t": "SpaceX正式完成对Cursor的收购",
+"s": "AI编程初创公司Cursor现已正式成为SpaceX的一部分。"
 }
 }

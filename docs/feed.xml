@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 15 Aug 2026 16:14:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 20:12:35 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic 分享更多关于 Claude 新水印如何运作的细节</title>
+<link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153310</guid>
+<pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】水印技术究竟如何运作？能否通过编辑隐藏？这对代码有何影响？<br/><br/><a href="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SpaceX正式完成对Cursor的收购</title>
+<link>https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153306</guid>
+<pubDate>Sat, 15 Aug 2026 16:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AI编程初创公司Cursor现已正式成为SpaceX的一部分。<br/><br/><a href="https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>投资者施压迫使英伟达缩减对OpenAI的投资，恰逢Anthropic业绩打破泡沫警告</title>
 <link>https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/</link>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 12 Aug 2026 21:00:30 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】流媒体平台表示，用户生成的内容“可能用于未来生成式AI模型的改进”。<br/><br/><a href="https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>亚马逊将默认使用Twitch主播内容进行训练，除非主播选择退出</title>
-<link>https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3152544</guid>
-<pubDate>Wed, 12 Aug 2026 20:10:40 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】“如果这是选择加入，没人会加入，”Twitch首席产品官Mike Minton在直播中回应观众反馈时说。“老实说，这就是答案。”<br/><br/><a href="https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>使用GitHub Copilot应用编写你的第一个提示词</title>
-<link>https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/</link>
-<guid isPermaLink="false">https://github.blog/?p=98221</guid>
-<pubDate>Wed, 12 Aug 2026 19:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】了解如何在GitHub Copilot应用中编写你的第一个提示词，选择合适的上下文和模型，并自信地开始你的第一个任务。这篇文章《使用GitHub Copilot应用编写你的第一个提示词》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
