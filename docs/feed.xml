@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 15 Aug 2026 12:20:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 16:14:15 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>投资者施压迫使英伟达缩减对OpenAI的投资，恰逢Anthropic业绩打破泡沫警告</title>
+<link>https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39098</guid>
+<pubDate>Sat, 15 Aug 2026 15:41:02 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】英伟达已将其对OpenAI计划在俄亥俄州建设的数据中心的担保金额削减近半，从2500亿美元降至不到1200亿美元，原因是投资者对风险表示反对。与此同时，Anthropic以单季度营收从47亿美元跃升至115亿美元的表现，使AI泡沫之争更加复杂。文章《投资者施压迫使英伟达缩减对OpenAI的投资，恰逢Anthropic业绩打破泡沫警告》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>微调工具调用大语言模型：使用XYZ-Aquila-SFT和Qwen3的完整指南</title>
 <link>https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/</link>
@@ -134,14 +142,6 @@
 <pubDate>Fri, 14 Aug 2026 14:27:14 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】面对新挑战对其万亿美元雄心的冲击，美国公司纷纷发布更便宜的模型。<br/><br/><a href="https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-5.6 Sol提速14倍，OpenAI推出由Cerebras驱动的Ultrafast模式</title>
-<link>https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39052</guid>
-<pubDate>Fri, 14 Aug 2026 14:21:50 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI推出“Ultrafast”新推理模式，基于其与Cerebras的100亿美元合作硬件，GPT-5.6 Sol的输出速度可达每秒750个token。结合“Standard”和“Fast”，Ultrafast构成了三级定价结构，将推理速度本身转化为产品。文章《GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras》最初发布于The Decoder。<br/><br/><a href="https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>若新预测成真，超大规模云服务商或后悔拥抱天然气</title>
