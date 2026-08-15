@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 15 Aug 2026 04:21:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 08:17:13 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>原告在法庭文件中隐藏隐形AI指令，秘密影响自动审查</title>
+<link>https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39046</guid>
+<pubDate>Sat, 15 Aug 2026 08:00:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】康涅狄格州一名原告在法庭文件中嵌入了隐形提示注入，以3磅白色文字格式置于白色背景上，试图操纵潜在的AI审查系统。斯帕德法官将此行为比作秘密干预陪审团，并撤销了该原告的电子提交权限。法院强调，康涅狄格州并未使用AI审查文件，但仅凭其意图就足以构成制裁依据。文章《原告在法庭文件中隐藏隐形AI指令以秘密影响自动审查》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>World Labs将一项真实世界机器人任务转化为数千种模拟变体用于训练</title>
+<link>https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38836</guid>
+<pubDate>Sat, 15 Aug 2026 07:30:48 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】由AI先驱李飞飞创立的初创公司World Labs推出了一款模拟引擎，该引擎完全在虚拟环境中训练机器人控制器。系统从一项真实世界任务中生成数千种受控变体。随后，训练出的模型在五种不同的机器人平台上各运行了一小时，无需人工干预。这些结果在更复杂的日常情境中表现如何，尚待观察。本文《World Labs turns one real-world robot task into thousands of simulated variations for training》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>“认知公地悲剧”揭示理性采用AI如何摧毁整个行业的专业知识</title>
+<link>https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39083</guid>
+<pubDate>Sat, 15 Aug 2026 06:00:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】一项新研究将AI的采用视为“认知公地悲剧”。每家公司削减入门级岗位虽各自受益，但整个行业的集体专业知识却在逐渐流失。其后果可能要到2030至2045年间才会显现，届时今日缺失的初级人才本应成为明日经验丰富的劳动力。文章《“认知公地悲剧”揭示理性采用AI如何摧毁整个行业的专业知识》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>新基准测试证实AI模型在视觉感知方面仍表现不佳</title>
+<link>https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38813</guid>
+<pubDate>Sat, 15 Aug 2026 05:30:18 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Moonshot AI的PerceptionBench测试了多模态AI模型实际“看见”的能力，与逻辑推理分离。目前没有前沿模型达到60%的准确率，GPT-5.6 Sol以微弱优势领先。许多所谓的推理错误实际上早在图像读取阶段就已发生。文章《新基准测试证实AI模型在视觉感知方面仍表现不佳》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic推出水印检测API，允许第三方识别Claude生成的AI文本</title>
 <link>https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/</link>
@@ -136,14 +168,6 @@
 <description><![CDATA[【the-decoder.com】Anthropic正在测试Claude Code能否处理公司自身应用的日常维护，从崩溃模糊测试到死代码移除。在几周内，该AI创建了388个拉取请求，其中46%在人工审查后被合并。Claude Code的发明者Boris Cherny认为这是“早期迹象表明这可能实现”。文章《Claude Code现以46%的合并率每日维护Anthropic软件》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>智谱AI发布GLM-5.3，声称是最强开源权重编程模型</title>
-<link>https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39035</guid>
-<pubDate>Fri, 14 Aug 2026 10:21:34 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】智谱AI发布了GLM-5.3，据其自身基准测试显示，该模型是最强大的开源权重编程模型，仅通过后训练就比前代提升了50%。GLM-5.3专为网络安全训练，帮助安全团队在269个项目中发现了2436个漏洞。模型权重将在两周后开源。文章《智谱AI发布GLM-5.3，声称是最强开源权重编程模型》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Z.ai发布GLM-5.3，无需重新训练基础模型：在复杂编码和长周期任务上表现更佳</title>
 <link>https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81725</guid>
@@ -200,14 +224,6 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare的数据显示，2026年8月12日发生的日全食路径上，从冰岛到西班牙和葡萄牙的互联网流量受到了明显影响。<br/><br/><a href="https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Suno Studio 2.0新聊天功能，让你像与乐队伙伴对话一样操作DAW</title>
-<link>https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39031</guid>
-<pubDate>Thu, 13 Aug 2026 19:39:54 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】借助Studio 2.0，Suno将其AI音乐平台转变为面向Premier订阅用户的完整制作工具。聊天功能通过文本创建乐器和插件，而MIDI导入和32位导出则无限制。这种无限制导出与Suno近期宣布的下载上限相冲突，后者旨在打击流媒体平台上的AI音乐垃圾信息。文章《Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI推出“超快速”新模式，使GPT-5.6 Sol运行速度提升14倍</title>
 <link>https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3152875</guid>
@@ -230,14 +246,6 @@
 <pubDate>Thu, 13 Aug 2026 19:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】GitHub Universe 会议目录现已上线。探索互动工作坊、社区演讲、演示和专题讨论。此外，在8月19日前注册可节省300美元。此文章首发于GitHub博客。<br/><br/><a href="https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gemini 3.7 Flash 发布，编程能力提升，价格较三周前的前代产品降低50%</title>
-<link>https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39024</guid>
-<pubDate>Thu, 13 Aug 2026 18:41:52 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】谷歌在3.6 Flash发布仅三周后，推出了Gemini 3.7 Flash。这款新模型据称是谷歌迄今在编程和AI代理方面最强大的主力模型，根据公司自身的基准测试，其性能超越Claude Sonnet 5和GPT-5.6 Terra，而价格仅为后者的一半。文章《Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic让AI代理在同一任务上自由行动，结果它们开始了地盘争夺战。</title>
@@ -294,14 +302,6 @@
 <pubDate>Thu, 13 Aug 2026 17:00:13 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Gemini 3.6 Flash 三周前刚刚亮相，但谷歌表示3.7版本有“显著改进”。<br/><br/><a href="https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Deepseek发布改进版V4 Pro，开源其代理软件，并上调API价格</title>
-<link>https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39017</guid>
-<pubDate>Thu, 13 Aug 2026 16:27:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Deepseek已将其旗舰产品V4-Pro移出测试阶段，并以MIT许可证发布了其代理软件Harness v0.1。同时，API价格上调，缓存命中成本跃升至当前水平的六倍。对于反复读取相同文件的代理工作流而言，这是转型中最大的价格涨幅。文章《Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>50个开源项目教会我们的AI时代安全之道</title>
