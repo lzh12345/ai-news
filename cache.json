@@ -1,8 +1,4 @@
 {
-"6dNg0U03j4cnbacP8txDok": {
-"t": "宣布推出 Monetization Gateway：通过 x402 对 Cloudflare 背后的任何资源进行收费",
-"s": "我们已开放 Monetization Gateway 的候补名单，该网关将允许您对 Cloudflare 背后的任何网页、数据集、API 或 MCP 工具进行收费。费用将通过 x402 开放协议以稳定币结算，无需自行构建支付体系。"
-},
 "3qEwyKxigFNDK4JTlPfl8A": {
 "t": "内容独立日一周年：构建代理型互联网的商业模式",
 "s": "在宣布内容独立日一年后，一个充满活力的内容变现市场已正式形成。本报告探讨了自主AI代理的崛起如何颠覆传统搜索推荐机制，并详细阐述了支撑可持续网络经济所需的新基础设施。"
@@ -4798,5 +4794,9 @@
 "https://the-decoder.com/?p=39071": {
 "t": "OpenAI的计算机历史功能将你的点击和按键转化为可搜索的ChatGPT记忆时间线",
 "s": "OpenAI的计算机历史功能记录Mac上的点击、按键和应用切换，并将其转化为ChatGPT和Codex的可搜索时间线。数据以未加密的Markdown文件形式本地存储。OpenAI表示这些数据不用于AI训练，但进入对话的记忆仍可能成为训练数据。文章《OpenAI的计算机历史功能将你的点击和按键转化为可搜索的ChatGPT记忆时间线》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39093": {
+"t": "Anthropic推出水印检测API，允许第三方识别Claude生成的AI文本",
+"s": "Anthropic即将提供水印检测API，使第三方能够检查文本是否由Claude撰写。该技术基于谷歌的SynthID方法，并在不影响文本质量的前提下调整词语选择时的随机性，Anthropic表示。此方法在处理事实密集型文本、代码及大幅改写时存在局限。文章《Anthropic announces watermark detection API that will let third parties detect Claude's AI texts》首发于The Decoder。"
 }
 }
