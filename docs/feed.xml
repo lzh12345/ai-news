@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 16 Aug 2026 04:27:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 08:18:30 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI解散了旨在防范灾难性AI风险的团队，将其工作重新分配给其他部门</title>
+<link>https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39110</guid>
+<pubDate>Sun, 16 Aug 2026 08:12:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI关闭了其“预备”团队，该团队负责评估公司自身AI模型是否可能构成灾难性风险。相关工作已分散至现有部门，多名安全人员离职。内部不安情绪渐长，有消息源描述了一种“责任与恐惧交织的暗流”，认为OpenAI在安全方面做得不够。本文《OpenAI解散了旨在防范灾难性AI风险的团队，将其工作重新分配给其他部门》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic生物武器过滤器停用近一年，暴露1.33亿次请求</title>
+<link>https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39104</guid>
+<pubDate>Sun, 16 Aug 2026 07:20:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在一份安全报告中，Anthropic透露，其针对生物和化学武器风险的内部过滤系统已停用近一年。在此期间，约5万名外部反馈承包商与模型进行了约1.33亿次未经过滤的交互。文章《Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Optima通过让用户用自有数据测试模型，解决AI基准测试的最大缺陷</title>
+<link>https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39057</guid>
+<pubDate>Sun, 16 Aug 2026 05:50:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Artificial Analysis推出了Optima平台，允许用户基于自己的数据和工作流程构建定制AI基准。模型不仅可以在质量上进行比较，还可以在每项任务的成本和耗时上进行对比。对于基于代理的应用，这些指标往往比原始代币定价更具参考价值。本文《Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>调查发现，美国五分之一员工现在将任务交给AI而非同事</title>
+<link>https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=38699</guid>
+<pubDate>Sun, 16 Aug 2026 05:00:00 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Epoch AI的一项代表性调查显示，20%的美国在职员工将至少一项原本由人类完成的任务交给AI处理。通常，他们几乎不进行或完全不进行编辑就接受AI的输出结果。文章《调查发现，美国五分之一员工现在将任务交给AI而非同事》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>女子声称继父利用Grok将童年照片转化为色情图像</title>
 <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</link>
@@ -88,14 +120,6 @@
 <description><![CDATA[【the-decoder.com】Moonshot AI的PerceptionBench测试了多模态AI模型实际“看见”的能力，与逻辑推理分离。目前没有前沿模型达到60%的准确率，GPT-5.6 Sol以微弱优势领先。许多所谓的推理错误实际上早在图像读取阶段就已发生。文章《新基准测试证实AI模型在视觉感知方面仍表现不佳》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic推出水印检测API，允许第三方识别Claude生成的AI文本</title>
-<link>https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39093</guid>
-<pubDate>Fri, 14 Aug 2026 21:29:17 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic即将提供水印检测API，使第三方能够检查文本是否由Claude撰写。该技术基于谷歌的SynthID方法，并在不影响文本质量的前提下调整词语选择时的随机性，Anthropic表示。此方法在处理事实密集型文本、代码及大幅改写时存在局限。文章《Anthropic announces watermark detection API that will let third parties detect Claude's AI texts》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>怀疑法院使用AI，男子在诉讼文件中注入提示词试图赢得案件</title>
 <link>https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</guid>
@@ -104,36 +128,12 @@
 <description><![CDATA[【arstechnica.com】法官警告自行诉讼者错误使用聊天机器人，且手段愈发绝望。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>阿里巴巴Qwen团队发布Qwen 3.8模型，采用Apache 2.0许可证开放权重</title>
-<link>https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39076</guid>
-<pubDate>Fri, 14 Aug 2026 17:01:54 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】阿里巴巴的AI团队Qwen在Apache 2.0许可证下发布了新的开放模型权重，即Qwen 3.8。这款密集的270亿参数模型旨在在编程和办公任务上超越更大的Qwen 3.7 Plus，并原生处理高达262,000个令牌的上下文。此次发布，Qwen瞄准了构建本地和基于代理应用的开发者。文章《阿里巴巴Qwen团队发布Qwen 3.8模型，采用Apache 2.0许可证开放权重》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI的计算机历史功能将你的点击和按键转化为可搜索的ChatGPT记忆时间线</title>
-<link>https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39071</guid>
-<pubDate>Fri, 14 Aug 2026 16:43:43 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI的计算机历史功能记录Mac上的点击、按键和应用切换，并将其转化为ChatGPT和Codex的可搜索时间线。数据以未加密的Markdown文件形式本地存储。OpenAI表示这些数据不用于AI训练，但进入对话的记忆仍可能成为训练数据。文章《OpenAI的计算机历史功能将你的点击和按键转化为可搜索的ChatGPT记忆时间线》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>谷歌将允许用户从其AI生成内容中移除可见水印</title>
 <link>https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3153145</guid>
 <pubDate>Fri, 14 Aug 2026 16:13:40 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】关闭此设置不会影响用于识别AI生成文件的隐形基准标记。<br/><br/><a href="https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>研究反驳Anthropic与OpenAI关于自主AI研究即将实现的论断</title>
-<link>https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39061</guid>
-<pubDate>Fri, 14 Aug 2026 16:06:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】使用Claude Opus 4.8和GPT-5.6 Sol的AI代理被给予六天时间、3000美元API信用额度及GPU访问权限，以独立撰写AI研究论文。未发表的NeurIPS论文原作者将这些成果评为“拒绝”。根据与普林斯顿大学及英国AI安全研究所合作进行的研究，前沿模型能够处理完整的研究工程流程，但在研究判断、创造性问题解决以及放弃失败方法的能力上仍有不足。文章《研究反驳Anthropic与OpenAI关于自主AI研究即将实现的论断》已发布。<br/><br/><a href="https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>如何通过代理应用将软件交付工作流引入GitHub</title>
