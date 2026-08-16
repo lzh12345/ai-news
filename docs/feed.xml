@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 16 Aug 2026 16:14:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 20:12:38 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic CEO称AI反弹“从根本上是一场信任危机”</title>
+<link>https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153318</guid>
+<pubDate>Sun, 16 Aug 2026 16:53:51 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】达里奥·阿莫德伊反驳了他一直在描绘AI过于悲观图景的说法。<br/><br/><a href="https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>顶尖数学家称大语言模型是强大的计算器，但缺乏创造性思维</title>
 <link>https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/</link>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 12 Aug 2026 22:02:25 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】“ShieldFont”旨在污染AI训练数据，同时不损害人类用户的阅读体验。<br/><br/><a href="https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>大规模供应链攻击泄露数TB凭据</title>
-<link>https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/</guid>
-<pubDate>Wed, 12 Aug 2026 21:43:21 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】此次攻击从被入侵的AI软件包的2,500名用户中窃取并外泄了数据。<br/><br/><a href="https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
