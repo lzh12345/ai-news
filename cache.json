@@ -1,40 +1,4 @@
 {
-"https://the-decoder.com/?p=37270": {
-"t": "英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控",
-"s": "英伟达正日益扮演着AI初创企业中央银行的角色，积极塑造计算市场。本文《英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37264": {
-"t": "AI代理现在能以专业质量完成16%的自由职业工作，较八个月前的2.5%有所提升",
-"s": "远程劳动指数衡量了AI代理以专业质量完成付费自由职业项目的频率。在八个月内，最高自动化率增长了超过四倍。本文《AI代理现在能以专业质量完成16%的自由职业工作，较八个月前的2.5%有所提升》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37263": {
-"t": "Google 将 TikTok 风格短视频引入 NotebookLM",
-"s": "Google 已将 NotebookLM 扩展，加入了社交媒体上常见的短视频格式概览。文章《Google brings TikTok-style video shorts to NotebookLM》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3137764": {
-"t": "没错，我们现在用OpenClaw来约会了",
-"s": "Ben Guez 的“私信里有一堆潜在的国际妻子候选人”，这要归功于他利用 OpenClaw、Claude 代码和 Instagram 试用版设置的一个自动化脚本。"
-},
-"https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/": {
-"t": "谷歌AI建设推动2025年用电量增长37%",
-"s": "谷歌试图在AI数据中心排放与清洁能源努力之间取得平衡。"
-},
-"https://the-decoder.com/?p=37260": {
-"t": "OpenAI据报向特朗普政府提供公司5%的股份",
-"s": "据报道，OpenAI正提议向特朗普政府提供公司5%的股份。作为交换，政府可能需要付出什么，目前尚不明确。此举显示出这家AI公司希望与华盛顿建立紧密联系的意图。本文《OpenAI据报向特朗普政府提供公司5%的股份》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37279": {
-"t": "Anthropic称将Claude Code系统提示缩减80%，因Fable 5模型“想要更小的系统提示”",
-"s": "Anthropic已将Claude Code的系统提示缩减了80%。据员工Tariq Shihipar称，新的Fable 5模型需要的指令和示例更少。指南甚至可能限制模型，因为它们比所给内容“更具想象力”。Anthropic如今不再依赖严格规则，而是通过上下文进行引导。本文《Anthropic称将Claude Code系统提示缩减80%，因Fable 5模型“想要更小的系统提示”》最初发表于The Decoder。"
-},
-"https://github.blog/?p=97226": {
-"t": "GitHub如何利用秘密扫描实现收件箱归零",
-"s": "GitHub在15,000个仓库中拥有超过20,000条秘密扫描警报。以下是我们在九个月内如何区分信号与噪声、构建修复工作流并实现收件箱归零的历程。本文最初发布于GitHub博客。"
-},
-"https://techcrunch.com/?p=3138583": {
-"t": "OpenAI提议将其5%的股权捐赠给美国主权财富基金",
-"s": "据报道，OpenAI首席执行官山姆·奥特曼提议将公司5%的股权捐赠给美国主权财富基金，这重新引发了关于让公众分享人工智能热潮带来的财务收益的讨论。"
-},
 "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/": {
 "t": "特朗普获OpenAI提供美国5%股份，远低于桑德斯的目标",
 "s": "知情人士称，山姆·奥特曼正与特朗普政府积极谈判。"
@@ -4798,5 +4762,41 @@
 "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
 "t": "智能时代的新政策构想",
 "s": "OpenAI资助了14个独立项目，探索新的AI政策构想，以在智能时代扩大经济机会并增强社会韧性。"
+},
+"https://techcrunch.com/?p=3153443": {
+"t": "Groq融资3.5亿美元，推动从AI芯片向新云业务转型",
+"s": "Groq以35亿美元估值融资3.5亿美元，这家前AI芯片制造商正转向新云业务，并扩大其基于Nvidia的数据中心布局。"
+},
+"https://github.blog/?p=98309": {
+"t": "画布如何让代理工作流可见、可控且成本高效",
+"s": "聊天适合表达意图，但代理工作容易在滚动中迷失。以下是我如何将画布用于代理工作流——以及为什么你的工作流也值得拥有一个画布。这篇文章《画布如何让代理工作流可见、可控且成本高效》最初出现在GitHub博客上。"
+},
+"https://techcrunch.com/?p=3153419": {
+"t": "英伟达向软银数据中心开发商投资15亿美元，助力OpenAI项目",
+"s": "英伟达对软银数据中心开发商的注资将确保其芯片为OpenAI数据中心提供动力。"
+},
+"https://the-decoder.com/?p=39136": {
+"t": "AirTag揭示亚马逊如何销毁稀有书籍用于AI训练",
+"s": "亚马逊大量购买印刷书籍，将其扫描作为AI训练数据，并在此过程中销毁这些书籍。文章《AirTag揭示亚马逊如何销毁稀有书籍用于AI训练》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39132": {
+"t": "OpenAI签署俄亥俄州创纪录数据中心租约，英伟达提供高达1050亿美元支持",
+"s": "OpenAI已签署一份为期20年的租约，在俄亥俄州建设一座8吉瓦的数据中心。英伟达将为设施残值提供高达1050亿美元的担保，并成为独家芯片供应商。据《华尔街日报》报道，目前有九家科技公司持有约3万亿美元的AI承诺，这些承诺未出现在任何资产负债表中。文章《OpenAI签署俄亥俄州创纪录数据中心租约，英伟达提供高达1050亿美元支持》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39129": {
+"t": "AI视频市场从Sora的虚晃一枪中反弹",
+"s": "像Promise这样的AI制作公司正围绕好莱坞历史悠久的制片厂布局，利用实时背景及其他AI工具削减电影成本。Netflix已在其1000部作品中运用AI于300部，而初创公司Higgsfield如今估值高达54亿美元。曾经的技术演示已发展成独立产业，伴随估值、职位头衔以及关于利益分配的纷争。文章《AI视频市场从Sora的虚晃一枪中反弹》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3153341": {
+"t": "Wispr融资2.8亿美元，估值达20亿美元，业务拓展超越听写领域",
+"s": "Wispr的总融资额现已超过3.61亿美元。"
+},
+"https://openai.com/index/the-defenders-window": {
+"t": "防御者的窗口",
+"s": "人工智能正在重塑网络安全，对攻击者和防御者皆是如此。了解OpenAI如何加强其防御体系，以及安全团队现在可以采取哪些措施。"
+},
+"https://openai.com/index/openai-joins-ports-pike-project": {
+"t": "OpenAI加入PORTS-Pike项目",
+"s": "OpenAI加入PORTS-Pike项目，扩大社区投资并支持俄亥俄州南部数千个就业岗位"
 }
 }
