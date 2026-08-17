@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80799": {
-"t": "使用Lift将研究PDF转化为结构化JSON：基于受控模式引导的字段级评估",
-"s": "在本教程中，我们围绕Lift构建了一个完整的PDF到结构化数据工作流，专注于受控评估而非一次性演示。我们准备了一个Colab GPU环境，以4位NF4加载Lift，并生成带有刻意干扰项的合成研究报告。随后，我们执行模式引导的提取，将每个字段与真实值进行评分，并将结果组装成可查询的知识库。最终产出的是一个可重复的提取基准，而不仅仅是原始模型输出。"
-},
-"https://www.marktechpost.com/?p=80795": {
-"t": "美国出口管制解除后，Anthropic 于7月1日重新部署 Claude Fable 5，并新增网络安全分类器",
-"s": "在美国出口管制解除后，Anthropic 将于7月1日重新部署 Claude Fable 5。一款新的安全分类器能超过99%的时间阻止亚马逊报告中的相关技术，并将标记的请求路由至 Opus 4.8。该公司还与亚马逊、微软和谷歌共同提出了一个包含四项标准的越狱严重性评估框架。本文《Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80806": {
-"t": "Google Health API 有了命令行工具：ghealth 是用于 Fitbit Air 数据的开源工具",
-"s": "Google Health API 现在有了一个开源命令行工具。ghealth 是一个单一的 Go 语言二进制文件，可将 40 种数据类型以 agent-ready JSON 格式暴露出来。这是一个社区项目，并非 Google 官方发布。以下是其工作原理，以及在授予 OAuth 访问权限前需要检查的事项。该文章《The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data》最初发表于 MarkTechPost。"
-},
 "https://the-decoder.com/?p=37270": {
 "t": "英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控",
 "s": "英伟达正日益扮演着AI初创企业中央银行的角色，积极塑造计算市场。本文《英伟达正资助AI初创企业，以削弱大型科技公司对其芯片业务的掌控》最初发表于The Decoder。"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=39116": {
 "t": "据报道，Stripe将以超过70亿美元收购AI初创公司OpenRouter",
 "s": "据彭博社报道，Stripe将以超过70亿美元收购AI初创公司OpenRouter，高于其最新估值13亿美元。OpenRouter提供超过400个AI模型的访问，拥有800万用户，其CEO曾将公司描述为“AI领域的Stripe”。如今这正成为现实。文章《据报道，Stripe将以超过70亿美元收购AI初创公司OpenRouter》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39125": {
+"t": "Anthropic为Claude输出添加水印，但批评者质疑其权衡",
+"s": "Anthropic为Claude推出的文本水印技术旨在使AI生成的内容可被检测。然而，批评者怀疑措辞选择是否真的不受影响，律师们则面临新的透明度难题。文章《Anthropic watermarks Claude's output, but critics question the tradeoffs》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81732": {
+"t": "DeepSeek AI发布DeepSeek Harness开发者预览版：一款MIT许可的智能体框架，一切皆插件",
+"s": "DeepSeek Harness v0.1是一款MIT许可的智能体框架，其中每项能力都是一个Cordis插件。支持四种运行时模式、仅追加的会话日志以及与提供商无关的模型路由。该文章《DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin》最初发表于MarkTechPost。"
+},
+"https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
+"t": "智能时代的新政策构想",
+"s": "OpenAI资助了14个独立项目，探索新的AI政策构想，以在智能时代扩大经济机会并增强社会韧性。"
 }
 }
