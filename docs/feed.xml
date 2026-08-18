@@ -5,8 +5,72 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 18 Aug 2026 12:28:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 16:21:09 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>苹果带摄像头的AirPods或许并非消费者所担心的“偷窥神器”</title>
+<link>https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153909</guid>
+<pubDate>Tue, 18 Aug 2026 16:19:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】苹果泄露的带摄像头AirPods可能通过阻止用户录制照片和视频，避开其他AI可穿戴设备的隐私陷阱。<br/><br/><a href="https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>BGP角色模型：追踪RFC 9234的采用情况</title>
+<link>https://blog.cloudflare.com/rfc9234-bgp-role-model/</link>
+<guid isPermaLink="false">01M0ANY0TKGXDWAN9C58T3A1HR</guid>
+<pubDate>Tue, 18 Aug 2026 15:21:32 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】RFC 9234允许路由器利用BGP角色和仅对客户属性自行拒绝路由泄漏。我们测量了谁已部署该标准，并发现两个一级网络意外地剥离了OTC属性。<br/><br/><a href="https://blog.cloudflare.com/rfc9234-bgp-role-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Warp新系统：即开即用的AI开发软件工厂</title>
+<link>https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153863</guid>
+<pubDate>Tue, 18 Aug 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】周二，Warp推出了Warp Factories，这是一个旨在让构建AI软件工厂尽可能简单的新基础设施系统。<br/><br/><a href="https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI为青少年推出更安全的ChatGPT——距青少年开始使用已过去数年</title>
+<link>https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153830</guid>
+<pubDate>Tue, 18 Aug 2026 13:50:30 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】ChatGPT青少年版增加了适龄安全措施、家长控制和学习工具，旨在引导青少年远离有害内容——以及避免利用AI在作业中作弊。<br/><br/><a href="https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity的免费AI服务使其在印度新增数百万用户</title>
+<link>https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153831</guid>
+<pubDate>Tue, 18 Aug 2026 13:45:40 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在Airtel优惠对新用户结束后，尽管下载量有所下降，Perplexity在印度的收入仍增长了约60%。<br/><br/><a href="https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>认识SAM（主权代理网格）：为AI代理打造零配置、零信任的P2P网络</title>
+<link>https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81759</guid>
+<pubDate>Tue, 18 Aug 2026 13:29:10 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】谷歌已在Apache-2.0许可下开源了SAM（主权代理网格）——这与Segment Anything无关。SAM是一个零配置、零信任的P2P覆盖网络，让自主代理能够在云端、本地、笔记本电脑和边缘环境中发现并调用彼此的MCP工具，而无需向公共互联网暴露任何内部端点。身份从OIDC流入Biscuit能力令牌，因此节点在严格的默认拒绝模型下离线授权每个请求。这篇关于SAM（主权代理网格）的文章首次出现在Ma上。<br/><br/><a href="https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic CEO称AI天然趋向集中，开放模型只是将权力转移给芯片拥有者</title>
+<link>https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39163</guid>
+<pubDate>Tue, 18 Aug 2026 13:07:57 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】关于AI监管的公开争论在X平台上爆发。投资者Gavin Baker、前白宫顾问David Sacks以及Meta研究员Yann LeCun指责Anthropic CEO Dario Amodei利用恐惧言论为自己谋取监管优势。Amodei反驳称，监管同样能约束企业权力，而仅靠开放模型只会将权力转移给拥有最强计算能力的参与者。文章《Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>微软Copilot暴露秘密输入，导致其可被黑客攻击</title>
+<link>https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</guid>
+<pubDate>Tue, 18 Aug 2026 13:00:04 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】一个秘密参数使得黑客在目标点击链接时能够窃取密码。<br/><br/><a href="https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>JAMA文章称，AI超越医生时，监管者不应强制人类介入</title>
 <link>https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/</link>
@@ -102,6 +166,22 @@
 <pubDate>Tue, 18 Aug 2026 01:10:28 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】字节跳动Seed与清华AIR发布了CUDA Agent，这是一个智能体强化学习系统，训练大型语言模型编写性能超越编译器的GPU内核。其针对的差距虽窄但顽固：前沿模型已能生成正确的CUDA代码，但生成的代码运行缓慢。在KernelBench基准测试中，基础模型Seed1.6通过率为74.0%……该文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>多向量（后期交互）嵌入模型与句子变换器</title>
+<link>https://huggingface.co/blog/multi-vector-encoder</link>
+<guid isPermaLink="false">https://huggingface.co/blog/multi-vector-encoder</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/multi-vector-encoder">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GRPO超越英语：非英语与多语言环境下GRPO的大规模研究</title>
+<link>https://machinelearning.apple.com/research/grpo-beyond-english</link>
+<guid isPermaLink="false">grpo-beyond-english</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】基于可验证奖励的强化学习（RLVR），通常通过组相对策略优化（GRPO）进行优化，已成为提升预训练语言模型推理能力的关键方法，但现有研究仍高度以英语为中心。我们针对多种基础模型、训练语言及不同推理语言奖励，开展了一项大规模的多语言和非英语GRPO实证研究。我们发现，以母语进行推理训练与英语推理训练之间的差距通常很小。我们进一步观察到强大的……<br/><br/><a href="https://machinelearning.apple.com/research/grpo-beyond-english">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic年化收入飙升至650亿美元</title>
@@ -206,14 +286,6 @@
 <pubDate>Mon, 17 Aug 2026 14:13:26 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI已签署一份为期20年的租约，在俄亥俄州建设一座8吉瓦的数据中心。英伟达将为设施残值提供高达1050亿美元的担保，并成为独家芯片供应商。据《华尔街日报》报道，目前有九家科技公司持有约3万亿美元的AI承诺，这些承诺未出现在任何资产负债表中。文章《OpenAI签署俄亥俄州创纪录数据中心租约，英伟达提供高达1050亿美元支持》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI视频市场从Sora的虚晃一枪中反弹</title>
-<link>https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39129</guid>
-<pubDate>Mon, 17 Aug 2026 13:29:01 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】像Promise这样的AI制作公司正围绕好莱坞历史悠久的制片厂布局，利用实时背景及其他AI工具削减电影成本。Netflix已在其1000部作品中运用AI于300部，而初创公司Higgsfield如今估值高达54亿美元。曾经的技术演示已发展成独立产业，伴随估值、职位头衔以及关于利益分配的纷争。文章《AI视频市场从Sora的虚晃一枪中反弹》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Wispr融资2.8亿美元，估值达20亿美元，业务拓展超越听写领域</title>
@@ -368,22 +440,6 @@
 <description><![CDATA[【arstechnica.com】面对新挑战对其万亿美元雄心的冲击，美国公司纷纷发布更便宜的模型。<br/><br/><a href="https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>若新预测成真，超大规模云服务商或后悔拥抱天然气</title>
-<link>https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3152944</guid>
-<pubDate>Fri, 14 Aug 2026 14:05:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】美国部分地区天然气价格可能上涨两倍，这将使超大规模云服务商为其AI数据中心支付巨额电费。<br/><br/><a href="https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta的“开放”AI，以及一笔2.5亿美元的交易严重出错</title>
-<link>https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3153152</guid>
-<pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meta本周发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行——这与该公司更强大的模型Muse Spark形成对比，后者仍被锁定在其自有API之后。此次发布伴随着马克·扎克伯格的一封信，他在信中主张AI应“为所有人”服务，而非由少数实验室控制，但正如Equity的[…]<br/><br/><a href="https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Cloudflare如何检测MCP流量并帮助确保其安全</title>
 <link>https://blog.cloudflare.com/mcp-security-updates/</link>
 <guid isPermaLink="false">01M005AFBW9P2YGZT4HH64D2BQ</guid>
@@ -416,14 +472,6 @@
 <description><![CDATA[【marktechpost.com】Cactus Compute发布了Needle 2，这是一款开源的45M参数模型，用于工具调用、设备使用和结构化提取。完整模型是一个14MB的单一二进制文件，运行一个会话仅需约28MB内存。它在两个Seal-Tools数据集上均领先，同时面向无GPU和无NPU的硬件设计。文章《Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>打造专注推理的LLM：流式处理、数据策展与微调SupraLabs推理语料库的实用指南</title>
-<link>https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81717</guid>
-<pubDate>Fri, 14 Aug 2026 03:09:45 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】本教程提供了一个构建紧凑型、专注推理的语言模型的完整工作流程。通过从Hugging Face流式处理SupraLabs推理语料库，我们应用质量过滤器并策展数据以进行监督微调（SFT）。利用SmolLM2-135M-Instruct和LoRA，我们演示了从数据集分析和启发式清洗到高效训练与推理的端到端流水线，从而在无需过多资源需求的情况下开发专用小型模型。<br/><br/><a href="https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>开放模型现状：2026年夏季观察</title>
 <link>https://huggingface.co/blog/state-of-open-models-summer-2026</link>
 <guid isPermaLink="false">https://huggingface.co/blog/state-of-open-models-summer-2026</guid>
@@ -432,60 +480,12 @@
 <description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/state-of-open-models-summer-2026">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Writer推出新AI模型及升级版工具以控制代币成本</title>
-<link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3152760</guid>
-<pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】作为Z.ai开源模型GLM-5.2的后训练变体，Writer表示新系统应以更低价格提供部署就绪的能力。<br/><br/><a href="https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Databricks原计划融资10亿美元，投资者却想投150亿，最终以1900亿美元估值融资50亿</title>
-<link>https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3152870</guid>
-<pubDate>Thu, 13 Aug 2026 20:14:39 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】AI成本高昂，Ali Ghodsi对TechCrunch表示。面对众多投资者希望参与其最新一轮融资，他最终接受了超出原计划的投资额。<br/><br/><a href="https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>互联网的日全食：冰岛、西班牙和葡萄牙的流量影响</title>
 <link>https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/</link>
 <guid isPermaLink="false">01KZY9EY62FCNTTQG8TX7R4GWK</guid>
 <pubDate>Thu, 13 Aug 2026 19:58:01 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Cloudflare的数据显示，2026年8月12日发生的日全食路径上，从冰岛到西班牙和葡萄牙的互联网流量受到了明显影响。<br/><br/><a href="https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub Universe 2026指南已发布：日程刚刚上线！</title>
-<link>https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/</link>
-<guid isPermaLink="false">https://github.blog/?p=98265</guid>
-<pubDate>Thu, 13 Aug 2026 19:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】GitHub Universe 会议目录现已上线。探索互动工作坊、社区演讲、演示和专题讨论。此外，在8月19日前注册可节省300美元。此文章首发于GitHub博客。<br/><br/><a href="https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>新Instagram标志完美体现了AI垃圾美学</title>
-<link>https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/</guid>
-<pubDate>Thu, 13 Aug 2026 17:32:10 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】观点：关于新字标意外地糟糕得恰到好处的一些评论。<br/><br/><a href="https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过Strands Agents、LeRobot和Hugging Face存储桶，在一个地方完成记录、训练和部署</title>
-<link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
-<guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</guid>
-<pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop">阅读原文</a>]]></description>
-</item>
-<item>
-<title>推出 Gemini 3.7 Flash</title>
-<link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-3-7-flash/</guid>
-<pubDate>Thu, 13 Aug 2026 17:04:18 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-3-7-flash/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,44 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80818": {
-"t": "认识 WebBrain：一款开源、本地优先的 AI 浏览器代理，可在 Chrome 和 Firefox 中读取页面并自动执行任务",
-"s": "WebBrain 是一款免费、采用 MIT 许可的 AI 浏览器代理，适用于 Chrome 和 Firefox。它通过“询问”和“行动”模式读取页面、提取数据并自动执行多步骤任务。可在本地模型（如 llama.cpp 或 Ollama）上运行以保护隐私，或连接任何云端 API。本文《Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80815": {
-"t": "Interfaze 发布 diffusion-gemma-asr-small，一款通过 DiffusionGemma 并行去噪解码器转录六种语言的开源扩散 ASR 模型",
-"s": "Interfaze 开源了 diffusion-gemma-asr-small，这是一款多语言 ASR 模型，通过扩散而非自回归方式进行转录。它使用约 4200 万参数的适配器，将音频接入谷歌的冻结 DiffusionGemma。单个适配器覆盖六种语言，转录成本由去噪步数而非转录长度决定。本文《Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder》首发于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=37292": {
-"t": "中国AI视频制作公司Kling融资20亿美元，筹备香港IPO",
-"s": "快手为其AI视频部门Kling从投资者处筹集了约20亿美元。文章《中国AI视频制作公司Kling融资20亿美元，筹备香港IPO》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37297": {
-"t": "GPT和Claude未能通过桥水基金的金融测试，因为正确答案从未公开",
-"s": "对冲基金桥水基金与Thinking Machines Lab报告称，一个经过精细调校的开源权重模型在金融文档评估中超越了最强大的AI模型，且成本仅为后者的一小部分。这些数据来自他们自己的分析。文章《GPT和Claude未能通过桥水基金的金融测试，因为正确答案从未公开》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37299": {
-"t": "Meta的AI智能体推进速度慢于扎克伯格计划",
-"s": "马克·扎克伯格在一次内部全体会议上承认了公司重组中的弱点。他表示，Meta围绕AI智能体进行的重组进展慢于计划。与此同时，他的AI负责人则描绘了更为乐观的前景。本文《Meta的AI智能体推进速度慢于扎克伯格计划》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37302": {
-"t": "特斯拉将员工AI支出限制在每周200美元",
-"s": "据The Information报道的一份内部备忘录，特斯拉将员工AI支出限制在每周200美元。文章《特斯拉将员工AI支出限制在每周200美元》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37329": {
-"t": "Claude Code复杂的中国问题涉及太平洋两岸的禁令",
-"s": "Anthropic正试图阻止字节跳动和蚂蚁金服等中国公司访问Claude Code，但它们通过VPN和海外子公司绕过了这些限制。与此同时，阿里巴巴在发现隐藏代码可能识别中国用户后，已禁止其员工使用该工具。文章《Claude Code复杂的中国问题涉及太平洋两岸的禁令》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37322": {
-"t": "自AI模型开始搜寻漏洞以来，安全漏洞报告数量激增",
-"s": "Epoch AI报告称，安全漏洞报告数量急剧上升。2026年6月，21个组织报告了约1500个高严重性和关键性CVE，是此前月度记录的三倍多。这一激增与AI驱动的漏洞搜寻项目的启动相吻合。本文《自AI模型开始搜寻漏洞以来，安全漏洞报告数量激增》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37311": {
-"t": "英国AI安全研究所发现标准基准测试系统性地低估了AI智能体的实际能力",
-"s": "在一项涵盖七个基准测试的研究中，英国AI安全研究所指出，标准AI评估通过限制计算预算，系统性地低估了智能体的能力。在软件工程任务中，当令牌预算增加十倍时，成功率提升了约25%。较新的模型受益最为显著。根据AISI的数据，根据令牌预算的不同，前沿领域的实际进展比此前测量结果所显示的要陡峭约60%。"
-},
-"https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/": {
-"t": "Google DeepMind 与 A24 宣布首次研究合作",
-"s": ""
-},
 "https://the-decoder.com/?p=37332": {
 "t": "微软紧随Anthropic和OpenAI，以改造后的Copilot和AutoPilot智能体加入AI超级应用竞赛",
 "s": "据报道，微软计划于8月将其消费者和企业版Copilot应用合并为一个统一应用。像Copilot Podcasts这样使用率较低的功能将被砍掉，而名为“AutoPilot”的新AI智能体将在后台处理任务，需额外付费。本文《微软紧随Anthropic和OpenAI，以改造后的Copilot和AutoPilot智能体加入AI超级应用竞赛》最初发表于The Decoder。"
@@ -4798,5 +4758,45 @@
 "https://the-decoder.com/?p=39151": {
 "t": "Claude Code新增/design命令，让开发者直接在终端创建UI原型",
 "s": "通过/design命令，Anthropic将视觉设计工作流直接引入Claude Code。开发者可以在编写任何代码之前，直接在终端中生成UI原型画板。Claude会读取现有代码库并匹配当前UI风格。文章《Claude Code gets a /design command that lets developers create UI mockups right in the terminal》最初出现在The Decoder上。"
+},
+"https://techcrunch.com/?p=3153909": {
+"t": "苹果带摄像头的AirPods或许并非消费者所担心的“偷窥神器”",
+"s": "苹果泄露的带摄像头AirPods可能通过阻止用户录制照片和视频，避开其他AI可穿戴设备的隐私陷阱。"
+},
+"01M0ANY0TKGXDWAN9C58T3A1HR": {
+"t": "BGP角色模型：追踪RFC 9234的采用情况",
+"s": "RFC 9234允许路由器利用BGP角色和仅对客户属性自行拒绝路由泄漏。我们测量了谁已部署该标准，并发现两个一级网络意外地剥离了OTC属性。"
+},
+"https://techcrunch.com/?p=3153863": {
+"t": "Warp新系统：即开即用的AI开发软件工厂",
+"s": "周二，Warp推出了Warp Factories，这是一个旨在让构建AI软件工厂尽可能简单的新基础设施系统。"
+},
+"https://techcrunch.com/?p=3153830": {
+"t": "OpenAI为青少年推出更安全的ChatGPT——距青少年开始使用已过去数年",
+"s": "ChatGPT青少年版增加了适龄安全措施、家长控制和学习工具，旨在引导青少年远离有害内容——以及避免利用AI在作业中作弊。"
+},
+"https://techcrunch.com/?p=3153831": {
+"t": "Perplexity的免费AI服务使其在印度新增数百万用户",
+"s": "在Airtel优惠对新用户结束后，尽管下载量有所下降，Perplexity在印度的收入仍增长了约60%。"
+},
+"https://www.marktechpost.com/?p=81759": {
+"t": "认识SAM（主权代理网格）：为AI代理打造零配置、零信任的P2P网络",
+"s": "谷歌已在Apache-2.0许可下开源了SAM（主权代理网格）——这与Segment Anything无关。SAM是一个零配置、零信任的P2P覆盖网络，让自主代理能够在云端、本地、笔记本电脑和边缘环境中发现并调用彼此的MCP工具，而无需向公共互联网暴露任何内部端点。身份从OIDC流入Biscuit能力令牌，因此节点在严格的默认拒绝模型下离线授权每个请求。这篇关于SAM（主权代理网格）的文章首次出现在Ma上。"
+},
+"https://the-decoder.com/?p=39163": {
+"t": "Anthropic CEO称AI天然趋向集中，开放模型只是将权力转移给芯片拥有者",
+"s": "关于AI监管的公开争论在X平台上爆发。投资者Gavin Baker、前白宫顾问David Sacks以及Meta研究员Yann LeCun指责Anthropic CEO Dario Amodei利用恐惧言论为自己谋取监管优势。Amodei反驳称，监管同样能约束企业权力，而仅靠开放模型只会将权力转移给拥有最强计算能力的参与者。文章《Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips》最初发表于The Decoder。"
+},
+"https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/": {
+"t": "微软Copilot暴露秘密输入，导致其可被黑客攻击",
+"s": "一个秘密参数使得黑客在目标点击链接时能够窃取密码。"
+},
+"https://huggingface.co/blog/multi-vector-encoder": {
+"t": "多向量（后期交互）嵌入模型与句子变换器",
+"s": "（无）"
+},
+"grpo-beyond-english": {
+"t": "GRPO超越英语：非英语与多语言环境下GRPO的大规模研究",
+"s": "基于可验证奖励的强化学习（RLVR），通常通过组相对策略优化（GRPO）进行优化，已成为提升预训练语言模型推理能力的关键方法，但现有研究仍高度以英语为中心。我们针对多种基础模型、训练语言及不同推理语言奖励，开展了一项大规模的多语言和非英语GRPO实证研究。我们发现，以母语进行推理训练与英语推理训练之间的差距通常很小。我们进一步观察到强大的……"
 }
 }
