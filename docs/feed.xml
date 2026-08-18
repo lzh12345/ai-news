@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 18 Aug 2026 00:44:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 04:26:34 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nous Research为Hermes Agent推出Bot模式，将代理配置文件转化为命名机器人列表</title>
+<link>https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81750</guid>
+<pubDate>Tue, 18 Aug 2026 02:05:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nous Research已为其MIT许可的开源代理Hermes Agent推出了Bot模式。Bot模式将单一代理会话列表替换为命名机器人列表。每个机器人都是一个真实的Hermes配置文件，拥有自己的聊天、记忆、技能和固定模型。该功能现已捆绑并在Hermes Desktop中默认启用。这篇关于Nous Research为Hermes Agent推出Bot模式，将代理配置文件转化为命名机器人列表的文章最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>字节跳动Seed与清华AIR推出CUDA Agent：用于CUDA内核生成的大规模智能体强化学习系统</title>
+<link>https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81745</guid>
+<pubDate>Tue, 18 Aug 2026 01:10:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】字节跳动Seed与清华AIR发布了CUDA Agent，这是一个智能体强化学习系统，训练大型语言模型编写性能超越编译器的GPU内核。其针对的差距虽窄但顽固：前沿模型已能生成正确的CUDA代码，但生成的代码运行缓慢。在KernelBench基准测试中，基础模型Seed1.6通过率为74.0%……该文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic年化收入飙升至650亿美元</title>
 <link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 13 Aug 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】了解GitHub安全开源基金第四期中的开源项目如何结合AI辅助工作流、维护者专业知识、GitHub安全工具、专家指导和资金，以提升项目安全性。这篇文章《50个开源项目教会我们的AI时代安全之道》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Liquid AI发布LFM2.5-VL-3B：一款3B视觉语言模型，可读取屏幕、定位对象并在设备端调用工具</title>
-<link>https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81705</guid>
-<pubDate>Thu, 13 Aug 2026 15:56:03 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI发布了LFM2.5-VL-3B，这是一款专为设备端部署设计的31亿参数视觉语言模型。它在ScreenSpot-v2上平均得分80.7，并将RefCOCO定位性能从57.1提升至87.9。函数调用是该VL系列的新增功能，ToolSandbox得分从26.4跃升至59.5。该模型占用约3GB内存，在Apple M5 Max上解码速度达228 tokens/s。原文《Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic上市时估值或达2万亿美元</title>
-<link>https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/</guid>
-<pubDate>Thu, 13 Aug 2026 13:58:56 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】快速增长的营收让人们对Claude制造商IPO成为史上最大规模上市充满期待<br/><br/><a href="https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
