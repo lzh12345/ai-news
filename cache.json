@@ -1,16 +1,4 @@
 {
-"robustness-chain-thought-consistency": {
-"t": "关于强化学习微调视觉语言模型的鲁棒性与思维链一致性",
-"s": "强化学习微调已成为提升大语言模型在推理密集型任务上表现的关键技术，并推动其向视觉语言模型扩展。尽管经强化学习微调的视觉语言模型在视觉推理基准测试中有所改进，但仍存在视觉基础薄弱、幻觉现象以及对文本线索过度依赖等问题。我们证明，简单的受控文本扰动——如误导性标题或错误的思维链轨迹——会显著降低模型的鲁棒性和置信度，且当思维链一致性受到影响时，这些效应更为明显……"
-},
-"memoryllm": {
-"t": "MemoryLLM：面向Transformer的可插拔可解释前馈记忆模块",
-"s": "理解Transformer组件在大语言模型中的运作机制至关重要，因为这正是近期人工智能技术突破的核心。本研究重新审视了前馈模块（FFN）可解释性面临的挑战，提出MemoryLLM框架，旨在将FFN与自注意力机制解耦，使我们能够将解耦后的FFN作为无上下文依赖的逐词神经检索记忆进行研究。具体而言，我们探究了输入标记如何访问FFN参数中的记忆位置，以及FFN记忆在不同下游任务中的重要性。MemoryLLM实现了……"
-},
-"learning-structured-reasoning": {
-"t": "通过可处理轨迹控制学习结构化推理",
-"s": "大型语言模型能够展现出涌现的推理行为，这些行为通常表现为重复出现的词汇模式（例如，“wait”表示验证）。然而，在无约束采样中，复杂的推理轨迹仍然稀疏，而标准强化学习往往无法保证获得多样化的推理行为。我们提出了一种通过结构化推理系统性地发现并强化多样化推理模式的方法，这一范式要求在强化学习过程中有针对性地探索特定推理模式。为此，我们提出了Ctrl-R框架，用于学习……"
-},
 "https://www.marktechpost.com/?p=80809": {
 "t": "认识阿里巴巴的Page Agent：一种通过DOM用自然语言控制网页界面的JavaScript页面内GUI代理",
 "s": "阿里巴巴的Page Agent作为客户端JavaScript在网页内运行。它读取实时DOM文本，然后根据自然语言指令进行点击和输入。无需截图、多模态模型或后端重写。本文《Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM》最初发表于MarkTechPost。"
@@ -4798,5 +4786,17 @@
 "https://techcrunch.com/?p=3153258": {
 "t": "如何判断你的AI平台账户是否被黑客入侵",
 "s": "一份指南，教你如何检查最流行的AI平台上你的账户是否被黑客侵入。"
+},
+"https://techcrunch.com/?p=3153733": {
+"t": "Anthropic年化收入飙升至650亿美元",
+"s": "该模型制造商在两个月内新增了180亿美元的年化收入。"
+},
+"https://techcrunch.com/?p=3153653": {
+"t": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队",
+"s": "“我们有一些非常宏大的计划，帮助你在Chrome中使用AI高效完成任务，我很快会分享更多细节，”Relay创始人兼CEO雅各布·班克表示。"
+},
+"https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/": {
+"t": "前SpaceX工程师正在打造制造钢制部件的机器人工厂",
+"s": "“我们并非以教条式的方式追求完全自动化。”"
 }
 }

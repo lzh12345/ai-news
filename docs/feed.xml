@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 17 Aug 2026 20:16:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 00:44:08 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic年化收入飙升至650亿美元</title>
+<link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153733</guid>
+<pubDate>Mon, 17 Aug 2026 23:56:26 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】该模型制造商在两个月内新增了180亿美元的年化收入。<br/><br/><a href="https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队</title>
+<link>https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3153653</guid>
+<pubDate>Mon, 17 Aug 2026 21:27:05 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】“我们有一些非常宏大的计划，帮助你在Chrome中使用AI高效完成任务，我很快会分享更多细节，”Relay创始人兼CEO雅各布·班克表示。<br/><br/><a href="https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>前SpaceX工程师正在打造制造钢制部件的机器人工厂</title>
+<link>https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/</guid>
+<pubDate>Mon, 17 Aug 2026 21:18:49 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】“我们并非以教条式的方式追求完全自动化。”<br/><br/><a href="https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>同一集群，利用率提升33个百分点：变化在于顺序</title>
 <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
@@ -392,22 +416,6 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare的数据显示，2026年8月12日发生的日全食路径上，从冰岛到西班牙和葡萄牙的互联网流量受到了明显影响。<br/><br/><a href="https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI推出“超快速”新模式，使GPT-5.6 Sol运行速度提升14倍</title>
-<link>https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3152875</guid>
-<pubDate>Thu, 13 Aug 2026 19:22:40 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI正在预览其最新、最强大模型的加速版本，旨在吸引企业用户。<br/><br/><a href="https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>IBM与OpenAI合作，强化企业AI战略布局</title>
-<link>https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3152914</guid>
-<pubDate>Thu, 13 Aug 2026 19:19:49 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】根据此协议，IBM计划培训并认证数万名顾问掌握OpenAI的技术。<br/><br/><a href="https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GitHub Universe 2026指南已发布：日程刚刚上线！</title>
 <link>https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/</link>
 <guid isPermaLink="false">https://github.blog/?p=98265</guid>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 13 Aug 2026 13:58:56 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】快速增长的营收让人们对Claude制造商IPO成为史上最大规模上市充满期待<br/><br/><a href="https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>证书透明度监控现已全面推出</title>
-<link>https://blog.cloudflare.com/certificate-transparency-monitoring-ga/</link>
-<guid isPermaLink="false">01KZQPY0C41XKPVZ5HRG3E1ZK3</guid>
-<pubDate>Thu, 13 Aug 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare的证书透明度监控现已全面推出。最大的变化是：我们不再就Cloudflare为您的域名颁发的证书发送邮件通知，因此当您的收件箱收到警报时，值得一看。<br/><br/><a href="https://blog.cloudflare.com/certificate-transparency-monitoring-ga/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
