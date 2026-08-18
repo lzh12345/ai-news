@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=37288": {
-"t": "微软斥资25亿美元成立“前沿公司”，将6000名AI工程师派驻企业客户内部",
-"s": "微软投资25亿美元成立名为“前沿公司”的新部门，将6000名工程师直接派驻企业客户处。其目标是将AI融入核心流程，实现可衡量的投资回报率，而非进行更多实验。微软正将自己定位为OpenAI和Anthropic的平台中立替代方案，后者通过自家部署公司推广自身模型。本文《微软斥资25亿美元成立“前沿公司”，将6000名AI工程师派驻企业客户内部》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3138687": {
-"t": "Meta 悄然推出“氛围编码”游戏应用 Pocket",
-"s": "Meta 悄然推出了 Pocket，这是一款实验性 AI 应用，允许用户通过文本提示生成并分享互动小游戏。"
-},
 "https://techcrunch.com/?p=3138664": {
 "t": "Anthropic正与三星商讨定制芯片事宜",
 "s": "此消息发布约一周前，OpenAI宣布与博通合作开发自有定制AI芯片。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=81745": {
 "t": "字节跳动Seed与清华AIR推出CUDA Agent：用于CUDA内核生成的大规模智能体强化学习系统",
 "s": "字节跳动Seed与清华AIR发布了CUDA Agent，这是一个智能体强化学习系统，训练大型语言模型编写性能超越编译器的GPU内核。其针对的差距虽窄但顽固：前沿模型已能生成正确的CUDA代码，但生成的代码运行缓慢。在KernelBench基准测试中，基础模型Seed1.6通过率为74.0%……该文章首发于MarkTechPost。"
+},
+"https://the-decoder.com/?p=39145": {
+"t": "AI系统在压缩上下文时悄然丢弃用户指令",
+"s": "当AI系统压缩长对话时，平均会丢失83%的用户规则，例如“未经我批准不得发送邮件”。宾夕法尼亚州立大学的研究人员提出了一种基于Qwen3.5-9B的小型附加模块，能够保留超过90%的这些限制。文章《AI系统在压缩上下文时悄然丢弃用户指令》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39140": {
+"t": "Anthropic营收增长七倍，年化收入突破650亿美元",
+"s": "据彭博社报道，Anthropic的年化收入已超过650亿美元，一年内增长七倍。该公司最早可能于2026年秋季以1万亿美元估值上市，有望抢先OpenAI进入市场。文章《Anthropic increases revenue sevenfold, hits annualized rate above $65 billion》最初发表于The Decoder。"
 }
 }

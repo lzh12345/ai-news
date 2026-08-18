@@ -5,23 +5,23 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 18 Aug 2026 04:26:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 08:25:52 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Nous Research为Hermes Agent推出Bot模式，将代理配置文件转化为命名机器人列表</title>
-<link>https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81750</guid>
-<pubDate>Tue, 18 Aug 2026 02:05:28 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Nous Research已为其MIT许可的开源代理Hermes Agent推出了Bot模式。Bot模式将单一代理会话列表替换为命名机器人列表。每个机器人都是一个真实的Hermes配置文件，拥有自己的聊天、记忆、技能和固定模型。该功能现已捆绑并在Hermes Desktop中默认启用。这篇关于Nous Research为Hermes Agent推出Bot模式，将代理配置文件转化为命名机器人列表的文章最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/">阅读原文</a>]]></description>
+<title>AI系统在压缩上下文时悄然丢弃用户指令</title>
+<link>https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39145</guid>
+<pubDate>Tue, 18 Aug 2026 08:22:24 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】当AI系统压缩长对话时，平均会丢失83%的用户规则，例如“未经我批准不得发送邮件”。宾夕法尼亚州立大学的研究人员提出了一种基于Qwen3.5-9B的小型附加模块，能够保留超过90%的这些限制。文章《AI系统在压缩上下文时悄然丢弃用户指令》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>字节跳动Seed与清华AIR推出CUDA Agent：用于CUDA内核生成的大规模智能体强化学习系统</title>
-<link>https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81745</guid>
-<pubDate>Tue, 18 Aug 2026 01:10:28 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】字节跳动Seed与清华AIR发布了CUDA Agent，这是一个智能体强化学习系统，训练大型语言模型编写性能超越编译器的GPU内核。其针对的差距虽窄但顽固：前沿模型已能生成正确的CUDA代码，但生成的代码运行缓慢。在KernelBench基准测试中，基础模型Seed1.6通过率为74.0%……该文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/">阅读原文</a>]]></description>
+<title>Anthropic营收增长七倍，年化收入突破650亿美元</title>
+<link>https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39140</guid>
+<pubDate>Tue, 18 Aug 2026 07:37:25 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据彭博社报道，Anthropic的年化收入已超过650亿美元，一年内增长七倍。该公司最早可能于2026年秋季以1万亿美元估值上市，有望抢先OpenAI进入市场。文章《Anthropic increases revenue sevenfold, hits annualized rate above $65 billion》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic年化收入飙升至650亿美元</title>
@@ -56,28 +56,12 @@
 <description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/gpu-management-pt2">阅读原文</a>]]></description>
 </item>
 <item>
-<title>MiniMax发布MiniMax-Music3：一款开放权重音乐模型，能从歌词和结构化描述生成完整五分钟歌曲</title>
-<link>https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81741</guid>
-<pubDate>Mon, 17 Aug 2026 18:36:40 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】MiniMax发布了MiniMax-Music3，一款开放权重的文本转音乐模型。给定带有段落标签的歌词和结构化描述，它能一次性生成最长五分钟的完整歌曲，输出为32 kHz、16位立体声WAV格式。本文介绍了其架构、三种服务路径，以及发布前需注意的许可条件。该文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>隐藏的AirTag揭露亚马逊销毁珍稀书籍以训练AI</title>
 <link>https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</guid>
 <pubDate>Mon, 17 Aug 2026 18:13:47 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】亚马逊团队使用一只准备吞噬书籍的霸王龙作为其标志。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>利用docTR构建端到端文档智能流水线，涵盖OCR、版面分析、KIE、基准测试及可搜索PDF</title>
-<link>https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81736</guid>
-<pubDate>Mon, 17 Aug 2026 17:52:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】使用docTR开发一个完整的文档智能流水线，集成OCR、版面分析和KIE，用于面向生产的提取和可搜索PDF生成。该文章《Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>从卖书起家的亚马逊，正销毁稀有文本以训练AI</title>
@@ -150,14 +134,6 @@
 <pubDate>Mon, 17 Aug 2026 11:43:19 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Anthropic为Claude推出的文本水印技术旨在使AI生成的内容可被检测。然而，批评者怀疑措辞选择是否真的不受影响，律师们则面临新的透明度难题。文章《Anthropic watermarks Claude's output, but critics question the tradeoffs》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepSeek AI发布DeepSeek Harness开发者预览版：一款MIT许可的智能体框架，一切皆插件</title>
-<link>https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81732</guid>
-<pubDate>Mon, 17 Aug 2026 09:06:32 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepSeek Harness v0.1是一款MIT许可的智能体框架，其中每项能力都是一个Cordis插件。支持四种运行时模式、仅追加的会话日志以及与提供商无关的模型路由。该文章《DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI与数据中心超越以色列、种族主义和加密货币，成为美国竞选议题</title>
@@ -240,22 +216,6 @@
 <description><![CDATA[【the-decoder.com】一项涉及谷歌研究人员的研究表明，当聊天机器人被训练不宣称拥有意识时，它们对动物权利、宗教和生活满意度的立场也会随之改变。未受约束的模型显著赋予动物更多内心世界，并突然肯定来世的存在。事实证明，一处手术式的切割并不会局限于局部。文章《当AI模型不被允许自我反思时，它们的整个世界观都会改变》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI解散了旨在防范灾难性AI风险的团队，将其工作重新分配给其他部门</title>
-<link>https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39110</guid>
-<pubDate>Sun, 16 Aug 2026 08:12:52 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI关闭了其“预备”团队，该团队负责评估公司自身AI模型是否可能构成灾难性风险。相关工作已分散至现有部门，多名安全人员离职。内部不安情绪渐长，有消息源描述了一种“责任与恐惧交织的暗流”，认为OpenAI在安全方面做得不够。本文《OpenAI解散了旨在防范灾难性AI风险的团队，将其工作重新分配给其他部门》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic生物武器过滤器停用近一年，暴露1.33亿次请求</title>
-<link>https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39104</guid>
-<pubDate>Sun, 16 Aug 2026 07:20:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】在一份安全报告中，Anthropic透露，其针对生物和化学武器风险的内部过滤系统已停用近一年。在此期间，约5万名外部反馈承包商与模型进行了约1.33亿次未经过滤的交互。文章《Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>女子声称继父利用Grok将童年照片转化为色情图像</title>
 <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3153313</guid>
@@ -286,14 +246,6 @@
 <pubDate>Sat, 15 Aug 2026 16:10:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】一份指南，教你如何检查最流行的AI平台上你的账户是否被黑客侵入。<br/><br/><a href="https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>微调工具调用大语言模型：使用XYZ-Aquila-SFT和Qwen3的完整指南</title>
-<link>https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81728</guid>
-<pubDate>Sat, 15 Aug 2026 11:28:29 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】实现一个端到端的工具调用语言模型微调流程。本教程涵盖轨迹解析、结构化工具调用提取、兼容Qwen的ChatML渲染，以及使用PyTorch进行高效的LoRA适配。这篇关于微调工具调用大语言模型的完整指南（使用XYZ-Aquila-SFT和Qwen3）首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>怀疑法院使用AI，男子在诉讼文件中注入提示词试图赢得案件</title>
@@ -376,30 +328,6 @@
 <description><![CDATA[【blog.cloudflare.com】为 Workers 引入 Cloudflare Access。直接将访问策略附加到 Worker 上，该策略将自动应用于 Worker 运行的所有环境——包括路由、自定义域名、workers.dev 及预览——无需额外配置。<br/><br/><a href="https://blog.cloudflare.com/workers-protected-by-access/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Z.ai发布GLM-5.3，无需重新训练基础模型：在复杂编码和长周期任务上表现更佳</title>
-<link>https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81725</guid>
-<pubDate>Fri, 14 Aug 2026 08:03:22 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Z.ai于2026年8月14日发布GLM-5.3。该模型沿用743B GLM-5.2基础模型不变。所有报告的性能提升均来自扩展的后训练：更多长周期任务环境、更多环境类型、更长的训练时间。Terminal-Bench 3.0得分从4.6提升至28.3，DeepSWE v1.1从46.2提升至66.9。网络安全领域的进展超出Z.ai原计划，CyberGym达到84.5%，ExploitBench得分翻倍以上至54.4%。权重将在约两周后发布。该文章《Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks》首发于MarkTechPo。<br/><br/><a href="https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet Needle 2：一款开源45M参数工具调用模型，以14MB二进制文件发布，仅需28MB内存即可运行完整会话</title>
-<link>https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81721</guid>
-<pubDate>Fri, 14 Aug 2026 05:45:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Cactus Compute发布了Needle 2，这是一款开源的45M参数模型，用于工具调用、设备使用和结构化提取。完整模型是一个14MB的单一二进制文件，运行一个会话仅需约28MB内存。它在两个Seal-Tools数据集上均领先，同时面向无GPU和无NPU的硬件设计。文章《Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>打造专注推理的LLM：流式处理、数据策展与微调SupraLabs推理语料库的实用指南</title>
-<link>https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81717</guid>
-<pubDate>Fri, 14 Aug 2026 03:09:45 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】本教程提供了一个构建紧凑型、专注推理的语言模型的完整工作流程。通过从Hugging Face流式处理SupraLabs推理语料库，我们应用质量过滤器并策展数据以进行监督微调（SFT）。利用SmolLM2-135M-Instruct和LoRA，我们演示了从数据集分析和启发式清洗到高效训练与推理的端到端流水线，从而在无需过多资源需求的情况下开发专用小型模型。<br/><br/><a href="https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>开放模型现状：2026年夏季观察</title>
 <link>https://huggingface.co/blog/state-of-open-models-summer-2026</link>
 <guid isPermaLink="false">https://huggingface.co/blog/state-of-open-models-summer-2026</guid>
@@ -440,14 +368,6 @@
 <description><![CDATA[【github.blog】GitHub Universe 会议目录现已上线。探索互动工作坊、社区演讲、演示和专题讨论。此外，在8月19日前注册可节省300美元。此文章首发于GitHub博客。<br/><br/><a href="https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>谷歌刚刚发布Gemini 3.7 Flash：一款编码与智能体模型，输入价格每百万Token仅0.75美元</title>
-<link>https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81710</guid>
-<pubDate>Thu, 13 Aug 2026 17:47:41 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】谷歌发布了Gemini 3.7 Flash，这是对Gemini 3.6 Flash的改进版本，对其推理核心进行了算法优化。它支持文本、图像、音频和视频，覆盖100万Token的上下文窗口，输出可达64K Token，并支持可定制的思考配置。编码表现显著提升：FrontierCode 1.1 Main上达到43.6%（此前为34.4%），DeepSWE v1.1上为65.3%，WebDev Arena上Elo评分为1588。文档和工作流评估提升更大——GDP.pdf从22.0%升至34.0%，AutomationBench从17.0%升至30.4%。GPT-5.6 Terra在终端和计算机使用智能体方面仍保持领先。该模型已通过API和企业渠道提供。<br/><br/><a href="https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>新Instagram标志完美体现了AI垃圾美学</title>
 <link>https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/</guid>
@@ -486,6 +406,86 @@
 <pubDate>Thu, 13 Aug 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】了解GitHub安全开源基金第四期中的开源项目如何结合AI辅助工作流、维护者专业知识、GitHub安全工具、专家指导和资金，以提升项目安全性。这篇文章《50个开源项目教会我们的AI时代安全之道》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic上市时估值或达2万亿美元</title>
+<link>https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/</guid>
+<pubDate>Thu, 13 Aug 2026 13:58:56 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】快速增长的营收让人们对Claude制造商IPO成为史上最大规模上市充满期待<br/><br/><a href="https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>证书透明度监控现已全面推出</title>
+<link>https://blog.cloudflare.com/certificate-transparency-monitoring-ga/</link>
+<guid isPermaLink="false">01KZQPY0C41XKPVZ5HRG3E1ZK3</guid>
+<pubDate>Thu, 13 Aug 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare的证书透明度监控现已全面推出。最大的变化是：我们不再就Cloudflare为您的域名颁发的证书发送邮件通知，因此当您的收件箱收到警报时，值得一看。<br/><br/><a href="https://blog.cloudflare.com/certificate-transparency-monitoring-ga/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude的新“红字”水印目前隐形——但只是暂时的</title>
+<link>https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/</guid>
+<pubDate>Thu, 13 Aug 2026 11:10:18 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】这一标记会标注出所有经Claude处理过的内容，即便是它仅编辑过的人类写作也不例外。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>构建者指南：GPT-5.6</title>
+<link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
+<guid isPermaLink="false">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
+<pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】了解初创企业如何利用GPT-5.6，通过更智能的模型选择和新的Responses API功能，构建更快、更具成本效益的AI代理。<br/><br/><a href="https://openai.com/index/builders-guide-to-gpt-5-6">阅读原文</a>]]></description>
+</item>
+<item>
+<title>预览Ultrafast模式：GPT-5.6 Sol速度提升高达14倍</title>
+<link>https://openai.com/index/previewing-ultrafast</link>
+<guid isPermaLink="false">https://openai.com/index/previewing-ultrafast</guid>
+<pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】预览Ultrafast，OpenAI API新增服务层级，运行GPT-5.6 Sol速度提升高达14倍。由Cerebras提供支持，每秒可输出多达750个令牌。<br/><br/><a href="https://openai.com/index/previewing-ultrafast">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI任命Dali Rajic为首席营收官</title>
+<link>https://openai.com/index/dali-rajic-chief-revenue-officer</link>
+<guid isPermaLink="false">https://openai.com/index/dali-rajic-chief-revenue-officer</guid>
+<pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI任命Dali Rajic为首席营收官，领导其全球营收组织，帮助企业充分实现AI的价值。<br/><br/><a href="https://openai.com/index/dali-rajic-chief-revenue-officer">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们通过复现ICML的2200篇论文所学到的</title>
+<link>https://huggingface.co/blog/icml-2026-open-reproductions</link>
+<guid isPermaLink="false">https://huggingface.co/blog/icml-2026-open-reproductions</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/icml-2026-open-reproductions">阅读原文</a>]]></description>
+</item>
+<item>
+<title>当“遗忘”免费时：利用低影响力数据点降低计算成本</title>
+<link>https://machinelearning.apple.com/research/unlearning-low-influence-points</link>
+<guid isPermaLink="false">unlearning-low-influence-points</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】随着机器学习中数据隐私问题的日益突出，从已训练模型中“遗忘”或移除特定数据点的能力变得愈发重要。尽管最先进的遗忘方法应运而生，但它们通常将遗忘集中的所有数据点一视同仁。在本研究中，我们质疑这一做法，探讨是否需要对模型学习影响微乎其微的数据点进行移除。通过对语言和视觉任务中影响力函数的比较分析，我们识别出对模型输出影响可忽略的训练数据子集……<br/><br/><a href="https://machinelearning.apple.com/research/unlearning-low-influence-points">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub 可用性报告：2026年7月</title>
+<link>https://github.blog/news-insights/company-news/github-availability-report-july-2026/</link>
+<guid isPermaLink="false">https://github.blog/?p=98241</guid>
+<pubDate>Wed, 12 Aug 2026 22:17:32 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】7月份，我们经历了八起事件，导致GitHub服务性能下降。这篇关于GitHub可用性报告（2026年7月）的文章首发于GitHub博客。<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-july-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>网络对抗AI抓取器的最新武器竟是一款字体</title>
+<link>https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/</guid>
+<pubDate>Wed, 12 Aug 2026 22:02:25 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】“ShieldFont”旨在污染AI训练数据，同时不损害人类用户的阅读体验。<br/><br/><a href="https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
