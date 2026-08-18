@@ -1,40 +1,4 @@
 {
-"https://the-decoder.com/?p=37332": {
-"t": "微软紧随Anthropic和OpenAI，以改造后的Copilot和AutoPilot智能体加入AI超级应用竞赛",
-"s": "据报道，微软计划于8月将其消费者和企业版Copilot应用合并为一个统一应用。像Copilot Podcasts这样使用率较低的功能将被砍掉，而名为“AutoPilot”的新AI智能体将在后台处理任务，需额外付费。本文《微软紧随Anthropic和OpenAI，以改造后的Copilot和AutoPilot智能体加入AI超级应用竞赛》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3026701": {
-"t": "浏览器之争不再围绕搜索展开——以下是 Chrome 和 Safari 的最佳替代品",
-"s": "我们整理了一份当前旨在挑战 Chrome 和 Safari 的顶级替代浏览器概览。"
-},
-"https://techcrunch.com/?p=2973217": {
-"t": "今年你唯一需要的人工智能词汇表",
-"s": "人工智能的兴起带来了大量新术语和俚语。以下是一份词汇表，其中包含你可能遇到的一些最重要词汇和短语的定义。"
-},
-"https://www.marktechpost.com/?p=80831": {
-"t": "NVIDIA AI 推出 ASPIRE：一种自我改进的机器人框架，在 LIBERO-Pro 长任务上实现 31% 零样本性能",
-"s": "NVIDIA 的 ASPIRE 编写并优化机器人控制程序，然后将验证后的修复提炼为可复用的技能库。它在 LIBERO-Pro 上提升高达 77 分，并零样本迁移到未见过的长时域任务。该文章最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80827": {
-"t": "Mistral AI 发布 Leanstral 1.5：一款基于 Apache-2.0 的 Lean 4 代码代理模型，解决 672 道 PutnamBench 问题中的 587 道",
-"s": "Mistral AI 发布了 Leanstral 1.5，这是一款基于 Apache-2.0 许可的免费 Lean 4 代码代理模型。该模型在 miniF2F 基准测试中达到饱和，并解决了 672 道 PutnamBench 问题中的 587 道。其 119B 参数的混合专家架构每个 token 仅激活 6.5B 参数。本文详细解析了其架构、基准测试结果、真实 bug 发现案例研究以及部署代码。该文章最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80824": {
-"t": "使用lift-pdf设计基于模式引导的发票智能流水线，实现应付账款提取、验证与账目生成",
-"s": "在本教程中，我们使用lift-pdf构建了一个端到端的应付账款提取流水线，以合成发票PDF作为受控测试文档，并以结构化JSON模式作为目标输出格式。我们并未将发票解析视为简单的OCR任务，而是将其定位为模式引导的文档理解：生成逼真的发票，定义诸如……等字段。本文《使用lift-pdf设计基于模式引导的发票智能流水线，实现应付账款提取、验证与账目生成》最初发表于MarkTechPost。"
-},
-"https://the-decoder.com/?p=37354": {
-"t": "OpenAI联合创始人展望“几乎无界面”未来，届时无人再学习软件",
-"s": "格雷格·布罗克曼承认，2023年大力推广的ChatGPT插件“因模型尚未成熟”而失败。他预见未来并非应用扩展，而是一个无形、具备情境感知能力的智能体。但OpenAI自家的Codex距离这一愿景仍有光年之遥。本文《OpenAI联合创始人展望“几乎无界面”未来，届时无人再学习软件》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37346": {
-"t": "一项涵盖26000名学生的研究表明，AI的隐性学习成本需要整整两年才会显现",
-"s": "一项针对超过26000名中国学生的研究发现，使用AI的学生完成作业更快、得分更高，但在考试中的表现却差达24%。对入学考试成绩的全面影响大约需要两年时间才会显现，这意味着短期研究系统性地低估了其损害。本文《一项涵盖26000名学生的研究表明，AI的隐性学习成本需要整整两年才会显现》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37342": {
-"t": "Anthropic启动自有药物发现项目，攻克大型药企认为无利可图的疾病",
-"s": "Anthropic正在启动针对被制药行业视为无利可图的被忽视疾病的药物开发项目。诺华CEO Vas Narasimhan认为，人工智能可将开发时间从十二年缩短至七八年，并将成功率从8%翻倍至16%。本文《Anthropic启动自有药物发现项目，攻克大型药企认为无利可图的疾病》最初发表于The Decoder。"
-},
 "https://the-decoder.com/?p=37336": {
 "t": "Mistral 开源模型 Leanstral 1.5 在形式化数学基准测试中表现出色，并捕获代码中的真实漏洞",
 "s": "Mistral AI 发布了 Leanstral 1.5，这是一个用于 Lean 4 形式化验证的开源模型。除了数学领域，该模型在扫描 57 个开源代码库时发现了五个此前未知的漏洞。本文《Mistral 开源模型 Leanstral 1.5 在形式化数学基准测试中表现出色，并捕获代码中的真实漏洞》最初发表于 The Decoder。"
@@ -4798,5 +4762,41 @@
 "grpo-beyond-english": {
 "t": "GRPO超越英语：非英语与多语言环境下GRPO的大规模研究",
 "s": "基于可验证奖励的强化学习（RLVR），通常通过组相对策略优化（GRPO）进行优化，已成为提升预训练语言模型推理能力的关键方法，但现有研究仍高度以英语为中心。我们针对多种基础模型、训练语言及不同推理语言奖励，开展了一项大规模的多语言和非英语GRPO实证研究。我们发现，以母语进行推理训练与英语推理训练之间的差距通常很小。我们进一步观察到强大的……"
+},
+"https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
+"t": "加强国家安全领域的民主监督",
+"s": "OpenAI启动一项倡议，旨在加强人工智能在国家安全领域的民主监督，为政府机构提供工具、培训和专业知识支持。"
+},
+"https://the-decoder.com/?p=39181": {
+"t": "OpenAI称随着AI网络安全风险日益严峻，正“放缓模型开发步伐”",
+"s": "OpenAI正有意“放缓AI模型开发”，部分原因是即将推出的“Astra”模型可能接近获得关键的网络攻击能力。新的监控系统能在模型出现可疑行为时30分钟内触发警报。本文《OpenAI称随着AI网络安全风险日益严峻，正“放缓模型开发步伐”》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39175": {
+"t": "新基准测试按质量、成本和速度对AI代理的搜索API进行排名",
+"s": "Artificial Analysis发布了“搜索索引”，这是一个基准测试，用于评估AI代理的搜索API提供商在质量、成本和速度方面的表现。在七个使用GPT-5.6 Luna测试的提供商中，Parallel、Exa和Firecrawl得分最高。文章《新基准测试按质量、成本和速度对AI代理的搜索API进行排名》首发于The Decoder。"
+},
+"https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
+"t": "你的智能体究竟需要多少内存？",
+"s": "（无）"
+},
+"https://techcrunch.com/?p=3154044": {
+"t": "OpenAI在Hugging Face遭入侵后实施新安全措施",
+"s": "新安全措施包括在模型开发过程中进行更详细的监控，以及在后期训练过程中更加重视对齐与安全性。"
+},
+"https://techcrunch.com/?p=3153956": {
+"t": "Etched估值一个月内翻倍至210亿美元",
+"s": "Jane Street已安装Etched首个交付的AI集群系统，并对其印象深刻，据该初创公司称，这促成了又一轮大规模融资。"
+},
+"https://openai.com/index/pacing-model-development-cyber-capabilities": {
+"t": "在网络关键能力时代，把握模型开发节奏",
+"s": "OpenAI正在加强对前沿AI模型的监控、对齐与安全措施。了解新的保障措施如何引导模型开发的步伐。"
+},
+"https://openai.com/index/asana": {
+"t": "Asana借助Codex两周完成五年工程量",
+"s": "Asana利用OpenAI Codex在两周内替换了过时的测试系统，完成了预计需五年时间、成本约1.2万美元的工作。"
+},
+"mvicad2-delays-dilations": {
+"t": "MVICAD2：带延迟与扩张的多视图独立成分分析",
+"s": "多视图设置中的机器学习技术面临重大挑战，尤其是在整合异构数据、对齐特征空间以及管理视图特定偏差方面。这些问题在神经科学中尤为突出，在该领域中，分析多个受试者接触相同刺激时的数据以揭示大脑活动动态。在脑磁图（MEG）中，信号在头皮层面捕获，估计大脑的潜在源至关重要，尤其是在组研究中，假设所有受试者的源相似。常见方法，如多视图……"
 }
 }
