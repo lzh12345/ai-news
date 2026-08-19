@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=2970347": {
-"t": "什么是Mistral AI？关于这家OpenAI竞争对手的一切须知",
-"s": "Mistral AI提供部分开源AI模型，自2023年成立以来已筹集大量资金，其目标是“让前沿AI触手可及”。"
-},
 "https://the-decoder.com/?p=37364": {
 "t": "开源工具pxpipe将文本隐藏在PNG中，为Claude Code和Fable 5节省高达70%的Token成本",
 "s": "开源工具pxpipe将Claude Code的长文本提示转换为紧凑的PNG图像，利用Anthropic按像素大小而非文本内容收费的特点。开发者Steven Chong报告称，在牺牲准确性和速度的前提下，可节省59%至70%的成本。本文《开源工具pxpipe将文本隐藏在PNG中，为Claude Code和Fable 5节省高达70%的Token成本》首发于The Decoder。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/chatgpt-ads-expands-across-europe": {
 "t": "ChatGPT广告业务扩展至欧洲各地",
 "s": "ChatGPT广告正扩展至31个欧洲市场。了解广告主如何在用户探索、比较选项和做出决策时触达他们。"
+},
+"https://techcrunch.com/?p=3154147": {
+"t": "Relativity Networks融资2200万美元，为数据中心带来更快的光纤技术",
+"s": "Relativity Networks专注于空芯光纤，这是一种罕见部署的技术，能使数据传输速度比传统光纤快30%。"
 }
 }
