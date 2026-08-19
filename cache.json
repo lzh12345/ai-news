@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80844": {
-"t": "Anthropic 发布 Claude Science 测试版：用于可复现基因组学、蛋白质组学和化学信息学管道的多智能体 AI 工作台",
-"s": "Anthropic 于 2026 年 6 月 30 日发布了 Claude Science 测试版。该应用基于现有的 Claude 模型运行。一个协调智能体将任务委派给领域专家，一个审查智能体标记并纠正引用和数字，每个图表都附带其精确代码、环境和完整消息历史。它管理跨本地机器、通过 SSH 的高性能计算以及 Modal 的计算资源，并连接 60 多个数据库以及 NVIDIA BioNeMo 技能。该文章《Anthropic 发布 Claude Science 测试版：用于可复现基因组学、蛋白质组学和化学信息学管道的多智能体 AI 工作台》最初出现在 MarkTechPost 上。"
-},
 "https://www.marktechpost.com/?p=80838": {
 "t": "NVIDIA HORIZON：一款免手动代理，可演进Git工作树并实现100% RTL基准测试完成率",
 "s": "一款免手动的NVIDIA代理框架将每个RTL问题作为版本化仓库托管，在各项基准测试中达到100%的完成率。本文NVIDIA HORIZON：一款免手动代理，可演进Git工作树并实现100% RTL基准测试完成率最早出现在MarkTechPost上。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/nvidia/chatgpt-work": {
 "t": "NVIDIA如何借助ChatGPT Work扩展专业知识",
 "s": "NVIDIA团队利用ChatGPT Work减少手动任务，连接快速变化的信号，并在全球范围内扩展成功的工作流程。"
+},
+"https://www.marktechpost.com/?p=81762": {
+"t": "NVIDIA公开发布TensorRT Model Connect预览版：两条命令将Hugging Face检查点转换为原生C++推理",
+"s": "NVIDIA已公开发布TensorRT Model Connect（TRTMC）预览版，这是一个Apache-2.0项目，可将受支持的Hugging Face或本地检查点通过两条命令转换为端到端的TensorRT推理，无需中间ONNX导出。构建过程会生成一个带版本号的.bundle工件，该工件通过原生C++任务API运行，因此推理执行时无需在运行时路径中包含PyTorch。NVIDIA于2026年7月29日的GB300快照覆盖了76个模型家族中的105个发布配置文件。"
 }
 }
