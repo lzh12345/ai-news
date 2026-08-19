@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 19 Aug 2026 04:29:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 08:26:10 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Cursor借GitHub用户不满之机，推出竞争性托管平台</title>
@@ -14,6 +14,14 @@
 <pubDate>Tue, 18 Aug 2026 22:14:25 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】以AI代码编辑器闻名的Cursor，正推出一个新的代码托管平台，以挑战开发者长期偏爱的GitHub。<br/><br/><a href="https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ChatGPT广告业务扩展至欧洲各地</title>
+<link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-across-europe</guid>
+<pubDate>Tue, 18 Aug 2026 22:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】ChatGPT广告正扩展至31个欧洲市场。了解广告主如何在用户探索、比较选项和做出决策时触达他们。<br/><br/><a href="https://openai.com/index/chatgpt-ads-expands-across-europe">阅读原文</a>]]></description>
 </item>
 <item>
 <title>NVIDIA公开发布TensorRT Model Connect预览版：两条命令将Hugging Face检查点转换为原生C++推理</title>
@@ -478,14 +486,6 @@
 <pubDate>Sat, 15 Aug 2026 11:28:29 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】实现一个端到端的工具调用语言模型微调流程。本教程涵盖轨迹解析、结构化工具调用提取、兼容Qwen的ChatML渲染，以及使用PyTorch进行高效的LoRA适配。这篇关于微调工具调用大语言模型的完整指南（使用XYZ-Aquila-SFT和Qwen3）首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>怀疑法院使用AI，男子在诉讼文件中注入提示词试图赢得案件</title>
-<link>https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</guid>
-<pubDate>Fri, 14 Aug 2026 17:26:53 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】法官警告自行诉讼者错误使用聊天机器人，且手段愈发绝望。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
