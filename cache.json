@@ -1,28 +1,4 @@
 {
-"https://the-decoder.com/?p=37424": {
-"t": "GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首",
-"s": "OpenAI 的 GPT-4 在 Epoch 能力指数上领先约一年，远超此后任何模型。自 2024 年 2 月 Claude 3 Opus 登顶以来，榜首已易手 17 次，平均停留时间仅七周。如今竞争更为激烈，但模型间的能力提升幅度正在缩小。本文《GPT-4 的霸主地位持续一年，而当今顶级模型仅能维持七周榜首》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3139169": {
-"t": "如果你使用谷歌，你就在训练它的人工智能。以下是退出方法。",
-"s": "公共安全提示：谷歌隐私设置的一项变更使其能够利用更多你的数据来训练人工智能。以下是退出方法。"
-},
-"https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/": {
-"t": "Anthropic的反监控立场下，秘密Claude追踪器令用户震惊",
-"s": "Anthropic被指控监视用户；工程师称“实验”已结束。"
-},
-"https://huggingface.co/blog/Photoroom/prx-part4-data": {
-"t": "PRX 第四部分：我们的数据战略",
-"s": ""
-},
-"https://techcrunch.com/?p=3139318": {
-"t": "Vercel CEO Guillermo Rauch 谈模型与智能体分离之争",
-"s": "\"现实是，当你为生产环境优化时，你会开始关注性价比，\"Guillermo Rauch 对 TechCrunch 表示。"
-},
-"https://techcrunch.com/?p=3139329": {
-"t": "现在你可以在最新的iOS 27测试版中自定义Siri的语速和表现力",
-"s": "此次更新是苹果公司更广泛努力的一部分，旨在让Siri感觉更自然、更个性化，同时围绕生成式AI重建该助手。"
-},
 "https://the-decoder.com/?p=37439": {
 "t": "Cloudflare 以精细控制取代全面AI机器人拦截，针对搜索、训练和代理爬虫",
 "s": "Cloudflare 正在为所有客户提供精细化的AI机器人控制功能。网站所有者现在可以分别管理搜索、训练和代理机器人，而无需一次性全部拦截。自2026年9月15日起，在广告支持的页面上，训练和代理机器人将被默认拦截。本文《Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers》最初发表于The Decoder。"
@@ -4798,5 +4774,29 @@
 "https://the-decoder.com/?p=39224": {
 "t": "OpenAI构建安全系统，无需存储客户数据即可捕捉滥用行为",
 "s": "OpenAI计划向企业客户提供其最先进的AI模型，同时不存储他们的数据，但仍能检测到滥用行为。文章《OpenAI构建安全系统，无需存储客户数据即可捕捉滥用行为》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39241": {
+"t": "AI先驱萨顿称合成数据是面对无限复杂世界时的“重大错误”",
+"s": "图灵奖得主理查德·萨顿称，在扩展大型语言模型时使用合成数据是“重大错误”。世界是无限复杂的，任何对其的模拟都只是“微观”的，而人类专业知识则成为阻碍真正扩展的瓶颈。萨顿提出的替代方案是让智能体从自身经验中持续学习，而非依赖固定不变的模型。文章《AI先驱萨顿称合成数据是面对无限复杂世界时的“重大错误”》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3154766": {
+"t": "Meta AI新Mac应用鼓励你与应用对话",
+"s": "Meta表示，其Muse Spark模型正在为语音听写功能提供支持。"
+},
+"https://the-decoder.com/?p=39235": {
+"t": "Anthropic最强大的模型，代号“Model 2”，仅供内部使用",
+"s": "Anthropic内部使用一个未公开的AI模型，其能力超过任何公开版本的Claude。文章《Anthropic最强大的模型，代号“Model 2”，仅供内部使用》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3154391": {
+"t": "币安现在允许AI代理进行交易，但监管它们主要靠用户自己",
+"s": "币安的Agent OS支持与ChatGPT、Claude Code和Cursor等工具协同工作。"
+},
+"https://the-decoder.com/?p=39232": {
+"t": "中国现已拥有自己的AI循环融资模式",
+"s": "宇树科技在上海IPO中股价飙升460%，估值达到约500亿美元。但据英国《金融时报》报道，其机器人的大部分需求来自国有培训中心，这些中心购买机器并将产生的数据回售给制造商，形成了一种循环商业模式，这与美国对英伟达的批评相呼应。文章《中国现已拥有自己的AI循环融资模式》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39229": {
+"t": "陶哲轩称AI可能引发自哥德尔以来数学界最大危机",
+"s": "在一篇新文章中，陶哲轩警告称，人工智能可能将数学推入一场与1900年前后基础性动荡相当的危机。此次考验的并非数学真理，而是该领域的价值观：何为贡献、何种成果应获奖励，以及工作由谁完成。他的经验法则：无人能解释的证明应被视为不完整。文章《陶哲轩称AI可能引发自哥德尔以来数学界最大危机》首发于The Decoder。"
 }
 }
