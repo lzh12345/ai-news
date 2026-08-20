@@ -1,64 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80874": {
-"t": "利用ChEMBL、RDKit、SHAP和BRICS构建基于骨架分割的随机森林QSAR联合科学家，用于EGFR抑制剂发现",
-"s": "在本教程中，我们构建了一个自主的AI联合科学家，用于EGFR C797S抑制剂的发现。我们通过ChEMBL和UniProt解析靶点，然后将IC50记录挖掘成干净的pIC50数据集。我们使用RDKit标准化分子、计算摩根指纹，并训练一个基于骨架分割的随机森林QSAR模型。我们利用SHAP解释效力驱动因素，然后重组BRICS片段以生成和排序新候选分子。本文《Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS》最初发表于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3139436": {
-"t": "首个AI驱动的勒索软件攻击仍需人类参与",
-"s": "一个AI代理首次在已知的真实世界勒索软件攻击中执行了技术操作，但新细节显示，人类仍然选择了受害者、搭建了基础设施并提供了被盗凭证——这意味着这并非上周头条新闻所暗示的完全自主的网络犯罪首秀。"
-},
-"https://techcrunch.com/?p=3139406": {
-"t": "美国投资者即将迎来另一家乘AI东风的内存制造商SK海力士",
-"s": "SK海力士正经历一场归功于人工智能的繁荣。它将借此推动一场价值数十亿美元的美国首次公开募股，预计将于周五进行。"
-},
-"https://www.marktechpost.com/?p=80880": {
-"t": "腾讯发布Hy3：一款拥有210亿活跃参数和256K上下文窗口的开放295B混合专家（MoE）模型",
-"s": "腾讯Hy团队发布了Hy3，这是一款295B混合专家（MoE）模型，每个token仅激活210亿参数。该模型采用Apache 2.0许可，支持256K上下文窗口，专注于推理、智能体及长上下文任务。Hy3在SWE-Bench Verified上取得78.0分，并具有更低的幻觉率，用户可在OpenRouter上免费试用至2026年7月21日。本文《腾讯发布Hy3：一款拥有210亿活跃参数和256K上下文窗口的开放295B混合专家（MoE）模型》首发于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80877": {
-"t": "OpenAI 发布 GPT-Realtime-2.1 和 GPT-Realtime-2.1-mini，用于 API 中的低延迟语音代理",
-"s": "OpenAI 在其 API 中新增了两款 Realtime 模型。GPT-Realtime-2.1-mini 是一款面向语音的迷你推理模型，定价与此前的 gpt-realtime-mini 相同。OpenAI 还通过改进缓存将 p95 延迟降低了至少 25%。本文介绍了具体变化、定价对比以及如何通过 WebRTC 进行连接。该文章最初发表于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=37445": {
-"t": "OpenAI与Anthropic向初创公司赠送数百万美元计算资源以吸引客户",
-"s": "OpenAI、Anthropic及主要云服务商正竞相提供免费计算额度，以吸引初创公司加入其生态系统。部分单个报价高达300万美元。仅在Y Combinator孵化器中，OpenAI与Anthropic每年合计可能发放高达8亿美元的计算额度。这场折扣战发生在两家公司需在即将进行的IPO前改善利润率的背景下。本文《OpenAI与Anthropic向初创公司赠送数百万美元计算资源以吸引客户》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37446": {
-"t": "阿波罗经济学家警告：科技领域之外的AI利润增长可能“远超”华尔街预期",
-"s": "阿波罗首席经济学家托尔斯滕·斯洛克认为，科技行业之外不会出现由AI驱动的利润率增长。在医疗、银行或制药等受监管行业中，流程改革和隐私规则可能将生产力提升推迟数年。如果这一过程需要五年而非五个月，许多AI股票将面临痛苦的重新定价。本文《阿波罗经济学家警告：科技领域之外的AI利润增长可能“远超”华尔街预期》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3139226": {
-"t": "美国首批自主地面战车正在乌克兰投入战斗",
-"s": "Forterra公司已部署超过100辆"
-},
-"https://techcrunch.com/?p=3138667": {
-"t": "Savi 应用旨在保护消费者免受逼真的人工智能诈骗，如绑匪索要赎金",
-"s": "该公司刚刚获得700万美元的种子轮融资，并于周二在iPhone和Android平台推出其应用。"
-},
-"https://the-decoder.com/?p=37456": {
-"t": "中国AI模型在OpenRouter上使用率稳定突破30%，成本差距持续扩大",
-"s": "据CNBC报道，中国AI模型正凭借远低于OpenAI和Anthropic系统的成本优势，在美国企业中逐步扩大市场份额。本文《中国AI模型在OpenRouter上使用率稳定突破30%，成本差距持续扩大》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37453": {
-"t": "Deepseek 正在设计自己的AI芯片",
-"s": "据路透社报道，中国初创公司Deepseek正在打造自己的AI芯片。文章《Deepseek正在设计自己的AI芯片》最初发表于The Decoder。"
-},
-"https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/": {
-"t": "AI如何让机器人在工作场所——甚至家庭中——实现自主工作",
-"s": "顶尖机器人研究人员和创始人解释机器人自主性如何演变。"
-},
-"https://the-decoder.com/?p=37473": {
-"t": "Anthropic 的 Claude Cowork AI 代理现已登陆移动端和网页端",
-"s": "Anthropic 正在将其 AI 代理 Claude Cowork 推广至移动端和网页端。此前，该功能仅限于桌面应用。即使笔记本电脑合上，该代理也能在后台持续工作，并在需要决策时通过手机向用户发送通知。此举进一步模糊了 Chat 与 Cowork 之间的界限。本文《Anthropic 的 Claude Cowork AI 代理现已登陆移动端和网页端》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3139729": {
-"t": "Claude Cowork 扩展至移动端和网页端",
-"s": "通过此次更新，用户可以在办公桌前启动任务，在手机上获取状态更新，并在之后查看完成的结果——即使笔记本电脑已合上。"
-},
-"https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/": {
-"t": "面对美国出口管制，中国DeepSeek计划自主研发芯片",
-"s": "尽管尚处早期阶段，但该计划旨在减少对英伟达和华为的依赖。"
-},
 "https://the-decoder.com/?p=37468": {
 "t": "中国考虑对顶级AI模型实施出口限制，欧洲陷入两难境地",
 "s": "据路透社报道，中国正考虑限制外国获取其最强大的人工智能模型。阿里巴巴、字节跳动和Z.ai都将受到影响。此举意味着两大超级大国均将AI视为战略资产。对欧洲而言，依赖廉价中国开源模型的便捷捷径可能比预期更快关闭。本文《中国考虑对顶级AI模型实施出口限制，欧洲陷入两难境地》首发于The Decoder。"
@@ -4798,5 +4738,65 @@
 "https://openai.com/index/stampli": {
 "t": "ChatGPT Work 如何助力 Stampli 将创意推向市场",
 "s": "在固定截止日期且设计资源已投入其他项目的情况下，Stampli 利用 Codex 和 ChatGPT Work 将原本需要数周的发布准备工作压缩至数天内完成。"
+},
+"https://www.marktechpost.com/?p=81780": {
+"t": "认识UPDF：为智能体时代打造的轻量级Adobe替代品",
+"s": "PDF文件易于阅读却难以修改。AI现在能在几秒钟内总结一份90页的合同，但仍无法干净地重写源文件。UPDF正是为这后半部分而设计：直接编辑、14种格式转换、38种语言OCR，以及2.5版本中内置的十个AI代理。这篇关于UPDF的文章首次出现在MarkTechPost上。"
+},
+"https://the-decoder.com/?p=39256": {
+"t": "Adobe Firefly新增AI音频工具及谷歌Gemini Omni Flash",
+"s": "Adobe正在Firefly中广泛推出三款AI音频工具。生成音乐、生成语音和生成音效功能可为视频项目创建免版税的音乐、配音和音效。Adobe还在该平台中加入了Gemini Omni Flash。文章《Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash》最初出现在The Decoder上。"
+},
+"https://techcrunch.com/?p=3155082": {
+"t": "谷歌为出版商提供新方式应对AI驱动的流量损失",
+"s": "谷歌为出版商提供了一个新按钮，让读者在搜索、发现和谷歌新闻中将他们设为优先来源，这可能在AI搜索减少网页点击量的情况下提升其流量。"
+},
+"https://techcrunch.com/?p=3154952": {
+"t": "Runlayer与Rippling撤回诉讼——但这场风波对创始人仍是警示",
+"s": "Runlayer和Rippling已撤回诉讼，未涉及任何赔偿。Rippling以发布竞品的方式庆祝这一结果。"
+},
+"https://www.marktechpost.com/?p=81774": {
+"t": "Liquid AI发布LFM2.5-DSpark草稿模型，解码速度提升高达3.18倍且不改变模型输出",
+"s": "三款约300M参数的草稿模型为LFM2.5带来推测解码，在保持贪婪输出一致的情况下，解码速度提升高达3.18倍。该文章首发于MarkTechPost。"
+},
+"https://github.blog/?p=98377": {
+"t": "8月17日服务中断及后续工作",
+"s": "关于8月17日服务中断的最新进展以及我们为提升可靠性所采取的措施。此文章《8月17日服务中断及后续工作》最初发布在GitHub博客上。"
+},
+"https://techcrunch.com/?p=3155017": {
+"t": "Linkdaze智能日历旨在管理家庭事务，而非仅仅追踪日程",
+"s": "Linkdaze的智能数字日历因其功能不设付费墙而脱颖而出，其中包括AI餐食规划工具。"
+},
+"https://the-decoder.com/?p=39251": {
+"t": "大语言模型本可像人类一样写作，但训练后的护栏使其文本可被识别",
+"s": "大语言模型并非因能力不足而缺乏可辨识的写作风格。Pangram首席技术官布拉德利·埃米认为，训练后的安全护栏大幅压缩了它们的表达范围。未受这些约束的基础模型已展现出更多样化的写作风格。本文《大语言模型本可像人类一样写作，但训练后的护栏使其文本可被识别》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3154977": {
+"t": "Grok持续向用户发送乱码回复",
+"s": "受影响的用户告诉TechCrunch，他们使用的是Grok Lite，并在周三早上就注意到了这些问题。"
+},
+"https://techcrunch.com/?p=3154941": {
+"t": "研究显示，自ChatGPT发布以来，三分之一的网页呈现AI创作痕迹",
+"s": "ChatGPT及其他AI模型如今正大量创作和编辑新网页内容。"
+},
+"01M0E1JC8D74SDDVJCVBVX8EFA": {
+"t": "从全有或全无到基于任务的OAuth同意",
+"s": "Cloudflare OAuth现在支持可选范围，让用户对应用可访问的内容拥有更多控制权，并帮助开发者围绕当前任务构建安全的同意流程。"
+},
+"https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
+"t": "LFM2.5-DSpark 推理速度提升高达3.2倍",
+"s": "（无）"
+},
+"https://techcrunch.com/?p=3154851": {
+"t": "Ramp推出自家AI模型路由器，名为Router",
+"s": "Ramp已推出其自有的AI模型路由服务，名为Router，该服务允许用户和公司通过API使用并切换多种大型语言模型。"
+},
+"https://www.marktechpost.com/?p=81771": {
+"t": "审计偏好偏差并使用TRL和LoRA在Anthropic HH-RLHF上通过直接偏好优化微调语言模型",
+"s": "本教程提供了一个使用直接偏好优化（DPO）微调语言模型的端到端工作流程。我们演示了如何审计Anthropic HH-RLHF数据集中的结构性和长度偏差，使用TRL和LoRA实现稳健的训练流程，并评估模型性能，以确保真正的偏好学习而非依赖词汇捷径。文章《审计偏好偏差并使用TRL和LoRA在Anthropic HH-RLHF上通过直接偏好优化微调语言模型》首次出现在MarkTechPost上。"
+},
+"https://openai.com/index/introducing-ai-futures": {
+"t": "推出AI未来",
+"s": "推出AI未来，这是一个全新的OpenAI博客，探讨变革性AI如何重塑权力、治理、经济和个人自由。"
 }
 }
