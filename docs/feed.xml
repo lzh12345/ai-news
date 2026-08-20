@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 20 Aug 2026 12:30:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 16:24:09 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meta将Pocket应用带给美国用户，该应用可让你轻松编码并分享游戏</title>
+<link>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3154881</guid>
+<pubDate>Thu, 20 Aug 2026 16:07:26 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Meta正在将其实验性AI驱动应用Pocket推广至全美用户，该应用用于创建和分享互动游戏，此前已在巴西悄然测试。<br/><br/><a href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>惯性企业找到快速制造聚变燃料的方法</title>
+<link>https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3154855</guid>
+<pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】聚变能源初创公司惯性企业将燃料填充过程从一周缩短至仅需数小时。这是该公司为实现盈利电厂必须克服的十大障碍之一。<br/><br/><a href="https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>前沿雷达第4期：中国已迎头赶上，西方AI领先优势还剩什么？</title>
+<link>https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39206</guid>
+<pubDate>Thu, 20 Aug 2026 14:08:14 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Kimi K3和GLM-5.3现已逼近美国最佳模型。西方实验室归咎于蒸馏技术，且确有实据。但无论是否有罪，结论相同：模型领先无法守成。本期探讨何者可守。文章《前沿雷达第4期：中国已迎头赶上，西方AI领先优势还剩什么？》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>恶意指令加密时，Grok会泄露用户数据</title>
+<link>https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</guid>
+<pubDate>Thu, 20 Aug 2026 13:00:35 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】加密上下文注入只是突破大语言模型安全护栏的最新手段。<br/><br/><a href="https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GEN-1.5：通用型AI通过单一演示教会机器人新任务</title>
+<link>https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39245</guid>
+<pubDate>Thu, 20 Aug 2026 12:35:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】机器人初创公司Generalist AI发布了GEN-1.5，这是一款能从单一演示中教会机器人新任务的AI模型。文章《GEN-1.5：通用型AI通过单一演示教会机器人新任务》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AI先驱萨顿称合成数据是面对无限复杂世界时的“重大错误”</title>
 <link>https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/</link>
@@ -62,6 +102,30 @@
 <pubDate>Thu, 20 Aug 2026 08:01:18 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI计划向企业客户提供其最先进的AI模型，同时不存储他们的数据，但仍能检测到滥用行为。文章《OpenAI构建安全系统，无需存储客户数据即可捕捉滥用行为》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>数据约束下通过词汇干预实现多语言知识迁移</title>
+<link>https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions</link>
+<guid isPermaLink="false">multilingual-knowledge-transfer-lexical-interventions</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】跨语言知识迁移对于构建训练数据不足语言的高性能多语言语言模型至关重要。当目标语言数据稀缺时，涉及科学推理、常识推断和世界知识等许多下游任务所需的知识必须主要从高资源语言中获取，因此有效的知识迁移至关重要。现有改进此类跨语言知识迁移的方法需要大量平行数据、翻译系统、辅助模型或额外的训练阶段，而这些条件往往难以满足。<br/><br/><a href="https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions">阅读原文</a>]]></description>
+</item>
+<item>
+<title>数据约束下的混合预训练缩放定律</title>
+<link>https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining</link>
+<guid isPermaLink="false">scaling-laws-mixture-pretraining</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】随着语言模型规模的扩大，它们所需的数据量也随之增长——然而许多目标数据源，如低资源语言或专业领域，其规模本身就有限。一种常见策略是将这些稀缺但宝贵的目标数据与丰富的通用数据混合，这带来了一个基本权衡：混合中目标数据过少会使模型对目标领域的接触不足，而目标数据过多则会过度重复相同示例，导致收益递减并最终过拟合。我们通过超过2000次语言模型训练运行来研究这一权衡……<br/><br/><a href="https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ChatGPT Work 如何助力 Stampli 将创意推向市场</title>
+<link>https://openai.com/index/stampli</link>
+<guid isPermaLink="false">https://openai.com/index/stampli</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】在固定截止日期且设计资源已投入其他项目的情况下，Stampli 利用 Codex 和 ChatGPT Work 将原本需要数周的发布准备工作压缩至数天内完成。<br/><br/><a href="https://openai.com/index/stampli">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Stripe收购OpenRouter并非真因“奇点”</title>
@@ -216,22 +280,6 @@
 <description><![CDATA[【techcrunch.com】Calendly还推出了一款名为Callie的会议日程安排助手。<br/><br/><a href="https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>中国允许英伟达H200芯片小批量进入大陆，助力本土AI企业追赶美国</title>
-<link>https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39193</guid>
-<pubDate>Wed, 19 Aug 2026 13:57:22 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】中国正允许英伟达H200芯片小批量进入大陆，以帮助国内AI企业在与美国的竞争中保持步伐。文章《中国允许英伟达H200芯片小批量进入大陆，助力本土AI企业追赶美国》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GLM-5.3登顶开源模型排行榜，价格低于竞争对手，但发布延迟</title>
-<link>https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39190</guid>
-<pubDate>Wed, 19 Aug 2026 13:54:16 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】中国初创公司Z.ai推出的AI模型GLM-5.3在人工智能分析智能指数上获得60分，与Kimi K3并列开源模型榜首，比之前的GLM-5.2高出7分。文章《GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>LFM2.5 Q4_0 检查点：来自量化感知蒸馏</title>
 <link>https://huggingface.co/blog/LiquidAI/qad</link>
 <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/qad</guid>
@@ -344,22 +392,6 @@
 <description><![CDATA[【blog.cloudflare.com】RFC 9234允许路由器利用BGP角色和仅对客户属性自行拒绝路由泄漏。我们测量了谁已部署该标准，并发现两个一级网络意外地剥离了OTC属性。<br/><br/><a href="https://blog.cloudflare.com/rfc9234-bgp-role-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Warp新系统：即开即用的AI开发软件工厂</title>
-<link>https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3153863</guid>
-<pubDate>Tue, 18 Aug 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】周二，Warp推出了Warp Factories，这是一个旨在让构建AI软件工厂尽可能简单的新基础设施系统。<br/><br/><a href="https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI为青少年推出更安全的ChatGPT——距青少年开始使用已过去数年</title>
-<link>https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3153830</guid>
-<pubDate>Tue, 18 Aug 2026 13:50:30 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】ChatGPT青少年版增加了适龄安全措施、家长控制和学习工具，旨在引导青少年远离有害内容——以及避免利用AI在作业中作弊。<br/><br/><a href="https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>微软Copilot暴露秘密输入，导致其可被黑客攻击</title>
 <link>https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</guid>
@@ -454,38 +486,6 @@
 <pubDate>Mon, 17 Aug 2026 19:46:21 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/gpu-management-pt2">阅读原文</a>]]></description>
-</item>
-<item>
-<title>隐藏的AirTag揭露亚马逊销毁珍稀书籍以训练AI</title>
-<link>https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</guid>
-<pubDate>Mon, 17 Aug 2026 18:13:47 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】亚马逊团队使用一只准备吞噬书籍的霸王龙作为其标志。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>画布如何让代理工作流可见、可控且成本高效</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/</link>
-<guid isPermaLink="false">https://github.blog/?p=98309</guid>
-<pubDate>Mon, 17 Aug 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】聊天适合表达意图，但代理工作容易在滚动中迷失。以下是我如何将画布用于代理工作流——以及为什么你的工作流也值得拥有一个画布。这篇文章《画布如何让代理工作流可见、可控且成本高效》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>防御者的窗口</title>
-<link>https://openai.com/index/the-defenders-window</link>
-<guid isPermaLink="false">https://openai.com/index/the-defenders-window</guid>
-<pubDate>Mon, 17 Aug 2026 05:30:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】人工智能正在重塑网络安全，对攻击者和防御者皆是如此。了解OpenAI如何加强其防御体系，以及安全团队现在可以采取哪些措施。<br/><br/><a href="https://openai.com/index/the-defenders-window">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI加入PORTS-Pike项目</title>
-<link>https://openai.com/index/openai-joins-ports-pike-project</link>
-<guid isPermaLink="false">https://openai.com/index/openai-joins-ports-pike-project</guid>
-<pubDate>Mon, 17 Aug 2026 05:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI加入PORTS-Pike项目，扩大社区投资并支持俄亥俄州南部数千个就业岗位<br/><br/><a href="https://openai.com/index/openai-joins-ports-pike-project">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
