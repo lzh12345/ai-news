@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 21 Aug 2026 16:22:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 20:16:14 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nvidia刚刚证明，现在真正的英雄是“缰绳”，而非AI模型</title>
+<link>https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3155284</guid>
+<pubDate>Fri, 21 Aug 2026 19:43:39 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Nvidia的研究表明，通过微调，AI代理即使模型本身在任务上表现平平，也能表现出色，且不会失控。<br/><br/><a href="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic将最强模型Claude Mythos 5投入网络防御工作</title>
+<link>https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39324</guid>
+<pubDate>Fri, 21 Aug 2026 19:35:37 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic现正将其安全扫描器Claude Security运行于Claude Mythos 5之上。该工具扫描代码库以发现漏洞，提供带有CWE分类的严重性评级，并建议修补方案。Anthropic还将Mythos 5集成到合作伙伴的安全产品中，以保护关键基础设施。文章《Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Deepseek发布实验性Flash视觉模型，在代理基准测试中媲美Opus 4.8</title>
+<link>https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39315</guid>
+<pubDate>Fri, 21 Aug 2026 19:08:27 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Deepseek已发布V4-Flash-Vision-Exp，这是一款实验性多模态模型，为V4-Flash的文本能力增添了图像理解功能。在该公司自家的多模态代理基准测试中，其表现接近Opus 4.8，有时甚至超越。文章《Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>调查发现，数据中心反对率一年内从42%飙升至75%</title>
+<link>https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39301</guid>
+<pubDate>Fri, 21 Aug 2026 18:25:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】根据Heatmap News的一项调查，如今四分之三的美国人反对在其附近建设数据中心，而一年前这一比例还仅为半数持平。其中61%的人表示“强烈反对”。这篇文章《数据中心反对率一年内从42%飙升至75%，调查发现》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>美国欲迫使伙伴国在AI竞赛中选边站，于华盛顿与北京之间抉择</title>
 <link>https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/</link>
@@ -136,14 +168,6 @@
 <description><![CDATA[【techcrunch.com】杰森·凯尔西开玩笑说，人们应该用尿液而不是饮用水来冷却数据中心——但他的建议并非完全荒谬。<br/><br/><a href="https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Adobe Firefly新增AI音频工具及谷歌Gemini Omni Flash</title>
-<link>https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39256</guid>
-<pubDate>Thu, 20 Aug 2026 19:29:34 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Adobe正在Firefly中广泛推出三款AI音频工具。生成音乐、生成语音和生成音效功能可为视频项目创建免版税的音乐、配音和音效。Adobe还在该平台中加入了Gemini Omni Flash。文章《Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>谷歌为出版商提供新方式应对AI驱动的流量损失</title>
 <link>https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3155082</guid>
@@ -174,14 +198,6 @@
 <pubDate>Thu, 20 Aug 2026 18:20:35 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Linkdaze的智能数字日历因其功能不设付费墙而脱颖而出，其中包括AI餐食规划工具。<br/><br/><a href="https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>大语言模型本可像人类一样写作，但训练后的护栏使其文本可被识别</title>
-<link>https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39251</guid>
-<pubDate>Thu, 20 Aug 2026 17:36:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】大语言模型并非因能力不足而缺乏可辨识的写作风格。Pangram首席技术官布拉德利·埃米认为，训练后的安全护栏大幅压缩了它们的表达范围。未受这些约束的基础模型已展现出更多样化的写作风格。本文《大语言模型本可像人类一样写作，但训练后的护栏使其文本可被识别》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Grok持续向用户发送乱码回复</title>
@@ -238,14 +254,6 @@
 <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】聚变能源初创公司惯性企业将燃料填充过程从一周缩短至仅需数小时。这是该公司为实现盈利电厂必须克服的十大障碍之一。<br/><br/><a href="https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>前沿雷达第4期：中国已迎头赶上，西方AI领先优势还剩什么？</title>
-<link>https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39206</guid>
-<pubDate>Thu, 20 Aug 2026 14:08:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Kimi K3和GLM-5.3现已逼近美国最佳模型。西方实验室归咎于蒸馏技术，且确有实据。但无论是否有罪，结论相同：模型领先无法守成。本期探讨何者可守。文章《前沿雷达第4期：中国已迎头赶上，西方AI领先优势还剩什么？》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>恶意指令加密时，Grok会泄露用户数据</title>
@@ -342,14 +350,6 @@
 <pubDate>Wed, 19 Aug 2026 20:04:41 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】破产的精神航空被指控在向谷歌大规模出售数据时出卖员工。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI本应赢得人心，却至今未果</title>
-<link>https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3154433</guid>
-<pubDate>Wed, 19 Aug 2026 19:11:40 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】随着AI越来越难以回避，消费者对这一技术的警惕性日益增强——而硅谷也发现，广泛采用并不必然带来接受。<br/><br/><a href="https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>为前沿模型提供零数据保留服务</title>

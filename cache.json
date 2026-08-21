@@ -1,20 +1,4 @@
 {
-"https://the-decoder.com/?p=37482": {
-"t": "Copilot走向廉价：微软逐步淘汰OpenAI和Anthropic模型以削减成本",
-"s": "微软正在用自家MAI模型替换Excel和Outlook等产品中来自OpenAI和Anthropic的AI模型。每周已有数万次查询通过这些模型运行。AI主管穆斯塔法·苏莱曼希望“最终消除”外部模型的成本。对于Copilot用户而言，这可能意味着以相同价格获得更低的性能。本文《Copilot走向廉价：微软逐步淘汰OpenAI和Anthropic模型以削减成本》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37477": {
-"t": "Cohere Transcribe Arabic：专为阿拉伯语最棘手转录问题打造的开源模型",
-"s": "Cohere 发布了 Transcribe Arabic，这是一款用于阿拉伯语语音识别的开源模型。该公司称，该模型在方言、语码转换以及阿拉伯语-英语双语语音处理方面优于 Whisper 和 OmniASR。这款拥有20亿参数的模型已在 Hugging Face 上以 Apache 2.0 许可证提供。本文《Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems》最初发表于 The Decoder。"
-},
-"https://huggingface.co/blog/skypilot-hf-storage": {
-"t": "在任何云上运行AI工作负载，存储于Hugging Face：SkyPilot实现零出站流量存储",
-"s": ""
-},
-"https://openai.com/index/australian-payments-plus": {
-"t": "澳大利亚支付Plus借助ChatGPT和Codex加速发展",
-"s": "了解澳大利亚支付Plus如何利用ChatGPT Enterprise和Codex在复杂的支付领域加速前行。AP+节省时间、提升质量，并始终将人类判断置于核心地位。"
-},
 "https://www.marktechpost.com/?p=80888": {
 "t": "NVIDIA发布Audex（Nemotron-Labs-Audex-30B-A3B）：一个保留骨干文本智能的统一音频-文本大语言模型",
 "s": "NVIDIA的Nemotron-Labs-Audex-30B-A3B将音频理解、语音识别、翻译、文本转语音和音频生成统一到一个MoE模型中。它在保留Nemotron-Cascade-2骨干文本智能的同时，仅出现轻微性能回归。本文《NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone》最初发表于MarkTechPost。"
@@ -4798,5 +4782,21 @@
 "https://huggingface.co/blog/asr-benchmark-optimization": {
 "t": "衡量语音识别中的基准优化",
 "s": "（无）"
+},
+"https://techcrunch.com/?p=3155284": {
+"t": "Nvidia刚刚证明，现在真正的英雄是“缰绳”，而非AI模型",
+"s": "Nvidia的研究表明，通过微调，AI代理即使模型本身在任务上表现平平，也能表现出色，且不会失控。"
+},
+"https://the-decoder.com/?p=39324": {
+"t": "Anthropic将最强模型Claude Mythos 5投入网络防御工作",
+"s": "Anthropic现正将其安全扫描器Claude Security运行于Claude Mythos 5之上。该工具扫描代码库以发现漏洞，提供带有CWE分类的严重性评级，并建议修补方案。Anthropic还将Mythos 5集成到合作伙伴的安全产品中，以保护关键基础设施。文章《Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39315": {
+"t": "Deepseek发布实验性Flash视觉模型，在代理基准测试中媲美Opus 4.8",
+"s": "Deepseek已发布V4-Flash-Vision-Exp，这是一款实验性多模态模型，为V4-Flash的文本能力增添了图像理解功能。在该公司自家的多模态代理基准测试中，其表现接近Opus 4.8，有时甚至超越。文章《Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39301": {
+"t": "调查发现，数据中心反对率一年内从42%飙升至75%",
+"s": "根据Heatmap News的一项调查，如今四分之三的美国人反对在其附近建设数据中心，而一年前这一比例还仅为半数持平。其中61%的人表示“强烈反对”。这篇文章《数据中心反对率一年内从42%飙升至75%，调查发现》最初出现在The Decoder上。"
 }
 }
