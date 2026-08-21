@@ -1,24 +1,4 @@
 {
-"mt-editflow-image-editing": {
-"t": "MT-EditFlow：基于流匹配的多轮图像编辑强化学习",
-"s": "近期基于指令的图像编辑领域取得突破性进展，模型已能处理真实世界编辑需求，具备日常用户所需的实用性。然而，主要针对单轮编辑训练的模型在多轮编辑场景中常出现失效——这种自然交互场景下，用户需基于模型自身先前输出对图像进行迭代优化。该失效源于\"全有或全无\"的苛刻要求（单轮失败即破坏整个序列）以及误差传播（暴露偏差导致后续问题）……"
-},
-"weblica-visual-web-agents": {
-"t": "Weblica：面向视觉网络智能体的可扩展与可复现训练环境",
-"s": "网络环境复杂、开放且持续变化，这使得为视觉网络智能体扩展训练数据面临挑战。现有数据收集方法仍局限于用于监督微调的离线轨迹，或仅适用于强化学习训练的少量模拟环境，因此无法捕捉网络的多样性。我们提出Weblica（网络副本）框架，用于构建可复现且可扩展的网络环境。该框架利用1）HTTP级缓存来捕获并重放稳定的视觉状态，同时保持交互行为；2）基于大语言模型的环境合成……"
-},
-"floweval-ui-evaluation": {
-"t": "FlowEval：基于参考的生成式用户界面评估",
-"s": "尽管大型语言模型（LLMs）和编码代理常被应用于用户界面（UI）开发，但开发者难以可靠评估其在视觉与交互设计方面的能力。现有评估方法要么依赖人类专家——他们能通过测试关键流程准确评估可用性，但速度慢且成本高；要么依赖自动化评判系统——虽可扩展但准确性较低且不透明。我们提出FlowEval，一种基于参考的框架，通过比较真实网站的导航轨迹，衡量生成的UI是否支持符合实际的交互流程。"
-},
-"single-neuron-safety-alignment": {
-"t": "单个神经元足以绕过大型语言模型的安全对齐机制",
-"s": "语言模型的安全对齐通过两种机制上截然不同的系统运作：拒绝神经元（控制有害知识是否被表达）和概念神经元（编码有害知识本身）。通过针对每个系统中的单个神经元，我们展示了两种失效方向——通过抑制绕过显式有害请求的安全机制，以及通过放大从无害提示中诱导出有害内容——涵盖两个模型家族、参数规模从1.7B到70B的七个模型，且无需任何训练或提示工程。我们的发现表明，安全对齐……"
-},
-"https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
-"t": "从 Hugging Face 到 Amazon SageMaker Studio 一键部署",
-"s": ""
-},
 "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/": {
 "t": "美国制造商能源成本因AI数据中心需求飙升",
 "s": "铁锈地带电费压力加剧，威胁特朗普的制造业计划。"
@@ -4798,5 +4778,25 @@
 "https://the-decoder.com/?p=39261": {
 "t": "OpenAI的GPT-Image-2现在可以生成无背景图像",
 "s": "OpenAI正在通过其API预览GPT-Image-2的透明背景支持。在图像生成过程中，alpha通道被直接嵌入，据OpenAI称，这优于传统的背景移除方法。一个单一参数即可激活该功能。文章《OpenAI's GPT-Image-2 can now generate images without a background》最初出现在The Decoder上。"
+},
+"https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
+"t": "从Atari到EVE Online：基于15年游戏AI研究的积累",
+"s": "谷歌DeepMind与游戏工作室合作，原型验证突破性AI游戏玩法。"
+},
+"https://the-decoder.com/?p=39279": {
+"t": "Waymo自研芯片用于其自动驾驶出租车，减少对Nvidia的依赖",
+"s": "Waymo为其自动驾驶出租车自主研发了芯片，从而降低了对Nvidia的依赖。这篇文章《Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia》最初发表于The Decoder。"
+},
+"https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/": {
+"t": "Meta AI眼镜需求激增，难以避免令人不安的录音",
+"s": "Ars关注Zuckoff，这款最新免费应用在隐私争议中检测Meta AI眼镜。"
+},
+"https://the-decoder.com/?p=39277": {
+"t": "Meta在微软AI服务上花费数亿美元",
+"s": "据彭博社报道，Meta已成为微软最大的AI客户之一。文章《Meta在微软AI服务上花费数亿美元》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39274": {
+"t": "Anthropic在企业客户反对后调整数据保留政策",
+"s": "Anthropic正在放宽其备受争议的数据存储政策，允许企业客户今后自行保留数据。文章《Anthropic changes data retention policy after enterprise pushback》最初出现在The Decoder上。"
 }
 }
