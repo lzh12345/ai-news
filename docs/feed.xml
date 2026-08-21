@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 21 Aug 2026 12:29:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 16:22:13 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>美国欲迫使伙伴国在AI竞赛中选边站，于华盛顿与北京之间抉择</title>
+<link>https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39298</guid>
+<pubDate>Fri, 21 Aug 2026 15:18:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据路透社报道，美国正在起草一封信函，告知伙伴国在华盛顿与北京的人工智能对峙中必须选边站。该文章《美国欲迫使伙伴国在AI竞赛中选边站，于华盛顿与北京之间抉择》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Starcloud融资2.5亿美元建设轨道数据中心，发射选项日益稀缺</title>
+<link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3155064</guid>
+<pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】一场争夺太空准入权的激烈竞争即将上演。<br/><br/><a href="https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国司法部调查a16z，这对风险投资意味着什么？</title>
+<link>https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3155475</guid>
+<pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】安德森·霍洛维茨基金有两位合伙人分别担任相互竞争公司的董事会成员：本·霍洛维茨在Databricks，马丁·卡萨多在Fivetran。表面上看并无大碍，但据报道，美国司法部已对这一安排调查近一年，翻出了一部已有112年历史、很少针对风投公司使用的反垄断法。董事会冲突并不新鲜，而且a16z最初投资时，这些公司未必是直接竞争对手……<br/><br/><a href="https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>从Atari到EVE Online：基于15年游戏AI研究的积累</title>
 <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
@@ -78,6 +102,14 @@
 <pubDate>Fri, 21 Aug 2026 00:13:44 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】对AI训练数据需求的激增正推动该初创公司及其竞争对手的快速增长。<br/><br/><a href="https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>衡量语音识别中的基准优化</title>
+<link>https://huggingface.co/blog/asr-benchmark-optimization</link>
+<guid isPermaLink="false">https://huggingface.co/blog/asr-benchmark-optimization</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/asr-benchmark-optimization">阅读原文</a>]]></description>
 </item>
 <item>
 <title>新数据显示，OpenAI在企业用户方面正逐渐追赶Anthropic</title>
@@ -224,14 +256,6 @@
 <description><![CDATA[【arstechnica.com】加密上下文注入只是突破大语言模型安全护栏的最新手段。<br/><br/><a href="https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>GEN-1.5：通用型AI通过单一演示教会机器人新任务</title>
-<link>https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39245</guid>
-<pubDate>Thu, 20 Aug 2026 12:35:52 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】机器人初创公司Generalist AI发布了GEN-1.5，这是一款能从单一演示中教会机器人新任务的AI模型。文章《GEN-1.5：通用型AI通过单一演示教会机器人新任务》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta AI新Mac应用鼓励你与应用对话</title>
 <link>https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3154766</guid>
@@ -334,22 +358,6 @@
 <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI重申对符合条件的API客户实行零数据保留，并预览了在不损害数据隐私的前提下，用于高级AI安全的私有安全处理功能。<br/><br/><a href="https://openai.com/index/offering-zero-data-retention-for-frontier-models">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌为搜索和Gemini增添全新AI学习工具</title>
-<link>https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3154456</guid>
-<pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】新学习功能的推出标志着谷歌最新努力，旨在让Gemini成为学生学习和研究时首选的AI助手，同时继续与OpenAI等公司竞争。<br/><br/><a href="https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>研究人员称OpenAI撤销了他们对受限网络项目的访问权限</title>
-<link>https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3154497</guid>
-<pubDate>Wed, 19 Aug 2026 18:46:14 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI的“可信网络访问”项目旨在为受信任的防御者提供更好的模型，以便他们能向公司报告漏洞和缺陷，从而加快修复速度。<br/><br/><a href="https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GitHub Copilot应用初学者指南：管理工作</title>
@@ -478,14 +486,6 @@
 <pubDate>Tue, 18 Aug 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Asana利用OpenAI Codex在两周内替换了过时的测试系统，完成了预计需五年时间、成本约1.2万美元的工作。<br/><br/><a href="https://openai.com/index/asana">阅读原文</a>]]></description>
-</item>
-<item>
-<title>多向量（后期交互）嵌入模型与句子变换器</title>
-<link>https://huggingface.co/blog/multi-vector-encoder</link>
-<guid isPermaLink="false">https://huggingface.co/blog/multi-vector-encoder</guid>
-<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/multi-vector-encoder">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
