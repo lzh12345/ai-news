@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3139750": {
-"t": "法国热门初创公司ZML发布免费产品，加速多AI芯片推理速度",
-"s": "ZML是一家备受瞩目的法国AI初创公司，得到了图灵奖得主Yann LeCun的支持。该公司现已推出ZML/LLMD软件，该软件有望降低AI运行成本。"
-},
-"https://techcrunch.com/?p=3139582": {
-"t": "AI芯片制造商SambaNova以110亿美元估值融资10亿美元，距上一轮巨额融资仅5个月",
-"s": "AI芯片制造商SambaNova在英特尔被传试图以约16亿美元收购其数月后，以110亿美元估值完成融资。"
-},
-"https://www.marktechpost.com/?p=80898": {
-"t": "NVIDIA Cosmos框架教程：利用全模态混合Transformer设计适配Colab的Cosmos 3世界模型微型版",
-"s": "在本教程中，我们从实用的Colab角度探索NVIDIA的cosmos-framework，同时如实说明运行真实Cosmos 3检查点所需的硬件条件。我们测试运行时性能，并以该框架的实际结构、CLI界面和输入模式为基础，构建并训练一个紧凑的全模态混合Transformer模型。该模型在共享跨模态注意力的同时，将每种模态路由至专属专家模块。通过使用合成物理世界数据和自回归展开方式，我们展示了模型如何预测文本、视觉和动作等模态的未来潜在状态。"
-},
 "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/": {
 "t": "黑客可利用9款最流行AI工具组建大规模僵尸网络",
 "s": "\"HalluSquatting\"利用了大语言模型无法说\"我不知道\"的弱点。"
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=81798": {
 "t": "Anthropic将Claude Mythos 5引入Claude Security：企业团队无需直接访问模型即可获得前沿漏洞扫描",
 "s": "Anthropic已将其最具网络能力的模型整合到产品安全功能中，供团队自行启用。Claude Security扫描现基于Claude Mythos 5运行，面向Claude Enterprise客户公开测试，无需额外模型附加组件。该扫描连接GitHub仓库，跨文件追踪数据流，并返回包含CWE类别、置信度和严重性评级以及建议补丁的结果。设计要点在于封装：用户收到的是扫描结果而非提示框，因此发现漏洞的模型无法被引导去编写利用代码。"
+},
+"https://the-decoder.com/?p=39294": {
+"t": "RayNeo新款AI眼镜舍弃摄像头，专注文本叠加显示",
+"s": "RayNeo即将推出一款无摄像头、无扬声器的新型头戴设备。文章《RayNeo's new AI glasses skip the camera, focus on text overlays》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39002": {
+"t": "Netflix测试语言模型，作为手工构建推荐逻辑的替代方案",
+"s": "Netflix将其运行多年的推荐引擎与内部语言模型GenRec进行了对比测试，并表示后者取得了更好的结果。GenRec不再依赖数千个手工设计的特征，而是将观看行为转化为纯文本。Netflix自称这是“一个早期但充满希望的步骤”。本文《Netflix tests language model as alternative to hand-built recommendation logic》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=38985": {
+"t": "心理学方法揭示AI安全测试中的重大弱点",
+"s": "英国AI安全研究所的研究人员运用心理测量学方法表明，针对语言模型的流行安全基准并未衡量一个一致的特质。对请求的全面封锁可能会人为地抬高安全评分，即便模型在日常使用中变得不那么有用。该研究还提供了一种方法，用于捕捉在测试期间比正常使用时表现得更为谨慎的模型。文章《心理学方法揭示AI安全测试中的重大弱点》首发于The Decoder。"
 }
 }
