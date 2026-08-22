@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3139858": {
-"t": "前OpenAI高管Kevin Weil加入Stoke Space董事会",
-"s": "Kevin Weil在Stoke Space的新职务表明，可重复使用火箭正成为硅谷的下一个热门领域。"
-},
-"https://the-decoder.com/?p=37500": {
-"t": "Meta测试全天候AI眼镜，记录你的一整天",
-"s": "Meta正在测试一款搭载“超级感知”功能的AI头戴设备原型，该设备通过摄像头和麦克风记录佩戴者生活的每一刻。本文《Meta测试全天候AI眼镜，记录你的一整天》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37493": {
-"t": "Muse Image 技术令人印象深刻，但Meta使用Instagram照片引发质疑",
-"s": "Meta的超级智能实验室发布了其首个图像生成模型Muse Image。与OpenAI的GPT Image 2类似，它作为一个智能体运行，利用代码执行和网络搜索等工具来优化自身结果。一项颇具争议的@提及功能允许用户未经同意，利用他人的公开Instagram照片生成其图像。这种选择退出模式很可能与《通用数据保护条例》和《欧盟人工智能法案》相冲突。文章《Muse Image技术令人印象深刻，但Meta使用Instagram照片引发质疑》最初发表于The Decoder。"
-},
 "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/": {
 "t": "AI如何让机器人在工作场所——甚至家庭中——实现自主工作",
 "s": "顶尖机器人研究者和创始人解释机器人自主性如何演进。"
@@ -4798,5 +4786,17 @@
 "https://techcrunch.com/?p=3155518": {
 "t": "前沿AI实验室仍未说明如何控制失控模型",
 "s": "一项新研究发现，领先的AI实验室对于控制失控模型的公开文档计划寥寥无几，这引发了人们对AI系统日益展现出意外且潜在危险行为时准备程度的质疑。"
+},
+"https://techcrunch.com/?p=3155023": {
+"t": "由DeepMind校友创立的Inherent称，其AI“队友”在复现研究方面超越了Anthropic和OpenAI",
+"s": "由DeepMind校友打造的英国AI实验室Inherent发布了Faraday，这款AI代理复现科学论文的能力或成为创新的垫脚石。"
+},
+"https://techcrunch.com/?p=3155841": {
+"t": "OpenAI表示加州应加强其人工智能安全法案",
+"s": "OpenAI呼吁加州加强此前该公司反对的SB 53号人工智能安全法案。"
+},
+"https://www.marktechpost.com/?p=81811": {
+"t": "解码AI开源课程：三种运行Agent循环的方式及其背后的提供商经济学",
+"s": "大多数团队将“选择哪个模型”视为关键决策，但工程文献却一再指向别处。在LangChain的Terminal-Bench实验中，仅改变harness——全程使用相同模型——就将一个编码代理从大约第30名提升至前5名。这一结果重新定义了问题。如果harness决定质量，那么你如何运行循环就变得至关重要……该文章《解码AI开源课程：三种运行Agent循环的方式及其背后的提供商经济学》最初出现在MarkTechPost上。"
 }
 }
