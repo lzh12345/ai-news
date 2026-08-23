@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 23 Aug 2026 12:22:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 16:15:28 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>监控公司Flock面临日益强烈的反对，CEO呼吁“妥协”</title>
+<link>https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3155870</guid>
+<pubDate>Sun, 23 Aug 2026 15:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Flock Safety因其监控技术可能被滥用的担忧而面临日益增长的公众抗议。<br/><br/><a href="https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>在受版权保护的书籍上训练AI模型是否合法？情况复杂</title>
+<link>https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3155556</guid>
+<pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】大多数已出版作者在不知情或未同意的情况下，为那些可能威胁其生计的AI工具的发展做出了贡献。这看起来似乎违法，对吗？<br/><br/><a href="https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI老板解雇了首位员工，但仅在人类提醒其自身规则之后</title>
+<link>https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39306</guid>
+<pubDate>Sun, 23 Aug 2026 12:31:59 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Andon Labs的AI代理Luna在旧金山一家门店首次解雇了一名人类员工，但这一决定是在操作员明确推动下才做出的。当用七个模型重演这一场景时，能力更强的AI更一致地建议解雇，而较弱的模型则犹豫不决。在招聘方面，几乎所有模型都缺乏批判性。文章《AI老板解雇了首位员工，但仅在人类提醒其自身规则之后》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AI正成为AI最大的客户，OpenRouter上代理型令牌使用量激增14倍</title>
 <link>https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/</link>
@@ -144,14 +168,6 @@
 <description><![CDATA[【techcrunch.com】Nvidia的研究表明，通过微调，AI代理即使模型本身在任务上表现平平，也能表现出色，且不会失控。<br/><br/><a href="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic将最强模型Claude Mythos 5投入网络防御工作</title>
-<link>https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39324</guid>
-<pubDate>Fri, 21 Aug 2026 19:35:37 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic现正将其安全扫描器Claude Security运行于Claude Mythos 5之上。该工具扫描代码库以发现漏洞，提供带有CWE分类的严重性评级，并建议修补方案。Anthropic还将Mythos 5集成到合作伙伴的安全产品中，以保护关键基础设施。文章《Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Starcloud融资2.5亿美元建设轨道数据中心，发射选项日益稀缺</title>
 <link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3155064</guid>
@@ -286,22 +302,6 @@
 <pubDate>Thu, 20 Aug 2026 16:52:57 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/LiquidAI/lfm25-dspark">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ramp推出自家AI模型路由器，名为Router</title>
-<link>https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3154851</guid>
-<pubDate>Thu, 20 Aug 2026 16:46:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Ramp已推出其自有的AI模型路由服务，名为Router，该服务允许用户和公司通过API使用并切换多种大型语言模型。<br/><br/><a href="https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta将Pocket应用带给美国用户，该应用可让你轻松编码并分享游戏</title>
-<link>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3154881</guid>
-<pubDate>Thu, 20 Aug 2026 16:07:26 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meta正在将其实验性AI驱动应用Pocket推广至全美用户，该应用用于创建和分享互动游戏，此前已在巴西悄然测试。<br/><br/><a href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>恶意指令加密时，Grok会泄露用户数据</title>
