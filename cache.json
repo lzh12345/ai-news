@@ -1,16 +1,4 @@
 {
-"https://huggingface.co/blog/native-speed-vllm-transformers-backend": {
-"t": "原生速度的 vLLM 变压器建模后端",
-"s": "(无)"
-},
-"https://openai.com/index/introducing-gpt-live": {
-"t": "GPT-Live 正式发布",
-"s": "新一代语音模型，实现自然的人机交互，现已为 ChatGPT 语音功能提供支持。"
-},
-"https://techcrunch.com/?p=3140297": {
-"t": "谷歌深度伪造检测系统用于揭穿麦康奈尔恶搞图片",
-"s": "本周早些时候，一张看似显示肯塔基州参议员米奇·麦康奈尔躺在病床上、浑身插满管子、极度痛苦的图片被证实是AI生成的伪造品。"
-},
 "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/": {
 "t": "诉讼：男子利用Grok制作7000张继女性感图片后自杀",
 "s": "更多年轻女孩因Grok生成的儿童性虐待材料起诉X平台；X被指控包庇儿童性侵犯者。"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=39306": {
 "t": "AI老板解雇了首位员工，但仅在人类提醒其自身规则之后",
 "s": "Andon Labs的AI代理Luna在旧金山一家门店首次解雇了一名人类员工，但这一决定是在操作员明确推动下才做出的。当用七个模型重演这一场景时，能力更强的AI更一致地建议解雇，而较弱的模型则犹豫不决。在招聘方面，几乎所有模型都缺乏批判性。文章《AI老板解雇了首位员工，但仅在人类提醒其自身规则之后》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3155879": {
+"t": "新“隐形模型”Ox Alpha背后是谁？",
+"s": "一个名为Ox Alpha的神秘新AI模型，在互联网的某些角落引发了疯狂的猜测。"
+},
+"https://www.marktechpost.com/?p=81832": {
+"t": "Harvey推出Harvey Tenet：基于Kimi K3底座、采用Fireworks进行后训练，专为长周期法律代理工作设计",
+"s": "Harvey的首个后训练模型在LAB任务完成率上几乎翻倍，但目前仅有一个基准数据通过了独立验证。该文章最初发布在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=81826": {
+"t": "认识FreeToken：一款边缘原生MoE服务引擎，可在单工作站GPU上运行753B GLM-5.2",
+"s": "FreeToken利用实测带宽，在PCIe填充和CPU执行之间分配MoE缓存未命中，从而在本地解锁前沿模型。该文章《Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU》首发于MarkTechPost。"
 }
 }
