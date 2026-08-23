@@ -1,12 +1,4 @@
 {
-"https://github.blog/?p=97349": {
-"t": "GitHub Copilot 如何实现 GitHub Pages 的零 DNS 配置",
-"s": "从空仓库到拥有 HTTPS 的自定义域名上线，仅需约 14 分钟，无需手动编辑任何 DNS 记录。本文《How GitHub Copilot enables zero DNS configuration for GitHub Pages》最初发布于 GitHub 博客。"
-},
-"https://the-decoder.com/?p=37510": {
-"t": "Anthropic的Claude Fable 5以高昂成本领跑新行业基准测试",
-"s": "Anthropic的Claude Fable 5在Artificial Analysis发布的所有六项新行业性能指标中拔得头筹，涵盖金融、法律和医学领域。但这一领先地位代价高昂。在战略与运营指数中，Fable 5单次任务运行成本为3.48美元，是DeepSeek V4 Pro收费0.03美元的百倍以上，而两者得分差距仅为12分。本文《Anthropic的Claude Fable 5以高昂成本领跑新行业基准测试》首发于The Decoder。"
-},
 "https://techcrunch.com/?p=3139890": {
 "t": "这些AI初创公司正以越来越快的速度实现营收增长",
 "s": "许多AI初创公司增长迅速，但据称其中一些公司的增速更为惊人。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=81820": {
 "t": "Vercel推出“Is Agentic”，一款免费代理就绪评分工具，利用Ora的100多项检查审计公共网站",
 "s": "Vercel与Ora联合推出了Is Agentic，这是一款免费审计工具，通过118项检查评估网站对AI代理的适配程度。该文章最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=39355": {
+"t": "AI正成为AI最大的客户，OpenRouter上代理型令牌使用量激增14倍",
+"s": "自2025年2月6日起，OpenRouter上AI代理消耗的令牌数量已超过人类。此后，代理型使用量增长了14倍，而人类使用量仅增长2.8倍。然而，代理令牌消耗中近70%来自廉价的缓存提示，因此实际成本上升速度远低于原始数据所显示的水平。文章《AI正成为AI最大的客户，OpenRouter上代理型令牌使用量激增14倍》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39351": {
+"t": "研究称，AI可能让科学家做更多工作但质量下降，而非减少工作提升质量",
+"s": "即使语言模型完美运作，它们也可能使研究变得更糟而非更好。一项新的理论研究表明，由于AI节省了时间，研究人员剩余的时间变得更加宝贵，并被投入到启动新项目而非改进现有项目中。在三种模拟情景中的两种里，单篇论文的质量有所下降。文章《研究称，AI可能让科学家做更多工作但质量下降，而非减少工作提升质量》首发于The Decoder。"
 }
 }
