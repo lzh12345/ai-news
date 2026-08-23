@@ -1,20 +1,4 @@
 {
-"https://techcrunch.com/?p=3140026": {
-"t": "Meta希望其AI眼镜不再那么令人毛骨悚然，但其AI战略却另有暗示。",
-"s": "Meta正在增加一项新的保护措施，以防止人们使用其AI眼镜偷偷录制他人。然而，这项更新发布之际，该公司仍在继续扩大其AI产品收集和使用个人数据的范围。"
-},
-"https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/": {
-"t": "谷歌更新Android Bench，引入新的大语言模型，但Gemini仍落后",
-"s": "Android Bench正在不断演进，开发者可以协助引导这一进程。"
-},
-"https://the-decoder.com/?p=37516": {
-"t": "Anthropic解决Fable 5高成本的方案：将其转变为向Sonnet 5委派任务的“管理者”",
-"s": "Anthropic建议将昂贵的Claude Fable 5主要用作较小模型的规划器，而非在每个任务上都运行它。通过与Sonnet 5结合使用“顾问”模式，这一设置能以Fable 5单独运行63%的成本，达到其92%的性能。本文《Anthropic解决Fable 5高成本的方案：将其转变为向Sonnet 5委派任务的“管理者”》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3140126": {
-"t": "Prime Intellect 完成1.3亿美元A轮融资，助力企业构建自有AI代理",
-"s": "Prime Intellect成立于2024年，其目标是为组织提供训练自有代理系统的能力，使其无需依赖前沿AI实验室。"
-},
 "https://github.blog/?p=97349": {
 "t": "GitHub Copilot 如何实现 GitHub Pages 的零 DNS 配置",
 "s": "从空仓库到拥有 HTTPS 的自定义域名上线，仅需约 14 分钟，无需手动编辑任何 DNS 记录。本文《How GitHub Copilot enables zero DNS configuration for GitHub Pages》最初发布于 GitHub 博客。"
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3155861": {
 "t": "哈佛699美元创业训练营提供AI导师化身",
 "s": "在HBS Foundry项目中，AI化身在模拟路演和董事会会议中提供反馈。"
+},
+"https://the-decoder.com/?p=39347": {
+"t": "据报道，内存短缺推动英伟达AI服务器价格上涨约15%",
+"s": "据彭博社报道，由于三星、SK海力士和美光持续的DRAM短缺，搭载Vera Rubin和Grace Blackwell芯片的英伟达服务器价格将上涨约15%。此次涨价波及微软、谷歌和Meta等云巨头，它们正投入数十亿美元建设AI基础设施，同时也在资助那些试图摆脱依赖的供应商的市场主导地位。文章《内存短缺据报道推动英伟达AI服务器价格上涨约15%》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81823": {
+"t": "使用deepDoctection构建端到端文档智能流水线",
+"s": "使用deepDoctection构建端到端文档智能流水线。本教程涵盖配置布局分析、DocTR OCR和表格提取，同时演示如何为实体识别实现自定义服务，并为您的RAG工作流生成结构化JSONL数据。该文章《使用deepDoctection构建端到端文档智能流水线》首次出现在MarkTechPost上。"
+},
+"https://the-decoder.com/?p=39290": {
+"t": "中国灰色市场如何以极低价格出售Claude令牌",
+"s": "Anthropic对中国实施的严格访问控制，从地理封锁到自拍验证，正被一个蓬勃发展的所谓“中转站”网络系统性地绕过。中国开发者可以以低至标价10%的价格购买Claude令牌。分析师钱子兰警告称，这种规避基础设施削弱了出口管制和Anthropic自身的安全系统。文章《中国灰色市场如何以极低价格出售Claude令牌》首发于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81820": {
+"t": "Vercel推出“Is Agentic”，一款免费代理就绪评分工具，利用Ora的100多项检查审计公共网站",
+"s": "Vercel与Ora联合推出了Is Agentic，这是一款免费审计工具，通过118项检查评估网站对AI代理的适配程度。该文章最初发表于MarkTechPost。"
 }
 }

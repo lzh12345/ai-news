@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 23 Aug 2026 04:28:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 08:19:37 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>据报道，内存短缺推动英伟达AI服务器价格上涨约15%</title>
+<link>https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39347</guid>
+<pubDate>Sun, 23 Aug 2026 08:15:28 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据彭博社报道，由于三星、SK海力士和美光持续的DRAM短缺，搭载Vera Rubin和Grace Blackwell芯片的英伟达服务器价格将上涨约15%。此次涨价波及微软、谷歌和Meta等云巨头，它们正投入数十亿美元建设AI基础设施，同时也在资助那些试图摆脱依赖的供应商的市场主导地位。文章《内存短缺据报道推动英伟达AI服务器价格上涨约15%》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用deepDoctection构建端到端文档智能流水线</title>
+<link>https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81823</guid>
+<pubDate>Sun, 23 Aug 2026 07:51:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】使用deepDoctection构建端到端文档智能流水线。本教程涵盖配置布局分析、DocTR OCR和表格提取，同时演示如何为实体识别实现自定义服务，并为您的RAG工作流生成结构化JSONL数据。该文章《使用deepDoctection构建端到端文档智能流水线》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>中国灰色市场如何以极低价格出售Claude令牌</title>
+<link>https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39290</guid>
+<pubDate>Sun, 23 Aug 2026 07:48:33 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic对中国实施的严格访问控制，从地理封锁到自拍验证，正被一个蓬勃发展的所谓“中转站”网络系统性地绕过。中国开发者可以以低至标价10%的价格购买Claude令牌。分析师钱子兰警告称，这种规避基础设施削弱了出口管制和Anthropic自身的安全系统。文章《中国灰色市场如何以极低价格出售Claude令牌》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Vercel推出“Is Agentic”，一款免费代理就绪评分工具，利用Ora的100多项检查审计公共网站</title>
+<link>https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81820</guid>
+<pubDate>Sun, 23 Aug 2026 07:37:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Vercel与Ora联合推出了Is Agentic，这是一款免费审计工具，通过118项检查评估网站对AI代理的适配程度。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>面向企业AI安全的NeMo Guardrails开发者指南</title>
 <link>https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/</link>
@@ -176,14 +208,6 @@
 <description><![CDATA[【the-decoder.com】根据Heatmap News的一项调查，如今四分之三的美国人反对在其附近建设数据中心，而一年前这一比例还仅为半数持平。其中61%的人表示“强烈反对”。这篇文章《数据中心反对率一年内从42%飙升至75%，调查发现》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>美国欲迫使伙伴国在AI竞赛中选边站，于华盛顿与北京之间抉择</title>
-<link>https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39298</guid>
-<pubDate>Fri, 21 Aug 2026 15:18:29 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据路透社报道，美国正在起草一封信函，告知伙伴国在华盛顿与北京的人工智能对峙中必须选边站。该文章《美国欲迫使伙伴国在AI竞赛中选边站，于华盛顿与北京之间抉择》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Starcloud融资2.5亿美元建设轨道数据中心，发射选项日益稀缺</title>
 <link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3155064</guid>
@@ -206,14 +230,6 @@
 <pubDate>Fri, 21 Aug 2026 11:59:48 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】谷歌DeepMind与游戏工作室合作，原型验证突破性AI游戏玩法。<br/><br/><a href="https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Waymo自研芯片用于其自动驾驶出租车，减少对Nvidia的依赖</title>
-<link>https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39279</guid>
-<pubDate>Fri, 21 Aug 2026 11:04:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Waymo为其自动驾驶出租车自主研发了芯片，从而降低了对Nvidia的依赖。这篇文章《Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta AI眼镜需求激增，难以避免令人不安的录音</title>
@@ -376,14 +392,6 @@
 <description><![CDATA[【arstechnica.com】加密上下文注入只是突破大语言模型安全护栏的最新手段。<br/><br/><a href="https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>审计偏好偏差并使用TRL和LoRA在Anthropic HH-RLHF上通过直接偏好优化微调语言模型</title>
-<link>https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81771</guid>
-<pubDate>Thu, 20 Aug 2026 08:51:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】本教程提供了一个使用直接偏好优化（DPO）微调语言模型的端到端工作流程。我们演示了如何审计Anthropic HH-RLHF数据集中的结构性和长度偏差，使用TRL和LoRA实现稳健的训练流程，并评估模型性能，以确保真正的偏好学习而非依赖词汇捷径。文章《审计偏好偏差并使用TRL和LoRA在Anthropic HH-RLHF上通过直接偏好优化微调语言模型》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>推出AI未来</title>
 <link>https://openai.com/index/introducing-ai-futures</link>
 <guid isPermaLink="false">https://openai.com/index/introducing-ai-futures</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 19 Aug 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Replit推出免费模式，由GPT-5.6 Luna驱动，让任何人都能将想法转化为可运行的软件，无需担心令牌成本。<br/><br/><a href="https://openai.com/index/replit">阅读原文</a>]]></description>
-</item>
-<item>
-<title>审视大语言模型中的人类类似行为：模型行为、用户因素与系统提示的多维度分析</title>
-<link>https://machinelearning.apple.com/research/human-like-behaviors-llms</link>
-<guid isPermaLink="false">human-like-behaviors-llms</guid>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】大语言模型（LLMs）展现出广泛的人类类似行为，从表达思想和情感，到与用户建立关系，再到拒绝请求和维护界限。尽管这些行为普遍存在，但研究人员和从业者缺乏方法和实证见解，无法就LLMs应在何时以及展现何种类型的人类类似行为做出明智决策。为填补这一空白，我们利用LLM作为评判者和人工评估，对这些行为的普遍性、潜在影响和可控性进行了多维度分析。在21,000项...<br/><br/><a href="https://machinelearning.apple.com/research/human-like-behaviors-llms">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
