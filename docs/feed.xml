@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 22 Aug 2026 20:13:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 00:49:54 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>面向企业AI安全的NeMo Guardrails开发者指南</title>
+<link>https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81814</guid>
+<pubDate>Sat, 22 Aug 2026 23:49:38 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们探讨如何使用NeMo Guardrails框架为基于LLM的应用设计生产级安全性。我们超越简单的提示过滤，实现分层架构，包括确定性PII脱敏、检索过滤、输出掩码和基于策略的工具门控。通过集成有状态多轮评估和详细的激活追踪，我们展示了如何构建一个可审计、安全且成本高效的AI助手，能够管理敏感的金融交互，同时维持严格的合规标准。<br/><br/><a href="https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>哈佛699美元创业训练营提供AI导师化身</title>
+<link>https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3155861</guid>
+<pubDate>Sat, 22 Aug 2026 21:46:56 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在HBS Foundry项目中，AI化身在模拟路演和董事会会议中提供反馈。<br/><br/><a href="https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>由DeepMind校友创立的Inherent称，其AI“队友”在复现研究方面超越了Anthropic和OpenAI</title>
 <link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
@@ -352,14 +368,6 @@
 <description><![CDATA[【techcrunch.com】Meta正在将其实验性AI驱动应用Pocket推广至全美用户，该应用用于创建和分享互动游戏，此前已在巴西悄然测试。<br/><br/><a href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>惯性企业找到快速制造聚变燃料的方法</title>
-<link>https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3154855</guid>
-<pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】聚变能源初创公司惯性企业将燃料填充过程从一周缩短至仅需数小时。这是该公司为实现盈利电厂必须克服的十大障碍之一。<br/><br/><a href="https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>恶意指令加密时，Grok会泄露用户数据</title>
 <link>https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】大语言模型（LLMs）展现出广泛的人类类似行为，从表达思想和情感，到与用户建立关系，再到拒绝请求和维护界限。尽管这些行为普遍存在，但研究人员和从业者缺乏方法和实证见解，无法就LLMs应在何时以及展现何种类型的人类类似行为做出明智决策。为填补这一空白，我们利用LLM作为评判者和人工评估，对这些行为的普遍性、潜在影响和可控性进行了多维度分析。在21,000项...<br/><br/><a href="https://machinelearning.apple.com/research/human-like-behaviors-llms">阅读原文</a>]]></description>
-</item>
-<item>
-<title>倒排索引遍历的P完全性：论布尔查询DAG评估的复杂性</title>
-<link>https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal</link>
-<guid isPermaLink="false">the-p-completeness-of-inverted-index-traversal</guid>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】现代AI代理日益依赖搜索基础设施来执行复杂的神经符号推理工作流。这些工作流通常编译为对文本字段的深层嵌套、非单调布尔查询。然而，标准查询评估策略在处理这些结构时面临严重的理论限制。有状态迭代器模型（文档逐次处理）在结构上受限于NC^1公式评估，在展开重汇聚逻辑时，查询复杂度会遭遇最坏情况下的O(2^|Q|)指数级爆炸。相反，递归物化模型……<br/><br/><a href="https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
