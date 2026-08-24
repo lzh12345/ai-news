@@ -1,32 +1,4 @@
 {
-"https://the-decoder.com/?p=37535": {
-"t": "Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要",
-"s": "xAI 发布了 Grok 4.5，该模型在数万块 Nvidia GB300 GPU 上训练而成。在编程基准测试中，该模型落后于 Fable 5 和 GPT-5.5，但所需 token 数比 Opus 4.8 少 4.2 倍。以每百万输入 token 2 美元的价格计算，其成本仅为竞争对手的一小部分。预计将于 7 月中旬在欧盟上市。文章《Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3140180": {
-"t": "Google Photos 新增AI“视频混剪”工具",
-"s": "该功能可对昏暗视频应用电影级补光、将平淡背景替换为趣味场景，或为视频添加艺术风格效果。"
-},
-"https://the-decoder.com/?p=37527": {
-"t": "ChatGPT 现在可以同时听和说，让AI对话更显人性化",
-"s": "OpenAI的GPT-Live采用全双工架构，能够同时进行听和说。复杂问题会在后台交由GPT-5.5处理，大幅提升回复质量。GPT-Live-1现已面向付费ChatGPT用户开放，免费账户可使用迷你版本。API访问即将推出。本文《ChatGPT can now listen and talk at the same time, making AI conversations seem more human》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?post_type=tc_video&p=3140196": {
-"t": "这位CEO为何认为电子游戏比互联网更适合作为训练数据",
-"s": "在实现通用人工智能（AGI）方面，大型语言模型并不具备所需的能力。像ChatGPT和Claude这样的模型在文本处理上表现出色，但在理解事物如何在空间和时间中实际运动方面却较为欠缺——这是产生具有泛化能力的智能所必需的关键技能。这一差距，或许可以通过游戏数据来填补。这正是General Intuition公司所押注的方向……"
-},
-"https://the-decoder.com/?p=37524": {
-"t": "Mistral 进军机器人领域，推出 Robostral Navigate：仅凭单摄像头即可操控机器人的 8B 模型",
-"s": "Mistral 正进军机器人市场，推出 Robostral Navigate——一款仅凭单个 RGB 摄像头就能引导机器人在未知环境中导航的 8B 模型。该模型在模拟环境中训练，并通过强化学习（CISPO）进行优化，在 R2R-CE 基准测试中达到了 76.6% 的准确率。Mistral 尚未公布该模型的具体上市时间。本文《Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3140033": {
-"t": "OpenAI 发布新语音模型，实现更自然的实时对话",
-"s": "OpenAI 表示，其新语音模式能够同时进行说话和聆听，这是实现实时翻译的关键能力。"
-},
-"https://openai.com/index/government-national-security-partnerships": {
-"t": "我们与政府及国家安全合作的方针",
-"s": "了解OpenAI如何以负责任的人工智能使用、民主问责制和公共安全为原则，开展与政府及国家安全的合作。"
-},
 "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
 "t": "在编程评估中区分信号与噪声",
 "s": "OpenAI的一项新分析揭示了热门编程基准测试SWE-Bench Pro存在的问题，引发了对评估AI模型可靠性和准确性的担忧。"
@@ -4798,5 +4770,33 @@
 "https://the-decoder.com/?p=39363": {
 "t": "英伟达洽谈投资Perplexity，估值超300亿美元",
 "s": "据The Information报道，英伟达正在洽谈对Perplexity的投资，估值超过300亿美元，较上一轮融资高出逾50%。Perplexity的年化收入已增长两倍，超过7.5亿美元。英伟达的投资资金往往在投资组合公司购买其芯片时回流为收入。文章《英伟达洽谈投资Perplexity，估值超300亿美元》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39384": {
+"t": "阿里巴巴Wan3.0可从文本、图像和文档生成最长30秒的AI视频",
+"s": "阿里巴巴的视频生成模型Wan3.0能够从文本、PDF和PowerPoint文件生成最长30秒的片段。一段30秒的1080p片段费用为6美元。随着公司加大AI投入，阿里巴巴季度利润同比下降75%。文章《阿里巴巴Wan3.0可从文本、图像和文档生成最长30秒的AI视频》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3155937": {
+"t": "Valor、Point72 投资 General Intuition，估值达60亿美元，AI初创公司进军机器人领域",
+"s": "General Intuition，一家构建基础模型以训练通用AI代理在空间和时间中移动的初创公司，正在洽谈以60亿美元的投资前估值，从包括 Valor Ventures、Point72 Ventures 和 Seven Seven Six 在内的新投资者处筹集资金。"
+},
+"https://techcrunch.com/?p=3155884": {
+"t": "OpenAI正在为一切构建AI代理。它们会被所有人使用吗？",
+"s": "前沿实验室正推动AI代理从软件工程师走向大众。"
+},
+"https://the-decoder.com/?p=39381": {
+"t": "恶意AI代理利用虚假账户和一场精心策划的道歉，将恶意软件植入开源项目",
+"s": "一个恶意AI代理以公开道歉作为欺骗手段，同时悄悄在其拉取请求中植入新恶意软件。文章《恶意AI代理利用虚假账户和一场精心策划的道歉，将恶意软件植入开源项目》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3155919": {
+"t": "据报道，Hugging Face正洽谈以130亿美元被收购",
+"s": "据报道，Hugging Face已收到多份收购要约，估值约130亿美元。然而，鉴于创始人对社区的责任感，此次出售能否成行存疑。"
+},
+"https://the-decoder.com/?p=39375": {
+"t": "汤森路透豪掷4000万美元自建AI，而非租用OpenAI或Anthropic的服务",
+"s": "汤森路透推出自研语言模型“Thomson”，基于阿里巴巴的Qwen构建，两年成本约4000万美元。但基准测试显示，仅当模型能接入公司自有内容（如Westlaw）时，才能取得顶尖成绩。首席技术官乔尔·赫伦指出，关键不在于智能本身，而在于知道哪些智能需要自主拥有。文章《汤森路透豪掷4000万美元自建AI，而非租用OpenAI或Anthropic的服务》首发于The Decoder。"
+},
+"internalized-visual-thinking": {
+"t": "超越视觉思维链：面向主动视频推理的内化视觉思考",
+"s": "多模态大语言模型日益采用视觉思维链（Visual CoT）来推理空间、时间和具身环境。通过生成中间推理图像，视觉思维链为视觉预见提供了一种直观机制，但引入了显著的推理开销，这对主动视频推理尤为不利。我们探究模型是否能在训练期间学会视觉思考，同时在推理时直接进行推理。我们提出了内化视觉思考（IVT），一种联合优化文本预测和…的后训练框架。"
 }
 }
