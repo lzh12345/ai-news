@@ -1,40 +1,4 @@
 {
-"https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
-"t": "在编程评估中区分信号与噪声",
-"s": "OpenAI的一项新分析揭示了热门编程基准测试SWE-Bench Pro存在的问题，引发了对评估AI模型可靠性和准确性的担忧。"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3140197": {
-"t": "贝佐斯支持的初创公司称，你的游戏数据可能是实现通用人工智能的关键",
-"s": "在实现通用人工智能（AGI）方面，大型语言模型并不具备所需的能力。像ChatGPT和Claude这样的模型擅长处理文本，但在理解事物如何在空间和时间中实际运动方面能力较弱——而这正是产生泛化智能所必需的技能。事实证明，这一差距可能由游戏数据来填补。这正是General Intuition公司所押注的方向。"
-},
-"https://www.marktechpost.com/?p=80919": {
-"t": "Robbyant发布LingBot-VLA 2.0：一个用于跨实体机器人操作的开源6B视觉-语言-动作（VLA）模型",
-"s": "蚂蚁集团的Robbyant发布了LingBot-VLA 2.0，这是一个基于Apache-2.0许可的视觉-语言-动作模型，用于跨实体机器人操作。该6B检查点在大约6万小时的数据上进行了预训练，涵盖20种机器人配置的5万小时机器人轨迹和1万小时第一人称人类视频。它将每个实体映射到一个单一的55维规范动作空间，覆盖手臂、灵巧手、腰部、头部和移动底座。一个基于令牌级、无辅助损失的混合专家动作专家在不增加负载平衡损失的情况下扩展了容量。双查询蒸馏"
-},
-"https://www.marktechpost.com/?p=80914": {
-"t": "SpaceXAI 发布 Grok 4.5，一款针对编程、智能体任务和知识工作训练的 Cursor 模型，输入价格每百万 token 2 美元",
-"s": "SpaceXAI 发布了 Grok 4.5，这是一款基于 Cursor 训练的模型，专为编程、智能体任务和知识工作设计。该模型以每秒 80 个 token 的速度运行，每百万 token 成本为 2 美元（输入）/6 美元（输出），并在 Harvey 法律智能体基准测试中排名第一。本文 SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input 最早出现在 MarkTechPost 上。"
-},
-"https://techcrunch.com/?p=3140358": {
-"t": "Lovable 据称正洽谈将估值翻倍至132亿美元",
-"s": "据Sifted报道，这轮3亿美元的融资预计将由Menlo Ventures领投。"
-},
-"https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/": {
-"t": "怀疑学生用AI作弊，常春藤教授要求线下期末考试；成绩下降50%",
-"s": "教授称AI作弊将导致“一个失败的社会”。"
-},
-"https://github.blog/?p=97282": {
-"t": "使用 GitHub Agentic Workflows 自动化跨仓库文档",
-"s": "探索 Aspire 团队如何将合并的产品变更转化为经专家评审的文档拉取请求，从而缩小发布与文档之间的差距。本文最初发布于 GitHub 博客。"
-},
-"https://www.marktechpost.com/?p=80911": {
-"t": "Netflix AI团队通过按ID拆分Cassandra分区，将宽分区读取延迟从秒级降至毫秒级",
-"s": "Netflix工程师详细介绍了他们如何在Apache Cassandra中处理宽分区，以支持时间序列抽象。两种方法协同工作：时间切片重新分区在表级别调整未来分区，而动态分区则在读取路径上按时间序列ID检测并拆分过大的分区。检测通过字节计数和Kafka进行，拆分经过校验和验证，布隆过滤器将读取路由到并行的子分区。平均读取延迟从秒级降至低两位数毫秒级，500MB以上的分区仍保持可用。"
-},
-"https://www.marktechpost.com/?p=80907": {
-"t": "Google AI Studio 在构建模式中新增“从 GitHub 导入”功能，将现有仓库转化为可编辑、可部署的应用",
-"s": "Google AI Studio 正在推出构建模式下的“从 GitHub 导入”功能。该功能可将现有仓库转换为运行时兼容的格式，随后开发者可以对其进行迭代、部署等操作。以下是这一变化对开发者的影响。本文首发于 MarkTechPost。"
-},
 "https://www.marktechpost.com/?p=80903": {
 "t": "OpenAI 发布 GPT-Live 和 GPT-Live-1 mini：全双工语音模型，将深层推理委托给 GPT-5.5",
 "s": "OpenAI 发布了 GPT-Live，这是一款新一代语音模型，现已为 ChatGPT Voice 提供支持。它采用全双工架构，能够同时听和说，并将搜索和推理任务委托给 GPT-5.5。本文《OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5》最初发表于 MarkTechPost。"
@@ -4798,5 +4762,41 @@
 "internalized-visual-thinking": {
 "t": "超越视觉思维链：面向主动视频推理的内化视觉思考",
 "s": "多模态大语言模型日益采用视觉思维链（Visual CoT）来推理空间、时间和具身环境。通过生成中间推理图像，视觉思维链为视觉预见提供了一种直观机制，但引入了显著的推理开销，这对主动视频推理尤为不利。我们探究模型是否能在训练期间学会视觉思考，同时在推理时直接进行推理。我们提出了内化视觉思考（IVT），一种联合优化文本预测和…的后训练框架。"
+},
+"https://techcrunch.com/?p=3156061": {
+"t": "Replit CEO兼联合创始人Amjad Masad将亮相TechCrunch Disrupt 2026大会主舞台",
+"s": "在TechCrunch Disrupt 2026大会上，Replit首席执行官Amjad Masad将分享他对编程未来及Replit在推动这一发展中所扮演角色的见解。"
+},
+"01M0TDEVJZ66N7RGSKFA27M2WZ": {
+"t": "Cloudflare博客——由EmDash为您呈现",
+"s": "我们将Cloudflare博客迁移至EmDash，以在大规模场景下验证我们的技术栈。以下是我们在性能压力测试、安全路由生产流量以及重新设计前端体验方面的具体做法。"
+},
+"https://the-decoder.com/?p=39392": {
+"t": "皮尤研究证实自ChatGPT发布以来，网络上AI撰写文本急剧增加",
+"s": "皮尤研究中心分析了近50万个英文网页中的AI生成内容。自ChatGPT发布以来，超过三分之一的网页显示出机器撰写文本的迹象，商业.com网站包含AI内容的可能性是.edu或.gov域名的十倍。文章《皮尤研究证实自ChatGPT发布以来，网络上AI撰写文本急剧增加》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3155931": {
+"t": "Instinct的强大AI助手引发隐私与安全担忧",
+"s": "早期测试者对Instinct的功能赞不绝口，但一些人指出，该AI助手的广泛访问权限、宽泛条款及代表用户行动的能力，伴随着令人不安的权衡取舍。"
+},
+"https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": {
+"t": "英伟达高级经理涉嫌参与超微向中国走私AI服务器计划",
+"s": "英伟达员工在黄仁勋斥责超微走私AI服务器后遭到起诉。"
+},
+"https://www.marktechpost.com/?p=81850": {
+"t": "通用人工智能发布GEN-1.5：一个能从3-12秒演示中学习新任务的机器人基础模型",
+"s": "通用人工智能发布了GEN-1.5，这是一个能从单一演示中学习新物理任务的机器人基础模型。将3-12秒的感觉运动数据放入其30秒的上下文窗口中，机器人即可执行该任务。无需梯度更新、无需微调、无需特定任务编程。在10项多样化的操作任务中，这种一次性上下文提示平均达到59%的成功率[…] 该文章《通用人工智能发布GEN-1.5：一个能从3-12秒演示中学习新任务的机器人基础模型》最初出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=81846": {
+"t": "谷歌研究院推出ME-POIs：一种将“地点使用方式”融入基于文本的POI嵌入的移动感知框架",
+"s": "该框架将聚合的人类移动行为融入基于文本的地点嵌入中。语言模型描述地点是什么，却忽略了它们如何被使用。ME-POIs将每次访问编码为上下文向量，并通过对比学习将其与每个POI的一个可学习原型对齐，然后将访问分布从数据丰富的锚点转移到三个空间尺度上的长尾部分。在洛杉矶和休斯顿的移动数据上进行的五项地图增强任务中，添加ME-POIs在洛杉矶的35个模型-任务配对中改善了34个——访问意图的相对F1提升高达81.9%，MAE降低24.7%。"
+},
+"https://openai.com/index/gpt-5-6-in-kiro": {
+"t": "Kiro 中推出 GPT-5.6，为开发者提升性价比",
+"s": "GPT-5.6 现已登陆 Kiro，助力开发者以更优性价比规划、构建、审查和测试软件。"
+},
+"https://techcrunch.com/?p=3155800": {
+"t": "迈克尔·波兰斯基正在用活体皮肤训练AI模型",
+"s": "迈克尔·波兰斯基——公众更熟知的身份是Lady Gaga的伴侣及肖恩·帕克的前高级副手——多年来一直低调打造一家AI驱动的初创公司，该公司能在体外维持活体人类皮肤组织存活数周，以发现新的护肤成分，直到现在才公开这一项目。"
 }
 }
