@@ -1,16 +1,4 @@
 {
-"https://github.blog/?p=97408": {
-"t": "GitHub 可用性报告：2026年6月",
-"s": "6月份，我们遇到了六起导致GitHub服务性能下降的事件。此篇GitHub可用性报告：2026年6月最初发布于GitHub博客。"
-},
-"https://techcrunch.com/?p=3140162": {
-"t": "SpaceXAI 发布 Grok 4.5，马斯克称其为“Opus 级模型”",
-"s": "埃隆·马斯克的科技公司于周三发布了最新版本的 Grok，承诺提供一种比其他强大 AI 模型更便宜、更高效的替代方案。"
-},
-"https://techcrunch.com/?p=3140241": {
-"t": "这家初创公司认为机器人技术即将迎来其ChatGPT时刻",
-"s": "General Intuition押注数百万小时的视频游戏数据可以训练物理AI的基础模型，从而用最少的现实世界数据更轻松地构建更智能的机器人。"
-},
 "https://the-decoder.com/?p=37535": {
 "t": "Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要",
 "s": "xAI 发布了 Grok 4.5，该模型在数万块 Nvidia GB300 GPU 上训练而成。在编程基准测试中，该模型落后于 Fable 5 和 GPT-5.5，但所需 token 数比 Opus 4.8 少 4.2 倍。以每百万输入 token 2 美元的价格计算，其成本仅为竞争对手的一小部分。预计将于 7 月中旬在欧盟上市。文章《Grok 4.5 与 Fable 5 和 GPT 5.5 相比价格低廉，基准测试差距可能无关紧要》最初发表于 The Decoder。"
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=81837": {
 "t": "使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化",
 "s": "在本教程中，我们探索了一种受LabPlot启发的Python科学数据分析工作流程，同时保留了LabPlot的方面树结构、分析内核、绘图系统和项目模型的术语与组织方式。我们构建可复用的组件来导入表格数据、计算描述性统计量、平滑和微分信号、执行傅里叶分析与滤波、检测峰值、积分曲线、减少[…] 该文章《使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化》首次出现在MarkTechPost上。"
+},
+"https://the-decoder.com/?p=39372": {
+"t": "Cerebras发布CS-4，同芯片性能翻倍",
+"s": "Cerebras推出了其CS-4 AI加速器，CEO Andrew Feldman称其为业界最快的系统。文章《Cerebras unveils CS-4 with double the performance on the same chip》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39366": {
+"t": "AI聊天机器人常将怀孕用户引向反堕胎网站且不披露立场",
+"s": "当被问及意外怀孕时，AI聊天机器人经常链接到反堕胎组织，却不披露其立场。在AlgorithmWatch对ChatGPT、Gemini、Grok和Claude的270条回复的调查中，反堕胎组织Profemina出现在17%的答案中。在德国，聊天机器人还将用户引导至Caritas进行强制堕胎前咨询，尽管Caritas并不签发法律要求的证明。文章《AI聊天机器人常将怀孕用户引向反堕胎网站且不披露立场》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39363": {
+"t": "英伟达洽谈投资Perplexity，估值超300亿美元",
+"s": "据The Information报道，英伟达正在洽谈对Perplexity的投资，估值超过300亿美元，较上一轮融资高出逾50%。Perplexity的年化收入已增长两倍，超过7.5亿美元。英伟达的投资资金往往在投资组合公司购买其芯片时回流为收入。文章《英伟达洽谈投资Perplexity，估值超300亿美元》首发于The Decoder。"
 }
 }

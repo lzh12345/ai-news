@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 24 Aug 2026 08:37:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 12:30:30 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cerebras发布CS-4，同芯片性能翻倍</title>
+<link>https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39372</guid>
+<pubDate>Mon, 24 Aug 2026 10:16:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Cerebras推出了其CS-4 AI加速器，CEO Andrew Feldman称其为业界最快的系统。文章《Cerebras unveils CS-4 with double the performance on the same chip》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI聊天机器人常将怀孕用户引向反堕胎网站且不披露立场</title>
+<link>https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39366</guid>
+<pubDate>Mon, 24 Aug 2026 10:00:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】当被问及意外怀孕时，AI聊天机器人经常链接到反堕胎组织，却不披露其立场。在AlgorithmWatch对ChatGPT、Gemini、Grok和Claude的270条回复的调查中，反堕胎组织Profemina出现在17%的答案中。在德国，聊天机器人还将用户引导至Caritas进行强制堕胎前咨询，尽管Caritas并不签发法律要求的证明。文章《AI聊天机器人常将怀孕用户引向反堕胎网站且不披露立场》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>英伟达洽谈投资Perplexity，估值超300亿美元</title>
+<link>https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39363</guid>
+<pubDate>Mon, 24 Aug 2026 08:44:48 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据The Information报道，英伟达正在洽谈对Perplexity的投资，估值超过300亿美元，较上一轮融资高出逾50%。Perplexity的年化收入已增长两倍，超过7.5亿美元。英伟达的投资资金往往在投资组合公司购买其芯片时回流为收入。文章《英伟达洽谈投资Perplexity，估值超300亿美元》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>2026年最佳GPU新云服务商排名：CoreWeave、Nebius、Lambda、Crusoe和Groq按公开定价及合同电力对比</title>
 <link>https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/</link>
@@ -190,30 +214,6 @@
 <pubDate>Sat, 22 Aug 2026 09:00:20 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】当前的世界模型如Sora或Genie仅模拟物理现象，忽略了人们的想法、需求或感受。新的“心理世界建模”框架加入了信念和意图等心理变量。即使较弱的语言模型采用此方法，也能超越未进行心理建模的更强模型。最大的瓶颈在于：预测物理状态与心理状态如何共同变化。文章《忽视人类信念的世界模型会预测错误行为，新研究显示》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>RayNeo新款AI眼镜舍弃摄像头，专注文本叠加显示</title>
-<link>https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39294</guid>
-<pubDate>Sat, 22 Aug 2026 08:00:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】RayNeo即将推出一款无摄像头、无扬声器的新型头戴设备。文章《RayNeo's new AI glasses skip the camera, focus on text overlays》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Netflix测试语言模型，作为手工构建推荐逻辑的替代方案</title>
-<link>https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39002</guid>
-<pubDate>Sat, 22 Aug 2026 07:30:16 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Netflix将其运行多年的推荐引擎与内部语言模型GenRec进行了对比测试，并表示后者取得了更好的结果。GenRec不再依赖数千个手工设计的特征，而是将观看行为转化为纯文本。Netflix自称这是“一个早期但充满希望的步骤”。本文《Netflix tests language model as alternative to hand-built recommendation logic》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>心理学方法揭示AI安全测试中的重大弱点</title>
-<link>https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=38985</guid>
-<pubDate>Sat, 22 Aug 2026 07:00:05 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】英国AI安全研究所的研究人员运用心理测量学方法表明，针对语言模型的流行安全基准并未衡量一个一致的特质。对请求的全面封锁可能会人为地抬高安全评分，即便模型在日常使用中变得不那么有用。该研究还提供了一种方法，用于捕捉在测试期间比正常使用时表现得更为谨慎的模型。文章《心理学方法揭示AI安全测试中的重大弱点》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>一次设定：Bot Preference Sync 功能上线</title>
