@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 24 Aug 2026 00:47:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 04:36:54 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化</title>
+<link>https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81837</guid>
+<pubDate>Mon, 24 Aug 2026 03:32:30 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们探索了一种受LabPlot启发的Python科学数据分析工作流程，同时保留了LabPlot的方面树结构、分析内核、绘图系统和项目模型的术语与组织方式。我们构建可复用的组件来导入表格数据、计算描述性统计量、平滑和微分信号、执行傅里叶分析与滤波、检测峰值、积分曲线、减少[…] 该文章《使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>新“隐形模型”Ox Alpha背后是谁？</title>
 <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
@@ -256,20 +264,20 @@
 <description><![CDATA[【techcrunch.com】Nvidia的研究表明，通过微调，AI代理即使模型本身在任务上表现平平，也能表现出色，且不会失控。<br/><br/><a href="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>美国司法部调查a16z，这对风险投资意味着什么？</title>
-<link>https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3155475</guid>
-<pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】安德森·霍洛维茨基金有两位合伙人分别担任相互竞争公司的董事会成员：本·霍洛维茨在Databricks，马丁·卡萨多在Fivetran。表面上看并无大碍，但据报道，美国司法部已对这一安排调查近一年，翻出了一部已有112年历史、很少针对风投公司使用的反垄断法。董事会冲突并不新鲜，而且a16z最初投资时，这些公司未必是直接竞争对手……<br/><br/><a href="https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Starcloud融资2.5亿美元建设轨道数据中心，发射选项日益稀缺</title>
 <link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3155064</guid>
 <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】一场争夺太空准入权的激烈竞争即将上演。<br/><br/><a href="https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>美国司法部调查a16z，这对风险投资意味着什么？</title>
+<link>https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3155475</guid>
+<pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】安德森·霍洛维茨基金有两位合伙人分别担任相互竞争公司的董事会成员：本·霍洛维茨在Databricks，马丁·卡萨多在Fivetran。表面上看并无大碍，但据报道，美国司法部已对这一安排调查近一年，翻出了一部已有112年历史、很少针对风投公司使用的反垄断法。董事会冲突并不新鲜，而且a16z最初投资时，这些公司未必是直接竞争对手……<br/><br/><a href="https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>从Atari到EVE Online：基于15年游戏AI研究的积累</title>
@@ -310,14 +318,6 @@
 <pubDate>Thu, 20 Aug 2026 22:36:37 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】企业用户愿意随着各实验室发布新模型而摇摆不定，这种波动性应让两家公司的投资者对“企业AI支出的粘性”究竟有多强保持警惕。<br/><br/><a href="https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>认识S1-mini：Superwhisper的462 MB开源权重文本规范化器，将原始ASR转录转为整洁书面文本</title>
-<link>https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81790</guid>
-<pubDate>Thu, 20 Aug 2026 22:23:17 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】S1-mini是一款462 MB的开源权重规范化器，置于ASR之后，本地去除填充词并解决自我修正问题。本文《认识S1-mini：Superwhisper的462 MB开源权重文本规范化器，将原始ASR转录转为整洁书面文本》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>ChatGPT现可通过新的Apple Messages插件代你发送短信</title>

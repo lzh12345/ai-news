@@ -1,8 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/": {
-"t": "诉讼：男子利用Grok制作7000张继女性感图片后自杀",
-"s": "更多年轻女孩因Grok生成的儿童性虐待材料起诉X平台；X被指控包庇儿童性侵犯者。"
-},
 "https://github.blog/?p=97408": {
 "t": "GitHub 可用性报告：2026年6月",
 "s": "6月份，我们遇到了六起导致GitHub服务性能下降的事件。此篇GitHub可用性报告：2026年6月最初发布于GitHub博客。"
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=81826": {
 "t": "认识FreeToken：一款边缘原生MoE服务引擎，可在单工作站GPU上运行753B GLM-5.2",
 "s": "FreeToken利用实测带宽，在PCIe填充和CPU执行之间分配MoE缓存未命中，从而在本地解锁前沿模型。该文章《Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU》首发于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81837": {
+"t": "使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化",
+"s": "在本教程中，我们探索了一种受LabPlot启发的Python科学数据分析工作流程，同时保留了LabPlot的方面树结构、分析内核、绘图系统和项目模型的术语与组织方式。我们构建可复用的组件来导入表格数据、计算描述性统计量、平滑和微分信号、执行傅里叶分析与滤波、检测峰值、积分曲线、减少[…] 该文章《使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化》首次出现在MarkTechPost上。"
 }
 }
