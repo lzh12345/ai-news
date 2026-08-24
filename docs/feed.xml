@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 24 Aug 2026 04:36:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 08:37:41 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>2026年最佳GPU新云服务商排名：CoreWeave、Nebius、Lambda、Crusoe和Groq按公开定价及合同电力对比</title>
+<link>https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81805</guid>
+<pubDate>Mon, 24 Aug 2026 05:26:43 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】五大GPU新云服务商目前运营模式差异显著。CoreWeave和Nebius向美国证券交易委员会报告；Lambda和Crusoe为私营企业，正筹备IPO；Groq在将其LPU技术授权给NVIDIA后，转型为推理云服务商。本对比评估各服务商的实时费率表、2026年第二季度财务数据、活跃及合同吉瓦数、锚定合同及SemiAnalysis ClusterMAX等级。Nebius提供最低的H100费率及唯一公开的B300价格，Lambda的B200价格最低，Crusoe是唯一在其费率卡上提供AMD产品的服务商，而CoreWeave则凭借其地位享有10-15%的溢价。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化</title>
 <link>https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/</link>
@@ -206,14 +214,6 @@
 <pubDate>Sat, 22 Aug 2026 07:00:05 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】英国AI安全研究所的研究人员运用心理测量学方法表明，针对语言模型的流行安全基准并未衡量一个一致的特质。对请求的全面封锁可能会人为地抬高安全评分，即便模型在日常使用中变得不那么有用。该研究还提供了一种方法，用于捕捉在测试期间比正常使用时表现得更为谨慎的模型。文章《心理学方法揭示AI安全测试中的重大弱点》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2026年最佳GPU新云服务商排名：CoreWeave、Nebius、Lambda、Crusoe和Groq按公开定价及合同电力对比</title>
-<link>https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81805</guid>
-<pubDate>Fri, 21 Aug 2026 23:20:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】五大GPU新云服务商目前运营模式差异显著。CoreWeave和Nebius向美国证券交易委员会报告；Lambda和Crusoe为私营企业，正筹备IPO；Groq在将其LPU技术授权给NVIDIA后，转型为推理云服务商。本对比评估各服务商的实时费率表、2026年第二季度财务数据、活跃及合同吉瓦数、锚定合同及SemiAnalysis ClusterMAX等级。Nebius提供最低的H100费率及唯一公开的B300价格，Lambda的B200价格最低，Crusoe是唯一在其费率卡上提供AMD产品的服务商，而CoreWeave则凭借其地位享有10-15%的溢价。<br/><br/><a href="https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>一次设定：Bot Preference Sync 功能上线</title>
