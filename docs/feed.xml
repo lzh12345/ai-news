@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 25 Aug 2026 00:46:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 04:30:45 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>情境感知，这家险些崩溃的明星AI对冲基金，现正受到美国证券交易委员会调查</title>
@@ -14,6 +14,14 @@
 <pubDate>Tue, 25 Aug 2026 00:23:12 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】这家AI对冲基金从“华尔街热议话题”到“联邦传票对象”的速度，比你说“分散投资组合”还要快。<br/><br/><a href="https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>连接、运行、部署：Gradio中的AI工作流</title>
+<link>https://huggingface.co/blog/gradio-workflow-guide</link>
+<guid isPermaLink="false">https://huggingface.co/blog/gradio-workflow-guide</guid>
+<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/gradio-workflow-guide">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Fastino发布GLiNER2.5：一种边界预测架构，从信息抽取中消除跨度枚举</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】在固定截止日期且设计资源已投入其他项目的情况下，Stampli 利用 Codex 和 ChatGPT Work 将原本需要数周的发布准备工作压缩至数天内完成。<br/><br/><a href="https://openai.com/index/stampli">阅读原文</a>]]></description>
-</item>
-<item>
-<title>空乘人员对谷歌将购买大量精神航空员工数据感到恐慌</title>
-<link>https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/</guid>
-<pubDate>Wed, 19 Aug 2026 20:04:41 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】破产的精神航空被指控在向谷歌大规模出售数据时出卖员工。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
