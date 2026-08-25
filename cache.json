@@ -1,24 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80903": {
-"t": "OpenAI 发布 GPT-Live 和 GPT-Live-1 mini：全双工语音模型，将深层推理委托给 GPT-5.5",
-"s": "OpenAI 发布了 GPT-Live，这是一款新一代语音模型，现已为 ChatGPT Voice 提供支持。它采用全双工架构，能够同时听和说，并将搜索和推理任务委托给 GPT-5.5。本文《OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5》最初发表于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=37544": {
-"t": "OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手",
-"s": "在2026年AtCoder世界巡回总决赛中，OpenAI系统在一场表演赛中碾压所有人类竞争对手，成功解决了算法组全部五道题目。其中两道题目被观察者评为异常困难。本文《OpenAI的AI在顶级编程竞赛AtCoder中击败所有人类选手》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80930": {
-"t": "NVIDIA发布Nemotron-Labs-3-Puzzle-75B-A9B：一种压缩混合MoE大语言模型，在匹配用户吞吐量下实现2.03倍服务器吞吐量",
-"s": "NVIDIA发布了Nemotron-Labs-3-Puzzle-75B-A9B，这是Nemotron-3-Super的压缩变体。迭代式Puzzle方法交替进行硬件感知的结构压缩和短知识蒸馏恢复阶段。该模型的总参数量从1207亿/活跃参数128亿降至753亿/93亿。在单个8xB200节点上，它在每位用户100 tok/s的速率下实现了Super模型总吞吐量的2.03倍。在单块H100上，100万token的并发量从1个请求提升至8个。该文章最初发布于NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput。"
-},
-"https://www.marktechpost.com/?p=80924": {
-"t": "Datalab Lift 与同类工具对比：9B 参数模式优先提取器如何与 NuExtract3、LlamaExtract、Marker 和 Docling 一较高下",
-"s": "Datalab 的 Lift 是一款专注的文档提取工具，其核心承诺是：输入 PDF 或图像以及 JSON 模式，它就能直接返回符合该模式的 JSON 数据。与先将文档转换为 Markdown 再让另一个模型提取字段的方式不同，Lift 直接读取渲染后的页面图像，并尝试输出最终结果。这篇文章《Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling》最初发表于 MarkTechPost。"
-},
-"5wMIF1Oa7DES2YNRpqiVB0": {
-"t": "为何我们不能等待更好的后量子签名算法",
-"s": "NIST正在推进九种新的后量子签名算法，作为未来标准化的潜在候选方案。我们深入审视了所有这些算法，并认为尽管它们正在研发中且展现出巨大潜力，但目前我们应使用ML-DSA——这是当前可用的最佳选择。"
-},
 "https://the-decoder.com/?p=37559": {
 "t": "OpenAI发现约30%的流行AI编程测试存在问题",
 "s": "OpenAI审查了SWE-Bench Pro（一个广泛用于衡量AI模型编程技能的测试），发现其约30%的任务存在缺陷。该公司正在撤回此前对该基准测试的支持。本文《OpenAI发现约30%的流行AI编程测试存在问题》最初发表于The Decoder。"
@@ -4798,5 +4778,25 @@
 "https://techcrunch.com/?p=3155800": {
 "t": "迈克尔·波兰斯基正在用活体皮肤训练AI模型",
 "s": "迈克尔·波兰斯基——公众更熟知的身份是Lady Gaga的伴侣及肖恩·帕克的前高级副手——多年来一直低调打造一家AI驱动的初创公司，该公司能在体外维持活体人类皮肤组织存活数周，以发现新的护肤成分，直到现在才公开这一项目。"
+},
+"https://techcrunch.com/?p=3156230": {
+"t": "情境感知，这家险些崩溃的明星AI对冲基金，现正受到美国证券交易委员会调查",
+"s": "这家AI对冲基金从“华尔街热议话题”到“联邦传票对象”的速度，比你说“分散投资组合”还要快。"
+},
+"https://www.marktechpost.com/?p=81854": {
+"t": "Fastino发布GLiNER2.5：一种边界预测架构，从信息抽取中消除跨度枚举",
+"s": "Fastino发布了GLiNER2.5，用边界预测取代跨度枚举，使实体宽度不再消耗计算资源。该版本提供三个Apache 2.0许可的检查点，参数规模分别为74M、194M和287M，均可在CPU上运行。新版本增加了联合实体-关系解码、约束分类、跨度属性以及4096词的上下文支持。在16个零样本基准测试中，整体宏F1分数达到56.17。文章《Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction》最初发表于MarkTechPost。"
+},
+"https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": {
+"t": "斯坦福研究：AI对入门级岗位冲击最大",
+"s": "与受AI影响较小的职业相比，受AI影响领域的年轻人就业率下降了19%。"
+},
+"https://techcrunch.com/?p=3156185": {
+"t": "特朗普在SpaceX轰动性IPO两周后购入其股票",
+"s": "总统在股价处于150美元中段时购入。SpaceX周一收盘时回落至其IPO价格135美元。"
+},
+"https://github.blog/?p=98354": {
+"t": "你的替代文本通过了自动化检查。但这并不意味着它质量良好。",
+"s": "我们为GitHub无障碍扫描器开发了一个插件，以确保你的替代文本真正无障碍。以下是其工作原理。这篇名为“你的替代文本通过了自动化检查。但这并不意味着它质量良好”的文章最初发布在GitHub博客上。"
 }
 }

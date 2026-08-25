@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 24 Aug 2026 20:20:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 00:46:24 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>情境感知，这家险些崩溃的明星AI对冲基金，现正受到美国证券交易委员会调查</title>
+<link>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3156230</guid>
+<pubDate>Tue, 25 Aug 2026 00:23:12 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这家AI对冲基金从“华尔街热议话题”到“联邦传票对象”的速度，比你说“分散投资组合”还要快。<br/><br/><a href="https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Fastino发布GLiNER2.5：一种边界预测架构，从信息抽取中消除跨度枚举</title>
+<link>https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81854</guid>
+<pubDate>Mon, 24 Aug 2026 22:21:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Fastino发布了GLiNER2.5，用边界预测取代跨度枚举，使实体宽度不再消耗计算资源。该版本提供三个Apache 2.0许可的检查点，参数规模分别为74M、194M和287M，均可在CPU上运行。新版本增加了联合实体-关系解码、约束分类、跨度属性以及4096词的上下文支持。在16个零样本基准测试中，整体宏F1分数达到56.17。文章《Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>斯坦福研究：AI对入门级岗位冲击最大</title>
+<link>https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</guid>
+<pubDate>Mon, 24 Aug 2026 21:45:53 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】与受AI影响较小的职业相比，受AI影响领域的年轻人就业率下降了19%。<br/><br/><a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>特朗普在SpaceX轰动性IPO两周后购入其股票</title>
+<link>https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3156185</guid>
+<pubDate>Mon, 24 Aug 2026 21:24:17 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】总统在股价处于150美元中段时购入。SpaceX周一收盘时回落至其IPO价格135美元。<br/><br/><a href="https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>你的替代文本通过了自动化检查。但这并不意味着它质量良好。</title>
+<link>https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/</link>
+<guid isPermaLink="false">https://github.blog/?p=98354</guid>
+<pubDate>Mon, 24 Aug 2026 20:56:32 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】我们为GitHub无障碍扫描器开发了一个插件，以确保你的替代文本真正无障碍。以下是其工作原理。这篇名为“你的替代文本通过了自动化检查。但这并不意味着它质量良好”的文章最初发布在GitHub博客上。<br/><br/><a href="https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Replit CEO兼联合创始人Amjad Masad将亮相TechCrunch Disrupt 2026大会主舞台</title>
 <link>https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/</link>
@@ -296,14 +336,6 @@
 <description><![CDATA[【techcrunch.com】一项新研究发现，领先的AI实验室对于控制失控模型的公开文档计划寥寥无几，这引发了人们对AI系统日益展现出意外且潜在危险行为时准备程度的质疑。<br/><br/><a href="https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>解码AI开源课程：三种运行Agent循环的方式及其背后的提供商经济学</title>
-<link>https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81811</guid>
-<pubDate>Sat, 22 Aug 2026 13:43:13 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】大多数团队将“选择哪个模型”视为关键决策，但工程文献却一再指向别处。在LangChain的Terminal-Bench实验中，仅改变harness——全程使用相同模型——就将一个编码代理从大约第30名提升至前5名。这一结果重新定义了问题。如果harness决定质量，那么你如何运行循环就变得至关重要……该文章《解码AI开源课程：三种运行Agent循环的方式及其背后的提供商经济学》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>迈克尔·波兰斯基正在用活体皮肤训练AI模型</title>
 <link>https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3155800</guid>
@@ -344,14 +376,6 @@
 <description><![CDATA[【techcrunch.com】Nvidia的研究表明，通过微调，AI代理即使模型本身在任务上表现平平，也能表现出色，且不会失控。<br/><br/><a href="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>美国司法部调查a16z，这对风险投资意味着什么？</title>
-<link>https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3155475</guid>
-<pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】安德森·霍洛维茨基金有两位合伙人分别担任相互竞争公司的董事会成员：本·霍洛维茨在Databricks，马丁·卡萨多在Fivetran。表面上看并无大碍，但据报道，美国司法部已对这一安排调查近一年，翻出了一部已有112年历史、很少针对风投公司使用的反垄断法。董事会冲突并不新鲜，而且a16z最初投资时，这些公司未必是直接竞争对手……<br/><br/><a href="https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Starcloud融资2.5亿美元建设轨道数据中心，发射选项日益稀缺</title>
 <link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3155064</guid>
@@ -374,14 +398,6 @@
 <pubDate>Fri, 21 Aug 2026 11:00:53 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Ars关注Zuckoff，这款最新免费应用在隐私争议中检测Meta AI眼镜。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI数据初创公司Micro1在AI训练热潮中实现5亿美元总运行率</title>
-<link>https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3155270</guid>
-<pubDate>Fri, 21 Aug 2026 00:13:44 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】对AI训练数据需求的激增正推动该初创公司及其竞争对手的快速增长。<br/><br/><a href="https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>衡量语音识别中的基准优化</title>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 19 Aug 2026 20:04:41 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】破产的精神航空被指控在向谷歌大规模出售数据时出卖员工。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>为前沿模型提供零数据保留服务</title>
-<link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
-<guid isPermaLink="false">https://openai.com/index/offering-zero-data-retention-for-frontier-models</guid>
-<pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI重申对符合条件的API客户实行零数据保留，并预览了在不损害数据隐私的前提下，用于高级AI安全的私有安全处理功能。<br/><br/><a href="https://openai.com/index/offering-zero-data-retention-for-frontier-models">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub Copilot应用初学者指南：管理工作</title>
-<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/</link>
-<guid isPermaLink="false">https://github.blog/?p=98348</guid>
-<pubDate>Wed, 19 Aug 2026 17:50:23 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】如果你同时处理多个Copilot会话，可以使用“我的工作”面板来跟踪进行中、已完成和下一步的任务。这篇文章最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
