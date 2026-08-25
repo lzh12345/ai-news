@@ -1,32 +1,4 @@
 {
-"https://techcrunch.com/?p=3140626": {
-"t": "谷歌将要求披露由AI生成的广告",
-"s": "尽管谷歌禁止误导性和欺骗性广告，但广告仍可利用AI创建某种合成或数字修改的内容。此前，谷歌仅要求选举广告对此进行披露。"
-},
-"https://the-decoder.com/?p=37580": {
-"t": "GPT-5.6 Sol 在综合基准测试中几乎媲美 Fable 5，成本仅为其三分之一",
-"s": "OpenAI 的 GPT-5.6 Sol 在人工智能分析智能指数上获得 59 分，仅比 Claude Fable 5 低一分。每项任务成本为 1.04 美元，仅为 Anthropic 顶级模型收费的三分之一。在智能体编程方面，Sol 击败了所有竞争对手，进一步给 Anthropic 带来定价压力。文章《GPT-5.6 Sol 在综合基准测试中几乎媲美 Fable 5，成本仅为其三分之一》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3140596": {
-"t": "巴黎AI语音初创公司Gradium获1亿美元种子轮融资，英伟达参投",
-"s": "该公司正利用这笔资金在湾区开设办事处，并在此地争夺人才，“以巩固其在全球领先AI生态系统核心的地位”。"
-},
-"https://techcrunch.com/?p=3140210": {
-"t": "政府如何判定OpenAI的前沿模型可以安全发布？",
-"s": "\"政府与Anthropic及OpenAI之间的具体对话细节尚不明确。\""
-},
-"https://the-decoder.com/?p=37575": {
-"t": "OpenAI 推出 GPT-5.6 公测版，并发布可处理完整工作流程的新智能体 ChatGPT Work",
-"s": "OpenAI 正在推出 ChatGPT Work，这是一款基于 Codex 和现已公开的 GPT-5.6 的智能体产品。该智能体能够独立处理跨 Google Drive、Slack 和 Salesforce 等应用的复杂项目。ChatGPT Work 现已在网页、移动端和桌面端上线，但访问权限取决于订阅计划。本文《OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3140527": {
-"t": "Instagram用户：如何阻止Meta的AI使用你的照片",
-"s": "Muse Image允许用户利用公开Instagram账户中的照片生成AI图像。只要用户的个人资料是公开的，其他用户就可以标记该账户，并将其照片用于AI生成的内容中。"
-},
-"https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
-"t": "GPT-5.6 现已成为 Microsoft 365 Copilot 中的首选模型",
-"s": "了解 GPT-5.6 如何以更强的 AI 能力驱动 Microsoft 365 Copilot，在 Word、Excel、PowerPoint、Chat 和 Cowork 中实现更快速、更高质量的工作。"
-},
 "self-reflective-program-search": {
 "t": "递归语言模型与不确定性相遇：自反思程序搜索在长上下文中的惊人效果",
 "s": "长上下文处理仍是语言模型的核心挑战：即便拥有扩展的上下文窗口，模型也常难以可靠地提取、推理并利用跨长上下文的信息。近期如递归语言模型（RLMs）等研究，通过推理时以编程方式将长上下文分解为递归子查询的智能体方法应对这一挑战。尽管前景可期，RLMs的成功关键取决于这些上下文交互程序轨迹的选择方式，而这一领域此前尚未被探索。本文中，我们针对此问题展开研究……"
@@ -4798,5 +4770,33 @@
 "starflow2-multimodal-generation": {
 "t": "STARFlow2：连接语言模型与归一化流，实现统一多模态生成",
 "s": "能够理解、推理并生成交错文本-图像序列的统一多模态模型在结构上仍显碎片化：现有方法要么通过离散标记化牺牲视觉保真度，要么通过将因果文本生成与迭代扩散去噪相结合而强加结构不对称性，要么在将视觉-语言模型适配为生成任务时削弱预训练的理解能力。我们观察到，自回归归一化流本质上是自回归Transformer——与LLM共享相同的因果掩码、KV缓存机制和从左到右的结构——使其成为最"
+},
+"https://www.marktechpost.com/?p=81860": {
+"t": "Perplexity在NVIDIA DGX Spark上推出便携式计算机：本地化工具链、操作系统强制沙箱及本地步骤零令牌成本",
+"s": "Perplexity发布便携式计算机，将本地模型、工具链、沙箱及连接器整合为一个系统，运行于NVIDIA DGX Spark之上。该文章最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3156618": {
+"t": "图像生成器Stable Diffusion开发商Stability AI融资7600万美元",
+"s": "该公司新一轮融资总额现已达到2.32亿美元。"
+},
+"https://the-decoder.com/?p=39431": {
+"t": "俄罗斯利用ChatGPT开展隐蔽影响力行动，在西方散布亲克里姆林宫叙事",
+"s": "OpenAI已瓦解一项利用ChatGPT生成社交媒体帖文的俄罗斯隐蔽影响力行动，封禁了一批相关账户。操作者通过VPN从俄罗斯访问该平台，推广虚构的“国际伯克研究所”，包括批评欧盟及德国政府的德语Telegram内容。该行动的影响范围有限，但OpenAI警告称，其背后的基础设施本可随时间扩大规模。本文《俄罗斯利用ChatGPT在西方开展隐蔽影响力行动，散布亲克里姆林宫叙事》首发于……"
+},
+"https://the-decoder.com/?p=39425": {
+"t": "据报道，OpenAI首款自研芯片“Jalapeño”在推理基准测试中超越英伟达Blackwell和Rubin",
+"s": "OpenAI在Hot Chips大会上展示了其首款自研推理芯片“Jalapeño”的基准测试结果。根据SemiAnalysis的测试，该芯片在吞吐量和能效方面均优于英伟达的Blackwell，甚至超越了Rubin。“通常第一代芯片不具备竞争力，但OpenAI正在超越英伟达Blackwell乃至Rubin，”SemiAnalysis首席执行官Dylan Patel表示。文章《OpenAI首款自研芯片“Jalapeño”据称在推理基准测试中超越英伟达Blackwell和Rubin》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3156630": {
+"t": "Claude Cowork终于能记住你在聊天中告诉应用的内容",
+"s": "Anthropic正在为Claude提供跨聊天和Cowork的共享记忆，这样用户就不再需要反复向AI说明项目、偏好及其他背景信息。"
+},
+"https://www.marktechpost.com/?p=81857": {
+"t": "Meta AI推出MetaRoCE：为AI规模以太网打造的全新RDMA传输协议",
+"s": "训练和部署前沿模型如今既是计算问题，也是网络问题。诸如全归约和全对全等集合操作在训练期间同步数千个加速器，而最慢的传输决定了整个任务的节奏。即使是微小的网络摩擦也会直接导致大量计算能力闲置。本周，Meta推出了MetaRoCE。[…] 这篇关于Meta AI推出MetaRoCE的帖子首次出现在MarkTechPost上。"
+},
+"https://openai.com/index/introducing-admin-plugin": {
+"t": "为ChatGPT Work和Codex推出Admin插件",
+"s": "使用ChatGPT Work和Codex的Admin插件，分析工作区使用情况、管理成员与权限、调整限制，并处理管理员请求。"
 }
 }

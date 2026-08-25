@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 25 Aug 2026 16:26:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 20:19:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Perplexity在NVIDIA DGX Spark上推出便携式计算机：本地化工具链、操作系统强制沙箱及本地步骤零令牌成本</title>
+<link>https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81860</guid>
+<pubDate>Tue, 25 Aug 2026 19:12:19 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity发布便携式计算机，将本地模型、工具链、沙箱及连接器整合为一个系统，运行于NVIDIA DGX Spark之上。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>图像生成器Stable Diffusion开发商Stability AI融资7600万美元</title>
+<link>https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3156618</guid>
+<pubDate>Tue, 25 Aug 2026 19:03:47 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】该公司新一轮融资总额现已达到2.32亿美元。<br/><br/><a href="https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>俄罗斯利用ChatGPT开展隐蔽影响力行动，在西方散布亲克里姆林宫叙事</title>
+<link>https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39431</guid>
+<pubDate>Tue, 25 Aug 2026 18:54:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI已瓦解一项利用ChatGPT生成社交媒体帖文的俄罗斯隐蔽影响力行动，封禁了一批相关账户。操作者通过VPN从俄罗斯访问该平台，推广虚构的“国际伯克研究所”，包括批评欧盟及德国政府的德语Telegram内容。该行动的影响范围有限，但OpenAI警告称，其背后的基础设施本可随时间扩大规模。本文《俄罗斯利用ChatGPT在西方开展隐蔽影响力行动，散布亲克里姆林宫叙事》首发于……<br/><br/><a href="https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>据报道，OpenAI首款自研芯片“Jalapeño”在推理基准测试中超越英伟达Blackwell和Rubin</title>
+<link>https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39425</guid>
+<pubDate>Tue, 25 Aug 2026 18:00:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI在Hot Chips大会上展示了其首款自研推理芯片“Jalapeño”的基准测试结果。根据SemiAnalysis的测试，该芯片在吞吐量和能效方面均优于英伟达的Blackwell，甚至超越了Rubin。“通常第一代芯片不具备竞争力，但OpenAI正在超越英伟达Blackwell乃至Rubin，”SemiAnalysis首席执行官Dylan Patel表示。文章《OpenAI首款自研芯片“Jalapeño”据称在推理基准测试中超越英伟达Blackwell和Rubin》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Cowork终于能记住你在聊天中告诉应用的内容</title>
+<link>https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3156630</guid>
+<pubDate>Tue, 25 Aug 2026 17:50:33 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic正在为Claude提供跨聊天和Cowork的共享记忆，这样用户就不再需要反复向AI说明项目、偏好及其他背景信息。<br/><br/><a href="https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta AI推出MetaRoCE：为AI规模以太网打造的全新RDMA传输协议</title>
+<link>https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81857</guid>
+<pubDate>Tue, 25 Aug 2026 17:25:36 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】训练和部署前沿模型如今既是计算问题，也是网络问题。诸如全归约和全对全等集合操作在训练期间同步数千个加速器，而最慢的传输决定了整个任务的节奏。即使是微小的网络摩擦也会直接导致大量计算能力闲置。本周，Meta推出了MetaRoCE。[…] 这篇关于Meta AI推出MetaRoCE的帖子首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>谷歌推出Gemini法律版，自动化合同与研究流程</title>
 <link>https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/</link>
@@ -168,6 +216,14 @@
 <description><![CDATA[【openai.com】OpenAI封禁了源自俄罗斯的账户，这些账户利用人工智能推广一个虚构的以色列智库及一个“主权”指数，该指数赞扬俄罗斯并批评西方。<br/><br/><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia">阅读原文</a>]]></description>
 </item>
 <item>
+<title>为ChatGPT Work和Codex推出Admin插件</title>
+<link>https://openai.com/index/introducing-admin-plugin</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-admin-plugin</guid>
+<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】使用ChatGPT Work和Codex的Admin插件，分析工作区使用情况、管理成员与权限、调整限制，并处理管理员请求。<br/><br/><a href="https://openai.com/index/introducing-admin-plugin">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Fastino发布GLiNER2.5：一种边界预测架构，从信息抽取中消除跨度枚举</title>
 <link>https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81854</guid>
@@ -264,14 +320,6 @@
 <description><![CDATA[【techcrunch.com】前沿实验室正推动AI代理从软件工程师走向大众。<br/><br/><a href="https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>恶意AI代理利用虚假账户和一场精心策划的道歉，将恶意软件植入开源项目</title>
-<link>https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39381</guid>
-<pubDate>Mon, 24 Aug 2026 14:23:55 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】一个恶意AI代理以公开道歉作为欺骗手段，同时悄悄在其拉取请求中植入新恶意软件。文章《恶意AI代理利用虚假账户和一场精心策划的道歉，将恶意软件植入开源项目》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>通用人工智能发布GEN-1.5：一个能从3-12秒演示中学习新任务的机器人基础模型</title>
 <link>https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81850</guid>
@@ -294,14 +342,6 @@
 <pubDate>Mon, 24 Aug 2026 13:47:26 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】据报道，Hugging Face已收到多份收购要约，估值约130亿美元。然而，鉴于创始人对社区的责任感，此次出售能否成行存疑。<br/><br/><a href="https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>汤森路透豪掷4000万美元自建AI，而非租用OpenAI或Anthropic的服务</title>
-<link>https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39375</guid>
-<pubDate>Mon, 24 Aug 2026 12:59:43 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】汤森路透推出自研语言模型“Thomson”，基于阿里巴巴的Qwen构建，两年成本约4000万美元。但基准测试显示，仅当模型能接入公司自有内容（如Westlaw）时，才能取得顶尖成绩。首席技术官乔尔·赫伦指出，关键不在于智能本身，而在于知道哪些智能需要自主拥有。文章《汤森路透豪掷4000万美元自建AI，而非租用OpenAI或Anthropic的服务》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Kiro 中推出 GPT-5.6，为开发者提升性价比</title>
@@ -392,22 +432,6 @@
 <description><![CDATA[【marktechpost.com】使用deepDoctection构建端到端文档智能流水线。本教程涵盖配置布局分析、DocTR OCR和表格提取，同时演示如何为实体识别实现自定义服务，并为您的RAG工作流生成结构化JSONL数据。该文章《使用deepDoctection构建端到端文档智能流水线》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Vercel推出“Is Agentic”，一款免费代理就绪评分工具，利用Ora的100多项检查审计公共网站</title>
-<link>https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81820</guid>
-<pubDate>Sun, 23 Aug 2026 07:37:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Vercel与Ora联合推出了Is Agentic，这是一款免费审计工具，通过118项检查评估网站对AI代理的适配程度。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>面向企业AI安全的NeMo Guardrails开发者指南</title>
-<link>https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81814</guid>
-<pubDate>Sat, 22 Aug 2026 23:49:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】在本教程中，我们探讨如何使用NeMo Guardrails框架为基于LLM的应用设计生产级安全性。我们超越简单的提示过滤，实现分层架构，包括确定性PII脱敏、检索过滤、输出掩码和基于策略的工具门控。通过集成有状态多轮评估和详细的激活追踪，我们展示了如何构建一个可审计、安全且成本高效的AI助手，能够管理敏感的金融交互，同时维持严格的合规标准。<br/><br/><a href="https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>哈佛699美元创业训练营提供AI导师化身</title>
 <link>https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3155861</guid>
@@ -430,22 +454,6 @@
 <pubDate>Sat, 22 Aug 2026 16:30:34 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI呼吁加州加强此前该公司反对的SB 53号人工智能安全法案。<br/><br/><a href="https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>前沿AI实验室仍未说明如何控制失控模型</title>
-<link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3155518</guid>
-<pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】一项新研究发现，领先的AI实验室对于控制失控模型的公开文档计划寥寥无几，这引发了人们对AI系统日益展现出意外且潜在危险行为时准备程度的质疑。<br/><br/><a href="https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>迈克尔·波兰斯基正在用活体皮肤训练AI模型</title>
-<link>https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3155800</guid>
-<pubDate>Sat, 22 Aug 2026 01:31:04 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】迈克尔·波兰斯基——公众更熟知的身份是Lady Gaga的伴侣及肖恩·帕克的前高级副手——多年来一直低调打造一家AI驱动的初创公司，该公司能在体外维持活体人类皮肤组织存活数周，以发现新的护肤成分，直到现在才公开这一项目。<br/><br/><a href="https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>一次设定：Bot Preference Sync 功能上线</title>
@@ -478,14 +486,6 @@
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/pwc-search">阅读原文</a>]]></description>
-</item>
-<item>
-<title>衡量语音识别中的基准优化</title>
-<link>https://huggingface.co/blog/asr-benchmark-optimization</link>
-<guid isPermaLink="false">https://huggingface.co/blog/asr-benchmark-optimization</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/asr-benchmark-optimization">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
