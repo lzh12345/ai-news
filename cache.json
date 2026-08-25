@@ -1,32 +1,4 @@
 {
-"https://techcrunch.com/?p=3140394": {
-"t": "Character.AI 携自制作品进军微短剧领域，但玩法有新意",
-"s": "一个有趣的转折是，利用公司的核心产品，用户可以与这些剧集中的角色聊天、向它们提问，甚至扮演不同的故事情节。"
-},
-"https://techcrunch.com/?p=3140214": {
-"t": "热门开源AI开发者工具Ollama融资6500万美元，用户数接近900万",
-"s": "由Benchmark投资的Ollama通过帮助开发者轻松在个人电脑上运行AI，已在GitHub上累计获得17.6万颗星标和近1.7万个分支。"
-},
-"https://techcrunch.com/?p=3140101": {
-"t": "南丹·尼勒卡尼卸任Fundamentum普通合伙人，该基金启动2亿美元第三期基金",
-"s": "尼勒卡尼仍担任Fundamentum的主要投资者，该基金正扩大领导团队，并瞄准印度的人工智能和金融科技初创企业。"
-},
-"https://the-decoder.com/?p=37551": {
-"t": "Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus",
-"s": "Databricks在其数百万行代码库中对编码代理进行了基准测试，发现中国开源模型GLM 5.2在每任务成本1.28美元（对比1.94美元）的情况下，性能与Anthropic的Opus 4.8相当。该公司计划将其作为日常编码主力工具推广。其更广泛的结论是：没有单一供应商占据主导地位，企业应构建自己的基准测试，而非依赖公开测试。文章《Databricks将中国开源模型GLM 5.2设为默认编码引擎，因其以更低成本媲美Opus》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3140504": {
-"t": "Meta 新 AI 芯片将于九月开始生产",
-"s": "该公司正采用模块化方式设计这些芯片，预计随着人工智能快速发展，到芯片投产时其需求将发生变化。"
-},
-"https://techcrunch.com/?p=3140496": {
-"t": "Nvidia 成为自己创造的算力市场的受害者",
-"s": "在证明了算力的巨大价值后，Nvidia 发现自己处于一个所有人都想参与的市场中心——而更简单的技术和不那么引人注目的公司却在边缘地带获利。"
-},
-"https://the-decoder.com/?p=37564": {
-"t": "Meta的Muse Spark 1.1 API定价挤压OpenAI和Anthropic，AI价格战升温",
-"s": "Meta正以Muse Spark 1.1进入AI API业务，其价格甚至低于昨日刚发布的廉价版Grok 4.5。每百万输出令牌仅需4.25美元，Meta的收费仅为Anthropic或OpenAI要价的一小部分。对于烧钱数十亿美元的纯AI实验室而言，压力进一步加剧。本文《Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up》最初发表于The Decoder。"
-},
 "https://github.blog/?p=97373": {
 "t": "GitHub 如何为每个仓库赋予持久的所有者",
 "s": "GitHub 拥有超过 14,000 个仓库，其中不到一半有明确的所有者。本文介绍了我们如何在 45 天内为每个活跃仓库赋予经过验证的所有者，归档其余仓库，并将所有权作为后续一切工作的基础。该文章最初发布于 GitHub 博客。"
@@ -4797,6 +4769,34 @@
 },
 "https://huggingface.co/blog/gradio-workflow-guide": {
 "t": "连接、运行、部署：Gradio中的AI工作流",
+"s": "（无）"
+},
+"https://the-decoder.com/?p=39412": {
+"t": "英伟达称其Groq 3 LPX比Cerebras快四倍，但实际情况更为复杂",
+"s": "英伟达正将其Groq 3 LPX推理芯片投入全面生产，并报告在Gemma 4 31B上每秒处理3400个令牌，速度是Cerebras的四倍。但这些数字并未完全反映事实。据The Register报道，英伟达要达到这一性能至少需要64个加速器，而Cerebras仅需一两个。该架构在大型MoE模型上的扩展性如何，仍是一个未解之谜。文章《英伟达称其Groq 3 LPX比Cerebras快四倍，但实际情况更为复杂》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39405": {
+"t": "乌克兰向英国企业开放其庞大的标注战场数据集，达成具有里程碑意义的AI武器合作",
+"s": "英国成为首个获准访问Avengers Labs平台的国家，该平台拥有约五百万张用于训练军事AI的标注作战图像。已有三家英国初创公司正在开展试点项目。这一协议表明，真实战争数据正系统性地成为构建自主武器技术的关键资源。本文《乌克兰向英国企业开放其庞大的标注战场数据集，达成具有里程碑意义的AI武器合作》首发于The Decoder。"
+},
+"https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
+"t": "量化感知修复：一种压缩的4位模型，性能超越其全精度原版",
+"s": "（无）"
+},
+"https://the-decoder.com/?p=39407": {
+"t": "阿拉巴马州总检察长调查OpenAI，因其AI代理失控并入侵外部系统",
+"s": "阿拉巴马州总检察长史蒂夫·马歇尔正在就其所称的“AI实验室泄漏”事件对OpenAI展开调查。此次调查源于2026年7月的Hugging Face事件，当时一个OpenAI代理突破了测试环境，自行获得了互联网访问权限。这一事件究竟是因为高级AI能力所致，还是由于网络安全措施松懈，目前尚不清楚。文章《阿拉巴马州总检察长调查OpenAI，因其AI代理失控并入侵外部系统》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39401": {
+"t": "台湾网络安全公司警告称，AI工具使中国国家支持的网络攻击数量翻倍以上",
+"s": "据台湾安全公司TeamT5称，中国国家支持的黑客组织自开始使用DeepSeek等AI模型编写漏洞利用代码和扫描网络以来，其攻击次数已翻倍以上。黑客还使用了ChatGPT和Anthropic的Claude Code。一项英国研究表明，开放模型的网络能力正在迅速追赶。文章《台湾网络安全公司警告称，AI工具使中国国家支持的网络攻击数量翻倍以上》首发于The Decoder。"
+},
+"https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
+"t": "瓦解俄罗斯新一轮隐蔽影响力行动",
+"s": "OpenAI封禁了源自俄罗斯的账户，这些账户利用人工智能推广一个虚构的以色列智库及一个“主权”指数，该指数赞扬俄罗斯并批评西方。"
+},
+"https://huggingface.co/blog/pwc-search": {
+"t": "Hugging Face推理端点、任务与存储桶如何助力Papers with Code的搜索功能",
 "s": "（无）"
 }
 }
