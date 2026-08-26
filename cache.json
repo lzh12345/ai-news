@@ -1,32 +1,4 @@
 {
-"https://techcrunch.com/?p=3140848": {
-"t": "OpenAI 关闭 Atlas，但其AI浏览器雄心仍在增长",
-"s": "OpenAI 在不到一年后停止其AI驱动浏览器。但它正在将部分代理浏览功能迁移至桌面应用和Chrome扩展。"
-},
-"https://techcrunch.com/?p=3140701": {
-"t": "埃隆·马斯克称赞Mythos/Fable，承诺不会“切断”Anthropic",
-"s": "Anthropic是否应该信任埃隆·马斯克来托管其模型？面对约400亿美元的收入风险，马斯克坚称该公司可以做到。"
-},
-"https://techcrunch.com/?p=3140802": {
-"t": "AI能回答这个3万亿美元的问题吗？",
-"s": "关于AI投资回报率的争论再度升温，数字变得更大，或许后果也更加严重。"
-},
-"https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/": {
-"t": "OpenAI 希望其新工具能代你完成工作，并与你协作",
-"s": "更名后的 Codex 承诺提供独立工作流，可“在需要时运行数小时”。"
-},
-"https://www.marktechpost.com/?p=80962": {
-"t": "Google Research 推出 SensorFM：基于一万亿分钟传感器数据预训练的可穿戴健康基础模型",
-"s": "SensorFM 是由 Google Research、Google DeepMind 及多所高校合作研发的可穿戴健康基础模型。本文梳理了其 ViT-1D 掩码自编码器主干架构——该模型基于来自 500 万名知情参与者的超过一万亿分钟未标注传感器信号进行预训练。我们考察了四种模型规模与四种数据量下的协同扩展结果，包括模型容量超出数据量的极端情况。研究显示，在 35 项任务中，冻结嵌入特征结合 PCA-50 线性探针在 34 项上超越了基于特征工程的基线方法。此外，我们还回顾了自主化实验框架——该框架对 30,516 个预测头进行了系统搜索。"
-},
-"https://openai.com/index/deutsche-telekom": {
-"t": "德国电信如何用AI重塑电信行业",
-"s": "德国电信正通过与OpenAI合作，转型为AI原生电信公司，变革客户服务、员工工作流、网络运营以及语音技术的未来。"
-},
-"https://www.marktechpost.com/?p=80959": {
-"t": "认识LingBot-World-Infinity：一个带有智能体控制框架的开放因果世界模型",
-"s": "蚂蚁集团具身智能部门Robbyant发布了LingBot-World-Infinity（LingBot-World 2.0）。这是一个140亿参数的因果视频生成模型，可作为交互式世界模拟器运行。其核心思想是双向与自回归混合注意力掩码（MoBA），并结合在长自展开轨迹上应用的分布匹配蒸馏技术。两者共同针对长程漂移问题——即大多数交互式世界模型中导致纹理模糊和几何扭曲的失效模式。一个“导演-飞行员”智能体控制框架封装了该生成器，其中视觉语言模型（VLM）提出事件，而D"
-},
 "https://huggingface.co/blog/torch-attention-profile": {
 "t": "PyTorch 中的性能分析（第三部分）：注意力即分析",
 "s": ""
@@ -4798,5 +4770,33 @@
 "https://www.marktechpost.com/?p=81869": {
 "t": "IBM发布Granite 4.2：为开放企业模型带来原生推理与智能体强化学习",
 "s": "IBM已发布Granite 4.2，这是一系列开放推理语言模型，提供3B、8B和30B参数规模，均采用Apache 2.0许可。每个模型都具备思考/低功耗/非思考模式切换及原生工具调用功能。8B和30B版本还额外经过智能体强化学习模块训练，使其能够在真实沙盒环境中编辑代码、操作终端及执行网络搜索。30B版本在SWE-Bench Verified上得分为57.00，在Terminal-Bench 2.1上得分为29.24。该文章《IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models》最初发表于MarkTechPost。"
+},
+"https://the-decoder.com/?p=39448": {
+"t": "中国月之暗面AI与微软、亚马逊和谷歌洽谈托管合作",
+"s": "一家中国AI公司可能首次将其模型部署在美国主要云平台上，并从中分得收益。文章《中国月之暗面AI与微软、亚马逊和谷歌洽谈托管合作》最初发表于The Decoder。"
+},
+"https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/": {
+"t": "IBM新Granite 4.2模型乘上本地LLM兴趣浪潮",
+"s": "重点在于代理能力与可预测的企业部署。"
+},
+"https://techcrunch.com/?p=3156706": {
+"t": "Runable融资2100万美元，押注AI代理能从构建业务走向增长业务",
+"s": "Runable表示，在过去90天内，其超过1万亿令牌的使用量中，60%至70%来自付费客户。"
+},
+"https://the-decoder.com/?p=39444": {
+"t": "比尔·盖茨警告人工智能比科技行业愿意承认的更为危险",
+"s": "比尔·盖茨在一篇文章及接受《纽约时报》采访时警告，人工智能可能导致大规模失业并降低生物恐怖主义的门槛，他指责自己的行业故意掩盖这些风险。“这对我们不利，对我们试图筹集的下一万亿美元也不利。”他拒绝自我监管，转而呼吁建立类似核武器控制的机构，并对人工智能的使用征收象征性税收。文章《比尔·盖茨警告人工智能比科技行业愿意承认的更为危险》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39440": {
+"t": "IBM发布开源权重Granite 4.2系列，内置代理能力，采用Apache 2.0许可",
+"s": "IBM推出Granite 4.2语言模型，提供3B、8B和30B三种参数规模，基于约15万亿个令牌训练，上下文窗口最高达512,000个令牌。较大模型采用“代理强化学习”训练，自主学会工具使用和代码执行。所有模型均采用Apache 2.0许可发布。文章《IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39438": {
+"t": "Anthropic在IPO前看到超过30万亿美元的市场机遇",
+"s": "Anthropic计划在首次公开募股前，向投资者展示一个理论上的市场机遇，其价值超过30万亿美元。文章《Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO》最初出现在The Decoder上。"
+},
+"https://openai.com/index/loveholidays": {
+"t": "loveholidays如何借助Codex让每个人都成为构建者",
+"s": "了解loveholidays如何利用OpenAI Codex，让软件开发在整个企业中变得触手可及，帮助团队更快地将想法转化为产品。"
 }
 }
