@@ -1,24 +1,4 @@
 {
-"self-reflective-program-search": {
-"t": "递归语言模型与不确定性相遇：自反思程序搜索在长上下文中的惊人效果",
-"s": "长上下文处理仍是语言模型的核心挑战：即便拥有扩展的上下文窗口，模型也常难以可靠地提取、推理并利用跨长上下文的信息。近期如递归语言模型（RLMs）等研究，通过推理时以编程方式将长上下文分解为递归子查询的智能体方法应对这一挑战。尽管前景可期，RLMs的成功关键取决于这些上下文交互程序轨迹的选择方式，而这一领域此前尚未被探索。本文中，我们针对此问题展开研究……"
-},
-"unmasking-on-policy-distillation": {
-"t": "揭开同策略蒸馏的面纱：何时有益、何时有害及其原因",
-"s": "同策略蒸馏为训练推理模型提供了密集的逐令牌监督信号；然而，目前尚不清楚在何种条件下该信号有益，在何种条件下有害。应使用哪种教师模型？在自蒸馏情况下，应选择何种具体上下文作为监督信号？最优选择是否会因令牌不同而变化？目前，回答这些问题通常需要成本高昂的训练过程，而聚合性能指标掩盖了单个令牌层面的动态变化。我们提出了一种无需训练的方法……"
-},
-"https://techcrunch.com/?p=3140881": {
-"t": "OpenAI称GPT 5.6是微软Copilot 365的“首选模型”，分手传闻不断",
-"s": "OpenAI的新模型系列将继续为微软的工作与生产力应用套件提供支持。"
-},
-"https://techcrunch.com/?p=3140900": {
-"t": "Fidji Simo 辞去 OpenAI 二号人物职务",
-"s": "OpenAI 二号高管 Fidji Simo 在医疗休假时间超出预期后，将辞去全职职务——这一领导层空缺出现在公司面临可能进行首次公开募股（IPO）并追赶 Anthropic 在企业市场地位的棘手时期。"
-},
-"https://www.marktechpost.com/?p=80945": {
-"t": "Meta超级智能实验室发布Muse Spark 1.1：面向Meta模型API的智能体任务多模态推理模型",
-"s": "Meta超级智能实验室于2026年7月9日发布了Muse Spark 1.1，同时推出了Meta模型API的公开预览版。该模型专为智能体任务构建，具备多模态推理能力，拥有100万token的上下文窗口（模型可主动压缩），对新工具和MCP服务器具有零样本泛化能力，并支持跨并行子智能体的多智能体委派。Meta自家的发布表格显示，该模型在工具使用方面领先，但在编程能力上落后于Opus 4.8和GPT-5.5。本文《Meta超级智能实验室发布Muse Spark 1.1：面向Meta模型API的智能体任务多模态推理模型》最初发表于Mar。"
-},
 "https://techcrunch.com/?p=3140805": {
 "t": "OpenAI 推出其新系列模型 GPT-5.6",
 "s": "OpenAI 最新系列模型承诺在包括网络安全在内的多个领域实现改进。"
@@ -4798,5 +4778,25 @@
 "https://openai.com/index/introducing-admin-plugin": {
 "t": "为ChatGPT Work和Codex推出Admin插件",
 "s": "使用ChatGPT Work和Codex的Admin插件，分析工作区使用情况、管理成员与权限、调整限制，并处理管理员请求。"
+},
+"https://techcrunch.com/?p=3156922": {
+"t": "消息人士称，机器人初创公司Generalist估值达30亿美元",
+"s": "这家物理AI初创公司在达到20亿美元估值仅数月后，又获得了2亿美元的融资扩展。"
+},
+"https://techcrunch.com/?p=3156793": {
+"t": "OpenAI再失一名数据中心高管，高层离职潮持续",
+"s": "在马龙离职前，OpenAI已对其基础设施部门进行重组，将其汇报线从总裁格雷格·布罗克曼处调整，并由副总裁萨钦·卡蒂接管该团队。"
+},
+"https://www.marktechpost.com/?p=81866": {
+"t": "Liquid AI 开源 Pipette：一个可复现的基准测试套件，同时衡量设备端模型、量化、运行时和硬件",
+"s": "模型卡片通常在服务器级、全精度条件下报告质量，但这些数字很少能预测同一模型在手机上的实际表现。本周，Liquid AI 发布了 Pipette，这是一个开源平台，用于在边缘设备上对基础模型进行基准测试，与 Artificial Analysis 合作构建，作为独立方法论验证器。Pipette 将设备端行为视为一个整体……该文章《Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together》最初出现在 MarkTechPost 上。"
+},
+"https://github.blog/?p=98316": {
+"t": "在生产前如何评估LLMs",
+"s": "这些是我们在为实际秘密扫描评估LLMs时学到的经验教训。这篇文章《如何在生产前评估LLMs》最初出现在GitHub博客上。"
+},
+"https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/": {
+"t": "世界人形机器人运动会：选手破纪录、起火引关注",
+"s": "破纪录的机器人竞赛远不如家务挑战来得实在。"
 }
 }

@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 25 Aug 2026 20:19:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 00:48:17 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>消息人士称，机器人初创公司Generalist估值达30亿美元</title>
+<link>https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3156922</guid>
+<pubDate>Wed, 26 Aug 2026 00:40:59 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这家物理AI初创公司在达到20亿美元估值仅数月后，又获得了2亿美元的融资扩展。<br/><br/><a href="https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI再失一名数据中心高管，高层离职潮持续</title>
+<link>https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3156793</guid>
+<pubDate>Wed, 26 Aug 2026 00:06:20 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】在马龙离职前，OpenAI已对其基础设施部门进行重组，将其汇报线从总裁格雷格·布罗克曼处调整，并由副总裁萨钦·卡蒂接管该团队。<br/><br/><a href="https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI 开源 Pipette：一个可复现的基准测试套件，同时衡量设备端模型、量化、运行时和硬件</title>
+<link>https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81866</guid>
+<pubDate>Tue, 25 Aug 2026 23:48:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】模型卡片通常在服务器级、全精度条件下报告质量，但这些数字很少能预测同一模型在手机上的实际表现。本周，Liquid AI 发布了 Pipette，这是一个开源平台，用于在边缘设备上对基础模型进行基准测试，与 Artificial Analysis 合作构建，作为独立方法论验证器。Pipette 将设备端行为视为一个整体……该文章《Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>在生产前如何评估LLMs</title>
+<link>https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/</link>
+<guid isPermaLink="false">https://github.blog/?p=98316</guid>
+<pubDate>Tue, 25 Aug 2026 21:35:11 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】这些是我们在为实际秘密扫描评估LLMs时学到的经验教训。这篇文章《如何在生产前评估LLMs》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>世界人形机器人运动会：选手破纪录、起火引关注</title>
+<link>https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/</guid>
+<pubDate>Tue, 25 Aug 2026 20:59:03 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】破纪录的机器人竞赛远不如家务挑战来得实在。<br/><br/><a href="https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Perplexity在NVIDIA DGX Spark上推出便携式计算机：本地化工具链、操作系统强制沙箱及本地步骤零令牌成本</title>
 <link>https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/</link>
@@ -424,36 +464,12 @@
 <description><![CDATA[【marktechpost.com】FreeToken利用实测带宽，在PCIe填充和CPU执行之间分配MoE缓存未命中，从而在本地解锁前沿模型。该文章《Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>使用deepDoctection构建端到端文档智能流水线</title>
-<link>https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81823</guid>
-<pubDate>Sun, 23 Aug 2026 07:51:22 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】使用deepDoctection构建端到端文档智能流水线。本教程涵盖配置布局分析、DocTR OCR和表格提取，同时演示如何为实体识别实现自定义服务，并为您的RAG工作流生成结构化JSONL数据。该文章《使用deepDoctection构建端到端文档智能流水线》首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>哈佛699美元创业训练营提供AI导师化身</title>
 <link>https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3155861</guid>
 <pubDate>Sat, 22 Aug 2026 21:46:56 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】在HBS Foundry项目中，AI化身在模拟路演和董事会会议中提供反馈。<br/><br/><a href="https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>由DeepMind校友创立的Inherent称，其AI“队友”在复现研究方面超越了Anthropic和OpenAI</title>
-<link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3155023</guid>
-<pubDate>Sat, 22 Aug 2026 19:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】由DeepMind校友打造的英国AI实验室Inherent发布了Faraday，这款AI代理复现科学论文的能力或成为创新的垫脚石。<br/><br/><a href="https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI表示加州应加强其人工智能安全法案</title>
-<link>https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3155841</guid>
-<pubDate>Sat, 22 Aug 2026 16:30:34 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI呼吁加州加强此前该公司反对的SB 53号人工智能安全法案。<br/><br/><a href="https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>一次设定：Bot Preference Sync 功能上线</title>
@@ -470,22 +486,6 @@
 <pubDate>Fri, 21 Aug 2026 11:59:48 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】谷歌DeepMind与游戏工作室合作，原型验证突破性AI游戏玩法。<br/><br/><a href="https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta AI眼镜需求激增，难以避免令人不安的录音</title>
-<link>https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/</guid>
-<pubDate>Fri, 21 Aug 2026 11:00:53 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Ars关注Zuckoff，这款最新免费应用在隐私争议中检测Meta AI眼镜。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face推理端点、任务与存储桶如何助力Papers with Code的搜索功能</title>
-<link>https://huggingface.co/blog/pwc-search</link>
-<guid isPermaLink="false">https://huggingface.co/blog/pwc-search</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/pwc-search">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
