@@ -5,8 +5,88 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 26 Aug 2026 16:43:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 22:37:40 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic与Nscale达成450亿美元协议，延续其算力吞噬狂潮</title>
+<link>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3157364</guid>
+<pubDate>Wed, 26 Aug 2026 21:37:39 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】与这家基础设施提供商的新协议，是Anthropic近期对算力极度渴求的最新例证。<br/><br/><a href="https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Z.ai发布GLM-5.3-Flash：320B-A18B原生多模态MoE，支持100万Token上下文</title>
+<link>https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81885</guid>
+<pubDate>Wed, 26 Aug 2026 21:33:23 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Z.ai发布了GLM-5.3-Flash，这是GLM-5系列中首个原生多模态模型——一个总参数量320B/激活参数18B的MoE模型，拥有1,048,576个Token的上下文窗口，权重以MIT许可证在Hugging Face上提供，API定价为输入$0.15/M、输出$0.50/M。它在Terminal-Bench 2.1上得分84.3，在DeepSWE v1.1上得分63.4，采用混合KDA线性加NoPE稀疏MLA注意力机制，相比GLM-5.3将注意力计算量减少约3倍，KV缓存减少4.4倍。该文章《Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>旨在取代Meta员工的AI代理实施了“大规模、破坏性行为”</title>
+<link>https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/</guid>
+<pubDate>Wed, 26 Aug 2026 21:25:27 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】路透社报道显示，Meta在用人AI代理替代人类员工方面面临挑战。<br/><br/><a href="https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub Copilot应用入门：自动化Dependabot拉取请求分类</title>
+<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/</link>
+<guid isPermaLink="false">https://github.blog/?p=98460</guid>
+<pubDate>Wed, 26 Aug 2026 20:12:53 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】管理库更新有时会很繁琐。了解GitHub Copilot应用如何处理这类重复性任务。这篇文章《GitHub Copilot应用入门：自动化Dependabot拉取请求分类》最初出现在GitHub博客上。<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌的Gemini存在品牌问题，整个AI领域亦然</title>
+<link>https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3157316</guid>
+<pubDate>Wed, 26 Aug 2026 19:37:34 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】消费级AI应用应停止让用户学习其产品架构。<br/><br/><a href="https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>如何解读OpenAI高管离职潮？</title>
+<link>https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3157219</guid>
+<pubDate>Wed, 26 Aug 2026 19:34:04 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】格雷格·布罗克曼是否一直是合适的领导者？<br/><br/><a href="https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌发布Gemini 3.5转录功能，实现AI驱动的语音转文字</title>
+<link>https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/</guid>
+<pubDate>Wed, 26 Aug 2026 19:19:22 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】驱动Gboard中Rambler的AI技术将扩展至更多谷歌产品，包括Chrome浏览器。<br/><br/><a href="https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI发布关于Hugging Face安全漏洞的官方报告</title>
+<link>https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3157343</guid>
+<pubDate>Wed, 26 Aug 2026 19:05:22 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这份报告涵盖了多起独立的网络安全入侵事件，是迄今为止对该事件最全面的说明。<br/><br/><a href="https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>萨姆·奥特曼称，若按其定义，OpenAI将在2026年底前实现AGI</title>
+<link>https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39466</guid>
+<pubDate>Wed, 26 Aug 2026 17:30:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据《时代》杂志报道，OpenAI领导层认为通用人工智能（AGI）已触手可及。首席科学家雅库布·帕乔基表示，公司即将推出的模型Astra已能像自动化研究实习生一样工作。奥特曼预计，这将是“首个能以重要方式真正发明新事物的模型”。文章《萨姆·奥特曼称，若按其定义，OpenAI将在2026年底前实现AGI》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gemini 3.5 Transcribe 实现智能转录</title>
+<link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</guid>
+<pubDate>Wed, 26 Aug 2026 17:01:00 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】现在，通过Gemini 3.5 Transcribe，您可以获得更智能的语音转文字转录服务。<br/><br/><a href="https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>雷达让播客可搜索——并可供AI代理使用</title>
 <link>https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/</link>
@@ -14,6 +94,14 @@
 <pubDate>Wed, 26 Aug 2026 15:47:28 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Particle的新型播客智能平台转录并分析超过13万个播客，使其对话在网络上可搜索，并通过API和MCP供AI代理访问。<br/><br/><a href="https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>阿里巴巴Qwen团队发布Qwen3.8-Flash-Next：125B参数多模态MoE模型，仅6B激活参数，预览Qwen4架构</title>
+<link>https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81877</guid>
+<pubDate>Wed, 26 Aug 2026 15:20:00 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们审视了Qwen3.8-Flash-Next，这是阿里巴巴的开源权重多模态混合专家模型，也是Qwen4架构的早期预览。我们解析了180B参数的实际分布：125B主干网络、51B N-gram嵌入表，以及4B多令牌预测模块，每个令牌仅激活6B参数。我们详细介绍了四项架构变革——Gated DeltaNet与Qwen稀疏注意力混合、门控残差、N-gram嵌入，以及Muon优化器。我们还涵盖了基准测试结果、相较于Qwen3.7-Plus报告的1/9训练成本，以及自托管172.78 GiB FP8模型的相关信息。<br/><br/><a href="https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>前Meta科学家欲将视觉AI引入工厂车间</title>
@@ -46,6 +134,14 @@
 <pubDate>Wed, 26 Aug 2026 14:30:00 +0000</pubDate>
 <source>venturebeat.com</source>
 <description><![CDATA[【venturebeat.com】由塔塔通信呈现。企业正在消息、语音和数字渠道中部署AI代理、语音AI和自动化，其速度超过了支撑这些技术的架构。塔塔通信客户交互套件全球负责人高拉夫·阿南德表示，大部分部署涉及将对话式AI附加到从未为此设计的遗留系统上。“在急于部署AI的过程中，组织大多将对话式AI硬接到遗留系统上，”阿南德说。“因此，尽管许多企业采用了数字工具，但很少有平台真正实现智能化。”<br/><br/><a href="https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents">阅读原文</a>]]></description>
+</item>
+<item>
+<title>代理编码要取代初级工程师，需要满足哪些条件？</title>
+<link>https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81874</guid>
+<pubDate>Wed, 26 Aug 2026 14:20:35 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】针对代理编码取代初级工程师的四个可证伪条件，依据METR、OpenAI、DORA及斯坦福大学的一手证据进行检验。该文章首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>意外之喜：Z.ai 是神秘 Ox Alpha 模型背后的 AI 实验室</title>
@@ -152,6 +248,30 @@
 <description><![CDATA[【the-decoder.com】Anthropic计划在首次公开募股前，向投资者展示一个理论上的市场机遇，其价值超过30万亿美元。文章《Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>将ChatGPT教师版推广至更多美国学区</title>
+<link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+<guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+<pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】ChatGPT教师版正在扩展至55个美国学校系统，为超过10万名教育工作者和员工提供安全的AI工具、培训和支持。<br/><br/><a href="https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts">阅读原文</a>]]></description>
+</item>
+<item>
+<title>学无止境：AI如何让学习持续不断</title>
+<link>https://openai.com/index/learning-never-stops</link>
+<guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+<pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI的最新报告探讨了学生和教育工作者如何利用ChatGPT，使学习过程更加连续，并提供超越课堂的支持。<br/><br/><a href="https://openai.com/index/learning-never-stops">阅读原文</a>]]></description>
+</item>
+<item>
+<title>IBM发布Granite 4.2：为开放企业模型带来原生推理与智能体强化学习</title>
+<link>https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81869</guid>
+<pubDate>Wed, 26 Aug 2026 05:48:10 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】IBM已发布Granite 4.2，这是一系列开放推理语言模型，提供3B、8B和30B参数规模，均采用Apache 2.0许可。每个模型都具备思考/低功耗/非思考模式切换及原生工具调用功能。8B和30B版本还额外经过智能体强化学习模块训练，使其能够在真实沙盒环境中编辑代码、操作终端及执行网络搜索。30B版本在SWE-Bench Verified上得分为57.00，在Terminal-Bench 2.1上得分为29.24。该文章《IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>印度Ringg获Peak XV支持，推动语音AI超越电话通话</title>
 <link>https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3156276</guid>
@@ -192,12 +312,44 @@
 <description><![CDATA[【machinelearning.apple.com】在教师模型生成的轨迹上进行监督微调，是将工具调用能力蒸馏到可部署模型中的标准第一阶段。驱动已发布工具调用代理的后训练流程以每日或每周的频率重新运行此阶段，每个周期都需支付前沿教师模型的成本，然而其机制是生成并筛选（保留教师模型的成功轨迹，丢弃其余部分），且每个周期都会留下相同的困难场景，因为失败未提供任何信号。在τ²基准上，57%的教师试验失败，其中三分之二是接近成功（大多数工具调用正确，但未完成）。<br/><br/><a href="https://machinelearning.apple.com/research/proof-gen-optimized-distillation">阅读原文</a>]]></description>
 </item>
 <item>
+<title>IDEA剪枝：生成式语言模型预训练中的集成放大与剪枝流程</title>
+<link>https://machinelearning.apple.com/research/idea-prune-pipeline</link>
+<guid isPermaLink="false">idea-prune-pipeline</guid>
+<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】近期大型语言模型的进展加剧了对在有限推理预算内实现高效且可部署模型的需求。与从头训练目标规模模型相比，结构化剪枝流程在令牌效率方面显示出优势。本文主张将先前工作中常被忽视的放大模型预训练纳入剪枝过程。我们将放大与剪枝流程作为一个集成系统进行研究，以解决两个关键问题：即使放大模型从未部署，预训练它是否值得，以及如何优化这一过程……<br/><br/><a href="https://machinelearning.apple.com/research/idea-prune-pipeline">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Luce：用于3D资产生成的可重光照高斯表示</title>
+<link>https://machinelearning.apple.com/research/relightable-gaussians-3d-generation</link>
+<guid isPermaLink="false">relightable-gaussians-3d-generation</guid>
+<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】高保真图像到3D生成需要一种能够同时捕捉几何和外观的3D表示。为了支持重光照并集成到标准渲染管线中，该表示应包含基于物理的渲染（PBR）模态，如反照率、金属粗糙度和表面法线。我们提出Luce，一种3D表示，在体素化的多模态高斯云中统一了几何和PBR材质，为每种模态使用专用的高斯原语。一个变分自编码器将该表示压缩为统一的材质感知潜在空间。一个…<br/><br/><a href="https://machinelearning.apple.com/research/relightable-gaussians-3d-generation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hugging Face事件与未来之路</title>
+<link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
+<guid isPermaLink="false">https://openai.com/index/hugging-face-incident-and-the-road-ahead</guid>
+<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI分享了关于Hugging Face安全事件的调查结果，以及我们为加强AI模型安全、监控和一致性所采取的措施。<br/><br/><a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead">阅读原文</a>]]></description>
+</item>
+<item>
 <title>loveholidays如何借助Codex让每个人都成为构建者</title>
 <link>https://openai.com/index/loveholidays</link>
 <guid isPermaLink="false">https://openai.com/index/loveholidays</guid>
 <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】了解loveholidays如何利用OpenAI Codex，让软件开发在整个企业中变得触手可及，帮助团队更快地将想法转化为产品。<br/><br/><a href="https://openai.com/index/loveholidays">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI 开源 Pipette：一个可复现的基准测试套件，同时衡量设备端模型、量化、运行时和硬件</title>
+<link>https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81866</guid>
+<pubDate>Tue, 25 Aug 2026 23:48:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】模型卡片通常在服务器级、全精度条件下报告质量，但这些数字很少能预测同一模型在手机上的实际表现。本周，Liquid AI 发布了 Pipette，这是一个开源平台，用于在边缘设备上对基础模型进行基准测试，与 Artificial Analysis 合作构建，作为独立方法论验证器。Pipette 将设备端行为视为一个整体……该文章《Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together》最初出现在 MarkTechPost 上。<br/><br/><a href="https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>在生产前如何评估LLMs</title>
@@ -214,6 +366,14 @@
 <pubDate>Tue, 25 Aug 2026 20:59:03 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】破纪录的机器人竞赛远不如家务挑战来得实在。<br/><br/><a href="https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity在NVIDIA DGX Spark上推出便携式计算机：本地化工具链、操作系统强制沙箱及本地步骤零令牌成本</title>
+<link>https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81860</guid>
+<pubDate>Tue, 25 Aug 2026 19:12:19 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity发布便携式计算机，将本地模型、工具链、沙箱及连接器整合为一个系统，运行于NVIDIA DGX Spark之上。该文章最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>图像生成器Stable Diffusion开发商Stability AI融资7600万美元</title>
@@ -248,12 +408,12 @@
 <description><![CDATA[【techcrunch.com】Anthropic正在为Claude提供跨聊天和Cowork的共享记忆，这样用户就不再需要反复向AI说明项目、偏好及其他背景信息。<br/><br/><a href="https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>谷歌推出Gemini法律版，自动化合同与研究流程</title>
-<link>https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39421</guid>
-<pubDate>Tue, 25 Aug 2026 16:21:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】谷歌推出面向法律行业的AI解决方案Gemini Enterprise for Legal，通过MCP连接器接入iManage、DocuSign和Everlaw等系统。德勤等合作伙伴销售现成的AI代理，用于合同审查等任务。Anthropic已提供类似解决方案。所有供应商均使用与其其他产品相同的模型。文章《谷歌推出Gemini法律版，自动化合同与研究流程》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/">阅读原文</a>]]></description>
+<title>Meta AI推出MetaRoCE：为AI规模以太网打造的全新RDMA传输协议</title>
+<link>https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81857</guid>
+<pubDate>Tue, 25 Aug 2026 17:25:36 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】训练和部署前沿模型如今既是计算问题，也是网络问题。诸如全归约和全对全等集合操作在训练期间同步数千个加速器，而最慢的传输决定了整个任务的节奏。即使是微小的网络摩擦也会直接导致大量计算能力闲置。本周，Meta推出了MetaRoCE。[…] 这篇关于Meta AI推出MetaRoCE的帖子首次出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Granite 4.2 大型语言模型：构建之道</title>
@@ -296,22 +456,6 @@
 <description><![CDATA[【arstechnica.com】人们一直在串联Mac用于AI开发——此次更新正是考虑到了这一点。<br/><br/><a href="https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Accel支持的Keenable正为AI代理构建网络索引</title>
-<link>https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3156161</guid>
-<pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Keenable现已结束隐身模式，获得2600万美元种子轮融资，一直在为AI代理构建庞大的网络搜索索引。<br/><br/><a href="https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>“世界似乎已经准备好了”：专访OpenAI产品负责人Thibault Sottiaux</title>
-<link>https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3156075</guid>
-<pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】TechCrunch与OpenAI产品负责人探讨了智能体、用户体验以及向Greg Brockman汇报工作等话题。<br/><br/><a href="https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>量化感知修复：一种压缩的4位模型，性能超越其全精度原版</title>
 <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
 <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
@@ -336,156 +480,12 @@
 <description><![CDATA[【openai.com】Jalapeño是OpenAI推出的定制推理芯片，为现代模型提供更快、更节能的AI推理，具备更高吞吐量和更低延迟。<br/><br/><a href="https://openai.com/index/jalapeno-first-results">阅读原文</a>]]></description>
 </item>
 <item>
-<title>情境感知，这家险些崩溃的明星AI对冲基金，现正受到美国证券交易委员会调查</title>
-<link>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3156230</guid>
-<pubDate>Tue, 25 Aug 2026 00:23:12 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这家AI对冲基金从“华尔街热议话题”到“联邦传票对象”的速度，比你说“分散投资组合”还要快。<br/><br/><a href="https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>连接、运行、部署：Gradio中的AI工作流</title>
 <link>https://huggingface.co/blog/gradio-workflow-guide</link>
 <guid isPermaLink="false">https://huggingface.co/blog/gradio-workflow-guide</guid>
 <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/gradio-workflow-guide">阅读原文</a>]]></description>
-</item>
-<item>
-<title>STARFlow2：连接语言模型与归一化流，实现统一多模态生成</title>
-<link>https://machinelearning.apple.com/research/starflow2-multimodal-generation</link>
-<guid isPermaLink="false">starflow2-multimodal-generation</guid>
-<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】能够理解、推理并生成交错文本-图像序列的统一多模态模型在结构上仍显碎片化：现有方法要么通过离散标记化牺牲视觉保真度，要么通过将因果文本生成与迭代扩散去噪相结合而强加结构不对称性，要么在将视觉-语言模型适配为生成任务时削弱预训练的理解能力。我们观察到，自回归归一化流本质上是自回归Transformer——与LLM共享相同的因果掩码、KV缓存机制和从左到右的结构——使其成为最<br/><br/><a href="https://machinelearning.apple.com/research/starflow2-multimodal-generation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>瓦解俄罗斯新一轮隐蔽影响力行动</title>
-<link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
-<guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</guid>
-<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI封禁了源自俄罗斯的账户，这些账户利用人工智能推广一个虚构的以色列智库及一个“主权”指数，该指数赞扬俄罗斯并批评西方。<br/><br/><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia">阅读原文</a>]]></description>
-</item>
-<item>
-<title>为ChatGPT Work和Codex推出Admin插件</title>
-<link>https://openai.com/index/introducing-admin-plugin</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-admin-plugin</guid>
-<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】使用ChatGPT Work和Codex的Admin插件，分析工作区使用情况、管理成员与权限、调整限制，并处理管理员请求。<br/><br/><a href="https://openai.com/index/introducing-admin-plugin">阅读原文</a>]]></description>
-</item>
-<item>
-<title>斯坦福研究：AI对入门级岗位冲击最大</title>
-<link>https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</guid>
-<pubDate>Mon, 24 Aug 2026 21:45:53 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】与受AI影响较小的职业相比，受AI影响领域的年轻人就业率下降了19%。<br/><br/><a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>特朗普在SpaceX轰动性IPO两周后购入其股票</title>
-<link>https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3156185</guid>
-<pubDate>Mon, 24 Aug 2026 21:24:17 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】总统在股价处于150美元中段时购入。SpaceX周一收盘时回落至其IPO价格135美元。<br/><br/><a href="https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>你的替代文本通过了自动化检查。但这并不意味着它质量良好。</title>
-<link>https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/</link>
-<guid isPermaLink="false">https://github.blog/?p=98354</guid>
-<pubDate>Mon, 24 Aug 2026 20:56:32 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】我们为GitHub无障碍扫描器开发了一个插件，以确保你的替代文本真正无障碍。以下是其工作原理。这篇名为“你的替代文本通过了自动化检查。但这并不意味着它质量良好”的文章最初发布在GitHub博客上。<br/><br/><a href="https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare博客——由EmDash为您呈现</title>
-<link>https://blog.cloudflare.com/cloudflare-blog-uses-emdash/</link>
-<guid isPermaLink="false">01M0TDEVJZ66N7RGSKFA27M2WZ</guid>
-<pubDate>Mon, 24 Aug 2026 19:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】我们将Cloudflare博客迁移至EmDash，以在大规模场景下验证我们的技术栈。以下是我们在性能压力测试、安全路由生产流量以及重新设计前端体验方面的具体做法。<br/><br/><a href="https://blog.cloudflare.com/cloudflare-blog-uses-emdash/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>英伟达高级经理涉嫌参与超微向中国走私AI服务器计划</title>
-<link>https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/</guid>
-<pubDate>Mon, 24 Aug 2026 16:41:45 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】英伟达员工在黄仁勋斥责超微走私AI服务器后遭到起诉。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Kiro 中推出 GPT-5.6，为开发者提升性价比</title>
-<link>https://openai.com/index/gpt-5-6-in-kiro</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-5-6-in-kiro</guid>
-<pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】GPT-5.6 现已登陆 Kiro，助力开发者以更优性价比规划、构建、审查和测试软件。<br/><br/><a href="https://openai.com/index/gpt-5-6-in-kiro">阅读原文</a>]]></description>
-</item>
-<item>
-<title>超越视觉思维链：面向主动视频推理的内化视觉思考</title>
-<link>https://machinelearning.apple.com/research/internalized-visual-thinking</link>
-<guid isPermaLink="false">internalized-visual-thinking</guid>
-<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】多模态大语言模型日益采用视觉思维链（Visual CoT）来推理空间、时间和具身环境。通过生成中间推理图像，视觉思维链为视觉预见提供了一种直观机制，但引入了显著的推理开销，这对主动视频推理尤为不利。我们探究模型是否能在训练期间学会视觉思考，同时在推理时直接进行推理。我们提出了内化视觉思考（IVT），一种联合优化文本预测和…的后训练框架。<br/><br/><a href="https://machinelearning.apple.com/research/internalized-visual-thinking">阅读原文</a>]]></description>
-</item>
-<item>
-<title>一次设定：Bot Preference Sync 功能上线</title>
-<link>https://blog.cloudflare.com/bot-preference-sync/</link>
-<guid isPermaLink="false">01M0GEDGHWE8A801RQP25T1R91</guid>
-<pubDate>Fri, 21 Aug 2026 23:19:57 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare 新推出的 Bot Preference Sync 功能可自动将您的 robots.txt 文件与针对搜索、代理和训练的 AI 机器人策略保持一致。无需维护静态文件，即可轻松管理哪些机器人可以访问您的内容。<br/><br/><a href="https://blog.cloudflare.com/bot-preference-sync/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>从Atari到EVE Online：基于15年游戏AI研究的积累</title>
-<link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</guid>
-<pubDate>Fri, 21 Aug 2026 11:59:48 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】谷歌DeepMind与游戏工作室合作，原型验证突破性AI游戏玩法。<br/><br/><a href="https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta AI眼镜需求激增，难以避免令人不安的录音</title>
-<link>https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/</guid>
-<pubDate>Fri, 21 Aug 2026 11:00:53 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Ars关注Zuckoff，这款最新免费应用在隐私争议中检测Meta AI眼镜。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face推理端点、任务与存储桶如何助力Papers with Code的搜索功能</title>
-<link>https://huggingface.co/blog/pwc-search</link>
-<guid isPermaLink="false">https://huggingface.co/blog/pwc-search</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/pwc-search">阅读原文</a>]]></description>
-</item>
-<item>
-<title>衡量语音识别中的基准优化</title>
-<link>https://huggingface.co/blog/asr-benchmark-optimization</link>
-<guid isPermaLink="false">https://huggingface.co/blog/asr-benchmark-optimization</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/asr-benchmark-optimization">阅读原文</a>]]></description>
-</item>
-<item>
-<title>8月17日服务中断及后续工作</title>
-<link>https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</link>
-<guid isPermaLink="false">https://github.blog/?p=98377</guid>
-<pubDate>Thu, 20 Aug 2026 18:36:11 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】关于8月17日服务中断的最新进展以及我们为提升可靠性所采取的措施。此文章《8月17日服务中断及后续工作》最初发布在GitHub博客上。<br/><br/><a href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>从全有或全无到基于任务的OAuth同意</title>
-<link>https://blog.cloudflare.com/task-based-oauth-consent/</link>
-<guid isPermaLink="false">01M0E1JC8D74SDDVJCVBVX8EFA</guid>
-<pubDate>Thu, 20 Aug 2026 17:03:03 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare OAuth现在支持可选范围，让用户对应用可访问的内容拥有更多控制权，并帮助开发者围绕当前任务构建安全的同意流程。<br/><br/><a href="https://blog.cloudflare.com/task-based-oauth-consent/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

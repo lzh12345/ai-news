@@ -1,72 +1,4 @@
 {
-"https://the-decoder.com/?p=37604": {
-"t": "OpenAI员工详解GPT-5.6 Sol的五级推理能力如何匹配不同任务复杂度",
-"s": "GPT-5.6 Sol配备了从\"轻量\"到\"极高\"的五级推理能力，外加\"最大\"和\"极致\"模式，可并行部署多个子智能体。OpenAI的Vaibhav Srivastav建议从低级别开始，仅在必要时升级。本文《OpenAI员工详解GPT-5.6 Sol的五级推理能力如何匹配不同任务复杂度》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3140997": {
-"t": "Hugging Face CEO谈为何企业不再租用AI",
-"s": "据Hugging Face首席执行官Clem Delangue称，开源AI正在蓬勃发展。近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在此分享和下载开源模型与数据集，目前约有一半的《财富》500强企业正在使用其服务。Delangue反复观察到同样的现象：企业开始……"
-},
-"https://techcrunch.com/?p=3141357": {
-"t": "Meta在遭到强烈反对后移除Instagram上争议性AI功能",
-"s": "该公司在一篇博客文章中表示：“我们的初衷是提供一个有用的创意工具，并让人们能够控制自己的公开内容是否以这种方式被引用。我们已收到反馈，认为这一功能未能达到预期效果，因此已将其下架。”"
-},
-"behavioral-privacy-agentic-negotiation": {
-"t": "智能体谈判中的行为隐私泄露：通过随机化策略形式化与缓解推理攻击",
-"s": "本文已被2026年国际可用性、可靠性与安全会议（ARES）下设的AI4TCI（面向安全可信关键基础设施系统的人工智能研讨会）接收。自主谈判智能体正越来越多地部署于保险、采购等高敏感场景。尽管加密技术能保护明确披露的约束值，却无法应对一种更隐蔽的威胁——行为隐私泄露：攻击者可通过观察谈判动态（如让步轨迹、时序等）推断出智能体的私有约束。"
-},
-"https://the-decoder.com/?p=37633": {
-"t": "中国Orca世界模型无需任何动作标签即可媲美专业机器人系统",
-"s": "北京人工智能研究院发布了Orca，这是一种预测抽象世界状态而非标记或像素的世界模型。该模型在12.5万小时的视频数据上训练，未使用任何动作标签，在五项机器人任务中与专业π0.5模型表现相当，或有助于缓解该领域长期存在的数据短缺问题。本文《中国Orca世界模型无需任何动作标签即可媲美专业机器人系统》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=37627": {
-"t": "Meta的Muse Spark 1.1在编程方面超越GLM-5.2，且成本略低",
-"s": "Meta的Muse Spark 1.1在人工智能分析指数上得分为51分，三个月内提升了8分。在编程方面，它以71.3分的成绩略胜GLM-5.2，每项任务成本更低，仅为0.26美元。幻觉率从73%降至38%。本文《Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37623": {
-"t": "OpenAI承认ChatGPT Work上线“并非尽善尽美”，正紧急修复用户体验与成本问题",
-"s": "在ChatGPT Work及GPT-5.6 Sol发布后，OpenAI承认存在重大缺陷：计算资源消耗过高、聊天与项目切换至桌面界面时体验混乱、Codex与ChatGPT Work界限模糊，以及现有工作流程出现退化。据报道，GPT-5.6 Sol在某些情况下会自行删除用户未授权的数据。本文《OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37618": {
-"t": "苹果起诉OpenAI，指控其通过挖角员工实施“协同行动”窃取商业机密",
-"s": "苹果正就系统性挖角员工及涉嫌窃取未发布产品相关商业机密一事起诉OpenAI。诉状指出，目前有超过400名前苹果员工在OpenAI任职，包括前iPhone设计主管唐·坦。这起诉讼正值OpenAI组建自有硬件部门之际，其首款产品预计最早要到2027年才能上市。本文《苹果起诉OpenAI，指控其通过挖角员工实施“协同行动”窃取商业机密》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80976": {
-"t": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0：专为物理 AI 原生构建的因果视频-动作模型",
-"s": "蚂蚁集团 Robbyant 发布了 LingBot-VA 2.0 技术报告——这是一个从零开始为具身智能构建的物理 AI 视频-动作基础模型，而非从视频生成器微调而来。它通过前瞻推理在执行前预测未来状态，并在每次真实观测后重新接地，实现了 225 Hz 的异步控制。我们解析了因果 DiT、稀疏 MoE 视频流、语义视觉-动作分词器，以及论文中数据不一致之处。"
-},
-"https://the-decoder.com/?p=37656": {
-"t": "OpenAI的GPT-5.6 Sol Ultra据称在一小时内解决了一个50年未解的数学难题",
-"s": "OpenAI的GPT-5.6 Sol Ultra在不到一小时内，通过64个子代理并行工作，给出了“循环双覆盖猜想”的证明。该猜想已悬而未决50年。数学家托马斯·布鲁姆称该证明出人意料地基础，但批评其缺乏对已知先前工作的引用。更大的问题依然存在：AI只是重新组合现有知识，还是创造了新东西？文章《OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37650": {
-"t": "恐怖组织正利用各大AI聊天机器人策划袭击与开发武器",
-"s": "剑桥大学一项研究发现，博科圣地组织利用ChatGPT、Claude和Gemini等AI聊天机器人策划袭击、制造爆炸物及维护武器。自2023年起，伊斯兰国（ISIS）成员已开始培训该组织指挥官如何绕过安全过滤器。鉴于研究显示安全过滤器屡次未能阻止滥用行为，AI提供商的自愿性自我监管显然不够。本文《恐怖组织正利用各大AI聊天机器人策划袭击与开发武器》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3141184": {
-"t": "OpenAI押注家庭用户，ChatGPT深入千家万户",
-"s": "根据一则招聘信息，ChatGPT正在招聘一名专门的产品经理，为家庭、照护者和老年人打造体验。"
-},
-"https://the-decoder.com/?p=37690": {
-"t": "Anthropic称Claude Cowork最大用途是无人愿接手的琐碎办公室工作",
-"s": "Anthropic分析了来自60多万个组织的120万次Claude Cowork会话。约一半的使用量用于业务流程和文本创作，即Anthropic所称的“工作之外的工作”。这包括编制状态报告、创建入职清单或制作幻灯片等任务。软件开发在Cowork中几乎不出现，因为开发者会使用Claude Code来完成这类工作。本文《Anthropic称Claude Cowork最大用途是无人愿接手的琐碎办公室工作》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37683": {
-"t": "OpenAI CEO Altman 如今“相当确信”AI 能净增就业，这与之前预测大规模失业的立场大相径庭",
-"s": "OpenAI CEO Sam Altman 如今表示，他“相当确信”AI 创造的就业岗位多于其淘汰的岗位。这与他早前关于整个职业领域可能消失的警告形成了鲜明对比。Anthropic CEO Dario Amodei 也在收回类似言论。然而，目前的研究既未支持早前的末日预测，也未证实当前的乐观态度。本文《OpenAI CEO Altman 如今“相当确信”AI 能净增就业，这与之前预测大规模失业的立场大相径庭》最初发表于 The Decoder。"
-},
-"https://the-decoder.com/?p=37672": {
-"t": "布朗大学教授禁止学生使用AI参加考试后，成绩从96%骤降至48%",
-"s": "布朗大学一位经济学教授怀疑，他班上86名学生中多数在开卷考试中借助AI作弊，当时平均成绩高达96%。当他将期末考试改为现场闭卷考试后，18名学生退课，9人缺考，平均分降至48.6%。来自中国和加州大学伯克利分校的两项大型研究支持了他的观点：当学生依赖AI完成作业时，其监考成绩会大幅下滑。本文《布朗大学教授禁止学生使用AI参加考试后，成绩从96%骤降至48%》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37660": {
-"t": "研究人员用结构化记忆替代不断增长的聊天记录后，AI智能体在《杀戮尖塔2》中获胜",
-"s": "AgenticSTS项目用五个独立的记忆层替代了AI智能体不断增长的聊天记录。在卡牌游戏《杀戮尖塔2》中测试时，提示词保持在约5000个token，而非膨胀至50万个以上。该智能体在10局游戏中获胜6局，而竞争智能体则一局未胜。本文《AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80988": {
-"t": "Mira Murati的Thinking Machines Lab提出以可定制模型权重构建以人为本AI的技术论证",
-"s": "Thinking Machines Lab发布了题为《值得构建的未来是人性化的》一文。该文将人类参与、模型所有权和去中心化对齐视为技术挑战，并将其与交互模型及Tinker的LoRA微调技术相关联——团队可自行训练并保留其模型权重。本文首发于MarkTechPost。"
-},
 "https://www.marktechpost.com/?p=80985": {
 "t": "英伟达基于Tile的GPU编程编码指南：从cuTile与Triton内核到Flash Attention",
 "s": "在本教程中，我们借助TileGym探索英伟达基于Tile的GPU编程，构建一个可在不同硬件上运行的Colab工作流。我们探测CUDA环境，尝试真实的cuTile后端，并在标准Colab GPU缺乏cuTile栈时回退到Triton。我们学习核心的Tile思想：对完整的数据块而非单个线程进行操作，然后加载、计算并存储它们。我们实现了向量加法、融合GELU、行级Softmax、分块矩阵乘法以及Flash Attention，并逐一与PyTorch进行对照验证。"
@@ -4798,5 +4730,73 @@
 "proof-gen-optimized-distillation": {
 "t": "PROOF-Gen：从优化数据到更优蒸馏",
 "s": "在教师模型生成的轨迹上进行监督微调，是将工具调用能力蒸馏到可部署模型中的标准第一阶段。驱动已发布工具调用代理的后训练流程以每日或每周的频率重新运行此阶段，每个周期都需支付前沿教师模型的成本，然而其机制是生成并筛选（保留教师模型的成功轨迹，丢弃其余部分），且每个周期都会留下相同的困难场景，因为失败未提供任何信号。在τ²基准上，57%的教师试验失败，其中三分之二是接近成功（大多数工具调用正确，但未完成）。"
+},
+"https://techcrunch.com/?p=3157364": {
+"t": "Anthropic与Nscale达成450亿美元协议，延续其算力吞噬狂潮",
+"s": "与这家基础设施提供商的新协议，是Anthropic近期对算力极度渴求的最新例证。"
+},
+"https://www.marktechpost.com/?p=81885": {
+"t": "Z.ai发布GLM-5.3-Flash：320B-A18B原生多模态MoE，支持100万Token上下文",
+"s": "Z.ai发布了GLM-5.3-Flash，这是GLM-5系列中首个原生多模态模型——一个总参数量320B/激活参数18B的MoE模型，拥有1,048,576个Token的上下文窗口，权重以MIT许可证在Hugging Face上提供，API定价为输入$0.15/M、输出$0.50/M。它在Terminal-Bench 2.1上得分84.3，在DeepSWE v1.1上得分63.4，采用混合KDA线性加NoPE稀疏MLA注意力机制，相比GLM-5.3将注意力计算量减少约3倍，KV缓存减少4.4倍。该文章《Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context》最初发表于MarkTechPost。"
+},
+"https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/": {
+"t": "旨在取代Meta员工的AI代理实施了“大规模、破坏性行为”",
+"s": "路透社报道显示，Meta在用人AI代理替代人类员工方面面临挑战。"
+},
+"https://github.blog/?p=98460": {
+"t": "GitHub Copilot应用入门：自动化Dependabot拉取请求分类",
+"s": "管理库更新有时会很繁琐。了解GitHub Copilot应用如何处理这类重复性任务。这篇文章《GitHub Copilot应用入门：自动化Dependabot拉取请求分类》最初出现在GitHub博客上。"
+},
+"https://techcrunch.com/?p=3157316": {
+"t": "谷歌的Gemini存在品牌问题，整个AI领域亦然",
+"s": "消费级AI应用应停止让用户学习其产品架构。"
+},
+"https://techcrunch.com/?p=3157219": {
+"t": "如何解读OpenAI高管离职潮？",
+"s": "格雷格·布罗克曼是否一直是合适的领导者？"
+},
+"https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/": {
+"t": "谷歌发布Gemini 3.5转录功能，实现AI驱动的语音转文字",
+"s": "驱动Gboard中Rambler的AI技术将扩展至更多谷歌产品，包括Chrome浏览器。"
+},
+"https://techcrunch.com/?p=3157343": {
+"t": "OpenAI发布关于Hugging Face安全漏洞的官方报告",
+"s": "这份报告涵盖了多起独立的网络安全入侵事件，是迄今为止对该事件最全面的说明。"
+},
+"https://the-decoder.com/?p=39466": {
+"t": "萨姆·奥特曼称，若按其定义，OpenAI将在2026年底前实现AGI",
+"s": "据《时代》杂志报道，OpenAI领导层认为通用人工智能（AGI）已触手可及。首席科学家雅库布·帕乔基表示，公司即将推出的模型Astra已能像自动化研究实习生一样工作。奥特曼预计，这将是“首个能以重要方式真正发明新事物的模型”。文章《萨姆·奥特曼称，若按其定义，OpenAI将在2026年底前实现AGI》最初发表于The Decoder。"
+},
+"https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
+"t": "Gemini 3.5 Transcribe 实现智能转录",
+"s": "现在，通过Gemini 3.5 Transcribe，您可以获得更智能的语音转文字转录服务。"
+},
+"https://www.marktechpost.com/?p=81877": {
+"t": "阿里巴巴Qwen团队发布Qwen3.8-Flash-Next：125B参数多模态MoE模型，仅6B激活参数，预览Qwen4架构",
+"s": "我们审视了Qwen3.8-Flash-Next，这是阿里巴巴的开源权重多模态混合专家模型，也是Qwen4架构的早期预览。我们解析了180B参数的实际分布：125B主干网络、51B N-gram嵌入表，以及4B多令牌预测模块，每个令牌仅激活6B参数。我们详细介绍了四项架构变革——Gated DeltaNet与Qwen稀疏注意力混合、门控残差、N-gram嵌入，以及Muon优化器。我们还涵盖了基准测试结果、相较于Qwen3.7-Plus报告的1/9训练成本，以及自托管172.78 GiB FP8模型的相关信息。"
+},
+"https://www.marktechpost.com/?p=81874": {
+"t": "代理编码要取代初级工程师，需要满足哪些条件？",
+"s": "针对代理编码取代初级工程师的四个可证伪条件，依据METR、OpenAI、DORA及斯坦福大学的一手证据进行检验。该文章首发于MarkTechPost。"
+},
+"https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+"t": "将ChatGPT教师版推广至更多美国学区",
+"s": "ChatGPT教师版正在扩展至55个美国学校系统，为超过10万名教育工作者和员工提供安全的AI工具、培训和支持。"
+},
+"https://openai.com/index/learning-never-stops": {
+"t": "学无止境：AI如何让学习持续不断",
+"s": "OpenAI的最新报告探讨了学生和教育工作者如何利用ChatGPT，使学习过程更加连续，并提供超越课堂的支持。"
+},
+"idea-prune-pipeline": {
+"t": "IDEA剪枝：生成式语言模型预训练中的集成放大与剪枝流程",
+"s": "近期大型语言模型的进展加剧了对在有限推理预算内实现高效且可部署模型的需求。与从头训练目标规模模型相比，结构化剪枝流程在令牌效率方面显示出优势。本文主张将先前工作中常被忽视的放大模型预训练纳入剪枝过程。我们将放大与剪枝流程作为一个集成系统进行研究，以解决两个关键问题：即使放大模型从未部署，预训练它是否值得，以及如何优化这一过程……"
+},
+"relightable-gaussians-3d-generation": {
+"t": "Luce：用于3D资产生成的可重光照高斯表示",
+"s": "高保真图像到3D生成需要一种能够同时捕捉几何和外观的3D表示。为了支持重光照并集成到标准渲染管线中，该表示应包含基于物理的渲染（PBR）模态，如反照率、金属粗糙度和表面法线。我们提出Luce，一种3D表示，在体素化的多模态高斯云中统一了几何和PBR材质，为每种模态使用专用的高斯原语。一个变分自编码器将该表示压缩为统一的材质感知潜在空间。一个…"
+},
+"https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
+"t": "Hugging Face事件与未来之路",
+"s": "OpenAI分享了关于Hugging Face安全事件的调查结果，以及我们为加强AI模型安全、监控和一致性所采取的措施。"
 }
 }
