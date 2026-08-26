@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 26 Aug 2026 04:31:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 08:33:42 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>IBM发布Granite 4.2：为开放企业模型带来原生推理与智能体强化学习</title>
+<link>https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81869</guid>
+<pubDate>Wed, 26 Aug 2026 05:48:10 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】IBM已发布Granite 4.2，这是一系列开放推理语言模型，提供3B、8B和30B参数规模，均采用Apache 2.0许可。每个模型都具备思考/低功耗/非思考模式切换及原生工具调用功能。8B和30B版本还额外经过智能体强化学习模块训练，使其能够在真实沙盒环境中编辑代码、操作终端及执行网络搜索。30B版本在SWE-Bench Verified上得分为57.00，在Terminal-Bench 2.1上得分为29.24。该文章《IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>印度Ringg获Peak XV支持，推动语音AI超越电话通话</title>
 <link>https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/</link>
@@ -462,14 +470,6 @@
 <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】大多数已出版作者在不知情或未同意的情况下，为那些可能威胁其生计的AI工具的发展做出了贡献。这看起来似乎违法，对吗？<br/><br/><a href="https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>认识FreeToken：一款边缘原生MoE服务引擎，可在单工作站GPU上运行753B GLM-5.2</title>
-<link>https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81826</guid>
-<pubDate>Sun, 23 Aug 2026 10:44:59 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】FreeToken利用实测带宽，在PCIe填充和CPU执行之间分配MoE缓存未命中，从而在本地解锁前沿模型。该文章《Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU》首发于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>一次设定：Bot Preference Sync 功能上线</title>

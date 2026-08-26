@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=3140819": {
-"t": "一家AI代理初创公司让其代理操盘1亿美元融资",
-"s": "Lyzr，一家为企业构建AI代理的初创公司，利用自己的AI代理完成了1亿美元融资轮——这显然证明了该产品确实有效。"
-},
 "https://techcrunch.com/?p=3140848": {
 "t": "OpenAI 关闭 Atlas，但其AI浏览器雄心仍在增长",
 "s": "OpenAI 在不到一年后停止其AI驱动浏览器。但它正在将部分代理浏览功能迁移至桌面应用和Chrome扩展。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3156276": {
 "t": "印度Ringg获Peak XV支持，推动语音AI超越电话通话",
 "s": "Ringg在A轮扩展融资中从Peak XV筹集了1000万美元。"
+},
+"https://www.marktechpost.com/?p=81869": {
+"t": "IBM发布Granite 4.2：为开放企业模型带来原生推理与智能体强化学习",
+"s": "IBM已发布Granite 4.2，这是一系列开放推理语言模型，提供3B、8B和30B参数规模，均采用Apache 2.0许可。每个模型都具备思考/低功耗/非思考模式切换及原生工具调用功能。8B和30B版本还额外经过智能体强化学习模块训练，使其能够在真实沙盒环境中编辑代码、操作终端及执行网络搜索。30B版本在SWE-Bench Verified上得分为57.00，在Terminal-Bench 2.1上得分为29.24。该文章《IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models》最初发表于MarkTechPost。"
 }
 }
