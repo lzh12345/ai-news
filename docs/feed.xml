@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 26 Aug 2026 22:37:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 06:19:16 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>谷歌研究院推出GlucoFM：一款用于连续血糖监测的0.72M参数双流基础模型</title>
+<link>https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81891</guid>
+<pubDate>Thu, 27 Aug 2026 04:13:44 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】谷歌研究院与新南威尔士大学悉尼分校联合发布了GlucoFM，这是一种自监督基础模型，它将连续血糖监测（CGM）轨迹分解为缓慢生理流和瞬时事件流，而非将其编码为单一序列。该模型拥有0.72M参数，在14项队列-任务评估中平均PR-AUC达到58.8，超越了135M参数的GluFormer和385M参数的MOMENT。目前它仍是研究原型，尚未获得监管批准。文章《谷歌研究院推出GlucoFM：一款用于连续血糖监测的0.72M参数双流基础模型》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>病毒式传播的AI初创公司Instinct以25亿美元估值融资3.5亿美元</title>
+<link>https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3157433</guid>
+<pubDate>Thu, 27 Aug 2026 00:24:57 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】这家初创公司成立仅一年，却已引发巨大关注（和资金涌入），同时也激起了隐私方面的担忧。<br/><br/><a href="https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>亚马逊因“需求激增”将英伟达芯片订单量增至三倍</title>
+<link>https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3157431</guid>
+<pubDate>Wed, 26 Aug 2026 23:47:18 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】亚马逊计划在未来两年内为其数据中心新增200万颗英伟达GPU芯片。但这一扩展的合作关系远不止于购买更多芯片。<br/><br/><a href="https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic与Nscale达成450亿美元协议，延续其算力吞噬狂潮</title>
 <link>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</link>
@@ -432,22 +456,6 @@
 <description><![CDATA[【arstechnica.com】一位先驱AI科学家曾预言，计算机将取代人类放射科医生。然而，这一预言并未成真。<br/><br/><a href="https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Gamma收购Accel投资的设计初创公司Lica</title>
-<link>https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3154850</guid>
-<pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Lica的联合创始人将加入Gamma新成立的研究团队。<br/><br/><a href="https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI的Jalapeño芯片专为大规模快速推理而设计，基准测试显示其性能卓越</title>
-<link>https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3156453</guid>
-<pubDate>Tue, 25 Aug 2026 14:22:04 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】在SemiAnalysis的InferenceX基准测试中，Jalapeño在每位用户的令牌数及每千瓦吞吐量上均超越了当前最先进水平。<br/><br/><a href="https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>苹果新款台式电脑专为本地AI开发设计</title>
 <link>https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/</link>
 <guid isPermaLink="false">https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/</guid>
@@ -478,14 +486,6 @@
 <pubDate>Tue, 25 Aug 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Jalapeño是OpenAI推出的定制推理芯片，为现代模型提供更快、更节能的AI推理，具备更高吞吐量和更低延迟。<br/><br/><a href="https://openai.com/index/jalapeno-first-results">阅读原文</a>]]></description>
-</item>
-<item>
-<title>连接、运行、部署：Gradio中的AI工作流</title>
-<link>https://huggingface.co/blog/gradio-workflow-guide</link>
-<guid isPermaLink="false">https://huggingface.co/blog/gradio-workflow-guide</guid>
-<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/gradio-workflow-guide">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

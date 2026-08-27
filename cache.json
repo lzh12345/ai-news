@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=80985": {
-"t": "英伟达基于Tile的GPU编程编码指南：从cuTile与Triton内核到Flash Attention",
-"s": "在本教程中，我们借助TileGym探索英伟达基于Tile的GPU编程，构建一个可在不同硬件上运行的Colab工作流。我们探测CUDA环境，尝试真实的cuTile后端，并在标准Colab GPU缺乏cuTile栈时回退到Triton。我们学习核心的Tile思想：对完整的数据块而非单个线程进行操作，然后加载、计算并存储它们。我们实现了向量加法、融合GELU、行级Softmax、分块矩阵乘法以及Flash Attention，并逐一与PyTorch进行对照验证。"
-},
-"https://the-decoder.com/?p=37699": {
-"t": "标普全球将OpenAI视为甲骨文的“关键信用风险”，并下调其信用评级",
-"s": "标普全球已将甲骨文的信用评级下调至“BBB-”，仅比垃圾级高出一档。OpenAI约占甲骨文6380亿美元合同义务的一半。如果OpenAI退出，甲骨文将面临无法填补的巨大数据中心容量。本文《标普全球将OpenAI视为甲骨文的“关键信用风险”，并下调其信用评级》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=37696": {
-"t": "Meta 关闭 Muse Image 功能，该功能曾允许任何人未经同意生成 Instagram 用户的 AI 照片",
-"s": "Meta 在其新的 Muse Image 模型中移除了一项备受争议的功能，此前该功能遭到广泛批评。该功能允许用户通过 @提及他人的公开 Instagram 账户来生成这些人的 AI 图像，无需征得同意，只需一个用户名即可。Meta 承认“此功能未达到预期”，并在宣布后数日内将其关闭。本文《Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent》最初发表于 The Decoder。"
-},
 "https://the-decoder.com/?p=37708": {
 "t": "研究覆盖五大平台，LinkedIn 稳坐长文AI垃圾内容之王宝座",
 "s": "根据Pangram的分析，每四篇较长的社交媒体帖子中就有一篇完全由AI生成。LinkedIn以41%的长文帖子被标记为AI撰写而领先。该平台仅占所有扫描帖子的三分之一，却贡献了近三分之二的检测到的AI内容。由于检测模型倾向于保守标记，实际比例可能更高。文章《研究覆盖五大平台，LinkedIn 稳坐长文AI垃圾内容之王宝座》首发于The Decoder。"
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
 "t": "Hugging Face事件与未来之路",
 "s": "OpenAI分享了关于Hugging Face安全事件的调查结果，以及我们为加强AI模型安全、监控和一致性所采取的措施。"
+},
+"https://www.marktechpost.com/?p=81891": {
+"t": "谷歌研究院推出GlucoFM：一款用于连续血糖监测的0.72M参数双流基础模型",
+"s": "谷歌研究院与新南威尔士大学悉尼分校联合发布了GlucoFM，这是一种自监督基础模型，它将连续血糖监测（CGM）轨迹分解为缓慢生理流和瞬时事件流，而非将其编码为单一序列。该模型拥有0.72M参数，在14项队列-任务评估中平均PR-AUC达到58.8，超越了135M参数的GluFormer和385M参数的MOMENT。目前它仍是研究原型，尚未获得监管批准。文章《谷歌研究院推出GlucoFM：一款用于连续血糖监测的0.72M参数双流基础模型》最初发表于MarkTechPost。"
+},
+"https://techcrunch.com/?p=3157433": {
+"t": "病毒式传播的AI初创公司Instinct以25亿美元估值融资3.5亿美元",
+"s": "这家初创公司成立仅一年，却已引发巨大关注（和资金涌入），同时也激起了隐私方面的担忧。"
+},
+"https://techcrunch.com/?p=3157431": {
+"t": "亚马逊因“需求激增”将英伟达芯片订单量增至三倍",
+"s": "亚马逊计划在未来两年内为其数据中心新增200万颗英伟达GPU芯片。但这一扩展的合作关系远不止于购买更多芯片。"
 }
 }
