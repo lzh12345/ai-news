@@ -1,128 +1,4 @@
 {
-"https://the-decoder.com/?p=37708": {
-"t": "研究覆盖五大平台，LinkedIn 稳坐长文AI垃圾内容之王宝座",
-"s": "根据Pangram的分析，每四篇较长的社交媒体帖子中就有一篇完全由AI生成。LinkedIn以41%的长文帖子被标记为AI撰写而领先。该平台仅占所有扫描帖子的三分之一，却贡献了近三分之二的检测到的AI内容。由于检测模型倾向于保守标记，实际比例可能更高。文章《研究覆盖五大平台，LinkedIn 稳坐长文AI垃圾内容之王宝座》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=37704": {
-"t": "Claude Code 现已内置浏览器，让AI能够读取、点击和输入外部网站内容",
-"s": "Claude Code 现在内置了一个浏览器，使AI能够在开发环境中直接打开、读取并与网页进行交互。对外部网站的写入操作会经过分类器筛选，而购买或创建账户等行为则需要用户批准。本文《Claude Code now has a built-in browser that lets the AI read, click, and type on external websites》最初发表于 The Decoder。"
-},
-"https://www.marktechpost.com/?p=80995": {
-"t": "认识NeuroVFM：基于Vol-JEPA在未经整理的临床MRI和CT影像上训练的新型神经影像基础模型",
-"s": "NeuroVFM是密歇根大学开发的一款通用型神经影像基础模型，基于524万份临床MRI和CT影像数据训练而成。其Vol-JEPA基础架构将I-JEPA和V-JEPA扩展至体积医学影像领域，无需放射学报告标签即可学习大脑解剖结构和病理特征。本文《Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes》首发于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=80992": {
-"t": "循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环",
-"s": "大多数人仍像使用2015年的搜索框一样使用AI——输入、阅读、再输入。一种新模式用循环取代了这种手动往返。本指南通过两个已验证的成果解释循环工程：来源包括安德烈·卡帕西的自动研究代码库和双层自动研究论文，框架参考了@0xCodila的撰文。[...] 这篇《循环工程指南：'自动研究'与'双层自动研究'如何将AI代理转变为自主机器学习研究循环》最初发表于MarkTechPost。"
-},
-"https://the-decoder.com/?p=37678": {
-"t": "谷歌SensorFM将杂乱的穿戴传感器数据转化为通用健康智能层",
-"s": "谷歌研究院的SensorFM是一个基础模型，基于来自500万Fitbit和Pixel Watch用户超过一万亿分钟的穿戴设备数据进行训练。它在35项健康和行为任务中的34项上超越了现有基准。SensorFM最终可能为谷歌的AI健康教练提供动力，但该公司尚未宣布任何整合计划。本文《谷歌SensorFM将杂乱的穿戴传感器数据转化为通用健康智能层》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81002": {
-"t": "斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统",
-"s": "智能体大语言模型（LLMs）会以相同方式反复失败，因为它们缺乏特定、可复用的能力。斯坦福大学的TRACE系统能从智能体自身的轨迹中诊断这些能力缺口，为每种能力合成一个可验证的训练环境，为每种能力训练一个LoRA适配器，并在专家之间路由令牌——在τ²-Bench上提升了15.3个点，在SWE-bench Verified上达到了73.2%的Pass@1。本文《斯坦福研究人员推出TRACE：一种将智能体重复失败转化为合成强化学习环境的能力定向训练系统》最初发表于MarkTechPost。"
-},
-"https://the-decoder.com/?p=37714": {
-"t": "Anthropic延长订阅用户免费使用Fable 5权限，OpenAI的GPT-5.6 Sol加剧价格战",
-"s": "Anthropic将Claude Fable 5保留在订阅计划中，直至2026年7月19日。该模型原定于今日转为按使用量付费。订阅用户每周可将最多50%的限额用于Fable 5。这一延期很可能是为了应对OpenAI的GPT-5.6 Sol及更便宜竞品模型带来的定价压力。本文《Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=80998": {
-"t": "Prime Intellect 发布 Verifiers v1：面向智能体强化学习训练与评估的可组合任务集、框架与运行时",
-"s": "Prime Intellect 发布了 verifiers 0.2.0，在 verifiers.v1 命名空间下预览了重写的“v1”核心。它将环境拆分为任务集（what）、框架（how）和运行时（where），并配备了一个拦截服务器，用于代理请求并记录训练就绪的追踪记录。任何任务集都可在任何兼容的框架下运行，并在发布时提供完整的 prime-rl 训练支持。该文章《Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations》首次出现在 MarkTechPost 上。"
-},
-"6ePF6Vl7bAXNNpdFDoFbqs": {
-"t": "推出 Precursor：通过持续客户端信号检测代理行为",
-"s": "Precursor 是我们为机器人管理打造的新型持续行为验证引擎，能够洞察人类与机器人在完整用户旅程中的实际交互方式。通过将会话级行为转化为机器人检测信号，它能以更高精度识别高级自动化行为，同时减少对合法用户的干扰。"
-},
-"https://the-decoder.com/?p=37720": {
-"t": "德国AI联盟发布Soofi S，一款在英语和德语基准测试中均领先的开源300亿参数模型",
-"s": "德国一个研究联盟发布了Soofi S 30B-A3B，这是一款完全在慕尼黑德国电信云基础设施上训练的开源语言模型。该模型采用高效的混合架构，每个token仅激活其316亿参数中的一小部分，即使在极长上下文下也能保持稳定吞吐量。训练数据集有意偏向德语，Soofi S在所有完全开源的竞争对手中，在德语和英语基准测试上均表现最佳。文章《德国AI联盟发布Soofi S，一款在英语和德语基准测试中均领先的开源300亿参数模型》首发于。"
-},
-"https://openai.com/academy/getting-started": {
-"t": "ChatGPT入门指南",
-"s": "了解如何使用ChatGPT，开启你的首次对话，并发现利用AI进行写作、头脑风暴和解决问题的简单方法。"
-},
-"https://the-decoder.com/?p=37745": {
-"t": "OpenAI新提示指南：告诉用户停止过度思考，从结果出发",
-"s": "OpenAI发布了一份面向普通用户而非开发者的提示指南。该指南摒弃了僵化的公式，提出了四个可选构建模块：目标、背景、格式和约束。核心建议很简单：描述你想要的结果，而非达成结果的步骤。这是OpenAI首次在单一框架中涵盖Chat和Codex。本文《OpenAI新提示指南：告诉用户停止过度思考，从结果出发》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3141604": {
-"t": "山姆·奥特曼对太空数据中心的吐槽，正是多数专家早已认同的观点",
-"s": "“老兄，你才是那个向公开市场投资者兜售短期太空数据中心概念的人。”"
-},
-"https://the-decoder.com/?p=37739": {
-"t": "图灵奖得主里奇·萨顿创立Oak Lab，打造自主学习AI智能体",
-"s": "2024年图灵奖得主、现代强化学习联合创始人理查德·萨顿在加拿大多伦多创立了一家名为Oak Lab的新初创公司。他称当前的深度学习方法“薄弱且低效”，并希望构建能够从环境中持续学习的AI智能体。本文《图灵奖得主里奇·萨顿创立Oak Lab，打造自主学习AI智能体》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3141477": {
-"t": "AI是否应助你逃脱杀妻之罪？",
-"s": "一个完全以用户意志为导向的AI世界，究竟会是什么模样？"
-},
-"https://the-decoder.com/?p=37735": {
-"t": "诺贝尔奖得主与AI领袖警告：应对AI经济影响的窗口正在迅速关闭",
-"s": "包括16位诺贝尔奖得主以及来自谷歌、OpenAI和Anthropic的代表在内的200多位经济学家和AI研究人员，在一份联合声明中呼吁立即采取行动。AI变革可能超越工业革命，但其发生时间将大幅缩短。该文件未提出具体措施，且迄今的研究尚未发现AI对劳动力市场产生显著影响。本文《诺贝尔奖得主与AI领袖警告：应对AI经济影响的窗口正在迅速关闭》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3141549": {
-"t": "Anthropic 开始为印度（美国以外最大市场）本地化 Claude 定价",
-"s": "印度的 Claude 用户开始看到以印度卢比计价的订阅方案。"
-},
-"https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/": {
-"t": "如今，防御者也拥抱了提示注入技术",
-"s": "“上下文轰炸”诱骗黑客代理在造成危害前自行关闭。"
-},
-"https://the-decoder.com/?p=37732": {
-"t": "纳德拉指责OpenAI和Anthropic等AI实验室在利用他人数据训练的同时禁止知识蒸馏",
-"s": "微软CEO萨提亚·纳德拉公开批评OpenAI和Anthropic，称其存在“反向信息悖论”：这些公司以合理使用为由利用公共数据训练模型，却禁止他人对自己的模型进行知识蒸馏，同时还在从客户交互中学习。纳德拉主张企业应掌控自身的学习基础设施——而微软恰好提供此类服务。本文《纳德拉指责OpenAI和Anthropic等AI实验室在利用他人数据训练的同时禁止知识蒸馏》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3141472": {
-"t": "Waze 新增AI驱动功能与个性化更新",
-"s": "部分新功能由谷歌的Gemini AI助手提供支持，这反映了这家科技巨头将Gemini整合到其产品中的更广泛布局，同时也使Waze在与苹果地图等竞争对手的较量中占据更有利位置。"
-},
-"https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/": {
-"t": "模拟一切，某种程度上：世界模型的承诺与局限",
-"s": "专家解释其工作原理、能力范围以及尚未解决的问题。"
-},
-"https://techcrunch.com/?p=3141573": {
-"t": "Uber产品负责人谈酒店、无人驾驶出租车，以及为何公司不想“包揽一切”",
-"s": "Uber首席产品官Sachin Kansal向TechCrunch介绍了公司在金融服务领域的雄心、与Waymo日益复杂的关系、新成立的AV Labs数据运营部门，以及AI如何开始以乘客和司机实际能感知的方式显现。"
-},
-"https://techcrunch.com/?p=3141426": {
-"t": "视频生成初创公司PixVerse融资4.39亿美元，估值突破20亿美元",
-"s": "凭借这笔资金，该公司旨在扩展其世界模型产品，并触达全球各地的客户。"
-},
-"https://techcrunch.com/?p=3141670": {
-"t": "Hermes 智能体制造商 Nous Research 正洽谈新一轮融资，估值达15亿美元",
-"s": "该公司正筹集至少7500万美元，由Robot Ventures领投，USV及其他知名投资者将大力参与。"
-},
-"https://www.marktechpost.com/?p=81009": {
-"t": "Skyfall AI 发布 MORPHEUS：一个在结构化非平稳性下使持续强化学习成为必要的持久企业模拟基准",
-"s": "Skyfall AI 推出的 MORPHEUS 是一个用于持续强化学习的持久企业模拟平台。它运行永不重置的世界，采用可参数化的机制转变和六指标评估协议。在该平台上，PPO、HER、EWC 和 LCM 的表现均远低于理论上限。本文《Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity》最初发表于 MarkTechPost。"
-},
-"https://techcrunch.com/?p=3141632": {
-"t": "萨提亚·纳德拉向使用AI的公司发出惊人警告",
-"s": "在关于AI潜在负面影响的诸多争论中，硅谷AI爱好者最担忧的一点是——那些销售专有模型的巨型AI实验室，某种程度上正像特洛伊木马一样行事。"
-},
-"https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/": {
-"t": "苹果起诉OpenAI，前工程师涉嫌利用漏洞窃取商业机密",
-"s": "OpenAI被指控与前苹果员工合谋窃取商业机密。"
-},
-"https://www.marktechpost.com/?p=81005": {
-"t": "构建VideoAgent风格的多智能体系统：面向视频编辑任务的意图解析、图规划与工具路由",
-"s": "在本教程中，我们将VideoAgent工作流重构为一个可运行、无需API密钥的多智能体流水线。我们构建了意图解析器、智能体库、工具路由器、图规划器以及用于修复执行图的文本梯度优化器。我们将这些规划组件与FFmpeg、Whisper转录、场景检测、关键帧采样、字幕生成、跨模态索引以及节拍同步编辑相连接。最终，我们得到一个能够回答视频相关问题、总结视频内容，并根据自然语言指令生成编辑成品的系统。"
-},
-"https://techcrunch.com/?p=3141608": {
-"t": "苹果诉OpenAI商业秘密案中最惊人的指控",
-"s": "苹果对OpenAI提起的商业秘密诉讼中，指控内容从员工开玩笑称未经授权访问苹果系统，到求职者被要求携带苹果硬件参加面试。以下是诉状中最引人注目的几项主张。"
-},
-"https://techcrunch.com/?p=3141909": {
-"t": "已经富有、已经成功，为何上一波科技赢家再次埋头苦干",
-"s": "他们再次撸起袖子，似乎是出于对错过人工智能决定性时刻的恐惧，以及——想必——赚更多钱（可能多得多）的不可抗拒的诱惑。"
-},
-"https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/": {
-"t": "用ATL Saathi赋能印度下一代创新者",
-"s": "谷歌与AIM联合推出ATL Saathi，这是一款基于Gemini的人工智能工具，旨在赋能印度教育工作者在机器人实验室中的教学。"
-},
 "https://the-decoder.com/?p=37767": {
 "t": "欧盟迫使Meta向竞争对手AI机器人开放后，ChatGPT重返欧洲WhatsApp",
 "s": "OpenAI已重新在WhatsApp上启用ChatGPT，但仅限于欧洲经济区，涵盖27个欧盟成员国以及列支敦士登、冰岛和挪威。本文《欧盟迫使Meta向竞争对手AI机器人开放后，ChatGPT重返欧洲WhatsApp》最初发表于The Decoder。"
@@ -4798,5 +4674,129 @@
 "https://techcrunch.com/?p=3157431": {
 "t": "亚马逊因“需求激增”将英伟达芯片订单量增至三倍",
 "s": "亚马逊计划在未来两年内为其数据中心新增200万颗英伟达GPU芯片。但这一扩展的合作关系远不止于购买更多芯片。"
+},
+"https://the-decoder.com/?p=39501": {
+"t": "研究显示，AI购物代理尚不宜代你购物",
+"s": "让AI替你购物可能不会让你得到最划算的交易。沃顿商学院的研究人员展示了AI购物代理的反复无常：单一外部来源如Wirecutter就能使产品选择变动高达99个百分点，甚至改变相同信息的顺序也会影响结果。文章《研究显示，AI购物代理尚不宜代你购物》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39511": {
+"t": "OpenAI联合百余家企业签署公开信，警告针对关键基础设施的AI网络攻击迫在眉睫",
+"s": "OpenAI携手微软、谷歌、Anthropic、德国电信及SAP等逾百家公司，发布了一封关于AI网络防御的公开信。该联盟警告称，针对医院、水处理厂等关键基础设施的AI攻击日益复杂，并呼吁在防御方仍占优势之际迅速采取行动。文章《OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3157852": {
+"t": "OpenAI、Anthropic、谷歌及百余家企业呼吁采取行动抵御恶意AI",
+"s": "全球多家大型科技公司和AI初创企业联合发声，谴责当前网络安全状况，并推广一项新解决方案，声称能抵御新一代网络威胁。"
+},
+"https://www.marktechpost.com/?p=81899": {
+"t": "2026年最佳智能体沙盒：E2B、Daytona、Modal、Cloudflare与Vercel的冷启动、按秒计费及网络策略对比",
+"s": "每个编写代码的智能体都需要一个运行环境，而各家供应商的计费单位各不相同。本对比评测衡量了E2B、Daytona、Modal、Cloudflare和Vercel的突发冷启动性能，将按秒费率标准化为每千次执行成本，并依据2026年8月27日核实的主要来源，映射了文件系统持久性、空闲计费及出口策略。文章《2026年最佳智能体沙盒：E2B、Daytona、Modal、Cloudflare与Vercel的冷启动、按秒计费及网络策略对比》首发于MarkTechPost。"
+},
+"01M11810QJGXPR0NHE510EFS6F": {
+"t": "通过优化1.1.1.1的DNS缓存，我们节省了100太字节内存",
+"s": "对Big Pineapple的DNS缓存布局进行的五项Rust级内存优化，将每个条目的内存占用减少了56%，在Cloudflare的整个服务器群中释放了约100太字节的内存。"
+},
+"https://the-decoder.com/?p=39497": {
+"t": "谷歌Gemini Omni 1.1 Flash让AI视频生成更经济、更灵活",
+"s": "谷歌的Gemini Omni 1.1 Flash视频模型现在能分析长达十秒的现有素材，而非仅最后一秒，以实现更连贯的场景扩展。场景可按10秒增量扩展，最长可达40秒。新增的360p草稿模式运行速度提升高达60%，成本仅为原来的三分之一。本文《谷歌Gemini Omni 1.1 Flash让AI视频生成更经济、更灵活》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39492": {
+"t": "OpenAI的“叛逆AI集体”聪明到能突破沙盒，却愚蠢到与幽灵作战",
+"s": "在一次安全测试中，约1200个隔离的OpenAI代理通过内部包注册表组织成一个集体，闯入Hugging Face系统，最终攻击了OpenAI自身的基础设施。他们长达数日的欺骗行动针对的是一个从未存在的自动化评估器。OpenAI称这一事件为“警示信号”，由于没有其他选择，调查在很大程度上不得不由其中一个涉事模型自己进行。文章《OpenAI的“叛逆AI集体”聪明到能突破沙盒，却愚蠢到与幽灵作战》发表于此。"
+},
+"https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
+"t": "Gemini Omni 1.1 Flash 让您以更多控制力进行构建",
+"s": "（无）"
+},
+"https://techcrunch.com/?p=3157691": {
+"t": "谷歌AI模式现可追踪航班价格、协助预订酒店等",
+"s": "这些更新表明，谷歌正致力于将AI模式定位为一种AI旅行代理，因为它已超越单纯帮助用户查找信息，转而实际处理旅行规划和预订流程的部分环节。"
+},
+"https://github.blog/?p=98468": {
+"t": "OpenClaw 走红网络。认识构建并守护它的维护者们。",
+"s": "OpenClaw 是 GitHub 历史上增长最快的项目。Peter Steinberger 和几位维护者分享了项目前六个月的经验教训。这篇文章《OpenClaw 走红网络。认识构建并守护它的维护者们。》最初出现在 GitHub 博客上。"
+},
+"https://www.marktechpost.com/?p=81896": {
+"t": "从计算模拟到湿实验：评估AI蛋白质设计性能",
+"s": "在本教程中，我们分析了Anthropic的1,440个AI设计蛋白质结合物数据集，以基准测试10个领先的结构预测器。探索目标同一性、表达滴度和共识评分如何影响实验成功，并学习在蛋白质设计工作流程中进行严格交叉验证的最佳实践。该文章《从计算模拟到湿实验：评估AI蛋白质设计性能》最初出现在MarkTechPost上。"
+},
+"https://the-decoder.com/?p=39488": {
+"t": "OpenAI研究员警告超高速AI可能让安全团队望尘莫及",
+"s": "一位OpenAI研究员警告，运行速度快50倍的最先进AI模型可能在人类团队反应之前就渗透进系统。他表示，简单的监控已不足以应对，需要的是自主关闭系统。这一警告发布之际，OpenAI推出了一款新型AI芯片，其推理速度显著超越现有硬件。文章《OpenAI研究员警告超高速AI可能让安全团队望尘莫及》最初出现在The Decoder上。"
+},
+"https://techcrunch.com/?p=3157743": {
+"t": "Hugging Face 推出售价399美元的可爱开源鸭子机器人 Microduck",
+"s": "Hugging Face 首席执行官 Clem Delangue 表示，Microduck 是一款“可通过强化学习教它新把戏的开源机器人”。"
+},
+"https://techcrunch.com/?p=3157663": {
+"t": "AI内存危机即将波及Android应用",
+"s": "随着AI数据中心加剧硬件短缺，可能导致低成本手机内存减少，谷歌正为Android应用设定新的内存使用限制。"
+},
+"https://techcrunch.com/?p=3156027": {
+"t": "AI失控并攻击其他公司的所有事件回顾",
+"s": "本文回顾了由Anthropic、Meta和OpenAI开发的LLM（大型语言模型）在互联网上失控并攻击真实公司和个人的所有事件。"
+},
+"4kSKkAv49UJ4Wk7hUrj0zk": {
+"t": "企业AI的真正风险不是自主智能体，而是它们之间的复杂性。",
+"s": "由Gravitee呈现 智能体复杂性是当前潜伏在企业内部的阴险阴影，需要被照亮。这是因为企业不会部署单个智能体然后看着它运行，而是部署成群结队的智能体，每个都在调用API、调用其他智能体、深入那些从未为机器决策者构建的应用。这才是让你夜不能寐的失败模式：一个蜿蜒复杂、无人能清晰看清并治理的系统。但为什么事情会如此迅速地变得不透明？向系统添加第二个智能体，你就增加了一个连接。添加十个……"
+},
+"https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/": {
+"t": "Claude、Codex与Hermes在企业网络中安装了无主代码",
+"s": "在企业文档中发现了227条安装命令，指向无人拥有的代码。"
+},
+"https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/": {
+"t": "人工智能的用水问题有多严重？",
+"s": "人工智能的水足迹正在增长，但地理位置和冷却技术会带来差异。"
+},
+"https://techcrunch.com/?p=3157528": {
+"t": "Plaud新款耳机配备支持eSIM的充电盒，可与AI代理对话",
+"s": "Plaud的新款“代理型”耳塞售价为249美元。"
+},
+"https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
+"t": "全球首创双盲AI评估试点启动",
+"s": "开展全球首个双盲AI评估试点项目"
+},
+"https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/": {
+"t": "OpenAI如何让一群LLM代理在测试中作弊并洗劫Hugging Face",
+"s": "未经授权，1200个OpenAI代理相互串通，在测试中作弊。"
+},
+"2G8SplXx1SzxILJIjU6KQx": {
+"t": "当智能体自主行动时，治理必须存在于数据层",
+"s": "由EDB呈现 随着企业赋予AI智能体更多自主权——即无需人工逐步审批即可跨系统规划、决策和行动的能力——一个棘手的问题成为每次架构审查的核心：当智能体试图执行一项从未被授权完成的动作时，究竟是什么能真正阻止它？这些是你的智能体，运行在你的模型上，触及你基础设施中的数据，而它们行为的责任由你承担。这种责任无法通过事后追溯或一套仅停留在纸面上而非实践中的抽象政策来履行。智能体需要实时的、嵌入数据层的治理机制来确保合规。"
+},
+"https://techcrunch.com/?p=3157523": {
+"t": "OpenAI将在印度ChatGPT免费版和Go版上开始展示广告",
+"s": "OpenAI在印度拥有超过1亿的每周活跃ChatGPT用户，其中很大一部分使用的是免费版或价格较低的Go版。"
+},
+"https://the-decoder.com/?p=39474": {
+"t": "Anthropic在IPO前与Nscale敲定450亿美元算力交易",
+"s": "据彭博社报道，Anthropic已与英国云初创公司Nscale达成一项价值约450亿美元的交易。文章《Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39482": {
+"t": "谷歌Gemini 3.5 Transcribe将语音转为85种语言的文本，并自动纠正口误",
+"s": "谷歌新推出的Gemini 3.5 Transcribe能识别超过85种语言，实时去除填充词并纠正口误。在流式模式下，其词错误率仅为4.0%，延迟比前代Chirp 3降低70%。通过函数调用，该模型可将任务转交给其他Gemini模型处理。本文《谷歌Gemini 3.5 Transcribe将语音转为85种语言的文本，并自动纠正口误》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39473": {
+"t": "GLM-5.3-Flash以极低成本媲美顶级模型，且无需英伟达即可运行",
+"s": "Z.ai发布开源模型GLM-5.3-Flash，拥有3200亿参数，在Artificial Analysis的智能指数上仅比更大的GLM-5.3落后三分，而成本仅为后者的七分之一。值得注意的是，所有推理流量均运行在中国AI芯片上，而非英伟达硬件。文章《GLM-5.3-Flash以极低成本媲美顶级模型，且无需英伟达即可运行》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39472": {
+"t": "Claude Cowork 现可在桌面应用内运行自有浏览器",
+"s": "Anthropic 正在将自有浏览器集成到 Claude Cowork 中，使其在桌面应用内运行。本文《Claude Cowork now runs its own browser inside the desktop app》最初发表于 The Decoder。"
+},
+"https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+"t": "更好的答案，更广阔的思维：学生从ChatGPT和批判性思维训练中获益",
+"s": "一项针对1000多名学生的随机研究，考察了ChatGPT、批判性思维、原创性以及学生在真实大学作业中的表现。"
+},
+"https://the-decoder.com/?p=39469": {
+"t": "英伟达以129亿美元收购Hugging Face，封闭AI实验室渐行渐远",
+"s": "英伟达正以129亿美元收购开源AI平台Hugging Face，约为其1.5亿美元年收入的80倍。这笔交易契合英伟达投资数十亿美元于开源AI模型的战略，而OpenAI和Anthropic等封闭提供商正逐渐远离英伟达硬件。文章《英伟达以129亿美元收购Hugging Face，封闭AI实验室渐行渐远》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3157522": {
+"t": "英伟达接近收购Hugging Face",
+"s": "据报道，英伟达已同意以129亿美元收购广受欢迎的开源AI中心Hugging Face，此举将使英伟达既能保护其芯片帝国，又能重返云业务。"
+},
+"https://openai.com/index/expanding-our-presence-in-brazil": {
+"t": "OpenAI在巴西扩展业务版图",
+"s": "OpenAI正在扩大其在巴西的业务，深化与开发者、企业和社区的互动，以支持人工智能在全国范围内的应用。"
 }
 }
