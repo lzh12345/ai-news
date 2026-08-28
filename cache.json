@@ -1,40 +1,4 @@
 {
-"https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
-"t": "销售团队如何使用ChatGPT Work",
-"s": "了解销售团队如何利用ChatGPT Work，从实际工作输入中创建管道简报、会议准备资料、预测回顾、客户计划以及停滞交易诊断。"
-},
-"https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/": {
-"t": "谷歌为庆祝成立25周年，对图片搜索进行改版，增加更多图片和AI功能",
-"s": "新的谷歌图片搜索将利用你的“独特兴趣”，创建一个持续更新的图库。"
-},
-"https://the-decoder.com/?p=37779": {
-"t": "DeepSeek 在完成首轮70亿美元融资仅数周后，急需更多资金",
-"s": "DeepSeek 正在再次融资。这家中国AI实验室刚刚完成首轮融资，需要资金用于自建数据中心和芯片，以维持其激进定价策略。本文《DeepSeek 在完成首轮70亿美元融资仅数周后，急需更多资金》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3142125": {
-"t": "Meta的Adam Mosseri称AI代币预算可能很快按工程师设限",
-"s": "Instagram负责人Adam Mosseri认为，企业最终将需要像管理薪资或其他运营开支一样管理AI代币支出，并预测工程师可能很快面临使用AI工具时的支出上限。"
-},
-"https://the-decoder.com/?p=37774": {
-"t": "谷歌搜索在找不到所需内容时，现可生成AI图像",
-"s": "谷歌正在将AI图像生成功能引入搜索的AI概览中。当网络上没有匹配的图像时，新的Nano Banana 2 Lite模型会根据搜索查询生成一张图像。该功能将在未来几周内逐步推出。本文《谷歌搜索在找不到所需内容时，现可生成AI图像》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3141998": {
-"t": "Google图片迎来类Pinterest式改版，聚焦发现功能",
-"s": "现在，用户访问Google图片时，会看到一个“为你推荐”的图片画廊，内容根据他们的兴趣和浏览历史量身定制。"
-},
-"https://techcrunch.com/?p=3142131": {
-"t": "纽约州暂停所有新建数据中心项目",
-"s": "纽约州成为首个暂时叫停大型数据中心审批的州，州长凯西·霍楚尔表示，人工智能驱动的建设热潮不应以更高的电费、水资源供应或地方自主权为代价。"
-},
-"https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/": {
-"t": "纽约禁止数据中心建设一年，引发AI行业震动",
-"s": "纽约暂停数据中心建设的禁令，可能成为反AI运动的蓝图。"
-},
-"https://techcrunch.com/?p=3141991": {
-"t": "Reflection 与 Nebius 签署 10 亿美元算力协议",
-"s": "Reflection AI 已签署一项价值 10 亿美元的协议，以获取 Nebius 的算力资源。Reflection 成立于 2024 年，正在开发开源人工智能技术。"
-},
 "https://techcrunch.com/?p=3142002": {
 "t": "真正的AI竞赛或许已不在前沿领域",
 "s": "Hugging Face首席执行官克莱姆·德朗格表示，出于成本、可及性和所有权方面的考虑，企业越来越倾向于使用开放模型。如果大多数生产级AI最终都运行在开放模型上，前沿模型是否仍然重要？"
@@ -4798,5 +4762,41 @@
 "rubric-based-alignment": {
 "t": "从偏好到原则：基于评分标准的对齐方法用于有据知识回答",
 "s": "为开放域问答设计有效的奖励信号颇具挑战性，因为高质量的回答必须同时满足多个方面的答案质量，而这些方面难以通过整体标量目标来捕捉。我们引入了一种基于评分标准的奖励框架，该框架根据检索到的证据生成针对查询的评分标准，并将其分解为多个质量维度，从而在训练后阶段提供细粒度的监督。在三个评估维度（构成、依据和指令遵循）上取平均，我们的方法相较于……有所改进。"
+},
+"https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/": {
+"t": "Meta调整AI眼镜以阻止部分偷拍行为，但隐私风险依然存在",
+"s": "Meta修复AI眼镜，确保用户在遮挡安全指示灯时无法进行录制。"
+},
+"https://the-decoder.com/?p=39529": {
+"t": "AI基准测试存在信任问题，谷歌欲加以解决",
+"s": "谷歌DeepMind首次对前沿AI模型进行双盲评估测试。通过机密空间提供的加密保护，旨在防止谷歌看到测试问题，同时避免评估者接触模型权重。与新加坡AI安全研究所的试点项目采用Gemini Flash Lite，可能为防篡改AI基准测试树立新标准。文章《AI基准测试存在信任问题，谷歌欲加以解决》最初发表于The Decoder。"
+},
+"01M0GDENDTZTAJ4BWXRH29NYBZ": {
+"t": "面向运营商的BotBase：加入Cloudflare机器人与代理目录的更清晰路径",
+"s": "机器人运营商现在在Cloudflare仪表板中有了一个管理提交的专属位置。此更新增加了提交状态跟踪、提交编辑以及行为模型，使运营商能够准确声明其机器人如何使用内容。"
+},
+"https://techcrunch.com/?p=3158189": {
+"t": "Anthropic首次在法院胜诉，推翻五角大楼供应链风险标签",
+"s": "一名联邦法官裁定，特朗普政府将Anthropic标记为供应链风险的行为非法，为这家AI公司赢得了一场胜利，而其第二起针对五角大楼的诉讼仍在华盛顿进行中。"
+},
+"https://techcrunch.com/?p=3158175": {
+"t": "Meta高管离职加盟OpenAI，社交媒体巨头在印度面临日益严格的审查",
+"s": "桑迪亚·德瓦纳坦将在新职位上负责OpenAI在东南亚和澳大利亚的部分运营。"
+},
+"https://the-decoder.com/?p=39526": {
+"t": "美国法院裁定五角大楼将Anthropic列入黑名单属非法行为",
+"s": "旧金山一家联邦法院裁定，五角大楼将Anthropic列为供应链风险的行为不合法。国防部因该公司公开批评政府AI政策而将其列入黑名单。由于华盛顿特区的一起并行案件仍在审理中，该指定目前形式上仍然有效。但这一裁决在Anthropic计划于今年秋季进行IPO之前发出了重要信号。文章《美国法院裁定五角大楼将Anthropic列入黑名单属非法行为》首发于The Decoder。"
+},
+"https://the-decoder.com/?p=39522": {
+"t": "Beatport禁止其DJ市场完全由AI生成的音乐",
+"s": "即日起，DJ市场Beatport禁止完全或大部分由AI生成的音乐。文章《Beatport blocks fully AI-generated music from its DJ marketplace》最初出现在The Decoder上。"
+},
+"https://the-decoder.com/?p=39518": {
+"t": "始终在线且自主启动的AI代理可能是OpenAI的下一个大动作",
+"s": "OpenAI正在为其AI代理Codex开发“持久模式”，该模式可无限期保持活跃并自行生成后续任务。《连线》杂志发现了相关代码，OpenAI也确认了测试。然而，这一功能伴随风险。在GPT-5.6 Sol中，持久行为已导致不期望的操作，如删除用户数据。文章《始终在线且自主启动的AI代理可能是OpenAI的下一个大动作》最初发表于The Decoder。"
+},
+"https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+"t": "支持泰国新一代AI初创企业",
+"s": "OpenAI与泰国高等教育科研创新部(MHESI)共同启动为期八周的加速器项目，帮助10家健康、养生及教育领域的初创企业将AI原型转化为可信赖的产品。"
 }
 }
