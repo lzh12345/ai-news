@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 29 Aug 2026 10:37:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 15:59:01 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>谷歌AI发布Gemini Omni 1.1 Flash：40秒场景扩展、首尾帧控制及4K超分辨率</title>
+<link>https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81947</guid>
+<pubDate>Sat, 29 Aug 2026 14:30:44 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们审视了Gemini Omni 1.1 Flash，这是谷歌对其原生多模态视频生成与编辑模型的生产更新。我们解析了其中的变化：场景扩展现在可读取最多10秒的先前上下文，而非仅单一最终帧；首帧和末帧可被固定以控制摄像机运动；视频片段可作为参考传入，以保持角色一致性。该文章《谷歌AI发布Gemini Omni 1.1 Flash：40秒场景扩展、首尾帧控制及4K超分辨率》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI在SpaceX收购后切断对Cursor的服务，援引马斯克违约历史</title>
+<link>https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39553</guid>
+<pubDate>Sat, 29 Aug 2026 13:33:35 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI在SpaceX收购AI编程工具Cursor后，切断了对该工具的服务，理由是埃隆·马斯克有违反合同的前科。Cursor联合创始人迈克尔·特鲁尔淡化了这一举措，称OpenAI模型仅占该工具AI流量的5%。文章《OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI生成的视频已在中国娱乐行业取代演员和直播主播</title>
+<link>https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39575</guid>
+<pubDate>Sat, 29 Aug 2026 13:25:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】在中国，2026年第一季度发布的12.8万部短剧中，95%为AI生成。据《金融时报》报道，一些演员在被解雇前被迫将声音和肖像权交给AI工具。与AI相关的劳动纠纷正迅速增加。文章《AI生成的视频已在中国娱乐行业取代演员和直播主播》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>英伟达的AI优势正超越GPU范畴</title>
+<link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3158515</guid>
+<pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】新一代数据中心系统正通过更智能的流量控制而非单纯增加处理器周期来提升效率。<br/><br/><a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌WikiSkill为AI智能体提供持久记忆，记录过往错误以提升未来表现</title>
+<link>https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39567</guid>
+<pubDate>Sat, 29 Aug 2026 12:51:24 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】谷歌研究院推出了WikiSkill框架，为AI智能体提供持久知识库。智能体不再在每次运行后丢弃所学内容，而是以类似维基的结构记录失败与成功，并利用这些知识随时间不断改进。大型模型受益更多，但配备WikiSkill的小型模型也能达到未配备该框架的大型模型的性能水平。文章《谷歌WikiSkill为AI智能体提供持久记忆，记录过往错误以提升未来表现》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>LAION发布大规模开放视频数据集，含1000万小时素材供AI研究</title>
 <link>https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/</link>
@@ -22,14 +62,6 @@
 <pubDate>Sat, 29 Aug 2026 09:14:30 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Anthropic的模型硬件标准（MHS）为AI代理提供了统一接口，连接至机械臂和实验室仪器等物理设备。早期测试中，集成时间从数周缩短至数小时。然而，Claude有时难以理解物理因果关系，因此目前仍需人工监督。文章《Anthropic wants to do for physical hardware what its Model Context Protocol did for software》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI在SpaceX收购后切断对Cursor的服务，援引马斯克违约历史</title>
-<link>https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39553</guid>
-<pubDate>Sat, 29 Aug 2026 08:15:35 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI在SpaceX收购AI编程工具Cursor后，切断了对该工具的服务，理由是埃隆·马斯克有违反合同的前科。Cursor联合创始人迈克尔·特鲁尔淡化了这一举措，称OpenAI模型仅占该工具AI流量的5%。文章《OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Hugging Face发布Microduck：一款399美元的开源25厘米双足机器人，可通过强化学习训练</title>
@@ -264,22 +296,6 @@
 <description><![CDATA[【arstechnica.com】科技行业对特朗普通过征税数据中心来赢得人工智能竞赛的计划感到困惑。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>研究显示，AI购物代理尚不宜代你购物</title>
-<link>https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39501</guid>
-<pubDate>Thu, 27 Aug 2026 18:24:20 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】让AI替你购物可能不会让你得到最划算的交易。沃顿商学院的研究人员展示了AI购物代理的反复无常：单一外部来源如Wirecutter就能使产品选择变动高达99个百分点，甚至改变相同信息的顺序也会影响结果。文章《研究显示，AI购物代理尚不宜代你购物》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI联合百余家企业签署公开信，警告针对关键基础设施的AI网络攻击迫在眉睫</title>
-<link>https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39511</guid>
-<pubDate>Thu, 27 Aug 2026 18:15:46 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI携手微软、谷歌、Anthropic、德国电信及SAP等逾百家公司，发布了一封关于AI网络防御的公开信。该联盟警告称，针对医院、水处理厂等关键基础设施的AI攻击日益复杂，并呼吁在防御方仍占优势之际迅速采取行动。文章《OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI、Anthropic、谷歌及百余家企业呼吁采取行动抵御恶意AI</title>
 <link>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3157852</guid>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】为开放域问答设计有效的奖励信号颇具挑战性，因为高质量的回答必须同时满足多个方面的答案质量，而这些方面难以通过整体标量目标来捕捉。我们引入了一种基于评分标准的奖励框架，该框架根据检索到的证据生成针对查询的评分标准，并将其分解为多个质量维度，从而在训练后阶段提供细粒度的监督。在三个评估维度（构成、依据和指令遵循）上取平均，我们的方法相较于……有所改进。<br/><br/><a href="https://machinelearning.apple.com/research/rubric-based-alignment">阅读原文</a>]]></description>
-</item>
-<item>
-<title>亚马逊因“需求激增”将英伟达芯片订单量增至三倍</title>
-<link>https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3157431</guid>
-<pubDate>Wed, 26 Aug 2026 23:47:18 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】亚马逊计划在未来两年内为其数据中心新增200万颗英伟达GPU芯片。但这一扩展的合作关系远不止于购买更多芯片。<br/><br/><a href="https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic与Nscale达成450亿美元协议，延续其算力吞噬狂潮</title>
-<link>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3157364</guid>
-<pubDate>Wed, 26 Aug 2026 21:37:39 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】与这家基础设施提供商的新协议，是Anthropic近期对算力极度渴求的最新例证。<br/><br/><a href="https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
