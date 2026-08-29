@@ -1,36 +1,4 @@
 {
-"https://techcrunch.com/?p=3142256": {
-"t": "苹果向所有用户开放新版Siri AI，iOS 27公测版上线",
-"s": "如果你一直在等待无需安装开发者测试版即可体验苹果改进版Siri，现在机会来了。该公司于周二发布了iOS 27公测版，让iPhone用户在今年秋季软件正式发布前，提前使用其AI驱动的助手及其他新功能。"
-},
-"https://techcrunch.com/?p=3142178": {
-"t": "Anthropic最新广告令人毛骨悚然",
-"s": "Anthropic一直试图将自己塑造成其他AI公司的道德对立面。这则最新营销噱头——通过利用对AI的批评来让Anthropic显得意识到自身肩负的责任——似乎不过是故技重施。"
-},
-"https://techcrunch.com/?p=3142228": {
-"t": "Hinge创始人获1800万美元融资，打造新型AI约会服务Overtone",
-"s": "Overtone自称是“一款以语音和音频为核心、由AI驱动、提供高度精选介绍的服务”。"
-},
-"https://techcrunch.com/?p=3142189": {
-"t": "谷歌因AI训练再遭大型出版商起诉",
-"s": "阿歇特、圣智、爱思唯尔等出版商指控谷歌在未获必要授权的情况下，使用受版权保护的作品训练其人工智能。"
-},
-"https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/": {
-"t": "美军首次在实战中投入爆炸性无人艇",
-"s": "随着战事再度升级，美军的无人艇袭击了伊朗海军港口。"
-},
-"https://techcrunch.com/?p=3142153": {
-"t": "DeepMind CEO呼吁建立独立标准机构来监管前沿AI",
-"s": "DeepMind CEO Demis Hassabis提议建立一个仿照FINRA模式的AI“标准机构”，用于测试前沿模型并制定其发布的最佳实践。"
-},
-"https://the-decoder.com/?p=37784": {
-"t": "Anthropic 推出 Claude for Teachers，承诺不利用学生数据训练模型",
-"s": "Anthropic 正在推出 Claude for Teachers，这是一项面向美国学校经认证的 K-12 教育工作者的免费服务。本文《Anthropic opens Claude for Teachers with a promise not to train models on student data》最初发表于 The Decoder。"
-},
-"multilingual-semantic-retrieval": {
-"t": "Apple Music搜索中的多语言语义检索",
-"s": "Apple Music为150多个国家及地区的听众提供数十种语言的服务，其曲库每日新增数十万首新曲目。在此规模下，针对拼写错误、音译及跨语言查询的搜索召回能力成为影响会话质量的关键因素，尤其对于占据独特查询多数的长尾查询而言。我们提出了一种基于3.05亿参数孪生双编码器的多语言语义检索系统，该系统通过课程式多目标训练对GTE-multilingual-base模型进行微调，并通过…方式集成至搜索堆栈中。"
-},
 "https://techcrunch.com/?p=3142345": {
 "t": "OpenAI研究员Miles Wang洽谈创立AI药物发现初创公司，估值达20亿美元",
 "s": "融资洽谈表明投资者对利用AI在生命科学领域取得突破的兴趣浓厚。"
@@ -4798,5 +4766,37 @@
 "agent-seer-synthesizing-scenarios": {
 "t": "Agent Seer：从规范理解中合成场景",
 "s": "评估使用外部工具的AI代理，需要能够捕捉实践者如何组合工具并在多轮对话中迭代的真实测试场景。手工构建此类场景需要深厚的领域专业知识，难以跨工具生态系统扩展，且生成的静态基准无法跟踪不断演变的API。我们观察到，工具规范——函数名称、自然语言描述和类型化参数模式——已经编码了足够的语义信息，无需人工策划或实时工具执行即可合成逼真的评估场景。Agent Seer…"
+},
+"https://the-decoder.com/?p=39562": {
+"t": "LAION发布大规模开放视频数据集，含1000万小时素材供AI研究",
+"s": "LAION的大型视频数据集（BVD）是AI研究中最大的开放视频数据集之一，包含8000万个视频、1000万小时运行时长和5500万个自动描述片段。基于BVD训练的模型在性能上超越了之前的基准InternVid，最高提升了2.1个百分点。在法律层面，LAION可能援引2024年汉堡法院的一项裁决，该裁决允许为非商业研究收集受版权保护的内容。文章《LAION drops massive open video dataset with 10 million hours of footage for AI research》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39535": {
+"t": "Anthropic希望为其物理硬件实现类似Model Context Protocol在软件领域所取得的成就",
+"s": "Anthropic的模型硬件标准（MHS）为AI代理提供了统一接口，连接至机械臂和实验室仪器等物理设备。早期测试中，集成时间从数周缩短至数小时。然而，Claude有时难以理解物理因果关系，因此目前仍需人工监督。文章《Anthropic wants to do for physical hardware what its Model Context Protocol did for software》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39553": {
+"t": "OpenAI在SpaceX收购后切断对Cursor的服务，援引马斯克违约历史",
+"s": "OpenAI在SpaceX收购AI编程工具Cursor后，切断了对该工具的服务，理由是埃隆·马斯克有违反合同的前科。Cursor联合创始人迈克尔·特鲁尔淡化了这一举措，称OpenAI模型仅占该工具AI流量的5%。文章《OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81942": {
+"t": "Hugging Face发布Microduck：一款399美元的开源25厘米双足机器人，可通过强化学习训练",
+"s": "位于Hugging Face的波尔多机器人团队Pollen Robotics开启了Microduck的预购——这是一款25厘米的双足机器人，其每一个动作都是由MuJoCo训练并导出至ONNX的神经策略驱动。售价399美元，它将完整的仿真到现实循环置于桌面之上：配备15个电机、摄像头、激光雷达、两个惯性测量单元，以及一套Apache-2.0许可的训练栈，用户可自行重新训练。该文章《Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning》最初发表于MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81938": {
+"t": "GLM-5.3-Flash 对比 Qwen3.8-Flash-Next：两家中国AI实验室独立趋同于同一模型架构",
+"s": "Z.ai 与 Qwen 独立发布了近乎相同的架构：3:1 线性混合、压缩索引器、门控残差以及 Muon 训练。文章《GLM-5.3-Flash vs Qwen3.8-Flash-Next：两家中国AI实验室独立趋同于同一模型架构》首发于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81925": {
+"t": "Vercel AI 开源 vgpu：用于 AI 代理着色器的 TypeScript WebGPU 库",
+"s": "Vercel 已开源 vgpu，这是其为在 vercel.com 上发布着色器而构建的 WebGPU 库。它将 .wgsl 文件视为可导入的 TypeScript 模块，可在浏览器中、通过 Dawn 在无头 Node.js 中以及确定性 CI 模拟中运行相同的着色器，并以 25 KB gzip 压缩大小发布全屏效果。该文章《Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders》首发于 MarkTechPost。"
+},
+"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+"t": "关于Cursor被SpaceX收购后我们的决定",
+"s": "我们决定在Cursor被SpaceX收购后，终止向其提供OpenAI模型的合同。"
+},
+"https://www.marktechpost.com/?p=81905": {
+"t": "谷歌AI发布Gemini 3.5 Transcribe：一款语音转文字模型，在85+种语言中平均词错误率为2.6%",
+"s": "谷歌发布了Gemini 3.5 Transcribe，这是一款语音转文字模型，以两个独立端点而非单一形式提供。流式端点可实现亚秒级转录，但去掉了说话人分离和词级时间戳。批处理端点则保留这两项功能，成本减半。谷歌报告称，流式词错误率为4.0%，非流式为2.6%，且最终化速度比Chirp 3快70%。这一拆分对构建语音代理或转录管道的开发者意味着什么，详见下文。"
 }
 }
