@@ -1,36 +1,4 @@
 {
-"https://techcrunch.com/?p=3142002": {
-"t": "真正的AI竞赛或许已不在前沿领域",
-"s": "Hugging Face首席执行官克莱姆·德朗格表示，出于成本、可及性和所有权方面的考虑，企业越来越倾向于使用开放模型。如果大多数生产级AI最终都运行在开放模型上，前沿模型是否仍然重要？"
-},
-"https://techcrunch.com/?p=3141990": {
-"t": "Spotify 扩展AI布局，推出类ChatGPT音乐助手",
-"s": "Spotify 正在推出一项新的AI驱动对话功能，让Premium订阅用户能够通过与应用聊天来发现音乐、播客、有声读物等内容。"
-},
-"https://techcrunch.com/?p=3139498": {
-"t": "Superhuman 的新自动草稿功能几乎让我喜欢上 AI 回复",
-"s": "Superhuman 最新的 AI 邮件起草功能是其迄今为止最令人信服的功能，在我们的测试中，它生成的回复通常几乎不需要或完全不需要编辑。"
-},
-"4k8LbDKkNXwcJVEFYF1ije": {
-"t": "一次失败的DNSSEC密钥轮换导致.AL域名瘫痪，如今1.1.1.1会在验证被绕过时主动告知用户",
-"s": "当一次失败的DNSSEC密钥轮换导致.AL顶级域名瘫痪时，我们部署了负信任锚点来恢复解析。但这一次，用户无需仅凭我们的承诺：1.1.1.1返回了EDE 33——这个新的DNS错误代码直接在响应中表明DNSSEC验证已被绕过。"
-},
-"https://openai.com/index/managing-ai-investments-in-agentic-era": {
-"t": "如何在智能体时代管理AI投资",
-"s": "了解企业如何通过衡量每美元的有用工作量、提升效率以及扩展高价值工作流，在智能体时代管理AI投资。"
-},
-"proactive-agent-research-environment": {
-"t": "主动式智能体研究环境：通过模拟活跃用户评估主动式助手",
-"s": "能够预判用户需求并自主执行任务的主动式智能体作为数字助手前景广阔，但缺乏逼真的用户模拟框架阻碍了其发展。现有方法将应用程序建模为扁平化的工具调用API，未能捕捉数字环境中用户交互的状态性和顺序性特征，导致逼真的用户模拟难以实现。我们提出主动式智能体研究环境（Pare），这是一个在数字环境中构建和评估主动式智能体的框架。Pare将应用程序建模为有限状态机，并..."
-},
-"https://www.marktechpost.com/?p=81024": {
-"t": "OpenCoreDev 发布 Domain SDK 0.2.0：一个 TypeScript API，可在五个平台上添加、验证和移除客户域名",
-"s": "OpenCoreDev 发布了 Domain SDK 0.2.0，这是一个用于自定义域名生命周期的 TypeScript 客户端。它通过一个 API 覆盖了 Vercel、Cloudflare for SaaS、Railway、Render 和 Netlify。状态被建模为一个八值联合类型，并包含独立的验证和证书字段。本文 OpenCoreDev 发布 Domain SDK 0.2.0：一个 TypeScript API，可在五个平台上添加、验证和移除客户域名 最初出现在 MarkTechPost 上。"
-},
-"https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/": {
-"t": "诉讼称Meta的裁员决定由AI而非人类做出",
-"s": "Meta否认使用AI来解雇有残疾和健康问题的员工。"
-},
 "https://techcrunch.com/?p=3142256": {
 "t": "苹果向所有用户开放新版Siri AI，iOS 27公测版上线",
 "s": "如果你一直在等待无需安装开发者测试版即可体验苹果改进版Siri，现在机会来了。该公司于周二发布了iOS 27公测版，让iPhone用户在今年秋季软件正式发布前，提前使用其AI驱动的助手及其他新功能。"
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
 "t": "支持泰国新一代AI初创企业",
 "s": "OpenAI与泰国高等教育科研创新部(MHESI)共同启动为期八周的加速器项目，帮助10家健康、养生及教育领域的初创企业将AI原型转化为可信赖的产品。"
+},
+"https://techcrunch.com/?p=3158531": {
+"t": "Neocloud Lambda 获10亿美元债务融资，用于购买更多芯片",
+"s": "Neocloud Lambda 已通过私人债务融资筹集10亿美元，用于购买英伟达AI芯片并租赁给微软。这是近期一系列贷款中的最新一笔，凸显了AI热潮的高昂成本。"
+},
+"https://techcrunch.com/?p=3158505": {
+"t": "Anthropic研究员向我们展示了自我改进AI的一角",
+"s": "针对10个特定错位行为的基准测试，自动化系统能够在每一项上提升性能，同时不损害整体表现。"
+},
+"https://the-decoder.com/?p=39541": {
+"t": "谷歌DeepMind的AI联合科学家现可规划实验、操作实验设备并撰写科学论文",
+"s": "谷歌DeepMind已将Co-Scientist从假设生成器扩展为集成到实验室的研究系统。在从材料合成到医疗AI架构自主开发等三个学科中，基于Gemini的多智能体系统交付了经实验验证的结果。文章《谷歌DeepMind的AI联合科学家现可规划实验、操作实验设备并撰写科学论文》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3158461": {
+"t": "开放权重AI公司成为硅谷最热门的收购目标",
+"s": "大量资本正涌入免费提供模型这一业务领域。"
+},
+"https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
+"t": "联邦法官裁定特朗普将“觉醒”的Anthropic列入黑名单属非法行为",
+"s": "Anthropic拒绝支持致命自主战争和大规模监控。"
+},
+"https://huggingface.co/blog/open-asr-leaderboard-global-south": {
+"t": "开放语音识别排行榜迎来首个南半球语言",
+"s": "（无）"
+},
+"llms-not-consistently-bayesian": {
+"t": "大语言模型并非（始终）贝叶斯式：量化LLMs概率信念的内部（不）一致性",
+"s": "现代AI系统正被部署于医学、科学和法律等复杂领域，在这些领域中，面对观测到的证据往往不存在唯一正确答案。此类系统必须能够表示并随着新证据的到来更新对世界的不确定信念，以做出理性决策。我们引入了一种新颖的技术，将LLMs视为信息处理规则，并利用信息处理差距——即与贝叶斯更新的偏差——来研究LLMs如何从证据中更新其概率信念的内部（不）一致性。我们的大量实验评估了"
+},
+"agent-seer-synthesizing-scenarios": {
+"t": "Agent Seer：从规范理解中合成场景",
+"s": "评估使用外部工具的AI代理，需要能够捕捉实践者如何组合工具并在多轮对话中迭代的真实测试场景。手工构建此类场景需要深厚的领域专业知识，难以跨工具生态系统扩展，且生成的静态基准无法跟踪不断演变的API。我们观察到，工具规范——函数名称、自然语言描述和类型化参数模式——已经编码了足够的语义信息，无需人工策划或实时工具执行即可合成逼真的评估场景。Agent Seer…"
 }
 }
