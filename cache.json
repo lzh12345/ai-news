@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=37796": {
-"t": "OpenAI 的 Codex 现对 AI 代理间的指令进行加密，开发者无法追踪内部任务委派",
-"s": "自六月初起，OpenAI 的编程工具 Codex 对主代理传递给子代理的指令进行加密。开发者无法再追踪任务在内部如何被委派。对于更大的 GPT-5.6 变体 Sol 和 Terra，加密是强制性的。本文《OpenAI 的 Codex 现对 AI 代理间的指令进行加密，开发者无法追踪内部任务委派》最初发表于 The Decoder。"
-},
 "https://the-decoder.com/?p=37793": {
 "t": "Meta员工起诉公司，称裁员由歧视性AI筛选系统驱动",
 "s": "前Meta员工及现任员工在加州联邦法院起诉该公司，指控其利用AI系统进行大规模裁员。Meta在裁减8000名员工时，据称使用内部AI系统生成裁员名单，不成比例地针对残疾员工或休育儿假的员工。本文《Meta员工起诉公司，称裁员由歧视性AI筛选系统驱动》最初发表于The Decoder。"
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=81950": {
 "t": "使用NVIDIA Earth2Studio构建自定义批量集合天气预报",
 "s": "在本教程中，我们使用NVIDIA Earth2Studio构建了一个集合天气预报工作流程。我们在保留Colab现有支持CUDA的PyTorch环境的同时，安装所需的Earth2Studio组件，加载FCN预报模型，并从GFS获取大气初始条件。随后，我们实现了一个自定义的风电诊断功能，将10米风分量转换为涡轮机容量因子，以及[…] 该文章《Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio》最初出现在MarkTechPost上。"
+},
+"https://www.marktechpost.com/?p=81955": {
+"t": "遇见“代码即世界”：一种将真实视频重写为可执行MuJoCo物理程序的智能体循环",
+"s": "代码即世界从真实视频中恢复可编辑的MuJoCo场景代码，然后利用这些验证过的世界来训练物理推理。这篇关于“代码即世界”的文章最初发表在MarkTechPost上。"
 }
 }

@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 29 Aug 2026 22:09:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 02:43:31 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>遇见“代码即世界”：一种将真实视频重写为可执行MuJoCo物理程序的智能体循环</title>
+<link>https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81955</guid>
+<pubDate>Sun, 30 Aug 2026 01:35:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】代码即世界从真实视频中恢复可编辑的MuJoCo场景代码，然后利用这些验证过的世界来训练物理推理。这篇关于“代码即世界”的文章最初发表在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>使用NVIDIA Earth2Studio构建自定义批量集合天气预报</title>
 <link>https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/</link>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 27 Aug 2026 06:32:51 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】据报道，英伟达已同意以129亿美元收购广受欢迎的开源AI中心Hugging Face，此举将使英伟达既能保护其芯片帝国，又能重返云业务。<br/><br/><a href="https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌研究院推出GlucoFM：一款用于连续血糖监测的0.72M参数双流基础模型</title>
-<link>https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81891</guid>
-<pubDate>Thu, 27 Aug 2026 04:13:44 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】谷歌研究院与新南威尔士大学悉尼分校联合发布了GlucoFM，这是一种自监督基础模型，它将连续血糖监测（CGM）轨迹分解为缓慢生理流和瞬时事件流，而非将其编码为单一序列。该模型拥有0.72M参数，在14项队列-任务评估中平均PR-AUC达到58.8，超越了135M参数的GluFormer和385M参数的MOMENT。目前它仍是研究原型，尚未获得监管批准。文章《谷歌研究院推出GlucoFM：一款用于连续血糖监测的0.72M参数双流基础模型》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
