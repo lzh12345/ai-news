@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 31 Aug 2026 18:31:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 23:31:09 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>五角大楼现已拥有自家版本的ChatGPT和Grok</title>
+<link>https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3158932</guid>
+<pubDate>Mon, 31 Aug 2026 20:13:45 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI的ChatGPT和SpaceXAI的Grok版本将加入谷歌的Gemini，共同入驻五角大楼的中央AI工具门户。<br/><br/><a href="https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Instagram对未披露的AI账号实施新限制</title>
+<link>https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3158959</guid>
+<pubDate>Mon, 31 Aug 2026 19:16:59 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】随着对AI网红的不满情绪日益增长，Instagram正在限制未披露AI账号的传播范围。<br/><br/><a href="https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>哈佛法学院辍学者为Blue Voice筹集600万美元，打造“警察界的Harvey”</title>
+<link>https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3158889</guid>
+<pubDate>Mon, 31 Aug 2026 18:35:11 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Blue Voice基于部门特定法律、地方法规、规程和指南进行训练，这些内容通用人工智能工具无法在公共互联网上获取。<br/><br/><a href="https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>“我心爱的Zlibrary”：索尼诉讼中引用了Anthropic员工赞美盗版的聊天记录</title>
 <link>https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/</link>
@@ -126,6 +150,14 @@
 <pubDate>Mon, 31 Aug 2026 08:55:12 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】据The Information报道，OpenAI已购买数万台Mac mini和Mac Studio用于训练计算机代理。Anthropic同样依赖苹果硬件。需求如此之高，以至于最强大的型号已售罄数月。苹果Mac业务在六月季度收入增长近29%，达到104亿美元。文章《OpenAI和竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Polimill构建日本下一代公共AI基础设施</title>
+<link>https://openai.com/index/polimill</link>
+<guid isPermaLink="false">https://openai.com/index/polimill</guid>
+<pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Polimill利用OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。<br/><br/><a href="https://openai.com/index/polimill">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI普及化进程中的里程碑</title>
@@ -352,28 +384,12 @@
 <description><![CDATA[【arstechnica.com】随着兴趣增长，英伟达正获取开放模型的关键基础设施。<br/><br/><a href="https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Barret Zoph，这位在加入OpenAI前被Thinking Machines联合创始人除名的人物，现已加盟谷歌</title>
-<link>https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158012</guid>
-<pubDate>Thu, 27 Aug 2026 19:52:52 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Zoph与Mira Murati共同创立了Thinking Machines Lab，并担任该初创公司的首席技术官，在OpenAI短暂任职后，现已加入谷歌。<br/><br/><a href="https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>人工智能行业称特朗普计划对芯片征税是“想象中最愚蠢的方式”</title>
 <link>https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/</guid>
 <pubDate>Thu, 27 Aug 2026 18:57:08 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】科技行业对特朗普通过征税数据中心来赢得人工智能竞赛的计划感到困惑。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI、Anthropic、谷歌及百余家企业呼吁采取行动抵御恶意AI</title>
-<link>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3157852</guid>
-<pubDate>Thu, 27 Aug 2026 17:43:24 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】全球多家大型科技公司和AI初创企业联合发声，谴责当前网络安全状况，并推广一项新解决方案，声称能抵御新一代网络威胁。<br/><br/><a href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>通过优化1.1.1.1的DNS缓存，我们节省了100太字节内存</title>
@@ -390,14 +406,6 @@
 <pubDate>Thu, 27 Aug 2026 16:11:32 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌AI模式现可追踪航班价格、协助预订酒店等</title>
-<link>https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3157691</guid>
-<pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这些更新表明，谷歌正致力于将AI模式定位为一种AI旅行代理，因为它已超越单纯帮助用户查找信息，转而实际处理旅行规划和预订流程的部分环节。<br/><br/><a href="https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenClaw 走红网络。认识构建并守护它的维护者们。</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】为开放域问答设计有效的奖励信号颇具挑战性，因为高质量的回答必须同时满足多个方面的答案质量，而这些方面难以通过整体标量目标来捕捉。我们引入了一种基于评分标准的奖励框架，该框架根据检索到的证据生成针对查询的评分标准，并将其分解为多个质量维度，从而在训练后阶段提供细粒度的监督。在三个评估维度（构成、依据和指令遵循）上取平均，我们的方法相较于……有所改进。<br/><br/><a href="https://machinelearning.apple.com/research/rubric-based-alignment">阅读原文</a>]]></description>
-</item>
-<item>
-<title>旨在取代Meta员工的AI代理实施了“大规模、破坏性行为”</title>
-<link>https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/</guid>
-<pubDate>Wed, 26 Aug 2026 21:25:27 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】路透社报道显示，Meta在用人AI代理替代人类员工方面面临挑战。<br/><br/><a href="https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

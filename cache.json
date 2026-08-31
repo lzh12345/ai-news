@@ -1,20 +1,4 @@
 {
-"https://techcrunch.com/?p=3143129": {
-"t": "微软据报正培训销售人员贬低OpenAI和Anthropic",
-"s": "微软正试图将其自研AI模型推销为比竞争对手的模型更高效、更具成本效益。"
-},
-"https://www.marktechpost.com/?p=81056": {
-"t": "Thinking Machines Lab 发布 Inkling：9750 亿参数开源权重多模态 MoE 模型，410 亿活跃参数，支持可控思考深度",
-"s": "Thinking Machines Lab 于 2026 年 7 月 15 日发布了 Inkling，这是其首个从头训练的模型。完整权重以 Apache 2.0 协议发布。该模型是一个 9750 亿参数的混合专家（MoE）Transformer，拥有 410 亿活跃参数、100 万 token 的上下文窗口，并原生支持文本、图像和音频输入。实验室明确表示，Inkling 并非当前最强模型（无论开源还是闭源）。其定位是作为定制化基础模型，而可控思考深度是其实际差异化优势。"
-},
-"2884mjZs7g6yWxefPaGVHN": {
-"t": "智能体编排：企业AI组织面临的是部署问题，而非平台问题——大多数所谓的“智能体”仍是聊天机器人",
-"s": "在对101家企业的调查中，智能体编排正集中到模型提供商平台——Anthropic的Claude以大幅优势领先——这些平台因底层模型的吸引力而被选中，并以其可靠的多步骤执行能力作为评判标准。然而，雄心远超前于现实：大多数已部署的“智能体”仍是聊天机器人的外壳，企业期望的控制平面是刻意混合的，以避免锁定，而对token消耗的实时财务控制仍是例外。这一波VentureBeat Pulse研究考察了企业智能体编排：企业运行在哪些平台上，驱动因素是什么。"
-},
-"https://www.marktechpost.com/?p=81048": {
-"t": "Soofi 联盟发布 Soofi S 30B-A3B：面向德语和英语的开放混合 Mamba-Transformer MoE 基础模型",
-"s": "Soofi S 30B-A3B 是一个开放的 Mamba-Transformer MoE 模型，在 31.6B 参数中激活 3.2B 参数，专为德语和英语设计。该文章《Soofi 联盟发布 Soofi S 30B-A3B：面向德语和英语的开放混合 Mamba-Transformer MoE 基础模型》首次出现在 MarkTechPost 上。"
-},
 "https://www.marktechpost.com/?p=81045": {
 "t": "构建由 Gin Config 控制的 PyTorch 流水线：可配置的 MLP 变体、余弦调度与运行时参数覆盖",
 "s": "我们构建了一个由 Gin Config 控制的 PyTorch 流水线，其中训练代码保持不变，实验变量移至 .gin 文件中。我们构建了一个非线性螺旋二分类任务，并定义了一个具有作用域架构变体的可配置 MLP。通过 @gin.configurable 绑定，我们暴露了优化器、调度器、损失函数、批处理、随机种子设置以及训练循环。随后，我们运行了两个作用域实验，在不编辑源代码的情况下应用运行时覆盖，并为每次运行导出操作配置。"
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3158394": {
 "t": "在TechBBQ大会上，欧洲关于AI的讨论始终绕不开一个话题：谁真正掌握着控制权？",
 "s": "来自欧洲各地的投资者、创始人和运营者齐聚一年一度的北欧TechBBQ大会，探讨人类如何对AI保持主导权。"
+},
+"https://techcrunch.com/?p=3158932": {
+"t": "五角大楼现已拥有自家版本的ChatGPT和Grok",
+"s": "OpenAI的ChatGPT和SpaceXAI的Grok版本将加入谷歌的Gemini，共同入驻五角大楼的中央AI工具门户。"
+},
+"https://techcrunch.com/?p=3158959": {
+"t": "Instagram对未披露的AI账号实施新限制",
+"s": "随着对AI网红的不满情绪日益增长，Instagram正在限制未披露AI账号的传播范围。"
+},
+"https://techcrunch.com/?p=3158889": {
+"t": "哈佛法学院辍学者为Blue Voice筹集600万美元，打造“警察界的Harvey”",
+"s": "Blue Voice基于部门特定法律、地方法规、规程和指南进行训练，这些内容通用人工智能工具无法在公共互联网上获取。"
+},
+"https://openai.com/index/polimill": {
+"t": "Polimill构建日本下一代公共AI基础设施",
+"s": "Polimill利用OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。"
 }
 }
