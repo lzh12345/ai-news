@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=37801": {
-"t": "Bonsai 27B：一款可运行于iPhone的完全开源推理模型",
-"s": "PrismML将一款270亿参数的AI模型压缩至4GB以下，体积小到足以在iPhone上运行。根据该公司自测基准，最小版本保留了原始性能的90%，数学和编程得分几乎未受影响。据报道，苹果已在测试该压缩技术，这可能有助于缩小其在设备端AI领域的差距。本文《Bonsai 27B is a full open reasoning model that fits on an iPhone》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=37806": {
-"t": "Spotify 押注高级用户希望与音乐播放器对话",
-"s": "Spotify 正在扩展其AI语音界面。高级用户现在可以直接在应用内与服务进行语音或文字交流。这篇文章《Spotify bets Premium subscribers want to chat with their music player》最初出现在The Decoder上。"
-},
-"https://techcrunch.com/?p=3142774": {
-"t": "苹果智能获准在华上线，搭载阿里巴巴通义千问AI",
-"s": "苹果智能即将进入中国，监管机构已批准苹果通过与阿里巴巴合作提供AI服务。这项传闻已久的交易将把阿里巴巴的通义千问AI模型引入苹果操作系统，标志着该公司生成式AI平台在其最重要市场之一的重大扩展。"
-},
 "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action": {
 "t": "美国正通过州与联邦行动推进AI安全",
 "s": "OpenAI提出了一种“反向联邦制”的AI治理方法，即通过各州法律共同构建一个安全、民主的AI国家框架。"
@@ -4798,5 +4786,17 @@
 "https://techcrunch.com/?p=3157348": {
 "t": "美国正为无人机和机器人筑起壁垒，但中国凭借规模优势可绕道而行",
 "s": "美国正逐步排斥更多外国制造的无人机和机器人。中国的规模意味着全球竞争可能只是转移到了别处。"
+},
+"https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
+"t": "Pocket的AI让我的游戏创意成真，但结果却由Meta掌控。",
+"s": "互动式移动“小玩意儿”制作容易，但在Meta平台之外分享却困难重重。"
+},
+"https://the-decoder.com/?p=39605": {
+"t": "OpenAI及竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理",
+"s": "据The Information报道，OpenAI已购买数万台Mac mini和Mac Studio用于训练计算机代理。Anthropic同样依赖苹果硬件。需求如此之高，以至于最强大的型号已售罄数月。苹果Mac业务在六月季度收入增长近29%，达到104亿美元。文章《OpenAI和竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理》最初发表于The Decoder。"
+},
+"https://www.marktechpost.com/?p=81971": {
+"t": "OpenClaw 发布 OpenClaw 2.0：引导式模型设置、575毫秒控制界面启动，以及每个网关单一信任边界",
+"s": "OpenClaw 基金会发布了 v2026.8.1 版本，该项目称之为 OpenClaw 2.0：共有 933 位贡献者、569 位首次贡献者，以及超过 16,000 个拉取请求，约占仓库中所有已合并 PR 的一半。设置现在可复用现有订阅、API 密钥和本地模型。重建后的控制界面将测试框架启动时间从约 1.6 秒缩短至 575 毫秒。共享云会话增加了真正的多人协作功能，但文档明确指出这些会话并非安全边界。文章《OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway》最初发表于..."
 }
 }

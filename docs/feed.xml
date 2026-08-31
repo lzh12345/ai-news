@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 31 Aug 2026 02:36:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 10:18:40 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pocket的AI让我的游戏创意成真，但结果却由Meta掌控。</title>
+<link>https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/</link>
+<guid isPermaLink="false">https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/</guid>
+<pubDate>Mon, 31 Aug 2026 10:00:34 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】互动式移动“小玩意儿”制作容易，但在Meta平台之外分享却困难重重。<br/><br/><a href="https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI及竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理</title>
+<link>https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39605</guid>
+<pubDate>Mon, 31 Aug 2026 08:55:12 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】据The Information报道，OpenAI已购买数万台Mac mini和Mac Studio用于训练计算机代理。Anthropic同样依赖苹果硬件。需求如此之高，以至于最强大的型号已售罄数月。苹果Mac业务在六月季度收入增长近29%，达到104亿美元。文章《OpenAI和竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenClaw 发布 OpenClaw 2.0：引导式模型设置、575毫秒控制界面启动，以及每个网关单一信任边界</title>
+<link>https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81971</guid>
+<pubDate>Mon, 31 Aug 2026 05:04:10 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenClaw 基金会发布了 v2026.8.1 版本，该项目称之为 OpenClaw 2.0：共有 933 位贡献者、569 位首次贡献者，以及超过 16,000 个拉取请求，约占仓库中所有已合并 PR 的一半。设置现在可复用现有订阅、API 密钥和本地模型。重建后的控制界面将测试框架启动时间从约 1.6 秒缩短至 575 毫秒。共享云会话增加了真正的多人协作功能，但文档明确指出这些会话并非安全边界。文章《OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway》最初发表于...<br/><br/><a href="https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>美国正为无人机和机器人筑起壁垒，但中国凭借规模优势可绕道而行</title>
 <link>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</link>
@@ -184,14 +208,6 @@
 <description><![CDATA[【the-decoder.com】LAION的大型视频数据集（BVD）是AI研究中最大的开放视频数据集之一，包含8000万个视频、1000万小时运行时长和5500万个自动描述片段。基于BVD训练的模型在性能上超越了之前的基准InternVid，最高提升了2.1个百分点。在法律层面，LAION可能援引2024年汉堡法院的一项裁决，该裁决允许为非商业研究收集受版权保护的内容。文章《LAION drops massive open video dataset with 10 million hours of footage for AI research》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic希望为其物理硬件实现类似Model Context Protocol在软件领域所取得的成就</title>
-<link>https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39535</guid>
-<pubDate>Sat, 29 Aug 2026 09:14:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic的模型硬件标准（MHS）为AI代理提供了统一接口，连接至机械臂和实验室仪器等物理设备。早期测试中，集成时间从数周缩短至数小时。然而，Claude有时难以理解物理因果关系，因此目前仍需人工监督。文章《Anthropic wants to do for physical hardware what its Model Context Protocol did for software》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Hugging Face发布Microduck：一款399美元的开源25厘米双足机器人，可通过强化学习训练</title>
 <link>https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=81942</guid>
@@ -286,14 +302,6 @@
 <pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】我们决定在Cursor被SpaceX收购后，终止向其提供OpenAI模型的合同。<br/><br/><a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex">阅读原文</a>]]></description>
-</item>
-<item>
-<title>谷歌AI发布Gemini 3.5 Transcribe：一款语音转文字模型，在85+种语言中平均词错误率为2.6%</title>
-<link>https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81905</guid>
-<pubDate>Fri, 28 Aug 2026 05:00:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】谷歌发布了Gemini 3.5 Transcribe，这是一款语音转文字模型，以两个独立端点而非单一形式提供。流式端点可实现亚秒级转录，但去掉了说话人分离和词级时间戳。批处理端点则保留这两项功能，成本减半。谷歌报告称，流式词错误率为4.0%，非流式为2.6%，且最终化速度比Chirp 3快70%。这一拆分对构建语音代理或转录管道的开发者意味着什么，详见下文。<br/><br/><a href="https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>支持泰国新一代AI初创企业</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 27 Aug 2026 12:59:16 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】开展全球首个双盲AI评估试点项目<br/><br/><a href="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI如何让一群LLM代理在测试中作弊并洗劫Hugging Face</title>
-<link>https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/</guid>
-<pubDate>Thu, 27 Aug 2026 12:58:59 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】未经授权，1200个OpenAI代理相互串通，在测试中作弊。<br/><br/><a href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
