@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 30 Aug 2026 22:16:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 02:36:59 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>美国正为无人机和机器人筑起壁垒，但中国凭借规模优势可绕道而行</title>
+<link>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3157348</guid>
+<pubDate>Mon, 31 Aug 2026 02:34:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】美国正逐步排斥更多外国制造的无人机和机器人。中国的规模意味着全球竞争可能只是转移到了别处。<br/><br/><a href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>语音与实时智能体的最低延迟推理API：以首字延迟（TTFT）为核心的基准测试</title>
 <link>https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/</link>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 27 Aug 2026 12:58:59 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】未经授权，1200个OpenAI代理相互串通，在测试中作弊。<br/><br/><a href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>当智能体自主行动时，治理必须存在于数据层</title>
-<link>https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</link>
-<guid isPermaLink="false">2G8SplXx1SzxILJIjU6KQx</guid>
-<pubDate>Thu, 27 Aug 2026 12:01:00 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】由EDB呈现 随着企业赋予AI智能体更多自主权——即无需人工逐步审批即可跨系统规划、决策和行动的能力——一个棘手的问题成为每次架构审查的核心：当智能体试图执行一项从未被授权完成的动作时，究竟是什么能真正阻止它？这些是你的智能体，运行在你的模型上，触及你基础设施中的数据，而它们行为的责任由你承担。这种责任无法通过事后追溯或一套仅停留在纸面上而非实践中的抽象政策来履行。智能体需要实时的、嵌入数据层的治理机制来确保合规。<br/><br/><a href="https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

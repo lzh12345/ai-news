@@ -1,8 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/": {
-"t": "OpenAI 的首款品牌硬件竟是……发光键盘？",
-"s": "Codex Micro 旨在让用户一目了然地监控多个智能体线程。"
-},
 "https://the-decoder.com/?p=37801": {
 "t": "Bonsai 27B：一款可运行于iPhone的完全开源推理模型",
 "s": "PrismML将一款270亿参数的AI模型压缩至4GB以下，体积小到足以在iPhone上运行。根据该公司自测基准，最小版本保留了原始性能的90%，数学和编程得分几乎未受影响。据报道，苹果已在测试该压缩技术，这可能有助于缩小其在设备端AI领域的差距。本文《Bonsai 27B is a full open reasoning model that fits on an iPhone》首发于The Decoder。"
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=81962": {
 "t": "谷歌AI推出EnvHarness：一个可编程层，将静态智能体环境转变为自适应训练世界",
 "s": "谷歌云AI研究团队与圣路易斯华盛顿大学及北卡罗来纳大学教堂山分校合作，发布了EnvHarness——一个Apache-2.0许可的层，可将静态智能体基准测试转变为能适应在其上训练的策略的动态环境。它通过标准的reset()/step()接口封装冻结环境，使任务和人工构建的验证器保持不变——而LLM设计器EnvRigger则根据智能体自身运行中诊断出的缺陷自动编写这些封装器。在五个基准测试中，挖掘出的技能在保留任务上最高提升9.0分，执行步骤减少9.8%。"
+},
+"https://techcrunch.com/?p=3157348": {
+"t": "美国正为无人机和机器人筑起壁垒，但中国凭借规模优势可绕道而行",
+"s": "美国正逐步排斥更多外国制造的无人机和机器人。中国的规模意味着全球竞争可能只是转移到了别处。"
 }
 }
