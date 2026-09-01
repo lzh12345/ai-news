@@ -5,8 +5,64 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 01 Sep 2026 09:02:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 15:49:52 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AIR 筹集5000万美元，助力企业审查AI代理使用的技能与附加组件</title>
+<link>https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3159543</guid>
+<pubDate>Tue, 01 Sep 2026 15:45:51 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AIR的平台能够发现企业中运行的代理，持续审查它们使用的任何技能和附加组件，并阻止任何不当行为。<br/><br/><a href="https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Fambot推出面向家庭的“AI首席管家”</title>
+<link>https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3159557</guid>
+<pubDate>Tue, 01 Sep 2026 15:10:58 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Fambot正在开发一款AI“首席管家”，旨在帮助家庭处理电子邮件、日历、学校通知、体育赛事安排以及育儿过程中的其他后勤事务。<br/><br/><a href="https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌选举AI概览不透明，依赖少数来源，有时还选边站</title>
+<link>https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39645</guid>
+<pubDate>Tue, 01 Sep 2026 13:03:17 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】利用欧盟《数字服务法》授予的访问权限，德国倡导组织AlgorithmWatch在谷歌上运行了4480个与选举相关的搜索查询，并分析了返回的AI概览。谷歌显示这些概览时并不一致，且依赖于一小部分来源，其中最主要的是其自家平台YouTube。关于此前针对选举问题AI回答的防护措施是否仍然有效，谷歌未予明确。文章《谷歌选举AI概览不透明，依赖少数来源，有时还选边站》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>我们如何利用Zstandard和Pingora节省PB级缓存存储</title>
+<link>https://blog.cloudflare.com/cache-transcoding/</link>
+<guid isPermaLink="false">01M1DAE3EH5FEG7RQMQD63A731</guid>
+<pubDate>Tue, 01 Sep 2026 12:59:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】我们能否在相同硬件上获得更多缓存空间？我们在Cloudflare的缓存内部进行了压缩原型测试，以探究这一可能性。<br/><br/><a href="https://blog.cloudflare.com/cache-transcoding/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Runway的Solaris是一个实时生成软件界面的人工智能系统</title>
+<link>https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39643</guid>
+<pubDate>Tue, 01 Sep 2026 12:53:46 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】人工智能公司Runway发布了Solaris，这是其称为“界面世界模型”新类别中的首个模型。该系统并非运行代码，而是在您与之交互时逐帧生成用户界面。文章《Runway的Solaris是一个实时生成软件界面的人工智能系统》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌AI搜索因国籍问题撤回紧急呼叫建议，但仍标记来自Facebook的用户</title>
+<link>https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39615</guid>
+<pubDate>Tue, 01 Sep 2026 12:44:11 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】“请前往安全地点或拨打紧急服务电话”：这是谷歌AI搜索对输入“独自与非洲人、印度人或巴基斯坦人在一起”的用户给出的建议。文章《谷歌AI搜索因国籍问题撤回紧急呼叫建议，但仍标记来自Facebook的用户》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gradium AI发布新默认TTS模型：216毫秒首音频时间下硬案例通过率达81.0%</title>
+<link>https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81990</guid>
+<pubDate>Tue, 01 Sep 2026 03:39:05 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在文本转语音领域，速度与准确性通常相互制约。Gradium AI的新默认模型声称两者兼得：在Coval平台上，针对五种语言的500个困难句子，其人工评定的通过率达到81.0%，P50首音频时间为216毫秒。评估数据集已在Hugging Face上以CC BY 4.0许可开放。该文章《Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio》最初发表于MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>苹果公司公布“惊人证据”，指控前员工为OpenAI窃取公司数据</title>
 <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
@@ -14,6 +70,30 @@
 <pubDate>Tue, 01 Sep 2026 00:13:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】苹果公司表示，有证据显示，一名前员工在得知自己受到调查后，销毁了数据盗窃的证据。<br/><br/><a href="https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出 @huggingface/kernels：200多个用于本地AI的WebGPU内核</title>
+<link>https://huggingface.co/blog/webgpu-kernels</link>
+<guid isPermaLink="false">https://huggingface.co/blog/webgpu-kernels</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/webgpu-kernels">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Keenable AI 开源 NEEDLE：一个每小时重建查询集的实时搜索基准</title>
+<link>https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81987</guid>
+<pubDate>Mon, 31 Aug 2026 23:43:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】当被测试的对象能够读取答案时，你如何对网络搜索 API 进行基准测试？搜索代理拥有抓取工具。如果黄金标签存在于公共数据集中，代理可以在评估过程中下载它们并完全跳过检索。类似的问题在答案已被编码时也会出现……该文章《Keenable AI 开源 NEEDLE：一个每小时重建查询集的实时搜索基准》最初发表于 MarkTechPost。<br/><br/><a href="https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌AI发布TimesFM-3：一款3.3亿参数的零样本基础模型，用于多变量时间序列预测</title>
+<link>https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81981</guid>
+<pubDate>Mon, 31 Aug 2026 21:20:16 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】谷歌研究院发布了TimesFM-3，这是一款拥有3.3亿参数的时间序列基础模型，能够在单次前向传播中预测多个相关序列。与截至2.5版本的所有TimesFM检查点不同，它原生预训练用于多变量预测，接受多个目标、过去协变量和过去-未来协变量，无需针对特定任务进行微调。在GIFT-Eval、fev-bench和TIME排行榜上，它在预训练基础模型中取得了最高的平均排名。然而，其权重在非商业、非生产许可下发布。<br/><br/><a href="https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>五角大楼现已拥有自家版本的ChatGPT和Grok</title>
@@ -152,14 +232,6 @@
 <description><![CDATA[【arstechnica.com】互动式移动“小玩意儿”制作容易，但在Meta平台之外分享却困难重重。<br/><br/><a href="https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI及竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理</title>
-<link>https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39605</guid>
-<pubDate>Mon, 31 Aug 2026 08:55:12 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】据The Information报道，OpenAI已购买数万台Mac mini和Mac Studio用于训练计算机代理。Anthropic同样依赖苹果硬件。需求如此之高，以至于最强大的型号已售罄数月。苹果Mac业务在六月季度收入增长近29%，达到104亿美元。文章《OpenAI和竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI支持加州推进青少年AI安全的法案</title>
 <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
 <guid isPermaLink="false">https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
@@ -174,6 +246,14 @@
 <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Polimill利用OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。<br/><br/><a href="https://openai.com/index/polimill">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenClaw 发布 OpenClaw 2.0：引导式模型设置、575毫秒控制界面启动，以及每个网关单一信任边界</title>
+<link>https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81971</guid>
+<pubDate>Mon, 31 Aug 2026 05:04:10 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenClaw 基金会发布了 v2026.8.1 版本，该项目称之为 OpenClaw 2.0：共有 933 位贡献者、569 位首次贡献者，以及超过 16,000 个拉取请求，约占仓库中所有已合并 PR 的一半。设置现在可复用现有订阅、API 密钥和本地模型。重建后的控制界面将测试框架启动时间从约 1.6 秒缩短至 575 毫秒。共享云会话增加了真正的多人协作功能，但文档明确指出这些会话并非安全边界。文章《OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway》最初发表于...<br/><br/><a href="https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI普及化进程中的里程碑</title>
@@ -192,6 +272,22 @@
 <description><![CDATA[【techcrunch.com】美国正逐步排斥更多外国制造的无人机和机器人。中国的规模意味着全球竞争可能只是转移到了别处。<br/><br/><a href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>语音与实时智能体的最低延迟推理API：以首字延迟（TTFT）为核心的基准测试</title>
+<link>https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81967</guid>
+<pubDate>Sun, 30 Aug 2026 21:24:38 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】语音智能体在智能性失败之前，往往先败于延迟。首字延迟是多数团队选择推理API时使用的指标，它是正确的起点，却也是错误的终点。本基准测试深入语音技术栈的每一层——大语言模型、语音转文字、文字转语音及语音转语音——采用2026年8月30日与原始来源核实的图表，每个数字均标注为独立测量、供应商发布或供应商在其自身产品上测量。文章《语音与实时智能体的最低延迟推理API：以首字延迟为核心》<br/><br/><a href="https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌AI推出EnvHarness：一个可编程层，将静态智能体环境转变为自适应训练世界</title>
+<link>https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81962</guid>
+<pubDate>Sun, 30 Aug 2026 20:23:46 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】谷歌云AI研究团队与圣路易斯华盛顿大学及北卡罗来纳大学教堂山分校合作，发布了EnvHarness——一个Apache-2.0许可的层，可将静态智能体基准测试转变为能适应在其上训练的策略的动态环境。它通过标准的reset()/step()接口封装冻结环境，使任务和人工构建的验证器保持不变——而LLM设计器EnvRigger则根据智能体自身运行中诊断出的缺陷自动编写这些封装器。在五个基准测试中，挖掘出的技能在保留任务上最高提升9.0分，执行步骤减少9.8%。<br/><br/><a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>马斯克加速燃气轮机之路伴随污染问题</title>
 <link>https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3158648</guid>
@@ -208,14 +304,6 @@
 <description><![CDATA[【techcrunch.com】卡特彼勒数十年来在偏远矿区部署自动化机器，如今正将这一经验应用于AI部署。<br/><br/><a href="https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>员工评价揭示职场AI情绪转差，挫败感日益增长</title>
-<link>https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39594</guid>
-<pubDate>Sun, 30 Aug 2026 13:12:19 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】对Glassdoor评论的分析显示，自2019年以来，关于AI的正面评论比例已从81%降至43%。高管对AI的评价多为正面，而保险理赔人员的评价则几乎全为负面。对失业的恐惧仅是众多抱怨之一。强制采用、监控以及不切实际的生产力期望同样构成沉重负担。文章《AI情绪转差，员工评价揭示职场挫败感增长》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta推动机器人在数据中心工作的内部举措</title>
 <link>https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</guid>
@@ -224,12 +312,28 @@
 <description><![CDATA[【arstechnica.com】该公司正在测试机器人执行原本由技术人员完成的任务。<br/><br/><a href="https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI代理缺乏时间感知，且对此毫无察觉</title>
-<link>https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39286</guid>
-<pubDate>Sun, 30 Aug 2026 10:41:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】一项新研究显示，像Claude Code和Codex这样的AI编程助手没有时间概念。两者都系统性地高估了任务所需时间，其中Codex的误差高达实际时长的十倍。它们还对自己的工作评价过高，约高出20个百分点。对于长时间、自主执行的任务而言，这给监督带来了实际问题。本文《AI代理缺乏时间感知，且对此毫无察觉》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/">阅读原文</a>]]></description>
+<title>Anthropic 开放模型硬件标准（MHS）研究预览：AI 智能体安全操作物理设备的共享规范</title>
+<link>https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81958</guid>
+<pubDate>Sun, 30 Aug 2026 06:12:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic 已开放模型硬件标准（MHS）的研究预览，这是一种共享驱动规范，让 AI 智能体能够发现并安全操作物理设备。通常需要数周或数月的仪器集成时间缩短至数小时：卡内基梅隆大学从原始设备到完成剂量-反应曲线仅用八小时，QuEra 的激光重锁在 700 次试验中成功率从 58% 提升至 99.3%。MHS 与模型无关，可通过 MCP 访问，并在驱动层面而非提示词中强制执行安全限制。<br/><br/><a href="https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>遇见“代码即世界”：一种将真实视频重写为可执行MuJoCo物理程序的智能体循环</title>
+<link>https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81955</guid>
+<pubDate>Sun, 30 Aug 2026 01:35:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】代码即世界从真实视频中恢复可编辑的MuJoCo场景代码，然后利用这些验证过的世界来训练物理推理。这篇关于“代码即世界”的文章最初发表在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>使用NVIDIA Earth2Studio构建自定义批量集合天气预报</title>
+<link>https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81950</guid>
+<pubDate>Sat, 29 Aug 2026 18:57:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】在本教程中，我们使用NVIDIA Earth2Studio构建了一个集合天气预报工作流程。我们在保留Colab现有支持CUDA的PyTorch环境的同时，安装所需的Earth2Studio组件，加载FCN预报模型，并从GFS获取大气初始条件。随后，我们实现了一个自定义的风电诊断功能，将10米风分量转换为涡轮机容量因子，以及[…] 该文章《Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>索尼音乐与华纳起诉Anthropic，指控其“公然进行知识产权盗窃”</title>
@@ -254,6 +358,14 @@
 <pubDate>Sat, 29 Aug 2026 17:36:47 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Vijay Pande——去年离开a16z约40亿美元的生物技术业务，创办了规模小得多、以AI为核心的VZVC——讨论了为何生物学终于从“发现”科学转向“工程”科学，为何临床试验仍然极其昂贵，以及为何他认为开放、共享的数据集（而非封闭的）才能真正让AI改变医学。<br/><br/><a href="https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌AI发布Gemini Omni 1.1 Flash：40秒场景扩展、首尾帧控制及4K超分辨率</title>
+<link>https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=81947</guid>
+<pubDate>Sat, 29 Aug 2026 14:30:44 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】我们审视了Gemini Omni 1.1 Flash，这是谷歌对其原生多模态视频生成与编辑模型的生产更新。我们解析了其中的变化：场景扩展现在可读取最多10秒的先前上下文，而非仅单一最终帧；首帧和末帧可被固定以控制摄像机运动；视频片段可作为参考传入，以保持角色一致性。该文章《谷歌AI发布Gemini Omni 1.1 Flash：40秒场景扩展、首尾帧控制及4K超分辨率》最初出现在MarkTechPost上。<br/><br/><a href="https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>英伟达的AI优势正超越GPU范畴</title>
@@ -310,22 +422,6 @@
 <pubDate>Fri, 28 Aug 2026 12:59:44 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】机器人运营商现在在Cloudflare仪表板中有了一个管理提交的专属位置。此更新增加了提交状态跟踪、提交编辑以及行为模型，使运营商能够准确声明其机器人如何使用内容。<br/><br/><a href="https://blog.cloudflare.com/botbase-for-operators/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic首次在法院胜诉，推翻五角大楼供应链风险标签</title>
-<link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158189</guid>
-<pubDate>Fri, 28 Aug 2026 12:46:12 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】一名联邦法官裁定，特朗普政府将Anthropic标记为供应链风险的行为非法，为这家AI公司赢得了一场胜利，而其第二起针对五角大楼的诉讼仍在华盛顿进行中。<br/><br/><a href="https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta高管离职加盟OpenAI，社交媒体巨头在印度面临日益严格的审查</title>
-<link>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158175</guid>
-<pubDate>Fri, 28 Aug 2026 12:21:06 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】桑迪亚·德瓦纳坦将在新职位上负责OpenAI在东南亚和澳大利亚的部分运营。<br/><br/><a href="https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>关于Cursor被SpaceX收购后我们的决定</title>
@@ -390,102 +486,6 @@
 <pubDate>Thu, 27 Aug 2026 19:55:22 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】随着兴趣增长，英伟达正获取开放模型的关键基础设施。<br/><br/><a href="https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>人工智能行业称特朗普计划对芯片征税是“想象中最愚蠢的方式”</title>
-<link>https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/</guid>
-<pubDate>Thu, 27 Aug 2026 18:57:08 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】科技行业对特朗普通过征税数据中心来赢得人工智能竞赛的计划感到困惑。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通过优化1.1.1.1的DNS缓存，我们节省了100太字节内存</title>
-<link>https://blog.cloudflare.com/dns-cache-memory-optimization-1111/</link>
-<guid isPermaLink="false">01M11810QJGXPR0NHE510EFS6F</guid>
-<pubDate>Thu, 27 Aug 2026 17:02:35 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】对Big Pineapple的DNS缓存布局进行的五项Rust级内存优化，将每个条目的内存占用减少了56%，在Cloudflare的整个服务器群中释放了约100太字节的内存。<br/><br/><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gemini Omni 1.1 Flash 让您以更多控制力进行构建</title>
-<link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</guid>
-<pubDate>Thu, 27 Aug 2026 16:11:32 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenClaw 走红网络。认识构建并守护它的维护者们。</title>
-<link>https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/</link>
-<guid isPermaLink="false">https://github.blog/?p=98468</guid>
-<pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】OpenClaw 是 GitHub 历史上增长最快的项目。Peter Steinberger 和几位维护者分享了项目前六个月的经验教训。这篇文章《OpenClaw 走红网络。认识构建并守护它的维护者们。》最初出现在 GitHub 博客上。<br/><br/><a href="https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>企业AI的真正风险不是自主智能体，而是它们之间的复杂性。</title>
-<link>https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them</link>
-<guid isPermaLink="false">4kSKkAv49UJ4Wk7hUrj0zk</guid>
-<pubDate>Thu, 27 Aug 2026 14:01:00 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】由Gravitee呈现 智能体复杂性是当前潜伏在企业内部的阴险阴影，需要被照亮。这是因为企业不会部署单个智能体然后看着它运行，而是部署成群结队的智能体，每个都在调用API、调用其他智能体、深入那些从未为机器决策者构建的应用。这才是让你夜不能寐的失败模式：一个蜿蜒复杂、无人能清晰看清并治理的系统。但为什么事情会如此迅速地变得不透明？向系统添加第二个智能体，你就增加了一个连接。添加十个……<br/><br/><a href="https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude、Codex与Hermes在企业网络中安装了无主代码</title>
-<link>https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/</guid>
-<pubDate>Thu, 27 Aug 2026 14:00:13 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】在企业文档中发现了227条安装命令，指向无人拥有的代码。<br/><br/><a href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>人工智能的用水问题有多严重？</title>
-<link>https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/</guid>
-<pubDate>Thu, 27 Aug 2026 13:57:08 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】人工智能的水足迹正在增长，但地理位置和冷却技术会带来差异。<br/><br/><a href="https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>全球首创双盲AI评估试点启动</title>
-<link>https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</guid>
-<pubDate>Thu, 27 Aug 2026 12:59:16 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】开展全球首个双盲AI评估试点项目<br/><br/><a href="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI如何让一群LLM代理在测试中作弊并洗劫Hugging Face</title>
-<link>https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/</guid>
-<pubDate>Thu, 27 Aug 2026 12:58:59 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】未经授权，1200个OpenAI代理相互串通，在测试中作弊。<br/><br/><a href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>当智能体自主行动时，治理必须存在于数据层</title>
-<link>https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</link>
-<guid isPermaLink="false">2G8SplXx1SzxILJIjU6KQx</guid>
-<pubDate>Thu, 27 Aug 2026 12:01:00 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】由EDB呈现 随着企业赋予AI智能体更多自主权——即无需人工逐步审批即可跨系统规划、决策和行动的能力——一个棘手的问题成为每次架构审查的核心：当智能体试图执行一项从未被授权完成的动作时，究竟是什么能真正阻止它？这些是你的智能体，运行在你的模型上，触及你基础设施中的数据，而它们行为的责任由你承担。这种责任无法通过事后追溯或一套仅停留在纸面上而非实践中的抽象政策来履行。智能体需要实时的、嵌入数据层的治理机制来确保合规。<br/><br/><a href="https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer">阅读原文</a>]]></description>
-</item>
-<item>
-<title>更好的答案，更广阔的思维：学生从ChatGPT和批判性思维训练中获益</title>
-<link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
-<guid isPermaLink="false">https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</guid>
-<pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】一项针对1000多名学生的随机研究，考察了ChatGPT、批判性思维、原创性以及学生在真实大学作业中的表现。<br/><br/><a href="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI在巴西扩展业务版图</title>
-<link>https://openai.com/index/expanding-our-presence-in-brazil</link>
-<guid isPermaLink="false">https://openai.com/index/expanding-our-presence-in-brazil</guid>
-<pubDate>Thu, 27 Aug 2026 03:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI正在扩大其在巴西的业务，深化与开发者、企业和社区的互动，以支持人工智能在全国范围内的应用。<br/><br/><a href="https://openai.com/index/expanding-our-presence-in-brazil">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
