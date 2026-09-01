@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=37833": {
-"t": "前OpenAI CTO穆拉蒂的Thinking Machines发布Inkling：9750亿参数模型领先美国实验室，但落后于中国",
-"s": "由前OpenAI首席技术官米拉·穆拉蒂创立的Thinking Machines Lab发布了Inkling，这是一款拥有9750亿参数的多模态开放权重模型。在Artificial Analysis Intelligence Index上，它领先于美国其他开放权重模型，但中国顶尖的开放模型在某些任务上仍优于它。定价为每百万输入token 1.87美元起，Thinking Machines将Inkling定位为微调的基础模型，而非市面上最强大的模型。本文《前OpenAI CTO穆拉蒂的Thinking Machines发布Inkling：9750亿参数模型领先美国实验室，但落后于中国》最初发表于T。"
-},
 "https://the-decoder.com/?p=37828": {
 "t": "Gemma 4 获得隐秘更新，修复工具调用错误和截断响应，名称保持不变",
 "s": "谷歌为其开源AI模型Gemma 4推送了一项更新，该更新提升了在英伟达Hopper GPU上的性能，修复了工具调用错误，并解决了响应截断的问题。文章《Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name》最初发表于The Decoder。"
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=81981": {
 "t": "谷歌AI发布TimesFM-3：一款3.3亿参数的零样本基础模型，用于多变量时间序列预测",
 "s": "谷歌研究院发布了TimesFM-3，这是一款拥有3.3亿参数的时间序列基础模型，能够在单次前向传播中预测多个相关序列。与截至2.5版本的所有TimesFM检查点不同，它原生预训练用于多变量预测，接受多个目标、过去协变量和过去-未来协变量，无需针对特定任务进行微调。在GIFT-Eval、fev-bench和TIME排行榜上，它在预训练基础模型中取得了最高的平均排名。然而，其权重在非商业、非生产许可下发布。"
+},
+"https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+"t": "OpenAI支持加州推进青少年AI安全的法案",
+"s": "OpenAI支持加州SB 1119法案，为青少年推进强有力的、适龄的AI安全保护措施，同时保留学习、创造和探索的机会。"
 }
 }
