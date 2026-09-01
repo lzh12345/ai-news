@@ -1,36 +1,4 @@
 {
-"https://the-decoder.com/?p=37853": {
-"t": "德国首次裁定将谷歌AI概览与Perplexity纳入媒体法监管",
-"s": "德国媒体监管机构表示，谷歌的AI概览属于谷歌自身内容，而非中立搜索结果，且这些内容挤占了常规链接。监管机构已依据德国《国家媒体条约》对谷歌和Perplexity作出首批裁决。两家公司均有一个月时间提出上诉。本文《德国首次裁定将谷歌AI概览与Perplexity纳入媒体法监管》最初发表于The Decoder。"
-},
-"https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb": {
-"t": "NVIDIA Nemotron 3 Embed 在 RTEB 上综合排名第一，推动智能体检索发展",
-"s": ""
-},
-"https://openai.com/index/why-teens-deserve-access-safe-ai": {
-"t": "青少年为何应获得安全的AI使用权限",
-"s": "了解OpenAI如何通过适龄保护措施、学习工具、家长控制功能及专家合作，让ChatGPT对青少年更加安全。"
-},
-"https://techcrunch.com/?p=3143234": {
-"t": "谷歌AI模式现可链接并交互指定应用",
-"s": "通过本次更新，谷歌将AI模式从回答问题扩展至在用户日常使用的应用中完成任务。"
-},
-"https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/": {
-"t": "能源公司IPO激增，投资者寻求搭上AI热潮的快车",
-"s": "上市企业正以本世纪最快速度筹集资金。"
-},
-"https://techcrunch.com/?p=3143273": {
-"t": "是的，现在你可以通过命令行订购 DoorDash 了",
-"s": "DoorDash 正在开放 dd-cli 的有限测试版，这是一款命令行工具，让开发者和 AI 代理能够从终端搜索商店、构建购物车并下单，标志着软件设计正朝着面向 AI 代理而非仅面向人类迈出又一步。"
-},
-"https://techcrunch.com/?p=3143216": {
-"t": "OpenAI为何要卖一个ChatGPT篮球？",
-"s": "你可能已经听说OpenAI本周发布了其首款硬件产品。但你可能还没听说过那个ChatGPT篮球。"
-},
-"https://techcrunch.com/?p=3143111": {
-"t": "前DeepMind研究员如何在产品发布前以3亿美元估值完成种子轮融资",
-"s": "凭借十多年来参与构建全球最具影响力AI系统的经验（包括后来为ChatGPT开发提供启发的研究），Andrew Dai阐述了他为何认为视觉AI是人工智能的下一个重大前沿领域。"
-},
 "https://techcrunch.com/?p=3142431": {
 "t": "为何AMI Labs的Alexandre LeBrun不愿称其AI为“AGI”或“超级智能”",
 "s": "当AI领域所有人都在追逐“超级智能”时，Yann LeCun的世界模型初创公司AMI Labs的CEO Alexandre LeBrun却对这个词不屑一顾。"
@@ -4798,5 +4766,37 @@
 "https://huggingface.co/blog/webgpu-kernels": {
 "t": "推出 @huggingface/kernels：200多个用于本地AI的WebGPU内核",
 "s": "（无）"
+},
+"https://techcrunch.com/?p=3159727": {
+"t": "谷歌对Canva的回应是一款以提示代替设计的AI工具",
+"s": "通过Google Pics，谷歌正进一步深入由Canva和Adobe主导的创意软件市场，但采用了截然不同的AI优先策略。"
+},
+"https://deepmind.google/blog/introducing-agentic-video-in-gemini/": {
+"t": "推出基于Gemini的智能体视频理解功能",
+"s": "（无）"
+},
+"https://openai.com/index/ai-native-company-workflows": {
+"t": "AI原生企业如何将工作流程转化为运营能力",
+"s": "Basis、Clay和Exa Labs利用AI代理优化入职流程、账户管理和开发者集成。看看企业领导者可以借鉴什么。"
+},
+"https://techcrunch.com/?p=3159529": {
+"t": "ChatGPT健康功能新增Epic集成，便于临床医生导入患者数据",
+"s": "OpenAI表示，该集成功能为临床医生提供了对健康记录的只读访问权限。"
+},
+"https://the-decoder.com/?p=39654": {
+"t": "谷歌DeepMind新掌门称前沿AI领导力是唯一重要之事",
+"s": "谷歌DeepMind负责人Koray Kavukcuoglu承认谷歌当前的模型“略低于前沿水平”，但他表示“百分之百确信我们将达到前沿”。不过，他并未分享任何具体的前沿进展来支持这一说法。本文《谷歌DeepMind新掌门称前沿AI领导力是唯一重要之事》最初发表于The Decoder。"
+},
+"https://techcrunch.com/?p=3159706": {
+"t": "红杉孵化的Empirik携2100万美元资金启动，旨在预测故障于未然",
+"s": "这家初创公司希望为IT基础设施领域带来如Cursor对软件工程那样的变革。"
+},
+"https://techcrunch.com/?p=3159627": {
+"t": "亚马逊Alexa现在可以在有新商品可能吸引你购物时提醒你",
+"s": "亚马逊正在推出一项名为“有新消息提醒我”的新Alexa功能，该功能可以发送关于产品发布、巡演、书籍、节目及其他可能引发购买行为的个性化提醒。"
+},
+"https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+"t": "医疗机构现可将电子健康档案及行业数据接入ChatGPT",
+"s": "ChatGPT现已能够连接可信的医疗健康数据，助力临床医生安全地获取患者背景信息、医学研究等更多内容。"
 }
 }
