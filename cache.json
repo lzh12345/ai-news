@@ -1,36 +1,4 @@
 {
-"https://techcrunch.com/?p=3142431": {
-"t": "为何AMI Labs的Alexandre LeBrun不愿称其AI为“AGI”或“超级智能”",
-"s": "当AI领域所有人都在追逐“超级智能”时，Yann LeCun的世界模型初创公司AMI Labs的CEO Alexandre LeBrun却对这个词不屑一顾。"
-},
-"https://the-decoder.com/?p=37848": {
-"t": "OpenAI 希望开发者停止输入命令，改用摇杆控制AI代理",
-"s": "OpenAI 与键盘制造商 Work Louder 联合发布了 Codex Micro，这是一款专为与AI代理协作设计的紧凑型硬件控制器。本文《OpenAI 希望开发者停止输入命令，改用摇杆控制AI代理》最初发表于 The Decoder。"
-},
-"https://techcrunch.com/?p=3143233": {
-"t": "月之暗面即将推出的Kimi 3有望缩小与Anthropic的Opus 4.8的差距",
-"s": "据《金融时报》报道，Kimi K3将成为中国最大的开源AI模型，参数量在2万亿到3万亿之间。"
-},
-"https://the-decoder.com/?p=37841": {
-"t": "Sakana AI的编排器集成Nvidia Nemotron，证明“集体智能”可媲美单一前沿模型",
-"s": "Sakana AI正在将Nvidia的开源Nemotron模型整合到其Fugu编排器中，该编排器能动态组合多个语言模型以执行特定任务。其核心论点在于：开源模型只有在协调使用时，才能与前沿系统竞争。然而，该公告尚未提供新组合的具体基准数据。本文《Sakana AI的编排器集成Nvidia Nemotron，证明“集体智能”可媲美单一前沿模型》首发于The Decoder。"
-},
-"location-invariant-functions": {
-"t": "函数的位置不变性质与分布的性质：测试中统一，验证中分离",
-"s": "如果函数的性质可以通过函数中每个值出现的频率来刻画，而无需考虑每个值出现的位置，则称该性质为位置不变（或对称）的。已知测试函数的位置不变性质的（查询）复杂度与测试相应分布的（对应性质的）（样本）复杂度密切相关。当前工作的主要信息是，这种密切关系在验证的背景下并不成立。这一点在考虑……时均成立。"
-},
-"interactive-proofs-distribution-properties": {
-"t": "通用分布属性的交互式证明",
-"s": "假设爱丽丝从某个未知分布中收集了少量样本，并希望了解该分布的特性。鲍勃是一位不可信的数据分析师，声称已对该分布进行了复杂的数据分析，并就其属性提出了断言。那么，爱丽丝何时以及如何能够高效地验证鲍勃的断言（使用比自行运行分析更少的资源）？我们针对可由有界深度电路判定的通用分布属性，构建了交互式证明系统。设N为分布的上界……"
-},
-"doubly-sublinear-interactive-proofs": {
-"t": "双重次线性邻近交互式证明",
-"s": "我们研究双重次线性邻近交互式证明（dsIPPs）：一种生成速度极快的证明，可用于证明关于海量输入的近似断言。证明生成速度极快，仅需读取输入的一小部分（次线性）。证明的近似验证速度更快（读取输入中更小的一部分）。与性质检验文献类似，近似验证意味着次线性时间的诚实证明者能让验证者接受性质中的每个输入，但任何证明者都无法欺骗验证者……"
-},
-"https://openai.com/index/cars24": {
-"t": "Cars24 如何借助 OpenAI 扩展对话并加速发展",
-"s": "Cars24 利用 OpenAI 驱动的语音和聊天代理，每月处理超过 100 万分钟的对话，挽回 12% 的流失线索，并将代理工作流推广至公司各个团队。"
-},
 "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/": {
 "t": "官方确认：欧盟将强制谷歌共享搜索数据并开放安卓AI功能",
 "s": "谷歌表示，这些变化可能会危及用户隐私和安全。"
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
 "t": "医疗机构现可将电子健康档案及行业数据接入ChatGPT",
 "s": "ChatGPT现已能够连接可信的医疗健康数据，助力临床医生安全地获取患者背景信息、医学研究等更多内容。"
+},
+"https://techcrunch.com/?p=3159934": {
+"t": "据报道，AfterQuery成为Y Combinator史上最快达到独角兽地位的公司，目前估值达32亿美元",
+"s": "AI模型训练初创公司AfterQuery据报道完成了一轮融资，估值达到32亿美元，距其4月份宣布的3000万美元A轮融资（估值3亿美元）仅过去五个月。"
+},
+"https://huggingface.co/blog/allenai/benchmirt": {
+"t": "BenchMIRT：LLM基准测试究竟在衡量什么？",
+"s": "（无）"
+},
+"https://techcrunch.com/?p=3159895": {
+"t": "OpenAI的Astra模型即将问世——擅长侵入计算机系统",
+"s": "OpenAI预览了其为发布最新、对网络安全至关重要的LLM Astra所采取的预防措施。"
+},
+"https://techcrunch.com/?p=3159905": {
+"t": "谷歌安卓更新应对晕动症、无障碍功能及更多",
+"s": "尽管部分功能显示谷歌在追赶苹果，后者已为iPhone用户提供类似功能，但其他功能则特别利用Gemini来提供多种改进。"
+},
+"https://the-decoder.com/?p=39665": {
+"t": "Anthropic向监管机构、媒体、事实核查人员等开放Claude AI文本检测功能",
+"s": "Anthropic推出了一款API，使监管机构、媒体和研究机构能够检查文本是否带有Claude的数字水印。欧盟《人工智能法案》现要求AI生成的文本包含隐形水印。批评者警告，该技术可能损害文本质量，并在合同禁止使用AI的情况下引发透明度问题。文章《Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others》最初发表于The Decoder。"
+},
+"https://the-decoder.com/?p=39658": {
+"t": "Anthropic的Claude Fable 5.1承诺提升编程与研究能力，成本最高降低45%",
+"s": "Anthropic推出其迄今最强大的AI模型Claude Fable 5.1和Mythos 5.1。Fable 5.1在Terminal-Bench-Science上的得分是前代的两倍，代理编程能力提升超过30%。在涉及大量工具调用的长时间自主运行中，成本最高可降低45%。本文《Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less》首发于The Decoder。"
+},
+"https://techcrunch.com/?p=3159842": {
+"t": "Anthropic新发布的Fable版本更便宜、限制更少",
+"s": "Fable 5.1包含旨在降低令牌成本及减少模型安全防护措施导致的误报限制的改动。"
+},
+"https://openai.com/index/path-to-astra": {
+"t": "通往Astra之路：关键能力与前沿防护措施",
+"s": "Astra是OpenAI首个在《准备框架》下达到关键网络安全能力阈值的模型，并为其发布配备了更强的防护措施。"
 }
 }

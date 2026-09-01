@@ -5,8 +5,64 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 01 Sep 2026 19:03:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 22:14:26 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>据报道，AfterQuery成为Y Combinator史上最快达到独角兽地位的公司，目前估值达32亿美元</title>
+<link>https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3159934</guid>
+<pubDate>Tue, 01 Sep 2026 22:08:24 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AI模型训练初创公司AfterQuery据报道完成了一轮融资，估值达到32亿美元，距其4月份宣布的3000万美元A轮融资（估值3亿美元）仅过去五个月。<br/><br/><a href="https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>BenchMIRT：LLM基准测试究竟在衡量什么？</title>
+<link>https://huggingface.co/blog/allenai/benchmirt</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/benchmirt</guid>
+<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/allenai/benchmirt">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI的Astra模型即将问世——擅长侵入计算机系统</title>
+<link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3159895</guid>
+<pubDate>Tue, 01 Sep 2026 21:06:24 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI预览了其为发布最新、对网络安全至关重要的LLM Astra所采取的预防措施。<br/><br/><a href="https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>谷歌安卓更新应对晕动症、无障碍功能及更多</title>
+<link>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3159905</guid>
+<pubDate>Tue, 01 Sep 2026 20:53:05 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】尽管部分功能显示谷歌在追赶苹果，后者已为iPhone用户提供类似功能，但其他功能则特别利用Gemini来提供多种改进。<br/><br/><a href="https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic向监管机构、媒体、事实核查人员等开放Claude AI文本检测功能</title>
+<link>https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39665</guid>
+<pubDate>Tue, 01 Sep 2026 20:40:36 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic推出了一款API，使监管机构、媒体和研究机构能够检查文本是否带有Claude的数字水印。欧盟《人工智能法案》现要求AI生成的文本包含隐形水印。批评者警告，该技术可能损害文本质量，并在合同禁止使用AI的情况下引发透明度问题。文章《Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic的Claude Fable 5.1承诺提升编程与研究能力，成本最高降低45%</title>
+<link>https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39658</guid>
+<pubDate>Tue, 01 Sep 2026 20:32:55 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic推出其迄今最强大的AI模型Claude Fable 5.1和Mythos 5.1。Fable 5.1在Terminal-Bench-Science上的得分是前代的两倍，代理编程能力提升超过30%。在涉及大量工具调用的长时间自主运行中，成本最高可降低45%。本文《Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic新发布的Fable版本更便宜、限制更少</title>
+<link>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3159842</guid>
+<pubDate>Tue, 01 Sep 2026 19:39:22 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Fable 5.1包含旨在降低令牌成本及减少模型安全防护措施导致的误报限制的改动。<br/><br/><a href="https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>谷歌对Canva的回应是一款以提示代替设计的AI工具</title>
 <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
@@ -86,6 +142,14 @@
 <pubDate>Tue, 01 Sep 2026 13:03:17 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】利用欧盟《数字服务法》授予的访问权限，德国倡导组织AlgorithmWatch在谷歌上运行了4480个与选举相关的搜索查询，并分析了返回的AI概览。谷歌显示这些概览时并不一致，且依赖于一小部分来源，其中最主要的是其自家平台YouTube。关于此前针对选举问题AI回答的防护措施是否仍然有效，谷歌未予明确。文章《谷歌选举AI概览不透明，依赖少数来源，有时还选边站》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>通往Astra之路：关键能力与前沿防护措施</title>
+<link>https://openai.com/index/path-to-astra</link>
+<guid isPermaLink="false">https://openai.com/index/path-to-astra</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Astra是OpenAI首个在《准备框架》下达到关键网络安全能力阈值的模型，并为其发布配备了更强的防护措施。<br/><br/><a href="https://openai.com/index/path-to-astra">阅读原文</a>]]></description>
 </item>
 <item>
 <title>我们如何利用Zstandard和Pingora节省PB级缓存存储</title>
@@ -216,22 +280,6 @@
 <description><![CDATA[【techcrunch.com】英伟达向台湾芯片制造商联发科投资35亿美元。这笔交易显示了英伟达在大型科技公司开始自主研发AI芯片之际，如何保持其在AI基础设施中的关键地位。<br/><br/><a href="https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>ChatGPT现面临欧盟更严格监管，被归类为超大型搜索引擎</title>
-<link>https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39619</guid>
-<pubDate>Mon, 31 Aug 2026 14:31:37 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】欧盟委员会首次依据《数字服务法》将ChatGPT归类为超大型搜索引擎，其每月欧盟用户至少达4500万。到2026年底，OpenAI需提交风险评估、透明度报告及广告档案等文件。至于委员会是否有权要求访问训练数据，法律专家间存在争议。本文《ChatGPT now faces stricter EU oversight as a very large search engine》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI开始仅在AI实际工作时向部分客户收费</title>
-<link>https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39620</guid>
-<pubDate>Mon, 31 Aug 2026 14:28:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI正为部分大客户提供基于结果的定价模式，即仅在AI实际完成任务后才收费。Salesforce、Adobe及多家初创公司也在摆脱固定订阅费模式。核心争议依旧：成功的功劳应归于软件还是客户？本文《OpenAI starts charging some customers only when its AI actually works》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>ChatGPT与Reddit现面临欧盟最严格的在线安全规定</title>
 <link>https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</guid>
@@ -318,38 +366,6 @@
 <pubDate>Sun, 30 Aug 2026 11:03:47 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】该公司正在测试机器人执行原本由技术人员完成的任务。<br/><br/><a href="https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>索尼音乐与华纳起诉Anthropic，指控其“公然进行知识产权盗窃”</title>
-<link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158639</guid>
-<pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这起最新诉讼范围尤为广泛，聚焦于非法盗版的指控。<br/><br/><a href="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>在TechBBQ大会上，欧洲关于AI的讨论始终绕不开一个话题：谁真正掌握着控制权？</title>
-<link>https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158394</guid>
-<pubDate>Sat, 29 Aug 2026 17:51:10 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】来自欧洲各地的投资者、创始人和运营者齐聚一年一度的北欧TechBBQ大会，探讨人类如何对AI保持主导权。<br/><br/><a href="https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>“我们不是每年做30个赌注”：Vijay Pande谈在a16z管理40亿美元后的小额下注策略</title>
-<link>https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3156771</guid>
-<pubDate>Sat, 29 Aug 2026 17:36:47 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Vijay Pande——去年离开a16z约40亿美元的生物技术业务，创办了规模小得多、以AI为核心的VZVC——讨论了为何生物学终于从“发现”科学转向“工程”科学，为何临床试验仍然极其昂贵，以及为何他认为开放、共享的数据集（而非封闭的）才能真正让AI改变医学。<br/><br/><a href="https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>英伟达的AI优势正超越GPU范畴</title>
-<link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158515</guid>
-<pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】新一代数据中心系统正通过更智能的流量控制而非单纯增加处理器周期来提升效率。<br/><br/><a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>联邦法官裁定特朗普将“觉醒”的Anthropic列入黑名单属非法行为</title>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】OpenClaw 是 GitHub 历史上增长最快的项目。Peter Steinberger 和几位维护者分享了项目前六个月的经验教训。这篇文章《OpenClaw 走红网络。认识构建并守护它的维护者们。》最初出现在 GitHub 博客上。<br/><br/><a href="https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>企业AI的真正风险不是自主智能体，而是它们之间的复杂性。</title>
-<link>https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them</link>
-<guid isPermaLink="false">4kSKkAv49UJ4Wk7hUrj0zk</guid>
-<pubDate>Thu, 27 Aug 2026 14:01:00 +0000</pubDate>
-<source>venturebeat.com</source>
-<description><![CDATA[【venturebeat.com】由Gravitee呈现 智能体复杂性是当前潜伏在企业内部的阴险阴影，需要被照亮。这是因为企业不会部署单个智能体然后看着它运行，而是部署成群结队的智能体，每个都在调用API、调用其他智能体、深入那些从未为机器决策者构建的应用。这才是让你夜不能寐的失败模式：一个蜿蜒复杂、无人能清晰看清并治理的系统。但为什么事情会如此迅速地变得不透明？向系统添加第二个智能体，你就增加了一个连接。添加十个……<br/><br/><a href="https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude、Codex与Hermes在企业网络中安装了无主代码</title>
-<link>https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/</guid>
-<pubDate>Thu, 27 Aug 2026 14:00:13 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】在企业文档中发现了227条安装命令，指向无人拥有的代码。<br/><br/><a href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
