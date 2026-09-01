@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81045": {
-"t": "构建由 Gin Config 控制的 PyTorch 流水线：可配置的 MLP 变体、余弦调度与运行时参数覆盖",
-"s": "我们构建了一个由 Gin Config 控制的 PyTorch 流水线，其中训练代码保持不变，实验变量移至 .gin 文件中。我们构建了一个非线性螺旋二分类任务，并定义了一个具有作用域架构变体的可配置 MLP。通过 @gin.configurable 绑定，我们暴露了优化器、调度器、损失函数、批处理、随机种子设置以及训练循环。随后，我们运行了两个作用域实验，在不编辑源代码的情况下应用运行时覆盖，并为每次运行导出操作配置。"
-},
-"uncertainty-quantification-function-calling": {
-"t": "大语言模型函数调用的不确定性量化",
-"s": "大语言模型（LLM）正越来越多地被部署用于自主解决现实世界任务。其中关键要素之一是LLM函数调用范式，这是一种广泛用于赋予LLM工具使用能力的方法。然而，LLM错误调用函数可能产生严重后果，尤其是当这些操作不可逆时（例如转账或删除数据）。因此，在执行函数调用前，评估LLM对该调用能正确解决问题的置信度至关重要。不确定性量化（UQ）方法可用于量化……"
-},
-"https://techcrunch.com/?p=3142836": {
-"t": "Applied Computing 希望为油气运营商提供覆盖整个工厂的AI模型",
-"s": "Applied Computing 已筹集2000万美元的A轮融资，旨在为石油、天然气和石化行业构建一个基础AI模型。"
-},
 "https://the-decoder.com/?p=37833": {
 "t": "前OpenAI CTO穆拉蒂的Thinking Machines发布Inkling：9750亿参数模型领先美国实验室，但落后于中国",
 "s": "由前OpenAI首席技术官米拉·穆拉蒂创立的Thinking Machines Lab发布了Inkling，这是一款拥有9750亿参数的多模态开放权重模型。在Artificial Analysis Intelligence Index上，它领先于美国其他开放权重模型，但中国顶尖的开放模型在某些任务上仍优于它。定价为每百万输入token 1.87美元起，Thinking Machines将Inkling定位为微调的基础模型，而非市面上最强大的模型。本文《前OpenAI CTO穆拉蒂的Thinking Machines发布Inkling：9750亿参数模型领先美国实验室，但落后于中国》最初发表于T。"
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/polimill": {
 "t": "Polimill构建日本下一代公共AI基础设施",
 "s": "Polimill利用OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。"
+},
+"https://techcrunch.com/?p=3159449": {
+"t": "苹果公司公布“惊人证据”，指控前员工为OpenAI窃取公司数据",
+"s": "苹果公司表示，有证据显示，一名前员工在得知自己受到调查后，销毁了数据盗窃的证据。"
+},
+"https://www.marktechpost.com/?p=81987": {
+"t": "Keenable AI 开源 NEEDLE：一个每小时重建查询集的实时搜索基准",
+"s": "当被测试的对象能够读取答案时，你如何对网络搜索 API 进行基准测试？搜索代理拥有抓取工具。如果黄金标签存在于公共数据集中，代理可以在评估过程中下载它们并完全跳过检索。类似的问题在答案已被编码时也会出现……该文章《Keenable AI 开源 NEEDLE：一个每小时重建查询集的实时搜索基准》最初发表于 MarkTechPost。"
+},
+"https://www.marktechpost.com/?p=81981": {
+"t": "谷歌AI发布TimesFM-3：一款3.3亿参数的零样本基础模型，用于多变量时间序列预测",
+"s": "谷歌研究院发布了TimesFM-3，这是一款拥有3.3亿参数的时间序列基础模型，能够在单次前向传播中预测多个相关序列。与截至2.5版本的所有TimesFM检查点不同，它原生预训练用于多变量预测，接受多个目标、过去协变量和过去-未来协变量，无需针对特定任务进行微调。在GIFT-Eval、fev-bench和TIME排行榜上，它在预训练基础模型中取得了最高的平均排名。然而，其权重在非商业、非生产许可下发布。"
 }
 }
