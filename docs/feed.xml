@@ -5,8 +5,120 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 02 Sep 2026 15:42:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 19:08:00 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>US Department of Justice backs fair use for AI training in landmark copyright case</title>
+<link>https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39728</guid>
+<pubDate>Wed, 02 Sep 2026 18:24:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by the Trump administration shortly after the report was published. The article US Department of Justice backs fair use for AI training in landmark copyright case appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google releases Gemini 3.8 Flash, its third Flash model in six weeks</title>
+<link>https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/</guid>
+<pubDate>Wed, 02 Sep 2026 18:13:54 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.<br/><br/><a href="https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs</title>
+<link>https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82046</guid>
+<pubDate>Wed, 02 Sep 2026 18:05:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so Claude Code or Codex CLI can run against vLLM, NIM, or Ollama unchanged. The project is pre-alpha and not for production. The post Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How we make AI coding more cost efficient without sacrificing task quality</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/</link>
+<guid isPermaLink="false">https://github.blog/?p=98586</guid>
+<pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Trump may be forced to reveal secret rules feds use for AI safety testing</title>
+<link>https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</guid>
+<pubDate>Wed, 02 Sep 2026 17:58:33 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes</title>
+<link>https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82040</guid>
+<pubDate>Wed, 02 Sep 2026 17:20:24 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory through December 31, 2026. Flash Cyber reaches 47.2% pass@1 on CWE-Bench and is restricted to vetted defenders through the Fairwind Program. This article covers the benchmarks, the token-for-accuracy tradeoff, and what deploying either one actually requires. The post Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’</title>
+<link>https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3160054</guid>
+<pubDate>Wed, 02 Sep 2026 17:18:13 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]<br/><br/><a href="https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO</title>
+<link>https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3160051</guid>
+<pubDate>Wed, 02 Sep 2026 17:09:57 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]<br/><br/><a href="https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>US government sides with OpenAI on issue of training LLMs on copyrighted material</title>
+<link>https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3160050</guid>
+<pubDate>Wed, 02 Sep 2026 17:09:06 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally," the brief reads.<br/><br/><a href="https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA</title>
+<link>https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39718</guid>
+<pubDate>Wed, 02 Sep 2026 16:59:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its "working harder" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite identical token rates. The article Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Proactive cyber defense for governments and enterprises</title>
+<link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</guid>
+<pubDate>Wed, 02 Sep 2026 16:24:24 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
+<link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</guid>
+<pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Wonderful more than doubles its valuation to $5B in under 6 months</title>
+<link>https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3160084</guid>
+<pubDate>Wed, 02 Sep 2026 16:04:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.<br/><br/><a href="https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>India’s richest man now wants to turn aging computers into AI-ready PCs</title>
+<link>https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3160089</guid>
+<pubDate>Wed, 02 Sep 2026 16:01:48 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.<br/><br/><a href="https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>HiddenLayer nabs $100M as enterprises rush to secure their AI deployments</title>
 <link>https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/</link>
@@ -110,6 +222,14 @@
 <pubDate>Wed, 02 Sep 2026 05:12:00 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Agentic assistants have a structural problem: the context that makes them useful — deal documents, privileged files, client records — is exactly the context users cannot send to a cloud endpoint. This week, Perplexity shipped its answer for Mac. Hybrid compute splits a single Perplexity Computer task between frontier models in the cloud and a […] The post Perplexity Releases Hybrid Compute on Mac: Cloud Agents Orchestrate Down to a Local Model, Gated On Device appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/01/perplexity-releases-hybrid-compute-on-mac-cloud-agents-orchestrate-down-to-a-local-model-gated-on-device/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs</title>
+<link>https://machinelearning.apple.com/research/refactor-vla-motor-programs</link>
+<guid isPermaLink="false">refactor-vla-motor-programs</guid>
+<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Most current vision-language-action (VLA) models—such as OpenVLA, π0, RT-2, and RDT-1B—are “monolithic.” This means they generate raw motor commands or very short sequences of actions, without organizing behaviors into reusable, well-defined abstractions. As a result, these models perform poorly on long-horizon (multi-step) tasks, and it’s difficult to interpret what they have learned. Existing approaches for discovering skills often avoid the core problem of deciding when two action sequences are “behaviorally equivalent.” For example, AtomicVLA and AtomSkill group action sequences by…<br/><br/><a href="https://machinelearning.apple.com/research/refactor-vla-motor-programs">阅读原文</a>]]></description>
 </item>
 <item>
 <title>据报道，AfterQuery成为Y Combinator史上最快达到独角兽地位的公司，目前估值达32亿美元</title>
@@ -256,14 +376,6 @@
 <description><![CDATA[【techcrunch.com】Fambot正在开发一款AI“首席管家”，旨在帮助家庭处理电子邮件、日历、学校通知、体育赛事安排以及育儿过程中的其他后勤事务。<br/><br/><a href="https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>谷歌选举AI概览不透明，依赖少数来源，有时还选边站</title>
-<link>https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39645</guid>
-<pubDate>Tue, 01 Sep 2026 13:03:17 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】利用欧盟《数字服务法》授予的访问权限，德国倡导组织AlgorithmWatch在谷歌上运行了4480个与选举相关的搜索查询，并分析了返回的AI概览。谷歌显示这些概览时并不一致，且依赖于一小部分来源，其中最主要的是其自家平台YouTube。关于此前针对选举问题AI回答的防护措施是否仍然有效，谷歌未予明确。文章《谷歌选举AI概览不透明，依赖少数来源，有时还选边站》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>通往Astra之路：关键能力与前沿防护措施</title>
 <link>https://openai.com/index/path-to-astra</link>
 <guid isPermaLink="false">https://openai.com/index/path-to-astra</guid>
@@ -278,14 +390,6 @@
 <pubDate>Tue, 01 Sep 2026 12:59:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】我们能否在相同硬件上获得更多缓存空间？我们在Cloudflare的缓存内部进行了压缩原型测试，以探究这一可能性。<br/><br/><a href="https://blog.cloudflare.com/cache-transcoding/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Runway的Solaris是一个实时生成软件界面的人工智能系统</title>
-<link>https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39643</guid>
-<pubDate>Tue, 01 Sep 2026 12:53:46 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】人工智能公司Runway发布了Solaris，这是其称为“界面世界模型”新类别中的首个模型。该系统并非运行代码，而是在您与之交互时逐帧生成用户界面。文章《Runway的Solaris是一个实时生成软件界面的人工智能系统》最初出现在The Decoder上。<br/><br/><a href="https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>医疗机构现可将电子健康档案及行业数据接入ChatGPT</title>
@@ -344,52 +448,12 @@
 <description><![CDATA[【marktechpost.com】谷歌研究院发布了TimesFM-3，这是一款拥有3.3亿参数的时间序列基础模型，能够在单次前向传播中预测多个相关序列。与截至2.5版本的所有TimesFM检查点不同，它原生预训练用于多变量预测，接受多个目标、过去协变量和过去-未来协变量，无需针对特定任务进行微调。在GIFT-Eval、fev-bench和TIME排行榜上，它在预训练基础模型中取得了最高的平均排名。然而，其权重在非商业、非生产许可下发布。<br/><br/><a href="https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>五角大楼现已拥有自家版本的ChatGPT和Grok</title>
-<link>https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158932</guid>
-<pubDate>Mon, 31 Aug 2026 20:13:45 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI的ChatGPT和SpaceXAI的Grok版本将加入谷歌的Gemini，共同入驻五角大楼的中央AI工具门户。<br/><br/><a href="https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Instagram对未披露的AI账号实施新限制</title>
-<link>https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158959</guid>
-<pubDate>Mon, 31 Aug 2026 19:16:59 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】随着对AI网红的不满情绪日益增长，Instagram正在限制未披露AI账号的传播范围。<br/><br/><a href="https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>哈佛法学院辍学者为Blue Voice筹集600万美元，打造“警察界的Harvey”</title>
-<link>https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158889</guid>
-<pubDate>Mon, 31 Aug 2026 18:35:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Blue Voice基于部门特定法律、地方法规、规程和指南进行训练，这些内容通用人工智能工具无法在公共互联网上获取。<br/><br/><a href="https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>“我心爱的Zlibrary”：索尼诉讼中引用了Anthropic员工赞美盗版的聊天记录</title>
 <link>https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/</guid>
 <pubDate>Mon, 31 Aug 2026 18:10:45 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】诉讼称：随着AI歌曲登上排行榜，Anthropic的种子下载行为严重损害了词曲作者的利益。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Clipto利用AI搜索海量视频，估值达2.5亿美元</title>
-<link>https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158701</guid>
-<pubDate>Mon, 31 Aug 2026 16:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这家成立三年的初创公司表示，在完成最新一轮1500万美元融资前，已实现1500万美元的年经常性收入并达到盈利状态。<br/><br/><a href="https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>英伟达35亿美元投资联发科，揭示其应对科技巨头AI芯片扩张的策略</title>
-<link>https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3158734</guid>
-<pubDate>Mon, 31 Aug 2026 15:15:25 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】英伟达向台湾芯片制造商联发科投资35亿美元。这笔交易显示了英伟达在大型科技公司开始自主研发AI芯片之际，如何保持其在AI基础设施中的关键地位。<br/><br/><a href="https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>ChatGPT与Reddit现面临欧盟最严格的在线安全规定</title>
@@ -422,70 +486,6 @@
 <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI支持加州SB 1119法案，为青少年推进强有力的、适龄的AI安全保护措施，同时保留学习、创造和探索的机会。<br/><br/><a href="https://openai.com/index/supporting-california-bill-advance-ai-youth-safety">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Polimill构建日本下一代公共AI基础设施</title>
-<link>https://openai.com/index/polimill</link>
-<guid isPermaLink="false">https://openai.com/index/polimill</guid>
-<pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Polimill利用OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。<br/><br/><a href="https://openai.com/index/polimill">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenClaw 发布 OpenClaw 2.0：引导式模型设置、575毫秒控制界面启动，以及每个网关单一信任边界</title>
-<link>https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81971</guid>
-<pubDate>Mon, 31 Aug 2026 05:04:10 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenClaw 基金会发布了 v2026.8.1 版本，该项目称之为 OpenClaw 2.0：共有 933 位贡献者、569 位首次贡献者，以及超过 16,000 个拉取请求，约占仓库中所有已合并 PR 的一半。设置现在可复用现有订阅、API 密钥和本地模型。重建后的控制界面将测试框架启动时间从约 1.6 秒缩短至 575 毫秒。共享云会话增加了真正的多人协作功能，但文档明确指出这些会话并非安全边界。文章《OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway》最初发表于...<br/><br/><a href="https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI普及化进程中的里程碑</title>
-<link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
-<guid isPermaLink="false">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
-<pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】ChatGPT广告业务年化收入运行率突破10亿美元，并全球扩展，通过免费及经济实惠的选项，支持更广泛地获取AI技术。<br/><br/><a href="https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads">阅读原文</a>]]></description>
-</item>
-<item>
-<title>语音与实时智能体的最低延迟推理API：以首字延迟（TTFT）为核心的基准测试</title>
-<link>https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=81967</guid>
-<pubDate>Sun, 30 Aug 2026 21:24:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】语音智能体在智能性失败之前，往往先败于延迟。首字延迟是多数团队选择推理API时使用的指标，它是正确的起点，却也是错误的终点。本基准测试深入语音技术栈的每一层——大语言模型、语音转文字、文字转语音及语音转语音——采用2026年8月30日与原始来源核实的图表，每个数字均标注为独立测量、供应商发布或供应商在其自身产品上测量。文章《语音与实时智能体的最低延迟推理API：以首字延迟为核心》<br/><br/><a href="https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta推动机器人在数据中心工作的内部举措</title>
-<link>https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</guid>
-<pubDate>Sun, 30 Aug 2026 11:03:47 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】该公司正在测试机器人执行原本由技术人员完成的任务。<br/><br/><a href="https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>联邦法官裁定特朗普将“觉醒”的Anthropic列入黑名单属非法行为</title>
-<link>https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/</guid>
-<pubDate>Fri, 28 Aug 2026 18:07:55 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Anthropic拒绝支持致命自主战争和大规模监控。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta调整AI眼镜以阻止部分偷拍行为，但隐私风险依然存在</title>
-<link>https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/</guid>
-<pubDate>Fri, 28 Aug 2026 15:42:24 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Meta修复AI眼镜，确保用户在遮挡安全指示灯时无法进行录制。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>面向运营商的BotBase：加入Cloudflare机器人与代理目录的更清晰路径</title>
-<link>https://blog.cloudflare.com/botbase-for-operators/</link>
-<guid isPermaLink="false">01M0GDENDTZTAJ4BWXRH29NYBZ</guid>
-<pubDate>Fri, 28 Aug 2026 12:59:44 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】机器人运营商现在在Cloudflare仪表板中有了一个管理提交的专属位置。此更新增加了提交状态跟踪、提交编辑以及行为模型，使运营商能够准确声明其机器人如何使用内容。<br/><br/><a href="https://blog.cloudflare.com/botbase-for-operators/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
