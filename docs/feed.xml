@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 02 Sep 2026 19:08:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 22:12:40 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
+<link>https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/</link>
+<guid isPermaLink="false">https://github.blog/?p=98631</guid>
+<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI’s new reasoning technique alarms AI safety experts</title>
+<link>https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3160225</guid>
+<pubDate>Wed, 02 Sep 2026 20:19:14 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.<br/><br/><a href="https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>US Department of Justice backs fair use for AI training in landmark copyright case</title>
 <link>https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/</link>
@@ -416,14 +432,6 @@
 <description><![CDATA[【openai.com】了解Gilbert + Tobin如何结合CEO主导的承诺、严格的治理和人类问责制，在全所范围内推广ChatGPT Enterprise和Codex。<br/><br/><a href="https://openai.com/index/gilbert-tobin">阅读原文</a>]]></description>
 </item>
 <item>
-<title>苹果公司公布“惊人证据”，指控前员工为OpenAI窃取公司数据</title>
-<link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3159449</guid>
-<pubDate>Tue, 01 Sep 2026 00:13:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】苹果公司表示，有证据显示，一名前员工在得知自己受到调查后，销毁了数据盗窃的证据。<br/><br/><a href="https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>推出 @huggingface/kernels：200多个用于本地AI的WebGPU内核</title>
 <link>https://huggingface.co/blog/webgpu-kernels</link>
 <guid isPermaLink="false">https://huggingface.co/blog/webgpu-kernels</guid>
@@ -478,14 +486,6 @@
 <pubDate>Mon, 31 Aug 2026 10:00:34 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】互动式移动“小玩意儿”制作容易，但在Meta平台之外分享却困难重重。<br/><br/><a href="https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI支持加州推进青少年AI安全的法案</title>
-<link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
-<pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI支持加州SB 1119法案，为青少年推进强有力的、适龄的AI安全保护措施，同时保留学习、创造和探索的机会。<br/><br/><a href="https://openai.com/index/supporting-california-bill-advance-ai-youth-safety">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?post_type=tc_video&p=3143835": {
-"t": "苹果重大诉讼或扰乱OpenAI的IPO计划",
-"s": "苹果公司上周五对OpenAI提起商业秘密诉讼，态度强硬。诉状指控其存在不当行为模式，涉及OpenAI首席硬件官，并声称超过400名前苹果员工目前在该公司任职。OpenAI迄今的回应谨慎且有所保留，而这一时机对其极为不利——据报道，该公司正考虑进行IPO……"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3143831": {
-"t": "苹果对OpenAI的诉讼来得真不是时候",
-"s": "上周五，苹果对OpenAI提起商业秘密诉讼，态度毫不含糊。诉状指控其不当行为模式甚至涉及OpenAI首席硬件官，并声称超过400名前苹果员工现任职于该公司。OpenAI迄今的回应谨慎而模棱两可，而据报道该公司正考虑IPO，这一时机再糟糕不过了。"
-},
 "https://techcrunch.com/?p=3143864": {
 "t": "Vertu 想让高管花6880美元买个AI助手——实际表现如何？",
 "s": "从AI工作流到电池续航和安全，这里是每天使用Vertu奢华折叠屏手机的真实体验。"
@@ -4798,5 +4790,13 @@
 "refactor-vla-motor-programs": {
 "t": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs",
 "s": "Most current vision-language-action (VLA) models—such as OpenVLA, π0, RT-2, and RDT-1B—are “monolithic.” This means they generate raw motor commands or very short sequences of actions, without organizing behaviors into reusable, well-defined abstractions. As a result, these models perform poorly on long-horizon (multi-step) tasks, and it’s difficult to interpret what they have learned. Existing approaches for discovering skills often avoid the core problem of deciding when two action sequences are “behaviorally equivalent.” For example, AtomicVLA and AtomSkill group action sequences by…"
+},
+"https://github.blog/?p=98631": {
+"t": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+"s": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3160225": {
+"t": "OpenAI’s new reasoning technique alarms AI safety experts",
+"s": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
 }
 }
