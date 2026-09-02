@@ -1,8 +1,4 @@
 {
-"https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/": {
-"t": "官方确认：欧盟将强制谷歌共享搜索数据并开放安卓AI功能",
-"s": "谷歌表示，这些变化可能会危及用户隐私和安全。"
-},
 "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/": {
 "t": "xAI 无法再否认 Grok 生成儿童性虐待内容，于是起诉用户",
 "s": "埃隆·马斯克的 xAI 对一名被指控制作儿童色情图像的 Grok 用户提起了首起诉讼。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/path-to-astra": {
 "t": "通往Astra之路：关键能力与前沿防护措施",
 "s": "Astra是OpenAI首个在《准备框架》下达到关键网络安全能力阈值的模型，并为其发布配备了更强的防护措施。"
+},
+"https://openai.com/index/gilbert-tobin": {
+"t": "律师事务所Gilbert + Tobin如何借助OpenAI治理并扩展AI应用",
+"s": "了解Gilbert + Tobin如何结合CEO主导的承诺、严格的治理和人类问责制，在全所范围内推广ChatGPT Enterprise和Codex。"
 }
 }

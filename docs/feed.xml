@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 01 Sep 2026 22:14:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 02:10:37 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>据报道，AfterQuery成为Y Combinator史上最快达到独角兽地位的公司，目前估值达32亿美元</title>
@@ -182,6 +182,14 @@
 <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】ChatGPT现已能够连接可信的医疗健康数据，助力临床医生安全地获取患者背景信息、医学研究等更多内容。<br/><br/><a href="https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources">阅读原文</a>]]></description>
+</item>
+<item>
+<title>律师事务所Gilbert + Tobin如何借助OpenAI治理并扩展AI应用</title>
+<link>https://openai.com/index/gilbert-tobin</link>
+<guid isPermaLink="false">https://openai.com/index/gilbert-tobin</guid>
+<pubDate>Tue, 01 Sep 2026 01:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】了解Gilbert + Tobin如何结合CEO主导的承诺、严格的治理和人类问责制，在全所范围内推广ChatGPT Enterprise和Codex。<br/><br/><a href="https://openai.com/index/gilbert-tobin">阅读原文</a>]]></description>
 </item>
 <item>
 <title>苹果公司公布“惊人证据”，指控前员工为OpenAI窃取公司数据</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 27 Aug 2026 16:11:32 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenClaw 走红网络。认识构建并守护它的维护者们。</title>
-<link>https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/</link>
-<guid isPermaLink="false">https://github.blog/?p=98468</guid>
-<pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】OpenClaw 是 GitHub 历史上增长最快的项目。Peter Steinberger 和几位维护者分享了项目前六个月的经验教训。这篇文章《OpenClaw 走红网络。认识构建并守护它的维护者们。》最初出现在 GitHub 博客上。<br/><br/><a href="https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
