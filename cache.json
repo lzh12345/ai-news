@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3143864": {
-"t": "Vertu 想让高管花6880美元买个AI助手——实际表现如何？",
-"s": "从AI工作流到电池续航和安全，这里是每天使用Vertu奢华折叠屏手机的真实体验。"
-},
-"https://www.marktechpost.com/?p=81094": {
-"t": "使用MongoDB Atlas、Voyage和LangGraph构建智能活动场地运营代理",
-"s": "简介 本教程从大多数代理演示停止的地方开始：为代理提供持久记忆、操作上下文以及记录事件发生情况的空间。活动运营者不仅需要一个能总结天气报告或生成通用计划的代理，还需要一个能记住过去发生事件的代理。文章《使用MongoDB Atlas、Voyage和LangGraph构建智能活动场地运营代理》首次出现在MarkTechPost上。"
-},
-"https://techcrunch.com/?p=3143817": {
-"t": "Databricks估值达1880亿美元，延续其作为AI领域最受欢迎第二幕的势头",
-"s": "Databricks已重塑自身为一家AI公司，并发布了关于开源权重AI模型在编程中节省成本的研究。"
-},
 "https://www.marktechpost.com/?p=81091": {
 "t": "Zyphra 发布 ZUNA1.1：一款采用 Apache 2.0 协议的脑电图基础模型，支持 0.5 至 30 秒可变长度输入",
 "s": "Zyphra 于 2026 年 7 月 16 日发布了 ZUNA1.1，采用 Apache 2.0 协议。这款 3.8 亿参数的掩码扩散自编码器能够对任意通道布局的头皮脑电图（scalp-EEG）进行重建、去噪和上采样。与 ZUNA1 固定的 5 秒输入不同，它支持 0.5 至 30 秒的可变长度输入。在输入范围扩大的同时，报告的归一化均方误差（NMSE）保持稳定或有所改善。该文章最初发表于 MarkTechPost。"
@@ -4798,5 +4786,17 @@
 "https://techcrunch.com/?p=3160225": {
 "t": "OpenAI’s new reasoning technique alarms AI safety experts",
 "s": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
+},
+"https://techcrunch.com/?p=3137969": {
+"t": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+"s": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
+},
+"https://techcrunch.com/?p=3160290": {
+"t": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+"s": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
+},
+"https://openai.com/index/atv-big-air-tour": {
+"t": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+"s": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
 }
 }
