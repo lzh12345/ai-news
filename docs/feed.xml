@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 03 Sep 2026 02:17:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 08:25:39 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic ramps up Claude infrastructure with $35 billion Lambda deal</title>
+<link>https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39735</guid>
+<pubDate>Thu, 03 Sep 2026 08:22:02 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider. The article Anthropic ramps up Claude infrastructure with $35 billion Lambda deal appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Training a coding model to paint watercolours with TRL and OpenEnv</title>
+<link>https://huggingface.co/blog/train-to-paint-with-code</link>
+<guid isPermaLink="false">https://huggingface.co/blog/train-to-paint-with-code</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/train-to-paint-with-code">阅读原文</a>]]></description>
+</item>
 <item>
 <title>The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026</title>
 <link>https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/</link>
@@ -328,14 +344,6 @@
 <description><![CDATA[【techcrunch.com】OpenAI表示，该集成功能为临床医生提供了对健康记录的只读访问权限。<br/><br/><a href="https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>谷歌DeepMind新掌门称前沿AI领导力是唯一重要之事</title>
-<link>https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39654</guid>
-<pubDate>Tue, 01 Sep 2026 16:49:11 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】谷歌DeepMind负责人Koray Kavukcuoglu承认谷歌当前的模型“略低于前沿水平”，但他表示“百分之百确信我们将达到前沿”。不过，他并未分享任何具体的前沿进展来支持这一说法。本文《谷歌DeepMind新掌门称前沿AI领导力是唯一重要之事》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>红杉孵化的Empirik携2100万美元资金启动，旨在预测故障于未然</title>
 <link>https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3159706</guid>
@@ -478,14 +486,6 @@
 <pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】我们决定在Cursor被SpaceX收购后，终止向其提供OpenAI模型的合同。<br/><br/><a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex">阅读原文</a>]]></description>
-</item>
-<item>
-<title>支持泰国新一代AI初创企业</title>
-<link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-next-generation-ai-startups-thailand</guid>
-<pubDate>Fri, 28 Aug 2026 02:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI与泰国高等教育科研创新部(MHESI)共同启动为期八周的加速器项目，帮助10家健康、养生及教育领域的初创企业将AI原型转化为可信赖的产品。<br/><br/><a href="https://openai.com/index/supporting-next-generation-ai-startups-thailand">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

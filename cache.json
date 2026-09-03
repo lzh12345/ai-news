@@ -1,12 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81091": {
-"t": "Zyphra 发布 ZUNA1.1：一款采用 Apache 2.0 协议的脑电图基础模型，支持 0.5 至 30 秒可变长度输入",
-"s": "Zyphra 于 2026 年 7 月 16 日发布了 ZUNA1.1，采用 Apache 2.0 协议。这款 3.8 亿参数的掩码扩散自编码器能够对任意通道布局的头皮脑电图（scalp-EEG）进行重建、去噪和上采样。与 ZUNA1 固定的 5 秒输入不同，它支持 0.5 至 30 秒的可变长度输入。在输入范围扩大的同时，报告的归一化均方误差（NMSE）保持稳定或有所改善。该文章最初发表于 MarkTechPost。"
-},
-"https://techcrunch.com/?p=3143936": {
-"t": "Zoom 黑客技巧：“别录我”",
-"s": "如果每一次会议、茶水间闲聊和约会都被转录并总结，又有谁会真正去读这些内容呢？"
-},
 "https://the-decoder.com/?p=37899": {
 "t": "扎克伯格出售过剩AI算力的计划或迎来首个大客户Anthropic",
 "s": "据报道，Meta正与Anthropic洽谈，计划出租其数据中心的算力容量。文章《扎克伯格出售过剩AI算力的计划或迎来首个大客户Anthropic》最初发表于The Decoder。"
@@ -4798,5 +4790,13 @@
 "https://openai.com/index/atv-big-air-tour": {
 "t": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
 "s": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
+},
+"https://the-decoder.com/?p=39735": {
+"t": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal",
+"s": "Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider. The article Anthropic ramps up Claude infrastructure with $35 billion Lambda deal appeared first on The Decoder."
+},
+"https://huggingface.co/blog/train-to-paint-with-code": {
+"t": "Training a coding model to paint watercolours with TRL and OpenEnv",
+"s": ""
 }
 }
