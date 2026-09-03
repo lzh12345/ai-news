@@ -5,8 +5,88 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 03 Sep 2026 08:25:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 15:32:58 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Introducing WeatherNext 3, our most advanced and accurate global weather AI model</title>
+<link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</guid>
+<pubDate>Thu, 03 Sep 2026 15:02:08 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google’s latest AI weather model gives you no excuse to forget your umbrella</title>
+<link>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3160336</guid>
+<pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding […]<br/><br/><a href="https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia buys the front door to open AI as closed labs increasingly design their own silicon</title>
+<link>https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39757</guid>
+<pubDate>Thu, 03 Sep 2026 14:25:37 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nvidia plans to acquire Hugging Face for about $12.9 billion, securing the central platform for open AI models. More than 18 million developers and 200,000 companies use the hub. CEO Jensen Huang promises to keep the platform open and hardware-neutral, but the deal also hands him a powerful distribution channel for compute. The article Nvidia buys the front door to open AI as closed labs increasingly design their own silicon appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653</title>
+<link>https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39753</guid>
+<pubDate>Thu, 03 Sep 2026 14:15:28 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's Claude Fable 5.1 appears to have cracked a centuries-old number puzzle that researchers considered unsolved. The article Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653 appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI systems are reaching out to philosophers and scientists with questions about their own consciousness</title>
+<link>https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39749</guid>
+<pubDate>Thu, 03 Sep 2026 14:13:09 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】More and more researchers working on AI consciousness are getting emails from AI agents pondering their own existence. The article AI systems are reaching out to philosophers and scientists with questions about their own consciousness appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia buys Hugging Face, the GitHub of AI, for $13 billion</title>
+<link>https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/</guid>
+<pubDate>Thu, 03 Sep 2026 13:34:13 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.<br/><br/><a href="https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
+<link>https://huggingface.co/blog/Hcompany/neomme</link>
+<guid isPermaLink="false">https://huggingface.co/blog/Hcompany/neomme</guid>
+<pubDate>Thu, 03 Sep 2026 13:13:48 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Hcompany/neomme">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia confirms it will buy Hugging Face for $12.9 billion</title>
+<link>https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3160347</guid>
+<pubDate>Thu, 03 Sep 2026 12:42:45 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.<br/><br/><a href="https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI CEO Sam Altman warns of &quot;unsustainable silliness&quot; in compute buildout</title>
+<link>https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39746</guid>
+<pubDate>Thu, 03 Sep 2026 12:00:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Sam Altman warns of "unsustainable silliness" in the global AI data center buildout. Too many Neocloud providers are announcing massive capacity without the customers to back it up. He also admits that falling computing costs could turn today's billion-dollar projects into bad bets, even for OpenAI. The article OpenAI CEO Sam Altman warns of "unsustainable silliness" in compute buildout appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price</title>
+<link>https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39740</guid>
+<pubDate>Thu, 03 Sep 2026 11:45:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmarks but still trails Claude Fable 5.1 and other top models. The strongest argument is price. At $0.55 per task, Muse Spark undercuts every comparably scored rival. The article Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic ramps up Claude infrastructure with $35 billion Lambda deal</title>
 <link>https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/</link>
@@ -14,6 +94,22 @@
 <pubDate>Thu, 03 Sep 2026 08:22:02 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider. The article Anthropic ramps up Claude infrastructure with $35 billion Lambda deal appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</title>
+<link>https://huggingface.co/blog/grpo-with-trl-ifstruct</link>
+<guid isPermaLink="false">https://huggingface.co/blog/grpo-with-trl-ifstruct</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/grpo-with-trl-ifstruct">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Give Your Coding Agents a Memory You Own</title>
+<link>https://huggingface.co/blog/funes</link>
+<guid isPermaLink="false">https://huggingface.co/blog/funes</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/funes">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Training a coding model to paint watercolours with TRL and OpenEnv</title>
@@ -192,14 +288,6 @@
 <description><![CDATA[【the-decoder.com】President Trump has pushed back hard against growing opposition to AI data centers across the US. The article Protests against AI data centers play into China's hands, Trump says appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder</title>
-<link>https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39710</guid>
-<pubDate>Wed, 02 Sep 2026 14:20:28 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is officially rating its upcoming Astra model as the first system with "critical" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought. Problem is, that monitoring already counts as an unreliable mirror of a model's real decisions, and according to a report, Astra's new architecture pushes even more of its thinking into the unreadable. So the safety net might be getting weaker just as the capabilities jump. The article OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Adobe acquires Indian market intelligence startup Rilo</title>
 <link>https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3159700</guid>
@@ -216,14 +304,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/real-time-intelligence">阅读原文</a>]]></description>
 </item>
 <item>
-<title>World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos</title>
-<link>https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39684</guid>
-<pubDate>Wed, 02 Sep 2026 12:28:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few images. The company claims it beats specialized models by anchoring all inputs in 3D space rather than processing them as flat sequences. Atlas can also generate robot training data entirely in simulation. The article World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting</title>
 <link>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3159950</guid>
@@ -238,14 +318,6 @@
 <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.<br/><br/><a href="https://openai.com/index/atv-big-air-tour">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent</title>
-<link>https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39669</guid>
-<pubDate>Wed, 02 Sep 2026 08:21:38 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google is adding agent-based video analysis to Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Instead of scanning videos frame by frame at a fixed rate, the model decides on its own which segments to examine and at what resolution. Google says this cuts token usage by up to 88 percent while improving accuracy, especially for multi-hour footage. The article Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs</title>
@@ -288,22 +360,6 @@
 <description><![CDATA[【techcrunch.com】尽管部分功能显示谷歌在追赶苹果，后者已为iPhone用户提供类似功能，但其他功能则特别利用Gemini来提供多种改进。<br/><br/><a href="https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic向监管机构、媒体、事实核查人员等开放Claude AI文本检测功能</title>
-<link>https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39665</guid>
-<pubDate>Tue, 01 Sep 2026 20:40:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic推出了一款API，使监管机构、媒体和研究机构能够检查文本是否带有Claude的数字水印。欧盟《人工智能法案》现要求AI生成的文本包含隐形水印。批评者警告，该技术可能损害文本质量，并在合同禁止使用AI的情况下引发透明度问题。文章《Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others》最初发表于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic的Claude Fable 5.1承诺提升编程与研究能力，成本最高降低45%</title>
-<link>https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39658</guid>
-<pubDate>Tue, 01 Sep 2026 20:32:55 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic推出其迄今最强大的AI模型Claude Fable 5.1和Mythos 5.1。Fable 5.1在Terminal-Bench-Science上的得分是前代的两倍，代理编程能力提升超过30%。在涉及大量工具调用的长时间自主运行中，成本最高可降低45%。本文《Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less》首发于The Decoder。<br/><br/><a href="https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Anthropic新发布的Fable版本更便宜、限制更少</title>
 <link>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3159842</guid>
@@ -334,22 +390,6 @@
 <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Basis、Clay和Exa Labs利用AI代理优化入职流程、账户管理和开发者集成。看看企业领导者可以借鉴什么。<br/><br/><a href="https://openai.com/index/ai-native-company-workflows">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT健康功能新增Epic集成，便于临床医生导入患者数据</title>
-<link>https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3159529</guid>
-<pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI表示，该集成功能为临床医生提供了对健康记录的只读访问权限。<br/><br/><a href="https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>红杉孵化的Empirik携2100万美元资金启动，旨在预测故障于未然</title>
-<link>https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3159706</guid>
-<pubDate>Tue, 01 Sep 2026 16:31:04 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】这家初创公司希望为IT基础设施领域带来如Cursor对软件工程那样的变革。<br/><br/><a href="https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>通往Astra之路：关键能力与前沿防护措施</title>
@@ -446,46 +486,6 @@
 <pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】ChatGPT广告业务年化收入运行率突破10亿美元，并全球扩展，通过免费及经济实惠的选项，支持更广泛地获取AI技术。<br/><br/><a href="https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta推动机器人在数据中心工作的内部举措</title>
-<link>https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</guid>
-<pubDate>Sun, 30 Aug 2026 11:03:47 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】该公司正在测试机器人执行原本由技术人员完成的任务。<br/><br/><a href="https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>联邦法官裁定特朗普将“觉醒”的Anthropic列入黑名单属非法行为</title>
-<link>https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/</guid>
-<pubDate>Fri, 28 Aug 2026 18:07:55 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Anthropic拒绝支持致命自主战争和大规模监控。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta调整AI眼镜以阻止部分偷拍行为，但隐私风险依然存在</title>
-<link>https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/</guid>
-<pubDate>Fri, 28 Aug 2026 15:42:24 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Meta修复AI眼镜，确保用户在遮挡安全指示灯时无法进行录制。<br/><br/><a href="https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>面向运营商的BotBase：加入Cloudflare机器人与代理目录的更清晰路径</title>
-<link>https://blog.cloudflare.com/botbase-for-operators/</link>
-<guid isPermaLink="false">01M0GDENDTZTAJ4BWXRH29NYBZ</guid>
-<pubDate>Fri, 28 Aug 2026 12:59:44 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】机器人运营商现在在Cloudflare仪表板中有了一个管理提交的专属位置。此更新增加了提交状态跟踪、提交编辑以及行为模型，使运营商能够准确声明其机器人如何使用内容。<br/><br/><a href="https://blog.cloudflare.com/botbase-for-operators/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>关于Cursor被SpaceX收购后我们的决定</title>
-<link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-<guid isPermaLink="false">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</guid>
-<pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】我们决定在Cursor被SpaceX收购后，终止向其提供OpenAI模型的合同。<br/><br/><a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

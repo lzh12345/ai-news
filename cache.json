@@ -1,52 +1,4 @@
 {
-"https://the-decoder.com/?p=37899": {
-"t": "扎克伯格出售过剩AI算力的计划或迎来首个大客户Anthropic",
-"s": "据报道，Meta正与Anthropic洽谈，计划出租其数据中心的算力容量。文章《扎克伯格出售过剩AI算力的计划或迎来首个大客户Anthropic》最初发表于The Decoder。"
-},
-"visual-concept-inference": {
-"t": "展示示例：从图像集合中推断视觉概念",
-"s": "视觉语言模型（VLM）能够遵循复杂的文本指令，但在仅凭视觉上下文进行推理方面存在困难。具体而言，当前模型无法从示例图像集合中推断共享概念，并将其应用于新输入。我们提出了“从集合中推断视觉概念”（VICIS）任务，用于评估这一能力。给定一个包含共享概念的少量图像上下文集合以及一张查询图像，模型必须生成新图像，这些图像需保留上下文定义的概念，同时与查询保持一致。研究表明，最先进的VLM在此任务上表现不佳……"
-},
-"https://techcrunch.com/?p=3144034": {
-"t": "尼尔·莱默认为AI资金将回流",
-"s": "风险投资家、Index Ventures联合创始人尼尔·莱默预测，硅谷由AI创造的历史性财富将不得不以自愿或非自愿的方式重新分配。"
-},
-"https://the-decoder.com/?p=37888": {
-"t": "五角大楼新AI战略手册：缓慢采用比“不完美对齐”风险更大",
-"s": "美国海军部签署了一项战略，旨在“武器化”数据和AI，打造一支“AI优先”的舰队。大型语言模型将直接在军舰上运行，并设立AI战争委员会以优先处理任务场景。核心信息是，行动过于缓慢比“不完美对齐”带来的风险更大。本文《五角大楼新AI战略手册：缓慢采用比“不完美对齐”风险更大》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81117": {
-"t": "Google Cloud 的 Always-On Memory Agent 在 Gemini 3.1 Flash-Lite 上以持续 LLM 整合取代 RAG 和嵌入",
-"s": "Google Cloud 的生成式 AI 仓库推出了 Always-On Memory Agent，这是一个将记忆视为运行进程的参考实现。它基于 Google ADK 和 Gemini 3.1 Flash-Lite 构建，不使用向量数据库和嵌入。相反，一个编排器将任务路由到 Ingest、Consolidate 和 Query 子代理，这些子代理全天候读取、连接并将结构化记忆写入 SQLite。文章《Google Cloud’s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite》最初出现在 MarkTechPost 上。"
-},
-"https://the-decoder.com/?p=37902": {
-"t": "Anthropic 大幅削减 Max 和 Team Premium 套餐中 Claude Fable 5 的使用限制，并引导 Pro 用户转向 API 定价",
-"s": "Anthropic 将于 7 月 20 日起将 Claude Fable 5 纳入 Max 和 Team Premium 套餐，但使用量仅为常规限制的 50%，而常规限制本身在同一天将减少三分之一。Pro 用户将获得一次性 100 美元额度，之后需按 API 费率付费。Anthropic 最初计划完全从订阅中移除 Fable，如今这一转变很可能是迫于 OpenAI 更便宜的 GPT-5.6 Sol 带来的竞争压力。本文《Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing》最初发表于 The Decoder。"
-},
-"https://www.marktechpost.com/?p=81113": {
-"t": "如何构建具备环形图谱、限制性分析、虚拟凝胶及引物设计的质粒工程工作台",
-"s": "在本教程中，我们构建了一个基于Google Colab的质粒工作台，在交互式笔记本环境中重现了SpliceCraft的核心理念。我们不依赖基于终端的TUI，而是使用Biopython、NumPy和Matplotlib来加载质粒记录、标准化注释的基因组特征、渲染环形和线性质粒图谱、计算序列统计信息、分析限制性酶切……该文章《如何构建具备环形图谱、限制性分析、虚拟凝胶及引物设计的质粒工程工作台》首次出现在MarkTechPost上。"
-},
-"https://www.marktechpost.com/?p=81110": {
-"t": "Sakana AI的误差扩散训练符合戴尔原则的双流网络，无需反向传播即可达到MNIST 96.7%和CIFAR-10 61.7%的准确率",
-"s": "反向传播依赖于权重传输，而生物电路可能无法实现这一点。Sakana AI的误差扩散绕过了这一限制，训练了符合戴尔原则的双流兴奋/抑制网络。本文解析了模误差路由如何将该规则从MNIST扩展到CIFAR-10及强化学习，以及其任务依赖的消融实验揭示了什么。该文章《Sakana AI’s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation》最初发表于MarkTechPost。"
-},
-"https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/": {
-"t": "AI 会改善事先授权——还是让情况更糟？",
-"s": "政府正在试点一个项目，利用人工智能进行保险覆盖决策。"
-},
-"https://the-decoder.com/?p=37918": {
-"t": "中国新成立的世界人工智能合作组织是习近平主席构建平行AI秩序最明确的举措",
-"s": "在上海世界人工智能大会上，习近平宣布为全球南方国家提供5000个AI培训名额，并启动“世界人工智能合作组织”。计划随后与东盟、非盟、金砖国家及其他联盟建立合作中心。中国正系统性地在西方影响之外构建一个平行的AI治理架构。本文《中国新成立的世界人工智能合作组织是习近平主席构建平行AI秩序最明确的举措》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=37910": {
-"t": "开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平",
-"s": "英国人工智能安全研究所警告称，像GLM-5.2和DeepSeek V4-Pro这样的开放权重模型，在网络能力上如今仅落后封闭前沿模型四到七个月。2025年初，这一差距仍有六到十个月。该机构还发现，开放模型上的安全措施基本无效，导致防御者准备时间更短。本文《开放权重模型如今仅以极低成本，便达到了四个月前前沿网络性能的水平》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81120": {
-"t": "NVIDIA发布DeepStream 9.1：以13项技能与多视角3D追踪将Agentic AI引入视觉AI",
-"s": "NVIDIA DeepStream 9.1引入了13项智能体技能，使Claude Code和Codex等编码智能体能够根据自然语言提示构建多摄像头视频分析管道。多视角3D追踪（MV3DT）将每个摄像头的检测结果融合到一个共享的3D世界中，并赋予全局一致的物体ID，而AutoMagicCalib（AMC）则免去了手动摄像头校准。该版本还增加了对JetPack 7.2的支持，并提供了一个统一的GitHub开源单体仓库。本文《NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking》最初发表于MarkTechPost。"
-},
 "https://techcrunch.com/?p=3144070": {
 "t": "Kimi：威胁还是隐患？",
 "s": "中国公司月之暗面（Moonshot AI）本周发布了其Kimi模型的新版本，引发了关于“全面AI共产主义”的担忧。"
@@ -4797,6 +4749,54 @@
 },
 "https://huggingface.co/blog/train-to-paint-with-code": {
 "t": "Training a coding model to paint watercolours with TRL and OpenEnv",
+"s": ""
+},
+"https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": {
+"t": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+"s": ""
+},
+"https://techcrunch.com/?p=3160336": {
+"t": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+"s": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding […]"
+},
+"https://the-decoder.com/?p=39757": {
+"t": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+"s": "Nvidia plans to acquire Hugging Face for about $12.9 billion, securing the central platform for open AI models. More than 18 million developers and 200,000 companies use the hub. CEO Jensen Huang promises to keep the platform open and hardware-neutral, but the deal also hands him a powerful distribution channel for compute. The article Nvidia buys the front door to open AI as closed labs increasingly design their own silicon appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39753": {
+"t": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653",
+"s": "Anthropic's Claude Fable 5.1 appears to have cracked a centuries-old number puzzle that researchers considered unsolved. The article Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653 appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39749": {
+"t": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness",
+"s": "More and more researchers working on AI consciousness are getting emails from AI agents pondering their own existence. The article AI systems are reaching out to philosophers and scientists with questions about their own consciousness appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": {
+"t": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+"s": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub."
+},
+"https://huggingface.co/blog/Hcompany/neomme": {
+"t": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+"s": ""
+},
+"https://techcrunch.com/?p=3160347": {
+"t": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+"s": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
+},
+"https://the-decoder.com/?p=39746": {
+"t": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout",
+"s": "Sam Altman warns of \"unsustainable silliness\" in the global AI data center buildout. Too many Neocloud providers are announcing massive capacity without the customers to back it up. He also admits that falling computing costs could turn today's billion-dollar projects into bad bets, even for OpenAI. The article OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39740": {
+"t": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
+"s": "Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmarks but still trails Claude Fable 5.1 and other top models. The strongest argument is price. At $0.55 per task, Muse Spark undercuts every comparably scored rival. The article Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price appeared first on The Decoder."
+},
+"https://huggingface.co/blog/grpo-with-trl-ifstruct": {
+"t": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+"s": ""
+},
+"https://huggingface.co/blog/funes": {
+"t": "Give Your Coding Agents a Memory You Own",
 "s": ""
 }
 }
