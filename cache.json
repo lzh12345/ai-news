@@ -1,16 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/": {
-"t": "超越grep：构建上下文丰富的AI编码工具的必要性",
-"s": "Augment Code的Vinay Perneti探讨了模型、工具链以及上下文的重要性。"
-},
-"https://the-decoder.com/?p=37980": {
-"t": "英伟达在AI芯片领域的主导地位松动，微软转向AMD，Anthropic或紧随其后",
-"s": "微软正通过AMD的新Helios平台扩展Azure的AI基础设施，该平台预计将在2026年下半年挑战英伟达的GPU系统。一个公开的GitHub资料显示，Anthropic也在测试AMD硬件，这进一步削弱了英伟达的定价能力。本文《英伟达在AI芯片领域的主导地位松动，微软转向AMD，Anthropic或紧随其后》最初发表于The Decoder。"
-},
-"https://github.blog/?p=97607": {
-"t": "1亿美元用于开源：社区共同铸就的里程碑",
-"s": "庆祝社区为那些每天构建和维护开源的人们贡献了1亿美元。这篇关于“1亿美元用于开源：社区共同铸就的里程碑”的文章最初发表于GitHub博客。"
-},
 "https://huggingface.co/blog/nvidia/cosmos3edge": {
 "t": "推出 Cosmos 3 Edge",
 "s": ""
@@ -4798,5 +4786,17 @@
 "https://techcrunch.com/?p=3160771": {
 "t": "Crusoe reportedly raises $3B at a $30B valuation",
 "s": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+},
+"https://the-decoder.com/?p=39779": {
+"t": "Nvidia wants your home network to work like a mini data center for local AI",
+"s": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks. The article Nvidia wants your home network to work like a mini data center for local AI appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3160707": {
+"t": "The sameness problem behind those unappetizing AI-generated menus",
+"s": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+},
+"https://www.marktechpost.com/?p=82075": {
+"t": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+"s": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared first on MarkTechPost."
 }
 }
