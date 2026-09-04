@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 04 Sep 2026 18:44:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 21:59:04 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI compute provider Nscale is looking for $3.5B in pre-IPO financing</title>
+<link>https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3160981</guid>
+<pubDate>Fri, 04 Sep 2026 21:12:11 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.<br/><br/><a href="https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections</title>
 <link>https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/</link>
@@ -312,20 +320,20 @@
 <description><![CDATA[【techcrunch.com】Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.<br/><br/><a href="https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
-<link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-<guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.<br/><br/><a href="https://openai.com/index/legora-financial-statement-review-with-astra">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
 <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
 <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
 <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.<br/><br/><a href="https://openai.com/index/playco-game-prototyping-with-astra">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
+<link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+<guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.<br/><br/><a href="https://openai.com/index/legora-financial-statement-review-with-astra">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon</title>
@@ -454,14 +462,6 @@
 <pubDate>Wed, 02 Sep 2026 17:20:24 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory through December 31, 2026. Flash Cyber reaches 47.2% pass@1 on CWE-Bench and is restricted to vetted defenders through the Fairwind Program. This article covers the benchmarks, the token-for-accuracy tradeoff, and what deploying either one actually requires. The post Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’</title>
-<link>https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3160054</guid>
-<pubDate>Wed, 02 Sep 2026 17:18:13 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]<br/><br/><a href="https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Proactive cyber defense for governments and enterprises</title>

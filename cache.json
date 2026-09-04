@@ -1,8 +1,4 @@
 {
-"lvsum-video-summarization": {
-"t": "LVSum：面向时间感知的长视频摘要基准",
-"s": "长视频摘要对多模态大语言模型（MLLMs）提出了重大挑战，尤其是在长时间跨度内保持时间准确性，以及生成兼具语义和时间依据的摘要方面。我们推出了LVSum，这是一个人工标注的基准，用于评估具有细粒度时间对齐的长视频摘要。LVSum包含72个跨13个领域的多样化视频，平均时长16分钟，每个视频都配有最多10条包含时间参考信息的人工生成摘要。我们进行了全面评估…"
-},
 "https://techcrunch.com/?p=3144516": {
 "t": "Anthropic 里程碑式的15亿美元版权和解获批",
 "s": "最终批准解决了一起案件，但并未解决使用受版权保护作品训练AI模型这一更广泛的问题。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?post_type=tc_podcast&p=3160877": {
 "t": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
 "s": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]"
+},
+"https://techcrunch.com/?p=3160981": {
+"t": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+"s": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
 }
 }
