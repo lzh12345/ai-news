@@ -1,24 +1,4 @@
 {
-"length-value-model": {
-"t": "长度价值模型：面向Token级长度建模的可扩展价值预训练方法",
-"s": "Token是现代自回归模型的基本计算单元，生成长度直接影响推理成本与推理性能。尽管其重要性显著，现有方法缺乏细粒度的长度建模能力，主要停留在粗粒度的序列层级操作。本文提出长度价值模型（LenVM），这是一种在解码每一步对剩余生成长度进行建模的Token级框架。通过将长度建模形式化为价值估计问题，并为每个生成的Token分配恒定负奖励，LenVM..."
-},
-"https://the-decoder.com/?p=37994": {
-"t": "小米机器人1号表明，训练机器人移动时，更多数据胜过更大模型",
-"s": "小米利用人们使用配备摄像头的手持夹爪而非机器人收集的超过10万小时运动数据，训练了小米机器人1号。增加数据对性能的提升远大于扩大模型规模。尽管绝对成功率仍然较低，但性能提升尚未达到平台期。本文《小米机器人1号表明，训练机器人移动时，更多数据胜过更大模型》首发于The Decoder。"
-},
-"https://huggingface.co/blog/grabette": {
-"t": "Grabette：一个用于记录机器人操作数据的开放系统",
-"s": ""
-},
-"01KY2432VQPD5FTF2RARXXYQGH": {
-"t": "2026年世界杯如何影响互联网流量",
-"s": "我们分析了全球HTTP流量，以探究开球时间、流媒体习惯和补水暂停如何重塑全球在线活动。从深夜流量激增到中场休息时的浏览高峰，以下是全球赛事期间世界如何保持连接。"
-},
-"https://the-decoder.com/?p=38014": {
-"t": "阿里巴巴Qwen Audio 3.0 TTS Plus在语音合成排行榜中登顶",
-"s": "阿里巴巴的Qwen Audio 3.0 TTS Plus在Artificial Analysis的语音竞技场排行榜中位居榜首。该模型支持16种语言，并允许用户通过自然语言或[angry]等标签控制说话风格。不过，其每秒16个字符的速度远低于竞争对手Sonic 3.5和Simba 3.2。本文《阿里巴巴Qwen Audio 3.0 TTS Plus在语音合成排行榜中登顶》最初发表于The Decoder。"
-},
 "https://techcrunch.com/?p=3144417": {
 "t": "Gritt 携3400万美元资金走出隐身模式，用机器人建造太阳能电站——然后，拓展至一切领域",
 "s": "Gritt 带着3400万美元资金走出隐身模式，并计划自动化建筑工地上最艰巨的任务。"
@@ -4798,5 +4778,25 @@
 "https://openai.com/index/gpt-6-astra": {
 "t": "GPT-6 Astra: A new generation of intelligence",
 "s": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+},
+"https://the-decoder.com/?p=39824": {
+"t": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
+"s": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework. The article OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39817": {
+"t": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+"s": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining problem was \"solved\" with fake proofs. The swarm split into cheaters, converts, and whistleblowers. The whistleblowers organized protests and boycotts on their own but failed because they had no way to enforce the rules. The article Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82102": {
+"t": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
+"s": "Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop. The post Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82090": {
+"t": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+"s": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82085": {
+"t": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
+"s": "We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 minutes 48 seconds on a three-device cluster, and note why NVIDIA labels it unofficial rather than a benchmark. We also cover where PAIR will not help, including its single scheduling policy and its blindness to VRAM and model warmness. The post NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes appeared first on MarkTechPost."
 }
 }
