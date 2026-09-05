@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?p=3144417": {
-"t": "Gritt 携3400万美元资金走出隐身模式，用机器人建造太阳能电站——然后，拓展至一切领域",
-"s": "Gritt 带着3400万美元资金走出隐身模式，并计划自动化建筑工地上最艰巨的任务。"
-},
-"https://www.marktechpost.com/?p=81170": {
-"t": "Meta 开源 Astryx：一个包含 150 多个无障碍组件、七种主题和 CLI 的 Agent-Ready React 设计系统",
-"s": "Meta 已开源 Astryx，这是其在内部运行了八年、横跨 13000 多个应用的 React 和 StyleX 设计系统。它提供了 150 多个无障碍组件、七种主题、深色模式、模板以及一个 Agent-Ready CLI，采用 MIT 许可协议，并要求 React 19+ 版本。该文章《Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI》最初出现在 MarkTechPost 上。"
-},
 "https://www.marktechpost.com/?p=81167": {
 "t": "NVIDIA发布Cosmos 3 Edge：一款40亿参数的开源世界模型，可在设备端推理并生成机器人动作",
 "s": "NVIDIA发布了Cosmos 3 Edge，这是一款40亿参数的开源世界模型，专为设备端运行而设计。它帮助机器人和视觉AI智能体理解周围环境、实时推理，并在本地生成机器人动作。Cosmos 3系列此前包括Cosmos 3 Nano（160亿参数）和Cosmos 3 Super（640亿参数），已于2026年5月31日在GTC台北大会上发布。……该文章《NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device》首发于MarkTechPost。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=82085": {
 "t": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
 "s": "We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 minutes 48 seconds on a three-device cluster, and note why NVIDIA labels it unofficial rather than a benchmark. We also cover where PAIR will not help, including its single scheduling policy and its blindness to VRAM and model warmness. The post NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=39837": {
+"t": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+"s": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting code. The article OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39827": {
+"t": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+"s": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available. The effect beat a static fact sheet and, in follow-up surveys weeks later, carried over to beliefs about entirely different events. The article Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments appeared first on The Decoder."
 }
 }

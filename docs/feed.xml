@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 05 Sep 2026 11:36:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 14:18:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words</title>
+<link>https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39837</guid>
+<pubDate>Sat, 05 Sep 2026 13:31:04 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI "slop" phrases, and stop it from overtesting code. The article OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments</title>
+<link>https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39827</guid>
+<pubDate>Sat, 05 Sep 2026 12:39:12 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available. The effect beat a static fact sheet and, in follow-up surveys weeks later, carried over to beliefs about entirely different events. The article Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki</title>
 <link>https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/</link>
@@ -248,14 +264,6 @@
 <description><![CDATA[【techcrunch.com】The high-profile startup's annual revenue run rate stands at over $100 million.<br/><br/><a href="https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>GPT-6 Astra is the first model making OpenAI willing to declare the &quot;AGI era&quot;</title>
-<link>https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39770</guid>
-<pubDate>Thu, 03 Sep 2026 19:25:40 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the "AGI era." Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as "critical" under its safety framework. During testing, it independently found two previously unknown zero-day vulnerabilities. The article GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era" appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2</title>
 <link>https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=82062</guid>
@@ -286,14 +294,6 @@
 <pubDate>Thu, 03 Sep 2026 18:10:19 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.<br/><br/><a href="https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Pangram's biggest flaw is users turning its scores into public shaming</title>
-<link>https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39765</guid>
-<pubDate>Thu, 03 Sep 2026 18:07:26 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Pangram hired an "attack dog" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably measures whether AI was used, while the shaming implies the person didn't think or work on their own. A high AI score hits a text built on hours of original research just as easily as one cranked out from a ten-second prompt. The article Pangram's biggest flaw is users turning its scores into public shaming appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI launches Astra, its powerful (and controversial) new model</title>
