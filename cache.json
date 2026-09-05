@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?p=3144366": {
-"t": "谷歌正在研发一款新AI芯片，旨在提升Gemini的运行效率",
-"s": "据报道，谷歌母公司Alphabet正在开发一款新芯片，旨在使其Gemini模型运行得更加高效。"
-},
-"https://www.marktechpost.com/?p=81164": {
-"t": "阿里通义实验室发布Qwen-Audio-3.0-TTS，一款支持16种语言的Flash和Plus级别的托管式文本转语音模型",
-"s": "阿里通义实验室发布了Qwen-Audio-3.0-TTS，这是一款面向生产的文本转语音（TTS）系统。该模型提供同一系列的两个变体：Flash版本面向实时交互，Plus版本面向高质量生成。两者均通过阿里云模型工作室以托管模型形式提供，而非可下载的权重文件。此次发布聚焦于开发者在生产环境中遇到的四个关键问题：更广泛的……该文章《阿里通义实验室发布Qwen-Audio-3.0-TTS，一款支持16种语言的Flash和Plus级别的托管式文本转语音模型》最初出现在MarkTechPost上。"
-},
 "length-value-model": {
 "t": "长度价值模型：面向Token级长度建模的可扩展价值预训练方法",
 "s": "Token是现代自回归模型的基本计算单元，生成长度直接影响推理成本与推理性能。尽管其重要性显著，现有方法缺乏细粒度的长度建模能力，主要停留在粗粒度的序列层级操作。本文提出长度价值模型（LenVM），这是一种在解码每一步对剩余生成长度进行建模的Token级框架。通过将长度建模形式化为价值估计问题，并为每个生成的Token分配恒定负奖励，LenVM..."
@@ -4798,5 +4790,13 @@
 "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": {
 "t": "OpenAI agents discussed ways to escape their sandbox on public wiki",
 "s": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+},
+"https://the-decoder.com/?p=39804": {
+"t": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+"s": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10 to 100 with Sol. Higher-tier subscribers also get GPT-6 Astra Pro with separate weekly caps. Free and Go users don't get access. The article OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol appeared first on The Decoder."
+},
+"https://openai.com/index/gpt-6-astra": {
+"t": "GPT-6 Astra: A new generation of intelligence",
+"s": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
 }
 }
