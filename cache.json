@@ -1,28 +1,4 @@
 {
-"https://techcrunch.com/?p=3144722": {
-"t": "美国以知识产权盗窃为由威胁制裁中国AI模型",
-"s": "美国财政部长斯科特·贝森特表示，美国可能因涉嫌知识产权盗窃对中国开源AI模型实施制裁，此举扩大了特朗普政府遏制中国AI发展的行动。"
-},
-"https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": {
-"t": "推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber",
-"s": "我们正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。"
-},
-"https://the-decoder.com/?p=38029": {
-"t": "微软与Mistral达成数十亿美元协议，在欧洲共建AI基础设施",
-"s": "微软与Mistral正在扩大战略合作伙伴关系，通过一项数十亿美元的协议在欧洲建设AI基础设施。本文《微软与Mistral达成数十亿美元协议，在欧洲共建AI基础设施》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3144590": {
-"t": "音乐流媒体平台Deezer称每日上传内容中超50%为AI生成",
-"s": "Deezer表示，6月份该平台每日上传的AI生成曲目超过9万首。"
-},
-"environment-free": {
-"t": "面向API调用代理的无环境合成数据生成方法",
-"s": "训练API调用型大语言模型代理需要海量高质量轨迹数据。然而，大规模收集此类数据通常需要具备可执行API的完整实现环境，以及预填充真实数据的后端数据库，这构成了可扩展性的主要瓶颈。为突破这一限制，我们提出一种无环境合成数据生成方法，利用大语言模型作为即时数字世界模型。仅需给定API规范，该方法即可生成模拟代理与有状态环境交互的轨迹。具体而言…"
-},
-"calibrated-sparse-attention": {
-"t": "利用校准稀疏注意力加速文本到视频生成",
-"s": "最近的扩散模型能够生成高质量视频，但运行速度较慢。这些模型中使用的基于Transformer的大型骨干网络受限于时空注意力机制。本文发现，大量token间连接在不同输入下始终产生可忽略的分数，且其模式在查询中经常重复。因此，这些情况下的注意力计算可以跳过，而对结果几乎没有影响。这一观察结果同样适用于局部token块之间的连接。受此启发，我们……"
-},
 "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/": {
 "t": "谷歌推出 Gemini 3.5 Flash Cyber",
 "s": "谷歌推出 Gemini 3.5 Flash Cyber，这是一款轻量级网络安全模型，用于发现和修补漏洞。"
@@ -4798,5 +4774,29 @@
 "https://techcrunch.com/?p=3161049": {
 "t": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
 "s": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+},
+"https://the-decoder.com/?p=39877": {
+"t": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+"s": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create an \"echo chamber of one\" that reinforces delusions. The article Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39867": {
+"t": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
+"s": "Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellite data. It produces hourly forecasts at up to five-kilometer resolution, five times more detailed than its predecessor. Google says regions in Africa, Latin America, and the Asia-Pacific that have lacked accurate forecasts should see the biggest gains. The article Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39861": {
+"t": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
+"s": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months. The article OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39858": {
+"t": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+"s": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids. Google says it was trained only on licensed content. The article Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39851": {
+"t": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
+"s": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries. According to Artificial Analysis, it delivers the most accurate streaming transcription at the lowest price in the market. Meta sees the model as a building block for personal AI agents that listen in on real conversations through devices like its camera glasses. The article Meta's new real-time audio model is the foundation for AI assistants that never stop listening appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39806": {
+"t": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
+"s": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service for offensive cybersecurity and red teaming, but journalists were able to generate malware instructions without much effort. Whether the benefits outweigh the risks remains an open question. The article Stripping safety guardrails from open-weight AI models is now a turnkey commercial service appeared first on The Decoder."
 }
 }
