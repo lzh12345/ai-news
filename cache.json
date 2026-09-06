@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=38019": {
-"t": "阿里巴巴Qwen-Image-3.0单次生成完整信息图网格与可读十像素文字",
-"s": "阿里巴巴Qwen团队推出Qwen-Image-3.0图像生成器，支持最长4500个token的提示词，可渲染小至十像素的清晰文字，并原生支持十二种语言。该模型能一次性生成信息图、LaTeX论文及报纸版面等复杂布局——尽管输出为像素图像而非可编辑格式时，其实用价值尚不明确。本文《阿里巴巴Qwen-Image-3.0单次生成完整信息图网格与可读十像素文字》首发于The Decoder。"
-},
 "https://techcrunch.com/?p=3144722": {
 "t": "美国以知识产权盗窃为由威胁制裁中国AI模型",
 "s": "美国财政部长斯科特·贝森特表示，美国可能因涉嫌知识产权盗窃对中国开源AI模型实施制裁，此举扩大了特朗普政府遏制中国AI发展的行动。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3161042": {
 "t": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
 "s": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+},
+"https://techcrunch.com/?p=3161049": {
+"t": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+"s": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
 }
 }
