@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 06 Sep 2026 02:08:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 08:14:52 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
@@ -16,28 +16,12 @@
 <description><![CDATA[【techcrunch.com】Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.<br/><br/><a href="https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI</title>
-<link>https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82109</guid>
-<pubDate>Sat, 05 Sep 2026 19:40:11 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer. The post GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Hikers rescued after using Google Gemini for planning</title>
 <link>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161045</guid>
 <pubDate>Sat, 05 Sep 2026 19:35:24 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."<br/><br/><a href="https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nous Research Adds One-Click Local Model Setup to Hermes Desktop</title>
-<link>https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82106</guid>
-<pubDate>Sat, 05 Sep 2026 19:12:02 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window. The post Nous Research Adds One-Click Local Model Setup to Hermes Desktop appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism</title>
@@ -94,30 +78,6 @@
 <pubDate>Sat, 05 Sep 2026 07:41:03 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10 to 100 with Sol. Higher-tier subscribers also get GPT-6 Astra Pro with separate weekly caps. Free and Go users don't get access. The article OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus</title>
-<link>https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82102</guid>
-<pubDate>Sat, 05 Sep 2026 06:48:29 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop. The post Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%</title>
-<link>https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82090</guid>
-<pubDate>Sat, 05 Sep 2026 04:37:25 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes</title>
-<link>https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82085</guid>
-<pubDate>Sat, 05 Sep 2026 03:52:23 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 minutes 48 seconds on a three-device cluster, and note why NVIDIA labels it unofficial rather than a benchmark. We also cover where PAIR will not help, including its single scheduling policy and its blindness to VRAM and model warmness. The post NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation</title>
@@ -256,28 +216,12 @@
 <description><![CDATA[【techcrunch.com】While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.<br/><br/><a href="https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour</title>
-<link>https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82075</guid>
-<pubDate>Fri, 04 Sep 2026 01:21:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Crusoe reportedly raises $3B at a $30B valuation</title>
 <link>https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3160771</guid>
 <pubDate>Fri, 04 Sep 2026 00:48:42 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.<br/><br/><a href="https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold</title>
-<link>https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82071</guid>
-<pubDate>Thu, 03 Sep 2026 21:16:11 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what. The post OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models</title>
@@ -288,28 +232,12 @@
 <description><![CDATA[【blog.cloudflare.com】Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.<br/><br/><a href="https://blog.cloudflare.com/vulnerability-discovery-remediation/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment</title>
-<link>https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82066</guid>
-<pubDate>Thu, 03 Sep 2026 19:46:59 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four […] The post Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation</title>
 <link>https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3160633</guid>
 <pubDate>Thu, 03 Sep 2026 19:36:29 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The high-profile startup's annual revenue run rate stands at over $100 million.<br/><br/><a href="https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2</title>
-<link>https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82062</guid>
-<pubDate>Thu, 03 Sep 2026 18:51:52 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which records the highest character F1 (0.629) among twelve detectors evaluated. Hybrid compute is live now for Pro, Max and Enterprise on Apple silicon Macs with 24GB of unified memory. The post Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Abliteration.ai is making a business out of removing AI guardrails</title>
@@ -424,14 +352,6 @@
 <description><![CDATA[【openai.com】Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.<br/><br/><a href="https://openai.com/index/gpt-6-astra">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon</title>
-<link>https://www.marktechpost.com/2026/09/02/perplexity-open-sources-lily-a-rust-metal-inference-engine-for-qwen3-6-35b-a3b-on-apple-silicon/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82054</guid>
-<pubDate>Thu, 03 Sep 2026 06:57:07 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity has open sourced Lily, the local inference engine behind Hybrid Compute in Perplexity Computer. Built in Rust with custom Metal kernels for one model on one chip family, it averages 1.23x MLX-LM's prefill throughput and 1.35x its decode throughput on a 40-core, 128 GB M5 Max. The post Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/02/perplexity-open-sources-lily-a-rust-metal-inference-engine-for-qwen3-6-35b-a3b-on-apple-silicon/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</title>
 <link>https://huggingface.co/blog/grpo-with-trl-ifstruct</link>
 <guid isPermaLink="false">https://huggingface.co/blog/grpo-with-trl-ifstruct</guid>
@@ -486,6 +406,86 @@
 <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Trump may be forced to reveal secret rules feds use for AI safety testing</title>
+<link>https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</guid>
+<pubDate>Wed, 02 Sep 2026 17:58:33 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Proactive cyber defense for governments and enterprises</title>
+<link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</guid>
+<pubDate>Wed, 02 Sep 2026 16:24:24 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
+<link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</guid>
+<pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
+<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
+<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/real-time-intelligence">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT</title>
+<link>https://openai.com/index/atv-big-air-tour</link>
+<guid isPermaLink="false">https://openai.com/index/atv-big-air-tour</guid>
+<pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.<br/><br/><a href="https://openai.com/index/atv-big-air-tour">阅读原文</a>]]></description>
+</item>
+<item>
+<title>REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs</title>
+<link>https://machinelearning.apple.com/research/refactor-vla-motor-programs</link>
+<guid isPermaLink="false">refactor-vla-motor-programs</guid>
+<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Most current vision-language-action (VLA) models—such as OpenVLA, π0, RT-2, and RDT-1B—are “monolithic.” This means they generate raw motor commands or very short sequences of actions, without organizing behaviors into reusable, well-defined abstractions. As a result, these models perform poorly on long-horizon (multi-step) tasks, and it’s difficult to interpret what they have learned. Existing approaches for discovering skills often avoid the core problem of deciding when two action sequences are “behaviorally equivalent.” For example, AtomicVLA and AtomSkill group action sequences by…<br/><br/><a href="https://machinelearning.apple.com/research/refactor-vla-motor-programs">阅读原文</a>]]></description>
+</item>
+<item>
+<title>BenchMIRT：LLM基准测试究竟在衡量什么？</title>
+<link>https://huggingface.co/blog/allenai/benchmirt</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/benchmirt</guid>
+<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/allenai/benchmirt">阅读原文</a>]]></description>
+</item>
+<item>
+<title>推出基于Gemini的智能体视频理解功能</title>
+<link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-agentic-video-in-gemini/</guid>
+<pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/introducing-agentic-video-in-gemini/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI原生企业如何将工作流程转化为运营能力</title>
+<link>https://openai.com/index/ai-native-company-workflows</link>
+<guid isPermaLink="false">https://openai.com/index/ai-native-company-workflows</guid>
+<pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Basis、Clay和Exa Labs利用AI代理优化入职流程、账户管理和开发者集成。看看企业领导者可以借鉴什么。<br/><br/><a href="https://openai.com/index/ai-native-company-workflows">阅读原文</a>]]></description>
+</item>
+<item>
+<title>通往Astra之路：关键能力与前沿防护措施</title>
+<link>https://openai.com/index/path-to-astra</link>
+<guid isPermaLink="false">https://openai.com/index/path-to-astra</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Astra是OpenAI首个在《准备框架》下达到关键网络安全能力阈值的模型，并为其发布配备了更强的防护措施。<br/><br/><a href="https://openai.com/index/path-to-astra">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
