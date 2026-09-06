@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 06 Sep 2026 14:41:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 17:54:35 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Travis Kalanick’s Atoms might be getting into the robotaxi business</title>
+<link>https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3161054</guid>
+<pubDate>Sun, 06 Sep 2026 16:45:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The Uber founder has said that Atoms will allow him to complete "unfinished business."<br/><br/><a href="https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Chatbots built an &quot;echo chamber of one&quot; and now psychiatry has to decide if &quot;AI psychosis&quot; exists</title>
 <link>https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/</link>
@@ -48,12 +56,28 @@
 <description><![CDATA[【the-decoder.com】Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries. According to Artificial Analysis, it delivers the most accurate streaming transcription at the lowest price in the market. Meta sees the model as a building block for personal AI agents that listen in on real conversations through devices like its camera glasses. The article Meta's new real-time audio model is the foundation for AI assistants that never stop listening appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>An Alien Mind</title>
+<link>https://openai.com/index/an-alien-mind</link>
+<guid isPermaLink="false">https://openai.com/index/an-alien-mind</guid>
+<pubDate>Sun, 06 Sep 2026 09:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.<br/><br/><a href="https://openai.com/index/an-alien-mind">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Stripping safety guardrails from open-weight AI models is now a turnkey commercial service</title>
 <link>https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=39806</guid>
 <pubDate>Sun, 06 Sep 2026 08:55:56 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service for offensive cybersecurity and red teaming, but journalists were able to generate malware instructions without much effort. Whether the benefits outweigh the risks remains an open question. The article Stripping safety guardrails from open-weight AI models is now a turnkey commercial service appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Research acceleration: The view inside OpenAI</title>
+<link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+<guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai</guid>
+<pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.<br/><br/><a href="https://openai.com/index/research-acceleration-view-inside-openai">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
@@ -296,14 +320,6 @@
 <description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google’s latest AI weather model gives you no excuse to forget your umbrella</title>
-<link>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3160336</guid>
-<pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding […]<br/><br/><a href="https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Nvidia buys Hugging Face, the GitHub of AI, for $13 billion</title>
 <link>https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/</guid>
@@ -328,20 +344,20 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Hcompany/neomme">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
-<link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-<guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.<br/><br/><a href="https://openai.com/index/playco-game-prototyping-with-astra">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
 <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
 <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
 <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.<br/><br/><a href="https://openai.com/index/legora-financial-statement-review-with-astra">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
+<link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+<guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.<br/><br/><a href="https://openai.com/index/playco-game-prototyping-with-astra">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GPT-6 Astra: A new generation of intelligence</title>
@@ -470,22 +486,6 @@
 <pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/introducing-agentic-video-in-gemini/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI原生企业如何将工作流程转化为运营能力</title>
-<link>https://openai.com/index/ai-native-company-workflows</link>
-<guid isPermaLink="false">https://openai.com/index/ai-native-company-workflows</guid>
-<pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Basis、Clay和Exa Labs利用AI代理优化入职流程、账户管理和开发者集成。看看企业领导者可以借鉴什么。<br/><br/><a href="https://openai.com/index/ai-native-company-workflows">阅读原文</a>]]></description>
-</item>
-<item>
-<title>通往Astra之路：关键能力与前沿防护措施</title>
-<link>https://openai.com/index/path-to-astra</link>
-<guid isPermaLink="false">https://openai.com/index/path-to-astra</guid>
-<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Astra是OpenAI首个在《准备框架》下达到关键网络安全能力阈值的模型，并为其发布配备了更强的防护措施。<br/><br/><a href="https://openai.com/index/path-to-astra">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

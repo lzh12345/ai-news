@@ -1,16 +1,4 @@
 {
-"https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/": {
-"t": "谷歌推出 Gemini 3.5 Flash Cyber",
-"s": "谷歌推出 Gemini 3.5 Flash Cyber，这是一款轻量级网络安全模型，用于发现和修补漏洞。"
-},
-"https://techcrunch.com/?p=3144991": {
-"t": "OpenAI称Hugging Face遭其预发布模型入侵",
-"s": "OpenAI主动承认对Hugging Face的入侵事件负责，称这是内部测试失控所致。"
-},
-"https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": {
-"t": "物理AI仿真的现状：概述",
-"s": ""
-},
 "https://techcrunch.com/?p=3144907": {
 "t": "杰克·多西推出Buzz，一款面向团队及其AI代理的群聊平台，与Slack展开竞争",
 "s": "Buzz是一款面向工作场所的群聊平台，将人类及其AI代理置于同一对话中。"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=39806": {
 "t": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
 "s": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service for offensive cybersecurity and red teaming, but journalists were able to generate malware instructions without much effort. Whether the benefits outweigh the risks remains an open question. The article Stripping safety guardrails from open-weight AI models is now a turnkey commercial service appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3161054": {
+"t": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+"s": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+},
+"https://openai.com/index/an-alien-mind": {
+"t": "An Alien Mind",
+"s": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+},
+"https://openai.com/index/research-acceleration-view-inside-openai": {
+"t": "Research acceleration: The view inside OpenAI",
+"s": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
 }
 }
