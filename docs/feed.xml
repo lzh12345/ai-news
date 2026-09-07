@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 07 Sep 2026 16:56:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 22:25:15 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Opaque recurrence, and other AI terms that you should probably know</title>
+<link>https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
+<pubDate>Mon, 07 Sep 2026 19:24:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.<br/><br/><a href="https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device</title>
+<link>https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82183</guid>
+<pubDate>Mon, 07 Sep 2026 19:18:07 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval. Post-training pairs 400B tokens of deep-thinking SFT with RL teachers and on-policy distillation that merges 16 expert models into one checkpoint. The weights ship under Apache 2.0 alongside the pre-training, SFT and RL datasets and the intermediate Base, Midtrain and SFT-only checkpoints. GGUF builds start at 1.56 GB, and the standard LlamaForCausalLM architecture loads in vLLM, SGLang, llama.cpp, Ollama and MLX without a model-code fork. The post OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories</title>
+<link>https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82180</guid>
+<pubDate>Mon, 07 Sep 2026 18:38:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs. The result is 207 tasks and 50,129 verified Franka trajectories, and continual pretraining that lifts π0.5 from 83.9 to 88.8 on LIBERO-Plus while a volume-matched RoboCasa365 control reaches only 57.5. The post Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk</title>
+<link>https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39932</guid>
+<pubDate>Mon, 07 Sep 2026 18:12:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about "unsustainable silliness" in the compute buildout, especially from neo-cloud providers. The article Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-6 Astra beat Portal start to finish without human help in under 24 hours</title>
+<link>https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39928</guid>
+<pubDate>Mon, 07 Sep 2026 17:39:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is "the worst model we'll ever get." The article GPT-6 Astra beat Portal start to finish without human help in under 24 hours appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades</title>
 <link>https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/</link>
@@ -128,22 +168,6 @@
 <description><![CDATA[【the-decoder.com】Researchers at King's College London and other institutions are examining whether "AI-associated psychosis" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create an "echo chamber of one" that reinforces delusions. The article Chatbots built an "echo chamber of one" and now psychiatry has to decide if "AI psychosis" exists appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data</title>
-<link>https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39867</guid>
-<pubDate>Sun, 06 Sep 2026 10:36:35 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellite data. It produces hourly forecasts at up to five-kilometer resolution, five times more detailed than its predecessor. Google says regions in Africa, Latin America, and the Asia-Pacific that have lacked accurate forecasts should see the biggest gains. The article Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months</title>
-<link>https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39861</guid>
-<pubDate>Sun, 06 Sep 2026 10:15:17 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI developer Thibault Sottiaux calls Astra the company's "biggest competitive advantage" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months. The article OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>An Alien Mind</title>
 <link>https://openai.com/index/an-alien-mind</link>
 <guid isPermaLink="false">https://openai.com/index/an-alien-mind</guid>
@@ -222,22 +246,6 @@
 <pubDate>Sat, 05 Sep 2026 06:48:29 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop. The post Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%</title>
-<link>https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82090</guid>
-<pubDate>Sat, 05 Sep 2026 04:37:25 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes</title>
-<link>https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82085</guid>
-<pubDate>Sat, 05 Sep 2026 03:52:23 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 minutes 48 seconds on a three-device cluster, and note why NVIDIA labels it unofficial rather than a benchmark. We also cover where PAIR will not help, including its single scheduling policy and its blindness to VRAM and model warmness. The post NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/funes">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Training a coding model to paint watercolours with TRL and OpenEnv</title>
-<link>https://huggingface.co/blog/train-to-paint-with-code</link>
-<guid isPermaLink="false">https://huggingface.co/blog/train-to-paint-with-code</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/train-to-paint-with-code">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
