@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 06 Sep 2026 21:52:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 02:06:37 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder</title>
+<link>https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82154</guid>
+<pubDate>Sun, 06 Sep 2026 21:06:41 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 51.3 pages per second indexing throughput on one L40S, and the text-retrieval gaps the authors acknowledge. The post H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Authors push back as publishers and agents make claims on Anthropic settlement</title>
 <link>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</link>
@@ -14,6 +22,14 @@
 <pubDate>Sun, 06 Sep 2026 20:47:37 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Authors say publishers seem to be claiming more than their fair share of settlement payments.<br/><br/><a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours</title>
+<link>https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82150</guid>
+<pubDate>Sun, 06 Sep 2026 20:25:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Travis Kalanick’s Atoms might be getting into the robotaxi business</title>
@@ -88,6 +104,22 @@
 <description><![CDATA[【openai.com】Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.<br/><br/><a href="https://openai.com/index/research-acceleration-view-inside-openai">阅读原文</a>]]></description>
 </item>
 <item>
+<title>UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents</title>
+<link>https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82141</guid>
+<pubDate>Sun, 06 Sep 2026 06:11:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB. The post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed</title>
+<link>https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82124</guid>
+<pubDate>Sun, 06 Sep 2026 03:20:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used […] The post Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
 <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161049</guid>
@@ -96,12 +128,28 @@
 <description><![CDATA[【techcrunch.com】Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.<br/><br/><a href="https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI</title>
+<link>https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82109</guid>
+<pubDate>Sat, 05 Sep 2026 19:40:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer. The post GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Hikers rescued after using Google Gemini for planning</title>
 <link>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161045</guid>
 <pubDate>Sat, 05 Sep 2026 19:35:24 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."<br/><br/><a href="https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nous Research Adds One-Click Local Model Setup to Hermes Desktop</title>
+<link>https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82106</guid>
+<pubDate>Sat, 05 Sep 2026 19:12:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window. The post Nous Research Adds One-Click Local Model Setup to Hermes Desktop appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism</title>
@@ -142,6 +190,30 @@
 <pubDate>Sat, 05 Sep 2026 10:57:51 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused "new types of real-world impact" for the first time and plans to release a disclosure framework. The article OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus</title>
+<link>https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82102</guid>
+<pubDate>Sat, 05 Sep 2026 06:48:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop. The post Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%</title>
+<link>https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82090</guid>
+<pubDate>Sat, 05 Sep 2026 04:37:25 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes</title>
+<link>https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82085</guid>
+<pubDate>Sat, 05 Sep 2026 03:52:23 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 minutes 48 seconds on a three-device cluster, and note why NVIDIA labels it unofficial rather than a benchmark. We also cover where PAIR will not help, including its single scheduling policy and its blindness to VRAM and model warmness. The post NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation</title>
@@ -246,6 +318,14 @@
 <pubDate>Fri, 04 Sep 2026 04:21:03 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.<br/><br/><a href="https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour</title>
+<link>https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82075</guid>
+<pubDate>Fri, 04 Sep 2026 01:21:49 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Crusoe reportedly raises $3B at a $30B valuation</title>
@@ -406,86 +486,6 @@
 <pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google releases Gemini 3.8 Flash, its third Flash model in six weeks</title>
-<link>https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/</guid>
-<pubDate>Wed, 02 Sep 2026 18:13:54 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.<br/><br/><a href="https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How we make AI coding more cost efficient without sacrificing task quality</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/</link>
-<guid isPermaLink="false">https://github.blog/?p=98586</guid>
-<pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Trump may be forced to reveal secret rules feds use for AI safety testing</title>
-<link>https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</guid>
-<pubDate>Wed, 02 Sep 2026 17:58:33 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Proactive cyber defense for governments and enterprises</title>
-<link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</guid>
-<pubDate>Wed, 02 Sep 2026 16:24:24 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
-<link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</guid>
-<pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
-<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
-<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/real-time-intelligence">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT</title>
-<link>https://openai.com/index/atv-big-air-tour</link>
-<guid isPermaLink="false">https://openai.com/index/atv-big-air-tour</guid>
-<pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.<br/><br/><a href="https://openai.com/index/atv-big-air-tour">阅读原文</a>]]></description>
-</item>
-<item>
-<title>REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs</title>
-<link>https://machinelearning.apple.com/research/refactor-vla-motor-programs</link>
-<guid isPermaLink="false">refactor-vla-motor-programs</guid>
-<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Most current vision-language-action (VLA) models—such as OpenVLA, π0, RT-2, and RDT-1B—are “monolithic.” This means they generate raw motor commands or very short sequences of actions, without organizing behaviors into reusable, well-defined abstractions. As a result, these models perform poorly on long-horizon (multi-step) tasks, and it’s difficult to interpret what they have learned. Existing approaches for discovering skills often avoid the core problem of deciding when two action sequences are “behaviorally equivalent.” For example, AtomicVLA and AtomSkill group action sequences by…<br/><br/><a href="https://machinelearning.apple.com/research/refactor-vla-motor-programs">阅读原文</a>]]></description>
-</item>
-<item>
-<title>BenchMIRT：LLM基准测试究竟在衡量什么？</title>
-<link>https://huggingface.co/blog/allenai/benchmirt</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/benchmirt</guid>
-<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】（无）<br/><br/><a href="https://huggingface.co/blog/allenai/benchmirt">阅读原文</a>]]></description>
-</item>
-<item>
-<title>推出基于Gemini的智能体视频理解功能</title>
-<link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-agentic-video-in-gemini/</guid>
-<pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】（无）<br/><br/><a href="https://deepmind.google/blog/introducing-agentic-video-in-gemini/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
