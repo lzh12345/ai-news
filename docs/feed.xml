@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 07 Sep 2026 02:06:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 08:47:02 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B</title>
+<link>https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82177</guid>
+<pubDate>Mon, 07 Sep 2026 05:00:37 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Supporting independent journalism in Ukraine</title>
+<link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
+<guid isPermaLink="false">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
+<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.<br/><br/><a href="https://openai.com/index/supporting-independent-journalism-in-ukraine">阅读原文</a>]]></description>
+</item>
 <item>
 <title>H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder</title>
 <link>https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/</link>
@@ -320,14 +336,6 @@
 <description><![CDATA[【techcrunch.com】While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.<br/><br/><a href="https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour</title>
-<link>https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82075</guid>
-<pubDate>Fri, 04 Sep 2026 01:21:49 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Crusoe reportedly raises $3B at a $30B valuation</title>
 <link>https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3160771</guid>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.<br/><br/><a href="https://openai.com/index/safety-overview-gpt-6-astra">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
-<link>https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/</link>
-<guid isPermaLink="false">https://github.blog/?p=98631</guid>
-<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

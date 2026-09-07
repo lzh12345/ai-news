@@ -1,12 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/": {
-"t": "Anthropic 15亿美元版权和解获批；仅350名作者选择退出",
-"s": "Anthropic在最后一刻阻止作者退出15亿美元和解协议。"
-},
-"https://techcrunch.com/?p=3144838": {
-"t": "谷歌发布三款新Gemini模型——但未见3.5 Pro身影",
-"s": "谷歌发布了Gemini 3.6 Flash、3.5 Flash-Lite和Flash Cyber三款模型，但Gemini 3.5 Pro的持续缺席引发了外界对其AI战略的新质疑。"
-},
 "https://the-decoder.com/?p=38048": {
 "t": "Claude Cowork 通过屏幕录制和语音解说学习新技能",
 "s": "Anthropic 的 Claude Cowork 桌面应用现在允许用户在完成任务时录制屏幕、添加语音解说，并让 Claude 将整个过程转化为可重复使用的技能。本文《Claude Cowork 通过屏幕录制和语音解说学习新技能》最初发表于 The Decoder。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=82124": {
 "t": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
 "s": "Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used […] The post Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82177": {
+"t": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
+"s": "Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost."
+},
+"https://openai.com/index/supporting-independent-journalism-in-ukraine": {
+"t": "Supporting independent journalism in Ukraine",
+"s": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
 }
 }
