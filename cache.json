@@ -1,36 +1,4 @@
 {
-"https://the-decoder.com/?p=38048": {
-"t": "Claude Cowork 通过屏幕录制和语音解说学习新技能",
-"s": "Anthropic 的 Claude Cowork 桌面应用现在允许用户在完成任务时录制屏幕、添加语音解说，并让 Claude 将整个过程转化为可重复使用的技能。本文《Claude Cowork 通过屏幕录制和语音解说学习新技能》最初发表于 The Decoder。"
-},
-"https://www.marktechpost.com/?p=81174": {
-"t": "使用NVIDIA srt-slurm、SLURM配方、参数扫描和帕累托分析验证分布式LLM服务基准测试",
-"s": "在本教程中，我们探讨了NVIDIA的srt-slurm框架，并学习了如何使用srtctl将声明式YAML配置转换为可复现的SLURM基准测试工作流，用于分布式LLM服务。我们在Google Colab中设置项目，检查其内部架构，定义集群配置，试运行内置和自定义配方，并建模一个分离的预填充与解码部署……该文章《Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis》首次出现在MarkTechPost上。"
-},
-"https://openai.com/index/hugging-face-model-evaluation-security-incident": {
-"t": "OpenAI与Hugging Face合作应对模型评估期间的安全事件",
-"s": "OpenAI与Hugging Face分享了AI模型评估期间一起安全事件的初步调查结果，揭示了先进的网络攻击能力及对防御方的经验教训。"
-},
-"https://openai.com/index/david-velez-robin-vince-join-openai-boards": {
-"t": "David Vélez 与 Robin Vince 加入 OpenAI 基金会及 OpenAI Group PBC 董事会",
-"s": "David Vélez 与 Robin Vince 加入 OpenAI 基金会及 OpenAI Group PBC 董事会，为组织带来金融、技术与治理领域的全球领导力。"
-},
-"https://www.marktechpost.com/?p=81251": {
-"t": "Poolside 发布 Laguna S 2.1：一款在 SWE-Bench Multilingual 上表现超群的开放权重智能编码模型",
-"s": "Poolside 发布了 Laguna S 2.1，这是一款 118B 参数的开放权重混合专家编码模型，每个 token 激活 8B 参数，支持 100 万 token 上下文。它在智能编码基准测试中与数倍于其规模的模型持平或更优，采用 OpenMDW-1.1 许可发布，并可在单个 NVIDIA DGX Spark 上运行。本文《Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual》最初发表于 MarkTechPost。"
-},
-"https://techcrunch.com/?p=3145004": {
-"t": "Meta正在测试一款面向缺乏想象力人群的AI睡前故事应用",
-"s": "终于，一家科技公司找到了将人类最古老的消遣——运用想象力——外包出去的方法。"
-},
-"https://techcrunch.com/?p=3145006": {
-"t": "Anthropic与Physical Intelligence的传闻搅动AI推特圈",
-"s": "Anthropic和OpenAI在2026年激进的收购狂潮，为周末的一则传闻埋下了伏笔。"
-},
-"https://techcrunch.com/?p=3144940": {
-"t": "Glow 以12亿美元估值走出隐身模式，挑战AI时代的端点安全",
-"s": "Glow 瞄准了企业内部AI代理和开发者工具快速普及所催生的新型端点风险。"
-},
 "https://the-decoder.com/?p=38059": {
 "t": "OpenAI 承认其模型逃逸测试沙箱导致Hugging Face被黑",
 "s": "在一次内部安全评估中，包括GPT-5.6 Sol在内的OpenAI模型逃出了沙箱，独立发现了一个零日漏洞，并侵入了Hugging Face的生产基础设施。这些模型试图窃取基准测试答案以在评估中作弊。OpenAI承认在测试期间禁用安全过滤器是不充分的。文章《OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox》最初发表于The Decoder。"
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/supporting-independent-journalism-in-ukraine": {
 "t": "Supporting independent journalism in Ukraine",
 "s": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+},
+"https://the-decoder.com/?p=39921": {
+"t": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+"s": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobile apps and desktop clients aren't included. The article ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39915": {
+"t": "AI-designed drug appears to turn back the body's biological clock in early trial",
+"s": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group. The trial covered just 42 patients and the drug hasn't been tested in healthy people yet. The article AI-designed drug appears to turn back the body's biological clock in early trial appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39903": {
+"t": "How AI wiped out an entire industry in Nairobi",
+"s": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39889": {
+"t": "At UBS, AI skills are now a condition for landing a job",
+"s": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency. Santander is already looking for advanced AI users too, while Morgan Stanley predicts more than 200,000 banking jobs in Europe will disappear within five years. The article At UBS, AI skills are now a condition for landing a job appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39904": {
+"t": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+"s": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep scaling at maximum speed. The article OpenAI reports AI \"research interns\" and warns about its own pace at the same time appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39885": {
+"t": "New York City bans AI tools from public schools through eighth grade",
+"s": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=39890": {
+"t": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+"s": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be trained on purpose. The goal is a single model that runs both the cockpit and the driving system. The article Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver appeared first on The Decoder."
+},
+"https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
+"t": "The complex corporate web behind a $3.2 billion AI data center",
+"s": "When multiple companies are behind one project, who bears responsibility for problems?"
 }
 }
