@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 08 Sep 2026 02:18:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 08:27:45 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals</title>
+<link>https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39935</guid>
+<pubDate>Tue, 08 Sep 2026 07:45:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page</title>
+<link>https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82186</guid>
+<pubDate>Tue, 08 Sep 2026 03:07:15 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】We look at r-1, the document parsing model Reducto released on September 1, 2026. We walk through how it folds OCR, layout detection, tables, formatting and grounding into one full page pass, replacing the multi stage agentic pipeline it ships alongside. We break down the two numbers that matter for a migration decision: a reported 20% error reduction and a flat 1 cent per page rate against the legacy 3 to 6 cents. The post Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Opaque recurrence, and other AI terms that you should probably know</title>
 <link>https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
@@ -14,6 +30,22 @@
 <pubDate>Mon, 07 Sep 2026 19:24:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.<br/><br/><a href="https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device</title>
+<link>https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82183</guid>
+<pubDate>Mon, 07 Sep 2026 19:18:07 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval. Post-training pairs 400B tokens of deep-thinking SFT with RL teachers and on-policy distillation that merges 16 expert models into one checkpoint. The weights ship under Apache 2.0 alongside the pre-training, SFT and RL datasets and the intermediate Base, Midtrain and SFT-only checkpoints. GGUF builds start at 1.56 GB, and the standard LlamaForCausalLM architecture loads in vLLM, SGLang, llama.cpp, Ollama and MLX without a model-code fork. The post OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories</title>
+<link>https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82180</guid>
+<pubDate>Mon, 07 Sep 2026 18:38:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs. The result is 207 tasks and 50,129 verified Franka trajectories, and continual pretraining that lifts π0.5 from 83.9 to 88.8 on LIBERO-Plus while a volume-matched RoboCasa365 control reaches only 57.5. The post Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk</title>
@@ -96,12 +128,28 @@
 <description><![CDATA[【arstechnica.com】When multiple companies are behind one project, who bears responsibility for problems?<br/><br/><a href="https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B</title>
+<link>https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82177</guid>
+<pubDate>Mon, 07 Sep 2026 05:00:37 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Supporting independent journalism in Ukraine</title>
 <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
 <guid isPermaLink="false">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
 <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.<br/><br/><a href="https://openai.com/index/supporting-independent-journalism-in-ukraine">阅读原文</a>]]></description>
+</item>
+<item>
+<title>H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder</title>
+<link>https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82154</guid>
+<pubDate>Sun, 06 Sep 2026 21:06:41 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 51.3 pages per second indexing throughput on one L40S, and the text-retrieval gaps the authors acknowledge. The post H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Authors push back as publishers and agents make claims on Anthropic settlement</title>
@@ -112,20 +160,20 @@
 <description><![CDATA[【techcrunch.com】Authors say publishers seem to be claiming more than their fair share of settlement payments.<br/><br/><a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours</title>
+<link>https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82150</guid>
+<pubDate>Sun, 06 Sep 2026 20:25:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Travis Kalanick’s Atoms might be getting into the robotaxi business</title>
 <link>https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161054</guid>
 <pubDate>Sun, 06 Sep 2026 16:45:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The Uber founder has said that Atoms will allow him to complete "unfinished business."<br/><br/><a href="https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Chatbots built an &quot;echo chamber of one&quot; and now psychiatry has to decide if &quot;AI psychosis&quot; exists</title>
-<link>https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39877</guid>
-<pubDate>Sun, 06 Sep 2026 11:57:12 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Researchers at King's College London and other institutions are examining whether "AI-associated psychosis" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create an "echo chamber of one" that reinforces delusions. The article Chatbots built an "echo chamber of one" and now psychiatry has to decide if "AI psychosis" exists appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>An Alien Mind</title>
@@ -144,6 +192,22 @@
 <description><![CDATA[【openai.com】Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.<br/><br/><a href="https://openai.com/index/research-acceleration-view-inside-openai">阅读原文</a>]]></description>
 </item>
 <item>
+<title>UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents</title>
+<link>https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82141</guid>
+<pubDate>Sun, 06 Sep 2026 06:11:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB. The post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed</title>
+<link>https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82124</guid>
+<pubDate>Sun, 06 Sep 2026 03:20:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used […] The post Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
 <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161049</guid>
@@ -152,12 +216,28 @@
 <description><![CDATA[【techcrunch.com】Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.<br/><br/><a href="https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI</title>
+<link>https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82109</guid>
+<pubDate>Sat, 05 Sep 2026 19:40:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer. The post GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Hikers rescued after using Google Gemini for planning</title>
 <link>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161045</guid>
 <pubDate>Sat, 05 Sep 2026 19:35:24 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."<br/><br/><a href="https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nous Research Adds One-Click Local Model Setup to Hermes Desktop</title>
+<link>https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82106</guid>
+<pubDate>Sat, 05 Sep 2026 19:12:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window. The post Nous Research Adds One-Click Local Model Setup to Hermes Desktop appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure</title>
@@ -406,86 +486,6 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/funes">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Training a coding model to paint watercolours with TRL and OpenEnv</title>
-<link>https://huggingface.co/blog/train-to-paint-with-code</link>
-<guid isPermaLink="false">https://huggingface.co/blog/train-to-paint-with-code</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/train-to-paint-with-code">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Safety overview: GPT-6 Astra</title>
-<link>https://openai.com/index/safety-overview-gpt-6-astra</link>
-<guid isPermaLink="false">https://openai.com/index/safety-overview-gpt-6-astra</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.<br/><br/><a href="https://openai.com/index/safety-overview-gpt-6-astra">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
-<link>https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/</link>
-<guid isPermaLink="false">https://github.blog/?p=98631</guid>
-<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google releases Gemini 3.8 Flash, its third Flash model in six weeks</title>
-<link>https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/</guid>
-<pubDate>Wed, 02 Sep 2026 18:13:54 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.<br/><br/><a href="https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How we make AI coding more cost efficient without sacrificing task quality</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/</link>
-<guid isPermaLink="false">https://github.blog/?p=98586</guid>
-<pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Trump may be forced to reveal secret rules feds use for AI safety testing</title>
-<link>https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</guid>
-<pubDate>Wed, 02 Sep 2026 17:58:33 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Proactive cyber defense for governments and enterprises</title>
-<link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</guid>
-<pubDate>Wed, 02 Sep 2026 16:24:24 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
-<link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</guid>
-<pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
-<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
-<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/real-time-intelligence">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT</title>
-<link>https://openai.com/index/atv-big-air-tour</link>
-<guid isPermaLink="false">https://openai.com/index/atv-big-air-tour</guid>
-<pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.<br/><br/><a href="https://openai.com/index/atv-big-air-tour">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
