@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 08 Sep 2026 19:09:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 22:13:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why this month's Microsoft patch release is a doozy</title>
+<link>https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</guid>
+<pubDate>Tue, 08 Sep 2026 21:11:46 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.<br/><br/><a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hackers are stealing Claude tokens from subscribers</title>
+<link>https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3161463</guid>
+<pubDate>Tue, 08 Sep 2026 21:10:27 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.<br/><br/><a href="https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market</title>
+<link>https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3161658</guid>
+<pubDate>Tue, 08 Sep 2026 21:04:06 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.<br/><br/><a href="https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels</title>
+<link>https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82194</guid>
+<pubDate>Tue, 08 Sep 2026 19:51:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile kernels through CUDA Tile IR on stable Rust 1.89+. The post NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper</title>
+<link>https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=39953</guid>
+<pubDate>Tue, 08 Sep 2026 19:23:04 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckmaster when he refused, according to Buckmaster's account. OpenAI then claimed its own breakthrough using the same unusual solution path. Buckmaster had uploaded all his drafts to Codex. OpenAI told him the model didn't look up user data, but when he asked about training, he says he got no answer. OpenAI denies the allegations. The article OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants</title>
 <link>https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/</link>
@@ -14,6 +54,14 @@
 <pubDate>Tue, 08 Sep 2026 19:00:09 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta debuts its Muse AI agent. Will consumers trust it?</title>
+<link>https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3161372</guid>
+<pubDate>Tue, 08 Sep 2026 19:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.<br/><br/><a href="https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>“This is the AI men actually use”: Meta ads pushed apps nudifying real teens</title>
@@ -32,20 +80,20 @@
 <description><![CDATA[【arstechnica.com】Like traditional weather models, it benefits from an expanded set of inputs.<br/><br/><a href="https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper</title>
-<link>https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39953</guid>
-<pubDate>Tue, 08 Sep 2026 17:51:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckmaster when he refused, according to Buckmaster's account. OpenAI then claimed its own breakthrough using the same unusual solution path. Buckmaster had uploaded all his drafts to Codex. OpenAI told him the model didn't look up user data, but when he asked about training, he says he got no answer. OpenAI denies the allegations. The article OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI fought dirty on career-making math problem, says NYU mathematician</title>
 <link>https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161522</guid>
 <pubDate>Tue, 08 Sep 2026 17:32:15 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.<br/><br/><a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How GPT-5.6 Sol helps run quantum computing experiments</title>
+<link>https://openai.com/index/codex-quantum-computing-experiments</link>
+<guid isPermaLink="false">https://openai.com/index/codex-quantum-computing-experiments</guid>
+<pubDate>Tue, 08 Sep 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.<br/><br/><a href="https://openai.com/index/codex-quantum-computing-experiments">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google Cloud races to catch up in the AI deployment wars with Accenture deal</title>
@@ -174,6 +222,14 @@
 <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.<br/><br/><a href="https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms">阅读原文</a>]]></description>
+</item>
+<item>
+<title>1Password increases engineering productivity 21% with Codex</title>
+<link>https://openai.com/index/1password</link>
+<guid isPermaLink="false">https://openai.com/index/1password</guid>
+<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.<br/><br/><a href="https://openai.com/index/1password">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Opaque recurrence, and other AI terms that you should probably know</title>
@@ -336,14 +392,6 @@
 <description><![CDATA[【techcrunch.com】Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.<br/><br/><a href="https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI</title>
-<link>https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82109</guid>
-<pubDate>Sat, 05 Sep 2026 19:40:11 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer. The post GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Hikers rescued after using Google Gemini for planning</title>
 <link>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161045</guid>
@@ -438,54 +486,6 @@
 <pubDate>Fri, 04 Sep 2026 16:04:08 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]<br/><br/><a href="https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google’s Gemini Spark can now manage your Google Photos library</title>
-<link>https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3160870</guid>
-<pubDate>Fri, 04 Sep 2026 14:47:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.<br/><br/><a href="https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event</title>
-<link>https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3160690</guid>
-<pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.<br/><br/><a href="https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The sameness problem behind those unappetizing AI-generated menus</title>
-<link>https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3160707</guid>
-<pubDate>Fri, 04 Sep 2026 04:21:03 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.<br/><br/><a href="https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Crusoe reportedly raises $3B at a $30B valuation</title>
-<link>https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3160771</guid>
-<pubDate>Fri, 04 Sep 2026 00:48:42 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.<br/><br/><a href="https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models</title>
-<link>https://blog.cloudflare.com/vulnerability-discovery-remediation/</link>
-<guid isPermaLink="false">01M1JE1CN6W3KJCTMCDZ6Y1M59</guid>
-<pubDate>Thu, 03 Sep 2026 21:03:02 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.<br/><br/><a href="https://blog.cloudflare.com/vulnerability-discovery-remediation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Four major AI models suffer rare overlapping downtime</title>
-<link>https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/</guid>
-<pubDate>Thu, 03 Sep 2026 18:10:19 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.<br/><br/><a href="https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

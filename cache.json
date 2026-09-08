@@ -1,32 +1,4 @@
 {
-"https://techcrunch.com/?p=3145364": {
-"t": "Yope 获 1230 万美元融资，打造无算法无广告的私密社交网络",
-"s": "Yope 是一款专注于亲友私密群的快速增长社交应用，已获得 1230 万美元种子轮融资。这家初创公司不追逐创作者和算法推送，而是押注社交网络的未来在于由消息、照片分享和旨在强化现实关系的人工智能功能驱动的小型私密社区。"
-},
-"https://techcrunch.com/?p=3145367": {
-"t": "Monday.com裁员数百人，聚焦人工智能发展",
-"s": "该公司表示将裁员20%，约630名员工，以“支持更精简、更专注的运营模式”，同时聚焦其AI工作平台。"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3145431": {
-"t": "Menlo Ventures的Matt Murphy详解AI初创公司创始人必须做出的改变",
-"s": "Anthropic在5月营收年化运行率跃升至470亿美元，而2025年这一数字为90亿美元。Menlo Ventures的Matt Murphy表示，这种增长速度在他25年的投资生涯中前所未见——无论是互联网浪潮、移动时代，还是第一轮云计算热潮都无法比拟。Menlo领投了Anthropic的5亿美元D轮融资，Murphy亲眼见证了这家公司从零收入起步的全过程。"
-},
-"https://openai.com/index/how-news-organizations-are-using-ai": {
-"t": "新闻机构如何利用人工智能推进其重要使命",
-"s": "新闻机构正借助人工智能强化报道、扩大受众群体并优化业务运营，OpenAI工具为全球记者和出版商提供支持。"
-},
-"https://techcrunch.com/?p=3145616": {
-"t": "经历令人震惊的季度后，IBM坚称AI并未扼杀大型机",
-"s": "在IBM上周因大型机销售疲软预警导致股价暴跌后，其首席执行官解释称，人工智能暂时打乱了企业硬件预算。"
-},
-"https://techcrunch.com/?p=3145503": {
-"t": "谷歌以蓬勃发展的云业务为其巨额AI支出辩护",
-"s": "谷歌的云业务正蓬勃发展，采用其AI及AI基础设施服务的公司帮助这家科技巨头实现了创纪录的利润。"
-},
-"https://openai.com/index/ntt-data": {
-"t": "NTT DATA集团借助Codex将事件分析时间缩短至30分钟",
-"s": "NTT DATA集团利用ChatGPT企业版和Codex，帮助9000名员工实现工作自动化，将事件分析时间缩短至30分钟，并规模化推广安全的AI应用。"
-},
 "https://www.marktechpost.com/?p=81275": {
 "t": "Anthropic 发布 Claude Code 的 Claude Security 插件测试版：一款在终端中运行的多智能体漏洞扫描器",
 "s": "Anthropic 已发布 Claude Code 的 Claude Security 插件测试版。该插件可在现有的 Claude Code 会话中，对代码仓库进行多智能体漏洞扫描，然后将你选中的发现结果转化为补丁文件，供你自行审查和应用。Anthropic 在发布时强调了该工具的通用性，并突出其能力……原文《Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal》首发于 MarkTechPost。"
@@ -4798,5 +4770,33 @@
 "https://openai.com/index/teen-development-research-grants": {
 "t": "Funding grants for new research into AI and teen development",
 "s": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+},
+"https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": {
+"t": "Why this month's Microsoft patch release is a doozy",
+"s": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+},
+"https://techcrunch.com/?p=3161463": {
+"t": "Hackers are stealing Claude tokens from subscribers",
+"s": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+},
+"https://techcrunch.com/?p=3161658": {
+"t": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+"s": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+},
+"https://www.marktechpost.com/?p=82194": {
+"t": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
+"s": "NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile kernels through CUDA Tile IR on stable Rust 1.89+. The post NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3161372": {
+"t": "Meta debuts its Muse AI agent. Will consumers trust it?",
+"s": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
+},
+"https://openai.com/index/codex-quantum-computing-experiments": {
+"t": "How GPT-5.6 Sol helps run quantum computing experiments",
+"s": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+},
+"https://openai.com/index/1password": {
+"t": "1Password increases engineering productivity 21% with Codex",
+"s": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
 }
 }
