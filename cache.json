@@ -1,44 +1,4 @@
 {
-"https://the-decoder.com/?p=38076": {
-"t": "OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年",
-"s": "OpenAI 计划在佐治亚州建设一个名为“卡米莉亚项目”的数据中心，并与佐治亚电力公司签订了 3.2 吉瓦的电力协议。该公司承诺向当地社区投入 8000 万美元，并向学生提供 7100 万美元的 Codex 积分，以应对美国数据中心日益增长的反对声音——许多居民认为这些设施耗能巨大但就业机会稀少。文章《OpenAI 在佐治亚州的“卡米莉亚项目”达成 3.2 吉瓦大规模电力协议，有效期至 2032 年》首发于 The Decoder。"
-},
-"https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/": {
-"t": "加速科学发现的前沿：谷歌向Genesis Mission承诺4000万美元",
-"s": "谷歌为Genesis Mission承诺提供4000万美元的AI代币和积分"
-},
-"https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/": {
-"t": "无限AI代币终究并非无限，美军部队消耗殆尽",
-"s": "部队收到邮件通知，他们正在迅速耗尽AI代币。"
-},
-"https://openai.com/index/advancing-the-next-era-of-national-science": {
-"t": "推动国家科学的新时代",
-"s": "OpenAI 概述了其致力于推进美国科学的承诺，与美国能源部及国家实验室合作，利用前沿人工智能加速科学发现。"
-},
-"https://techcrunch.com/?p=3145517": {
-"t": "美国财政部威胁实施制裁，白宫指控月之暗面蒸馏Anthropic的Fable模型",
-"s": "美国财政部长斯科特·贝森特警告称，在白宫官员指控月之暗面蒸馏Anthropic的Fable模型以开发Kimi K3后，美国政府可能对中国人工智能公司实施制裁。"
-},
-"https://the-decoder.com/?p=38101": {
-"t": "Anthropic与图书作者达成15亿美元盗版和解，创纪录损失却为AI实验室带来最大法律胜利",
-"s": "Anthropic需向图书作者支付15亿美元，这是集体诉讼历史上最大的版权和解金额。但该赔偿针对的是从盗版数据库下载约482,460部作品的行为，而非AI训练本身。法官Alsup此前已裁定，基于合法获取的图书进行AI训练属于“变革性”使用，符合合理使用原则。此次和解实际上是AI实验室的胜利。本文《Anthropic与图书作者达成15亿美元盗版和解，创纪录损失却为AI实验室带来最大法律胜利》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3145421": {
-"t": "OpenAI的人为失误如何导致对Hugging Face的AI驱动攻击",
-"s": "OpenAI在设置其所谓的“高度隔离”测试环境和沙箱时犯了一个错误。据网络安全专家称，正是这个人为失误使得针对Hugging Face的AI驱动攻击成为可能。"
-},
-"https://github.blog/?p=97686": {
-"t": "Copilot 与原始 API 访问：你实际上在为什么付费？",
-"s": "Copilot 现在按公布的 API 费率计费。比较直接模型访问与围绕它的编码工作流、策略和工具链。这篇文章《Copilot vs. raw API access: What are you actually paying for?》最初出现在 GitHub 博客上。"
-},
-"https://techcrunch.com/?p=3145456": {
-"t": "特拉维斯·卡兰尼克的机器人公司获17亿美元融资，由a16z领投",
-"s": "优步也投资了特拉维斯·卡兰尼克的公司Atoms，该公司曾模糊宣称将利用工业AI推动世界现代化。"
-},
-"https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/": {
-"t": "现代汽车称人形机器人计划并非与罢工工人谈判内容",
-"s": "工会此前警告汽车制造商，任何机器人部署都必须经过协商。"
-},
 "https://techcrunch.com/?p=3145364": {
 "t": "Yope 获 1230 万美元融资，打造无算法无广告的私密社交网络",
 "s": "Yope 是一款专注于亲友私密群的快速增长社交应用，已获得 1230 万美元种子轮融资。这家初创公司不追逐创作者和算法推送，而是押注社交网络的未来在于由消息、照片分享和旨在强化现实关系的人工智能功能驱动的小型私密社区。"
@@ -4798,5 +4758,45 @@
 "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
 "t": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
 "s": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+},
+"https://www.marktechpost.com/?p=82191": {
+"t": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
+"s": "DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on MarkTechPost."
+},
+"https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/": {
+"t": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+"s": "Meta dragged its feet removing ads that nudify young girls' Instagram pics."
+},
+"https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/": {
+"t": "Update to Google’s AI weather model improves forecast accuracy",
+"s": "Like traditional weather models, it benefits from an expanded set of inputs."
+},
+"https://the-decoder.com/?p=39953": {
+"t": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
+"s": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckmaster when he refused, according to Buckmaster's account. OpenAI then claimed its own breakthrough using the same unusual solution path. Buckmaster had uploaded all his drafts to Codex. OpenAI told him the model didn't look up user data, but when he asked about training, he says he got no answer. OpenAI denies the allegations. The article OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3161522": {
+"t": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+"s": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
+},
+"https://techcrunch.com/?p=3161424": {
+"t": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+"s": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+},
+"https://techcrunch.com/?p=3161321": {
+"t": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+"s": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster."
+},
+"https://openai.com/index/introducing-chatgpt-images-2-5": {
+"t": "Introducing ChatGPT Images 2.5",
+"s": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
+},
+"https://openai.com/index/navier-stokes-solution": {
+"t": "On the Navier–Stokes Millennium Prize Problem",
+"s": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+},
+"https://openai.com/index/teen-development-research-grants": {
+"t": "Funding grants for new research into AI and teen development",
+"s": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
 }
 }
