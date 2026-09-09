@@ -1,44 +1,4 @@
 {
-"https://techcrunch.com/?p=3145698": {
-"t": "谷歌Gemini即将突破十亿用户大关",
-"s": "Gemini在二月份的月活跃用户已超过7.5亿。"
-},
-"https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/": {
-"t": "OpenAI遭黑客攻击后，AI军备竞赛面临清算时刻",
-"s": "激进的训练技术加剧了领先模型出现不良行为的威胁。"
-},
-"https://openai.com/index/health-in-chatgpt": {
-"t": "ChatGPT 推出健康功能",
-"s": "ChatGPT 的健康功能现已允许符合条件的美国用户安全连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解自身健康状况。"
-},
-"https://techcrunch.com/?p=3145851": {
-"t": "AMD推出Helios AI机架级系统，挑战英伟达",
-"s": "AMD正通过一款新的机架级系统挑战其芯片制造竞争对手，该系统将于今年晚些时候开始向客户发货。"
-},
-"https://www.marktechpost.com/?p=81291": {
-"t": "吴恩达发布OpenWorker：一款开源、本地优先的桌面AI协作者，直接交付成品而非聊天回复",
-"s": "吴恩达发布了OpenWorker，这是一款采用MIT许可证的桌面AI代理，它直接交付成品而非聊天回复。该工具在Tauri外壳下运行本地Python代理服务器，支持30种精选的调用工具模型以及完全本地的Ollama，并通过一个类型化风险引擎对每次写入、shell命令和脱离机器的操作进行把关。本文《吴恩达发布OpenWorker：一款开源、本地优先的桌面AI协作者，直接交付成品而非聊天回复》最初发表于MarkTechPost。"
-},
-"https://the-decoder.com/?p=38137": {
-"t": "不付费的话，ChatGPT给你的健康建议会更差",
-"s": "OpenAI正在向美国用户推出“ChatGPT健康”功能，连接苹果健康、医疗记录和健康应用。每周已有超过3亿人向ChatGPT咨询健康问题，但付费用户能获得更好的答案。更强大的GPT-5.6 Sol模型仅限高级订阅者使用，而免费用户只能使用较弱的GPT-5.5 Instant。本文《不付费的话，ChatGPT给你的健康建议会更差》首发于The Decoder。"
-},
-"https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
-"t": "AI 终止开关法案将允许特朗普政府下令关闭失控的AI系统",
-"s": "该法案将允许国土安全部部长决定何时应关闭某个AI系统。"
-},
-"https://techcrunch.com/?p=3145822": {
-"t": "Anthropic 更新 Claude 语音模式，采用更强模型",
-"s": "Claude 的新语音模型将让你能够重新安排会议或起草邮件。"
-},
-"01KY05J6W4B4TF7X9348W51RWP": {
-"t": "引入缓存响应规则",
-"s": "您可能遇到过这样的情况：某些本应从缓存中快速响应的内容，却因源站难以修改的Set-Cookie或Cache-Control标头而被拖回源站处理。缓存响应规则正是针对此问题的解决方案，可在适当时机应用。"
-},
-"https://techcrunch.com/?p=3145881": {
-"t": "AegisAI 由前谷歌安全高管创立，获3600万美元融资以阻止AI驱动的鱼叉式钓鱼攻击",
-"s": "AegisAI 的联合创始人开发了AI代理，能够像人类一样快速分析每条消息，关注即使最详尽的检查清单也无法捕捉到的细微异常。"
-},
 "https://www.marktechpost.com/?p=81287": {
 "t": "你并未获得所支付的AI模型",
 "s": "当你调用API时，在响应对象中有一行信息。你传入参数 model: \"claude-fable-5\"。你得到一个完成结果、一个令牌计数，以及一个显示 \"model\": \"claude-opus-4-8\" 的字段。没有报错，没有重试。该请求在生成开始前就被分类，匹配到一个敏感类别，并被完全交给另一组权重处理。Anthropic [...] 这篇题为《你并未获得所支付的AI模型》的文章最初发表于MarkTechPost。"
@@ -4798,5 +4758,45 @@
 "https://the-decoder.com/?p=39963": {
 "t": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
 "s": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations. Terence Tao warns that cases like this could \"reverse centuries of tradition in open science.\" The article OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3162124": {
+"t": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+"s": "The update uses Apple Intelligence to make better sense of your health data."
+},
+"https://techcrunch.com/?p=3162127": {
+"t": "Apple has a new way prove your iPhone photos aren’t AI slop",
+"s": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
+},
+"https://techcrunch.com/?p=3162083": {
+"t": "Apple CEO John Ternus says the best AI device is still the iPhone",
+"s": "The company also argued that its on-device models offer consumers more privacy."
+},
+"https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+"t": "Paul Christiano joins OpenAI Foundation Board",
+"s": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+},
+"https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/": {
+"t": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+"s": "\"We really do earnestly believe AI could kill all humans!\""
+},
+"https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/": {
+"t": "Google's AI genome system evaluates every possible one-base change",
+"s": "Most one-base changes to the human genome do nothing, but a few are significant."
+},
+"https://techcrunch.com/?post_type=tc_video&p=3162044": {
+"t": "Superintelligence is coming. Should we let it?",
+"s": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3162039": {
+"t": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+"s": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]"
+},
+"https://www.marktechpost.com/?p=82201": {
+"t": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
+"s": "Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist for a Montreal dealership, a narrator in his sixties with lecture hall authority. Briefs outnumber any catalog, and cloning closes the gap one speaker at a time, […] The post Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82197": {
+"t": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
+"s": "Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user […] The post Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer appeared first on MarkTechPost."
 }
 }
