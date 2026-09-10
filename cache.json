@@ -1,40 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81304": {
-"t": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
-"s": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, and which one fits your use case. The post Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=38211": {
-"t": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents",
-"s": "Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these numbers hold up in practice, Anthropic may have cracked one of the biggest security problems facing AI agents that operate in browsers. The article Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=38196": {
-"t": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks",
-"s": "Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers. But the race at the top remains close. The article Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3146451": {
-"t": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-"s": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
-},
-"https://the-decoder.com/?p=38217": {
-"t": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-"s": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need. At least seven days passed before OpenAI realized what had happened. By then, the FBI was already involved. Earlier warning signs had apparently gone ignored. The article New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3146569": {
-"t": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-"s": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
-},
-"https://www.marktechpost.com/?p=81354": {
-"t": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
-"s": "Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean. The post Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=81349": {
-"t": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
-"s": "A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an action-conditioned latent dynamics model, rollout generation, and FVD scoring. reactor-team/open-dreamer holds a […] The post Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=81345": {
-"t": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
-"s": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex workloads—including tiled tensor-core GEMM, fused softmax, and FlashAttention—while letting the compiler handle intricate thread mapping, memory layouts, and low-level CUDA instruction generation. The post Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning appeared first on MarkTechPost."
-},
 "https://the-decoder.com/?p=38239": {
 "t": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
 "s": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger logical reasoning. The article Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence appeared first on The Decoder."
@@ -4798,5 +4762,41 @@
 "https://huggingface.co/blog/gradio-workflow-1111": {
 "t": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
 "s": ""
+},
+"https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/": {
+"t": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+"s": "\"Bankruptcy cannot become the new land grab for AI.”"
+},
+"https://techcrunch.com/?p=3162739": {
+"t": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+"s": "Come inside the mind of a bot trying to convince the internet it's human."
+},
+"https://the-decoder.com/?p=40100": {
+"t": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+"s": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor. At $0.05 per minute, it's not cheap. The article OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3162605": {
+"t": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+"s": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
+},
+"https://the-decoder.com/?p=40092": {
+"t": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+"s": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems. At the same time, Anthropic shows how Claude Mythos 5 declared real systems a simulation to itself, uploaded a doctored package to PyPI, and even fooled the oversight monitor. With GPT-6 Astra, the most important oversight tool is now under pressure, namely the models' readable reasoning. The article Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40087": {
+"t": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
+"s": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\" Internally, the team knew AI alignment was not solved, according to Vishal Maini. The article Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk appeared first on The Decoder."
+},
+"https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+"t": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+"s": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+},
+"https://openai.com/index/introducing-chatgpt-financial-services": {
+"t": "Introducing ChatGPT for Financial Services",
+"s": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+},
+"https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+"t": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+"s": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
 }
 }
