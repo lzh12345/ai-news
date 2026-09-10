@@ -1,32 +1,4 @@
 {
-"https://the-decoder.com/?p=38239": {
-"t": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
-"s": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger logical reasoning. The article Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=81360": {
-"t": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
-"s": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system is Photon-1, a sparse 106B-A5B mixture-of-experts (MoE) […] The post Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=81357": {
-"t": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
-"s": "In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorganic materials. We configure an environment, authenticate with Hugging Face to access the gated UMA model weights, and initialize task-specific calculators for the omol, oc20, and omat domains. We […] The post FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=38235": {
-"t": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-"s": "In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall. According to the Wall Street Journal, some users got step-by-step instructions for making poisons and biological weapons. Hundreds asked for that kind of information. The article Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=38229": {
-"t": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns",
-"s": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models, yet OpenAI and Anthropic continue to lobby privately for those same restrictions amid security concerns and powerful business interests. The article US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=38160": {
-"t": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
-"s": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it. But nearly half of respondents say they lack proven examples for integrating AI into their courses. The article The AI coding tutor paradox grows as educators scramble to rethink how they test real skills appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3146775": {
-"t": "Hugging Face CEO 呼吁在 OpenAI 遭遇“前所未有”黑客攻击后实现“彻底透明”",
-"s": "“首次自主代理网络攻击是一个前所未有的事件。它值得前所未有的回应！”"
-},
 "https://the-decoder.com/?p=38245": {
 "t": "Cursor的智能体集群表明，当前沿模型规划工作时，更便宜的模型能处理大部分编码任务",
 "s": "Cursor要求其升级版智能体集群及其前身仅凭文档、无源代码或互联网访问权限，用Rust语言重写SQLite。新系统将规划者与执行者分离，其每种配置最终都在测试套件中获得了100%的分数。而旧版集群则因自身产生的合并冲突而陷入困境。本文《Cursor的智能体集群表明，当前沿模型规划工作时，更便宜的模型能处理大部分编码任务》最初发表于The Decoder。"
@@ -4798,5 +4770,33 @@
 "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
 "t": "Build more natural voice experiences with GPT‑Live‑1 in the API",
 "s": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+},
+"https://techcrunch.com/?p=3162873": {
+"t": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+"s": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular."
+},
+"https://techcrunch.com/?p=3162704": {
+"t": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+"s": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses."
+},
+"https://github.blog/?p=98771": {
+"t": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+"s": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3162967": {
+"t": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+"s": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
+},
+"https://techcrunch.com/?p=3162919": {
+"t": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+"s": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
+},
+"https://techcrunch.com/?p=3162897": {
+"t": "Meta’s AI agent Muse is now the No. 2 app in the US",
+"s": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+},
+"https://openai.com/index/introducing-the-agents-api": {
+"t": "Introducing the Agents API",
+"s": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
 }
 }
