@@ -1,60 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/": {
-"t": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-"s": "Rule would allow states to decide how much—if any—public input there can be."
-},
-"https://techcrunch.com/?p=3146199": {
-"t": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-"s": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
-},
-"lead-no-recovery-bottleneck": {
-"t": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
-"s": "Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on controlled algorithmic puzzles, we demonstrate that while decomposition is essential for stability, extreme decomposition creates a “no-recovery bottleneck”. We show that this bottleneck becomes critical due to highly non-uniform error distribution, where consistent errors on a few “hard” steps become irreversible. To address this, we propose Lookahead-Enhanced Atomic Decomposition (LEAD). By incorporating short-horizon future validation and aggregating…"
-},
-"https://the-decoder.com/?p=38185": {
-"t": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-"s": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3146380": {
-"t": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-"s": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them."
-},
-"https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/": {
-"t": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-"s": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes."
-},
-"01KYAFZ0EEBE4R099P8HT79D5X": {
-"t": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-"s": "By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection."
-},
-"https://techcrunch.com/?p=3144285": {
-"t": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-"s": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
-},
-"https://techcrunch.com/?p=3146619": {
-"t": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-"s": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
-},
-"https://www.marktechpost.com/?p=81300": {
-"t": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
-"s": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […] The post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost."
-},
-"https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/": {
-"t": "Canadian legislator reads out apparent LLM response in floor speech",
-"s": "\"Here’s a more natural, flowing version of that section...\""
-},
-"https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/": {
-"t": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-"s": "Models are improving quickly, but the cheaper options are often good enough."
-},
-"https://www.marktechpost.com/?p=81324": {
-"t": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
-"s": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed. The post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=81320": {
-"t": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
-"s": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent systems. The post Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse appeared first on MarkTechPost."
-},
 "https://www.marktechpost.com/?p=81304": {
 "t": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
 "s": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, and which one fits your use case. The post Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown appeared first on MarkTechPost."
@@ -4798,5 +4742,61 @@
 "https://openai.com/index/ai-policy-window": {
 "t": "The AI policy window is open. We need to act.",
 "s": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+},
+"https://the-decoder.com/?p=40080": {
+"t": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+"s": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose. The article Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's appeared first on The Decoder."
+},
+"https://openai.com/index/put-data-to-work": {
+"t": "Now everyone can put data to work",
+"s": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+},
+"https://techcrunch.com/?p=3162667": {
+"t": "AI agents are flooding public services with new requests",
+"s": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
+},
+"https://techcrunch.com/?p=3162108": {
+"t": "Maven Robotics wants to steal your robot deployment deal",
+"s": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+},
+"https://the-decoder.com/?p=40061": {
+"t": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
+"s": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research. That supports the theory of an increasingly \"spiky\" AI development path, with extreme strength in select domains rather than broad progress, at least as long as AI can't improve itself and still needs targeted optimization with human-generated data. The article GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design appeared first on The Decoder."
+},
+"01M23Q2R3K11Z1TNGRS35GYWR6": {
+"t": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+"s": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale."
+},
+"https://the-decoder.com/?p=40053": {
+"t": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+"s": "Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token. The model ships under the MIT license and targets much cheaper AI agents. The article New Deepseek model V4.1-Flash cuts memory needs for AI agents appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40039": {
+"t": "Muse can shop, write emails, and negotiate prices for users, all through WhatsApp",
+"s": "Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails through WhatsApp, complete with a payment feature that runs through Stripe's Link. That puts Meta ahead of OpenAI, which stopped its direct checkout feature in ChatGPT. A separate security agent called Sentinel monitors every action before it reaches the internet. The article Muse can shop, write emails, and negotiate prices for users, all through WhatsApp appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40048": {
+"t": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation",
+"s": "Nvidia and Palantir want to run supply chains with AI. The article Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40036": {
+"t": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
+"s": "Jacob Coxon, a departing Anthropic researcher, warned on CNN that self-improving AI poses an existential threat to humanity. Safety researchers at Anthropic and OpenAI share his views, and US politicians and Joe Rogan have picked up the topic. But cultural and financial interests are also at play behind these warnings, and the extinction scenario remains an extreme and contested position. The article AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40027": {
+"t": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
+"s": "The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percent of US companies fell nearly 10 percent in August. The price per million tokens has dropped 41 percent since March 2026, and companies are actively shifting usage away from expensive frontier models toward cheaper alternatives. For providers like OpenAI and Anthropic, the question is whether volume growth is fast enough to make up for falling prices. The article Top AI spenders cut per-employee costs by nearly 10 percent in August appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82215": {
+"t": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
+"s": "Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It […] The post DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse appeared first on MarkTechPost."
+},
+"https://openai.com/index/expanding-ai-access-us-government": {
+"t": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+"s": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+},
+"https://huggingface.co/blog/gradio-workflow-1111": {
+"t": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+"s": ""
 }
 }

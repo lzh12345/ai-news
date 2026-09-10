@@ -5,8 +5,120 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 10 Sep 2026 08:32:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 15:34:58 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude Fable 5.1's language is less &quot;load-bearing&quot; than its predecessor's</title>
+<link>https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40080</guid>
+<pubDate>Thu, 10 Sep 2026 15:26:58 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose. The article Claude Fable 5.1's language is less "load-bearing" than its predecessor's appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Now everyone can put data to work</title>
+<link>https://openai.com/index/put-data-to-work</link>
+<guid isPermaLink="false">https://openai.com/index/put-data-to-work</guid>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.<br/><br/><a href="https://openai.com/index/put-data-to-work">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI agents are flooding public services with new requests</title>
+<link>https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3162667</guid>
+<pubDate>Thu, 10 Sep 2026 14:53:50 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.<br/><br/><a href="https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Maven Robotics wants to steal your robot deployment deal</title>
+<link>https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3162108</guid>
+<pubDate>Thu, 10 Sep 2026 14:17:37 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.<br/><br/><a href="https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design</title>
+<link>https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40061</guid>
+<pubDate>Thu, 10 Sep 2026 13:45:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research. That supports the theory of an increasingly "spiky" AI development path, with extreme strength in select domains rather than broad progress, at least as long as AI can't improve itself and still needs targeted optimization with human-generated data. The article GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it</title>
+<link>https://blog.cloudflare.com/post-quantum-dnssec-1111/</link>
+<guid isPermaLink="false">01M23Q2R3K11Z1TNGRS35GYWR6</guid>
+<pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.<br/><br/><a href="https://blog.cloudflare.com/post-quantum-dnssec-1111/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>New Deepseek model V4.1-Flash cuts memory needs for AI agents</title>
+<link>https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40053</guid>
+<pubDate>Thu, 10 Sep 2026 12:40:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token. The model ships under the MIT license and targets much cheaper AI agents. The article New Deepseek model V4.1-Flash cuts memory needs for AI agents appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Muse can shop, write emails, and negotiate prices for users, all through WhatsApp</title>
+<link>https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40039</guid>
+<pubDate>Thu, 10 Sep 2026 12:27:18 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails through WhatsApp, complete with a payment feature that runs through Stripe's Link. That puts Meta ahead of OpenAI, which stopped its direct checkout feature in ChatGPT. A separate security agent called Sentinel monitors every action before it reaches the internet. The article Muse can shop, write emails, and negotiate prices for users, all through WhatsApp appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation</title>
+<link>https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40048</guid>
+<pubDate>Thu, 10 Sep 2026 12:23:16 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nvidia and Palantir want to run supply chains with AI. The article Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News</title>
+<link>https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40036</guid>
+<pubDate>Thu, 10 Sep 2026 10:31:20 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Jacob Coxon, a departing Anthropic researcher, warned on CNN that self-improving AI poses an existential threat to humanity. Safety researchers at Anthropic and OpenAI share his views, and US politicians and Joe Rogan have picked up the topic. But cultural and financial interests are also at play behind these warnings, and the extinction scenario remains an extreme and contested position. The article AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Top AI spenders cut per-employee costs by nearly 10 percent in August</title>
+<link>https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40027</guid>
+<pubDate>Thu, 10 Sep 2026 09:34:21 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percent of US companies fell nearly 10 percent in August. The price per million tokens has dropped 41 percent since March 2026, and companies are actively shifting usage away from expensive frontier models toward cheaper alternatives. For providers like OpenAI and Anthropic, the question is whether volume growth is fast enough to make up for falling prices. The article Top AI spenders cut per-employee costs by nearly 10 percent in August appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse</title>
+<link>https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82215</guid>
+<pubDate>Thu, 10 Sep 2026 07:31:01 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It […] The post DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Expanding AI access and cyber defense for federal, state, local, and tribal governments</title>
+<link>https://openai.com/index/expanding-ai-access-us-government</link>
+<guid isPermaLink="false">https://openai.com/index/expanding-ai-access-us-government</guid>
+<pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.<br/><br/><a href="https://openai.com/index/expanding-ai-access-us-government">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity</title>
+<link>https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82211</guid>
+<pubDate>Thu, 10 Sep 2026 02:13:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>GitHub availability report: August 2026</title>
 <link>https://github.blog/news-insights/company-news/github-availability-report-august-2026/</link>
@@ -22,6 +134,22 @@
 <pubDate>Thu, 10 Sep 2026 00:00:37 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.<br/><br/><a href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Rebuilding AUTOMATIC1111 with Gradio Workflow</title>
+<link>https://huggingface.co/blog/gradio-workflow-1111</link>
+<guid isPermaLink="false">https://huggingface.co/blog/gradio-workflow-1111</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/gradio-workflow-1111">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities</title>
+<link>https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82207</guid>
+<pubDate>Wed, 09 Sep 2026 22:58:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only. The post Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI adds a prominent AI doomer to its board of directors</title>
@@ -232,46 +360,6 @@
 <description><![CDATA[【blog.cloudflare.com】Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors.<br/><br/><a href="https://blog.cloudflare.com/workers-module-registry-nodejs/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade</title>
-<link>https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39990</guid>
-<pubDate>Wed, 09 Sep 2026 12:48:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction. Anthropic colleague Evan Hubinger puts the odds of a misaligned superintelligent AI wiping out humanity within the next decade at more than ten percent. The article Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time</title>
-<link>https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3161663</guid>
-<pubDate>Wed, 09 Sep 2026 12:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to […]<br/><br/><a href="https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips</title>
-<link>https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39995</guid>
-<pubDate>Wed, 09 Sep 2026 12:27:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Qualcomm is designing custom chips for AWS across multiple product generations, with a focus on AI inference. The article AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT Images 2.5: Faster, more precise, but not the same for everyone</title>
-<link>https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39974</guid>
-<pubDate>Wed, 09 Sep 2026 12:17:58 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is releasing two new image models with ChatGPT Images 2.5. Flare handles faster generation, Sunburst delivers more precise edits. It's still unclear which model ChatGPT users get and when. Our test offers the first hints on who actually benefits from the improvements. The article ChatGPT Images 2.5: Faster, more precise, but not the same for everyone appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up</title>
-<link>https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3161803</guid>
-<pubDate>Wed, 09 Sep 2026 12:05:34 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.<br/><br/><a href="https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.</title>
 <link>https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/</guid>
@@ -288,20 +376,20 @@
 <description><![CDATA[【openai.com】Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.<br/><br/><a href="https://openai.com/index/gpt-6-astra-next-generation-work">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat</title>
-<link>https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39968</guid>
-<pubDate>Wed, 09 Sep 2026 10:38:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Hugging Face launched "ML Intern," an AI assistant built into its chatbot that lets users run machine learning experiments without any ML expertise. The article Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/">阅读原文</a>]]></description>
+<title>Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds</title>
+<link>https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82201</guid>
+<pubDate>Wed, 09 Sep 2026 07:29:13 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist for a Montreal dealership, a narrator in his sixties with lecture hall authority. Briefs outnumber any catalog, and cloning closes the gap one speaker at a time, […] The post Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs</title>
-<link>https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39963</guid>
-<pubDate>Wed, 09 Sep 2026 10:27:37 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations. Terence Tao warns that cases like this could "reverse centuries of tradition in open science." The article OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/">阅读原文</a>]]></description>
+<title>Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer</title>
+<link>https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82197</guid>
+<pubDate>Wed, 09 Sep 2026 04:38:13 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user […] The post Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Why this month's Microsoft patch release is a doozy</title>
@@ -312,12 +400,20 @@
 <description><![CDATA[【arstechnica.com】Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.<br/><br/><a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper</title>
-<link>https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39953</guid>
-<pubDate>Tue, 08 Sep 2026 19:23:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckmaster when he refused, according to Buckmaster's account. OpenAI then claimed its own breakthrough using the same unusual solution path. Buckmaster had uploaded all his drafts to Codex. OpenAI told him the model didn't look up user data, but when he asked about training, he says he got no answer. OpenAI denies the allegations. The article OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/">阅读原文</a>]]></description>
+<title>NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels</title>
+<link>https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82194</guid>
+<pubDate>Tue, 08 Sep 2026 19:51:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile kernels through CUDA Tile IR on stable Rust 1.89+. The post NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants</title>
+<link>https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82191</guid>
+<pubDate>Tue, 08 Sep 2026 19:00:09 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>“This is the AI men actually use”: Meta ads pushed apps nudifying real teens</title>
@@ -342,14 +438,6 @@
 <pubDate>Tue, 08 Sep 2026 17:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.<br/><br/><a href="https://openai.com/index/codex-quantum-computing-experiments">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Patagonia has what AI data centers want, including no resistance so far</title>
-<link>https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=39942</guid>
-<pubDate>Tue, 08 Sep 2026 15:16:47 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Argentina's Patagonia is drawing attention as a possible site for large AI data centers. The article Patagonia has what AI data centers want, including no resistance so far appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
@@ -398,94 +486,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.<br/><br/><a href="https://openai.com/index/navier-stokes-solution">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Funding grants for new research into AI and teen development</title>
-<link>https://openai.com/index/teen-development-research-grants</link>
-<guid isPermaLink="false">https://openai.com/index/teen-development-research-grants</guid>
-<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.<br/><br/><a href="https://openai.com/index/teen-development-research-grants">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI expands initiatives to support journalism from classrooms to newsrooms</title>
-<link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</guid>
-<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.<br/><br/><a href="https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms">阅读原文</a>]]></description>
-</item>
-<item>
-<title>1Password increases engineering productivity 21% with Codex</title>
-<link>https://openai.com/index/1password</link>
-<guid isPermaLink="false">https://openai.com/index/1password</guid>
-<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.<br/><br/><a href="https://openai.com/index/1password">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The complex corporate web behind a $3.2 billion AI data center</title>
-<link>https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</link>
-<guid isPermaLink="false">https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</guid>
-<pubDate>Mon, 07 Sep 2026 11:00:03 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】When multiple companies are behind one project, who bears responsibility for problems?<br/><br/><a href="https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Supporting independent journalism in Ukraine</title>
-<link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
-<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.<br/><br/><a href="https://openai.com/index/supporting-independent-journalism-in-ukraine">阅读原文</a>]]></description>
-</item>
-<item>
-<title>An Alien Mind</title>
-<link>https://openai.com/index/an-alien-mind</link>
-<guid isPermaLink="false">https://openai.com/index/an-alien-mind</guid>
-<pubDate>Sun, 06 Sep 2026 09:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.<br/><br/><a href="https://openai.com/index/an-alien-mind">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Research acceleration: The view inside OpenAI</title>
-<link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-<guid isPermaLink="false">https://openai.com/index/research-acceleration-view-inside-openai</guid>
-<pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.<br/><br/><a href="https://openai.com/index/research-acceleration-view-inside-openai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI agents discussed ways to escape their sandbox on public wiki</title>
-<link>https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/</guid>
-<pubDate>Fri, 04 Sep 2026 22:17:36 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.<br/><br/><a href="https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Once popular for attacking AI, ASCII smuggling is embraced by spammers</title>
-<link>https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/</guid>
-<pubDate>Fri, 04 Sep 2026 17:18:12 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.<br/><br/><a href="https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight</title>
-<link>https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/</guid>
-<pubDate>Fri, 04 Sep 2026 16:22:18 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.<br/><br/><a href="https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Project HydraFusion: Frontier quality via multi-model orchestration</title>
-<link>https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/</link>
-<guid isPermaLink="false">https://github.blog/?p=98615</guid>
-<pubDate>Fri, 04 Sep 2026 16:04:14 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
