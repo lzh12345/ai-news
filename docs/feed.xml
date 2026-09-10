@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 09 Sep 2026 22:09:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 02:20:08 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity</title>
+<link>https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82211</guid>
+<pubDate>Thu, 10 Sep 2026 02:13:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GitHub availability report: August 2026</title>
+<link>https://github.blog/news-insights/company-news/github-availability-report-august-2026/</link>
+<guid isPermaLink="false">https://github.blog/?p=98774</guid>
+<pubDate>Thu, 10 Sep 2026 02:05:17 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-august-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</title>
+<link>https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3162445</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:37 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.<br/><br/><a href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities</title>
+<link>https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82207</guid>
+<pubDate>Wed, 09 Sep 2026 22:58:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only. The post Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI adds a prominent AI doomer to its board of directors</title>
+<link>https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3162350</guid>
+<pubDate>Wed, 09 Sep 2026 22:25:22 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.<br/><br/><a href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Massachusetts hits data centers with new clean power rules</title>
 <link>https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/</link>
@@ -176,6 +216,14 @@
 <description><![CDATA[【the-decoder.com】Google Deepmind has used the AlphaGenome Atlas to predict what each of the roughly nine billion possible single-letter changes in the human genome could do. The dataset spans one petabyte, more than 30 times the size of the AlphaFold database. In one epilepsy case, the atlas helped pinpoint a previously overlooked variant as the likely cause. The article Deepmind's AlphaGenome Atlas maps every possible DNA change in the human genome appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>The AI policy window is open. We need to act.</title>
+<link>https://openai.com/index/ai-policy-window</link>
+<guid isPermaLink="false">https://openai.com/index/ai-policy-window</guid>
+<pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.<br/><br/><a href="https://openai.com/index/ai-policy-window">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Sequoia doubles down on Cymphony as AI agents create new enterprise security risks</title>
 <link>https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3161574</guid>
@@ -294,14 +342,6 @@
 <pubDate>Tue, 08 Sep 2026 21:11:46 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.<br/><br/><a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hackers are stealing Claude tokens from subscribers</title>
-<link>https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3161463</guid>
-<pubDate>Tue, 08 Sep 2026 21:10:27 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.<br/><br/><a href="https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels</title>
@@ -446,46 +486,6 @@
 <pubDate>Mon, 07 Sep 2026 19:18:07 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval. Post-training pairs 400B tokens of deep-thinking SFT with RL teachers and on-policy distillation that merges 16 expert models into one checkpoint. The weights ship under Apache 2.0 alongside the pre-training, SFT and RL datasets and the intermediate Base, Midtrain and SFT-only checkpoints. GGUF builds start at 1.56 GB, and the standard LlamaForCausalLM architecture loads in vLLM, SGLang, llama.cpp, Ollama and MLX without a model-code fork. The post OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories</title>
-<link>https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82180</guid>
-<pubDate>Mon, 07 Sep 2026 18:38:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs. The result is 207 tasks and 50,129 verified Franka trajectories, and continual pretraining that lifts π0.5 from 83.9 to 88.8 on LIBERO-Plus while a volume-matched RoboCasa365 control reaches only 57.5. The post Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The complex corporate web behind a $3.2 billion AI data center</title>
-<link>https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</link>
-<guid isPermaLink="false">https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</guid>
-<pubDate>Mon, 07 Sep 2026 11:00:03 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】When multiple companies are behind one project, who bears responsibility for problems?<br/><br/><a href="https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B</title>
-<link>https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82177</guid>
-<pubDate>Mon, 07 Sep 2026 05:00:37 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Supporting independent journalism in Ukraine</title>
-<link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
-<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.<br/><br/><a href="https://openai.com/index/supporting-independent-journalism-in-ukraine">阅读原文</a>]]></description>
-</item>
-<item>
-<title>H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder</title>
-<link>https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82154</guid>
-<pubDate>Sun, 06 Sep 2026 21:06:41 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 51.3 pages per second indexing throughput on one L40S, and the text-retrieval gaps the authors acknowledge. The post H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

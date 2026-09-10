@@ -1,28 +1,4 @@
 {
-"https://the-decoder.com/?p=38181": {
-"t": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
-"s": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also swapping external models in products like Copilot for its in-house MAI family, which performs significantly worse in independent benchmarks. The article Microsoft's open-weight AI push is so obviously an Azure play it hurts appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3146372": {
-"t": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-"s": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
-},
-"https://techcrunch.com/?p=3146304": {
-"t": "Bluesky’s AI assistant Attie expands into an open social research tool",
-"s": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
-},
-"https://techcrunch.com/?p=3146313": {
-"t": "Midjourney acquired the astrology app Co-Star",
-"s": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
-},
-"https://the-decoder.com/?p=38175": {
-"t": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool",
-"s": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0. Independent verification doesn't exist yet. The update adds a Claude Code-compatible endpoint. The service remains unavailable in the EU. The article Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool appeared first on The Decoder."
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3146448": {
-"t": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-"s": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]"
-},
 "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/": {
 "t": "AI firms want more data centers; Trump's EPA may give neighbors less say",
 "s": "Rule would allow states to decide how much—if any—public input there can be."
@@ -4798,5 +4774,29 @@
 "https://openai.com/index/gpt-6-astra-next-generation-work": {
 "t": "GPT-6 Astra: The next generation in intelligence for work",
 "s": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+},
+"https://www.marktechpost.com/?p=82211": {
+"t": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
+"s": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on MarkTechPost."
+},
+"https://github.blog/?p=98774": {
+"t": "GitHub availability report: August 2026",
+"s": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3162445": {
+"t": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+"s": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+},
+"https://www.marktechpost.com/?p=82207": {
+"t": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
+"s": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only. The post Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3162350": {
+"t": "OpenAI adds a prominent AI doomer to its board of directors",
+"s": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
+},
+"https://openai.com/index/ai-policy-window": {
+"t": "The AI policy window is open. We need to act.",
+"s": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
 }
 }
