@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 10 Sep 2026 22:08:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 02:15:57 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster</title>
+<link>https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82228</guid>
+<pubDate>Thu, 10 Sep 2026 22:34:48 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and […] The post Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100</title>
+<link>https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82225</guid>
+<pubDate>Thu, 10 Sep 2026 21:57:06 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In a matched benchmark on 1,000 human dimer targets across 8xH100 GPUs, BioIR-accelerated Boltz-2 delivered 58.5K successfully folded residues per GPU-hour versus 20.2K for a torch-compiled open-source implementation, a 2.90x gain. The runtime optimizes at 3 layers: custom kernel selection, CUDA Graph capture, and Ray-based replica scaling that places 1 full model copy per GPU. BioIR already powered the AlphaFold Database expansion, generating about 31 million candidate protein complexes across 4,777 proteomes. The post NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Jensen Huang explains why Nvidia will grow an astounding 70% next year</title>
 <link>https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/</link>
@@ -30,6 +46,14 @@
 <pubDate>Thu, 10 Sep 2026 21:31:19 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call</title>
+<link>https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82222</guid>
+<pubDate>Thu, 10 Sep 2026 21:21:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent’s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. […] The post OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI puts Pro subscriptions on hold due to Astra demand</title>
@@ -200,6 +224,14 @@
 <description><![CDATA[【the-decoder.com】The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percent of US companies fell nearly 10 percent in August. The price per million tokens has dropped 41 percent since March 2026, and companies are actively shifting usage away from expensive frontier models toward cheaper alternatives. For providers like OpenAI and Anthropic, the question is whether volume growth is fast enough to make up for falling prices. The article Top AI spenders cut per-employee costs by nearly 10 percent in August appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse</title>
+<link>https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82215</guid>
+<pubDate>Thu, 10 Sep 2026 07:31:01 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It […] The post DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Introducing ChatGPT for Financial Services</title>
 <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
 <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-financial-services</guid>
@@ -214,6 +246,14 @@
 <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.<br/><br/><a href="https://openai.com/index/expanding-ai-access-us-government">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity</title>
+<link>https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82211</guid>
+<pubDate>Thu, 10 Sep 2026 02:13:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GitHub availability report: August 2026</title>
@@ -254,6 +294,14 @@
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.<br/><br/><a href="https://openai.com/index/introducing-gpt-live-1-in-the-api">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities</title>
+<link>https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82207</guid>
+<pubDate>Wed, 09 Sep 2026 22:58:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only. The post Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI adds a prominent AI doomer to its board of directors</title>
@@ -400,6 +448,22 @@
 <description><![CDATA[【openai.com】Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.<br/><br/><a href="https://openai.com/index/gpt-6-astra-next-generation-work">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds</title>
+<link>https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82201</guid>
+<pubDate>Wed, 09 Sep 2026 07:29:13 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist for a Montreal dealership, a narrator in his sixties with lecture hall authority. Briefs outnumber any catalog, and cloning closes the gap one speaker at a time, […] The post Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer</title>
+<link>https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82197</guid>
+<pubDate>Wed, 09 Sep 2026 04:38:13 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user […] The post Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Why this month's Microsoft patch release is a doozy</title>
 <link>https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</guid>
@@ -408,84 +472,20 @@
 <description><![CDATA[【arstechnica.com】Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.<br/><br/><a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>“This is the AI men actually use”: Meta ads pushed apps nudifying real teens</title>
-<link>https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/</guid>
-<pubDate>Tue, 08 Sep 2026 18:43:09 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Meta dragged its feet removing ads that nudify young girls' Instagram pics.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/">阅读原文</a>]]></description>
+<title>NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels</title>
+<link>https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82194</guid>
+<pubDate>Tue, 08 Sep 2026 19:51:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile kernels through CUDA Tile IR on stable Rust 1.89+. The post NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Update to Google’s AI weather model improves forecast accuracy</title>
-<link>https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/</link>
-<guid isPermaLink="false">https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/</guid>
-<pubDate>Tue, 08 Sep 2026 18:00:56 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Like traditional weather models, it benefits from an expanded set of inputs.<br/><br/><a href="https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How GPT-5.6 Sol helps run quantum computing experiments</title>
-<link>https://openai.com/index/codex-quantum-computing-experiments</link>
-<guid isPermaLink="false">https://openai.com/index/codex-quantum-computing-experiments</guid>
-<pubDate>Tue, 08 Sep 2026 17:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.<br/><br/><a href="https://openai.com/index/codex-quantum-computing-experiments">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
-<link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
-<guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</guid>
-<pubDate>Tue, 08 Sep 2026 14:23:07 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
-<link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</guid>
-<pubDate>Tue, 08 Sep 2026 14:00:15 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.<br/><br/><a href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)</title>
-<link>https://blog.cloudflare.com/automatic-key-exchange-for-origins/</link>
-<guid isPermaLink="false">01M1PVWQ383YJ6PFVFNJM3X122</guid>
-<pubDate>Tue, 08 Sep 2026 13:10:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the origin supports it.<br/><br/><a href="https://blog.cloudflare.com/automatic-key-exchange-for-origins/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The Work Now Within Reach</title>
-<link>https://openai.com/index/the-work-now-within-reach</link>
-<guid isPermaLink="false">https://openai.com/index/the-work-now-within-reach</guid>
-<pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.<br/><br/><a href="https://openai.com/index/the-work-now-within-reach">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing ChatGPT Images 2.5</title>
-<link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-images-2-5</guid>
-<pubDate>Tue, 08 Sep 2026 11:30:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.<br/><br/><a href="https://openai.com/index/introducing-chatgpt-images-2-5">阅读原文</a>]]></description>
-</item>
-<item>
-<title>On the Navier–Stokes Millennium Prize Problem</title>
-<link>https://openai.com/index/navier-stokes-solution</link>
-<guid isPermaLink="false">https://openai.com/index/navier-stokes-solution</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.<br/><br/><a href="https://openai.com/index/navier-stokes-solution">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Funding grants for new research into AI and teen development</title>
-<link>https://openai.com/index/teen-development-research-grants</link>
-<guid isPermaLink="false">https://openai.com/index/teen-development-research-grants</guid>
-<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.<br/><br/><a href="https://openai.com/index/teen-development-research-grants">阅读原文</a>]]></description>
+<title>Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants</title>
+<link>https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82191</guid>
+<pubDate>Tue, 08 Sep 2026 19:00:09 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
