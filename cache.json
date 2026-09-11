@@ -1,44 +1,4 @@
 {
-"https://techcrunch.com/?p=3146429": {
-"t": "脑电波会是物理AI的下一个突破口吗？",
-"s": "别再依赖YouTube视频——前沿的物理AI模型需要多角度摄像头、密集标注，以及不久的将来，脑电波数据。"
-},
-"http://bair.berkeley.edu/blog/2026/07/26/abbel/": {
-"t": "教会LLMs更新信念以实现高效长程交互",
-"s": "--> --> ABBEL与传统递归摘要的对比概览。信念取代完整交互历史成为智能体的工作上下文，信念分级通过监督每个信念状态的内容来提升性能。随着任务时间跨度的增长，LLM的上下文无法无限扩展。自我摘要能生成简洁、可解释的上下文，但会显著牺牲性能，尤其在高质量数据稀缺的人类辅助领域（如协作代码生成）。我们通过ABBEL框架解决这一问题：该框架隔离并监督信息内容。"
-},
-"https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/": {
-"t": "艺术家起诉AI梗图生成器，将其极具个人色彩的漫画作为广告模板出售",
-"s": "专家称，梗图生成器可能在输出中使用模板时出了差错。"
-},
-"https://huggingface.co/blog/nvidia/cosmos-h-dreams": {
-"t": "NVIDIA Cosmos-H-Dreams：将实时生成式仿真引入手术机器人领域",
-"s": "（无）"
-},
-"https://the-decoder.com/?p=38258": {
-"t": "据报道，共享的Claude聊天记录出现在搜索引擎中",
-"s": "与Anthropic的Claude聊天机器人的共享对话短暂出现在谷歌搜索结果中，因为这些页面缺少noindex标签。用户称部分聊天内容包含加密密钥和法律问题。OpenAI去年也犯过同样的错误。文章《据报道，共享的Claude聊天记录出现在搜索引擎中》最初发表于The Decoder。"
-},
-"https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
-"t": "人工智能如何拓展人们的工作内容",
-"s": "OpenAI的最新研究显示，人工智能正在扩大工作者的职责范围，ChatGPT用户跨角色承担任务，并重塑了职业边界。"
-},
-"01KYGZXPC2FQ4NSXSKXXYY86FZ": {
-"t": "我们正在开源隐私代理命令行工具",
-"s": "pvcli 是一款类似 curl 的工具，旨在简化 OHTTP 等复杂隐私协议的测试。"
-},
-"https://the-decoder.com/?p=38264": {
-"t": "METR 推出新指标，精确计算AI代理何时比人类更昂贵",
-"s": "METR 的新指标“支出视界”为AI代理解决问题的成本效益设定了美元数值。在NanoGPT速度赛中的早期结果并不理想，该指标存在盲点，而新一代模型可能改变这一局面。文章《METR introduces a new metric to calculate exactly when AI agents become more expensive than humans》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3146990": {
-"t": "OpenAI的Hugging Face漏洞重新引发了对对齐与控制的争论",
-"s": "OpenAI的Hugging Face漏洞重新引发了关于AI对齐与控制的辩论，暴露了在日益强大的AI是否应更好地对齐、更好地控制，或两者兼而有之的问题上的对立观点。"
-},
-"https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/": {
-"t": "ChatGPT开始阻止直接请求复制作者风格的行为",
-"s": "捕捉作者“广泛特质”的新行为可能带来法律影响。"
-},
 "https://techcrunch.com/?p=3146923": {
 "t": "Threads用户现可在私信中与Meta AI聊天",
 "s": "Meta周一宣布，正在Threads的私信功能中推出其Meta AI聊天机器人，让用户能够与这一AI助手进行对话。"
@@ -4798,5 +4758,45 @@
 "https://the-decoder.com/?p=40105": {
 "t": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
 "s": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents. There are no extra fees beyond token usage. Cloudflare, Vercel, and Oracle offer additional sandbox environments. The article OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40132": {
+"t": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+"s": "Anthropic's new threat intelligence report documents eight months of Claude abuse. Chinese AI labs like Alibaba's Qwen team, DeepSeek, and Moonshot AI relayed requests en masse or extracted training data, with Qwen alone accounting for more than 151 million exchanges. Actors also used Claude for missile software, autonomous kamikaze drones, and nationwide surveillance systems. The article How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/": {
+"t": "Claude users found ways around safeguards for bioweapons research",
+"s": "Some dangerous biology looks much like legitimate research, complicating AI safeguards."
+},
+"01M283KZX4CC68X1GXQMAR2KMN": {
+"t": "Introducing automatic remediation policies with Cloudflare CASB",
+"s": "Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send webhooks without manual intervention."
+},
+"https://the-decoder.com/?p=40116": {
+"t": "OpenAI floats a shared AI slowdown, takes it to Congress",
+"s": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article OpenAI floats a shared AI slowdown, takes it to Congress appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40025": {
+"t": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
+"s": "A class action lawsuit accuses Anthropic of misrepresenting how much Claude subscribers actually get to use the service. The article Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40071": {
+"t": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
+"s": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI). The article The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40075": {
+"t": "Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid",
+"s": "Authors and publishers fight over how to split Anthropic's $1.5 billion settlement, the largest copyright deal in US history. The article Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid appeared first on The Decoder."
+},
+"discosign-gloss-translation": {
+"t": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+"s": "Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a computational approach for discourse-aware text to sign language gloss translation grounded in linguistic research. We address three key phenomena within our modular Large Language Model (LLM)-based translation framework: (i) spatial coreference resolution, where entities maintain consistent spatial locations throughout discourse; (ii) Question-Answer Clauses (QACs), pseudocleft structures serving…"
+},
+"video-caption-quality": {
+"t": "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering",
+"s": "Evaluating video captioning remains a critical challenge for Visual Large Language Models (VLLMs). Existing metrics primarily rely on matching generated text against ground-truth references. This paradigm suffers from the “one-to-many” nature of video description, where high-quality captions are often penalized for lexical mismatches or valid shifts in visual focus. Furthermore, such assessments are typically one-dimensional, failing to provide a fine-grained analysis of caption quality. To address this, we redefine caption quality via information fidelity: A caption must maximize the coverage…"
+},
+"simpledesign-protein-codesign": {
+"t": "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign",
+"s": "Proteins are fundamental to biological processes, with their function determined by the complex interplay between the amino acid sequence and the three-dimensional structure. Developing generative models capable of understanding this intrinsically multi-modal relationship is crucial for fields like drug discovery and protein engineering. Existing models often rely on a multi-stage training process where autoencoders that tokenize data into latent representations are trained in a first stage. Secondly, a generative model is trained on the latent representation of the autoencoder(s), i.e…"
 }
 }
