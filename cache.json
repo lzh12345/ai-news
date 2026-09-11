@@ -1,28 +1,4 @@
 {
-"https://techcrunch.com/?p=3146871": {
-"t": "伊利亚·苏茨克维的“安全超级智能”与英伟达合作，扩大其AI研究规模",
-"s": "经过两年的隐秘运营后，“安全超级智能”宣布与英伟达建立长期合作伙伴关系，为其下一阶段的规模化发展做准备。"
-},
-"https://techcrunch.com/?p=3146811": {
-"t": "Enigma 获 7100 万美元融资，让操控机器人像调节音量一样简单",
-"s": "本轮巨额种子轮融资由 Index Ventures 和 Ribbit Capital 领投，Sarah Guo 的 Conviction Partners 参投。"
-},
-"gh-esd": {
-"t": "GH-ESD：面向实例级视觉任务的基于假设驱动的错误切片发现方法",
-"s": "视觉模型在语义连贯子集上的系统性失败（即错误切片）揭示了其在鲁棒性和评估方面的局限性。现有的切片发现方法主要将切片建模为表示空间中的聚类或预定义属性的组合。虽然这些方法在图像级分类任务中有效，但对于目标检测和分割等实例级任务而言，此类公式化方法并不充分——因为在这些任务中，失败往往源于上下文关系及空间定位的视觉模式。我们提出GH-ESD（基于假设驱动的错误切片发现方法），一种……"
-},
-"https://www.marktechpost.com/?p=81394": {
-"t": "Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统",
-"s": "Moonshot AI的Kimi团队与kvcache-ai在MIT许可下开源了AgentENV（AENV），作为Kimi K3开放日的一部分。该系统将智能体沙箱作为Firecracker微虚拟机运行，具备毫秒级快照、恢复及16路分支功能，并通过兼容E2B的API提供支持。本文Kimi AI与kvcache-ai开源‘AgentENV’：为Kimi K3智能体强化学习训练提供支持的分布式系统最早出现在MarkTechPost上。"
-},
-"https://techcrunch.com/?p=3147064": {
-"t": "PSA：你的Claude共享聊天记录和Artifacts可能已出现在谷歌上",
-"s": "该问题似乎源于Claude的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定URL的人都能查看对话或项目。"
-},
-"https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/": {
-"t": "谷歌和Reddit并不拥有互联网，网络爬虫公司在胜诉后表示",
-"s": "专家称，谷歌和Reddit利用DMCA打击网络爬虫的行为十分奇怪。"
-},
 "https://the-decoder.com/?p=38292": {
 "t": "Moonshot AI 发布 Kimi K3 开放权重与基础设施，此前已搅动前沿模型竞争格局",
 "s": "Moonshot AI 已发布 Kimi K3 的模型权重，并将其部分基础设施开源。这款中国模型在主流基准测试中几乎与 Fable 5 和 GPT-5.6 Sol 等西方前沿模型持平，但独立测试发现其在网络安全和数学性能方面存在显著差距，可能指向蒸馏技术。本文《Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race》最初发表于 The Decoder。"
@@ -4798,5 +4774,29 @@
 "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
 "t": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
 "s": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+},
+"https://techcrunch.com/?p=3163179": {
+"t": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+"s": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
+},
+"https://techcrunch.com/?p=3163181": {
+"t": "OpenAI’s feud with mathematicians is only escalating",
+"s": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+},
+"https://techcrunch.com/?p=3162257": {
+"t": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+"s": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
+},
+"https://techcrunch.com/?p=3163158": {
+"t": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+"s": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
+},
+"https://techcrunch.com/?p=3163189": {
+"t": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+"s": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
+},
+"https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/": {
+"t": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+"s": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
 }
 }
