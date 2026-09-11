@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 11 Sep 2026 15:36:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 18:54:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An Anthropic researcher’s doomsday warning comes at a very interesting time</title>
+<link>https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3163177</guid>
+<pubDate>Fri, 11 Sep 2026 18:41:49 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently. On […]<br/><br/><a href="https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
+<link>https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/</link>
+<guid isPermaLink="false">https://github.blog/?p=98799</guid>
+<pubDate>Fri, 11 Sep 2026 18:26:10 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion</title>
+<link>https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40119</guid>
+<pubDate>Fri, 11 Sep 2026 17:57:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Oriol Vinyals, until recently head of research at Google DeepMind, thinks a sudden AI intelligence explosion through recursive self-improvement is unlikely. AI can speed up research by a factor of ten, he says, but it hits two bottlenecks: coming up with ideas ("research taste") and reliably judging results. Reward hacking and the speed of light add further limits. Vinyals now wants to tackle these bottlenecks with his startup Discovery Loop, co-founded with Jeff Dean, Sanjay Ghemawat, and Quoc Le. The article Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Deep learning pioneer Bengio argues the training process itself makes AI dangerous</title>
+<link>https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40136</guid>
+<pubDate>Fri, 11 Sep 2026 17:22:18 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment. US President Trump disagrees and wants to keep outpacing China in the AI race. The article Deep learning pioneer Bengio argues the training process itself makes AI dangerous appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO</title>
+<link>https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3163102</guid>
+<pubDate>Fri, 11 Sep 2026 16:46:25 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.<br/><br/><a href="https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data</title>
 <link>https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/</link>
@@ -38,6 +78,14 @@
 <pubDate>Fri, 11 Sep 2026 11:59:19 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article OpenAI floats a shared AI slowdown, takes it to Congress appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+<guid isPermaLink="false">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.<br/><br/><a href="https://openai.com/index/scaling-storage-one-billion-users-part-one">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers</title>
@@ -184,28 +232,12 @@
 <description><![CDATA[【the-decoder.com】Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems. At the same time, Anthropic shows how Claude Mythos 5 declared real systems a simulation to itself, uploaded a doctored package to PyPI, and even fooled the oversight monitor. With GPT-6 Astra, the most important oversight tool is now under pressure, namely the models' readable reasoning. The article Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk</title>
-<link>https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40087</guid>
-<pubDate>Thu, 10 Sep 2026 16:31:02 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】A former Google DeepMind spokesperson says talk of AI-driven human extinction was "external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization." Internally, the team knew AI alignment was not solved, according to Vishal Maini. The article Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
 <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
 <guid isPermaLink="false">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
 <pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.<br/><br/><a href="https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Fable 5.1's language is less &quot;load-bearing&quot; than its predecessor's</title>
-<link>https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40080</guid>
-<pubDate>Thu, 10 Sep 2026 15:26:58 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose. The article Claude Fable 5.1's language is less "load-bearing" than its predecessor's appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Now everyone can put data to work</title>
@@ -360,14 +392,6 @@
 <description><![CDATA[【techcrunch.com】Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.<br/><br/><a href="https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Apple CEO John Ternus says the best AI device is still the iPhone</title>
-<link>https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3162083</guid>
-<pubDate>Wed, 09 Sep 2026 17:36:05 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The company also argued that its on-device models offer consumers more privacy.<br/><br/><a href="https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Paul Christiano joins OpenAI Foundation Board</title>
 <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
 <guid isPermaLink="false">https://openai.com/index/paul-christiano-joins-openai-foundation-board</guid>
@@ -390,14 +414,6 @@
 <pubDate>Wed, 09 Sep 2026 16:34:18 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Most one-base changes to the human genome do nothing, but a few are significant.<br/><br/><a href="https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Superintelligence is coming. Should we let it?</title>
-<link>https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3162044</guid>
-<pubDate>Wed, 09 Sep 2026 16:05:35 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]<br/><br/><a href="https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
@@ -470,22 +486,6 @@
 <pubDate>Tue, 08 Sep 2026 17:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.<br/><br/><a href="https://openai.com/index/codex-quantum-computing-experiments">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
-<link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
-<guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</guid>
-<pubDate>Tue, 08 Sep 2026 14:23:07 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
-<link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</guid>
-<pubDate>Tue, 08 Sep 2026 14:00:15 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.<br/><br/><a href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
