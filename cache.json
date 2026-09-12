@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=38295": {
-"t": "Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令",
-"s": "Anthropic CEO Dario Amodei再次警告开源AI模型的风险，同时坚称自己从未呼吁过禁令。他认为像中国这样的威权国家可能超越美国，且开源模型可能被滥用于生物或网络攻击。批评者称他主要是在试图保护自己的业务免受更廉价竞争对手的冲击。本文《Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令》最初发表于The Decoder。"
-},
-"https://openai.com/index/scientific-computing-agentic-ai": {
-"t": "智能体AI时代的科学计算",
-"s": "一份新的领域报告展示了科学家如何利用AI编码代理来现代化科学计算，加速基因组学及其他领域的软件开发和发现。"
-},
 "https://huggingface.co/blog/allenai/olmoearth-infrastructure": {
 "t": "OlmoEarth平台：实现行星尺度的地理空间推理",
 "s": ""
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=40186": {
 "t": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
 "s": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes embedded auditors at AI companies, shared safety standards, and global agreements modeled after the SALT disarmament treaties. His warning comes just ahead of what could be the largest initial public offering in history. The article Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3163386": {
+"t": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+"s": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+},
+"https://www.marktechpost.com/?p=82260": {
+"t": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+"s": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token memory bound, and what it takes to run the MIT-licensed code locally. The post Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help appeared first on MarkTechPost."
 }
 }

@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 12 Sep 2026 17:59:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 21:52:12 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -16,12 +16,28 @@
 <description><![CDATA[【openai.com】Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.<br/><br/><a href="https://openai.com/index/perplexity-improving-accuracy-with-astra">阅读原文</a>]]></description>
 </item>
 <item>
+<title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
+<link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3163386</guid>
+<pubDate>Sat, 12 Sep 2026 20:19:16 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.<br/><br/><a href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Anthropic CEO outlines plan to ‘pace the frontier’</title>
 <link>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3163373</guid>
-<pubDate>Sat, 12 Sep 2026 15:52:11 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】What would it actually look like to "pace the frontier"?<br/><br/><a href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help</title>
+<link>https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82260</guid>
+<pubDate>Sat, 12 Sep 2026 18:51:24 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token memory bound, and what it takes to run the MIT-licensed code locally. The post Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control</title>
@@ -448,28 +464,12 @@
 <description><![CDATA[【openai.com】OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.<br/><br/><a href="https://openai.com/index/expanding-ai-access-us-government">阅读原文</a>]]></description>
 </item>
 <item>
-<title>LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity</title>
-<link>https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82211</guid>
-<pubDate>Thu, 10 Sep 2026 02:13:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GitHub availability report: August 2026</title>
 <link>https://github.blog/news-insights/company-news/github-availability-report-august-2026/</link>
 <guid isPermaLink="false">https://github.blog/?p=98774</guid>
 <pubDate>Thu, 10 Sep 2026 02:05:17 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-august-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</title>
-<link>https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3162445</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:37 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.<br/><br/><a href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Rebuilding AUTOMATIC1111 with Gradio Workflow</title>
