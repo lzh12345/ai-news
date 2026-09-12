@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=38300": {
-"t": "英伟达投资伊利亚·苏茨克沃的AI实验室，推动SSI摆脱谷歌芯片依赖",
-"s": "英伟达正向其所谓的“巨额”资金注入由OpenAI前首席科学家伊利亚·苏茨克沃领导的AI实验室Safe Superintelligence（SSI）。这篇题为《英伟达投资伊利亚·苏茨克沃的AI实验室，推动SSI摆脱谷歌芯片依赖》的文章首发于The Decoder。"
-},
-"01KYJZQZHMFNYN2EGYDF73J99A": {
-"t": "自然灾害与政府干预：2026年第二季度重大互联网中断事件分析",
-"s": "Cloudflare Radar追踪了上一季度由自然灾害、政府强制关闭及DNSSEC密钥轮换引发的互联网中断事件。本文通过分析流量遥测数据，阐释了这些事件如何影响全球网络连接。"
-},
 "https://the-decoder.com/?p=38295": {
 "t": "Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令",
 "s": "Anthropic CEO Dario Amodei再次警告开源AI模型的风险，同时坚称自己从未呼吁过禁令。他认为像中国这样的威权国家可能超越美国，且开源模型可能被滥用于生物或网络攻击。批评者称他主要是在试图保护自己的业务免受更廉价竞争对手的冲击。本文《Anthropic CEO Amodei重申开源权重风险立场，同时坚称从未呼吁禁令》最初发表于The Decoder。"
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=40144": {
 "t": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
 "s": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of a broader threat to intellectual work. The article Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3163373": {
+"t": "Anthropic CEO outlines plan to ‘pace the frontier’",
+"s": "What would it actually look like to \"pace the frontier\"?"
+},
+"https://the-decoder.com/?p=40186": {
+"t": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
+"s": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes embedded auditors at AI companies, shared safety standards, and global agreements modeled after the SALT disarmament treaties. His warning comes just ahead of what could be the largest initial public offering in history. The article Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control appeared first on The Decoder."
 }
 }
