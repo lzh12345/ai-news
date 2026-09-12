@@ -1,36 +1,4 @@
 {
-"https://techcrunch.com/?p=3147197": {
-"t": "Anthropic的Dario Amodei回应：不反对开源权重模型，但担忧中国AI",
-"s": "Anthropic创始人兼CEO Dario Amodei就开源权重模型及中国日益增长的AI能力明确表达了自己的观点。"
-},
-"https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/": {
-"t": "微软发布AI安全工具，称其性能优于竞品平台",
-"s": "微软表示，这些工具不仅成本低于竞品，性能也更为出色。"
-},
-"https://techcrunch.com/?p=3147049": {
-"t": "萨提亚·纳德拉称，完全依赖单一AI的公司可能无法生存",
-"s": "纳德拉表示，那些没有自有模型，或者缺乏被称为AI网关的AI基础设施层来将自身提示与模型本身分离的公司，将面临困境。"
-},
-"https://techcrunch.com/?p=3146880": {
-"t": "Cursor 在 SpaceX 收购前推出本地化定价，加大印度市场布局",
-"s": "Cursor 表示印度目前是其全球第三大市场，并计划扩大本地招聘和企业销售。"
-},
-"https://www.marktechpost.com/?p=81401": {
-"t": "微软AI发布MAI-Cyber-1-Flash：一款5B活跃参数的网络安全模型，将MDASH在CyberGym上的表现提升至95.95%",
-"s": "微软AI发布了MAI-Cyber-1-Flash，这是其首款专为网络防御构建的模型。该模型总参数量为137B，活跃参数为5B，是基于MAI-Code-1-Flash的稀疏MoE微调版本，支持256k上下文窗口。该模型并非作为独立端点提供，而是运行在微软的多模型代理扫描框架MDASH中，在其中处理高达90%的任务，并将系统在CyberGym上的表现提升至95.95%。本文《微软AI发布MAI-Cyber-1-Flash：一款5B活跃参数的网络安全模型，将MDASH在CyberGym上的表现提升至95.95%》最初发表于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81398": {
-"t": "使用PrismML llama.cpp和OpenAI兼容的本地推理工作流部署1位Bonsai-27B模型",
-"s": "在本教程中，我们使用PrismML分支的llama.cpp部署1位Bonsai-27B语言模型，该分支提供了解码模型Q1_0_g128 GGUF量化格式所需的专用CUDA内核。本文《Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows》最初发表于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3147263": {
-"t": "递归超级智能与亚马逊签署4.1亿美元计算协议",
-"s": "递归公司此次4亿美元的支出占其迄今为止融资总额的大部分。"
-},
-"https://the-decoder.com/?p=38302": {
-"t": "台湾在扩大对中国芯片走私调查中拘留一名英伟达员工",
-"s": "据彭博社和路透社报道，台湾检方已拘留一名英伟达员工，该员工涉嫌非法向中国出口超微AI服务器。文章《台湾在扩大对中国芯片走私调查中拘留一名英伟达员工》最初发表于The Decoder。"
-},
 "https://the-decoder.com/?p=38300": {
 "t": "英伟达投资伊利亚·苏茨克沃的AI实验室，推动SSI摆脱谷歌芯片依赖",
 "s": "英伟达正向其所谓的“巨额”资金注入由OpenAI前首席科学家伊利亚·苏茨克沃领导的AI实验室Safe Superintelligence（SSI）。这篇题为《英伟达投资伊利亚·苏茨克沃的AI实验室，推动SSI摆脱谷歌芯片依赖》的文章首发于The Decoder。"
@@ -4798,5 +4766,37 @@
 "https://www.marktechpost.com/?p=82232": {
 "t": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
 "s": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0. The post Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=40181": {
+"t": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
+"s": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while competitor MolmoAct2 couldn't finish a single one. A researcher calls it a \"step change in spatial reasoning.\" The article GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40177": {
+"t": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
+"s": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history. Most of that money will likely end up right back at Nvidia in chip orders. The article Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40166": {
+"t": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
+"s": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals. The article AI models' written reasoning steps correspond to distinct internal patterns, a new study finds appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40163": {
+"t": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
+"s": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher. More capable models need less hand-holding, so developers should tie instructions to specific tasks and spell out when the job is done. The article GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends appeared first on The Decoder."
+},
+"https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/": {
+"t": "I spent $4,000 on a robot dog from China",
+"s": "Unitree might be the world’s most important robotics company."
+},
+"https://the-decoder.com/?p=40157": {
+"t": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
+"s": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments. OpenAI reportedly never told those affected. The article OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40148": {
+"t": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
+"s": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time points in a single pass, which cuts compute time and reduces compounding errors. The article Google's new AI model predicts the future from sales data, weather, and discount schedules appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40144": {
+"t": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
+"s": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of a broader threat to intellectual work. The article Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next appeared first on The Decoder."
 }
 }
