@@ -1,36 +1,4 @@
 {
-"https://the-decoder.com/?p=38292": {
-"t": "Moonshot AI 发布 Kimi K3 开放权重与基础设施，此前已搅动前沿模型竞争格局",
-"s": "Moonshot AI 已发布 Kimi K3 的模型权重，并将其部分基础设施开源。这款中国模型在主流基准测试中几乎与 Fable 5 和 GPT-5.6 Sol 等西方前沿模型持平，但独立测试发现其在网络安全和数学性能方面存在显著差距，可能指向蒸馏技术。本文《Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race》最初发表于 The Decoder。"
-},
-"https://the-decoder.com/?p=38287": {
-"t": "OpenAI称更多员工正用ChatGPT代劳他人工作",
-"s": "OpenAI分析了超过80万条与工作相关的ChatGPT消息，发现43.5%的特定职业查询涉及其他专业领域的任务。该公司将此现象称为“任务交叉”。这一趋势在小型企业中最为显著，用户在没有专职专家的情况下越来越多地处理专业化工作。本文《OpenAI称更多员工正用ChatGPT代劳他人工作》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38281": {
-"t": "微软发布自有网络安全模型MAI-Cyber-1-Flash，但最艰巨任务仍依赖OpenAI",
-"s": "微软推出MAI-Cyber-1-Flash，这是一款紧凑型安全模型，嵌入其MDASH多智能体系统后，在CyberGym基准测试中得分达96%。微软表示，与纯前沿模型相比，成本预计可降低50%，因为只有复杂案例才会交由GPT-5.4处理。在复杂推理方面，微软仍依赖OpenAI。本文《微软发布自有网络安全模型MAI-Cyber-1-Flash，但最艰巨任务仍依赖OpenAI》最初发表于The Decoder。"
-},
-"https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/": {
-"t": "Verizon 宣称与谷歌数据中心的10亿美元暗光纤交易只是开始",
-"s": "电信公司预计将通过暗光纤交易和改造后的数据中心获得AI收入。"
-},
-"https://techcrunch.com/?p=3146944": {
-"t": "微软发布首个网络安全模型及全新自主网络安全系统",
-"s": "微软本周推出其首个AI安全模型及全新安全平台，进一步强化了其AI网络安全产品线。"
-},
-"https://www.marktechpost.com/?p=81391": {
-"t": "使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体",
-"s": "在本教程中，我们围绕Anthropic的金融服务代码库构建了一个高级工作流，并用纯Python复现了其技能驱动的架构。我们首先安装所需的库，克隆代码库，并以编程方式映射其智能体、垂直插件、合作伙伴集成、托管智能体手册和金融分析技能。接着，我们将代码库中的SKILL.md文件解析为可搜索的格式……该文章《使用Claude、Python、MCP连接器和自动化交付物设计技能驱动的金融分析智能体》最初发表于MarkTechPost。"
-},
-"https://github.blog/?p=97740": {
-"t": "工具链才是你需要的（大部分情况下）",
-"s": "一个实用的GitHub Copilot工作流程，用于原型设计、规划、实现和审查软件，无需追逐每一个新的人工智能工具。本文《工具链才是你需要的（大部分情况下）》最初发布于GitHub博客。"
-},
-"https://the-decoder.com/?p=38277": {
-"t": "德里高等法院驳回印度主要新闻机构的版权禁令，OpenAI取得胜利",
-"s": "德里高等法院在OpenAI与新闻机构ANI的版权纠纷中作出了有利于OpenAI的重大裁决。法院首次将AI训练归类为私人使用。ANI因引用模型训练后发表的文章而削弱了自身诉讼立场。主要审判仍在进行中。本文《德里高等法院驳回印度主要新闻机构的版权禁令，OpenAI取得胜利》最初发表于The Decoder。"
-},
 "https://techcrunch.com/?p=3147197": {
 "t": "Anthropic的Dario Amodei回应：不反对开源权重模型，但担忧中国AI",
 "s": "Anthropic创始人兼CEO Dario Amodei就开源权重模型及中国日益增长的AI能力明确表达了自己的观点。"
@@ -4798,5 +4766,37 @@
 "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/": {
 "t": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
 "s": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
+},
+"https://openai.com/index/perplexity-improving-accuracy-with-astra": {
+"t": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+"s": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+},
+"https://techcrunch.com/?p=3163323": {
+"t": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+"s": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+},
+"https://www.marktechpost.com/?p=82248": {
+"t": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+"s": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on held-out tasks. The post Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82243": {
+"t": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+"s": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it […] The post Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills appeared first on MarkTechPost."
+},
+"https://openai.com/index/cognition-devin-testing-with-astra": {
+"t": "Cognition helps Devin test its own work with GPT‑6 Astra",
+"s": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+},
+"https://www.marktechpost.com/?p=82239": {
+"t": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
+"s": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with commercial access through Cohere Model Vault or RWS Language Weaver. The post Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82235": {
+"t": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+"s": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE. The post Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82232": {
+"t": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
+"s": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0. The post Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation appeared first on MarkTechPost."
 }
 }

@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 11 Sep 2026 22:07:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 02:22:17 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
+<link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
+<guid isPermaLink="false">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.<br/><br/><a href="https://openai.com/index/perplexity-improving-accuracy-with-astra">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</title>
+<link>https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3163323</guid>
+<pubDate>Fri, 11 Sep 2026 22:58:17 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The round for the two-year-old startup is coming together months after Mecka announced its Series A.<br/><br/><a href="https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize</title>
+<link>https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82248</guid>
+<pubDate>Fri, 11 Sep 2026 22:01:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on held-out tasks. The post Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills</title>
+<link>https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82243</guid>
+<pubDate>Fri, 11 Sep 2026 21:05:55 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it […] The post Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too</title>
 <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
@@ -96,6 +128,14 @@
 <description><![CDATA[【techcrunch.com】The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.<br/><br/><a href="https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Cognition helps Devin test its own work with GPT‑6 Astra</title>
+<link>https://openai.com/index/cognition-devin-testing-with-astra</link>
+<guid isPermaLink="false">https://openai.com/index/cognition-devin-testing-with-astra</guid>
+<pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.<br/><br/><a href="https://openai.com/index/cognition-devin-testing-with-astra">阅读原文</a>]]></description>
+</item>
+<item>
 <title>How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data</title>
 <link>https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=40132</guid>
@@ -168,6 +208,30 @@
 <description><![CDATA[【the-decoder.com】OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents. There are no extra fees beyond token usage. Cloudflare, Vercel, and Oracle offer additional sandbox environments. The article OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages</title>
+<link>https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82239</guid>
+<pubDate>Fri, 11 Sep 2026 06:57:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with commercial access through Cohere Model Vault or RWS Language Weaver. The post Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration</title>
+<link>https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82235</guid>
+<pubDate>Fri, 11 Sep 2026 06:34:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE. The post Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation</title>
+<link>https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82232</guid>
+<pubDate>Fri, 11 Sep 2026 06:01:25 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual "gradients" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0. The post Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation</title>
 <link>https://machinelearning.apple.com/research/discosign-gloss-translation</link>
 <guid isPermaLink="false">discosign-gloss-translation</guid>
@@ -192,6 +256,22 @@
 <description><![CDATA[【machinelearning.apple.com】Proteins are fundamental to biological processes, with their function determined by the complex interplay between the amino acid sequence and the three-dimensional structure. Developing generative models capable of understanding this intrinsically multi-modal relationship is crucial for fields like drug discovery and protein engineering. Existing models often rely on a multi-stage training process where autoencoders that tokenize data into latent representations are trained in a first stage. Secondly, a generative model is trained on the latent representation of the autoencoder(s), i.e…<br/><br/><a href="https://machinelearning.apple.com/research/simpledesign-protein-codesign">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster</title>
+<link>https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82228</guid>
+<pubDate>Thu, 10 Sep 2026 22:34:48 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and […] The post Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100</title>
+<link>https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82225</guid>
+<pubDate>Thu, 10 Sep 2026 21:57:06 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In a matched benchmark on 1,000 human dimer targets across 8xH100 GPUs, BioIR-accelerated Boltz-2 delivered 58.5K successfully folded residues per GPU-hour versus 20.2K for a torch-compiled open-source implementation, a 2.90x gain. The runtime optimizes at 3 layers: custom kernel selection, CUDA Graph capture, and Ray-based replica scaling that places 1 full model copy per GPU. BioIR already powered the AlphaFold Database expansion, generating about 31 million candidate protein complexes across 4,777 proteomes. The post NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Jensen Huang explains why Nvidia will grow an astounding 70% next year</title>
 <link>https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3162873</guid>
@@ -214,6 +294,14 @@
 <pubDate>Thu, 10 Sep 2026 21:31:19 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call</title>
+<link>https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82222</guid>
+<pubDate>Thu, 10 Sep 2026 21:21:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent’s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. […] The post OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI puts Pro subscriptions on hold due to Astra demand</title>
@@ -320,6 +408,14 @@
 <description><![CDATA[【blog.cloudflare.com】1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.<br/><br/><a href="https://blog.cloudflare.com/post-quantum-dnssec-1111/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse</title>
+<link>https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82215</guid>
+<pubDate>Thu, 10 Sep 2026 07:31:01 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It […] The post DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Introducing ChatGPT for Financial Services</title>
 <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
 <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-financial-services</guid>
@@ -334,6 +430,14 @@
 <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.<br/><br/><a href="https://openai.com/index/expanding-ai-access-us-government">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity</title>
+<link>https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82211</guid>
+<pubDate>Thu, 10 Sep 2026 02:13:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>GitHub availability report: August 2026</title>
@@ -382,110 +486,6 @@
 <pubDate>Wed, 09 Sep 2026 22:25:22 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.<br/><br/><a href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Massachusetts hits data centers with new clean power rules</title>
-<link>https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3162041</guid>
-<pubDate>Wed, 09 Sep 2026 21:43:34 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Massachusetts has become the third state in as many months to slap new restrictions on data center development.<br/><br/><a href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Six Chinese AI firms accused of aggressively copying US frontier models</title>
-<link>https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/</guid>
-<pubDate>Wed, 09 Sep 2026 20:06:28 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Paul Christiano joins OpenAI Foundation Board</title>
-<link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
-<guid isPermaLink="false">https://openai.com/index/paul-christiano-joins-openai-foundation-board</guid>
-<pubDate>Wed, 09 Sep 2026 17:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.<br/><br/><a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic researcher quits with a warning: Self-improving AI could &quot;kill us all&quot;</title>
-<link>https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/</guid>
-<pubDate>Wed, 09 Sep 2026 16:59:40 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】"We really do earnestly believe AI could kill all humans!"<br/><br/><a href="https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google's AI genome system evaluates every possible one-base change</title>
-<link>https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/</link>
-<guid isPermaLink="false">https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/</guid>
-<pubDate>Wed, 09 Sep 2026 16:34:18 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Most one-base changes to the human genome do nothing, but a few are significant.<br/><br/><a href="https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
-<link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
-<pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The AI policy window is open. We need to act.</title>
-<link>https://openai.com/index/ai-policy-window</link>
-<guid isPermaLink="false">https://openai.com/index/ai-policy-window</guid>
-<pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.<br/><br/><a href="https://openai.com/index/ai-policy-window">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility</title>
-<link>https://blog.cloudflare.com/workers-module-registry-nodejs/</link>
-<guid isPermaLink="false">01M1WCCYXD65TK4WBQW6QVC79V</guid>
-<pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors.<br/><br/><a href="https://blog.cloudflare.com/workers-module-registry-nodejs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.</title>
-<link>https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/</guid>
-<pubDate>Wed, 09 Sep 2026 11:00:10 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-6 Astra: The next generation in intelligence for work</title>
-<link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-6-astra-next-generation-work</guid>
-<pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.<br/><br/><a href="https://openai.com/index/gpt-6-astra-next-generation-work">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Why this month's Microsoft patch release is a doozy</title>
-<link>https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</guid>
-<pubDate>Tue, 08 Sep 2026 21:11:46 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.<br/><br/><a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>“This is the AI men actually use”: Meta ads pushed apps nudifying real teens</title>
-<link>https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/</guid>
-<pubDate>Tue, 08 Sep 2026 18:43:09 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Meta dragged its feet removing ads that nudify young girls' Instagram pics.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Update to Google’s AI weather model improves forecast accuracy</title>
-<link>https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/</link>
-<guid isPermaLink="false">https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/</guid>
-<pubDate>Tue, 08 Sep 2026 18:00:56 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Like traditional weather models, it benefits from an expanded set of inputs.<br/><br/><a href="https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
