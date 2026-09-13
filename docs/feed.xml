@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 13 Sep 2026 18:26:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 21:58:48 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -14,6 +14,22 @@
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.<br/><br/><a href="https://openai.com/index/perplexity-improving-accuracy-with-astra">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction</title>
+<link>https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82285</guid>
+<pubDate>Sun, 13 Sep 2026 19:46:38 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeRF) using JAX, Flax, Optax, and the volume-rendering primitives provided by jax3d. We first construct a synthetic multi-view dataset from an analytic scene containing volumetric geometry and view-dependent radiance, using sample_along_rays and volume_rendering to establish the forward rendering process. We then implement a NeRF […] The post Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>What’s behind the AI industry’s latest warnings of doom?</title>
+<link>https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3163449</guid>
+<pubDate>Sun, 13 Sep 2026 19:40:15 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.<br/><br/><a href="https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth</title>
@@ -312,14 +328,6 @@
 <description><![CDATA[【marktechpost.com】Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with commercial access through Cohere Model Vault or RWS Language Weaver. The post Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration</title>
-<link>https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82235</guid>
-<pubDate>Fri, 11 Sep 2026 06:34:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE. The post Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation</title>
 <link>https://machinelearning.apple.com/research/discosign-gloss-translation</link>
 <guid isPermaLink="false">discosign-gloss-translation</guid>
@@ -430,14 +438,6 @@
 <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.<br/><br/><a href="https://openai.com/index/put-data-to-work">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI agents are flooding public services with new requests</title>
-<link>https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3162667</guid>
-<pubDate>Thu, 10 Sep 2026 14:53:50 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.<br/><br/><a href="https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it</title>
