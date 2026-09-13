@@ -1,24 +1,4 @@
 {
-"https://huggingface.co/blog/allenai/olmoearth-infrastructure": {
-"t": "OlmoEarth平台：实现行星尺度的地理空间推理",
-"s": ""
-},
-"https://the-decoder.com/?p=38306": {
-"t": "亚马逊据报缩减Nova AI模型规模，押注新前沿研究团队",
-"s": "亚马逊正在缩减其大部分自研Nova AI模型，包括Nova Premier、Omni、Reel和Canvas。这些模型对现有客户保持“维持运营”模式，但不再积极开发。相反，亚马逊正押注于一个新的前沿模型研究团队，以及一款计划在今年秋季re:Invent大会上首次亮相的新基础模型。本文《亚马逊据报缩减Nova AI模型规模，押注新前沿研究团队》最初发表于The Decoder。"
-},
-"https://github.blog/?p=97755": {
-"t": "阻断针对 npm 和 GitHub Actions 的供应链攻击",
-"s": "探索我们在过去几个月对 npm 和 GitHub Actions 所做的变更，以阻断供应链攻击技术并限制其影响。本文《阻断针对 npm 和 GitHub Actions 的供应链攻击》最初发布于 GitHub 博客。"
-},
-"https://techcrunch.com/?p=3147357": {
-"t": "美国最大电网数据中心或面临临时断电以防停电风险",
-"s": "这一决定出台之际，数据中心建设的迅猛速度正迫使电网运营商争相发电。"
-},
-"https://huggingface.co/blog/LiquidAI/lfm2-5-encoders": {
-"t": "用于CPU上快速长上下文推理的LFM2.5编码器",
-"s": "(无)"
-},
 "https://techcrunch.com/?p=3146881": {
 "t": "Fish Audio 获5200万美元种子轮融资，为创作者和企业打造AI语音模型",
 "s": "自去年上线以来，这家初创公司如今已有超过800万人使用其开源或托管版本的模型，目前年经常性收入达2100万美元。"
@@ -4798,5 +4778,25 @@
 "https://www.marktechpost.com/?p=82260": {
 "t": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
 "s": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token memory bound, and what it takes to run the MIT-licensed code locally. The post Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=40216": {
+"t": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+"s": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music. The article Elevenlabs makes Music v2.5 available via app and API with free and pro tier options appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40208": {
+"t": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+"s": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work. The article Iris-mini and Iris-pro are the strongest open-weight search agents in their class appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40123": {
+"t": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+"s": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people. The article GPT-6 Astra pilots a surveillance drone and runs a business on its own appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40199": {
+"t": "Two-year university study finds banning AI from classrooms leaves students worse off",
+"s": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good. The article Two-year university study finds banning AI from classrooms leaves students worse off appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40193": {
+"t": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+"s": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei's call to add independent oversight appeared first on The Decoder."
 }
 }

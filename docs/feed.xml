@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 13 Sep 2026 08:39:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 15:22:33 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -14,6 +14,46 @@
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.<br/><br/><a href="https://openai.com/index/perplexity-improving-accuracy-with-astra">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Elevenlabs makes Music v2.5 available via app and API with free and pro tier options</title>
+<link>https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40216</guid>
+<pubDate>Sun, 13 Sep 2026 13:40:36 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music. The article Elevenlabs makes Music v2.5 available via app and API with free and pro tier options appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Iris-mini and Iris-pro are the strongest open-weight search agents in their class</title>
+<link>https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40208</guid>
+<pubDate>Sun, 13 Sep 2026 12:58:18 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work. The article Iris-mini and Iris-pro are the strongest open-weight search agents in their class appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-6 Astra pilots a surveillance drone and runs a business on its own</title>
+<link>https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40123</guid>
+<pubDate>Sun, 13 Sep 2026 10:52:16 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people. The article GPT-6 Astra pilots a surveillance drone and runs a business on its own appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Two-year university study finds banning AI from classrooms leaves students worse off</title>
+<link>https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40199</guid>
+<pubDate>Sun, 13 Sep 2026 09:27:01 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. "I was wrong," the researcher writes, who had assumed that AI without guidance would do more harm than good. The article Two-year university study finds banning AI from classrooms leaves students worse off appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Altman, Musk, and Hassabis back Amodei's call to add independent oversight</title>
+<link>https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40193</guid>
+<pubDate>Sun, 13 Sep 2026 08:53:00 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei's call to add independent oversight appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
@@ -78,30 +118,6 @@
 <pubDate>Sat, 12 Sep 2026 11:00:53 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Unitree might be the world’s most important robotics company.<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google</title>
-<link>https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40157</guid>
-<pubDate>Sat, 12 Sep 2026 10:08:43 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments. OpenAI reportedly never told those affected. The article OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google's new AI model predicts the future from sales data, weather, and discount schedules</title>
-<link>https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40148</guid>
-<pubDate>Sat, 12 Sep 2026 09:26:05 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time points in a single pass, which cuts compute time and reduces compounding errors. The article Google's new AI model predicts the future from sales data, weather, and discount schedules appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next</title>
-<link>https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40144</guid>
-<pubDate>Sat, 12 Sep 2026 08:28:53 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are "severely misaligned." They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of a broader threat to intellectual work. The article Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</title>
@@ -174,22 +190,6 @@
 <pubDate>Fri, 11 Sep 2026 18:26:10 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion</title>
-<link>https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40119</guid>
-<pubDate>Fri, 11 Sep 2026 17:57:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Oriol Vinyals, until recently head of research at Google DeepMind, thinks a sudden AI intelligence explosion through recursive self-improvement is unlikely. AI can speed up research by a factor of ten, he says, but it hits two bottlenecks: coming up with ideas ("research taste") and reliably judging results. Reward hacking and the speed of light add further limits. Vinyals now wants to tackle these bottlenecks with his startup Discovery Loop, co-founded with Jeff Dean, Sanjay Ghemawat, and Quoc Le. The article Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Deep learning pioneer Bengio argues the training process itself makes AI dangerous</title>
-<link>https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40136</guid>
-<pubDate>Fri, 11 Sep 2026 17:22:18 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment. US President Trump disagrees and wants to keep outpacing China in the AI race. The article Deep learning pioneer Bengio argues the training process itself makes AI dangerous appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO</title>
