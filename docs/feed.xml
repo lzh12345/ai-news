@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 13 Sep 2026 21:58:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 02:37:43 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -16,28 +16,12 @@
 <description><![CDATA[【openai.com】Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.<br/><br/><a href="https://openai.com/index/perplexity-improving-accuracy-with-astra">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction</title>
-<link>https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82285</guid>
-<pubDate>Sun, 13 Sep 2026 19:46:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeRF) using JAX, Flax, Optax, and the volume-rendering primitives provided by jax3d. We first construct a synthetic multi-view dataset from an analytic scene containing volumetric geometry and view-dependent radiance, using sample_along_rays and volume_rendering to establish the forward rendering process. We then implement a NeRF […] The post Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>What’s behind the AI industry’s latest warnings of doom?</title>
 <link>https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3163449</guid>
 <pubDate>Sun, 13 Sep 2026 19:40:15 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.<br/><br/><a href="https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth</title>
-<link>https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82281</guid>
-<pubDate>Sun, 13 Sep 2026 17:02:26 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference tied configuration uses 48 encoder and 48 decoder layers, executing 96 logical blocks per token while the state path grows to 48t decoder blocks after t tokens. The design also specifies hardware-aware execution around the recurrent core and an exact current-policy RL replay contract. No code, weights, or measured results are released yet. The post A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Obama urges Democrats to have a ‘clear plan’ for AI safeguards</title>
@@ -88,38 +72,6 @@
 <description><![CDATA[【the-decoder.com】Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei's call to add independent oversight appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents</title>
-<link>https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82276</guid>
-<pubDate>Sun, 13 Sep 2026 08:10:51 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers. The post AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks</title>
-<link>https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82271</guid>
-<pubDate>Sun, 13 Sep 2026 05:56:03 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon Bedrock AgentCore, plus an interactive simulator that shows a 200K window filling up. The post Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference</title>
-<link>https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82266</guid>
-<pubDate>Sun, 13 Sep 2026 01:42:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP The post Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost</title>
-<link>https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82263</guid>
-<pubDate>Sat, 12 Sep 2026 23:56:03 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI’s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main, within 1 point of Fable 5.1 at 64% lower cost. It is also […] The post Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
 <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3163386</guid>
@@ -134,14 +86,6 @@
 <pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】What would it actually look like to "pace the frontier"?<br/><br/><a href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help</title>
-<link>https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82260</guid>
-<pubDate>Sat, 12 Sep 2026 18:51:24 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token memory bound, and what it takes to run the MIT-licensed code locally. The post Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control</title>
@@ -198,22 +142,6 @@
 <pubDate>Fri, 11 Sep 2026 22:58:17 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The round for the two-year-old startup is coming together months after Mecka announced its Series A.<br/><br/><a href="https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize</title>
-<link>https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82248</guid>
-<pubDate>Fri, 11 Sep 2026 22:01:08 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on held-out tasks. The post Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills</title>
-<link>https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82243</guid>
-<pubDate>Fri, 11 Sep 2026 21:05:55 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it […] The post Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too</title>
@@ -318,14 +246,6 @@
 <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.<br/><br/><a href="https://openai.com/index/scaling-storage-one-billion-users-part-one">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages</title>
-<link>https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82239</guid>
-<pubDate>Fri, 11 Sep 2026 06:57:22 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with commercial access through Cohere Model Vault or RWS Language Weaver. The post Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation</title>
@@ -486,6 +406,86 @@
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.<br/><br/><a href="https://openai.com/index/introducing-gpt-live-1-in-the-api">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing the Agents API</title>
+<link>https://openai.com/index/introducing-the-agents-api</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.<br/><br/><a href="https://openai.com/index/introducing-the-agents-api">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Six Chinese AI firms accused of aggressively copying US frontier models</title>
+<link>https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/</guid>
+<pubDate>Wed, 09 Sep 2026 20:06:28 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Paul Christiano joins OpenAI Foundation Board</title>
+<link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
+<guid isPermaLink="false">https://openai.com/index/paul-christiano-joins-openai-foundation-board</guid>
+<pubDate>Wed, 09 Sep 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.<br/><br/><a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic researcher quits with a warning: Self-improving AI could &quot;kill us all&quot;</title>
+<link>https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/</guid>
+<pubDate>Wed, 09 Sep 2026 16:59:40 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】"We really do earnestly believe AI could kill all humans!"<br/><br/><a href="https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google's AI genome system evaluates every possible one-base change</title>
+<link>https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/</link>
+<guid isPermaLink="false">https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/</guid>
+<pubDate>Wed, 09 Sep 2026 16:34:18 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Most one-base changes to the human genome do nothing, but a few are significant.<br/><br/><a href="https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
+<link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
+<pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The AI policy window is open. We need to act.</title>
+<link>https://openai.com/index/ai-policy-window</link>
+<guid isPermaLink="false">https://openai.com/index/ai-policy-window</guid>
+<pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.<br/><br/><a href="https://openai.com/index/ai-policy-window">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility</title>
+<link>https://blog.cloudflare.com/workers-module-registry-nodejs/</link>
+<guid isPermaLink="false">01M1WCCYXD65TK4WBQW6QVC79V</guid>
+<pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors.<br/><br/><a href="https://blog.cloudflare.com/workers-module-registry-nodejs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.</title>
+<link>https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/</guid>
+<pubDate>Wed, 09 Sep 2026 11:00:10 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-6 Astra: The next generation in intelligence for work</title>
+<link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
+<guid isPermaLink="false">https://openai.com/index/gpt-6-astra-next-generation-work</guid>
+<pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.<br/><br/><a href="https://openai.com/index/gpt-6-astra-next-generation-work">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
