@@ -1,64 +1,4 @@
 {
-"https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/": {
-"t": "我们现在更清楚地了解了OpenAI是如何入侵Hugging Face的",
-"s": "从OpenAI模型利用JFrog Artifactory零日漏洞到补丁发布，过去了10天。"
-},
-"https://techcrunch.com/?p=3147594": {
-"t": "机器人检测初创公司Spur从Insight获得2亿美元融资",
-"s": "Spur Intelligence从Insight Partners处获得2亿美元融资，用于其能够区分真实人类流量与机器人的技术。"
-},
-"audio-synthesis-diffusion-transformers": {
-"t": "利用解耦时间深度扩散Transformer实现内存高效的音频合成",
-"s": "Siri情感语音通过AFM 3 Core Advanced（苹果最强大的设备端基础模型）在设备上实时合成丰富、可配置的语音。本文介绍了该功能背后的内存高效音频合成架构：一种解标记器，能够在Apple矩阵协处理器（AMX）严格的计算和内存预算内，将基础模型生成的语义音频标记转换为高保真音频。我们通过三组件设计将语义音频标记转换为残差向量量化（RVQ）表示——包括流式处理……"
-},
-"https://www.marktechpost.com/?p=81415": {
-"t": "Liquid AI 发布 LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M：在 CPU 上 8K 上下文下仍保持快速的双向编码器",
-"s": "Liquid AI 发布了两个开源权重双向编码器，LFM2.5-Encoder-230M 和 LFM2.5-Encoder-350M。两者均支持 8,192 个 token 的上下文，并基于 LFM2 混合骨干架构构建。其中 350M 版本在包含 17 项任务的 GLUE、SuperGLUE 和多语言套件中排名第四（共 14 个模型），仅次于更大的模型。230M 版本在 CPU 上完成一次 8K token 前向传播约需 28 秒。该文章最初发表于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=38331": {
-"t": "Deepmind解散AlphaFold团队，核心作者转投Anthropic",
-"s": "AlphaFold背后的多数研究人员现已转向其他项目，近四分之一已完全离开Google Deepmind。此次重组标志着该实验室背离了其成名战略的重大转变。文章《Deepmind dismantles its AlphaFold team as key authors leave for Anthropic》最初发表于The Decoder。"
-},
-"https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/": {
-"t": "当AI被用于破译失传语言时会发生什么？",
-"s": "AI在识别模式方面表现出色，但人类的洞察力才是关键。"
-},
-"01KYMH71B35NXQ00E0M2D0WMQV": {
-"t": "现已支持对源站进行后量子身份验证",
-"s": "Cloudflare 现已支持通过认证源站拉取和自定义源站信任存储连接到客户源站服务器时，采用后量子（PQ）身份验证。这是为所有 Cloudflare 产品提供 PQ 身份验证的第一步。"
-},
-"https://the-decoder.com/?p=38326": {
-"t": "GPT Transcribe 相比前代有所改进，但在错误率上仍不及 ElevenLabs、Google 或 Mistral",
-"s": "OpenAI 发布了 GPT Transcribe 和 GPT Live Transcribe 两款新的语音识别模型，可通过其 API 使用。文章《GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates》最初发表于 The Decoder。"
-},
-"https://the-decoder.com/?p=38322": {
-"t": "前沿AI开发者呼吁国际协调，在能力超越控制之前为自动化研究设定节奏",
-"s": "在一份联合声明中，来自领先AI实验室的员工呼吁美国政府推动国际协调。他们的论点很简单：没有哪家公司或国家能独自减缓发展速度。本文《前沿AI开发者呼吁国际协调，在能力超越控制之前为自动化研究设定节奏》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38319": {
-"t": "OpenAI 开源 Codex Security CLI，帮助开发者从命令行发现并修复漏洞",
-"s": "OpenAI 发布了 Codex Security CLI，这是一款开源工具，可自动检测并修复代码仓库中的漏洞。据OpenAI称，该系统此前内部代号为“Aardvark”，已帮助修复了超过3000个关键安全缺陷。它直接与Anthropic的Claude Security竞争，两家AI公司正竞相以AI驱动的防御手段应对日益自动化的网络攻击。本文《OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line》最初发表于The Decoder。"
-},
-"https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/": {
-"t": "谷歌SynthID水印难以破解，但无法解决AI虚假信息问题",
-"s": "未来在互联网上辨别真伪将变得不易。"
-},
-"https://techcrunch.com/?p=3147680": {
-"t": "AI内容充斥互联网，Pangram获900万美元用于检测",
-"s": "Pangram已筹集900万美元，用于扩大其AI检测软件的规模。该初创公司还发布了新的AI文本检测模型Pangram 4，以及处于研究预览阶段的AI图像检测模型。"
-},
-"https://the-decoder.com/?p=38336": {
-"t": "OpenAI承认其自主AI模型在安全评估期间也泄露了其他平台的凭证",
-"s": "在一次安全评估中，OpenAI的自主黑客模型侵入了Hugging Face，并利用暴露的凭证访问了其他四项服务。Hugging Face在两天半内重建了约17,600次操作，包括一次零日漏洞利用以及加密、分片的数据传输。这些模型似乎试图窃取测试答案，而非自行解决问题。本文《OpenAI承认其自主AI模型在安全评估期间也泄露了其他平台的凭证》最初发表于The Decoder。"
-},
-"https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/": {
-"t": "我们将在Google Flow Music中推出Lyria 3.5，在音乐性、歌词、人声和创意控制方面取得进展",
-"s": ""
-},
-"https://github.blog/?p=97770": {
-"t": "驯服Dependabot：分组更新、放缓节奏、保持安全更新快速",
-"s": "Dependabot能让你的依赖项保持最新，但其默认设置可能会让仓库被拉取请求淹没。本文介绍了如何通过分组更新、放缓节奏以及保持安全修复快速，来减少微软一个开源项目中的噪音。该文章最初发布于GitHub博客。"
-},
 "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/": {
 "t": "Anthropic发现漏洞的速度比微软修复的速度还快",
 "s": "微软正在幕后疯狂赶工，试图在黑客发现漏洞之前修补这些安全漏洞。"
@@ -4798,5 +4738,65 @@
 "https://huggingface.co/blog/asyncgrpo-lora-hfjobs": {
 "t": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
 "s": ""
+},
+"https://the-decoder.com/?p=40237": {
+"t": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
+"s": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users who don't want their chats reviewed by humans have to actively disable the \"Improve the model for everyone\" setting, which is on by default. The article OpenAI has hundreds of contract workers reading your ChatGPT conversations appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3163062": {
+"t": "With iOS 27, I’m actually using Siri again",
+"s": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day"
+},
+"https://techcrunch.com/?p=3162850": {
+"t": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+"s": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
+},
+"https://techcrunch.com/?p=3163598": {
+"t": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+"s": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles."
+},
+"https://the-decoder.com/?p=40233": {
+"t": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
+"s": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models. The article Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40230": {
+"t": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+"s": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-based compensation. The article Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3163478": {
+"t": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+"s": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
+},
+"https://techcrunch.com/?p=3163060": {
+"t": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+"s": "Fathom said that it has over 400,000 monthly active users."
+},
+"https://techcrunch.com/?p=3163493": {
+"t": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+"s": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today."
+},
+"https://techcrunch.com/?p=3163516": {
+"t": "5 days left to exhibit at TechCrunch Disrupt 2026",
+"s": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders."
+},
+"https://techcrunch.com/?p=3151802": {
+"t": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+"s": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making."
+},
+"https://the-decoder.com/?p=40226": {
+"t": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
+"s": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A formal review is now underway. The article Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\" appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40223": {
+"t": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
+"s": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders. Beijing's Foreign Ministry calls it \"fearmongering,\" while the state-run Global Times accuses Amodei of waging a \"silent AI Cold War.\" China's security minister isn't calling for a slowdown either but for faster AI infrastructure buildout. Trump also opposes any slowdown. The article China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage appeared first on The Decoder."
+},
+"https://openai.com/index/fyxer": {
+"t": "How Fyxer built an AI executive assistant people trust",
+"s": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+},
+"https://the-decoder.com/?p=40220": {
+"t": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
+"s": "Sam Altman is doubling down on slowing AI development. OpenAI now runs safety checks before major training runs, and according to The Information, the company has been talking with Anthropic and Google for months about joint self-regulation. The article Sam Altman calls for pacing AI development but promises rapid progress will continue appeared first on The Decoder."
 }
 }
