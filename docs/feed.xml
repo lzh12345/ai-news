@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 14 Sep 2026 02:37:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 09:25:25 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -392,6 +392,14 @@
 <description><![CDATA[【github.blog】In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-august-2026/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL</title>
+<link>https://huggingface.co/blog/asyncgrpo-lora-hfjobs</link>
+<guid isPermaLink="false">https://huggingface.co/blog/asyncgrpo-lora-hfjobs</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/asyncgrpo-lora-hfjobs">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Rebuilding AUTOMATIC1111 with Gradio Workflow</title>
 <link>https://huggingface.co/blog/gradio-workflow-1111</link>
 <guid isPermaLink="false">https://huggingface.co/blog/gradio-workflow-1111</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 09 Sep 2026 11:00:10 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-6 Astra: The next generation in intelligence for work</title>
-<link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-6-astra-next-generation-work</guid>
-<pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.<br/><br/><a href="https://openai.com/index/gpt-6-astra-next-generation-work">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

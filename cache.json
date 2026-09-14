@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81406": {
-"t": "Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型",
-"s": "Fireworks AI 发布了 Fireworks Nexus，这是一个面向工程组织的 AI 管理与路由平台。它将开发者已使用的编码工具连接到一个由开源权重模型管理的层。该平台旨在解决一个广为人知的问题：据《福布斯》报道，Uber 在四个月内就耗尽了其整个 2026 年的 AI 预算。而 Claude Code 此前也已达到……本文《Fireworks AI 发布 Fireworks Nexus：一个即插即用的路由与成本控制层，将常规编码工作迁移至开源权重模型》首发于 MarkTechPost。"
-},
 "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/": {
 "t": "我们现在更清楚地了解了OpenAI是如何入侵Hugging Face的",
 "s": "从OpenAI模型利用JFrog Artifactory零日漏洞到补丁发布，过去了10天。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3163449": {
 "t": "What’s behind the AI industry’s latest warnings of doom?",
 "s": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+},
+"https://huggingface.co/blog/asyncgrpo-lora-hfjobs": {
+"t": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+"s": ""
 }
 }
