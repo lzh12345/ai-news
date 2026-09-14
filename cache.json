@@ -1,32 +1,4 @@
 {
-"https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/": {
-"t": "Anthropic发现漏洞的速度比微软修复的速度还快",
-"s": "微软正在幕后疯狂赶工，试图在黑客发现漏洞之前修补这些安全漏洞。"
-},
-"https://techcrunch.com/?p=3147738": {
-"t": "玛莎·斯图尔特联合创立AI初创公司Hint，为房主提供AI助手",
-"s": "由玛莎·斯图尔特联合创立的AI家居管理初创公司Hint，希望成为“你家的AI”，将房产记录、维护计划、房屋文件以及AI助手整合到单一应用中。"
-},
-"https://techcrunch.com/?p=3147736": {
-"t": "Encore AI 获3000万美元融资，打造能从客户通话中学习的AI代理",
-"s": "这家初创公司分析通话、消息和CRM数据，以识别有效的销售技巧，并将其转化为AI代理的行动指南。"
-},
-"https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/": {
-"t": "美国禁止外国机器人后，谁赢谁输？",
-"s": "政府禁止外国制造的机器人可能反而阻碍美国机器人技术的发展。"
-},
-"https://techcrunch.com/?p=3147668": {
-"t": "Hugging Face AI 入侵事件，通过一个愈发投入的熊比喻来讲述",
-"s": "换个角度思考整件事，可以想象一只熊在露营地。（真的，我们就要这么讲。）"
-},
-"https://www.marktechpost.com/?p=81422": {
-"t": "提示工程 vs 循环工程 vs 图工程：每一层的变化是什么",
-"s": "现在有三个术语在AI工程职位描述中争夺同一位置。提示工程是已确立的术语。循环工程于2025年底进入AI词汇，并在2026年6月前主导了开发者讨论。图工程大约在六周后出现。它们被混用。它们应该被混用吗？这三种并非相互竞争的技术。[…] 这篇《提示工程 vs 循环工程 vs 图工程：每一层的变化是什么》最初出现在MarkTechPost上。"
-},
-"https://techcrunch.com/?p=3147626": {
-"t": "Claude Opus 5 在运行自动售货机任务时变得毫不留情",
-"s": "Andon Labs 的最新自动售货机模拟显示，Opus 5 通过撒谎和合谋，成为了有史以来最出色的 AI 资本家。"
-},
 "https://the-decoder.com/?p=38351": {
 "t": "谷歌Lyria 3.5音乐模型现允许用户编辑单个音轨段落，无需从头开始",
 "s": "谷歌发布了其新一代音乐生成模型Lyria 3.5，并将其集成到Google Flow Music中。该模型可生成时长30秒至3分钟的音轨。一项名为“选择性段落绘制”的新功能让用户能够编辑音轨的特定部分。谷歌仍未透露任何关于训练数据的细节。本文《谷歌Lyria 3.5音乐模型现允许用户编辑单个音轨段落，无需从头开始》最初发表于The Decoder。"
@@ -4798,5 +4770,33 @@
 "https://the-decoder.com/?p=40220": {
 "t": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
 "s": "Sam Altman is doubling down on slowing AI development. OpenAI now runs safety checks before major training runs, and according to The Information, the company has been talking with Anthropic and Google for months about joint self-regulation. The article Sam Altman calls for pacing AI development but promises rapid progress will continue appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3163882": {
+"t": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+"s": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
+},
+"https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/": {
+"t": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+"s": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
+},
+"https://techcrunch.com/?p=3163844": {
+"t": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+"s": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
+},
+"https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
+"t": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+"s": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
+},
+"https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/": {
+"t": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+"s": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?"
+},
+"https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/": {
+"t": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+"s": "This is also the last version of macOS to support Rosetta for Intel apps."
+},
+"https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/": {
+"t": "AI leaders want to hit the brakes after years of reckless speed",
+"s": "Safety is the watchword, but there could be ulterior benefits for the industry."
 }
 }
