@@ -1,60 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/": {
-"t": "埃隆·马斯克的xAI试图通过诉讼摆脱Grok的困境",
-"s": "马斯克为Grok辩护，称明尼苏达州的“脱衣”应用禁令违宪。"
-},
-"https://the-decoder.com/?p=38347": {
-"t": "普华永道被指发布AI生成的报告，其中包含虚假或捏造的来源",
-"s": "继毕马威、德勤和安永之后，GPTZero在普华永道中东的四份报告中发现了捏造的来源和虚假声明。其中一份治理报告被判定84%由AI生成，并利用未经核实的客户引用推广普华永道的一款产品。四大会计师事务所如今均受到AI幻觉的影响。本文《普华永道被指发布AI生成的报告，其中包含虚假或捏造的来源》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38342": {
-"t": "Pangram称其新AI文本检测器每24,000份文档仅出现一次错误",
-"s": "Pangram 4据称能检测出99.66%的AI生成文本，每24,000份文档仅出现一次误报。该模型还能抵抗将AI写作伪装成人类写作的“人性化”工具。API价格将上涨2至10倍。本文《Pangram称其新AI文本检测器每24,000份文档仅出现一次错误》首发于The Decoder。"
-},
-"https://openai.com/index/chatgpt-for-academic-researchers": {
-"t": "借助ChatGPT加速学术研究者的科学发现",
-"s": "OpenAI正向10万名学术研究者免费提供ChatGPT最先进的AI模型访问权限，以加速科学研究、协作与发现进程。"
-},
-"https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
-"t": "GPT-5.6 如何融合前沿智能与前沿效率",
-"s": "GPT-5.6 在模型、推理及智能体工作流中提升了AI效率，助力实现每美元成本下更有用的智能。"
-},
-"https://techcrunch.com/?p=3148055": {
-"t": "微软正前所未有地公开与OpenAI、Anthropic展开竞争",
-"s": "微软在周三向华尔街展示其自主研发的AI模型、工具链，甚至推出了Mythos的竞品，并表示计划持续增长。"
-},
-"https://techcrunch.com/?p=3148017": {
-"t": "马克·扎克伯格预测五年内将有数十亿人拥有个人AI代理",
-"s": "随着Meta向AI基础设施和代理投入数十亿美元，扎克伯格正努力说服投资者，这些投入的回报将物有所值。"
-},
-"https://techcrunch.com/?p=3148002": {
-"t": "微软从Anthropic投资中获利32亿美元，但OpenAI表现参差不齐",
-"s": "微软在公布2026财年（截至6月30日）第四季度强劲财报时，悄悄透露了其对两家最大且相互竞争的AI实验室的投资表现情况。"
-},
-"https://techcrunch.com/?p=3148020": {
-"t": "扎克伯格称Meta的企业AI机遇不止于智能体",
-"s": "在周三的公司第二季度财报电话会议上，CEO马克·扎克伯格表示，Meta看到了一个涵盖AI智能体、API、计算和内部软件的“大型企业机遇”。"
-},
-"https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/": {
-"t": "第三轮PQC算法候选遭Mythos攻击，宣告失效",
-"s": "HAWK在多年的测试中一直未被发现致命弱点，但Mythos攻击最终将其击破。"
-},
-"https://techcrunch.com/?p=3147648": {
-"t": "在TechCrunch Disrupt 2026大会上，探索AI的未来——从SaaS变革到智能体安全缺口",
-"s": "在TechCrunch Disrupt 2026大会上，由Google for Startups呈现的AI舞台将再次聚焦过去几年社区中最热门的话题，深入探讨相关议题。"
-},
-"https://techcrunch.com/?p=3147986": {
-"t": "Thinking Machines 联合创始人 Lilian Weng 因健康原因离职，随后加入 OpenAI",
-"s": "Weng 此前曾担任 OpenAI 的 AI 安全研究副总裁。"
-},
-"https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
-"t": "启用两个设置如何使我们在ARC-AGI-3基准测试中的得分翻了三倍",
-"s": "两个API设置如何通过保留推理能力和启用压缩功能，提升了GPT-5.6在ARC-AGI-3上的性能，从而提高了得分和效率。"
-},
-"http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/": {
-"t": "从CUDA到MLX：K-Search如何将数十年的内核经验带到Apple Silicon",
-"s": "图1：CUDA到MLX的优化转换映射图。CUDA优化知识可以转化为架构原生的MLX策略，而非逐条指令复制。我们正面临计算的新纪元。硬件正在快速变化——不仅是更快的GPU，还有来自不同供应商的日益多样化的芯片，每种芯片都有其独特的架构，并且通常针对特定的AI工作负载进行定制。软件的变化同样迅速，AI编码工具现在能在几分钟内生成几年前需要数月努力才能完成的内容。随着计算领域如今如此集中于AI，GPU内核已成为关键组成部分。"
-},
 "https://www.marktechpost.com/?p=81442": {
 "t": "腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架",
 "s": "腾讯发布了AngelSpec，这是一个开源的、基于原生PyTorch的训练框架，支持六种架构的推测解码草稿模型。该框架引入了DFly，一种具有混合目标条件约束和隐式校正自回归头的块扩散草稿模型，并集成了D-cut用于运行时自适应验证预算分配。在TP=8配置下的HY3-295B-A21B模型上，DFly-8在并发数4至64范围内，相比自回归解码实现了1.98至2.40倍的加速。本文《腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架》首发于。"
@@ -4798,5 +4742,61 @@
 "https://techcrunch.com/?p=3164024": {
 "t": "Jensen Huang took a call from Trump, and showed off something else, too",
 "s": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
+},
+"https://techcrunch.com/?p=3164278": {
+"t": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+"s": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
+},
+"https://techcrunch.com/?p=3164139": {
+"t": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+"s": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
+},
+"https://techcrunch.com/?p=3163539": {
+"t": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+"s": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+},
+"https://techcrunch.com/?p=3163504": {
+"t": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+"s": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass."
+},
+"https://the-decoder.com/?p=40258": {
+"t": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
+"s": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that more than 90 percent of the training data behind early language models came from English sources, and that speech recognition fails 60 percent of the time in Yoruba. The market, he says, is \"a terrible guarantor of equal opportunity.\" The article After warning AI is too dangerous, Bill Gates bets a billion on its upside appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3164027": {
+"t": "4 days left to exhibit at TechCrunch Disrupt 2026",
+"s": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
+},
+"https://techcrunch.com/?p=3163310": {
+"t": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+"s": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic."
+},
+"01M2H31EJKJWKFGC30ER2V5R9F": {
+"t": "Have it both ways: stay discoverable in search while disallowing AI training",
+"s": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft."
+},
+"01M2FPAD7MK0F8D9W7Z5HXH3MF": {
+"t": "Give every teammate and agent the right level of access to your Workers",
+"s": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely."
+},
+"https://the-decoder.com/?p=40254": {
+"t": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
+"s": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 robot can work next to people without safety fences appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/": {
+"t": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+"s": "Ars previewed Mozilla’s report on how cheap open models caught up on capability."
+},
+"https://techcrunch.com/?p=3163913": {
+"t": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+"s": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
+},
+"https://the-decoder.com/?p=40247": {
+"t": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
+"s": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the EU, the assistant stays unavailable for now. The article Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40241": {
+"t": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+"s": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House and Trump himself are opposing the move. The article Not everyone is convinced that Big AI's proposed development slowdown is really about safety appeared first on The Decoder."
 }
 }
