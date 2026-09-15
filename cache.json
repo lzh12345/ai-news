@@ -1,40 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81442": {
-"t": "腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架",
-"s": "腾讯发布了AngelSpec，这是一个开源的、基于原生PyTorch的训练框架，支持六种架构的推测解码草稿模型。该框架引入了DFly，一种具有混合目标条件约束和隐式校正自回归头的块扩散草稿模型，并集成了D-cut用于运行时自适应验证预算分配。在TP=8配置下的HY3-295B-A21B模型上，DFly-8在并发数4至64范围内，相比自回归解码实现了1.98至2.40倍的加速。本文《腾讯开源AngelSpec：面向Hy3模型的MTP与块并行推测解码统一训练框架》首发于。"
-},
-"https://the-decoder.com/?p=38355": {
-"t": "OpenAI声称GPT-5.6 Sol在ARC-AGI-3上凭借最新API及两项额外设置击败Opus 5",
-"s": "OpenAI对Anthropic在ARC-AGI-3上的纪录做出回应：GPT-5.6 Sol得分38.3%，但仅在使用其自有API功能而非官方测试设置时达成——在该设置下模型得分仅为7.8%。ARC Prize声称其测试环境是供应商中立的，但可能使用了过时的API，导致与Opus 5的比较出现偏差。本文《OpenAI声称GPT-5.6 Sol在ARC-AGI-3上凭借最新API及两项额外设置击败Opus 5》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81436": {
-"t": "Token Saver 登场：一款利用本地混合 RAG 将 Claude PDF 令牌成本削减 90-99% 的开源 MCP 扩展",
-"s": "Marktechpost AI 发布了 Token Saver，这是一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 技术将 PDF 令牌消耗最高降低 99%，同时确保文档的绝对隐私。本文《Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81432": {
-"t": "Moonshot AI 开源 MoonEP：一款完美平衡的 MoE 训练专家并行库",
-"s": "Moonshot AI 已开源 MoonEP，这是一个面向分布式混合专家（MoE）工作负载的专家并行（EP）通信库。团队宣布该库旨在提升大规模专家并行通信的效率，并以 MIT 许可证发布。MoonEP 作为 Kimi K3 开放日的一部分亮相，同时发布的还有 K3 模型权重及技术细节。该文章最初发表于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=38367": {
-"t": "微软AI押注廉价专业模型，而非追逐前沿",
-"s": "微软AI首席执行官穆斯塔法·苏莱曼表示，微软AI正押注于小型专业模型，而非昂贵的通用模型。MAI-Cyber-1-Flash在嵌入编排器后，在CyberGym基准测试中名列前茅，据报道其成本仅为Anthropic的Mythos的一半，但在处理困难任务时仍依赖OpenAI。竞争正从单个模型转向负责路由和管理这些模型的编排软件。本文《微软AI押注廉价专业模型，而非追逐前沿》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3148116": {
-"t": "Dili 融资2170万美元，为基础设施热潮带来AI合规解决方案",
-"s": "本轮A轮融资由Khosla Ventures领投，Allianz、Rebel Fund、Brick and Mortar Ventures的Darren Bechtel以及Y Combinator的Garry Tan参与投资。"
-},
-"01KYQNRTVJ54SHCVBMMXFYGJ5P": {
-"t": "大规模内部测试：将cdnjs迁移至Cloudflare开发者平台",
-"s": "我们将每日处理90亿次请求的cdnjs完全迁移至Cloudflare开发者平台。这意味着我们正利用自身构建模块运行互联网最繁忙的开源CDN之一，并为此提升了Workflows和Workers对所有用户的限制上限。"
-},
-"https://the-decoder.com/?p=38373": {
-"t": "FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁",
-"s": "FCC正在阻止进口新型中国仿人机器人和机器狗。但该规则的宽泛定义也涵盖了扫地机器人、割草机器人和配送机器人。本文《FCC禁止新型中国机器人和电源逆变器，以保护美国AI建设免受外国威胁》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3148308": {
-"t": "Okta 收购 AI 安全初创公司 Permiso；消息人士称交易金额约 2 亿美元",
-"s": "该交易使 Okta 获得身份威胁检测能力，以满足企业在云环境中保护 AI 代理及其他非人类身份的需求。"
-},
 "https://techcrunch.com/?p=3148216": {
 "t": "Meta称AI让构建新应用变得更容易——更多应用即将推出",
 "s": "Meta表示，人工智能正显著简化新消费应用的构建与发布流程。首席执行官马克·扎克伯格向投资者透露，在近期为Facebook群组、Marketplace卖家、Instagram及游戏领域推出一系列新功能后，公司还有更多消费级产品即将面世。"
@@ -4798,5 +4762,41 @@
 "https://the-decoder.com/?p=40241": {
 "t": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
 "s": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House and Trump himself are opposing the move. The article Not everyone is convinced that Big AI's proposed development slowdown is really about safety appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3162590": {
+"t": "The AI graveyard: a running list of projects and startups that didn’t make it",
+"s": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations."
+},
+"https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/": {
+"t": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+"s": "Robots can start working outside physical cages and without safety barriers."
+},
+"https://techcrunch.com/?p=3164442": {
+"t": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+"s": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
+},
+"https://the-decoder.com/?p=40265": {
+"t": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+"s": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex. The article Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40252": {
+"t": "AI labs have a data trust problem that their policies haven't solved",
+"s": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem. The article AI labs have a data trust problem that their policies haven't solved appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3164419": {
+"t": "AI agents now have a place to snitch",
+"s": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
+},
+"https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": {
+"t": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+"s": ""
+},
+"https://techcrunch.com/?p=3164295": {
+"t": "Meta expands subscription push with new AI-focused plans",
+"s": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
+},
+"https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
+"t": "Your Agent Aced the Task. Will It Do It Again?",
+"s": ""
 }
 }
