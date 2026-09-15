@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?p=3148216": {
-"t": "Meta称AI让构建新应用变得更容易——更多应用即将推出",
-"s": "Meta表示，人工智能正显著简化新消费应用的构建与发布流程。首席执行官马克·扎克伯格向投资者透露，在近期为Facebook群组、Marketplace卖家、Instagram及游戏领域推出一系列新功能后，公司还有更多消费级产品即将面世。"
-},
-"https://techcrunch.com/?p=3148209": {
-"t": "Nscale收购Anyscale，旨在进一步掌控AI计算栈",
-"s": "英国AI新云服务商Nscale正在收购软件初创公司Anyscale，后者帮助企业跨数据中心和服务器扩展其AI工作负载。"
-},
 "https://huggingface.co/blog/Dharma-AI/gpu-management": {
 "t": "GPU管理：闲置GPU为何成为新型“停飞飞机”",
 "s": ""
@@ -4798,5 +4790,13 @@
 "https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
 "t": "Your Agent Aced the Task. Will It Do It Again?",
 "s": ""
+},
+"https://techcrunch.com/?p=3164506": {
+"t": "The AI data center boom is colliding with cities scarred by big industry",
+"s": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+},
+"https://techcrunch.com/?p=3164453": {
+"t": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+"s": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
 }
 }
