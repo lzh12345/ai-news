@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 16 Sep 2026 19:14:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 22:30:57 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Apple reportedly building server packed with M-series Ultra chips for AI</title>
+<link>https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/</guid>
+<pubDate>Wed, 16 Sep 2026 22:02:46 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Planned 2029 debut could make this Apple’s first enterprise server in decades.<br/><br/><a href="https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?</title>
+<link>https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3165076</guid>
+<pubDate>Wed, 16 Sep 2026 21:07:24 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.<br/><br/><a href="https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera</title>
+<link>https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3164997</guid>
+<pubDate>Wed, 16 Sep 2026 20:12:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Can Meta dodge the "pervert glasses" accusations with a new camera-free product?<br/><br/><a href="https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts</title>
+<link>https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/</link>
+<guid isPermaLink="false">01M2KNF1C55YJDSSWYFA6ES3B6</guid>
+<pubDate>Wed, 16 Sep 2026 20:06:17 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.<br/><br/><a href="https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>EU president warns AI agents &quot;escaping their environment&quot; are just a preview of what's coming</title>
 <link>https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/</link>
@@ -38,6 +70,14 @@
 <pubDate>Wed, 16 Sep 2026 17:00:28 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the institute tackles questions around safety, governance, and control risks, drawing on experts from the arts, humanities, and policy alongside technologists. The article Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Our framework for reporting model misalignment</title>
+<link>https://openai.com/index/model-misalignment-reporting-framework</link>
+<guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework</guid>
+<pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.<br/><br/><a href="https://openai.com/index/model-misalignment-reporting-framework">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Your AI agents can now control your Google Home devices</title>
@@ -200,6 +240,30 @@
 <description><![CDATA[【machinelearning.apple.com】Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns that made previous sessions productive. Naively persisting entire conversation histories is both token-inefficient and counterproductive—irrelevant context degrades generation quality. We introduce shared selective persistent memory, a memory architecture for agentic systems that identifies and retains four categories of reusable context—task specifications, data…<br/><br/><a href="https://machinelearning.apple.com/research/shared-selective-persistent-memory">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs</title>
+<link>https://machinelearning.apple.com/research/glyph-column-description-tagging</link>
+<guid isPermaLink="false">glyph-column-description-tagging</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Enterprise data lakes accumulate tables faster than human stewards can document or classify them, leaving columns with missing descriptions and unassigned governance labels. This documentation debt undermines data discovery, access control, and regulatory compliance. We present Glyph, a production system that frames two coupled problems, column description generation and column type annotation for data classification, as cooperating LLM agents orchestrated as stateful graphs. The Descriptor grounds generation in the pipeline source code that produces each column, retrieved on demand from an…<br/><br/><a href="https://machinelearning.apple.com/research/glyph-column-description-tagging">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models</title>
+<link>https://machinelearning.apple.com/research/denoising-aware-credit-assignment</link>
+<guid isPermaLink="false">denoising-aware-credit-assignment</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Diffusion large language models are a compelling alternative to autoregressive models, yet existing RL methods for diffusion treat all denoising steps as equally important and rely on biased, high-variance likelihood estimates. We identify two fundamental weaknesses: the absence of temporal credit assignment across the denoising trajectory, and the systematic bias of mean-field likelihood estimates used for policy optimization. To address these, we propose Denoising-Aware Credit Assignment for GRPO (DACA-GRPO), a lightweight, plug-and-play enhancement for any GRPO-style trainer. DACA-GRPO…<br/><br/><a href="https://machinelearning.apple.com/research/denoising-aware-credit-assignment">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation</title>
+<link>https://machinelearning.apple.com/research/trajectory-teacher-flow-matching</link>
+<guid isPermaLink="false">trajectory-teacher-flow-matching</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Discrete flow matching generates text by iteratively transforming noise tokens into coherent language, but may require hundreds of forward passes. Distillation uses the multi-step trajectory to train a student to reproduce the process in a few steps. When the student underperforms, the usual explanation is insufficient capacity. We argue the opposite: the trajectory is the bottleneck, not the student. Each training trajectory is built through a chain of blind stochastic jumps with no evaluation of sequence quality; a single bad decision at an early midpoint propagates through subsequent steps…<br/><br/><a href="https://machinelearning.apple.com/research/trajectory-teacher-flow-matching">阅读原文</a>]]></description>
+</item>
+<item>
 <title>The AI data center boom is colliding with cities scarred by big industry</title>
 <link>https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3164506</guid>
@@ -294,22 +358,6 @@
 <pubDate>Tue, 15 Sep 2026 15:47:03 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.<br/><br/><a href="https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round</title>
-<link>https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3164139</guid>
-<pubDate>Tue, 15 Sep 2026 15:22:48 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.<br/><br/><a href="https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Former TikTok execs built an app that uses AI to teach you how to pose for a photo</title>
-<link>https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3163539</guid>
-<pubDate>Tue, 15 Sep 2026 14:42:37 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.<br/><br/><a href="https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Have it both ways: stay discoverable in search while disallowing AI training</title>
@@ -438,54 +486,6 @@
 <pubDate>Fri, 11 Sep 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send webhooks without manual intervention.<br/><br/><a href="https://blog.cloudflare.com/casb-policies/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
-<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
-<guid isPermaLink="false">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
-<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.<br/><br/><a href="https://openai.com/index/scaling-storage-one-billion-users-part-one">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation</title>
-<link>https://machinelearning.apple.com/research/discosign-gloss-translation</link>
-<guid isPermaLink="false">discosign-gloss-translation</guid>
-<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a computational approach for discourse-aware text to sign language gloss translation grounded in linguistic research. We address three key phenomena within our modular Large Language Model (LLM)-based translation framework: (i) spatial coreference resolution, where entities maintain consistent spatial locations throughout discourse; (ii) Question-Answer Clauses (QACs), pseudocleft structures serving…<br/><br/><a href="https://machinelearning.apple.com/research/discosign-gloss-translation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering</title>
-<link>https://machinelearning.apple.com/research/video-caption-quality</link>
-<guid isPermaLink="false">video-caption-quality</guid>
-<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Evaluating video captioning remains a critical challenge for Visual Large Language Models (VLLMs). Existing metrics primarily rely on matching generated text against ground-truth references. This paradigm suffers from the “one-to-many” nature of video description, where high-quality captions are often penalized for lexical mismatches or valid shifts in visual focus. Furthermore, such assessments are typically one-dimensional, failing to provide a fine-grained analysis of caption quality. To address this, we redefine caption quality via information fidelity: A caption must maximize the coverage…<br/><br/><a href="https://machinelearning.apple.com/research/video-caption-quality">阅读原文</a>]]></description>
-</item>
-<item>
-<title>SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign</title>
-<link>https://machinelearning.apple.com/research/simpledesign-protein-codesign</link>
-<guid isPermaLink="false">simpledesign-protein-codesign</guid>
-<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Proteins are fundamental to biological processes, with their function determined by the complex interplay between the amino acid sequence and the three-dimensional structure. Developing generative models capable of understanding this intrinsically multi-modal relationship is crucial for fields like drug discovery and protein engineering. Existing models often rely on a multi-stage training process where autoencoders that tokenize data into latent representations are trained in a first stage. Secondly, a generative model is trained on the latent representation of the autoencoder(s), i.e…<br/><br/><a href="https://machinelearning.apple.com/research/simpledesign-protein-codesign">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GitHub Copilot app for Beginners: Using the diff, terminal, and browser</title>
-<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/</link>
-<guid isPermaLink="false">https://github.blog/?p=98771</guid>
-<pubDate>Thu, 10 Sep 2026 21:31:19 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Panic builds over bankrupt Spirit’s looming data sale to Google</title>
-<link>https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/</guid>
-<pubDate>Thu, 10 Sep 2026 18:14:14 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】"Bankruptcy cannot become the new land grab for AI.”<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
