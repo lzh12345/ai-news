@@ -1,60 +1,4 @@
 {
-"https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/": {
-"t": "Gemini Robotics ER 2：以视频理解、任务编排与多机器人协作赋能机器人技术",
-"s": "Gemini Robotics ER 2 助力机器人进行推理、协作并解决现实世界中的任务。它在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶跃式变革。"
-},
-"https://techcrunch.com/?p=3147978": {
-"t": "前部署工程师成为AI行业最新的人才争夺焦点",
-"s": "一项新研究估计，美国仅有约2000名工程师具备实现有意义AI投资回报的专业知识，而企业正竞相招聘前部署工程师，以大规模实施AI。"
-},
-"https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/": {
-"t": "新MCP规范解决了企业采用的主要障碍",
-"s": "此外，AI协议的新政策确保功能不会突然被移除。"
-},
-"https://techcrunch.com/?p=3148205": {
-"t": "在Hugging Face入侵事件中，OpenAI的黑客行动喧嚣且迅速——但并非不可阻挡",
-"s": "网络安全专家向TechCrunch表示，从OpenAI对Hugging Face的黑客攻击中汲取的最大教训与人工智能无关，而是传统的网络安全防御。"
-},
-"https://the-decoder.com/?p=38380": {
-"t": "语言模型无法引发科学革命，但世界模型或许可以",
-"s": "语言模型能引发科学革命吗？在一篇题为“LLMs can't jump”的立场论文中，谷歌DeepMind的Tom Zahavy认为它们不能。它们缺少创造真正新事物所需的认知机制。文章《语言模型无法引发科学革命，但世界模型或许可以》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3147661": {
-"t": "TechCrunch Disrupt 2026 主舞台汇聚亚马逊、Replit、Tether 等企业领袖，更多精彩即将揭晓",
-"s": "Disrupt 舞台是科技界诸多重大对话的发生地，其传统可追溯至十多年前。"
-},
-"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
-"t": "以GPT-5.6推进性价比前沿",
-"s": "探索Luna和Terra更低的GPT-5.6定价——以及OpenAI更高效的模型如何帮助企业大规模部署AI工作流。"
-},
-"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": {
-"t": "Gemini Robotics 2 为机器人带来全身智能",
-"s": ""
-},
-"https://techcrunch.com/?p=3148510": {
-"t": "法官称特朗普政府仍缺乏证据支持将Anthropic列为“供应链风险”",
-"s": "一名联邦法官表示，特朗普政府尚未提供足够证据来证明将Anthropic列为供应链风险的合理性，这对其禁止该公司AI技术的政府禁令提出了质疑。"
-},
-"https://techcrunch.com/?p=3148423": {
-"t": "孤独的AI可穿戴设备Friend携新语音回归，价格大幅上涨",
-"s": "AI可穿戴设备Friend现在能与用户对话——但价格也随之提升。"
-},
-"https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/": {
-"t": "Chrome 或将实现无需重启的更快更新",
-"s": "最近两个版本的 Chrome 所包含的补丁数量，超过了此前 23 个版本的总和。"
-},
-"https://techcrunch.com/?p=3148357": {
-"t": "谷歌称6月修复的Chrome漏洞数量超过过去两年总和，AI功不可没",
-"s": "正如专家过去两年所警告的那样，一些公司——如微软以及现在的谷歌——正借助大语言模型和AI工具，在其产品中发现并修复数量呈指数级增长的漏洞。"
-},
-"https://the-decoder.com/?p=38398": {
-"t": "OpenAI全面进入中国定价模式，将其最实惠的GPT-5.6模型降价80%",
-"s": "自7月30日起，OpenAI将GPT-5.6 Luna的价格下调80%，Terra下调20%。OpenAI表示，其顶级Sol模型帮助公司自身基础设施更高效，从而实现了降价。来自廉价中国供应商和微软自有MAI模型的价格压力可能也起到了一定作用。本文《OpenAI全面进入中国定价模式，将其最实惠的GPT-5.6模型降价80%》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38392": {
-"t": "前OpenAI研究员预测千亿美元将涌入训练数据领域，因为仅靠规模扩展行不通",
-"s": "前OpenAI员工Andrew Ho与剑桥研究员Adam Hunt发现大语言模型正面临日益严重的问题。模型并未变得更加全能，反而趋于专业化——在编程和数学领域表现优异，但在其他领域停滞甚至退步。Ho离开OpenAI创立了一家专注专业训练数据的公司，并预测AI实验室需在定向数据采集上投入超1000亿美元。本文《前OpenAI研究员预测千亿美元将涌入训练数据领域，因为仅靠规模扩展行不通》首发于The Decoder。"
-},
 "https://techcrunch.com/?p=3148364": {
 "t": "LinkedIn 新增按钮，可举报AI生成的“垃圾内容”",
 "s": "LinkedIn 正在推出新措施以减少低质量的AI生成帖子，包括新增一个“看起来像AI垃圾内容”的举报选项。同时，它还将用自己的AI写作功能替换为校对工具。"
@@ -4798,5 +4742,61 @@
 "https://techcrunch.com/?p=3164495": {
 "t": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
 "s": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+},
+"https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
+"t": "Helping older adults use AI in everyday life",
+"s": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+},
+"https://the-decoder.com/?p=40276": {
+"t": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+"s": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach doesn't protect against mistakes, though. The system only guarantees that it will stick strictly to the preset options. The article Former OpenAI researcher builds an AI model that judges options instead of writing text appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40277": {
+"t": "Mozilla's new Smart Window assistant runs on Mistral's models",
+"s": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla's new Smart Window assistant runs on Mistral's models appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3164631": {
+"t": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+"s": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass."
+},
+"https://the-decoder.com/?p=40280": {
+"t": "Political opposites unite in Washington to rein in AI",
+"s": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data centers, while OpenAI is backing the FRONTIER Act and its mandatory outside safety audits for the first time. Despite Trump's skepticism, bipartisan pressure for binding AI rules keeps growing. The article Political opposites unite in Washington to rein in AI appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3164799": {
+"t": "Threads’ new features let podcasters promote shows and reach listeners",
+"s": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion."
+},
+"https://techcrunch.com/?p=3164598": {
+"t": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+"s": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition."
+},
+"https://techcrunch.com/?p=3164491": {
+"t": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+"s": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+},
+"https://techcrunch.com/?p=3164755": {
+"t": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+"s": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
+},
+"https://openai.com/index/reimagining-advertising-with-ai": {
+"t": "Reimagining advertising with AI",
+"s": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+},
+"https://techcrunch.com/?p=3152543": {
+"t": "Former Infosys chief’s AI startup nabs another $53M",
+"s": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch."
+},
+"https://techcrunch.com/?p=3164327": {
+"t": "Amazon launches Alexa+ in India with Hindi support",
+"s": "Amazon is letting all customers use Alexa+ assistant in early access period."
+},
+"https://the-decoder.com/?p=40269": {
+"t": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
+"s": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking time bomb,\" and a former Deepmind researcher says AI could kill us all. In a survey of more than 1,500 leading AI researchers, the average estimated probability of an extinction scenario was 18 percent. That was in 2024. The number keeps climbing. The article Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024 appeared first on The Decoder."
+},
+"shared-selective-persistent-memory": {
+"t": "Shared Selective Persistent Memory for Agentic LLM Systems",
+"s": "Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns that made previous sessions productive. Naively persisting entire conversation histories is both token-inefficient and counterproductive—irrelevant context degrades generation quality. We introduce shared selective persistent memory, a memory architecture for agentic systems that identifies and retains four categories of reusable context—task specifications, data…"
 }
 }
