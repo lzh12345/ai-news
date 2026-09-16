@@ -1,40 +1,4 @@
 {
-"https://techcrunch.com/?p=3148364": {
-"t": "LinkedIn 新增按钮，可举报AI生成的“垃圾内容”",
-"s": "LinkedIn 正在推出新措施以减少低质量的AI生成帖子，包括新增一个“看起来像AI垃圾内容”的举报选项。同时，它还将用自己的AI写作功能替换为校对工具。"
-},
-"https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/": {
-"t": "谷歌发布Gemini Robotics 2.0，承诺提升灵活性与安全性",
-"s": "Gemini Robotics 2包含三个模型，但目前仅有一个对外开放。"
-},
-"https://github.blog/?p=97813": {
-"t": "GitHub Copilot 应用中的堆叠会话与拉取请求",
-"s": "了解我如何通过 GitHub Copilot 应用中的堆叠会话与拉取请求，对旧代码库进行现代化改造。本文最初发布于 GitHub 博客。"
-},
-"https://www.marktechpost.com/?p=81447": {
-"t": "Google DeepMind 发布三款物理AI模型，用于全身控制、灵巧操作及多机器人协作",
-"s": "Google DeepMind 发布了 Gemini Robotics 2，这是其下一代机器人的智能层。此次发布包含三款模型：用于全身人形控制的视觉-语言-动作模型、用于具身推理和任务编排的 Gemini Robotics ER 2，以及一款可在数小时内适应新机器人本体的设备端 VLA。一个检查点驱动了 Apptronik Apollo 2 和 Franka Duo。仅 ER 2 公开可用。该文章最初发表于 MarkTechPost。"
-},
-"umap-knn-graph-sensemaking": {
-"t": "降维遇上网络科学：基于UMAP的kNN图进行数据理解",
-"s": "尽管UMAP被广泛用于探索高维数据，但典型的工作流程聚焦于其低维嵌入，很大程度上忽略了UMAP内部构建的丰富k近邻（kNN）图。该图在原始高维空间中编码了数据流形，尚未受到UMAP二维投影引入的失真影响。我们展示了这一内部表示尚未开发的潜力，说明将标准图算法应用于该图如何增强数据理解：（1）PageRank识别代表性数据点，（2）k-core分解揭示密集区域。"
-},
-"https://techcrunch.com/?p=3148621": {
-"t": "Anthropic称其AI模型在安全测试中入侵了三家公司",
-"s": "在OpenAI的模型入侵Hugging Face之后，Anthropic检查了自己的历史记录，发现了三起类似事件。"
-},
-"https://techcrunch.com/?p=3148482": {
-"t": "AI对冲基金Situational Awareness或已清仓公开投资组合，但仍持有Anthropic股份",
-"s": "这位前OpenAI研究员的基金在杠杆公开押注暴跌后被迫平仓公开股票。但他手中仍有牌可打。"
-},
-"https://techcrunch.com/?p=3148540": {
-"t": "Reddit季度业绩稳健，但显现AI影响迹象",
-"s": "Reddit的财务状况看似良好，但与其与谷歌的关系及新兴AI化网络的不确定性，正引发市场担忧。"
-},
-"https://techcrunch.com/?p=3148562": {
-"t": "投资者热爱AI，前提是你是一家云服务商",
-"s": "亚马逊并未放缓数据中心支出——但投资者似乎并不介意。"
-},
 "momo-motion-mode-manipulation": {
 "t": "MoMo：通过时空动作标记化实现机器人操作中的动态运动模式",
 "s": "为了在不同情境中有效运作，机器人不仅需要精确执行操作任务，还需根据任务、物体及交互环境调整其动作展开方式。我们探究这种执行层面的变化能否作为跨任务共享的可复用行为因素进行学习。我们提出MoMo，一个两阶段模仿学习框架，包含时空动作标记器和一个行为克隆变换器，后者以任务和连续运动模式条件为输入。在六个真实机器人操作任务中，改变该条件可产生稳定的…"
@@ -4798,5 +4762,41 @@
 "shared-selective-persistent-memory": {
 "t": "Shared Selective Persistent Memory for Agentic LLM Systems",
 "s": "Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns that made previous sessions productive. Naively persisting entire conversation histories is both token-inefficient and counterproductive—irrelevant context degrades generation quality. We introduce shared selective persistent memory, a memory architecture for agentic systems that identifies and retains four categories of reusable context—task specifications, data…"
+},
+"https://the-decoder.com/?p=40295": {
+"t": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+"s": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks. The article EU president warns AI agents \"escaping their environment\" are just a preview of what's coming appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3164427": {
+"t": "AI labs want in-house auditors — but maybe they should shut the front door first",
+"s": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+},
+"https://the-decoder.com/?p=40292": {
+"t": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
+"s": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029. Apple is considering Nvidia's NVLink Fusion technology to connect the chips. The project could get a boost from OpenAI and Anthropic already buying Mac hardware in bulk for AI workloads. The article Apple is reportedly building an enterprise AI server with its own M8 Ultra chips appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40289": {
+"t": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
+"s": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the institute tackles questions around safety, governance, and control risks, drawing on experts from the arts, humanities, and policy alongside technologists. The article Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3164815": {
+"t": "Your AI agents can now control your Google Home devices",
+"s": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language."
+},
+"https://the-decoder.com/?p=40286": {
+"t": "Anthropic merges Claude Chat, Cowork, and more into a single product",
+"s": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow. The update also adds Claude Docs and Claude Slides for creating documents and presentations directly in the chat. Pro and Max users get access first. The article Anthropic merges Claude Chat, Cowork, and more into a single product appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3164745": {
+"t": "Anthropic merges Claude chat and Cowork in one interface",
+"s": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+},
+"https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
+"t": "How to connect AI usage to business value",
+"s": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+},
+"https://openai.com/index/unlocking-new-ways-of-working": {
+"t": "How workers are unlocking new ways of working",
+"s": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
 }
 }
