@@ -1,8 +1,4 @@
 {
-"https://huggingface.co/blog/Dharma-AI/gpu-management": {
-"t": "GPU管理：闲置GPU为何成为新型“停飞飞机”",
-"s": ""
-},
 "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/": {
 "t": "Gemini Robotics ER 2：以视频理解、任务编排与多机器人协作赋能机器人技术",
 "s": "Gemini Robotics ER 2 助力机器人进行推理、协作并解决现实世界中的任务。它在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶跃式变革。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3164453": {
 "t": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
 "s": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+},
+"https://techcrunch.com/?p=3164495": {
+"t": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+"s": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
 }
 }
