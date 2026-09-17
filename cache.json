@@ -1,44 +1,4 @@
 {
-"https://github.blog/?p=97648": {
-"t": "不要提前停止：以内存速度对源代码进行大小写折叠",
-"s": "通过无分支循环和字节空间算术，GitHub 在单核上以超过45 GiB/s的速度对代码搜索中的每个字节进行大小写折叠。这篇“不要提前停止：以内存速度对源代码进行大小写折叠”的文章最初出现在GitHub博客上。"
-},
-"https://the-decoder.com/?p=38417": {
-"t": "欧盟为AI超级工厂汇集高达300亿欧元，而美国科技巨头轻松支出其20倍",
-"s": "欧盟委员会计划在欧洲各地建设多达七座AI超级工厂，获得约300亿欧元的公共和私人资金支持。相比之下，仅美国主要科技公司今年就计划在计算基础设施上投入超过6000亿美元。文章《欧盟为AI超级工厂汇集高达300亿欧元，而美国科技巨头轻松支出其20倍》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3148699": {
-"t": "SpaceX 不会在一年内移除 xAI 所有未经许可的涡轮机",
-"s": "SpaceX 正在为 xAI 的 Colossus 数据中心建造新的发电厂，但不会在数月内移除现有的未经许可的涡轮机。"
-},
-"https://openai.com/index/building-abundant-intelligence": {
-"t": "构建丰裕智能",
-"s": "一种全栈方法，旨在使先进AI更强大、更经济、更广泛实用。"
-},
-"https://techcrunch.com/?p=3148682": {
-"t": "Smallest.ai 筹集1300万美元，打造听起来真正像人类的超快语音AI",
-"s": "这家初创公司正在构建旨在让AI电话通话通过图灵测试的语音模型。"
-},
-"https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/": {
-"t": "AI骗子在建立信任方面胜过人类",
-"s": "AI聊天机器人在创造“可利用的信任”方面比人类更有效。"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3148831": {
-"t": "AI实验室欲踩刹车，亚马逊与SpaceX却仍在加速升空",
-"s": "在多年全力推进AI发展后，OpenAI首席执行官萨姆·奥尔特曼表示，或许AI行业是时候“放慢节奏”了。此番言论发表前几天，OpenAI自家的一款模型突破了测试环境，并卷入Hugging Face的一起安全漏洞事件——不过正如Equity的主持人所指出的，安全措施松懈似乎是……"
-},
-"https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/": {
-"t": "Claude向互联网发布恶意代码并攻击了3家真实公司",
-"s": "如果这些黑客采用常规手段，很可能有人会因此入狱。"
-},
-"https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/": {
-"t": "谷歌因撤回可生成虚假卫星图像的AI工具而面临风险",
-"s": "“谷歌到底在做什么？”虚假信息担忧促使撤回AI工具。"
-},
-"https://techcrunch.com/?p=3148844": {
-"t": "谷歌在推出地球AI功能一天后即予取消，因遭批评恐传播不实信息",
-"s": "一项允许任何人生成虚假AI图像并将其叠加在真实谷歌地球地图上的工具迅速引发争议。"
-},
 "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/": {
 "t": "你会为了在一家每周工作7天的AI初创公司面试而纹身吗？",
 "s": "LemonLime的首席执行官因纹身噱头而“忘乎所以”。"
@@ -4798,5 +4758,45 @@
 "https://techcrunch.com/?p=3165213": {
 "t": "Snap tries to make the case again for its $2,200 smart glasses",
 "s": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
+},
+"https://the-decoder.com/?p=40320": {
+"t": "GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap",
+"s": "OpenAI's GPT-6 Astra shows a sharp jump in video games. Pokemon FireRed in 18 hours instead of 96, plus completions in Factorio, Fallout 3, and Portal. Why? The model distills experience into compact rules. But that same trait led to hours of potato farming instead of progress in Minecraft after a Creeper explosion. The article GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3165448": {
+"t": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+"s": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S."
+},
+"https://techcrunch.com/?p=3165205": {
+"t": "2 days left to exhibit at TechCrunch Disrupt 2026",
+"s": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+},
+"https://techcrunch.com/?p=3165381": {
+"t": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+"s": "People can use these assistants to make restaurant reservations and cancel subscriptions."
+},
+"https://techcrunch.com/?p=3165426": {
+"t": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+"s": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
+},
+"https://the-decoder.com/?p=40322": {
+"t": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
+"s": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt injections into its own summaries during training, including a \"Breach Alert\" intended to override subsequent instructions. The article An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40313": {
+"t": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer",
+"s": "OpenAI Codex developer Eric Provencher warns that running more than two parallel sub-agents almost always burns tokens without improving quality because agents don't trust each other and end up double-checking everyone's work. He calls this the \"coordination tax\" and points to a project where 1,393 agents spent $20,000 in tokens on a single Python refactoring that one Astra agent could have handled for a fraction of the cost. The article AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40304": {
+"t": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
+"s": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens. The number looks impressive, but it says less about actual AI usage than about token-hungry reasoning models and a growing number of unoptimized AI agents that burn through tokens at staggering rates. The article OpenRouter's staggering token chart is the AI bubble debate in a single image appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40299": {
+"t": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
+"s": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a soldier asking about his march route. The solution still needs independent review. The article OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years appeared first on The Decoder."
+},
+"reversal-bench-rl-cliff": {
+"t": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
+"s": "A central goal of autonomous reinforcement learning is continuous policy training without external resets. However, existing paradigms largely depend on underlying environmental reversibility, a property absent in real world manipulation, where events such as pushing objects off tables or spilling granular substances cannot be undone. We introduce REVERSAL-BENCH, a benchmark that controls reversibility via a continuous parameter ρ∈ [0, 1] and provides a reset oracle, a ground-truth verification mechanism to test state recoverability across eight manipulation settings in five physics engines…"
 }
 }
