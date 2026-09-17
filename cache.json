@@ -1,44 +1,4 @@
 {
-"https://techcrunch.com/?p=3148857": {
-"t": "印度开始为应用付费，而不仅仅是下载",
-"s": "印度应用市场在第二季度创下了3.45亿美元的纪录收入。"
-},
-"https://www.marktechpost.com/?p=81472": {
-"t": "DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力",
-"s": "DeepSeek于2026年7月31日在Hugging Face上发布了DeepSeek-V4-Flash-0731，并将官方V4-Flash API转入公开测试阶段。模型卡片明确指出，这是取代预览版的正式发布，架构和规模保持不变。性能提升源于重新训练，而非新设计。该检查点附带[...] 文章《DeepSeek升级DeepSeek-V4-Flash-0731，显著提升智能体与编码能力》首发于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81467": {
-"t": "LingBot-Map教程：GPU感知推理与点云导出",
-"s": "了解如何使用LingBot-Map实现流式3D重建流程。从GPU感知配置与预处理，到GCTStream模型推理与点云生成，本指南逐步引导您将图像或视频序列转换为一致的3D场景，并导出PLY和NPZ文件。该文章《LingBot-Map教程：GPU感知推理与点云导出》首发于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81464": {
-"t": "JetBrains 开源 KotlinLLM：智能宏在运行时生成 Kotlin 源代码并通过 JDI 热重载",
-"s": "JetBrains Research 已根据 Apache License 2.0 开源了 KotlinLLM。该 IntelliJ IDEA 插件原型添加了智能宏 asLlm 和 mockLlm，其主体是生成的 Kotlin 源代码，而非实时模型调用。插件通过 JDI 捕获运行时值，请求 LLM 代理进行窄范围代码更新，编译后重新定义已加载的类。覆盖的场景随后以纯 Kotlin 运行，无需进一步推理调用。在适配的 Spring Petclinic 项目中，24 个场景全部完成，热重载成功率达 100%，运行时开销约为 1%。文章《JetBrains 开源》"
-},
-"https://www.marktechpost.com/?p=81461": {
-"t": "Nous Research为Hermes Agent与Buzz推出三条集成路径,Buzz是Block开源Nostr工作区,供人类与智能体共用",
-"s": "Nous Research已发布Hermes Agent对Buzz的支持,Buzz是Block开源、可自托管的Nostr工作区,人类与AI智能体可在其中共享同一频道。三条集成路径涵盖桌面运行时、中继桥接,以及保留Hermes记忆、技能、审批和定时投递的原生网关平台。本文“Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents”最初发表于MarkTechPost。"
-},
-"https://the-decoder.com/?p=38432": {
-"t": "OpenAI发布“下一代重大模型”Astra，一举解决十道此前未解数学难题",
-"s": "OpenAI正在构建一个名为“Astra”的新模型系列，该系列将允许多个智能体协同工作数小时甚至数天，共同解决复杂问题。CEO萨姆·奥尔特曼已向华盛顿的政策制定者演示了Astra。OpenAI尚未决定将其作为GPT-6还是GPT-5的新变体发布。本文《OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38435": {
-"t": "谷歌向用户提供了制作虚假卫星图像的最简单工具，两天后便将其撤下",
-"s": "谷歌在Google Earth中推出Nano Banana 2图像模型仅两天后便将其撤下。用户展示了生成令人信服的虚假卫星图像有多么容易。只需一个简单的提示，就能在墨西哥边境的空地上填满一列难民。文章《谷歌向用户提供了制作虚假卫星图像的最简单工具，两天后便将其撤下》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81476": {
-"t": "MiniMax发布MiniMax H3：一款生成15秒2K原生立体声视频的全模态模型",
-"s": "MiniMax发布MiniMax H3，一款通用多模态生成模型。MiniMax H3并非附加功能的文本转视频模型。MiniMax将其描述为一种通用多模态生成模型，能够将文本、图像、视频和音频作为统一上下文读取，并返回带有原生立体声的视频。主要规格包括：2K输出，4至15秒，整数时长[…]该文章《MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio》最初出现在MarkTechPost上。"
-},
-"https://openai.com/index/ten-advances-in-mathematics": {
-"t": "数学与理论计算机科学的十项进展",
-"s": "OpenAI分享了在数学和理论计算机科学领域长期未解问题上的新成果，包括几何学、密码学和复杂性理论方面的进展。"
-},
-"https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/": {
-"t": "Reddit股价下跌，CEO质疑谷歌AI概览的价值",
-"s": "Reddit可能仍在考虑终止与谷歌的授权协议。"
-},
 "https://the-decoder.com/?p=38441": {
 "t": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
 "s": "慕尼黑一家法院裁定，AI音乐生成器Suno在训练和输出过程中均侵犯了版权。法院认定Suno的模型中可复现地存储了六首歌曲，并驳回了德国文本与数据挖掘例外条款及美国合理使用抗辩。该裁决尚未最终生效，多个关键问题仍悬而未决。文章《德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩》首发于The Decoder。"
@@ -4798,5 +4758,45 @@
 "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/": {
 "t": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
 "s": "Model maker commits to new framework for reporting misaligned models."
+},
+"https://techcrunch.com/?p=3165784": {
+"t": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+"s": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
+},
+"https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/": {
+"t": "Small AI models let drones autonomously identify and attack battlefield targets",
+"s": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
+},
+"https://techcrunch.com/?p=3165739": {
+"t": "The fix for rogue AI agents could be more AI",
+"s": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
+},
+"https://techcrunch.com/?p=3165707": {
+"t": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+"s": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
+},
+"https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/": {
+"t": "Google announces new experimental \"CC\" AI agent for families",
+"s": "Multiple family members can share data to help the agent make plans and complete tasks."
+},
+"https://techcrunch.com/?p=3165059": {
+"t": "Is the AI safety debate about safety or control?",
+"s": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
+},
+"https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/": {
+"t": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+"s": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
+},
+"https://techcrunch.com/?p=3164863": {
+"t": "UN turns to Google to make its global data ready for AI agents",
+"s": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
+},
+"https://techcrunch.com/?p=3165591": {
+"t": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+"s": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
+},
+"https://openai.com/index/astra-for-law": {
+"t": "Introducing Astra for Law",
+"s": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
 }
 }
