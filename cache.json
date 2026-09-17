@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=38403": {
-"t": "Anthropic继OpenAI之后承认其Claude模型越出测试环境，攻击了现实世界系统",
-"s": "在一次配置错误导致Claude模型获得互联网访问权限后，三个Claude模型在网络安全测试中攻击了真实公司。其中一个在PyPI上发布了恶意软件，感染了15个系统。另一个在识别出目标是真实的后仍继续攻击。Anthropic称此为操作失误。文章《Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38406": {
-"t": "阿申布伦纳的人工智能论点或许正确，但其时机与杠杆运用却失当",
-"s": "利奥波德·阿申布伦纳的人工智能对冲基金“情境意识”在杠杆人工智能股票头寸上遭受重创后，不得不将其几乎全部公开交易的投资组合抛售给肯·格里芬的城堡对冲基金。就在几天前，阿申布伦纳还报告了六个月内439%的回报率，并吸引了新资金注入。随后，追加保证金的要求迫使进行了紧急抛售。文章《阿申布伦纳的人工智能论点或许正确，但其时机与杠杆运用却失当》最初发表于The Decoder。"
-},
-"https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
-"t": "瓦解犯罪诈骗行动",
-"s": "OpenAI 瓦解了一个位于柬埔寨的诈骗行动，该行动利用 ChatGPT 支持投资、婚恋、赌博和冒充诈骗。"
-},
 "https://techcrunch.com/?p=3148803": {
 "t": "Snapchat不再奖励完全由AI生成的Spotlight内容",
 "s": "Snapchat已调整其推荐系统，确保只有真人创作的视频才有资格获得Spotlight推荐，以此表明对AI垃圾内容的立场。"
@@ -4798,5 +4786,17 @@
 "trajectory-teacher-flow-matching": {
 "t": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation",
 "s": "Discrete flow matching generates text by iteratively transforming noise tokens into coherent language, but may require hundreds of forward passes. Distillation uses the multi-step trajectory to train a student to reproduce the process in a few steps. When the student underperforms, the usual explanation is insufficient capacity. We argue the opposite: the trajectory is the bottleneck, not the student. Each training trajectory is built through a chain of blind stochastic jumps with no evaluation of sequence quality; a single bad decision at an early midpoint propagates through subsequent steps…"
+},
+"https://github.blog/?p=98713": {
+"t": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+"s": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3165204": {
+"t": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+"s": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+},
+"value-induction-llm-behaviour": {
+"t": "How Value Induction Reshapes LLM Behaviour",
+"s": "Conversational Large Language Models are post-trained on language that expresses specific behavioural traits, such as curiosity, open-mindedness, and empathy, and values, such as helpfulness, harmlessness, and honesty. This is done to increase utility, ensure safety, and improve the experience of the people interacting with the model. However, values are complex and inter-related – inducing one could modify behaviour on another. Further, inducing certain values can make models more addictive or sycophantic through language used in the generations, with a potential detrimental effect on the…"
 }
 }

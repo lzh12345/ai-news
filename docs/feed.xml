@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 16 Sep 2026 22:30:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 02:39:53 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Migrating the GitHub Copilot runtime to Rust, using Copilot</title>
+<link>https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/</link>
+<guid isPermaLink="false">https://github.blog/?p=98713</guid>
+<pubDate>Thu, 17 Sep 2026 00:26:43 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about</title>
+<link>https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3165204</guid>
+<pubDate>Wed, 16 Sep 2026 23:43:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.<br/><br/><a href="https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Apple reportedly building server packed with M-series Ultra chips for AI</title>
 <link>https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/</link>
@@ -264,6 +280,14 @@
 <description><![CDATA[【machinelearning.apple.com】Discrete flow matching generates text by iteratively transforming noise tokens into coherent language, but may require hundreds of forward passes. Distillation uses the multi-step trajectory to train a student to reproduce the process in a few steps. When the student underperforms, the usual explanation is insufficient capacity. We argue the opposite: the trajectory is the bottleneck, not the student. Each training trajectory is built through a chain of blind stochastic jumps with no evaluation of sequence quality; a single bad decision at an early midpoint propagates through subsequent steps…<br/><br/><a href="https://machinelearning.apple.com/research/trajectory-teacher-flow-matching">阅读原文</a>]]></description>
 </item>
 <item>
+<title>How Value Induction Reshapes LLM Behaviour</title>
+<link>https://machinelearning.apple.com/research/value-induction-llm-behaviour</link>
+<guid isPermaLink="false">value-induction-llm-behaviour</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Conversational Large Language Models are post-trained on language that expresses specific behavioural traits, such as curiosity, open-mindedness, and empathy, and values, such as helpfulness, harmlessness, and honesty. This is done to increase utility, ensure safety, and improve the experience of the people interacting with the model. However, values are complex and inter-related – inducing one could modify behaviour on another. Further, inducing certain values can make models more addictive or sycophantic through language used in the generations, with a potential detrimental effect on the…<br/><br/><a href="https://machinelearning.apple.com/research/value-induction-llm-behaviour">阅读原文</a>]]></description>
+</item>
+<item>
 <title>The AI data center boom is colliding with cities scarred by big industry</title>
 <link>https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3164506</guid>
@@ -350,14 +374,6 @@
 <pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/altk-evolve-consistency">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI, Anthropic, Google have been in talks on AI safety for weeks</title>
-<link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3164278</guid>
-<pubDate>Tue, 15 Sep 2026 15:47:03 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.<br/><br/><a href="https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Have it both ways: stay discoverable in search while disallowing AI training</title>
@@ -470,22 +486,6 @@
 <pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.<br/><br/><a href="https://openai.com/index/cognition-devin-testing-with-astra">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude users found ways around safeguards for bioweapons research</title>
-<link>https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/</guid>
-<pubDate>Fri, 11 Sep 2026 13:02:35 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Some dangerous biology looks much like legitimate research, complicating AI safeguards.<br/><br/><a href="https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing automatic remediation policies with Cloudflare CASB</title>
-<link>https://blog.cloudflare.com/casb-policies/</link>
-<guid isPermaLink="false">01M283KZX4CC68X1GXQMAR2KMN</guid>
-<pubDate>Fri, 11 Sep 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send webhooks without manual intervention.<br/><br/><a href="https://blog.cloudflare.com/casb-policies/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
