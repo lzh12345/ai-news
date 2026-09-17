@@ -5,8 +5,64 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 17 Sep 2026 15:57:07 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 19:30:14 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem</title>
+<link>https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40338</guid>
+<pubDate>Thu, 17 Sep 2026 19:05:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI is reportedly tackling the next Millennium Prize Problem. After its still unconfirmed solution to the Navier-Stokes problem, the company is now working on the Hodge conjecture. Employees expect a solution soon, but any announcement could be delayed. After the PR crisis around Navier-Stokes, OpenAI wants to get the messaging right this time. The article OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows</title>
+<link>https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40334</guid>
+<pubDate>Thu, 17 Sep 2026 18:35:01 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share a common memory. The beta is available to select Pro and Max subscribers. The article Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LLMs respond differently to harmful prompts when AI watermarking is used</title>
+<link>https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/</guid>
+<pubDate>Thu, 17 Sep 2026 18:33:13 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】SynthID can cause models to follow harmful instructions they would otherwise refuse.<br/><br/><a href="https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Even the king of England has his hesitations about AI</title>
+<link>https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3165543</guid>
+<pubDate>Thu, 17 Sep 2026 17:26:25 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.<br/><br/><a href="https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire</title>
+<link>https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3165579</guid>
+<pubDate>Thu, 17 Sep 2026 17:15:59 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.<br/><br/><a href="https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI</title>
+<link>https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3165515</guid>
+<pubDate>Thu, 17 Sep 2026 17:15:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.<br/><br/><a href="https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Covert uploads and megalomania: OpenAI details new &quot;misaligned&quot; agent incidents</title>
+<link>https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/</guid>
+<pubDate>Thu, 17 Sep 2026 16:18:34 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Model maker commits to new framework for reporting misaligned models.<br/><br/><a href="https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap</title>
 <link>https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/</link>
@@ -208,14 +264,6 @@
 <description><![CDATA[【techcrunch.com】Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.<br/><br/><a href="https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic merges Claude Chat, Cowork, and more into a single product</title>
-<link>https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40286</guid>
-<pubDate>Wed, 16 Sep 2026 16:31:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow. The update also adds Claude Docs and Claude Slides for creating documents and presentations directly in the chat. Pro and Max users get access first. The article Anthropic merges Claude Chat, Cowork, and more into a single product appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Anthropic merges Claude chat and Cowork in one interface</title>
 <link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3164745</guid>
@@ -230,14 +278,6 @@
 <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.<br/><br/><a href="https://openai.com/index/helping-older-adults-use-ai-in-everyday-life">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Former OpenAI researcher builds an AI model that judges options instead of writing text</title>
-<link>https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40276</guid>
-<pubDate>Wed, 16 Sep 2026 15:19:19 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, "Jev" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach doesn't protect against mistakes, though. The system only guarantees that it will stick strictly to the preset options. The article Former OpenAI researcher builds an AI model that judges options instead of writing text appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026</title>
@@ -272,14 +312,6 @@
 <description><![CDATA[【techcrunch.com】Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.<br/><br/><a href="https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>SK Hynix reportedly in talks with Intel to build memory chips in US</title>
-<link>https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3164755</guid>
-<pubDate>Wed, 16 Sep 2026 13:23:02 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.<br/><br/><a href="https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Reimagining advertising with AI</title>
 <link>https://openai.com/index/reimagining-advertising-with-ai</link>
 <guid isPermaLink="false">https://openai.com/index/reimagining-advertising-with-ai</guid>
@@ -288,28 +320,12 @@
 <description><![CDATA[【openai.com】Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.<br/><br/><a href="https://openai.com/index/reimagining-advertising-with-ai">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Former Infosys chief’s AI startup nabs another $53M</title>
-<link>https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3152543</guid>
-<pubDate>Wed, 16 Sep 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.<br/><br/><a href="https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>How to connect AI usage to business value</title>
 <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
 <guid isPermaLink="false">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
 <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.<br/><br/><a href="https://openai.com/index/how-to-connect-ai-usage-to-business-value">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Amazon launches Alexa+ in India with Hindi support</title>
-<link>https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3164327</guid>
-<pubDate>Wed, 16 Sep 2026 10:34:47 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Amazon is letting all customers use Alexa+ assistant in early access period.<br/><br/><a href="https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>How workers are unlocking new ways of working</title>
@@ -470,22 +486,6 @@
 <pubDate>Sat, 12 Sep 2026 11:00:53 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Unitree might be the world’s most important robotics company.<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses</title>
-<link>https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/</guid>
-<pubDate>Fri, 11 Sep 2026 19:34:09 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】"I didn't know that AI could hallucinate facts," New Mexico defense lawyer says.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
-<link>https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/</link>
-<guid isPermaLink="false">https://github.blog/?p=98799</guid>
-<pubDate>Fri, 11 Sep 2026 18:26:10 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

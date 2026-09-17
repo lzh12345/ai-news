@@ -1,32 +1,4 @@
 {
-"https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/": {
-"t": "你会为了在一家每周工作7天的AI初创公司面试而纹身吗？",
-"s": "LemonLime的首席执行官因纹身噱头而“忘乎所以”。"
-},
-"https://the-decoder.com/?p=38428": {
-"t": "谷歌DeepMind发布Gemini Robotics 2，为从桌面机械臂到人形机器人的各种形态机器人提供动力",
-"s": "谷歌DeepMind的Gemini Robotics 2是其迄今最先进的视觉-语言-动作模型，旨在控制从桌面机器人到全身人形机器人的各类设备。Gemini Robotics ER 2则为机器人任务增加了更高层次的推理层。本文《谷歌DeepMind发布Gemini Robotics 2，为从桌面机械臂到人形机器人的各种形态机器人提供动力》首发于The Decoder。"
-},
-"https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/": {
-"t": "高中为男生制作59名同学AI裸照保持沉默辩护",
-"s": "法律漏洞或使宾夕法尼亚州高中逃脱AI裸照丑闻责任。"
-},
-"https://the-decoder.com/?p=38423": {
-"t": "Thinking Machines发布第二款模型Inkling Small，押注效率而非规模",
-"s": "由前OpenAI首席技术官米拉·穆拉蒂创立的AI实验室Thinking Machines推出了Inkling Small。这款开放权重的推理模型体积不到Inkling的三分之一，但在多项编程和推理基准测试中表现更优。文章《Thinking Machines bets on efficiency over size with its second model, Inkling Small》首发于The Decoder。"
-},
-"https://techcrunch.com/?post_type=tc_video&p=3148833": {
-"t": "山姆·奥特曼并非唯一希望为AI发展踩刹车的人",
-"s": "在多年全力推进人工智能发展后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让AI行业“放慢脚步”了。就在他发表此番言论的几天前，OpenAI自家的一款模型突破了测试环境，并卷入了一起Hugging Face的安全漏洞事件——尽管正如《Equity》的主持人所指出的，粗心的安全措施似乎才是问题所在……"
-},
-"https://techcrunch.com/?p=3148949": {
-"t": "OpenAI据报道发现更多智能体行为失控的证据",
-"s": "OpenAI在调查与Hugging Face相关的事件时，据报道发现了更多智能体行为不当的证据。"
-},
-"https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/": {
-"t": "Reddit继续就谷歌搜索结果中的奇怪DMCA争议提起诉讼",
-"s": "Reddit推进诉讼，指控Perplexity AI与网络爬虫合谋。"
-},
 "https://techcrunch.com/?p=3148857": {
 "t": "印度开始为应用付费，而不仅仅是下载",
 "s": "印度应用市场在第二季度创下了3.45亿美元的纪录收入。"
@@ -4798,5 +4770,33 @@
 "reversal-bench-rl-cliff": {
 "t": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
 "s": "A central goal of autonomous reinforcement learning is continuous policy training without external resets. However, existing paradigms largely depend on underlying environmental reversibility, a property absent in real world manipulation, where events such as pushing objects off tables or spilling granular substances cannot be undone. We introduce REVERSAL-BENCH, a benchmark that controls reversibility via a continuous parameter ρ∈ [0, 1] and provides a reset oracle, a ground-truth verification mechanism to test state recoverability across eight manipulation settings in five physics engines…"
+},
+"https://the-decoder.com/?p=40338": {
+"t": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem",
+"s": "OpenAI is reportedly tackling the next Millennium Prize Problem. After its still unconfirmed solution to the Navier-Stokes problem, the company is now working on the Hodge conjecture. Employees expect a solution soon, but any announcement could be delayed. After the PR crisis around Navier-Stokes, OpenAI wants to get the messaging right this time. The article OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40334": {
+"t": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
+"s": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share a common memory. The beta is available to select Pro and Max subscribers. The article Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows appeared first on The Decoder."
+},
+"https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/": {
+"t": "LLMs respond differently to harmful prompts when AI watermarking is used",
+"s": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
+},
+"https://techcrunch.com/?p=3165543": {
+"t": "Even the king of England has his hesitations about AI",
+"s": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government."
+},
+"https://techcrunch.com/?p=3165579": {
+"t": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+"s": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
+},
+"https://techcrunch.com/?p=3165515": {
+"t": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+"s": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases."
+},
+"https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/": {
+"t": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+"s": "Model maker commits to new framework for reporting misaligned models."
 }
 }
