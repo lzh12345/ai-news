@@ -1,24 +1,4 @@
 {
-"https://the-decoder.com/?p=38545": {
-"t": "中国MiniMax H3成为首个登顶AI视频排名的开源模型",
-"s": "MiniMax发布H3视频模型权重，首次使开源模型登上视频排名榜首。文章《中国MiniMax H3成为首个登顶AI视频排名的开源模型》最初发表于The Decoder。"
-},
-"01KZ0Q4HGGZF4CDMZVFZRGTTCF": {
-"t": "你的智能体需要一台电脑，而非一个容器——介绍 @cloudflare/computer",
-"s": "智能体要扩展，需要的不仅仅是容器。我们推出了 @cloudflare/computer，这是一个智能体运行时，能在快速高效的隔离环境与完整的 Linux 容器之间动态编排，为每个智能体提供一台专属电脑。"
-},
-"01KZ21C4W4K7E7W8E61PNSYFQ1": {
-"t": "Cloudflare Workers与容器现已支持入站TCP连接和gRPC",
-"s": "Cloudflare Workers现通过Spectrum支持入站TCP连接，允许直接套接字转发至Durable Objects和容器。开发者可在Workers内运行全双工gRPC应用，或利用自动gRPC到gRPC-web的转换功能。"
-},
-"01KZ1X08HVW808ZTAF030PTT5X": {
-"t": "推出可计费用量API：为Cloudflare提供编程化成本可见性",
-"s": "Cloudflare已为账户推出新的可计费用量API，使开发者和FinOps团队能够通过单一端点编程化地查看所有自助服务产品的成本与用量。该API基于FOCUS规范构建，现在可以无缝地跟踪支出，与您的其他云服务栈保持一致。"
-},
-"01KZ1PQYERR7GDZ61F4H35QVT1": {
-"t": "更小、更快、更安全：大规模运行Kimi与GLM",
-"s": "服务像Kimi和GLM这样的前沿模型意味着要争夺GPU内存。以下是我们如何量化KV缓存、压缩模型权重，并添加完整性检查，以更快速、更经济、更安全地服务这些模型。"
-},
 "01KYT15YJPSYBNRFS8G400P5P5": {
 "t": "Workers RPC 现已支持跨 Python 和 JavaScript 运行",
 "s": "一个编码代理可以编写 Python Worker，另一个可以编写 JavaScript Worker。在运行时，这些 Worker 可以交换对活动对象的引用并调用其方法，而无需定义 API、模式或序列化代码。"
@@ -4798,5 +4778,25 @@
 "https://techcrunch.com/?p=3165970": {
 "t": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
 "s": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026."
+},
+"https://techcrunch.com/?p=3166479": {
+"t": "Anthropic’s first embedded evaluator is … Accenture?",
+"s": "Accenture is about to take on its most high-risk consulting engagement ever."
+},
+"https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/": {
+"t": "AI hallucination of Chinese nuclear components almost led to US military attack",
+"s": "But the military's overall use of AI seems to be accelerating."
+},
+"https://techcrunch.com/?p=3166196": {
+"t": "World model companies are keeping a lot of secrets",
+"s": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+},
+"https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/": {
+"t": "FAA tees up $875M AI tool to help manage air traffic congestion",
+"s": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
+},
+"https://techcrunch.com/?p=3165837": {
+"t": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+"s": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
 }
 }
