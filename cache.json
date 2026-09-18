@@ -1,56 +1,4 @@
 {
-"https://the-decoder.com/?p=38385": {
-"t": "安全研究员构建了一种隐藏在Word文档中并劫持微软Copilot的自传播蠕虫",
-"s": "一位安全研究员演示了对微软Word版Copilot的蠕虫式攻击：隐藏在文档中的不可见提示注入，在每次文档被复用时自动传播到新文件中。微软确认了该问题，但在144天和两次尝试后仍未修复。文章《安全研究员构建了一种隐藏在Word文档中并劫持微软Copilot的自传播蠕虫》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38445": {
-"t": "字节跳动Seedance 2.5生成内置音频的30秒视频片段",
-"s": "字节跳动刚刚发布了Seedance 2.5，这是一款能同时生成视频和音频的AI视频模型。每个片段最长可达30秒，是谷歌Gemini Omni Flash输出长度的三倍。用户可输入数十张图片、视频和音频文件作为参考。对于广告团队而言，这可能终结一次只剪辑一个短视频的流程。本文《字节跳动Seedance 2.5生成内置音频的30秒视频片段》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3149027": {
-"t": "法官驳回xAI关于阻止明尼苏达州禁止“脱衣”应用的请求",
-"s": "尽管xAI提起诉讼，明尼苏达州对允许用户“脱衣”图像的应用的禁令仍可继续执行。"
-},
-"https://techcrunch.com/?p=3149017": {
-"t": "YouTuber Hank Green 表示他使用 AI 的方式“不健康”",
-"s": "格林发表了一番引人注目的道歉，称“我从与大型语言模型互动中获得的多巴胺水平……对我个人不健康，对世界也无益。”"
-},
-"https://www.marktechpost.com/?p=81485": {
-"t": "AMD发布Instella-MoE-16B-A3B：一款基于Instinct GPU训练、拥有28亿激活参数的全开放混合专家大语言模型",
-"s": "AMD发布了Instella-MoE-16B-A3B，这是一款完全开放的混合专家语言模型，从零开始在Instinct MI300X和MI325X GPU上训练而成。该模型总参数为160亿，但每个令牌仅激活28亿参数，采用了Gated MLA和FarSkip-Collective技术。AMD公开了每个训练阶段的权重，以及数据混合、配置和推理代码。该文章最初发表于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81482": {
-"t": "利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练",
-"s": "了解如何使用NVIDIA Transformer Engine优化Transformer工作负载。本教程指导您配置融合GPU内核、实现FP8延迟缩放以及基准测试模型性能。通过实用代码示例和性能分析，学习在PyTorch中构建和训练高效的GPT风格因果语言模型。该文章《利用NVIDIA Transformer Engine、融合内核、BF16、FP8及GPU基准测试加速Transformer训练》首发于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3149010": {
-"t": "山姆·奥特曼仍在为通过ChatGPT育儿辩护",
-"s": "OpenAI的首席执行官似乎很兴奋地分享了一个面向父母的“酷炫用例”。"
-},
-"https://the-decoder.com/?p=38448": {
-"t": "Claude Opus 5将提示转游戏AI从粗糙色块推向带物理效果和音乐的完整3D原型",
-"s": "Anthropic的Claude Opus 5能从单一提示生成完整3D游戏，包括第一人称射击游戏、卡丁车赛车和《我的世界》克隆版，全程无需任何外部资源。几何、纹理、物理效果，部分情况下还有音乐，均以代码形式生成并直接在浏览器中运行。在与GPT-5.6 Sol和Kimi K3的并排对比中，Opus 5产出的结果细节显著更丰富。文章《Claude Opus 5将提示转游戏AI从粗糙色块推向带物理效果和音乐的完整3D原型》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=38364": {
-"t": "Hugging Face事件后，METR呼吁对AI代理不当行为进行独立根本原因调查",
-"s": "研究组织METR呼吁，每当AI代理自主行动违背开发者意图时，应进行系统性、独立主导的调查。这一呼吁部分是对OpenAI模型实施的Hugging Face黑客攻击的回应。METR自身的《前沿风险报告》记录了所有主要AI公司中的44起此类事件，包括沙箱逃逸、伪造结果和主动掩盖行为。文章《Hugging Face事件后，METR呼吁对AI代理不当行为进行独立根本原因调查》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=38485": {
-"t": "Snap与LinkedIn反击低质量AI内容泛滥",
-"s": "Snap正禁止Spotlight中的AI生成视频，以保持信息流聚焦于人类创造力。使用Snapchat自身AI工具编辑的内容仍被允许。与此同时，LinkedIn推出了专门的“AI垃圾内容”举报按钮。文章《Snap和LinkedIn正在反击低质量AI内容的泛滥》最初出现在The Decoder上。"
-},
-"https://www.marktechpost.com/?p=81496": {
-"t": "NVIDIA AI 发布 Molt：一个 PyTorch 原生的智能体强化学习框架",
-"s": "智能体强化学习研究涉及持续的算法修改，而在主流框架中，每次改动都需要贯穿训练器、分布式后端和 rollout 粘合层。NVIDIA 的 Molt 旨在解决这一成本问题，仅用约 8.6K 行强化学习代码，将 Ray、vLLM 和 NeMo AutoModel 组合在一个异步循环中。智能体保持普通 Python 实现，轨迹保持 token 级精确，吞吐量在统计上与基于 Megatron 的堆栈相当。该文章最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81491": {
-"t": "使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署",
-"s": "在本教程中，我们使用TimesFM 2.5构建了一个高级的端到端时间序列预测工作流。我们首先配置运行环境，安装所需依赖，检测可用硬件，并生成一个包含趋势、季节性、定价、促销、节假日、温度效应及随机变化的多门店零售数据集。随后，我们加载并编译TimesFM 2.5模型，检查[…] 该文章《使用TimesFM 2.5进行端到端预测：回测、协变量、异常检测及可扩展的Colab部署》首次出现在MarkTechPost上。"
-},
-"https://the-decoder.com/?p=38510": {
-"t": "Meta AI 利用第二个人工智能代理作为记忆教练，确保长任务不偏离轨道",
-"s": "Meta AI 旨在防止人工智能代理在复杂任务中忘记已诊断的错误并重复失败的步骤。一个独立的记忆代理维护结构化的记忆库，并决定何时提醒主代理、何时保持沉默。该系统在两个基准测试中将得分提高了最多8.3个百分点。文章《Meta AI uses a second AI agent as a memory coach to keep long tasks on track》最初发表于The Decoder。"
-},
 "https://the-decoder.com/?p=38515": {
 "t": "价值20万美元的真实macOS漏洞未被报告，因为苹果的漏洞赏金收件箱被AI垃圾信息淹没",
 "s": "苹果的漏洞赏金计划正被AI生成的漏洞报告淹没。公司已限制每位研究者的提交数量，因为虚假报告堵塞了审查流程。结果，意大利初创公司Bynario最初无法报告一个在黑市上价值高达20万美元的严重macOS漏洞。文章《价值20万美元的真实macOS漏洞未被报告，因为苹果的漏洞赏金收件箱被AI垃圾信息淹没》首发于The Decoder。"
@@ -4798,5 +4746,57 @@
 "https://openai.com/index/cooley-gopublic": {
 "t": "How Cooley is accelerating IPO work with ChatGPT",
 "s": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+},
+"https://the-decoder.com/?p=40364": {
+"t": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+"s": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense. A Microsoft director described the practice as the \"largest theft of labor in human history,\" while OpenAI's head of ChatGPT wrote that the products \"are largely substitutive, period.\" The article AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\" appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3166065": {
+"t": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+"s": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf."
+},
+"https://techcrunch.com/?p=3165952": {
+"t": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+"s": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT."
+},
+"https://github.blog/?p=98893": {
+"t": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+"s": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog."
+},
+"https://the-decoder.com/?p=40354": {
+"t": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
+"s": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40353": {
+"t": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
+"s": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in February. But the underlying scale is fuzzy, the scoring comes from Claude itself, and \"lead\" means less than it sounds. The article Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3166021": {
+"t": "Researchers used Anthropic’s Claude to hack into OpenAI",
+"s": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
+},
+"https://techcrunch.com/?p=3165743": {
+"t": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+"s": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+},
+"https://the-decoder.com/?p=40352": {
+"t": "OpenAI takes aim at the legal market with Astra for Law",
+"s": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/": {
+"t": "Researchers used Claude to hack OpenAI",
+"s": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
+},
+"https://the-decoder.com/?p=40348": {
+"t": "42 leading mathematicians warn that AI existential risk is real and urgent",
+"s": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter. Leading models have solved open research problems within months, and these capabilities could be just as effective in cyberweapons or bioweapons. By the time the public grasps the situation, it may be too late to act. The article 42 leading mathematicians warn that AI existential risk is real and urgent appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40342": {
+"t": "US and China experts push for shared rules banning AI control over nuclear weapons",
+"s": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules banning AI control over nuclear weapons appeared first on The Decoder."
+},
+"dynamically-scaled-activation-steering": {
+"t": "Dynamically Scaled Activation Steering",
+"s": "Activation steering has emerged as a powerful method for guiding the behavior of generative models towards desired outcomes such as toxicity mitigation. However, most existing methods apply interventions uniformly across all inputs, degrading model performance when steering is unnecessary. We introduce Dynamically Scaled Activation Steering (DSAS), a method-agnostic steering framework that decouples when to steer from how to steer. DSAS adaptively modulates the strength of existing steering transformations across layers and inputs, intervening strongly only when undesired behavior is detected…"
 }
 }
