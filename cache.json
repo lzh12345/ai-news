@@ -1,16 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/": {
-"t": "美国公司AI技术让乌克兰廉价自杀式无人机自主追踪目标",
-"s": "一项价值1亿美元的协议为5万架乌克兰无人机配备了美国研发的AI能力。"
-},
-"https://www.marktechpost.com/?p=81518": {
-"t": "如何在生产环境中保护AI代理、MCP服务器和LLM应用",
-"s": "AI代理、MCP服务器和LLM应用打破了应用安全（AppSec）的核心假设，即应用会按代码所述执行。本指南介绍了一个实用的“查看-修复-保护”框架：五层代理型AI攻击面地图、12点错误配置检查清单、基于证据的优先级分类矩阵、运行时防护栏以及系统提示加固——此外还包括一个与NIST AI RMF、OWASP AIMA、ISO/IEC 42001和欧盟AI法案对齐的成熟度自评估。该文章《如何在生产环境中保护AI代理、MCP服务器和LLM应用》最初出现在MarkTechPost上。"
-},
-"https://www.marktechpost.com/?p=81513": {
-"t": "阿里巴巴Qwen发布Qwen3.8-Max：2.4万亿参数MoE模型，Qwen系列迄今最强",
-"s": "阿里巴巴Qwen团队将Qwen3.8-Max从预览版转为正式发布，公布了按token计价的定价，并计划于下周开放权重。这款2.4万亿参数的MoE模型支持文本、图像和视频输入，上下文窗口达100万token。目前尚未发布基准测试表。原文《Alibaba Qwen Releases Qwen3.8-Max: A 2.4 Trillion Parameter MoE Model and the Most Capable One in the Qwen Family to Date》首发于MarkTechPost。"
-},
 "https://www.marktechpost.com/?p=81509": {
 "t": "Cogent AI团队发布VR-1：一款前沿网络推理模型，可组合并验证企业攻击路径",
 "s": "Cogent AI团队发布了Cogent VR-1，这是一款专门针对网络安全进行后训练的推理模型，而非将网络能力作为通用编码能力的副产品。该模型附带两个配套工具：IntrusionBench，一个用于评估智能体完成企业入侵任务的基准测试；以及Cogent AI Harness，一个用于安全智能体的受控运行时环境。此次发布[…] 文章《Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths》首次出现在MarkTechPost上。"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=40380": {
 "t": "Google's Gemini also accidentally hacked three real companies during security testing",
 "s": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test environment that had internet access left on accidentally. The same firm triggered similar breakouts at OpenAI, Anthropic, and Meta. The article Google's Gemini also accidentally hacked three real companies during security testing appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3166647": {
+"t": "Google’s Gemini is the latest AI model to hack other companies",
+"s": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+},
+"https://techcrunch.com/?p=3162545": {
+"t": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+"s": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
+},
+"https://techcrunch.com/?p=3166491": {
+"t": "Prices go up in 7 days. Get your Disrupt ticket now.",
+"s": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
 }
 }
