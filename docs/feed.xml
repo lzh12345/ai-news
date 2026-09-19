@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 19 Sep 2026 02:26:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:24:42 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report</title>
+<link>https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40376</guid>
+<pubDate>Sat, 19 Sep 2026 08:10:55 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. The incident plays right into the hands of AI risk advocates who worry less about overpowered AI and more about sloppy systems being used by uncritical or bad-faith operators. The article U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>India forces caller-ID apps to feed spam reports to telcos</title>
 <link>https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/</link>
@@ -248,6 +256,14 @@
 <description><![CDATA[【arstechnica.com】Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.<br/><br/><a href="https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Introducing the Australian Youth Safety Blueprint</title>
+<link>https://openai.com/index/australian-youth-safety-blueprint</link>
+<guid isPermaLink="false">https://openai.com/index/australian-youth-safety-blueprint</guid>
+<pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.<br/><br/><a href="https://openai.com/index/australian-youth-safety-blueprint">阅读原文</a>]]></description>
+</item>
+<item>
 <title>42 leading mathematicians warn that AI existential risk is real and urgent</title>
 <link>https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=40348</guid>
@@ -318,14 +334,6 @@
 <pubDate>Thu, 17 Sep 2026 19:05:56 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI is reportedly tackling the next Millennium Prize Problem. After its still unconfirmed solution to the Navier-Stokes problem, the company is now working on the Hodge conjecture. Employees expect a solution soon, but any announcement could be delayed. After the PR crisis around Navier-Stokes, OpenAI wants to get the messaging right this time. The article OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows</title>
-<link>https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40334</guid>
-<pubDate>Thu, 17 Sep 2026 18:35:01 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share a common memory. The beta is available to select Pro and Max subscribers. The article Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>LLMs respond differently to harmful prompts when AI watermarking is used</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】Conversational Large Language Models are post-trained on language that expresses specific behavioural traits, such as curiosity, open-mindedness, and empathy, and values, such as helpfulness, harmlessness, and honesty. This is done to increase utility, ensure safety, and improve the experience of the people interacting with the model. However, values are complex and inter-related – inducing one could modify behaviour on another. Further, inducing certain values can make models more addictive or sycophantic through language used in the generations, with a potential detrimental effect on the…<br/><br/><a href="https://machinelearning.apple.com/research/value-induction-llm-behaviour">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Agility’s new humanoid robot will stop, squat to avoid harming human coworkers</title>
-<link>https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/</guid>
-<pubDate>Tue, 15 Sep 2026 18:33:02 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Robots can start working outside physical cages and without safety barriers.<br/><br/><a href="https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

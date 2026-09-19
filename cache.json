@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=38551": {
-"t": "国际刑警组织称AI已成为非洲网络犯罪的“核心操作驱动力”",
-"s": "根据国际刑警组织最新报告，AI涉及非洲报告的55%网络犯罪案件。财务损失从1.92亿美元翻倍至4.84亿美元，并记录了约60万起涉及深度伪造的数字勒索案件。文章《国际刑警组织称AI已成为非洲网络犯罪的“核心操作驱动力”》首发于The Decoder。"
-},
-"alignment-multimodal-llms": {
-"t": "多模态大语言模型中的对齐理解：一项综合研究",
-"s": "偏好对齐已成为提升大语言模型（LLMs）性能的关键组成部分，然而其在多模态大语言模型（MLLMs）中的影响仍相对未被充分探索。与语言模型类似，用于图像理解任务的MLLMs也面临幻觉等挑战。在MLLMs中，幻觉不仅可能通过陈述错误事实发生，还可能通过生成与图像内容不一致的响应出现。MLLMs对齐的一个主要目标是促使这些模型使响应更紧密地与图像信息对齐。最近……"
-},
 "https://techcrunch.com/?p=3148841": {
 "t": "AWS助力“氛围编程”初创公司Superblocks，影响深远",
 "s": "AWS现已允许“氛围编程”工具Superblocks嵌入其客户的私有云中。这标志着应用与模型解耦的又一进展。"
@@ -4798,5 +4790,13 @@
 "https://openai.com/index/hex-gpt-6-astra": {
 "t": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
 "s": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
+},
+"https://the-decoder.com/?p=40376": {
+"t": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+"s": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. The incident plays right into the hands of AI risk advocates who worry less about overpowered AI and more about sloppy systems being used by uncritical or bad-faith operators. The article U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report appeared first on The Decoder."
+},
+"https://openai.com/index/australian-youth-safety-blueprint": {
+"t": "Introducing the Australian Youth Safety Blueprint",
+"s": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
 }
 }
