@@ -1,20 +1,4 @@
 {
-"https://openai.com/index/apple-is-getting-this-wrong": {
-"t": "苹果在这件事上搞错了",
-"s": "OpenAI回应苹果无根据的诉讼，纠正关于其员工的指控，并分享记录事件经过的通讯内容。"
-},
-"https://the-decoder.com/?p=38566": {
-"t": "OpenAI反击苹果商业秘密诉讼，公布聊天记录显示苹果员工持续联系前同事",
-"s": "OpenAI正对苹果提起的商业秘密诉讼进行反击，并公布了前苹果工程师张柳的iMessage聊天记录。这些信息似乎显示，苹果员工在张柳离职后，主动联系这位前同事寻求技术帮助和内部文件。文章《OpenAI反击苹果商业秘密诉讼，公布聊天记录显示苹果员工持续联系前同事》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81544": {
-"t": "Reflex开源XY：一款基于Rust的超快Python图表库，让1亿数据点的图表保持交互流畅",
-"s": "Reflex发布了XY，一个采用Apache-2.0许可的Python图表库，它将渲染工作转移到原生Rust核心和WebGL2客户端中。该库在1万到1亿个数据点之间保持约0.08秒的渲染时间，导出一个包含1000万个数据点的交互式散点图仅需258 KiB，并在Python中保留精确的f64列，使得悬停、选择和缩放钻取操作仍能返回原始数据行。该库目前处于早期alpha版本0.0.1。这篇题为“Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive”的文章首发于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81541": {
-"t": "利用NVIDIA SkillSpector、LangGraph、YARA规则、SARIF和CI策略门构建高级AI技能安全审计管道",
-"s": "了解如何使用NVIDIA SkillSpector和LangGraph构建端到端的AI代理技能安全评估管道。在本教程中，我们构建一个合成技能市场，扫描恶意提示注入、凭据访问和风险依赖，并实现自定义YARA规则、基线抑制和CI部署门。文章《利用NVIDIA SkillSpector、LangGraph、YARA规则、SARIF和CI策略门构建高级AI技能安全审计管道》最初出现在MarkTechPost上。"
-},
 "https://techcrunch.com/?p=3149459": {
 "t": "数据中心未来是否便携？Runware打造模块化吊舱探索答案",
 "s": "周二，AI基础设施公司Runware宣布推出其自研的模块化数据中心，名为Sonic Inference Pod。"
@@ -4798,5 +4782,21 @@
 "https://the-decoder.com/?p=40420": {
 "t": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
 "s": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure costs, including $1.25 billion a month for its SpaceX deal alone, and unresolved security risks complicate the listing. The article Following OpenAI, Anthropic is also reportedly postponing its IPO appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3166682": {
+"t": "6 days left to get ahead at TechCrunch Disrupt 2026",
+"s": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
+},
+"https://the-decoder.com/?p=40440": {
+"t": "Runway wants to turn AI video generation into a live stream you control in real time",
+"s": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates video frame by frame. Beyond creative tools, Runway sees uses in robotics and autonomous driving. The article Runway wants to turn AI video generation into a live stream you control in real time appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40434": {
+"t": "Daily AI usage in the U.S. has more than doubled in just six months",
+"s": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and August 2026, rising from 8 percent to 19 percent. Meanwhile, the share using it just once a week fell from 17 percent to 10 percent. The article Daily AI usage in the U.S. has more than doubled in just six months appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40426": {
+"t": "Simulated students that make realistic mistakes help AI tutors learn faster",
+"s": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4. A chess tutor trained with StudentSim also earned the highest expert ratings among three versions tested. The article Simulated students that make realistic mistakes help AI tutors learn faster appeared first on The Decoder."
 }
 }
