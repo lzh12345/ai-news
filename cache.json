@@ -1,12 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81538": {
-"t": "Y Combinator 开源 QM：一款基于 MIT 许可、可在 Slack 和网页中运行的多智能体协作框架",
-"s": "Y Combinator 已开源其内部使用的多智能体协作框架 QM，该框架应用于会计、法律、活动和工程等多个领域。QM 于 2026 年 7 月 31 日以 MIT 许可证发布，为每位员工提供独立工作空间，并为每个 Slack 房间配备专属的内存、文件、密钥视图、权限、定时任务、网页应用和持久化沙盒。Pi、OpenCode、Codex 和 Claude Code 均驱动同一无头核心，从而避免部署时的供应商锁定。原文《Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web》首发于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81534": {
-"t": "Genspark 开源 GenOffice：面向 macOS 和 Windows 的免费无广告 AI 办公套件，涵盖文档、表格、演示文稿和 PDF",
-"s": "Genspark 已在 Apache License 2.0 下开源 GenOffice。这是一款面向 macOS 和 Windows 的 AI 原生办公套件，涵盖文档、表格、演示文稿和 PDF，以五个 Electron 应用形式共享一个统一引擎层。其显著的工程亮点是字节保留的往返处理：仅重新生成被编辑的段落为 OOXML，并拼接回原始文件，因此未触碰的块保留原始字节，布局在 Word 中得以保留。表格功能将开源 Univer 核心与自研 Rust xlsx 辅助模块相结合。AI 调用通过已登录的 Genspark 账户路由，并消耗积分。该代码库"
-},
 "https://openai.com/index/apple-is-getting-this-wrong": {
 "t": "苹果在这件事上搞错了",
 "s": "OpenAI回应苹果无根据的诉讼，纠正关于其员工的指控，并分享记录事件经过的通讯内容。"
@@ -4798,5 +4790,13 @@
 "https://techcrunch.com/?p=3166662": {
 "t": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
 "s": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+},
+"https://the-decoder.com/?p=40423": {
+"t": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
+"s": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack. The article Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40420": {
+"t": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
+"s": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure costs, including $1.25 billion a month for its SpaceX deal alone, and unresolved security risks complicate the listing. The article Following OpenAI, Anthropic is also reportedly postponing its IPO appeared first on The Decoder."
 }
 }
