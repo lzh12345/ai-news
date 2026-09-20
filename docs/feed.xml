@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 20 Sep 2026 15:09:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 18:24:01 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ScrollEd wants to turn textbooks into TikTok</title>
+<link>https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3165886</guid>
+<pubDate>Sun, 20 Sep 2026 18:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.<br/><br/><a href="https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters</title>
+<link>https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40459</guid>
+<pubDate>Sun, 20 Sep 2026 16:10:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license. The article Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Tencent's Gander aims to keep talking while it works in the background</title>
+<link>https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40450</guid>
+<pubDate>Sun, 20 Sep 2026 15:41:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Tencent's Gander processes speech, images, and text while handling tasks in the background. A "cerebellum" keeps the conversation going, while a swappable "brain" searches files, writes code, or tackles other complex work. Users can interrupt or change the task mid-conversation. In benchmarks, Gander interrupted users in just 8 percent of cases, less often than its rivals, but trailed on task accuracy. The article Tencent's Gander aims to keep talking while it works in the background appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>6 days left to get ahead at TechCrunch Disrupt 2026</title>
 <link>https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/</link>
@@ -136,22 +160,6 @@
 <description><![CDATA[【techcrunch.com】Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.<br/><br/><a href="https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts</title>
-<link>https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40388</guid>
-<pubDate>Sat, 19 Sep 2026 11:08:06 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google and Deepmind's Dream-RSI lets AI agents "dream" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the search strategy adapts, while the underlying AI model stays unchanged. The article Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline</title>
-<link>https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40384</guid>
-<pubDate>Sat, 19 Sep 2026 10:37:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with submissions and reviews. The article AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>India forces caller-ID apps to feed spam reports to telcos</title>
 <link>https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3166409</guid>
@@ -270,14 +278,6 @@
 <pubDate>Fri, 18 Sep 2026 17:09:56 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]<br/><br/><a href="https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Automattic’s 33-Hour Coup, and can AI labs police themselves?</title>
-<link>https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3166233</guid>
-<pubDate>Fri, 18 Sep 2026 17:06:32 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. On […]<br/><br/><a href="https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Should you read the code, is RAG dead, and did Skills kill MCP?</title>

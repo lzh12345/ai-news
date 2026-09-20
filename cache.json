@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3149459": {
-"t": "数据中心未来是否便携？Runware打造模块化吊舱探索答案",
-"s": "周二，AI基础设施公司Runware宣布推出其自研的模块化数据中心，名为Sonic Inference Pod。"
-},
-"01KZ67XSDB3QZRT3JC43EGMSD1": {
-"t": "Agent开发生命周期已登陆Cloudflare",
-"s": "智能体编写代码的速度超过了团队审查、部署和维护的速度。今天，我们推出了Agent开发生命周期及其所依托的Cloudflare基础组件。"
-},
-"01KZ518N1HS1MZE4GF7XES27C5": {
-"t": "宣布推出Cloudflare Wallets：面向代理互联网的可编程钱包",
-"s": "Cloudflare Wallets将为AI代理提供网页上的原生支付和可验证身份。通过使用x402协议，代理能够在明确的安全护栏内自主购买API和内容。"
-},
 "01KZ4ZEV9RTTBYR2S8AX9R4NNF": {
 "t": "为数百万仓库运行CI/CD——在你的平台上，在Cloudflare上",
 "s": "了解如何使用Workflows、Artifacts和CI SDK在Cloudflare上原生构建可定制、沙盒化的CI/CD流水线。我们演示了如何用TypeScript工作流步骤和自愈AI代理替代复杂的YAML配置。"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=40426": {
 "t": "Simulated students that make realistic mistakes help AI tutors learn faster",
 "s": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4. A chess tutor trained with StudentSim also earned the highest expert ratings among three versions tested. The article Simulated students that make realistic mistakes help AI tutors learn faster appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3165886": {
+"t": "ScrollEd wants to turn textbooks into TikTok",
+"s": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
+},
+"https://the-decoder.com/?p=40459": {
+"t": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
+"s": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license. The article Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40450": {
+"t": "Tencent's Gander aims to keep talking while it works in the background",
+"s": "Tencent's Gander processes speech, images, and text while handling tasks in the background. A \"cerebellum\" keeps the conversation going, while a swappable \"brain\" searches files, writes code, or tackles other complex work. Users can interrupt or change the task mid-conversation. In benchmarks, Gander interrupted users in just 8 percent of cases, less often than its rivals, but trailed on task accuracy. The article Tencent's Gander aims to keep talking while it works in the background appeared first on The Decoder."
 }
 }
