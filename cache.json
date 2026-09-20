@@ -1,12 +1,4 @@
 {
-"01KZ4ZEV9RTTBYR2S8AX9R4NNF": {
-"t": "为数百万仓库运行CI/CD——在你的平台上，在Cloudflare上",
-"s": "了解如何使用Workflows、Artifacts和CI SDK在Cloudflare上原生构建可定制、沙盒化的CI/CD流水线。我们演示了如何用TypeScript工作流步骤和自愈AI代理替代复杂的YAML配置。"
-},
-"01KZ4XGGJ39E5ZDS4AHVQSB0M3": {
-"t": "Cloudflare如何利用AI执行工程标准",
-"s": "我们创建了Cloudflare Codex，这是一个受治理的工程标准体系，AI代理在开发全生命周期中都会参考它。通过将结构化的RFC与代理审查相结合，团队能自动确保代码、规格说明和事件报告之间的一致性。"
-},
 "01KZ4WJAC5X5TGJJZKJDY8XHTD": {
 "t": "推出：Cloudflare Agents",
 "s": "Cloudflare Agents将您所有已部署的代理会话整合到一个体验中，呈现关键信息及关于代理在大规模运行时的表现洞察。"
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=40450": {
 "t": "Tencent's Gander aims to keep talking while it works in the background",
 "s": "Tencent's Gander processes speech, images, and text while handling tasks in the background. A \"cerebellum\" keeps the conversation going, while a swappable \"brain\" searches files, writes code, or tackles other complex work. Users can interrupt or change the task mid-conversation. In benchmarks, Gander interrupted users in just 8 percent of cases, less often than its rivals, but trailed on task accuracy. The article Tencent's Gander aims to keep talking while it works in the background appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3166716": {
+"t": "Is the AI industry really ready to slow down?",
+"s": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+},
+"https://techcrunch.com/?p=3152751": {
+"t": "Vocci’s ring adds a new form factor to meeting note-taking",
+"s": "Vocci's lightweight ring costs $249, and might pose some privacy questions"
 }
 }
