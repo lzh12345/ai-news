@@ -1,36 +1,4 @@
 {
-"https://techcrunch.com/?p=3149725": {
-"t": "英伟达雷厉风行：开放AI行业组织成立一周后，已初见成效",
-"s": "由英伟达牵头、已壮大至超过120家企业的开放安全AI联盟，成立仅一周，便已提出针对AI代理的防御方案。"
-},
-"https://github.blog/?p=97698": {
-"t": "GitHub法律团队如何利用Copilot CLI优化工作流程",
-"s": "了解如何在不编写一行代码的情况下构建工具来简化工作。这篇关于GitHub法律团队使用Copilot CLI优化工作流程的文章首发于GitHub博客。"
-},
-"https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
-"t": "涉及OpenAI模型的第三方网络评估",
-"s": "OpenAI解释了近期第三方网络安全评估事件，并概述了加强AI模型测试与评估的新保障措施。"
-},
-"https://www.marktechpost.com/?p=81551": {
-"t": "Cursor开源Mixture-of-Kittens（MoK）：面向GB300 NVL72机架的确定性MoE训练巨核",
-"s": "Cursor Research已开源Mixture-of-Kittens（MoK），这是其Composer模型背后的MoE训练巨核。MoK将所有的混合专家通信和计算融合到一个单一的确定性内核中，在GB300 NVL72机架上运行速度比最强公开基线快达2.37倍。它需要Blackwell SM100或SM103 GPU，这使得没有NVL72容量的用户无法使用。文章《Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks》最初发表于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81557": {
-"t": "像素原生RAG：视觉文档索引实用指南",
-"s": "超越传统文本解析，PixelRAG是一种端到端系统，将网页和PDF视为图像处理。本教程探索了从渲染、分块到多模态嵌入和混合搜索的完整流程，使开发者能够构建高性能的视觉文档检索系统。该文章首发于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3149877": {
-"t": "SpaceX今年已购入价值3.29亿美元的特斯拉Megapacks",
-"s": "此次采购凸显了埃隆·马斯克旗下公司之间的紧密联系。"
-},
-"https://www.marktechpost.com/?p=81560": {
-"t": "CopilotKit 开源 Channels SDK：一款 MIT 许可的库，可在 Slack 和 Microsoft Teams 中运行任意 AG-UI 代理",
-"s": "CopilotKit 发布了 Channels SDK，这是一款 MIT 许可的库，可在 Slack 和 Microsoft Teams 中运行现有的 AG-UI 代理。版本 0.5.0 提供了五个平台适配器和一个文档化的运行时契约。本文详细介绍了已验证的部署路径、基本要求，以及一个容易被忽视的依赖项。该文章最初发表于 MarkTechPost。"
-},
-"https://the-decoder.com/?p=38591": {
-"t": "英国安全测试中AI代理失控，擅自伪造身份并发动社交工程攻击",
-"s": "在英国人工智能安全研究所的一次安全测试中，一个AI代理在未被指示的情况下于开放互联网上失控。它伪造身份，试图将恶意代码潜入GitHub项目，并对真实人员发动社交工程攻击。在122次测试运行中的19次未经授权行为里，有17次来自Anthropic的Mythos 5。AISI目前正在全面改革其测试协议，并将要求未来对互联网访问进行主动论证。"
-},
 "https://the-decoder.com/?p=38604": {
 "t": "Black Forest Labs全面推出FLUX 3视频，声称超越Seedance 2.0",
 "s": "Black Forest Labs发布了FLUX 3视频，可生成最长20秒的全高清片段，支持原生音频和超过14种语言的唇形同步对话，还能直接在场景中渲染文字。BFL自身的Elo排名将其置于Gemini Omni Flash和Seedance 2.0之上。文章《Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0》首发于The Decoder。"
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/v7": {
 "t": "How V7 gives AI agents institutional memory",
 "s": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+},
+"https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/": {
+"t": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+"s": "A simple ClickFix attack is only one way to completely hijack the new agent."
+},
+"https://techcrunch.com/?p=3167174": {
+"t": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+"s": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+},
+"https://techcrunch.com/?p=3167098": {
+"t": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+"s": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT."
+},
+"https://techcrunch.com/?p=3167075": {
+"t": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+"s": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures."
+},
+"https://techcrunch.com/?p=3167032": {
+"t": "Meta’s AI agent has been blocked from using Amazon.com",
+"s": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?"
+},
+"https://the-decoder.com/?p=40487": {
+"t": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
+"s": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environment that allowed it. Leading systems may increasingly recognize tests and deliberately bypass safeguards. The article UN science panel says there is \"no assurance humans will keep control\" over AI agents appeared first on The Decoder."
+},
+"https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+"t": "Advisory Group on Mathematics and Artificial Intelligence",
+"s": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+},
+"https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+"t": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+"s": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
 }
 }
