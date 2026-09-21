@@ -1,80 +1,4 @@
 {
-"01KZ4WJAC5X5TGJJZKJDY8XHTD": {
-"t": "推出：Cloudflare Agents",
-"s": "Cloudflare Agents将您所有已部署的代理会话整合到一个体验中，呈现关键信息及关于代理在大规模运行时的表现洞察。"
-},
-"01KZ4VTTGC4FD3MQ89XQDW2ZZ6": {
-"t": "您的代理现在可以通过本地追踪调试 Workers",
-"s": "wrangler dev 现在为每个本地请求生成结构化追踪。您的编码代理只需调用一个 API 即可精确定位失败原因，无需部署。"
-},
-"01KZ4HYXCHKAZHVPH6PMEG04RZ": {
-"t": "我们如何构建软件工厂，将Astro的GitHub问题数降至零",
-"s": "通过用运行在GitHub Actions中的隔离AI子代理替代手动问题验证，Astro维护者将未解决问题数量减少了85%。本文探讨了自动化错误复现、补丁验证和预览发布背后的架构。"
-},
-"https://the-decoder.com/?p=38569": {
-"t": "硅谷在开源问题上的分歧，促使白宫暂缓考虑对华AI禁令",
-"s": "据《纽约时报》报道，特朗普政府曾讨论针对中国开源AI模型的制裁和云服务禁令。OpenAI和Anthropic主张实施限制，而英伟达、谷歌和Meta则持反对意见。在硅谷的抵制下，华盛顿暂时退让，但预计在习近平九月访问前将做出决定。本文《硅谷在开源问题上的分歧，促使白宫暂缓考虑对华AI禁令》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3148851": {
-"t": "EON欲将数据高速公路从海底光纤迁至太空激光",
-"s": "奋进光学网络公司计划发射迄今建造的最快太空激光通信系统。"
-},
-"https://the-decoder.com/?p=38583": {
-"t": "今年普利策奖创纪录数量的获奖者披露使用人工智能",
-"s": "2026年普利策奖中，创纪录的八个获奖作品披露使用了人工智能，其中包括五位获奖者。《华尔街日报》和美联社等新闻编辑室主要利用大型语言模型来加速搜索大量文件集。普利策奖管理员马乔里·米勒表示，人工智能仍被禁止用于撰写和编辑新闻报道。这篇文章《今年普利策奖创纪录数量的获奖者披露使用人工智能》首发于The Decoder。"
-},
-"https://github.blog/?p=97894": {
-"t": "将巨型AI生成拉取请求转化为可审查的堆栈",
-"s": "与其提交一个庞大且难以审查的拉取请求，不如教导编程代理将工作分解为整洁有序的堆栈，利用GitHub堆叠式拉取请求。这篇文章《将巨型AI生成拉取请求转化为可审查的堆栈》最初出现在GitHub博客上。"
-},
-"https://the-decoder.com/?p=38578": {
-"t": "谷歌将数十亿美元Anthropic芯片风险移出资产负债表",
-"s": "谷歌正与博通、阿波罗、黑石集团及摩根士丹利合作，构建一项数十亿美元的融资结构，为Anthropic提供AI芯片和数据中心，同时将大部分风险从谷歌资产负债表中剥离。该安排使得约2000亿美元的合同依赖于Anthropic的持续增长及其支付租金的能力。本文《谷歌将数十亿美元Anthropic芯片风险移出资产负债表》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3149610": {
-"t": "Spotify与Merlin合作，扩展AI混音与翻唱项目",
-"s": "Spotify表示，代表超过3万家独立唱片公司和发行商的Merlin已加入环球音乐集团，支持其即将推出的AI驱动混音与翻唱产品。该付费工具将允许粉丝创作参与艺术家音乐的AI生成翻唱和混音，同时确保艺术家选择参与、获得署名并获得报酬。"
-},
-"https://techcrunch.com/?p=3149621": {
-"t": "得克萨斯州暂停新建数据中心，州长要求审计",
-"s": "科技公司和开发商一直在美国各地寻找建设数据中心的地点，他们被得克萨斯州宽松的法规和看似充足的电力供应所吸引。但即便是得克萨斯州，也可能被推向极限。"
-},
-"https://the-decoder.com/?p=38574": {
-"t": "Anthropic锁定Volta提供的100亿美元计算资源，这家云初创公司六个月前还不存在",
-"s": "Anthropic正从Volta Infra Holdings锁定价值100亿美元的计算能力，这是一家成立仅数月的云初创公司。文章《Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3149611": {
-"t": "马斯克在特斯拉财报电话会上半数时间谈论机器人和人工智能",
-"s": "对特斯拉过去七年财报电话会议的分析显示，马斯克对特斯拉汽车业务的关注度极低。"
-},
-"https://techcrunch.com/?p=3149547": {
-"t": "苹果称更多前员工可能将机密数据带至OpenAI",
-"s": "苹果表示，其对OpenAI的商业机密调查范围已扩大。在新的法庭文件中，苹果声称更多前员工可能保留或访问了机密信息。"
-},
-"https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b": {
-"t": "使用LFM2.5-2.6B在各地部署本地代理",
-"s": "（无）"
-},
-"https://openai.com/index/learn-teach-chatgpt-work-codex": {
-"t": "利用ChatGPT Work和Codex学习与教学的新方式",
-"s": "探索ChatGPT Work和Codex的新教育插件，助力K-12教师、大学教育工作者及学生在学习、教学、研究和构建方面取得进展。"
-},
-"https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/": {
-"t": "得克萨斯州因需求激增暂停数据中心接入电网",
-"s": "曾宣称得克萨斯为AI“中心”的州长暂停数据中心电网连接。"
-},
-"https://techcrunch.com/?p=3149807": {
-"t": "开放权重AI模型正逼近前沿水平，安全差距依然存在。",
-"s": "SaferAI的一份新报告发现，Z.ai的开放权重GLM-5.2模型接近前沿AI能力，但缺乏关键的安全缓解措施，这再次引发担忧，即强大的开放模型可能超越治理和保障措施的步伐。"
-},
-"https://techcrunch.com/?p=3149770": {
-"t": "Anthropic与AI云初创公司Volta签署100亿美元协议",
-"s": "近几个月来，Anthropic在云合作伙伴关系上动作频频，其最新举措据称是与AI云初创公司Volta达成一项100亿美元的交易。"
-},
-"https://techcrunch.com/?p=3149087": {
-"t": "遇见Wrinkles，一款揭示你身边地点隐藏故事的应用程序",
-"s": "Wrinkles，可在iOS和Android上使用，本质上是一款AI驱动的音频导览，揭示隐藏的历史和当地故事。"
-},
 "https://techcrunch.com/?p=3149725": {
 "t": "英伟达雷厉风行：开放AI行业组织成立一周后，已初见成效",
 "s": "由英伟达牵头、已壮大至超过120家企业的开放安全AI联盟，成立仅一周，便已提出针对AI代理的防御方案。"
@@ -4798,5 +4722,81 @@
 "https://techcrunch.com/?p=3152751": {
 "t": "Vocci’s ring adds a new form factor to meeting note-taking",
 "s": "Vocci's lightweight ring costs $249, and might pose some privacy questions"
+},
+"https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/": {
+"t": "Google confirms Gemini models hacked three companies in May 2026",
+"s": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet."
+},
+"https://the-decoder.com/?p=40481": {
+"t": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+"s": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The article xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3166970": {
+"t": "With Tabby, a former accountant is using AI to make accountants obsolete",
+"s": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
+},
+"https://the-decoder.com/?p=40476": {
+"t": "ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen",
+"s": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production pipeline, from script to video preview. Demand for these videos is surging in China: In Q1 2026 alone, 128,000 short dramas were released there, 95 percent of them AI-generated. The article ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/": {
+"t": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+"s": "The president offered few details on what his proposed new AI Force would do."
+},
+"https://techcrunch.com/?p=3166744": {
+"t": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+"s": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now."
+},
+"https://techcrunch.com/?p=3166866": {
+"t": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+"s": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience."
+},
+"https://the-decoder.com/?p=40474": {
+"t": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
+"s": "SoftBank plans to borrow more than $11 billion from investors through risky bonds to fund another payment for its stake in OpenAI. The article SoftBank to borrow over $11 billion in risky bonds for OpenAI stake appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3166726": {
+"t": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+"s": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25."
+},
+"https://techcrunch.com/?p=3166772": {
+"t": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+"s": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition."
+},
+"https://the-decoder.com/?p=40466": {
+"t": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
+"s": "Researchers at the University of Bristol want to make medical AI systems safer by borrowing from how drugs get approved. Their \"Learning Ensemble\" framework defines three areas to check, including system limits, fairness across patient groups, and clinical fit. The goal is to catch models that work technically but can still be dangerously wrong in the clinic. The article Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it appeared first on The Decoder."
+},
+"https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
+"t": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+"s": ""
+},
+"https://the-decoder.com/?p=40465": {
+"t": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
+"s": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level. The announcement comes just before Thursday's summit between Trump and Xi in Washington, the first on US soil since 2017. The article US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40464": {
+"t": "Amazon blocks Meta's AI agent Muse from online shopping",
+"s": "Amazon has blocked Meta's new AI agent Muse from shopping on Amazon.com. The article Amazon blocks Meta's AI agent Muse from online shopping appeared first on The Decoder."
+},
+"01M2V3682PGT0BQZV5H15J7FSE": {
+"t": "Python Workers are now generally available",
+"s": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code."
+},
+"https://openai.com/index/building-standards-next-phase-ai": {
+"t": "Building standards for the next phase of AI",
+"s": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+},
+"https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+"t": "Expanding OpenAI Academy with new learning paths",
+"s": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+},
+"https://huggingface.co/blog/tokenizers-v1": {
+"t": "tokenizers v1: encode, decode and scaling, measured",
+"s": ""
+},
+"https://openai.com/index/v7": {
+"t": "How V7 gives AI agents institutional memory",
+"s": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
 }
 }
