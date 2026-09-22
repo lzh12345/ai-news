@@ -1,8 +1,4 @@
 {
-"01KZ7MGHAX6C81BVS5AM1DRP2Q": {
-"t": "代理访问模型",
-"s": "代理访问模型提出了一种新架构，通过严格的身份代理、持续调解和状态化信任来保护任务范围内的代理安全。"
-},
 "01KZ7PERAEJK3G9KDWDQ3BXZZQ": {
 "t": "Cloudflare OS：面向智能体、应用与工作的开放平台",
 "s": "Cloudflare OS是一个开源平台，让公司内的每个人都能构建应用、自动化工作，并安全访问内部系统，其设计围绕组织的知识体系与运作方式展开。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3167267": {
 "t": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
 "s": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+},
+"https://huggingface.co/blog/omlx": {
+"t": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+"s": ""
 }
 }

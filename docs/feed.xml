@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 22 Sep 2026 02:36:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 08:55:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
+<link>https://huggingface.co/blog/omlx</link>
+<guid isPermaLink="false">https://huggingface.co/blog/omlx</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/omlx">阅读原文</a>]]></description>
+</item>
 <item>
 <title>The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping</title>
 <link>https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/</link>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 16 Sep 2026 22:02:46 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Planned 2029 debut could make this Apple’s first enterprise server in decades.<br/><br/><a href="https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts</title>
-<link>https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/</link>
-<guid isPermaLink="false">01M2KNF1C55YJDSSWYFA6ES3B6</guid>
-<pubDate>Wed, 16 Sep 2026 20:06:17 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.<br/><br/><a href="https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
