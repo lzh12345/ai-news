@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=38604": {
-"t": "Black Forest Labs全面推出FLUX 3视频，声称超越Seedance 2.0",
-"s": "Black Forest Labs发布了FLUX 3视频，可生成最长20秒的全高清片段，支持原生音频和超过14种语言的唇形同步对话，还能直接在场景中渲染文字。BFL自身的Elo排名将其置于Gemini Omni Flash和Seedance 2.0之上。文章《Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0》首发于The Decoder。"
-},
 "01KZ7MGHAX6C81BVS5AM1DRP2Q": {
 "t": "代理访问模型",
 "s": "代理访问模型提出了一种新架构，通过严格的身份代理、持续调解和状态化信任来保护任务范围内的代理安全。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
 "t": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
 "s": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+},
+"https://techcrunch.com/?p=3167267": {
+"t": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+"s": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
 }
 }
