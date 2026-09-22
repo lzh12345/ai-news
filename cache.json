@@ -1,68 +1,4 @@
 {
-"01KZ7PERAEJK3G9KDWDQ3BXZZQ": {
-"t": "Cloudflare OS：面向智能体、应用与工作的开放平台",
-"s": "Cloudflare OS是一个开源平台，让公司内的每个人都能构建应用、自动化工作，并安全访问内部系统，其设计围绕组织的知识体系与运作方式展开。"
-},
-"01KZ7KS18W44EAET2511C0NY3V": {
-"t": "我们如何通过Cloudflare OS重新思考Cloudflare的工作方式",
-"s": "我们构建了Cloudflare OS，旨在让我们的团队能够安全地重新思考如何利用AI完成工作。该平台整合了我们最优秀的技术，从计算原语到零信任套件。这篇文章回顾了我们的历程，旨在为用户提供最优质的AI工具。"
-},
-"01KZ7CKXC5ECVNAP2GSTX54B48": {
-"t": "WriteGuard：为MCP服务器提供细粒度控制",
-"s": "在Cloudflare，我们深知无法依赖每位员工完美配置每个代理或监控每次工具调用。在扩大内部MCP服务器的写权限之前，我们构建了WriteGuard。现在，我们正通过私有测试版将这些控制功能引入Cloudflare MCP服务器门户。"
-},
-"01KZ7B5XMX7JB1E4KZZP5QRR9P": {
-"t": "利用身份感知分析捕捉AI异常行为",
-"s": "身份感知AI网关现已进入公开测试阶段。用户洞察功能将流量转化为每个人和代理的行为基线，并在内部风险出现时立即标记。"
-},
-"https://techcrunch.com/?p=3149608": {
-"t": "MacPaw携手Liquid AI，为应用商店开发者提供设备端推理能力",
-"s": "MacPaw正利用Liquid AI的模型，构建其AI助手Eney的本地版本。"
-},
-"https://techcrunch.com/?p=3149729": {
-"t": "AI让天气预报更精准，WindBorne能否将其变为盈利业务？",
-"s": "WindBorne Systems已筹集3700万美元B轮融资，用于扩大其气象气球和AI预测的规模。"
-},
-"https://the-decoder.com/?p=38598": {
-"t": "美国上诉法院允许Perplexity的AI购物代理重返亚马逊",
-"s": "美国一家上诉法院推翻了亚马逊对Perplexity AI购物代理的禁令，裁定是用户而非这家初创公司访问亚马逊。这是联邦上诉法院首次就AI代理能否合法代表用户在网络平台上行动作出裁决，可能重塑整个AI代理行业。文章《美国上诉法院允许Perplexity的AI购物代理重返亚马逊》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38622": {
-"t": "Mistral开源模型Shieldstral以极小体积媲美大型安全模型",
-"s": "Mistral新推出的3B参数Shieldstral模型，通过自然语言的是/否问题而非固定类别来检查AI输入输出是否存在安全违规。在某些基准测试中，其性能可与体积大七倍的模型相媲美。操作者可在运行时自行设定标准，无需依赖第三方的分类体系，且该模型支持本地运行。文章《Mistral's open model Shieldstral matches much larger safety models at a fraction of the size》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3150177": {
-"t": "Shopify称AI搜索正带动更多流量和销售，而非取代谷歌",
-"s": "Shopify表示，AI并未像对出版商那样蚕食搜索流量。相反，第二季度通过AI驱动的流量和订单量同比增长了两倍。"
-},
-"https://techcrunch.com/?p=3149995": {
-"t": "Hark预览其浏览器使用代理，用于完成任务",
-"s": "Hark声称其浏览器使用代理比竞争对手更快、更便宜。"
-},
-"https://the-decoder.com/?p=38612": {
-"t": "英国就业市场正一分为二：AI需求激增，知识型岗位发布量骤降",
-"s": "据Indeed数据显示，AI现在出现在英国9.4%的招聘信息中，而2023年这一比例约为2%。整体招聘在市场营销和管理等知识型工作领域呈下降趋势，但AI相关岗位发布量却在快速增长。Indeed将此称为“双速劳动力市场”。本文《英国就业市场正一分为二：AI需求激增，知识型岗位发布量骤降》首发于The Decoder。"
-},
-"https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/": {
-"t": "谷歌计划于9月4日终止手机上的Assistant服务",
-"s": "在未来几周内，Assistant将消失，仅保留Gemini用于语音控制。"
-},
-"https://techcrunch.com/?p=3149903": {
-"t": "TechCrunch Disrupt 2026“现实世界AI”舞台聚焦机器人、自动化工厂与灭绝动物",
-"s": "在我们的全新“现实世界AI”舞台上，我们将聚焦数字与物理世界的交汇点，以及两者持续融合的各种方式。"
-},
-"https://the-decoder.com/?p=38609": {
-"t": "SpaceX雄心勃勃的计算目标或需超过两百万块Nvidia Rubin GPU",
-"s": "SpaceX计划到2027年底将其计算能力提升五倍以上，并独家押注于Nvidia的Vera Rubin平台。这一扩张可能需要超过一百万块新GPU。与此同时，该公司的人工智能部门在第二季度实现了25.6亿美元的收入，主要得益于出租其自有服务器容量。文章《SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3150081": {
-"t": "Anthropic正在组建AI芯片设计团队",
-"s": "Anthropic正在组建一支团队，用于设计其自有的定制AI芯片。这家Claude的制造商表示，将协同设计硬件与模型，以帮助其技术运行得更快、更高效。"
-},
-"https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/": {
-"t": "SpaceX首份财报令投资者震惊",
-"s": "尽管集团表示其季度营收几乎翻倍，但盘前交易中股价仍下滑。"
-},
 "https://www.marktechpost.com/?p=81565": {
 "t": "NVIDIA发布Alpamayo 2 Super：一款34B开源视觉-语言-动作模型，用于自动驾驶出租车与自动驾驶，基于OpenMDW-1.1许可",
 "s": "NVIDIA发布了Alpamayo 2 Super，这是一款用于自动驾驶的34B视觉-语言-动作模型，采用OpenMDW-1.1许可——该宽松许可涵盖微调、衍生作品及商业再分发。它结合了32B Cosmos 3 Super Reasoner骨干网络与2.3B扩散动作解码器，在LingoQA上得分79.2，并能从单次前向传播中输出轨迹、因果链追踪、元动作、自动标签及基于地面的视觉问答。文章《NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1》最初发表于MarkTechPost。"
@@ -4797,6 +4733,70 @@
 },
 "https://huggingface.co/blog/omlx": {
 "t": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+"s": ""
+},
+"https://the-decoder.com/?p=40514": {
+"t": "OpenAI calls for international standards on AI that could improve itself",
+"s": "OpenAI wants international standards for recursive self-improvement, where AI systems independently build the next generation of AI. Without safeguards, humans could lose control over this process. OpenAI says the US should take the lead on global measurement standards and oversight rules. The article OpenAI calls for international standards on AI that could improve itself appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3167384": {
+"t": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+"s": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25."
+},
+"https://techcrunch.com/?p=3167451": {
+"t": "AstroForge is putting AI in command of its next spacecraft",
+"s": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
+},
+"https://techcrunch.com/?p=3167356": {
+"t": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+"s": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off."
+},
+"https://techcrunch.com/?p=3166965": {
+"t": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+"s": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15."
+},
+"01M34JJ73CQHS91WGFD6NM0X09": {
+"t": "We just shipped support for the ugliest part of HTTP: Vary",
+"s": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable."
+},
+"https://techcrunch.com/?p=3167345": {
+"t": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+"s": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today."
+},
+"https://the-decoder.com/?p=40505": {
+"t": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
+"s": "The Biological Computing Co. wants to team up with AWS to sell a text-to-video model that's supposed to run five times faster and 80 percent cheaper thanks to a software layer derived from real nerve cells. The tiny layer adds less than 0.1 percent to the base model, but the startup won't say which model that is. The article A tiny software layer from lab-grown neurons promises faster, cheaper AI video appeared first on The Decoder."
+},
+"https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/": {
+"t": "Dyson’s most overengineered gadget may have a waterproofing problem",
+"s": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush."
+},
+"https://techcrunch.com/?p=3167216": {
+"t": "Everyone can find a reason to dislike data center construction",
+"s": "Inside two years of fraught AI data center debates in Pennsylvania."
+},
+"01M31X3A04MPGJV1GB3JFSSSYM": {
+"t": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+"s": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production."
+},
+"https://techcrunch.com/?p=3167323": {
+"t": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+"s": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue."
+},
+"https://the-decoder.com/?p=40499": {
+"t": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
+"s": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company of siphoning off training data from Claude. The article Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40495": {
+"t": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
+"s": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study. But OpenAI has excluded its research pace from the group's advisory role. The article OpenAI says its internal model solved over 100 long-standing math problems after just a month of training appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40491": {
+"t": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
+"s": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder."
+},
+"https://huggingface.co/blog/transformers-llama-cpp-quants": {
+"t": "Transformers now runs llama.cpp quants",
 "s": ""
 }
 }
