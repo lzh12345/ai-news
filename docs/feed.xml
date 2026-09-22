@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 22 Sep 2026 19:38:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 22:34:18 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Snorkel AI triples valuation to $3.5B as demand for AI training data booms</title>
+<link>https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3167901</guid>
+<pubDate>Tue, 22 Sep 2026 21:56:43 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.<br/><br/><a href="https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>New Anthropic, OpenAI models make same promise: A little more for a lot less money</title>
+<link>https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/</guid>
+<pubDate>Tue, 22 Sep 2026 21:25:18 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】The frontier AI model race has entered its comparison shopping phase.<br/><br/><a href="https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Better prompt caching for GPT-6</title>
+<link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
+<guid isPermaLink="false">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
+<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.<br/><br/><a href="https://openai.com/index/better-prompt-caching-for-gpt-6">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance</title>
+<link>https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40530</guid>
+<pubDate>Tue, 22 Sep 2026 20:06:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultaneous launch of Opus 5.5 coming. The article OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Qualcomm launches two new smartphone chips with emphasis on AI</title>
+<link>https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3166854</guid>
+<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.<br/><br/><a href="https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft disrupts AI-assisted platform that compromised 12,000 accounts</title>
+<link>https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/</guid>
+<pubDate>Tue, 22 Sep 2026 19:45:47 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.<br/><br/><a href="https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting</title>
 <link>https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/</link>
@@ -158,6 +206,14 @@
 <pubDate>Tue, 22 Sep 2026 12:23:05 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.<br/><br/><a href="https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Parallel cut research time and cost in half with GPT‑6 Astra</title>
+<link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
+<guid isPermaLink="false">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
+<pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.<br/><br/><a href="https://openai.com/index/parallel-cuts-time-and-cost-with-astra">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there</title>
@@ -328,30 +384,6 @@
 <description><![CDATA[【techcrunch.com】Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.<br/><br/><a href="https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>SoftBank to borrow over $11 billion in risky bonds for OpenAI stake</title>
-<link>https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40474</guid>
-<pubDate>Mon, 21 Sep 2026 14:35:11 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】SoftBank plans to borrow more than $11 billion from investors through risky bonds to fund another payment for its stake in OpenAI. The article SoftBank to borrow over $11 billion in risky bonds for OpenAI stake appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026</title>
-<link>https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3166726</guid>
-<pubDate>Mon, 21 Sep 2026 14:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.<br/><br/><a href="https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026</title>
-<link>https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3166772</guid>
-<pubDate>Mon, 21 Sep 2026 14:15:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition.<br/><br/><a href="https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
 <link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
 <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
@@ -454,38 +486,6 @@
 <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Researchers used Claude to hack OpenAI</title>
-<link>https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/</guid>
-<pubDate>Fri, 18 Sep 2026 13:30:12 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.<br/><br/><a href="https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing the Australian Youth Safety Blueprint</title>
-<link>https://openai.com/index/australian-youth-safety-blueprint</link>
-<guid isPermaLink="false">https://openai.com/index/australian-youth-safety-blueprint</guid>
-<pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.<br/><br/><a href="https://openai.com/index/australian-youth-safety-blueprint">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Dynamically Scaled Activation Steering</title>
-<link>https://machinelearning.apple.com/research/dynamically-scaled-activation-steering</link>
-<guid isPermaLink="false">dynamically-scaled-activation-steering</guid>
-<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Activation steering has emerged as a powerful method for guiding the behavior of generative models towards desired outcomes such as toxicity mitigation. However, most existing methods apply interventions uniformly across all inputs, degrading model performance when steering is unnecessary. We introduce Dynamically Scaled Activation Steering (DSAS), a method-agnostic steering framework that decouples when to steer from how to steer. DSAS adaptively modulates the strength of existing steering transformations across layers and inputs, intervening strongly only when undesired behavior is detected…<br/><br/><a href="https://machinelearning.apple.com/research/dynamically-scaled-activation-steering">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Small AI models let drones autonomously identify and attack battlefield targets</title>
-<link>https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/</guid>
-<pubDate>Thu, 17 Sep 2026 22:12:58 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Scaleout deploys decentralized AI-driven learning to military bases and drones.<br/><br/><a href="https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
