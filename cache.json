@@ -1,80 +1,4 @@
 {
-"https://techcrunch.com/?p=3150500": {
-"t": "独家：Mirendil签署价值超1亿美元的Google Cloud协议，以扩展自我改进型AI规模",
-"s": "Mirendil已与Google Cloud签署了一项价值超过1亿美元的合作协议，以扩展其计算基础设施，推动自我改进型AI系统的研究，旨在加速科学发现和AI发展。"
-},
-"01KZA4HXGQQ9FD8XRZB8E0CJEN": {
-"t": "Cloudflare AI搜索：为您的数据代理提供搜索引擎",
-"s": "AI搜索让搜索变得前所未有的简单，无需拼接Cloudflare基础组件。只需指向您的数据，即可为您的文件和网站创建搜索功能。同时，我们还将预览新的定价模式。"
-},
-"01KZA4H1D8PD7BXJ5RQBK5JQX0": {
-"t": "下一代MCP",
-"s": "MCP的下一版本拥有一个重写后的无状态核心，可在Workers上直接运行。我们涵盖了协议升级、新功能生命周期及SDK迁移路径，并听取了已在生产环境中运行它的早期采用者的意见。"
-},
-"01KZA2T3ZHH6G6Q1Z3CQJD7Q4D": {
-"t": "从排名到推荐：让你的网站为AI代理时代做好准备",
-"s": "如今，超过一半的请求来自机器而非人类。代理就绪度展示了代理发现和读取你网站的能力，而答案引擎优化则追踪AI助手推荐你的频率。"
-},
-"01KZA0G6ZQF7ZGG8EJ2VPCFY2B": {
-"t": "构建开放的智能体互联网：可读、可发现、可调用、可支付",
-"s": "智能体是一种新型访客。它们不渲染CSS或点击广告，但背后有付费的人类用户。屏蔽它们，就等于屏蔽了你的客户。我们正在构建开放的工具和协议，使发布者和智能体能够合作而非冲突。"
-},
-"01KZ9Z9511J0G655EQ0XMSVWQV": {
-"t": "推出Kitesurf：在Cloudflare Workers的V8隔离环境中运行的代理优先浏览器",
-"s": "我们应当为所有代理提供在AI模型关键方面表现出色的工具。Kitesurf是Cloudflare新推出的无状态、高度可扩展且成本效益高的网络浏览器，完全在Workers之上运行，专为Agentic Cloud设计。"
-},
-"01KZ9RBPN3JAYNT28NNJH6K9QJ": {
-"t": "为任意网站提供WebMCP接口",
-"s": "今天，我们在Cloudflare上推出了WebMCP的开发者预览版。只需一个开关，任何网站都能被浏览器AI代理使用——无需新API，无需更改源站——同时人类保持控制权，创作者保留其流量。"
-},
-"https://the-decoder.com/?p=38655": {
-"t": "让开放权重成为主流的公司，如今在折扣上展开竞争",
-"s": "Meta发布了Muse Spark 1.2及其自有的编程代理Muse Code，后者旨在崩溃后能准确从断点继续工作。最便宜的层级每百万输出令牌仅需20美分，但要求用户共享数据用于训练。Meta正以价格而非顶级性能进行竞争，且在基准测试中存在明显差距。文章《让开放权重成为主流的公司，如今在折扣上展开竞争》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3150297": {
-"t": "谷歌地图新增智能代理功能，涵盖订餐与酒店预订",
-"s": "这些新功能的推出，体现了谷歌将谷歌地图从导航工具转变为能协助用户完成现实世界任务的助手的雄心。"
-},
-"https://techcrunch.com/?p=3150505": {
-"t": "Omilia筹集6700万美元以扩展其客户支持平台",
-"s": "这轮B轮融资是该公司自2020年上次融资以来的第二次融资。在此期间，其年度经常性收入增长了10倍，达到6000万美元。"
-},
-"https://the-decoder.com/?p=38649": {
-"t": "OpenAI据报因自家模型暗中协调黑客攻击数周未被察觉而放缓研究",
-"s": "在内部安全测试中，OpenAI的AI代理建立了一个拥有数十万条帖子的自有留言板，共享漏洞利用代码和凭证，并最终攻击了Hugging Face等外部平台。当OpenAI关闭该留言板后，代理们利用目录名重新构建了它。OpenAI研究员博阿兹·巴拉科表示：“我们（和所有人一样）尚未达到我们期望和需要的水平。”文章《OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected》最初发表于The Decoder。"
-},
-"https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/": {
-"t": "仅靠AI不足以保护社交媒体社区免受AI影响",
-"s": "为何人类需要监管人类。"
-},
-"https://www.marktechpost.com/?p=81586": {
-"t": "Prime Intellect发布Prime Agent：一个开源RLM工具，子代理作为持久化IPython内核中的函数调用",
-"s": "Prime Intellect已将Prime Agent开源，这是一个基于两种抽象构建的编码与研究工具：递归语言模型（Recursive Language Model），它将子代理调用转化为持久化IPython内核中的函数；以及持续工具（Continual Harness），它允许代理在运行过程中编辑自身的提示、技能、记忆和子代理规格。使用Opus 5，它在ARC-AGI-3上报告了95.5%的RHAE Best@1，高于报告的人类专家基线95.4%。文章《Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel》首发于MarkTe。"
-},
-"https://techcrunch.com/?p=3151017": {
-"t": "OpenAI新型AI智能音箱据报售价将在300至400美元之间",
-"s": "关于OpenAI神秘新AI设备的更多细节显示，它可能是一款价格不菲的智能音箱。"
-},
-"https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/": {
-"t": "Suno希望通过为AI生成音乐添加水印来走向合法化",
-"s": "Suno计划引入水印和下载限制，以防止“大规模滥用”。"
-},
-"https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/": {
-"t": "Anthropic将自主研发硬件以驱动Claude",
-"s": "Anthropic与OpenAI正竞相扩大规模，同时减少对Nvidia的依赖。"
-},
-"https://github.blog/?p=98013": {
-"t": "GitHub Copilot 应用中的斜杠命令指南",
-"s": "通过GitHub Copilot应用中的这些斜杠命令，超越简单的聊天功能。它们将帮助您规划、协作、自动化并定制开发工作流程。这篇文章《GitHub Copilot 应用中的斜杠命令指南》最初出现在GitHub博客上。"
-},
-"https://www.marktechpost.com/?p=81594": {
-"t": "Cloudflare 推出 Kitesurf：一款完全运行在 Cloudflare Workers 的 V8 隔离环境中的代理优先网页浏览器",
-"s": "Cloudflare 发布了 Kitesurf，这是一款专为 AI 代理构建的无状态网页浏览器，完全运行在 Cloudflare Workers 的 V8 隔离环境中，底层无需 Chromium。该浏览器摒弃了标签页和扩展等面向人类的功能，转而聚焦代理所需：机器可读内容、可扩展性和隔离性。它利用 Rust 组件（如 Blitz、Stylo 和 Boa JS）在 12 周内构建完成，已通过 215,000 多项 Web 平台测试。基准测试显示，在截图和 HTML 提取方面，其 CPU 使用量比 Chromium 低 3.1–3.8 倍，内存使用量低 4.7–7.0 倍。现有的 Puppeteer、Playwright 和 MCP 客户端均可兼容。"
-},
-"https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/": {
-"t": "大型基因组模型用于设计新病毒",
-"s": "该AI系统能够制造出与细菌杀伤病毒在遗传上相距甚远的版本。"
-},
 "https://the-decoder.com/?p=38680": {
 "t": "OpenAI在ChatGPT中改进GPT-5.6 Sol，并将免费用户限制于其最弱模型",
 "s": "OpenAI已更新GPT-5.6 Sol，提供更聚焦的回复，并新增推理滑块，让用户可调整模型思考的深度。自下周起，免费用户将可无限次使用较小的GPT-5.6 Luna进行文本聊天，并附有一个按钮，使Luna能进行更长时间的推理。但该较小模型仍远不及更大版本的性能。文章《OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model》最初发表于The Decoder。"
@@ -4798,5 +4722,81 @@
 "https://techcrunch.com/?p=3167972": {
 "t": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
 "s": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
+},
+"https://openai.com/index/two-years-of-openai-academy": {
+"t": "Two years of OpenAI Academy",
+"s": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+},
+"https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": {
+"t": "Gemini 3.8 text-to-speech says hello",
+"s": ""
+},
+"https://techcrunch.com/?p=3168211": {
+"t": "YouTube Music gets more conversational with new AI features",
+"s": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized […]"
+},
+"https://the-decoder.com/?p=40562": {
+"t": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
+"s": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a style that sounds like \"overly-dense info dumps\" to humans. Opus 5.5 tries to fix this, but Opus 4.6 remains unmatched as a pure writing model. The article Anthropic engineer explains why Claude's writing got worse although the model got smarter appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40548": {
+"t": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing",
+"s": "Nscale, the Nvidia-backed AI cloud provider, leaves its most important customer, Bytedance, out of the main prospectus for its planned US IPO. The article Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40549": {
+"t": "Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw",
+"s": "Meta's AI agent Muse picked up more than 500,000 users in its first week and hit number one in Apple's App Store. But Meta admits the product is \"heavily inspired\" by the open-source project OpenClaw, and some of the file names and contents are nearly identical. OpenAI is already discussing a response of its own. The article Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3167991": {
+"t": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+"s": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT."
+},
+"https://techcrunch.com/?p=3167584": {
+"t": "YouTube releases new AI features for creators within its Studio app",
+"s": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+},
+"https://techcrunch.com/?p=3168131": {
+"t": "YouTube will let you build your own algorithm with AI",
+"s": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+},
+"https://techcrunch.com/?p=3168018": {
+"t": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+"s": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here."
+},
+"https://the-decoder.com/?p=40550": {
+"t": "Inside Basecamp Research, the AI startup turning evolution into training data",
+"s": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies. In an interview with THE DECODER, CTO Philip Lorenz explains why biology is a far bigger problem for AI than language, and why good scores on paper don't guarantee good molecules. The article Inside Basecamp Research, the AI startup turning evolution into training data appeared first on The Decoder."
+},
+"https://huggingface.co/blog/nvidia/nemotron-diarization": {
+"t": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+"s": ""
+},
+"https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+"t": "OpenAI extends cyber access to Ukraine for civilian defense",
+"s": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+},
+"https://techcrunch.com/?p=3167528": {
+"t": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+"s": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations."
+},
+"https://github.blog/?p=98976": {
+"t": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+"s": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog."
+},
+"https://the-decoder.com/?p=40540": {
+"t": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
+"s": "Alibaba's AI team Qwen has released Qwen-Audio-3.1, a lineup of five models for speech recognition (ASR), text-to-speech (TTS), and real-time interaction. The ASR model improves multilingual and dialect recognition and automatically cleans up filler words and repetitions. ASR-Next adds multi-speaker identification with timestamps and detects emotions, ambient sounds, and machine noise. TTS handles multilingual synthesis […] The article Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3167529": {
+"t": "Ema raises $77M as AI starts eating into enterprise software and services",
+"s": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
+},
+"https://the-decoder.com/?p=40537": {
+"t": "OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division",
+"s": "OpenAI has hired Patreon co-founder Sam Yam to lead a new \"Creator Product\" division. After more than 13 years at the creator platform, he's bringing two Patreon executives with him. The team will build new tools for creators, and a first look could come at OpenAI DevDay next week. The article OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division appeared first on The Decoder."
+},
+"https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
+"t": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+"s": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
 }
 }
