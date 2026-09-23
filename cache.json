@@ -1,40 +1,4 @@
 {
-"https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": {
-"t": "WeatherNext：AI模型在气旋预报领域取得突破性进展",
-"s": "（无）"
-},
-"https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
-"t": "在ChatGPT中改进GPT-5.6 Sol——并扩大免费用户对GPT-5.6 Luna的访问权限",
-"s": "ChatGPT推出了改进版GPT-5.6 Sol，提升了准确性和一致性，同时扩大了免费用户的访问权限，并提供了对GPT-5.6 Luna的无限日常聊天支持。"
-},
-"https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": {
-"t": "与美国心理学会合作，关注青少年心理健康与人工智能",
-"s": "OpenAI与美国心理学会共同推进基于证据的指导、资源及保障措施，以促进负责任的人工智能使用和青少年心理健康。"
-},
-"https://huggingface.co/blog/baseten": {
-"t": "Baseten 登陆 Hugging Face 推理提供商 🔥",
-"s": "（无）"
-},
-"locking-pretrained-weights": {
-"t": "通过深度低秩残差蒸馏锁定预训练权重",
-"s": "近年来，开放权重语言模型的质量显著提升。共享权重极大地促进了模型的采用，使其能在多样化的硬件和软件平台上使用。同时，这也支持更开放的研究与测试，用户可将其用作检查点、按需微调，并可能重新分发。然而，在某些情况下，对权重被修改用于未经授权用途的担忧可能超过赋予用户这种自由的好处。防御此类适应性修改并非易事：由于自适应……"
-},
-"deepambigqa-multihop-questions": {
-"t": "DeepAmbigQA：用于评估大语言模型答案完整性的模糊多跳问题",
-"s": "集成搜索工具的大型语言模型（LLMs）在开放域问答（QA）中展现出强大潜力，但面对诸如“电影《盗火线》中哪位演员至少获得过一次奥斯卡奖？”这类复杂问题时，它们往往难以生成完整的答案集。这类问题要求（1）区分共享同一片名的多部电影，以及（2）在大量演员中进行推理以收集和整合证据。现有的QA基准很少同时评估这两个挑战。为解决这一问题，我们引入了DEEPAMBIGQAGEN，一种自动数据生成流水线，用于构建QA…"
-},
-"https://openai.com/index/how-the-world-is-putting-chatgpt-to-work": {
-"t": "从提问到行动：全球如何将ChatGPT投入实际应用",
-"s": "OpenAI Signals的新数据显示了全球用户如何使用ChatGPT，提供了关于采用率、使用趋势及行为演变的国别洞察。"
-},
-"https://www.marktechpost.com/?p=81599": {
-"t": "Liquid AI发布LFM2.5-2.6B：一款具备128K上下文、工具调用及开放权重的端侧智能体模型",
-"s": "Liquid AI发布了LFM2.5-2.6B，这是一款智能体模型，能够完全在设备端进行规划、调用工具并完成多步骤任务。该模型拥有26.9亿参数，结合了22个双门控短卷积块和8个GQA块，分布在30层中，支持131,072个令牌的上下文长度，并在M5 Max上以每秒220个令牌的速度解码，占用内存不到2.5GB。开放权重以GGUF、MLX和ONNX格式提供。原文《Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights》首发于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3151093": {
-"t": "新墨西哥州法院责令Meta在儿童安全案中额外支付5.67亿美元",
-"s": "在此案中，Meta的罚款总额已累计至9.42亿美元"
-},
 "https://openai.com/index/hsp-gruppe": {
 "t": "HSP GRUPPE如何构建税务咨询的AI能力",
 "s": "了解HSP GRUPPE如何利用ChatGPT Enterprise提升生产力、改善工作质量，并为税务咨询和客户服务创造更多容量。"
@@ -4798,5 +4762,41 @@
 "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
 "t": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
 "s": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+},
+"https://techcrunch.com/?p=3168463": {
+"t": "Anthropic says its biology lab has already found something big",
+"s": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
+},
+"https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/": {
+"t": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+"s": "Trump focus on winning “AI race” may deter China from sharing safety intel."
+},
+"https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/": {
+"t": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+"s": "$11M competition showed wildfire detection is still easier than stopping fires."
+},
+"https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/": {
+"t": "YouTube promises custom feeds and a lot more AI later this year",
+"s": "YouTube's next year could change the content you see with a big focus on AI and livestreams."
+},
+"https://techcrunch.com/?p=3168393": {
+"t": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+"s": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+},
+"https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
+"t": "Advancing Private AI Compute with secure, server-side memory",
+"s": "Introducing private, server-side memory to Private AI Compute for personal AI."
+},
+"https://openai.com/index/sam-altman-un-security-council-remarks": {
+"t": "Sam Altman’s remarks at the United Nations Security Council",
+"s": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+},
+"https://openai.com/index/introducing-mentalhealthbench": {
+"t": "Introducing MentalHealthBench",
+"s": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+},
+"https://openai.com/index/airbnb-gpt-6-astra": {
+"t": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+"s": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
 }
 }
