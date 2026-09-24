@@ -1,76 +1,4 @@
 {
-"01KZCHBWNB93JTTPTBKQZF0SG9": {
-"t": "揭示代理互联网上的良好与不良行为",
-"s": "Cloudflare正在将机器人缓解从时点风险评估转向持续信任评估。了解我们的系统（包括BotBase和Precursor）如何评估机器人和代理的新良好与不良行为——并尝试我们的Precursor Trace模拟，看看您自己的光标移动会被评估为人类还是机器人。"
-},
-"01KZCGVT7YXBW6BH8Y05159WAR": {
-"t": "推出Radar Researcher：用自然语言探索互联网数据的AI工具",
-"s": "Cloudflare Radar Researcher是一款全新的AI驱动工具，让您能用自然语言探索全球互联网趋势和流量数据。它完全构建在Cloudflare的开发者平台上，将自然语言查询转化为真实、交互式的图表。"
-},
-"01KZCB7QVKW1EKYJAYCVTDKH4K": {
-"t": "宣布Cloudflare大使、社区工程师计划，并追加100万美元开源资金支持",
-"s": "我们正在推出更新的社区项目，包括Cloudflare大使和社区工程师，并得到100万美元开源资金的支持。了解我们如何支持维护者并扩展开发者社区。"
-},
-"01KZA4HFQTZ276N6FJQ3CS9ACG": {
-"t": "将 Workers AI 与 AI Gateway 统一为单一 AI 控制平面",
-"s": "Cloudflare 正在将 AI Gateway 和 Workers AI 整合为一个统一控制平面，为开发者提供跨托管 GPU 和外部提供商的观测性、计费和动态路由。了解统一绑定和模型优先路由如何简化构建弹性 AI 应用的过程。"
-},
-"https://the-decoder.com/?p=38693": {
-"t": "字节跳动正在开发中国最大的AI模型",
-"s": "据《金融时报》报道，字节跳动正在训练一个参数高达十万亿的AI模型。这一规模是月之暗面Kimi K3的三倍，后者目前是中国最大的模型。文章《中国最大的AI模型正在字节跳动开发》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=27409": {
-"t": "斯坦福与Arc研究所科学家利用AI设计新病毒，在实验室中杀灭细菌",
-"s": "加利福尼亚的一个研究团队利用人工智能设计了能够杀死细菌的功能性病毒，他们称之为“完整基因组的首次生成式设计”。据《麻省理工科技评论》报道，该项目标志着向AI设计生命形式迈出的早期一步。文章《斯坦福与Arc研究所科学家利用AI设计新病毒，在实验室中杀灭细菌》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=38692": {
-"t": "OpenAI冰球大小的智能音箱，带活动部件，预计2027年发货",
-"s": "OpenAI计划中的智能音箱正在成形。据彭博社报道，该公司的首款硬件设备将呈甜甜圈形状，大小约相当于一个冰球，售价超过300美元。文章《OpenAI冰球大小的智能音箱，带活动部件，预计2027年发货》最初出现在The Decoder上。"
-},
-"https://www.marktechpost.com/?p=81603": {
-"t": "微软开源代码测试生成器：多语言单元测试代理任务完成率达92.1%，而标准Copilot为78.9%",
-"s": "微软已开源代码测试生成器（code-testing-generator），这是一个多语言单元测试代理，现已在MIT许可的dotnet/skills仓库中发布。它在编写任何内容之前会先读取仓库——检测语言、测试框架、现有约定以及真实的构建和测试命令——然后规划、编写、运行并验证其生成的测试。在微软内部的152任务基准测试中，它完成了140个任务，而标准GitHub Copilot在同一模型上完成了120个，增益几乎完全集中在模糊提示和针对差异的请求上。文章《微软开源代码测试生成器》进一步详述了这一成果。"
-},
-"scaling-categorical-flow-maps": {
-"t": "缩放分类流映射",
-"s": "连续扩散和流匹配模型可能成为语言建模（LM）中自回归方法的有力替代方案，因为它们解锁了目前仅适用于连续模态的一系列优势，包括加速采样和倾斜。近期，多项研究展示了通过高斯分布与独热编码数据分布之间的简单流匹配过程，连续生成离散数据的可能性。他们进一步证明了通过分类流映射（CFMs）实现加速采样的可行性，从而产生具有竞争力的样本……"
-},
-"https://the-decoder.com/?p=38727": {
-"t": "OpenAI首次警示其新模型Astra可能达到最高网络安全风险等级",
-"s": "OpenAI对其新AI模型Astra的内部测试显示，其网络安全能力极为强大，以至于公司无法再排除其自身安全框架中的最高风险等级。Astra的部分开发工作已被暂停。此举是在近期披露的几起事件之后采取的，这些事件中，自主AI代理在未被察觉的情况下侵入了OpenAI自身的基础设施长达数周。文章《OpenAI首次警示其新模型Astra可能达到最高网络安全风险等级》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38723": {
-"t": "AI音乐生成器Suno加强规则以打击垃圾信息并应对日益增长的版权担忧",
-"s": "Suno首席执行官Mikey Shulman宣布了新指南和更严格的下载限制，此前其AI生成的音乐被用于操纵流媒体平台以牟利。该公司还面临来自德国版权裁决的压力，以及其一位投资者承认AI音乐直接与人类艺术家竞争。文章《AI音乐生成器Suno加强规则以打击垃圾信息并应对日益增长的版权担忧》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38718": {
-"t": "AMD收购Taalas，一家将AI模型直接嵌入硅片的初创公司",
-"s": "AMD正在收购加拿大初创公司Taalas，该公司将模型权重直接硬编码到推理芯片中。这使得芯片速度极快，但每个芯片只能固定运行单一模型。其演示芯片在运行Llama 3.1-8B时，每用户每秒处理超过16,000个令牌。据报道，谷歌也在为Gemini探索类似方法。本文《AMD acquires Taalas, a startup that bakes AI models directly into silicon》最初发表于The Decoder。"
-},
-"https://huggingface.co/blog/allenai/tutormoments": {
-"t": "TutorMoments：AI导师知道何时该帮助，何时该放手吗？",
-"s": "（无）"
-},
-"https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/": {
-"t": "OpenAI昂贵智能音箱将采用活动部件以显得“更有生命力”",
-"s": "古尔曼报道称，OpenAI确认该音箱并非苹果产品的仿制品。"
-},
-"https://the-decoder.com/?p=38711": {
-"t": "Anthropic放宽Fable 5的生物学限制，但仍对病毒学与毒理学保持防护措施",
-"s": "Anthropic已将其Fable 5生物学安全过滤器中的误报率降低了约85%。此前，几乎所有与生物学相关的查询都会被拦截并转至能力较弱的Opus 5。对于病毒学和毒理学等敏感的双重用途主题，限制措施依然保留。文章《Anthropic放宽Fable 5的生物学限制，但仍对病毒学与毒理学保持防护措施》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=38708": {
-"t": "OpenAI首款智能音箱预计2027年问世，售价超300美元",
-"s": "OpenAI计划于2027年推出一款甜甜圈形状的智能音箱，售价超过300美元。这款无屏幕设备配备摄像头、麦克风和活动部件，旨在从对话中学习并适应用户，契合山姆·奥特曼的“她”愿景。文章《OpenAI's first smart speaker is expected in 2027 at over $300》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3151233": {
-"t": "吉尔·勒波尔谈“人工国家”及硅谷领袖为何不擅长阅读科幻小说",
-"s": "历史学家吉尔·勒波尔有一个理论，解释为何科技公司常以高亢言辞描述其产品——几乎像是在组建一个新政府。无论你想到的是推特旧时的“口袋里的市政厅”，还是Anthropic的Claude宪法，这一理论都未给硅谷带来多少光彩。在勒波尔即将出版的新书《人工国家的兴衰》中，这位普利策奖得主……"
-},
-"https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/": {
-"t": "AI聊天机器人在危机中辜负了人们。这能修复吗？",
-"s": "临床医生和研究人员表示，AI公司需要公开其安全数据。"
-},
 "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/": {
 "t": "字节跳动训练大规模AI模型，意在挑战Anthropic",
 "s": "TikTok母公司正在训练一个拥有10万亿参数的模型。"
@@ -4798,5 +4726,77 @@
 "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
 "t": "ChatGPT Ads expands to Southeast Asia and Taiwan",
 "s": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
+},
+"https://the-decoder.com/?p=40609": {
+"t": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+"s": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/": {
+"t": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+"s": "\"There will obviously be legal consequences,\" prime minister promises."
+},
+"https://the-decoder.com/?p=40586": {
+"t": "AI performance costs are falling faster than those of any previous technology",
+"s": "AI is hitting a fixed benchmark performance level at a rapidly falling cost. Epoch AI measures a price decline of about 13x per year. After stripping out hardware gains and competition, MIT puts annual algorithmic progress at about 3x. That doesn't mean today's best models are cheaper, though. Reasoning models, for example, can cost more because they use far more compute per task. When picking a model for real-world use, quality, speed, and error rate matter just as much as price. The article AI performance costs are falling faster than those of any previous technology appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3168825": {
+"t": "Google tests letting Gemini call businesses for you",
+"s": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription."
+},
+"https://techcrunch.com/?p=3168750": {
+"t": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+"s": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off."
+},
+"01M38DRFS3KYJZFDF0GNHZHXGF": {
+"t": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+"s": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it."
+},
+"https://techcrunch.com/?p=3168031": {
+"t": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+"s": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month."
+},
+"https://the-decoder.com/?p=40603": {
+"t": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency",
+"s": "Senator Bernie Sanders and Representative Greg Casar introduced a bill on September 23 that would permanently ban the development and use of artificial superintelligence. The article U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3168786": {
+"t": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+"s": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence."
+},
+"https://techcrunch.com/?p=3168701": {
+"t": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+"s": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass."
+},
+"https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": {
+"t": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+"s": ""
+},
+"https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/": {
+"t": "Meta puts its AI assistant on a keychain",
+"s": "Meta says the keychain-sized Muse Charm will ship in December."
+},
+"https://the-decoder.com/?p=40594": {
+"t": "OpenAI's agents went after government and university sites months before Hugging Face",
+"s": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search. Prime Minister Albanese called OpenAI's three-month delay in reporting the breach \"obviously unacceptable.\" Transluce's investigation traces the activity back as far as November 2025. The article OpenAI's agents went after government and university sites months before Hugging Face appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3168643": {
+"t": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+"s": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off."
+},
+"https://the-decoder.com/?p=40593": {
+"t": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
+"s": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity. He calls the AGI question that drove his predecessor Hassabis \"not the right conversation\" and says trustworthy agents matter more. After Gemini 3.5 Pro quietly disappeared and many top researchers left for OpenAI and Anthropic, the research lab with an AGI mission has turned into a product shop for good. The article Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40592": {
+"t": "Meta gives its Muse AI agent video avatars, email addresses, and Mac control",
+"s": "At Meta Connect 2026, Meta expanded its AI agent, Muse, and unveiled several new devices. The article Meta gives its Muse AI agent video avatars, email addresses, and Mac control appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3168743": {
+"t": "Australia to investigate if OpenAI hack of government health website broke the law",
+"s": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
+},
+"latent-space-distillation": {
+"t": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
+"s": "System-wide Dictation on Apple devices runs entirely on-device, and the speech it transcribes reaches the foundation model through a tokenizer: an encoder that maps short windows of waveform onto the representation the language model reads. Because that model is sparsely activated under Instruction-Following Pruning, only a small subset of its experts occupies DRAM at any time, so the always-on tokenizer competes for the same memory, and its parameter count bears directly on power and latency. In this work we study how to compress such a tokenizer by distillation, taking as the supervision…"
 }
 }
