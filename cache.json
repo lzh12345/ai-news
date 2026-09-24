@@ -1,20 +1,4 @@
 {
-"https://openai.com/index/hsp-gruppe": {
-"t": "HSP GRUPPE如何构建税务咨询的AI能力",
-"s": "了解HSP GRUPPE如何利用ChatGPT Enterprise提升生产力、改善工作质量，并为税务咨询和客户服务创造更多容量。"
-},
-"https://the-decoder.com/?p=38687": {
-"t": "亚马逊、Cursor、微软、OpenAI与Vercel联手制定AI代理插件共享标准",
-"s": "亚马逊、Cursor、微软、OpenAI和Vercel共同创建了Agent Plugins，这是一个开放标准，为AI代理扩展定义了统一的包格式。1.0.0版本采用plugin.json清单文件，并支持代理技能和MCP服务器。文章《亚马逊、Cursor、微软、OpenAI与Vercel联手制定AI代理插件共享标准》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3151175": {
-"t": "Cloudflare推出Kitesurf，一款专为AI代理打造的浏览器",
-"s": "Cloudflare发布了Kitesurf，这是一款面向AI代理而非人类用户的云托管浏览器。该公司表示，该浏览器在执行常见自动化任务时比Chromium消耗更少的计算资源，帮助开发者更高效地构建基于浏览器的AI代理。"
-},
-"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
-"t": "应对关键网络能力的新前沿",
-"s": "OpenAI正在分享针对Astra的初步网络安全评估，以及我们为加强防护措施和安全控制所采取的步骤。"
-},
 "https://techcrunch.com/?p=3151106": {
 "t": "Airbnb表示，AI正助其加快功能发布速度，并测试新搜索功能",
 "s": "Airbnb将推出一项由AI驱动的新搜索体验，并配备一个切换开关。"
@@ -4798,5 +4782,21 @@
 "https://openai.com/index/airbnb-gpt-6-astra": {
 "t": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
 "s": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
+},
+"https://techcrunch.com/?p=3168527": {
+"t": "Everything new coming to Meta’s AI agent Muse",
+"s": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses."
+},
+"https://techcrunch.com/?p=3168692": {
+"t": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+"s": "The tiny hardware device creates another mobile home for its AI agent Muse."
+},
+"https://techcrunch.com/?p=3168626": {
+"t": "Meta introduces camera-free AI glasses",
+"s": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+},
+"guide-language-flow": {
+"t": "How to Guide Your Language Flow",
+"s": "We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. This works using a similar principle as autoguidance, but eliminates the need for an additional forward pass at inference time and provides a reliable path to ensure that the weak and strong model share similar dynamics. We apply and benchmark this method on continuous diffusion language models, where probe guidance sets a new state-of-the-art performance on unconditional generation. When applied to a…"
 }
 }
