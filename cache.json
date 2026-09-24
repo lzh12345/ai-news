@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=3151106": {
-"t": "Airbnb表示，AI正助其加快功能发布速度，并测试新搜索功能",
-"s": "Airbnb将推出一项由AI驱动的新搜索体验，并配备一个切换开关。"
-},
 "01KZCHBWNB93JTTPTBKQZF0SG9": {
 "t": "揭示代理互联网上的良好与不良行为",
 "s": "Cloudflare正在将机器人缓解从时点风险评估转向持续信任评估。了解我们的系统（包括BotBase和Precursor）如何评估机器人和代理的新良好与不良行为——并尝试我们的Precursor Trace模拟，看看您自己的光标移动会被评估为人类还是机器人。"
@@ -4798,5 +4794,9 @@
 "guide-language-flow": {
 "t": "How to Guide Your Language Flow",
 "s": "We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. This works using a similar principle as autoguidance, but eliminates the need for an additional forward pass at inference time and provides a reliable path to ensure that the weak and strong model share similar dynamics. We apply and benchmark this method on continuous diffusion language models, where probe guidance sets a new state-of-the-art performance on unconditional generation. When applied to a…"
+},
+"https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
+"t": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+"s": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
 }
 }

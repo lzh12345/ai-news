@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 24 Sep 2026 02:26:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 08:53:13 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Everything new coming to Meta’s AI agent Muse</title>
@@ -136,12 +136,28 @@
 <description><![CDATA[【the-decoder.com】YouTube is adding AI tools to its creator studio. A storytelling assistant analyzes scripts and rough cuts, Gemini becomes a chat-based editing assistant for Shorts, and a new live translation feature turns English streams into Spanish. The article YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Advancing Private AI Compute with secure, server-side memory</title>
+<link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】Introducing private, server-side memory to Private AI Compute for personal AI.<br/><br/><a href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Two years of OpenAI Academy</title>
 <link>https://openai.com/index/two-years-of-openai-academy</link>
 <guid isPermaLink="false">https://openai.com/index/two-years-of-openai-academy</guid>
 <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Marking two years of OpenAI Academy and bringing AI skills to even more communities.<br/><br/><a href="https://openai.com/index/two-years-of-openai-academy">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gemini 3.8 text-to-speech says hello</title>
+<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
+<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>YouTube Music gets more conversational with new AI features</title>
@@ -312,6 +328,14 @@
 <description><![CDATA[【techcrunch.com】Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.<br/><br/><a href="https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>ChatGPT Ads expands to Southeast Asia and Taiwan</title>
+<link>https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan</guid>
+<pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.<br/><br/><a href="https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Airbnb widens access to GPT-6 Astra and OpenAI frontier models</title>
 <link>https://openai.com/index/airbnb-gpt-6-astra</link>
 <guid isPermaLink="false">https://openai.com/index/airbnb-gpt-6-astra</guid>
@@ -462,30 +486,6 @@
 <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.<br/><br/><a href="https://openai.com/index/parallel-cuts-time-and-cost-with-astra">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How UK AISI and EvalEval Are Making Benchmark Results Reproducible</title>
-<link>https://huggingface.co/blog/evaleval-aisi</link>
-<guid isPermaLink="false">https://huggingface.co/blog/evaleval-aisi</guid>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/evaleval-aisi">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Transformers now runs llama.cpp quants</title>
-<link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
-<guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/transformers-llama-cpp-quants">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
-<link>https://huggingface.co/blog/omlx</link>
-<guid isPermaLink="false">https://huggingface.co/blog/omlx</guid>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/omlx">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
