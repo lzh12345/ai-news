@@ -1,72 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/": {
-"t": "字节跳动训练大规模AI模型，意在挑战Anthropic",
-"s": "TikTok母公司正在训练一个拥有10万亿参数的模型。"
-},
-"https://techcrunch.com/?p=3151331": {
-"t": "OpenAI称因安全顾虑放缓Astra模型开发",
-"s": "OpenAI表示，这款仍在开发中的模型已达到其“关键网络安全阈值”，意味着它能够独立识别并对传统上防护良好的现实世界系统发起网络攻击。"
-},
-"https://www.marktechpost.com/?p=81617": {
-"t": "腾讯云开源TencentDB Agent Memory v2.0：面向AI编程代理的团队级记忆中心",
-"s": "腾讯云已开源TencentDB Agent Memory v2.0，这是一个团队级记忆中心，可将对话、文档和代码转化为四种受管且可复用的资产——聊天记忆、技能、LLM维基和代码图谱。该项目采用MIT许可证，可通过Docker自托管，并集成了Claude Code、OpenClaw、Hermes和CodeBuddy。其差异化优势不在于检索，而在于治理：基于ACL的可见性决定了哪个代理可访问哪些资产，以及哪个版本有效。原文《腾讯云开源TencentDB Agent Memory v2.0：面向AI编程代理的团队级记忆中心》首发于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3151218": {
-"t": "Rippling数月烧掉数百万于AI后，打造员工投资回报率工具",
-"s": "在自身AI使用警钟敲响后，Rippling本周推出了AI Spend Console，这是一款追踪员工个人及团队AI支出的产品。"
-},
-"https://www.marktechpost.com/?p=81613": {
-"t": "使用NVIDIA NeMo Retriever、托管NIM、LanceDB、重排序及基于事实的生成构建多模态RAG管道",
-"s": "在本教程中，我们使用NVIDIA NeMo Retriever构建了一个先进的多模态检索增强生成管道。我们首先配置Python 3.12环境，安装所需包，并在不依赖GPU或外部API密钥的情况下进行离线PDF文本提取。随后，我们通过托管NVIDIA NIM端点扩展工作流程，以检测页面[…] 该文章《使用NVIDIA NeMo Retriever、托管NIM、LanceDB、重排序及基于事实的生成构建多模态RAG管道》最初出现在MarkTechPost上。"
-},
-"https://www.marktechpost.com/?p=81609": {
-"t": "NVIDIA AI发布NOOA：一个面向对象的Python框架，将AI代理转化为单一Python类",
-"s": "NVIDIA实验室已开源NOOA（NVIDIA面向对象代理），这是一个模型无关的Python框架，用于构建AI代理。当前代理开发分散在提示模板、工具模式、回调代码和工作流图中。NOOA将所有内容整合到一个Python类中。方法是模型可以采取的动作。字段是代理状态。文档字符串是提示。[…] 该文章首次出现在MarkTechPost上。"
-},
-"diffusion-autoregressive-performance": {
-"t": "超越下一个词元预测：扩散式与自回归语言模型的性能特征对比研究",
-"s": "大型语言模型（LLMs）已在广泛自然语言处理（NLP）任务中达到最先进性能，包括文档处理和代码生成。自回归语言模型（ARMs）通过依次生成词元并基于所有先前词元进行条件化，一直是LLMs的主导范式。尽管这些模型在多种下游任务中实现了高精度，但由于下一个词元预测中固有的顺序依赖性，它们表现出较低的算术强度。近期，扩散语言模型（DLMs）作为一种有前景的替代方案崭露头角……"
-},
-"arbitrage-efficient-reasoning": {
-"t": "套利：通过优势感知推测实现高效推理",
-"s": "现代大型语言模型通过长思维链实现了令人印象深刻的推理能力，但这在推理过程中带来了巨大的计算成本，因此推动了提升性能-成本比的技术发展。在这些技术中，推测解码通过使用快速但不精确的草稿模型自回归地提出令牌，然后由更强大的目标模型并行验证这些令牌，从而加速推理。然而，由于在语义等价步骤中令牌不匹配导致的不必要拒绝，传统的令牌级推测解码……"
-},
-"https://www.marktechpost.com/?p=81620": {
-"t": "Mistral AI发布Shieldstral 1.0 3B：一款开放权重、策略自适应的多模态安全分类器，性能媲美其7倍大小的模型",
-"s": "Mistral AI发布了Shieldstral 1.0 3B，这是一款开放权重、策略自适应的多模态安全分类器，将内容审核框架化为一个简单的“是/否”问题，而非固定的危害分类体系。操作者可在推理时以自然语言查询的形式提供策略，并通过一次前向传播获得校准的安全评分——无需重新训练即可调整模型目标。该模型基于Ministral-3-3B-Base-2512构建，配备Pixtral视觉编码器，并在约5410万个样本上训练，报告显示其在文本安全方面的平均F1分数为84.9%（与GPT-OSS-Safeguard-20B相当），多模态安全方面为83.8%，以及91.3%的……"
-},
-"https://the-decoder.com/?p=38731": {
-"t": "xAI的Imagine Image 2.0在Arena基准测试中紧随OpenAI的GPT-Image-2之后",
-"s": "xAI已发布Imagine Image 2.0，作为Grok的新图像生成器。该模型在Arena基准测试中排名第二，仅次于OpenAI的GPT-Image-2。新增的编辑工具如Magic Wand和Multi-Ref Editing，以及预配置模板，旨在满足实际创意工作流程的需求。文章《xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=38587": {
-"t": "Backflip AI将3D扫描转化为可编辑CAD模型，仅需几分钟而非数小时",
-"s": "Backflip AI发布了一款AI模型，能将3D扫描转换为完全可编辑的参数化CAD模型，而这一过程通常需要大量时间和专业知识。据CEO Greg Mark称，大多数工厂为其零件建立的数字模型比例不足百分之一。这家初创公司已获得3000万美元融资，并将其工具作为Autodesk Fusion的插件提供。文章《Backflip AI turns 3D scans into editable CAD models in minutes instead of hours》最先出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=38745": {
-"t": "曾发表AI导致人类灭绝论文的菲尔兹奖得主现已加入OpenAI",
-"s": "新晋菲尔兹奖得主雅各布·齐默尔曼将离开多伦多大学，加入OpenAI从事AI安全研究。在最近的一篇论文中，他分析了AI可能导致人类灭绝的情景，并呼吁大幅增加对安全研究的投入。文章《曾发表AI导致人类灭绝论文的菲尔兹奖得主现已加入OpenAI》最初出现在The Decoder上。"
-},
-"https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/": {
-"t": "DeepMind在飓风预测上的突破令气象科学家惊讶",
-"s": "开源WeatherNext模型能以较低分辨率的气象数据做出准确预测。"
-},
-"https://the-decoder.com/?p=38738": {
-"t": "AI代理消耗的能量大约是简单聊天提示的600倍",
-"s": "气候科学家泽克·豪斯法瑟记录了他八周内使用Claude Code的情况：处理了32亿个令牌，消耗了约170千瓦时的数据中心电力。每个提示的能耗大约是典型AI聊天的600倍。他的数据揭示了谷歌和OpenAI报告的低数值如何扭曲了基于代理的AI的现实。文章《AI代理消耗的能量大约是简单聊天提示的600倍》最初出现在The Decoder上。"
-},
-"https://www.marktechpost.com/?p=81626": {
-"t": "使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出",
-"s": "深入了解Reflex XY Python库的高级可视化功能。本教程指导您构建高性能、交互式图表——从处理百万点数据集和实时流式处理，到创建自定义标记插件和导出出版级视觉效果。文章《使用Reflex XY设计可扩展的交互式可视化：组合、百万点渲染、流式处理、自定义标记与导出》最初发表于MarkTechPost。"
-},
-"https://the-decoder.com/?p=38766": {
-"t": "Anthropic将Claude Code默认设为自动模式，以保护开发者免受不良审批影响",
-"s": "自8月14日起，Anthropic将把Claude Code中的自动模式设为Pro、Max和Team计划的默认选项。公司表示这更安全。在测试中，分类器捕捉到了89%的危险命令，而人工审查员仅捕捉到13.6%。对于最广泛使用的AI编码工具而言，这意味着开发者正进一步从编写代码转向监控AI输出。文章《Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38758": {
-"t": "读者在得知故事由机器撰写前，对AI生成的短篇小说评价高于人类作品",
-"s": "一项新研究显示，人们无法区分ChatGPT生成的短篇小说与人类创作的作品。超过2500名参与者的表现仅相当于随机猜测。实际上，AI生成的文本获得了更高的评分，但一旦参与者得知这些故事由机器撰写，评分便随之下降。本文《读者在得知故事由机器撰写前，对AI生成的短篇小说评价高于人类作品》首发于The Decoder。"
-},
 "https://the-decoder.com/?p=38751": {
 "t": "Claude Code会话现在可以相互通信，并在终端间共享上下文",
 "s": "Claude Code现在允许会话之间相互通信。在macOS和Linux系统上，并行运行的实例可以发送消息、分享见解，并检查彼此的状态。文章《Claude Code sessions can now talk to each other and share context across terminals》最初出现在The Decoder上。"
@@ -4798,5 +4730,73 @@
 "latent-space-distillation": {
 "t": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
 "s": "System-wide Dictation on Apple devices runs entirely on-device, and the speech it transcribes reaches the foundation model through a tokenizer: an encoder that maps short windows of waveform onto the representation the language model reads. Because that model is sparsely activated under Instruction-Following Pruning, only a small subset of its experts occupies DRAM at any time, so the always-on tokenizer competes for the same memory, and its parameter count bears directly on power and latency. In this work we study how to compress such a tokenizer by distillation, taking as the supervision…"
+},
+"https://github.blog/?p=98939": {
+"t": "When chat is the wrong UI",
+"s": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog."
+},
+"https://the-decoder.com/?p=40632": {
+"t": "Top AI experts badly underestimated how fast the field is moving, study finds",
+"s": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue is about five times what experts predicted. But forecasts for real-world uses like self-driving cars paint a more mixed picture. The article Top AI experts badly underestimated how fast the field is moving, study finds appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3169215": {
+"t": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+"s": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
+},
+"https://techcrunch.com/?p=3169128": {
+"t": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+"s": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+},
+"https://github.blog/?p=98465": {
+"t": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+"s": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog."
+},
+"https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/": {
+"t": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+"s": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear."
+},
+"https://techcrunch.com/?p=3169077": {
+"t": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+"s": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
+},
+"https://the-decoder.com/?p=40629": {
+"t": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update",
+"s": "Tokyo-based Sakana AI has hired Jürgen Schmidhuber as Chief Scientific Advisor. Sakana calls him the \"father of modern AI.\" He'll help lead the company's new RSI Lab, which works on recursive self-improvement, meaning AI that keeps developing itself. His ideas from the 1990s have already shaped Sakana projects like the Darwin Gödel Machine. The article Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40623": {
+"t": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
+"s": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1. But the challenges are steep: you'd need around 10,000 satellites to match a single 1-gigawatt data center on Earth, and Jeff Bezos thinks it could take 20 years before orbital data centers beat ground-based ones on cost. The article Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3169009": {
+"t": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+"s": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
+},
+"https://the-decoder.com/?p=40618": {
+"t": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
+"s": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next. With just seven billion parameters, it sets a record on the RoboLab-120 benchmark while running up to 3.95 times faster than the previous top model. The article Black Forest Labs launches FLUX 3 Action, an open robotics AI model appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3168895": {
+"t": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+"s": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
+},
+"https://techcrunch.com/?p=3168635": {
+"t": "TechCrunch Founder Summit 2026: Everything you need to know",
+"s": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
+},
+"https://techcrunch.com/?p=3169016": {
+"t": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+"s": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
+},
+"https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
+"t": "Introducing Gemini 3.8 Live with Live Avatar",
+"s": ""
+},
+"https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/": {
+"t": "Google's first Suncatcher orbital data center test launches October 1",
+"s": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
+},
+"practical-recipe-federated-asr": {
+"t": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization",
+"s": "Semi-supervised federated learning (SSFL) trains models on clients’ unlabeled data using a teacher to generate pseudo-labels, with a small labeled seed dataset on the server. Automatic Speech Recognition (ASR) is particularly fragile here: pseudo-label errors compound across the output sequence and across training rounds into divergence, leaving a large gap to fully-supervised FL. We show that closing this gap turns on two coupled design axes—the teacher (which model generates the pseudo-labels) and the anchor (the server-side updates on labeled data that stabilize training). On the teacher…"
 }
 }
