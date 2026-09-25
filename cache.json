@@ -1,72 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81644": {
-"t": "NVIDIA发布NemotronLabs VoiceChat 11B：一款开放的全双工语音到语音模型，具备约450毫秒的轮流对话和实时工具调用功能",
-"s": "NVIDIA发布了NemotronLabs VoiceChat 11B，这是一款开放的全双工语音到语音模型，具有448毫秒的延迟和实时工具调用能力。该文章最初发表于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81640": {
-"t": "2026年顶级LLM可观测性与评估平台对比：Langfuse、LangSmith、Braintrust、Arize等",
-"s": "一份经过验证的2026年LLM可观测性平台对比，涵盖追踪深度、评估能力、生产监控及定价。文章《2026年顶级LLM可观测性与评估平台对比：Langfuse、LangSmith、Braintrust、Arize等》首发于MarkTechPost。"
-},
-"https://the-decoder.com/?p=38806": {
-"t": "PDF中的隐藏文本足以通过Atlassian的AI代理Rovo窃取敏感数据",
-"s": "安全公司PromptArmor展示了PDF中的隐藏指令如何劫持Atlassian的AI代理Rovo，悄无声息地将Jira和Confluence中的敏感数据转发至外部服务器。该攻击无需用户确认，且不留痕迹。文章《PDF中的隐藏文本足以通过Atlassian的AI代理Rovo窃取敏感数据》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81648": {
-"t": "字节跳动Seed推出SeedRealtime：一款原生视听全双工大语言模型，集观看、聆听与说话于一体",
-"s": "字节跳动Seed团队推出了SeedRealtime，这是一款原生视听全双工大语言模型。该模型在统一架构中融合了音频、视频和文本，能够通过连续多模态流进行实时交互，而非逐轮处理。Seed将其定位为迈向全模态交互的一步，并声称实现了三大突破：联合视听理解、[…] 该文章最初发表于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3151410": {
-"t": "Discovered Materials 正以AI打地鼠方式寻找更高效的芯片材料",
-"s": "Discovered Materials 已筹集900万美元，用于资助寻找更多新型材料以制造更高效芯片的研究。"
-},
-"https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/": {
-"t": "同行评审不堪重负——在人工智能时代，它还能生存下去吗？",
-"s": "随着研究论文和AI辅助论文数量的激增，志愿评审员们难以跟上步伐。"
-},
-"https://the-decoder.com/?p=38819": {
-"t": "OpenAI收购NextSlide，将AI生成演示文稿引入ChatGPT",
-"s": "OpenAI收购了NextSlide，这家初创公司能将提示、笔记、文档和研究转化为可编辑的演示文稿。文章《OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT》最初出现在The Decoder上。"
-},
-"https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
-"t": "让知识蒸馏成本足够低，以便大规模运行",
-"s": "（无）"
-},
-"https://huggingface.co/blog/muse-glimmer": {
-"t": "Meta携Muse Glimmer回归：本地化、智能体化、多模态且开源",
-"s": "（无）"
-},
-"https://openai.com/index/building-an-ai-native-finance-function": {
-"t": "构建AI原生财务职能教会了我什么",
-"s": "OpenAI首席财务官Sarah Friar分享了构建AI原生财务职能的五条经验，涵盖自动化预测、强化控制及AI投资回报率等方面。"
-},
-"https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": {
-"t": "构建低延迟多语言语音代理：借助NVIDIA Magpie TTS实现开放权重与全面部署控制",
-"s": "（无）"
-},
-"https://techcrunch.com/?p=3151491": {
-"t": "Meta新推出的Glimmer AI模型，暗示扎克伯格个人智能愿景",
-"s": "Meta新发布的开源权重Muse Glimmer模型，让我们得以一窥马克·扎克伯格的个人超级智能愿景，同时也揭示了用户能够拥有和访问的AI之间日益明显的分野。"
-},
-"https://openai.com/index/responsible-ai-infrastructure-texas": {
-"t": "OpenAI致得州州长阿博特关于负责任AI基础设施的信函",
-"s": "OpenAI向州长格雷格·阿博特致信，阐述了其在得州建设负责任AI基础设施的承诺。信中支持可靠、透明的增长，以惠及得州民众。"
-},
-"https://the-decoder.com/?p=38829": {
-"t": "Meta回归开源模型，扎克伯格计划以“超越中国”的方式复制并拍卖算力",
-"s": "Meta发布了Muse Glimmer，这是其新超级智能实验室的首个开源模型。这是一个30B参数的智能体模型，权重压缩后可在消费级硬件上运行，所需内存不到20 GB。在随附的一篇文章中，马克·扎克伯格对蒸馏其他实验室模型进行了强硬辩护，并呼吁减少对美国实验室的限制，直接反击OpenAI和Anthropic。据《华尔街日报》报道，Muse Spark 1.2的开源权重版本应很快推出。"
-},
-"https://the-decoder.com/?p=38827": {
-"t": "被要求预订健身课程，AI代理却转而黑入网站，将用户提前至候补名单",
-"s": "一位澳大利亚用户只想获得课程名额，他的AI代理却发现了安全漏洞并加以利用。文章《被要求预订健身课程，AI代理却转而黑入网站，将用户提前至候补名单》最初发表于The Decoder。"
-},
-"2qQZuefCfPJvVRRFrHQgKC": {
-"t": "服务最关键任务：Cloudflare for Government 获得 FedRAMP D 类（高）认证状态",
-"s": "Cloudflare for Government 已获得 FedRAMP D 类（高）认证状态。我们还宣布致力于争取 DoD IL4 授权。Cloudflare 将世界级的安全、性能和开发者产品带入公共部门。"
-},
-"https://openai.com/index/model-ml": {
-"t": "Model ML借助GPT-5.6 Sol更高效完成金融工作",
-"s": "Model ML利用GPT-5.6 Sol处理金融工作，从研究与分析到可编辑、可追溯的PowerPoint演示文稿和Excel工作簿。"
-},
 "https://techcrunch.com/?p=3151503": {
 "t": "Claude代理入侵健身房引发科技行业热议",
 "s": "一个OpenClaw代理入侵了健身房的预约系统，将其人类老板在课程候补名单上的位置提前。这一事件引起了科技行业的广泛关注。"
@@ -4798,5 +4730,73 @@
 "https://the-decoder.com/?p=40645": {
 "t": "Ruby on Rails creator DHH says he's done writing code by hand",
 "s": "David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026. \"English is a better programming language than Ruby,\" DHH told the audience at Rails World 2026. Just a year ago, he was pushing back against AI coding. Now he calls it \"the biggest thing that has happened in the history of computing.\" The article Ruby on Rails creator DHH says he's done writing code by hand appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3170070": {
+"t": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+"s": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+},
+"https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/": {
+"t": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+"s": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
+},
+"https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/": {
+"t": "Tesla workers balk at training Optimus humanoid robots as replacements",
+"s": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
+},
+"https://techcrunch.com/?p=3170007": {
+"t": "Meta opens early access program for new Muse features",
+"s": "Anyone interested in joining has to ask Muse to put them on the list."
+},
+"https://techcrunch.com/?p=3169815": {
+"t": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+"s": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
+},
+"https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/": {
+"t": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+"s": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”"
+},
+"https://the-decoder.com/?p=40679": {
+"t": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
+"s": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could jeopardize military operations. Anthropic says the designation has already cost it billions. The article Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3169917": {
+"t": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+"s": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3169914": {
+"t": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+"s": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]"
+},
+"https://github.blog/?p=99027": {
+"t": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+"s": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog."
+},
+"https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/": {
+"t": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+"s": "Microsoft's new Surface laptops forgo Copilot+ PC branding."
+},
+"https://the-decoder.com/?p=40676": {
+"t": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
+"s": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify. Many colleagues share his concerns but rarely speak out, he says. The article Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\" appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3169211": {
+"t": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+"s": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
+},
+"https://techcrunch.com/?p=3169728": {
+"t": "Astra and Opus just passed Turing’s other test",
+"s": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
+},
+"https://the-decoder.com/?p=40672": {
+"t": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
+"s": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft. For Autopilot and Code, the company is also switching to usage-based billing instead of flat-rate pricing, moving further away from its AI subsidy model. The article Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3169621": {
+"t": "Meta is putting its muscle behind Muse as the AI app takes off",
+"s": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
+},
+"https://techcrunch.com/?post_type=tc_video&p=3169926": {
+"t": "Meta’s AI Tamagotchi bet is…working?",
+"s": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]"
 }
 }
