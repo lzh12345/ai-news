@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=38751": {
-"t": "Claude Code会话现在可以相互通信，并在终端间共享上下文",
-"s": "Claude Code现在允许会话之间相互通信。在macOS和Linux系统上，并行运行的实例可以发送消息、分享见解，并检查彼此的状态。文章《Claude Code sessions can now talk to each other and share context across terminals》最初出现在The Decoder上。"
-},
-"https://techcrunch.com/?p=3151377": {
-"t": "OpenAI 收购演示文稿初创公司 NextSlide",
-"s": "NextSlide 表示其团队成员现正致力于 ChatGPT 的开发工作。"
-},
 "https://techcrunch.com/?p=3151379": {
 "t": "亚马逊计划中的数据中心或将成为美国最大气候污染源",
 "s": "作为德克萨斯州计划中的数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。"
@@ -4798,5 +4790,13 @@
 "practical-recipe-federated-asr": {
 "t": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization",
 "s": "Semi-supervised federated learning (SSFL) trains models on clients’ unlabeled data using a teacher to generate pseudo-labels, with a small labeled seed dataset on the server. Automatic Speech Recognition (ASR) is particularly fragile here: pseudo-label errors compound across the output sequence and across training rounds into divergence, leaving a large gap to fully-supervised FL. We show that closing this gap turns on two coupled design axes—the teacher (which model generates the pseudo-labels) and the anchor (the server-side updates on labeled data that stabilize training). On the teacher…"
+},
+"https://the-decoder.com/?p=40641": {
+"t": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
+"s": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3169287": {
+"t": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+"s": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
 }
 }
