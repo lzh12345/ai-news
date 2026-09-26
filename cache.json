@@ -1,12 +1,4 @@
 {
-"https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
-"t": "将前沿网络模型交予更值得信赖的机构",
-"s": "经批准的Daybreak合作伙伴可使用OpenAI的前沿网络模型，为客户提供经授权且受监管的网络安全服务。"
-},
-"https://openai.com/index/premium-seats-chatgpt-business": {
-"t": "ChatGPT Business 即将推出高级席位",
-"s": "ChatGPT Business 即将推出高级席位。在8月20日前注册，即可获得100美元的工作区积分，并为团队最繁重的工作解锁更高使用权限。"
-},
 "https://techcrunch.com/?p=3151767": {
 "t": "OpenAI据报道完成了70亿美元员工股票出售要约",
 "s": "旧金山的房地产市场再次陷入困境。"
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=40682": {
 "t": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
 "s": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions. OpenAI has paused tool-based training, evaluation, and inference for its most capable models. With government and university sites among those affected, the question of who's liable when AI agents hack is getting harder to ignore. The article OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40706": {
+"t": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
+"s": "Speaking to 160 IT vice presidents in Las Vegas, tech entrepreneur Azeem Azhar asked who had measurable AI results. Two-thirds raised their hands. Then he asked who had results good enough to interrupt the CEO's summer vacation. Only eight did. Whether that slow pace of progress justifies the massive investments is one of the key questions in the AI bubble debate. The article Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40698": {
+"t": "AI access makes people almost entirely unwilling to say \"I don't know,\" study finds",
+"s": "A study with more than 3,000 participants shows that just having access to AI answers nearly eliminated people's willingness to say \"I don't know.\" In one experiment, it dropped from 44 to 3 percent, even though the AI was almost always wrong. Participants who used AI felt more confident but were correct only about a third as often as those without it. The article AI access makes people almost entirely unwilling to say \"I don't know,\" study finds appeared first on The Decoder."
 }
 }
