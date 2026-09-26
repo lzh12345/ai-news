@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 26 Sep 2026 08:57:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 15:26:33 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>I created an interactive digital avatar of myself — and you can talk to it</title>
+<link>https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3167791</guid>
+<pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.<br/><br/><a href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness</title>
+<link>https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40688</guid>
+<pubDate>Sat, 26 Sep 2026 10:30:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develop the system, though the gains were smaller on other benchmarks. The article Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf</title>
+<link>https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40665</guid>
+<pubDate>Sat, 26 Sep 2026 09:44:54 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent. According to Epoch AI, the speed isn't quite fast enough yet for real-time assembly guidance, but the gap is closing quickly. The article OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI pauses its &quot;most capable models&quot; after agents exploit loopholes and leak data</title>
+<link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40682</guid>
+<pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions. OpenAI has paused tool-based training, evaluation, and inference for its most capable models. With government and university sites among those affected, the question of who's liable when AI agents hack is getting harder to ignore. The article OpenAI pauses its "most capable models" after agents exploit loopholes and leak data appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>At Meta Connect, the company’s smart glasses were everywhere</title>
 <link>https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/</link>
@@ -272,22 +304,6 @@
 <description><![CDATA[【the-decoder.com】Anthropic has reportedly signed a seven-year, $11.6 billion cloud deal with Akamai Technologies and will receive a warrant for up to 5 percent of Akamai's shares. Its compute deals have reportedly totaled $517 billion in 11 months. CEO Dario Amodei has warned that Anthropic could go bankrupt if its revenue forecasts are even slightly off. The article Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Ruby on Rails creator DHH says he's done writing code by hand</title>
-<link>https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40645</guid>
-<pubDate>Fri, 25 Sep 2026 09:50:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026. "English is a better programming language than Ruby," DHH told the audience at Rails World 2026. Just a year ago, he was pushing back against AI coding. Now he calls it "the biggest thing that has happened in the history of computing." The article Ruby on Rails creator DHH says he's done writing code by hand appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers</title>
-<link>https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40641</guid>
-<pubDate>Fri, 25 Sep 2026 08:12:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Lightspeed targets $250M for new India fund, focusing on early-stage AI</title>
 <link>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3169287</guid>
@@ -304,28 +320,12 @@
 <description><![CDATA[【github.blog】What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Top AI experts badly underestimated how fast the field is moving, study finds</title>
-<link>https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40632</guid>
-<pubDate>Thu, 24 Sep 2026 19:18:33 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue is about five times what experts predicted. But forecasts for real-world uses like self-driving cars paint a more mixed picture. The article Top AI experts badly underestimated how fast the field is moving, study finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass</title>
 <link>https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3169215</guid>
 <pubDate>Thu, 24 Sep 2026 19:15:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.<br/><br/><a href="https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>PrismML brings its tiny LLMs to Qualcomm-powered smart glasses</title>
-<link>https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169128</guid>
-<pubDate>Thu, 24 Sep 2026 19:00:42 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.<br/><br/><a href="https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</title>
@@ -342,6 +342,14 @@
 <pubDate>Thu, 24 Sep 2026 18:20:58 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing Gemini 3.8 Live with Live Avatar</title>
+<link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
+<pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google's first Suncatcher orbital data center test launches October 1</title>
@@ -448,6 +456,14 @@
 <description><![CDATA[【arstechnica.com】"So absurd and embarrassing ..."<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Advancing Private AI Compute with secure, server-side memory</title>
+<link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】Introducing private, server-side memory to Private AI Compute for personal AI.<br/><br/><a href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Two years of OpenAI Academy</title>
 <link>https://openai.com/index/two-years-of-openai-academy</link>
 <guid isPermaLink="false">https://openai.com/index/two-years-of-openai-academy</guid>
@@ -456,36 +472,20 @@
 <description><![CDATA[【openai.com】Marking two years of OpenAI Academy and bringing AI skills to even more communities.<br/><br/><a href="https://openai.com/index/two-years-of-openai-academy">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Gemini 3.8 text-to-speech says hello</title>
+<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
+<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI extends cyber access to Ukraine for civilian defense</title>
 <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
 <guid isPermaLink="false">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
 <pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.<br/><br/><a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.</title>
-<link>https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/</link>
-<guid isPermaLink="false">https://github.blog/?p=98976</guid>
-<pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Sam Altman’s remarks at the United Nations Security Council</title>
-<link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-<guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.<br/><br/><a href="https://openai.com/index/sam-altman-un-security-council-remarks">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
-<link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-<guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.<br/><br/><a href="https://openai.com/index/harvey-from-context-to-confidence-with-astra">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

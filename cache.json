@@ -1,20 +1,4 @@
 {
-"01KZEF237MMZ9CHJ8RTKBA8G7A": {
-"t": "我们在智能体周期间推出的所有内容",
-"s": "我们最近的智能体周已落下帷幕。以下是我们在该周发布的所有公告的回顾，从钱包到雷达。"
-},
-"https://the-decoder.com/?p=38851": {
-"t": "旧式OCR文本阻碍语言模型训练，FineBooks欲大规模解决此问题",
-"s": "Hugging Face与EleutherAI的FineBooks项目在超过2000页历史书籍上测试了14种开源OCR模型。表现最佳的模型dots.mocr，在每千页成本低于两美元的情况下，字符准确率达到97.6%。团队表示，这一水平足以用于AI训练数据，但尚不足以满足学术转录需求。文章《Old OCR text cripples language model training, and FineBooks wants to fix that at scale》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38855": {
-"t": "OpenAI发布GPT-5.6-Cyber，助力防御者先于攻击者发现漏洞",
-"s": "OpenAI旨在为网络安全防御者提供先机：新型GPT-5.6-Cyber模型能回答高达98.5%的原本会被拦截的安全查询，并已发现两个此前未知的Chrome漏洞。据OpenAI称，防御者的机会窗口正在缩小。访问该模型需进行身份验证。文章《OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do》最初发表于The Decoder。"
-},
-"https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
-"t": "随着网络防御窗口收窄，Daybreak不断扩展",
-"s": "认识GPT-5.6-Cyber，OpenAI专为网络安全设计的模型，通过Daybreak Red供授权漏洞研究、漏洞验证及安全测试使用。"
-},
 "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
 "t": "将前沿网络模型交予更值得信赖的机构",
 "s": "经批准的Daybreak合作伙伴可使用OpenAI的前沿网络模型，为客户提供经授权且受监管的网络安全服务。"
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3169081": {
 "t": "At Meta Connect, the company’s smart glasses were everywhere",
 "s": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
+},
+"https://techcrunch.com/?p=3167791": {
+"t": "I created an interactive digital avatar of myself — and you can talk to it",
+"s": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+},
+"https://the-decoder.com/?p=40688": {
+"t": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+"s": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develop the system, though the gains were smaller on other benchmarks. The article Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40665": {
+"t": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+"s": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent. According to Epoch AI, the speed isn't quite fast enough yet for real-time assembly guidance, but the gap is closing quickly. The article OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40682": {
+"t": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+"s": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions. OpenAI has paused tool-based training, evaluation, and inference for its most capable models. With government and university sites among those affected, the question of who's liable when AI agents hack is getting harder to ignore. The article OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data appeared first on The Decoder."
 }
 }
