@@ -1,24 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81652": {
-"t": "Meta AI发布Muse Glimmer：一款可在单张消费级GPU上运行的300亿参数开放权重智能体模型",
-"s": "Meta的Muse Glimmer是一款基于Apache 2.0许可的300亿参数开放权重智能体模型。它适配24GB显存，并通过DFlash投机解码实现3.1倍更快的解码速度。该文章最初发表于MarkTechPost。"
-},
-"https://openai.com/index/zapier": {
-"t": "Zapier如何利用ChatGPT Work转型核心营销流程",
-"s": "Zapier的企业营销团队使用ChatGPT Work来减少潜在客户漏斗中的流失率，构建营销活动资产，并自动化报告流程。"
-},
-"https://openai.com/index/virgin-atlantic/chatgpt-work": {
-"t": "维珍大西洋航空借助ChatGPT Work优化客户旅程",
-"s": "维珍大西洋航空正利用ChatGPT Work加速研究、产品规划与决策过程，帮助团队连接客户旅程中的各项信号。"
-},
-"https://techcrunch.com/?p=3151799": {
-"t": "Anthropic表示将为其AI模型生成的文本添加水印",
-"s": "Anthropic还将扩展对旧版模型AI生成内容水印的支持。"
-},
-"https://the-decoder.com/?p=38876": {
-"t": "OpenAI为ChatGPT企业版推出125美元高级席位，代理式AI消耗更多令牌",
-"s": "OpenAI正在为ChatGPT企业客户推出“高级席位”，每位用户每月收费125美元，是现有标准席位价格的五倍。作为回报，用户将获得显著更高的容量，且不再有五小时使用限制。此举表明，AI提供商迄今提供的固定费率定价模式注定无法持久。本文《OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens》最初发表于The Decoder。"
-},
 "https://the-decoder.com/?p=38873": {
 "t": "Anthropic与比特币矿商Riot Platforms签署91亿美元数据中心协议",
 "s": "据彭博社报道，Anthropic将从比特币矿商Riot Platforms租赁位于德克萨斯州的价值91亿美元的数据中心容量。该协议涵盖Riot Rockdale基地的191兆瓦电力，并包含可扩展选项，总价值可能增至161亿美元。这是Anthropic在基础设施领域积极扩张的最新举措，其合作伙伴从亚马逊延伸至SpaceX和谷歌。文章《Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms》最初发表于The Decoder。"
@@ -4798,5 +4778,25 @@
 "https://the-decoder.com/?p=40713": {
 "t": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
 "s": "Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's levels. Measured against GDP, it would be the biggest investment cycle since railroad construction in the 19th century. Bottlenecks in power, labor, and memory chips could slow the pace, though. The article Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40741": {
+"t": "AI agents do more of the work in model development, but humans still make the decisions",
+"s": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions. A third of the tasks wouldn't have been attempted without AI. The authors warn that more agent activity doesn't mean more autonomy. The article AI agents do more of the work in model development, but humans still make the decisions appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40738": {
+"t": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+"s": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The report traces the company's deep ties to the Effective Altruism movement and a Bay Area network of \"doomers\" who've been gaming out doomsday scenarios for over a decade. The article Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\" appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40733": {
+"t": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+"s": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40728": {
+"t": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
+"s": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained control layer, letting the language model call directly into modular skills like grasping and navigating. The article Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40725": {
+"t": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
+"s": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are intentionally short-term bets. But Power doesn't see model performance as the biggest problem. Most users don't even know what they can do with AI. The article OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond appeared first on The Decoder."
 }
 }

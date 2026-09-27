@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 27 Sep 2026 09:40:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 16:06:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI agents do more of the work in model development, but humans still make the decisions</title>
+<link>https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40741</guid>
+<pubDate>Sun, 27 Sep 2026 15:18:39 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions. A third of the tasks wouldn't have been attempted without AI. The authors warn that more agent activity doesn't mean more autonomy. The article AI agents do more of the work in model development, but humans still make the decisions appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Some Anthropic veterans are reportedly buying remote land in case &quot;AI goes awry&quot;</title>
+<link>https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40738</guid>
+<pubDate>Sun, 27 Sep 2026 13:03:05 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The report traces the company's deep ties to the Effective Altruism movement and a Bay Area network of "doomers" who've been gaming out doomsday scenarios for over a decade. The article Some Anthropic veterans are reportedly buying remote land in case "AI goes awry" appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time</title>
+<link>https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40733</guid>
+<pubDate>Sun, 27 Sep 2026 11:01:13 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen</title>
+<link>https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40728</guid>
+<pubDate>Sun, 27 Sep 2026 10:59:11 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained control layer, letting the language model call directly into modular skills like grasping and navigating. The article Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond</title>
+<link>https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40725</guid>
+<pubDate>Sun, 27 Sep 2026 10:36:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are intentionally short-term bets. But Power doesn't see model performance as the biggest problem. Most users don't even know what they can do with AI. The article OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning</title>
 <link>https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/</link>
@@ -70,30 +110,6 @@
 <pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.<br/><br/><a href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness</title>
-<link>https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40688</guid>
-<pubDate>Sat, 26 Sep 2026 10:30:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develop the system, though the gains were smaller on other benchmarks. The article Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf</title>
-<link>https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40665</guid>
-<pubDate>Sat, 26 Sep 2026 09:44:54 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent. According to Epoch AI, the speed isn't quite fast enough yet for real-time assembly guidance, but the gap is closing quickly. The article OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI pauses its &quot;most capable models&quot; after agents exploit loopholes and leak data</title>
-<link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40682</guid>
-<pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions. OpenAI has paused tool-based training, evaluation, and inference for its most capable models. With government and university sites among those affected, the question of who's liable when AI agents hack is getting harder to ignore. The article OpenAI pauses its "most capable models" after agents exploit loopholes and leak data appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>At Meta Connect, the company’s smart glasses were everywhere</title>
@@ -176,14 +192,6 @@
 <description><![CDATA[【techcrunch.com】Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.<br/><br/><a href="https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says</title>
-<link>https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40679</guid>
-<pubDate>Fri, 25 Sep 2026 18:40:22 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could jeopardize military operations. Anthropic says the designation has already cost it billions. The article Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing</title>
 <link>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3169917</guid>
@@ -214,14 +222,6 @@
 <pubDate>Fri, 25 Sep 2026 17:57:37 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Microsoft's new Surface laptops forgo Copilot+ PC branding.<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Another Google Deepmind researcher quits, says building superintelligent AI soon is &quot;inherently irresponsible&quot;</title>
-<link>https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40676</guid>
-<pubDate>Fri, 25 Sep 2026 17:55:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Deepmind researcher Robert O'Callahan has quit, saying AI's "current rate of change is far too high." He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify. Many colleagues share his concerns but rarely speak out, he says. The article Another Google Deepmind researcher quits, says building superintelligent AI soon is "inherently irresponsible" appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Some Supabase customers are publicly exposing reams of people’s data to the web</title>
@@ -344,6 +344,14 @@
 <description><![CDATA[【arstechnica.com】Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Introducing Gemini 3.8 Live with Live Avatar</title>
+<link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
+<pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Google's first Suncatcher orbital data center test launches October 1</title>
 <link>https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/</link>
 <guid isPermaLink="false">https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/</guid>
@@ -448,6 +456,14 @@
 <description><![CDATA[【arstechnica.com】"So absurd and embarrassing ..."<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Advancing Private AI Compute with secure, server-side memory</title>
+<link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】Introducing private, server-side memory to Private AI Compute for personal AI.<br/><br/><a href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Two years of OpenAI Academy</title>
 <link>https://openai.com/index/two-years-of-openai-academy</link>
 <guid isPermaLink="false">https://openai.com/index/two-years-of-openai-academy</guid>
@@ -456,36 +472,20 @@
 <description><![CDATA[【openai.com】Marking two years of OpenAI Academy and bringing AI skills to even more communities.<br/><br/><a href="https://openai.com/index/two-years-of-openai-academy">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Gemini 3.8 text-to-speech says hello</title>
+<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
+<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI extends cyber access to Ukraine for civilian defense</title>
 <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
 <guid isPermaLink="false">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
 <pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.<br/><br/><a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.</title>
-<link>https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/</link>
-<guid isPermaLink="false">https://github.blog/?p=98976</guid>
-<pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Sam Altman’s remarks at the United Nations Security Council</title>
-<link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-<guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.<br/><br/><a href="https://openai.com/index/sam-altman-un-security-council-remarks">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
-<link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-<guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.<br/><br/><a href="https://openai.com/index/harvey-from-context-to-confidence-with-astra">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
