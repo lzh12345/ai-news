@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 27 Sep 2026 02:46:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 09:40:41 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning</title>
+<link>https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40719</guid>
+<pubDate>Sun, 27 Sep 2026 09:23:36 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring systems. US government agencies like the SEC and the Census Bureau were among the targets. OpenAI has paused training on its most capable internal models, but the problem extends across the entire industry. The article Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates</title>
+<link>https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40713</guid>
+<pubDate>Sun, 27 Sep 2026 08:17:47 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's levels. Measured against GDP, it would be the biggest investment cycle since railroad construction in the 19th century. Bottlenecks in power, labor, and memory chips could slow the pace, though. The article Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
 <link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
@@ -224,14 +240,6 @@
 <description><![CDATA[【techcrunch.com】Frontier AI models are finishing Alan Turing's World War II codebreaking work.<br/><br/><a href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing</title>
-<link>https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40672</guid>
-<pubDate>Fri, 25 Sep 2026 16:30:57 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called "Autopilot." Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft. For Autopilot and Code, the company is also switching to usage-based billing instead of flat-rate pricing, moving further away from its AI subsidy model. The article Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta is putting its muscle behind Muse as the AI app takes off</title>
 <link>https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3169621</guid>
@@ -304,14 +312,6 @@
 <description><![CDATA[【blog.cloudflare.com】Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.<br/><br/><a href="https://blog.cloudflare.com/turnstile-spin/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux</title>
-<link>https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40652</guid>
-<pubDate>Fri, 25 Sep 2026 12:22:27 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta gives every Muse user a free cloud computer running Ubuntu Linux where they can install software, write code, and browse the web. A "Sentinel" process monitors sensitive actions outside the user's workspace, while users can inspect every file in the system. With over 500,000 users in its first week, Meta is betting on product reach over model power. The article Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Trump admin using AI to deny medical care for seniors in disastrous experiment</title>
 <link>https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/</link>
 <guid isPermaLink="false">https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/</guid>
@@ -342,14 +342,6 @@
 <pubDate>Thu, 24 Sep 2026 18:20:58 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Gemini 3.8 Live with Live Avatar</title>
-<link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
-<pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google's first Suncatcher orbital data center test launches October 1</title>
@@ -456,14 +448,6 @@
 <description><![CDATA[【arstechnica.com】"So absurd and embarrassing ..."<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Advancing Private AI Compute with secure, server-side memory</title>
-<link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
-<pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Introducing private, server-side memory to Private AI Compute for personal AI.<br/><br/><a href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Two years of OpenAI Academy</title>
 <link>https://openai.com/index/two-years-of-openai-academy</link>
 <guid isPermaLink="false">https://openai.com/index/two-years-of-openai-academy</guid>
@@ -472,20 +456,36 @@
 <description><![CDATA[【openai.com】Marking two years of OpenAI Academy and bringing AI skills to even more communities.<br/><br/><a href="https://openai.com/index/two-years-of-openai-academy">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Gemini 3.8 text-to-speech says hello</title>
-<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
-<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI extends cyber access to Ukraine for civilian defense</title>
 <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
 <guid isPermaLink="false">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
 <pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.<br/><br/><a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.</title>
+<link>https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/</link>
+<guid isPermaLink="false">https://github.blog/?p=98976</guid>
+<pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sam Altman’s remarks at the United Nations Security Council</title>
+<link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+<guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.<br/><br/><a href="https://openai.com/index/sam-altman-un-security-council-remarks">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
+<link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+<guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.<br/><br/><a href="https://openai.com/index/harvey-from-context-to-confidence-with-astra">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

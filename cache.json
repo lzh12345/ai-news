@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?p=3151570": {
-"t": "马克·扎克伯格的AI宣言正是人们不喜欢AI的原因",
-"s": "周一，马克·扎克伯格发布了一篇6500字的关于个人AI的宣言，主要围绕Meta AI正在构建的“个人超级智能”系统的可能性展开。"
-},
-"https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/": {
-"t": "亚马逊支持可能成为美国气候污染主要来源的发电厂",
-"s": "亚马逊宣布建设首个离网数据中心，竞逐人工智能利润。"
-},
 "https://www.marktechpost.com/?p=81652": {
 "t": "Meta AI发布Muse Glimmer：一款可在单张消费级GPU上运行的300亿参数开放权重智能体模型",
 "s": "Meta的Muse Glimmer是一款基于Apache 2.0许可的300亿参数开放权重智能体模型。它适配24GB显存，并通过DFlash投机解码实现3.1倍更快的解码速度。该文章最初发表于MarkTechPost。"
@@ -4798,5 +4790,13 @@
 "https://techcrunch.com/?p=3170226": {
 "t": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
 "s": "The limited test covers select products and users, with a broader rollout planned for later in October."
+},
+"https://the-decoder.com/?p=40719": {
+"t": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
+"s": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring systems. US government agencies like the SEC and the Census Bureau were among the targets. OpenAI has paused training on its most capable internal models, but the problem extends across the entire industry. The article Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40713": {
+"t": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
+"s": "Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's levels. Measured against GDP, it would be the biggest investment cycle since railroad construction in the 19th century. Bottlenecks in power, labor, and memory chips could slow the pace, though. The article Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates appeared first on The Decoder."
 }
 }
