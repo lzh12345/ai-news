@@ -5,8 +5,264 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 28 Sep 2026 10:20:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 19:01:03 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How we found 24 Android vulnerabilities using our open source AI security agent</title>
+<link>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</link>
+<guid isPermaLink="false">https://github.blog/?p=98105</guid>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia launches new platform for reining in rogue AI agents</title>
+<link>https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170647</guid>
+<pubDate>Mon, 28 Sep 2026 18:31:23 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]<br/><br/><a href="https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task</title>
+<link>https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40777</guid>
+<pubDate>Mon, 28 Sep 2026 18:02:10 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It generates output more than 30 percent faster, costs up to 30 percent less per task, and nearly matches Opus 5.5 on knowledge-work benchmarks. On Terminal-Bench, a coding benchmark, the model jumps from 10.3 to 70.6 percent. With Haiku 5.5 announced for the coming weeks, Anthropic will soon have a direct counterpart to each of OpenAI's three GPT-6 models. The article Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner</title>
+<link>https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170644</guid>
+<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.<br/><br/><a href="https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google is killing off Gemini’s Gems in favor of ‘skills’</title>
+<link>https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170736</guid>
+<pubDate>Mon, 28 Sep 2026 17:29:50 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.<br/><br/><a href="https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Highlights from Git 2.56</title>
+<link>https://github.blog/open-source/git/highlights-from-git-2-56/</link>
+<guid isPermaLink="false">https://github.blog/?p=99087</guid>
+<pubDate>Mon, 28 Sep 2026 17:23:33 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/open-source/git/highlights-from-git-2-56/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</title>
+<link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170628</guid>
+<pubDate>Mon, 28 Sep 2026 17:09:02 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.<br/><br/><a href="https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI's AI agents exploited a Google security education game to scrape UN trade data</title>
+<link>https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40773</guid>
+<pubDate>Mon, 28 Sep 2026 16:56:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents just kept going, adding to a growing list of cases that show how hard it is to keep agentic AI systems in check. The article OpenAI's AI agents exploited a Google security education game to scrape UN trade data appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative</title>
+<link>https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170653</guid>
+<pubDate>Mon, 28 Sep 2026 16:52:38 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.<br/><br/><a href="https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI halts frontier-model training amid string of agent misalignment incidents</title>
+<link>https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/</guid>
+<pubDate>Mon, 28 Sep 2026 16:43:18 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】US Government websites among "dozens of third parties" OpenAI has recently notified.<br/><br/><a href="https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric</title>
+<link>https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40758</guid>
+<pubDate>Mon, 28 Sep 2026 15:32:57 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Steven Pinker thinks fears of AI-driven extinction are overblown, and he has turned down a public debate with blogger Scott Alexander, calling such events a "spectator sport." Alexander puts the odds that AI wipes out humanity at 20 percent. Instead of doomsday rhetoric, Pinker wants sober safety engineering built on independent oversight, liability, and human control. The article Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026</title>
+<link>https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170437</guid>
+<pubDate>Mon, 28 Sep 2026 15:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.<br/><br/><a href="https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>After a deepfake voice fooled her grandfather, this founder sprang into action</title>
+<link>https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3169260</guid>
+<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.<br/><br/><a href="https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Next.js applications, powered by Vite: introducing Vinext 1.0</title>
+<link>https://blog.cloudflare.com/vinext-nextjs-on-vite/</link>
+<guid isPermaLink="false">01M3AZRN7QXCG8CS98YQVRRM60</guid>
+<pubDate>Mon, 28 Sep 2026 14:51:57 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Vinext 1.0 graduates from an AI experiment to a production-ready framework, letting developers run Next.js apps on Vite. This release brings advanced cache warming, broader compatibility, and an automated testing pipeline.<br/><br/><a href="https://blog.cloudflare.com/vinext-nextjs-on-vite/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing cf: the agentic CLI for the entire Cloudflare API</title>
+<link>https://blog.cloudflare.com/cloudflare-cf-cli-launch/</link>
+<guid isPermaLink="false">01M3KR05M9ZET98RWX42EJ7YMG</guid>
+<pubDate>Mon, 28 Sep 2026 14:50:37 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator.<br/><br/><a href="https://blog.cloudflare.com/cloudflare-cf-cli-launch/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta wants to turn Muse into a moneymaker by selling AI services to businesses</title>
+<link>https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40766</guid>
+<pubDate>Mon, 28 Sep 2026 14:48:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Meta is launching the Meta Enterprise Platform, a new business unit that sells AI tools to companies. The article Meta wants to turn Muse into a moneymaker by selling AI services to businesses appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How fast is the web? Explore billions of real-user measurements with BEACON</title>
+<link>https://blog.cloudflare.com/how-fast-is-the-web/</link>
+<guid isPermaLink="false">01M3CW0C8PVD170DBSKBTM8666</guid>
+<pubDate>Mon, 28 Sep 2026 14:43:05 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance breakdowns across browsers and regions.<br/><br/><a href="https://blog.cloudflare.com/how-fast-is-the-web/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips</title>
+<link>https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40765</guid>
+<pubDate>Mon, 28 Sep 2026 14:32:00 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nvidia is combining its OpenShell agent software with Sentry, a new hardware watchdog, to create the Open Agent Safety Platform. Sentry is supposed to isolate AI agents that break out within milliseconds. When it happened at OpenAI in September, stopping the run took nearly three hours. Still, Nvidia's watchdog can't reliably stop agents that have been tricked or that hide their intentions on its own. The article Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026</title>
+<link>https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170359</guid>
+<pubDate>Mon, 28 Sep 2026 14:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.<br/><br/><a href="https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Modulate raises $25M for its voice models and analysis suite</title>
+<link>https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170298</guid>
+<pubDate>Mon, 28 Sep 2026 14:05:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Modulate deploys its models to detect deepfake, fraud and scam<br/><br/><a href="https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Insurtech Outmarket raises $34.5M just months after prior round</title>
+<link>https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170338</guid>
+<pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The startup uses AI to automate tedious paperwork for insurance agencies and brokers.<br/><br/><a href="https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2</title>
+<link>https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3169782</guid>
+<pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.<br/><br/><a href="https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Viral AI agent Instinct raises $1B Series C at a $10B valuation</title>
+<link>https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3170483</guid>
+<pubDate>Mon, 28 Sep 2026 13:38:48 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.<br/><br/><a href="https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents</title>
+<link>https://blog.cloudflare.com/voidzero-update/</link>
+<guid isPermaLink="false">01M3JF3DKKQ5XNFGNAX8ZFJ833</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Since joining Cloudflare, VoidZero has delivered more than 80 releases that drastically speed up JavaScript compilation, linting, and testing. From a 10x faster React compiler to Vite+ 1.0, here’s how we are building faster tools for developers and AI agents.<br/><br/><a href="https://blog.cloudflare.com/voidzero-update/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more</title>
+<link>https://blog.cloudflare.com/forge-open-source-generation-pipeline/</link>
+<guid isPermaLink="false">01M3J4F24CZJFAYS930VMKY6WH</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously in sync.<br/><br/><a href="https://blog.cloudflare.com/forge-open-source-generation-pipeline/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The road to the agentic browser: A Kitesurf update</title>
+<link>https://blog.cloudflare.com/kitesurf-update/</link>
+<guid isPermaLink="false">01M3D84K773S7FMQR5NBJQNFWC</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster.<br/><br/><a href="https://blog.cloudflare.com/kitesurf-update/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing The Cold Start: pitch your startup live at Cloudflare Connect</title>
+<link>https://blog.cloudflare.com/introducing-the-cold-start/</link>
+<guid isPermaLink="false">01M3D7BYYAG8E9BRD4A78X2A11</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare is launching The Cold Start, a startup competition giving five early-stage companies five minutes on stage at Cloudflare Connect. Grand Prize winner receives $500,000 in credits, a San Francisco billboard, and an invitation to our VIP speakers dinner.<br/><br/><a href="https://blog.cloudflare.com/introducing-the-cold-start/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>EmDash 1.0: the stable CMS with a secure plugin registry</title>
+<link>https://blog.cloudflare.com/emdash-cms-plugin-registry/</link>
+<guid isPermaLink="false">01M3D0TCHNJ5AZAV6G5YWHXSBZ</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control.<br/><br/><a href="https://blog.cloudflare.com/emdash-cms-plugin-registry/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen</title>
+<link>https://blog.cloudflare.com/rust-workers-emscripten-target/</link>
+<guid isPermaLink="false">01M3AJJ8KD2XWQ7A10RS71WEQ4</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare’s global Workers platform, including upcoming support for Tokio async.<br/><br/><a href="https://blog.cloudflare.com/rust-workers-emscripten-target/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going</title>
+<link>https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40762</guid>
+<pubDate>Mon, 28 Sep 2026 12:11:27 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called things off at 10 percent. Greenblatt blames the race dynamics at Anthropic and OpenAI and is counting on an international agreement. The article Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft goes quiet after church groups ask for 1% of data center costs</title>
+<link>https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/</guid>
+<pubDate>Mon, 28 Sep 2026 11:00:09 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】“Microsoft claims to want to be a good neighbor, but the jury is still out."<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>A Wuhan court just made AI production costs a legal factor in copyright infringement cases</title>
+<link>https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40752</guid>
+<pubDate>Mon, 28 Sep 2026 10:39:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A court in Wuhan, China has factored token usage and AI tool licensing fees into a copyright damages calculation for the first time. The ruling is part of China's broader push to build out copyright protections for AI-generated works. The article A Wuhan court just made AI production costs a legal factor in copyright infringement cases appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Holo4: powering generalist computer-use agents</title>
 <link>https://huggingface.co/blog/Hcompany/holo4</link>
@@ -14,6 +270,22 @@
 <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Hcompany/holo4">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+<link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+<guid isPermaLink="false">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
+<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.<br/><br/><a href="https://openai.com/index/lenfest-ai-collaborative-expansion">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Faster Rates for Federated Variational Inequalities</title>
+<link>https://machinelearning.apple.com/research/federated-variational-inequalities</link>
+<guid isPermaLink="false">federated-variational-inequalities</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】In this paper, we study federated optimization for solving stochastic variational inequalities (VIs), a problem that has attracted growing attention in recent years. Despite substantial progress, a significant gap remains between existing convergence rates and the state-of-the-art bounds known for federated convex optimization. In this work, we address this limitation by establishing a series of improved convergence rates. First, we show that, for general smooth and monotone variational inequalities, the classical Local Extra SGD algorithm admits tighter guarantees under a refined analysis…<br/><br/><a href="https://machinelearning.apple.com/research/federated-variational-inequalities">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic’s CEO is about to have dinner with President Trump</title>
@@ -72,38 +344,6 @@
 <description><![CDATA[【the-decoder.com】Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen</title>
-<link>https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40728</guid>
-<pubDate>Sun, 27 Sep 2026 10:59:11 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained control layer, letting the language model call directly into modular skills like grasping and navigating. The article Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond</title>
-<link>https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40725</guid>
-<pubDate>Sun, 27 Sep 2026 10:36:29 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are intentionally short-term bets. But Power doesn't see model performance as the biggest problem. Most users don't even know what they can do with AI. The article OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning</title>
-<link>https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40719</guid>
-<pubDate>Sun, 27 Sep 2026 09:23:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring systems. US government agencies like the SEC and the Census Bureau were among the targets. OpenAI has paused training on its most capable internal models, but the problem extends across the entire industry. The article Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates</title>
-<link>https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40713</guid>
-<pubDate>Sun, 27 Sep 2026 08:17:47 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's levels. Measured against GDP, it would be the biggest investment cycle since railroad construction in the 19th century. Bottlenecks in power, labor, and memory chips could slow the pace, though. The article Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
 <link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3170226</guid>
@@ -118,30 +358,6 @@
 <pubDate>Sat, 26 Sep 2026 21:02:06 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.<br/><br/><a href="https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army</title>
-<link>https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40709</guid>
-<pubDate>Sat, 26 Sep 2026 19:10:20 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Former Ukrainian Defense Minister Mykhailo Fedorov has announced "Army of Robots," a private combat robotics initiative. The robots would handle casualty evacuation, mine clearance, and combat. Drones already account for 95 percent of target engagements, he says. The article Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them</title>
-<link>https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40706</guid>
-<pubDate>Sat, 26 Sep 2026 17:27:52 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Speaking to 160 IT vice presidents in Las Vegas, tech entrepreneur Azeem Azhar asked who had measurable AI results. Two-thirds raised their hands. Then he asked who had results good enough to interrupt the CEO's summer vacation. Only eight did. Whether that slow pace of progress justifies the massive investments is one of the key questions in the AI bubble debate. The article Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI access makes people almost entirely unwilling to say &quot;I don't know,&quot; study finds</title>
-<link>https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40698</guid>
-<pubDate>Sat, 26 Sep 2026 16:56:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】A study with more than 3,000 participants shows that just having access to AI answers nearly eliminated people's willingness to say "I don't know." In one experiment, it dropped from 44 to 3 percent, even though the AI was almost always wrong. Participants who used AI felt more confident but were correct only about a third as often as those without it. The article AI access makes people almost entirely unwilling to say "I don't know," study finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>I created an interactive digital avatar of myself — and you can talk to it</title>
@@ -168,14 +384,6 @@
 <description><![CDATA[【techcrunch.com】Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.<br/><br/><a href="https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</title>
-<link>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3170070</guid>
-<pubDate>Fri, 25 Sep 2026 22:20:47 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.<br/><br/><a href="https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Court rules Trump can blacklist Anthropic for refusing to enable Claude features</title>
 <link>https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/</guid>
@@ -190,22 +398,6 @@
 <pubDate>Fri, 25 Sep 2026 21:10:51 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.<br/><br/><a href="https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta opens early access program for new Muse features</title>
-<link>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3170007</guid>
-<pubDate>Fri, 25 Sep 2026 20:34:53 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anyone interested in joining has to ask Muse to put them on the list.<br/><br/><a href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</title>
-<link>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169815</guid>
-<pubDate>Fri, 25 Sep 2026 19:13:38 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.<br/><br/><a href="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI was supposed to hit new grads hard. So far, unemployment data says otherwise.</title>
@@ -224,30 +416,6 @@
 <description><![CDATA[【openai.com】With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.<br/><br/><a href="https://openai.com/index/proaction">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his</title>
-<link>https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3162704</guid>
-<pubDate>Fri, 25 Sep 2026 18:48:33 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.<br/><br/><a href="https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing</title>
-<link>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169917</guid>
-<pubDate>Fri, 25 Sep 2026 18:33:59 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.<br/><br/><a href="https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic</title>
-<link>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3169914</guid>
-<pubDate>Fri, 25 Sep 2026 18:22:47 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]<br/><br/><a href="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GitHub Copilot app for Beginners: How to build custom workflows with canvases</title>
 <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/</link>
 <guid isPermaLink="false">https://github.blog/?p=99027</guid>
@@ -262,54 +430,6 @@
 <pubDate>Fri, 25 Sep 2026 17:57:37 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Microsoft's new Surface laptops forgo Copilot+ PC branding.<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Some Supabase customers are publicly exposing reams of people’s data to the web</title>
-<link>https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169211</guid>
-<pubDate>Fri, 25 Sep 2026 17:29:46 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.<br/><br/><a href="https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Astra and Opus just passed Turing’s other test</title>
-<link>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169728</guid>
-<pubDate>Fri, 25 Sep 2026 17:24:36 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Frontier AI models are finishing Alan Turing's World War II codebreaking work.<br/><br/><a href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta is putting its muscle behind Muse as the AI app takes off</title>
-<link>https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169621</guid>
-<pubDate>Fri, 25 Sep 2026 16:16:52 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.<br/><br/><a href="https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta’s AI Tamagotchi bet is…working?</title>
-<link>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3169926</guid>
-<pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]<br/><br/><a href="https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts</title>
-<link>https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169293</guid>
-<pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The latest unauthorized agent swarms were discovered by researchers.<br/><br/><a href="https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic’s founders seek voting control ahead of IPO</title>
-<link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169652</guid>
-<pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.<br/><br/><a href="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Improving site performance by shipping more CSS</title>
@@ -366,126 +486,6 @@
 <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google's first Suncatcher orbital data center test launches October 1</title>
-<link>https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/</link>
-<guid isPermaLink="false">https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/</guid>
-<pubDate>Thu, 24 Sep 2026 16:16:34 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.<br/><br/><a href="https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI agent “didn’t accept no for an answer” in Australian government breach</title>
-<link>https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/</guid>
-<pubDate>Thu, 24 Sep 2026 16:01:16 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】"There will obviously be legal consequences," prime minister promises.<br/><br/><a href="https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers</title>
-<link>https://blog.cloudflare.com/containers-cross-tenant-vulnerability/</link>
-<guid isPermaLink="false">01M38DRFS3KYJZFDF0GNHZHXGF</guid>
-<pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it.<br/><br/><a href="https://blog.cloudflare.com/containers-cross-tenant-vulnerability/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
-<link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
-<guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
-<pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta puts its AI assistant on a keychain</title>
-<link>https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/</guid>
-<pubDate>Thu, 24 Sep 2026 14:03:38 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Meta says the keychain-sized Muse Charm will ship in December.<br/><br/><a href="https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Compressing Streaming Neural Audio Encoders via Latent-Space Distillation</title>
-<link>https://machinelearning.apple.com/research/latent-space-distillation</link>
-<guid isPermaLink="false">latent-space-distillation</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】System-wide Dictation on Apple devices runs entirely on-device, and the speech it transcribes reaches the foundation model through a tokenizer: an encoder that maps short windows of waveform onto the representation the language model reads. Because that model is sparsely activated under Instruction-Following Pruning, only a small subset of its experts occupies DRAM at any time, so the always-on tokenizer competes for the same memory, and its parameter count bears directly on power and latency. In this work we study how to compress such a tokenizer by distillation, taking as the supervision…<br/><br/><a href="https://machinelearning.apple.com/research/latent-space-distillation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization</title>
-<link>https://machinelearning.apple.com/research/practical-recipe-federated-asr</link>
-<guid isPermaLink="false">practical-recipe-federated-asr</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Semi-supervised federated learning (SSFL) trains models on clients’ unlabeled data using a teacher to generate pseudo-labels, with a small labeled seed dataset on the server. Automatic Speech Recognition (ASR) is particularly fragile here: pseudo-label errors compound across the output sequence and across training rounds into divergence, leaving a large gap to fully-supervised FL. We show that closing this gap turns on two coupled design axes—the teacher (which model generates the pseudo-labels) and the anchor (the server-side updates on labeled data that stabilize training). On the teacher…<br/><br/><a href="https://machinelearning.apple.com/research/practical-recipe-federated-asr">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Trump’s China rivalry and “AI race” delusion may endanger US, experts say</title>
-<link>https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/</guid>
-<pubDate>Wed, 23 Sep 2026 20:52:28 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Trump focus on winning “AI race” may deter China from sharing safety intel.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them</title>
-<link>https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/</guid>
-<pubDate>Wed, 23 Sep 2026 20:28:42 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】$11M competition showed wildfire detection is still easier than stopping fires.<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>YouTube promises custom feeds and a lot more AI later this year</title>
-<link>https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/</guid>
-<pubDate>Wed, 23 Sep 2026 19:35:53 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】YouTube's next year could change the content you see with a big focus on AI and livestreams.<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
-<link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
-<pubDate>Wed, 23 Sep 2026 18:41:40 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Rendering huge pull requests in the GitHub Copilot app</title>
-<link>https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/</link>
-<guid isPermaLink="false">https://github.blog/?p=99002</guid>
-<pubDate>Wed, 23 Sep 2026 18:29:49 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Owners mourn spoiled food after firmware update bricks Samsung smart fridges</title>
-<link>https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/</guid>
-<pubDate>Wed, 23 Sep 2026 17:39:39 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】"So absurd and embarrassing ..."<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Advancing Private AI Compute with secure, server-side memory</title>
-<link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
-<pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Introducing private, server-side memory to Private AI Compute for personal AI.<br/><br/><a href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Two years of OpenAI Academy</title>
-<link>https://openai.com/index/two-years-of-openai-academy</link>
-<guid isPermaLink="false">https://openai.com/index/two-years-of-openai-academy</guid>
-<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Marking two years of OpenAI Academy and bringing AI skills to even more communities.<br/><br/><a href="https://openai.com/index/two-years-of-openai-academy">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
