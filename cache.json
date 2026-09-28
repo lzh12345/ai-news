@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81656": {
-"t": "使用ComfyUI API实现MiniMax-H3多模态视频与音频生成流水线",
-"s": "在本全面指南中，我们演示了如何实现一个完整、可编程的MiniMax-H3多模态生成流水线。通过利用ComfyUI作为无头后端，我们逐步介绍了设置自动化推理环境的过程，该环境处理硬件性能分析、模型权重下载、动态图构建以及视频-音频联合解码。文章《使用ComfyUI API实现MiniMax-H3多模态视频与音频生成流水线》首次出现在MarkTechPost上。"
-},
 "https://techcrunch.com/?p=3151819": {
 "t": "Anthropic未发布模型在数学最大未解难题之一上取得进展",
 "s": "150多年来，黎曼猜想一直是数学领域的主要未解难题之一。Anthropic并未解决它——但该公司的模型取得的进展可能超出你的预期。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3170300": {
 "t": "Anthropic’s Dario Amodei gets the SNL treatment",
 "s": "\"AI is the devil and I its maker.\""
+},
+"https://huggingface.co/blog/Hcompany/holo4": {
+"t": "Holo4: powering generalist computer-use agents",
+"s": ""
 }
 }

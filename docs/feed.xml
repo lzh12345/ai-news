@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 28 Sep 2026 02:47:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 10:20:16 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Holo4: powering generalist computer-use agents</title>
+<link>https://huggingface.co/blog/Hcompany/holo4</link>
+<guid isPermaLink="false">https://huggingface.co/blog/Hcompany/holo4</guid>
+<pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Hcompany/holo4">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic’s CEO is about to have dinner with President Trump</title>
 <link>https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/</link>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Marking two years of OpenAI Academy and bringing AI skills to even more communities.<br/><br/><a href="https://openai.com/index/two-years-of-openai-academy">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gemini 3.8 text-to-speech says hello</title>
-<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
-<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
