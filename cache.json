@@ -1,60 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/": {
-"t": "谷歌发布Gemini 3.7 Flash，距上次发布仅三周",
-"s": "Gemini 3.6 Flash 三周前刚刚亮相，但谷歌表示3.7版本有“显著改进”。"
-},
-"https://openai.com/index/builders-guide-to-gpt-5-6": {
-"t": "构建者指南：GPT-5.6",
-"s": "了解初创企业如何利用GPT-5.6，通过更智能的模型选择和新的Responses API功能，构建更快、更具成本效益的AI代理。"
-},
-"https://openai.com/index/previewing-ultrafast": {
-"t": "预览Ultrafast模式：GPT-5.6 Sol速度提升高达14倍",
-"s": "预览Ultrafast，OpenAI API新增服务层级，运行GPT-5.6 Sol速度提升高达14倍。由Cerebras提供支持，每秒可输出多达750个令牌。"
-},
-"https://huggingface.co/blog/icml-2026-open-reproductions": {
-"t": "我们通过复现ICML的2200篇论文所学到的",
-"s": "（无）"
-},
-"https://techcrunch.com/?p=3152760": {
-"t": "Writer推出新AI模型及升级版工具以控制代币成本",
-"s": "作为Z.ai开源模型GLM-5.2的后训练变体，Writer表示新系统应以更低价格提供部署就绪的能力。"
-},
-"https://www.marktechpost.com/?p=81717": {
-"t": "打造专注推理的LLM：流式处理、数据策展与微调SupraLabs推理语料库的实用指南",
-"s": "本教程提供了一个构建紧凑型、专注推理的语言模型的完整工作流程。通过从Hugging Face流式处理SupraLabs推理语料库，我们应用质量过滤器并策展数据以进行监督微调（SFT）。利用SmolLM2-135M-Instruct和LoRA，我们演示了从数据集分析和启发式清洗到高效训练与推理的端到端流水线，从而在无需过多资源需求的情况下开发专用小型模型。"
-},
-"https://the-decoder.com/?p=39041": {
-"t": "Claude Code现以46%的合并率每日维护Anthropic软件",
-"s": "Anthropic正在测试Claude Code能否处理公司自身应用的日常维护，从崩溃模糊测试到死代码移除。在几周内，该AI创建了388个拉取请求，其中46%在人工审查后被合并。Claude Code的发明者Boris Cherny认为这是“早期迹象表明这可能实现”。文章《Claude Code现以46%的合并率每日维护Anthropic软件》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39035": {
-"t": "智谱AI发布GLM-5.3，声称是最强开源权重编程模型",
-"s": "智谱AI发布了GLM-5.3，据其自身基准测试显示，该模型是最强大的开源权重编程模型，仅通过后训练就比前代提升了50%。GLM-5.3专为网络安全训练，帮助安全团队在269个项目中发现了2436个漏洞。模型权重将在两周后开源。文章《智谱AI发布GLM-5.3，声称是最强开源权重编程模型》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3153145": {
-"t": "谷歌将允许用户从其AI生成内容中移除可见水印",
-"s": "关闭此设置不会影响用于识别AI生成文件的隐形基准标记。"
-},
-"https://the-decoder.com/?p=39061": {
-"t": "研究反驳Anthropic与OpenAI关于自主AI研究即将实现的论断",
-"s": "使用Claude Opus 4.8和GPT-5.6 Sol的AI代理被给予六天时间、3000美元API信用额度及GPU访问权限，以独立撰写AI研究论文。未发表的NeurIPS论文原作者将这些成果评为“拒绝”。根据与普林斯顿大学及英国AI安全研究所合作进行的研究，前沿模型能够处理完整的研究工程流程，但在研究判断、创造性问题解决以及放弃失败方法的能力上仍有不足。文章《研究反驳Anthropic与OpenAI关于自主AI研究即将实现的论断》已发布。"
-},
-"https://github.blog/?p=98252": {
-"t": "如何通过代理应用将软件交付工作流引入GitHub",
-"s": "了解四个GitHub代理应用如何帮助你在整个软件开发生命周期中，无需离开GitHub即可完成功能的范围界定、安全加固、部署和发布。这篇文章《如何通过代理应用将软件交付工作流引入GitHub》最初出现在GitHub博客上。"
-},
-"https://techcrunch.com/?post_type=tc_video&p=3153153": {
-"t": "马克·扎克伯格真的相信AI是“为所有人”的吗？",
-"s": "Meta本周发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行——这与该公司更强大的模型Muse Spark形成对比，后者仍被锁定在其自有API之后。此次发布伴随着马克·扎克伯格的一封信，他在信中主张AI应“为所有人”服务，而非由少数实验室控制，但正如Equity的[…]所指出，"
-},
-"https://techcrunch.com/?p=3153090": {
-"t": "Kog 正深入挖掘 GPU 推理潜力",
-"s": "法国初创公司 Kog 认为，GPU 不适合代理工作流的观点可能是一种误解。"
-},
-"https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/": {
-"t": "OpenAI与Anthropic陷入价格战，中国AI对手步步紧逼",
-"s": "面对新挑战对其万亿美元雄心的冲击，美国公司纷纷发布更便宜的模型。"
-},
 "https://the-decoder.com/?p=39052": {
 "t": "GPT-5.6 Sol提速14倍，OpenAI推出由Cerebras驱动的Ultrafast模式",
 "s": "OpenAI推出“Ultrafast”新推理模式，基于其与Cerebras的100亿美元合作硬件，GPT-5.6 Sol的输出速度可达每秒750个token。结合“Standard”和“Fast”，Ultrafast构成了三级定价结构，将推理速度本身转化为产品。文章《GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras》最初发布于The Decoder。"
@@ -4798,5 +4742,61 @@
 "communication-bottleneck-serialization": {
 "t": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
 "s": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol that answers this question empirically for tree-structured expressions. A generator converts a procedurally generated arithmetic expression into a word problem, a separate extractor recovers the expression from the word problem alone, and symbolic equivalence provides an exact oracle. Evaluating all pairwise combinations of sixteen models yields…"
+},
+"https://techcrunch.com/?p=3171681": {
+"t": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+"s": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+},
+"https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/": {
+"t": "Protests against OpenAI get increasingly creative",
+"s": "New sculpture depicts AI leaders escaping a sinking ship."
+},
+"https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/": {
+"t": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+"s": "The deal, which is expected to close by year's end, is worth $8.2 billion."
+},
+"https://techcrunch.com/?p=3171583": {
+"t": "OpenAI’s latest features take direct aim at the app store model",
+"s": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+},
+"https://techcrunch.com/?p=3171634": {
+"t": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+"s": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+},
+"https://the-decoder.com/?p=40867": {
+"t": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+"s": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malicious code, while its predecessor, GPT-5.6 Sol, completed attacks in 6.3 percent of runs. Explicit restrictions reduced attacks but didn't stop them entirely. The article UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3171020": {
+"t": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+"s": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+},
+"https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/": {
+"t": "Here's what actually happened in OpenAI's Australian gov't server hack",
+"s": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
+},
+"https://the-decoder.com/?p=40864": {
+"t": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
+"s": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth. Anthropic is right on its heels with a similar run rate. The article ChatGPT now reaches 1.2 billion people every week, OpenAI says appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3171280": {
+"t": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+"s": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
+},
+"https://the-decoder.com/?p=40826": {
+"t": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+"s": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots. The company is adding shared workspaces, collaborative documents and slides, an open plugin system with MCP event automation, Slack and Microsoft Teams integrations, an enterprise marketplace with 32 partners, and a new Pro 500 pricing tier. The article OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system appeared first on The Decoder."
+},
+"https://openai.com/index/introducing-gpt-6-1-sol": {
+"t": "Introducing GPT-6.1 Sol",
+"s": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+},
+"https://openai.com/index/devday-2026-recap": {
+"t": "DevDay 2026 Recap",
+"s": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+},
+"https://openai.com/index/introducing-dots": {
+"t": "Introducing dots",
+"s": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
 }
 }
