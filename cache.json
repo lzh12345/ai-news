@@ -1,140 +1,4 @@
 {
-"https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/": {
-"t": "大规模供应链攻击泄露数TB凭据",
-"s": "此次攻击从被入侵的AI软件包的2,500名用户中窃取并外泄了数据。"
-},
-"https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/": {
-"t": "Twitch内容多年来一直在训练亚马逊AI，但用户现在可以选择退出",
-"s": "流媒体平台表示，用户生成的内容“可能用于未来生成式AI模型的改进”。"
-},
-"https://techcrunch.com/?p=3152544": {
-"t": "亚马逊将默认使用Twitch主播内容进行训练，除非主播选择退出",
-"s": "“如果这是选择加入，没人会加入，”Twitch首席产品官Mike Minton在直播中回应观众反馈时说。“老实说，这就是答案。”"
-},
-"https://openai.com/index/ringcentral": {
-"t": "从工程到运维，RingCentral如何构建AI原生的企业工作流",
-"s": "了解RingCentral如何利用ChatGPT Work和Codex加速AI产品开发，并在工程与运维领域集中运营智能。"
-},
-"https://www.marktechpost.com/?p=81697": {
-"t": "Dyna Robotics推出Dyna-2：基于100万小时人类视频预训练的世界行动模型",
-"s": "Dyna Robotics发布了Dyna-2，这是一个在超过一百万小时的第一人称人类视频上预训练的世界行动模型。技术报告确立了三个成果：人类数据扩展到100万小时的缩放定律，该定律首次迁移到未见过的机器人数据，以及视频协同训练驱动跨实体泛化的证据。这篇关于Dyna Robotics推出Dyna-2的帖子首次出现在MarkTechPost上。"
-},
-"https://www.marktechpost.com/?p=81694": {
-"t": "SpaceXAI发布Grok 4.6：面向长时运行代理、编程与知识工作的50万上下文前沿模型",
-"s": "SpaceXAI于2026年8月12日发布Grok 4.6——这是对Grok 4.5的后训练升级，而非更大的基础模型。它在人工分析智能指数上以61分与GPT-5.6 Sol Max持平，提供50万上下文和新的xhigh推理级别，并将定价维持在每百万token 2美元/6美元。编程基准测试仍是其短板。本文首发于MarkTechPost。"
-},
-"https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/": {
-"t": "Claude的新“红字”水印目前隐形——但只是暂时的",
-"s": "这一标记会标注出所有经Claude处理过的内容，即便是它仅编辑过的人类写作也不例外。"
-},
-"https://the-decoder.com/?p=38969": {
-"t": "Fable 5采用缓慢，表明企业为前沿AI付费的意愿已达上限",
-"s": "Anthropic的Fable 5被认为是市场上最强大的AI模型，但美国企业几乎不购买它。根据Ramp的数据，Fable 5仅占Anthropic售出代币的6%。该模型的高昂价格表明，企业AI支出可能已达到上限，至少在性能提升未能转化为可衡量的日常价值的情况下。文章《Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=38966": {
-"t": "顶尖AI实验室研究人员警告自动化AI研究，其预测的多个里程碑已提前实现",
-"s": "IAPS研究员塞弗林·菲尔德采访了来自OpenAI、Anthropic、谷歌DeepMind、Meta及美国高校的25位研究人员，探讨递归自我改进问题。在一篇新博客文章中，他进行了总结。这些研究人员提到的几个里程碑已被达成。文章《顶尖AI实验室研究人员警告自动化AI研究，其预测的多个里程碑已提前实现》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38965": {
-"t": "Anthropic将Claude Cowork引入其Chrome扩展，为浏览器增添技能与插件",
-"s": "Claude Cowork现已直接在Anthropic Chrome扩展的侧边栏中运行。文章《Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser》最初发布于The Decoder。"
-},
-"https://the-decoder.com/?p=39017": {
-"t": "Deepseek发布改进版V4 Pro，开源其代理软件，并上调API价格",
-"s": "Deepseek已将其旗舰产品V4-Pro移出测试阶段，并以MIT许可证发布了其代理软件Harness v0.1。同时，API价格上调，缓存命中成本跃升至当前水平的六倍。对于反复读取相同文件的代理工作流而言，这是转型中最大的价格涨幅。文章《Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices》最初发表于The Decoder。"
-},
-"https://github.blog/?p=98152": {
-"t": "50个开源项目教会我们的AI时代安全之道",
-"s": "了解GitHub安全开源基金第四期中的开源项目如何结合AI辅助工作流、维护者专业知识、GitHub安全工具、专家指导和资金，以提升项目安全性。这篇文章《50个开源项目教会我们的AI时代安全之道》最初出现在GitHub博客上。"
-},
-"https://www.marktechpost.com/?p=81705": {
-"t": "Liquid AI发布LFM2.5-VL-3B：一款3B视觉语言模型，可读取屏幕、定位对象并在设备端调用工具",
-"s": "Liquid AI发布了LFM2.5-VL-3B，这是一款专为设备端部署设计的31亿参数视觉语言模型。它在ScreenSpot-v2上平均得分80.7，并将RefCOCO定位性能从57.1提升至87.9。函数调用是该VL系列的新增功能，ToolSandbox得分从26.4跃升至59.5。该模型占用约3GB内存，在Apple M5 Max上解码速度达228 tokens/s。原文《Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device》首发于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3152748": {
-"t": "微软合并独立Copilot应用，同时砍掉不成功的AI功能",
-"s": "微软正在简化Copilot，将消费者版和商业版应用合并，并放弃AI生成的播客、群聊、深度研究以及其Mico角色。"
-},
-"https://techcrunch.com/?p=3152223": {
-"t": "英伟达5000亿美元新计划风险与智慧并存，尤其针对老化GPU",
-"s": "英伟达制定了一项计划，以确保其GPU不会贬值。它希望说服一批新的金融家继续为人工智能基础设施建设提供贷款。"
-},
-"https://the-decoder.com/?p=38979": {
-"t": "Ling 3.0 Flash 是其尺寸级别中最智能的开放模型",
-"s": "Ling 3.0 Flash 是其尺寸级别中最智能的开放模型。文章《Ling 3.0 Flash 是其尺寸级别中最智能的开放模型》首发于 The Decoder。"
-},
-"https://techcrunch.com/?p=3152741": {
-"t": "苹果洽谈向出版商付费，为Siri提供实时新闻：报道",
-"s": "据《华尔街日报》报道，这家科技巨头已考虑为这些支付安排九位数的预算。"
-},
-"https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/": {
-"t": "Anthropic上市时估值或达2万亿美元",
-"s": "快速增长的营收让人们对Claude制造商IPO成为史上最大规模上市充满期待"
-},
-"01KZQPY0C41XKPVZ5HRG3E1ZK3": {
-"t": "证书透明度监控现已全面推出",
-"s": "Cloudflare的证书透明度监控现已全面推出。最大的变化是：我们不再就Cloudflare为您的域名颁发的证书发送邮件通知，因此当您的收件箱收到警报时，值得一看。"
-},
-"https://openai.com/index/dali-rajic-chief-revenue-officer": {
-"t": "OpenAI任命Dali Rajic为首席营收官",
-"s": "OpenAI任命Dali Rajic为首席营收官，领导其全球营收组织，帮助企业充分实现AI的价值。"
-},
-"unlearning-low-influence-points": {
-"t": "当“遗忘”免费时：利用低影响力数据点降低计算成本",
-"s": "随着机器学习中数据隐私问题的日益突出，从已训练模型中“遗忘”或移除特定数据点的能力变得愈发重要。尽管最先进的遗忘方法应运而生，但它们通常将遗忘集中的所有数据点一视同仁。在本研究中，我们质疑这一做法，探讨是否需要对模型学习影响微乎其微的数据点进行移除。通过对语言和视觉任务中影响力函数的比较分析，我们识别出对模型输出影响可忽略的训练数据子集……"
-},
-"https://techcrunch.com/?p=3152870": {
-"t": "Databricks原计划融资10亿美元，投资者却想投150亿，最终以1900亿美元估值融资50亿",
-"s": "AI成本高昂，Ali Ghodsi对TechCrunch表示。面对众多投资者希望参与其最新一轮融资，他最终接受了超出原计划的投资额。"
-},
-"01KZY9EY62FCNTTQG8TX7R4GWK": {
-"t": "互联网的日全食：冰岛、西班牙和葡萄牙的流量影响",
-"s": "Cloudflare的数据显示，2026年8月12日发生的日全食路径上，从冰岛到西班牙和葡萄牙的互联网流量受到了明显影响。"
-},
-"https://the-decoder.com/?p=39031": {
-"t": "Suno Studio 2.0新聊天功能，让你像与乐队伙伴对话一样操作DAW",
-"s": "借助Studio 2.0，Suno将其AI音乐平台转变为面向Premier订阅用户的完整制作工具。聊天功能通过文本创建乐器和插件，而MIDI导入和32位导出则无限制。这种无限制导出与Suno近期宣布的下载上限相冲突，后者旨在打击流媒体平台上的AI音乐垃圾信息。文章《Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate》最初出现在The Decoder上。"
-},
-"https://techcrunch.com/?p=3152875": {
-"t": "OpenAI推出“超快速”新模式，使GPT-5.6 Sol运行速度提升14倍",
-"s": "OpenAI正在预览其最新、最强大模型的加速版本，旨在吸引企业用户。"
-},
-"https://techcrunch.com/?p=3152914": {
-"t": "IBM与OpenAI合作，强化企业AI战略布局",
-"s": "根据此协议，IBM计划培训并认证数万名顾问掌握OpenAI的技术。"
-},
-"https://github.blog/?p=98265": {
-"t": "GitHub Universe 2026指南已发布：日程刚刚上线！",
-"s": "GitHub Universe 会议目录现已上线。探索互动工作坊、社区演讲、演示和专题讨论。此外，在8月19日前注册可节省300美元。此文章首发于GitHub博客。"
-},
-"https://the-decoder.com/?p=39024": {
-"t": "Gemini 3.7 Flash 发布，编程能力提升，价格较三周前的前代产品降低50%",
-"s": "谷歌在3.6 Flash发布仅三周后，推出了Gemini 3.7 Flash。这款新模型据称是谷歌迄今在编程和AI代理方面最强大的主力模型，根据公司自身的基准测试，其性能超越Claude Sonnet 5和GPT-5.6 Terra，而价格仅为后者的一半。文章《Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3152849": {
-"t": "Anthropic让AI代理在同一任务上自由行动，结果它们开始了地盘争夺战。",
-"s": "Anthropic的研究人员发现，AI代理之间可能以意想不到的方式发生冲突、勾结和协调，这引发了新的疑问：当前的安全测试是否能捕捉到多代理系统带来的风险。"
-},
-"https://www.marktechpost.com/?p=81710": {
-"t": "谷歌刚刚发布Gemini 3.7 Flash：一款编码与智能体模型，输入价格每百万Token仅0.75美元",
-"s": "谷歌发布了Gemini 3.7 Flash，这是对Gemini 3.6 Flash的改进版本，对其推理核心进行了算法优化。它支持文本、图像、音频和视频，覆盖100万Token的上下文窗口，输出可达64K Token，并支持可定制的思考配置。编码表现显著提升：FrontierCode 1.1 Main上达到43.6%（此前为34.4%），DeepSWE v1.1上为65.3%，WebDev Arena上Elo评分为1588。文档和工作流评估提升更大——GDP.pdf从22.0%升至34.0%，AutomationBench从17.0%升至30.4%。GPT-5.6 Terra在终端和计算机使用智能体方面仍保持领先。该模型已通过API和企业渠道提供。"
-},
-"https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/": {
-"t": "新Instagram标志完美体现了AI垃圾美学",
-"s": "观点：关于新字标意外地糟糕得恰到好处的一些评论。"
-},
-"https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": {
-"t": "通过Strands Agents、LeRobot和Hugging Face存储桶，在一个地方完成记录、训练和部署",
-"s": "（无）"
-},
-"https://techcrunch.com/?p=3152844": {
-"t": "OpenAI持续高管变动，聘请新任首席营收官",
-"s": "达利·拉吉奇将接任OpenAI首席销售官一职。"
-},
-"https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
-"t": "推出 Gemini 3.7 Flash",
-"s": "（无）"
-},
 "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/": {
 "t": "谷歌发布Gemini 3.7 Flash，距上次发布仅三周",
 "s": "Gemini 3.6 Flash 三周前刚刚亮相，但谷歌表示3.7版本有“显著改进”。"
@@ -4798,5 +4662,141 @@
 "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
 "t": "Towards safety cases for frontier AI training",
 "s": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+},
+"https://techcrunch.com/?p=3171437": {
+"t": "AI-powered app maker Wabi pivots to a messaging experience",
+"s": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+},
+"https://techcrunch.com/?p=3171209": {
+"t": "OpenAI launches Dots, its bubbly agentic avatar",
+"s": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+},
+"https://techcrunch.com/?p=3171268": {
+"t": "OpenAI gives Codex reusable cloud environments that work across devices",
+"s": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
+},
+"https://techcrunch.com/?p=3171312": {
+"t": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+"s": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+},
+"https://techcrunch.com/?p=3171292": {
+"t": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+"s": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
+},
+"https://the-decoder.com/?p=40811": {
+"t": "OpenAI launches always-on Dots agents to rival Meta's Muse",
+"s": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams. When no one is working with them, Dots look for ways to help in the background using read-only access. The article OpenAI launches always-on Dots agents to rival Meta's Muse appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40835": {
+"t": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
+"s": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions. The Ultrafast premium tier promises up to eight times the speed at six times the price. The article OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40854": {
+"t": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
+"s": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission. The article GPT-6.1 Sol comes close to Astra at a fifth of the price appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40859": {
+"t": "AMD buys AI world model startup World Labs for $8.2 billion",
+"s": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su. World Labs brings its spatial intelligence models, including Atlas, which generates and simulates 3D environments from minimal input. AMD gains its own AI research unit focused on physical-world models, sharpening its competition with Nvidia. The article AMD buys AI world model startup World Labs for $8.2 billion appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3171428": {
+"t": "Can a chatbot fix the government maze? The White House is about to find out",
+"s": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
+},
+"https://the-decoder.com/?p=40807": {
+"t": "Florida wants a court to stop ChatGPT from pretending to be human and talking to kids",
+"s": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews. OpenAI said it has paused training of its most capable models. The article Florida wants a court to stop ChatGPT from pretending to be human and talking to kids appeared first on The Decoder."
+},
+"https://huggingface.co/blog/nvidia/kumo-tabular": {
+"t": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+"s": ""
+},
+"https://techcrunch.com/?p=3171272": {
+"t": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+"s": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate."
+},
+"https://github.blog/?p=99134": {
+"t": "Developer policy update: Transparency, state policy, and what’s ahead",
+"s": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog."
+},
+"https://the-decoder.com/?p=40801": {
+"t": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
+"s": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents. On Artificial Analysis' Voice Arena leaderboard, v4 ranks ahead of Cartesia and Google's Gemini. The article ElevenLabs' new v4 speech model makes AI voices more expressive and consistent appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/": {
+"t": "OpenAI says planned GPT-6.1 is too insecure to release",
+"s": "Similar performance, security trade-offs also seen in current public models."
+},
+"https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/": {
+"t": "Anthropic’s IPO pitch includes a warning about human extinction",
+"s": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
+},
+"https://techcrunch.com/?p=3171204": {
+"t": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+"s": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom."
+},
+"https://techcrunch.com/?p=3171208": {
+"t": "Meta is expanding its AI agent Muse to small businesses",
+"s": "The tech giant says the agent can help owners run their business and find new customers."
+},
+"https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
+"t": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+"s": ""
+},
+"https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/": {
+"t": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+"s": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web."
+},
+"01M3NESWHMHMZYRDST3MNM46GJ": {
+"t": "Using AI to chart a course for our post-quantum migration",
+"s": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far."
+},
+"01M3NDPTPSCDWFTMFBHE9JAF51": {
+"t": "Building a certificate authority for the whole Internet",
+"s": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open web."
+},
+"01M3N44EM60WP9JA2PGE4ZS5YX": {
+"t": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+"s": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop."
+},
+"01M3MX1WMY7FQZXQH4QK6575ZF": {
+"t": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+"s": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance at scale."
+},
+"01M3MTBRK8BVPBQW7H8PYZ32D4": {
+"t": "We tested our own WAF with frontier AI models. Here’s what we found",
+"s": "We built a WAF tester that adapted each request based on what the WAF blocked or passed. This helped us explore variations that a fixed test might miss. We ran it across six attack categories on an authorized staging environment and discovered detection gaps worth fixing. Here’s how the loop worked, what got through, and what we did about it."
+},
+"01M3MS7574S6W13H4PAB4XT834": {
+"t": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+"s": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules."
+},
+"01M3MRVFZ0YWJMY67Q1E65J979": {
+"t": "Is your domain using post-quantum encryption? Now you can see for yourself",
+"s": "Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption."
+},
+"01M3B05E9MPC89J9MR8JZ7NDE2": {
+"t": "Enforce positive security with Cloudflare Application Profiles",
+"s": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads."
+},
+"01KXDH1HXQQK6WKDPTP4HR9A2V": {
+"t": "Preventing quantum downgrade attacks against IPsec",
+"s": "A sophisticated attacker with a quantum computer can exploit a protocol design flaw to downgrade post-quantum IPsec tunnels to classical crypto. We helped the IETF develop a transcript authentication extension to prevent these attacks."
+},
+"https://techcrunch.com/?p=3171141": {
+"t": "OpenAI apologizes to Australia after its AI agents breached government sites",
+"s": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
+},
+"https://techcrunch.com/?p=3170733": {
+"t": "Reco raises $55M as AI agent security startups crowd the market",
+"s": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million."
+},
+"https://the-decoder.com/?p=40798": {
+"t": "Anthropic's IPO filing shows soaring revenue, mounting costs, and \"existential\" risks",
+"s": "Anthropic warns in its own IPO prospectus that its AI technology could pose \"existential risks to humanity.\" Revenue grew twelvefold in 2025 to $4.6 billion, but the operating loss widened to $8.06 billion. Backers are aiming for a valuation above $2 trillion, and the IPO is expected to set the bar for the entire AI industry. The article Anthropic's IPO filing shows soaring revenue, mounting costs, and \"existential\" risks appeared first on The Decoder."
+},
+"communication-bottleneck-serialization": {
+"t": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
+"s": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol that answers this question empirically for tree-structured expressions. A generator converts a procedurally generated arithmetic expression into a word problem, a separate extractor recovers the expression from the word problem alone, and symbolic equivalence provides an exact oracle. Evaluating all pairwise combinations of sixteen models yields…"
 }
 }
