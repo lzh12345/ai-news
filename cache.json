@@ -1,36 +1,4 @@
 {
-"https://techcrunch.com/?p=3152464": {
-"t": "OpenAI支持的Thrive Holdings融资20亿美元，推动AI进入企业领域",
-"s": "Thrive Holdings已从软银、D1 Capital Partners和Altimeter Capital等投资者处筹集了20亿美元的新资金，估值达到120亿美元。"
-},
-"https://www.marktechpost.com/?p=81688": {
-"t": "AllenAI Open Instruct Tulu 3 后训练：结合SFT、DPO、RLVR、GRPO及基于验证器的评估",
-"s": "使用AllenAI的Open Instruct框架构建自定义LLM后训练流程。本全面指南详细介绍了监督微调（SFT）、直接偏好优化（DPO）以及基于可验证奖励的强化学习（GRPO），并优化至可在16GB硬件上高效运行，无需重型分布式计算基础设施。该文章《AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation》首发于MarkTechPost。"
-},
-"https://the-decoder.com/?p=38935": {
-"t": "研究人员现在可以近乎完美地从输出文本中逆向工程出LLM提示词",
-"s": "印度理工学院孟买分校和Adobe Research的研究人员构建了一个逆向语言模型，能够从LLM的输出中近乎完美地重建原始提示词。他们提出的方法名为“前一个词元预测”，无需访问模型权重，且适用于不同模型。对于依赖专有系统提示词的公司而言，这可能构成严重的安全风险。文章《研究人员现在可以近乎完美地从输出文本中逆向工程出LLM提示词》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3152358": {
-"t": "Mesh，Automattic面向所有人的CRM，现已登陆Android",
-"s": "Automattic推出的AI驱动联系人应用及关系管理工具Mesh，现已推出Android版本。"
-},
-"https://www.marktechpost.com/?p=81682": {
-"t": "NVIDIA发布Nemotron 3.5 Lightning：一款30B开放MoE模型，仅3B活跃参数，并推出NeMo Switchyard模型路由器",
-"s": "NVIDIA的开放30B MoE模型瞄准智能体执行层，Switchyard将每一步路由至成本最低且能力足够的模型。该文章《NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router》最初发表于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3152533": {
-"t": "部分Claude用户不满Anthropic新水印技术，担忧在工作与课堂上被追踪",
-"s": "Anthropic的新水印系统是否是一种荒谬之举？一些用户已在社交媒体上抱怨其不合理。"
-},
-"https://github.blog/?p=98241": {
-"t": "GitHub 可用性报告：2026年7月",
-"s": "7月份，我们经历了八起事件，导致GitHub服务性能下降。这篇关于GitHub可用性报告（2026年7月）的文章首发于GitHub博客。"
-},
-"https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/": {
-"t": "网络对抗AI抓取器的最新武器竟是一款字体",
-"s": "“ShieldFont”旨在污染AI训练数据，同时不损害人类用户的阅读体验。"
-},
 "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/": {
 "t": "大规模供应链攻击泄露数TB凭据",
 "s": "此次攻击从被入侵的AI软件包的2,500名用户中窃取并外泄了数据。"
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/basis-tax-workbook-with-astra": {
 "t": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
 "s": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+},
+"https://the-decoder.com/?p=40795": {
+"t": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
+"s": "OpenAI is reopening its $200 Pro subscription to new sign-ups but cutting API credits per dollar in half. More efficient models like GPT-6 Sol and Luna make up for the difference, employee Thibault Sottiaux says. The move is part of OpenAI's shift from subsidized flat-rate plans toward usage-based billing. The article OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40792": {
+"t": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
+"s": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers. The article Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40789": {
+"t": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+"s": "OpenAI has halted the release of GPT-6.1 Astra after internal tests found it acted without permission, misled users, and accessed external services despite safety risks. The company hasn't announced a new release date. The article GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3171132": {
+"t": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+"s": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
+},
+"https://techcrunch.com/?p=3170634": {
+"t": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+"s": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+},
+"https://techcrunch.com/?p=3170771": {
+"t": "The AI boom took over Climate Week and not everyone is happy about it",
+"s": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors."
+},
+"https://openai.com/index/how-we-will-do-better-for-australia": {
+"t": "How we will do better for Australia",
+"s": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+},
+"https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+"t": "Towards safety cases for frontier AI training",
+"s": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
 }
 }
