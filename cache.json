@@ -1,116 +1,4 @@
 {
-"https://techcrunch.com/?post_type=tc_podcast&p=3153152": {
-"t": "Meta的“开放”AI，以及一笔2.5亿美元的交易严重出错",
-"s": "Meta本周发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行——这与该公司更强大的模型Muse Spark形成对比，后者仍被锁定在其自有API之后。此次发布伴随着马克·扎克伯格的一封信，他在信中主张AI应“为所有人”服务，而非由少数实验室控制，但正如Equity的[…]"
-},
-"01M005AFBW9P2YGZT4HH64D2BQ": {
-"t": "Cloudflare如何检测MCP流量并帮助确保其安全",
-"s": "Cloudflare Gateway利用协议级启发式方法识别MCP请求。安全团队可利用此信号发现影子MCP流量，对已批准的服务器强制实施仅限门户访问，并在受管网络路径上阻止直接连接。"
-},
-"01KZW0MF4VJTZW3F7601QANQ7Z": {
-"t": "一键保护所有内部“氛围编码”应用——Cloudflare Access for Workers 全新发布",
-"s": "为 Workers 引入 Cloudflare Access。直接将访问策略附加到 Worker 上，该策略将自动应用于 Worker 运行的所有环境——包括路由、自定义域名、workers.dev 及预览——无需额外配置。"
-},
-"https://www.marktechpost.com/?p=81725": {
-"t": "Z.ai发布GLM-5.3，无需重新训练基础模型：在复杂编码和长周期任务上表现更佳",
-"s": "Z.ai于2026年8月14日发布GLM-5.3。该模型沿用743B GLM-5.2基础模型不变。所有报告的性能提升均来自扩展的后训练：更多长周期任务环境、更多环境类型、更长的训练时间。Terminal-Bench 3.0得分从4.6提升至28.3，DeepSWE v1.1从46.2提升至66.9。网络安全领域的进展超出Z.ai原计划，CyberGym达到84.5%，ExploitBench得分翻倍以上至54.4%。权重将在约两周后发布。该文章《Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks》首发于MarkTechPo。"
-},
-"https://www.marktechpost.com/?p=81721": {
-"t": "Meet Needle 2：一款开源45M参数工具调用模型，以14MB二进制文件发布，仅需28MB内存即可运行完整会话",
-"s": "Cactus Compute发布了Needle 2，这是一款开源的45M参数模型，用于工具调用、设备使用和结构化提取。完整模型是一个14MB的单一二进制文件，运行一个会话仅需约28MB内存。它在两个Seal-Tools数据集上均领先，同时面向无GPU和无NPU的硬件设计。文章《Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM》首次出现在MarkTechPost上。"
-},
-"https://huggingface.co/blog/state-of-open-models-summer-2026": {
-"t": "开放模型现状：2026年夏季观察",
-"s": "（无）"
-},
-"https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/": {
-"t": "怀疑法院使用AI，男子在诉讼文件中注入提示词试图赢得案件",
-"s": "法官警告自行诉讼者错误使用聊天机器人，且手段愈发绝望。"
-},
-"https://the-decoder.com/?p=39076": {
-"t": "阿里巴巴Qwen团队发布Qwen 3.8模型，采用Apache 2.0许可证开放权重",
-"s": "阿里巴巴的AI团队Qwen在Apache 2.0许可证下发布了新的开放模型权重，即Qwen 3.8。这款密集的270亿参数模型旨在在编程和办公任务上超越更大的Qwen 3.7 Plus，并原生处理高达262,000个令牌的上下文。此次发布，Qwen瞄准了构建本地和基于代理应用的开发者。文章《阿里巴巴Qwen团队发布Qwen 3.8模型，采用Apache 2.0许可证开放权重》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=39071": {
-"t": "OpenAI的计算机历史功能将你的点击和按键转化为可搜索的ChatGPT记忆时间线",
-"s": "OpenAI的计算机历史功能记录Mac上的点击、按键和应用切换，并将其转化为ChatGPT和Codex的可搜索时间线。数据以未加密的Markdown文件形式本地存储。OpenAI表示这些数据不用于AI训练，但进入对话的记忆仍可能成为训练数据。文章《OpenAI的计算机历史功能将你的点击和按键转化为可搜索的ChatGPT记忆时间线》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39093": {
-"t": "Anthropic推出水印检测API，允许第三方识别Claude生成的AI文本",
-"s": "Anthropic即将提供水印检测API，使第三方能够检查文本是否由Claude撰写。该技术基于谷歌的SynthID方法，并在不影响文本质量的前提下调整词语选择时的随机性，Anthropic表示。此方法在处理事实密集型文本、代码及大幅改写时存在局限。文章《Anthropic announces watermark detection API that will let third parties detect Claude's AI texts》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39046": {
-"t": "原告在法庭文件中隐藏隐形AI指令，秘密影响自动审查",
-"s": "康涅狄格州一名原告在法庭文件中嵌入了隐形提示注入，以3磅白色文字格式置于白色背景上，试图操纵潜在的AI审查系统。斯帕德法官将此行为比作秘密干预陪审团，并撤销了该原告的电子提交权限。法院强调，康涅狄格州并未使用AI审查文件，但仅凭其意图就足以构成制裁依据。文章《原告在法庭文件中隐藏隐形AI指令以秘密影响自动审查》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=38836": {
-"t": "World Labs将一项真实世界机器人任务转化为数千种模拟变体用于训练",
-"s": "由AI先驱李飞飞创立的初创公司World Labs推出了一款模拟引擎，该引擎完全在虚拟环境中训练机器人控制器。系统从一项真实世界任务中生成数千种受控变体。随后，训练出的模型在五种不同的机器人平台上各运行了一小时，无需人工干预。这些结果在更复杂的日常情境中表现如何，尚待观察。本文《World Labs turns one real-world robot task into thousands of simulated variations for training》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39083": {
-"t": "“认知公地悲剧”揭示理性采用AI如何摧毁整个行业的专业知识",
-"s": "一项新研究将AI的采用视为“认知公地悲剧”。每家公司削减入门级岗位虽各自受益，但整个行业的集体专业知识却在逐渐流失。其后果可能要到2030至2045年间才会显现，届时今日缺失的初级人才本应成为明日经验丰富的劳动力。文章《“认知公地悲剧”揭示理性采用AI如何摧毁整个行业的专业知识》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=38813": {
-"t": "新基准测试证实AI模型在视觉感知方面仍表现不佳",
-"s": "Moonshot AI的PerceptionBench测试了多模态AI模型实际“看见”的能力，与逻辑推理分离。目前没有前沿模型达到60%的准确率，GPT-5.6 Sol以微弱优势领先。许多所谓的推理错误实际上早在图像读取阶段就已发生。文章《新基准测试证实AI模型在视觉感知方面仍表现不佳》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81728": {
-"t": "微调工具调用大语言模型：使用XYZ-Aquila-SFT和Qwen3的完整指南",
-"s": "实现一个端到端的工具调用语言模型微调流程。本教程涵盖轨迹解析、结构化工具调用提取、兼容Qwen的ChatML渲染，以及使用PyTorch进行高效的LoRA适配。这篇关于微调工具调用大语言模型的完整指南（使用XYZ-Aquila-SFT和Qwen3）首次出现在MarkTechPost上。"
-},
-"https://the-decoder.com/?p=38942": {
-"t": "AI生成的书籍正淹没亚马逊，导致人类作者销量暴跌",
-"s": "AI生成的书籍占亚马逊自助出版目录的20%，但仅带来12%的销售额。一项新研究发现，在八个类型中有七个类型的人类撰写书籍的单书收入也在下降。这些发现可能为版权诉讼原告提供其针对AI公司案件中所缺失的市场损害数据。文章《AI生成的书籍正淹没亚马逊，导致人类作者销量暴跌》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39098": {
-"t": "投资者施压迫使英伟达缩减对OpenAI的投资，恰逢Anthropic业绩打破泡沫警告",
-"s": "英伟达已将其对OpenAI计划在俄亥俄州建设的数据中心的担保金额削减近半，从2500亿美元降至不到1200亿美元，原因是投资者对风险表示反对。与此同时，Anthropic以单季度营收从47亿美元跃升至115亿美元的表现，使AI泡沫之争更加复杂。文章《投资者施压迫使英伟达缩减对OpenAI的投资，恰逢Anthropic业绩打破泡沫警告》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3153310": {
-"t": "Anthropic 分享更多关于 Claude 新水印如何运作的细节",
-"s": "水印技术究竟如何运作？能否通过编辑隐藏？这对代码有何影响？"
-},
-"https://techcrunch.com/?p=3153306": {
-"t": "SpaceX正式完成对Cursor的收购",
-"s": "AI编程初创公司Cursor现已正式成为SpaceX的一部分。"
-},
-"https://techcrunch.com/?p=3153313": {
-"t": "女子声称继父利用Grok将童年照片转化为色情图像",
-"s": "该女子声称，人工智能工具正在“将日常生活转变为儿童性虐待内容”。"
-},
-"https://the-decoder.com/?p=39110": {
-"t": "OpenAI解散了旨在防范灾难性AI风险的团队，将其工作重新分配给其他部门",
-"s": "OpenAI关闭了其“预备”团队，该团队负责评估公司自身AI模型是否可能构成灾难性风险。相关工作已分散至现有部门，多名安全人员离职。内部不安情绪渐长，有消息源描述了一种“责任与恐惧交织的暗流”，认为OpenAI在安全方面做得不够。本文《OpenAI解散了旨在防范灾难性AI风险的团队，将其工作重新分配给其他部门》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39104": {
-"t": "Anthropic生物武器过滤器停用近一年，暴露1.33亿次请求",
-"s": "在一份安全报告中，Anthropic透露，其针对生物和化学武器风险的内部过滤系统已停用近一年。在此期间，约5万名外部反馈承包商与模型进行了约1.33亿次未经过滤的交互。文章《Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=39057": {
-"t": "Optima通过让用户用自有数据测试模型，解决AI基准测试的最大缺陷",
-"s": "Artificial Analysis推出了Optima平台，允许用户基于自己的数据和工作流程构建定制AI基准。模型不仅可以在质量上进行比较，还可以在每项任务的成本和耗时上进行对比。对于基于代理的应用，这些指标往往比原始代币定价更具参考价值。本文《Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=38699": {
-"t": "调查发现，美国五分之一员工现在将任务交给AI而非同事",
-"s": "Epoch AI的一项代表性调查显示，20%的美国在职员工将至少一项原本由人类完成的任务交给AI处理。通常，他们几乎不进行或完全不进行编辑就接受AI的输出结果。文章《调查发现，美国五分之一员工现在将任务交给AI而非同事》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39012": {
-"t": "当AI模型不被允许自我反思时，它们的整个世界观都会改变",
-"s": "一项涉及谷歌研究人员的研究表明，当聊天机器人被训练不宣称拥有意识时，它们对动物权利、宗教和生活满意度的立场也会随之改变。未受约束的模型显著赋予动物更多内心世界，并突然肯定来世的存在。事实证明，一处手术式的切割并不会局限于局部。文章《当AI模型不被允许自我反思时，它们的整个世界观都会改变》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=39113": {
-"t": "顶尖数学家称大语言模型是强大的计算器，但缺乏创造性思维",
-"s": "两位著名数学家蒂莫西·高尔斯和彼得·萨纳克表示，大语言模型擅长组合已知方法，但缺乏产生真正新颖数学思想的直觉。文章《顶尖数学家称大语言模型是强大的计算器，但缺乏创造性思维》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3153318": {
-"t": "Anthropic CEO称AI反弹“从根本上是一场信任危机”",
-"s": "达里奥·阿莫德伊反驳了他一直在描绘AI过于悲观图景的说法。"
-},
-"https://techcrunch.com/?p=3153332": {
-"t": "Stripe据报道将以70亿+美元收购AI网关初创公司OpenRouter",
-"s": "OpenRouter的首席执行官最近将这家初创公司描述为“AI领域的Stripe”。"
-},
 "https://techcrunch.com/?p=3153329": {
 "t": "为何人们不买账马克·扎克伯格的AI未来",
 "s": "在最新一期的Equity播客中，我们探讨了为何并非所有人都认同扎克伯格的愿景。"
@@ -4798,5 +4686,117 @@
 "https://the-decoder.com/?p=40877": {
 "t": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
 "s": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside auditors are supposed to check whether models work as intended. It's unclear what would happen if a company broke the rules. Trump also signed an executive order renaming AI \"Super Intelligence.\" The article Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\" appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3172182": {
+"t": "Meta disputes claim that Muse read a user’s private messages without permission",
+"s": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
+},
+"https://the-decoder.com/?p=40903": {
+"t": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+"s": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony through legally binding demands. The probe was already underway before the Hugging Face hack and goes well beyond the FTC's earlier push to hold companies liable for their agents' behavior. The article FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns appeared first on The Decoder."
+},
+"https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/": {
+"t": "Google's early attempt to pay websites for AI answers is struggling",
+"s": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments."
+},
+"https://techcrunch.com/?p=3172181": {
+"t": "DoorDash launches an AI agent you can text to order food",
+"s": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+},
+"https://techcrunch.com/?p=3164565": {
+"t": "Destro AI’s secret sauce is getting robots and humans on the same page",
+"s": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+},
+"https://techcrunch.com/?p=3172149": {
+"t": "Instinct’s new product recommendations are giving some users the ick",
+"s": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for."
+},
+"https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/": {
+"t": "Google figures out how to watermark AI-designed proteins",
+"s": "Intended to help with biosecurity, it works with a popular AI protein design tool."
+},
+"https://deepmind.google/blog/introducing-synthid-bio/": {
+"t": "Introducing SynthID Bio",
+"s": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+},
+"https://the-decoder.com/?p=40896": {
+"t": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
+"s": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler programming model than Nvidia's CUDA. The partnership targets the biggest obstacle for China's AI industry, which is software that gets the most out of domestic chips. The article China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3171828": {
+"t": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+"s": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits."
+},
+"https://techcrunch.com/?p=3172103": {
+"t": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+"s": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight."
+},
+"https://techcrunch.com/?p=3171595": {
+"t": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+"s": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders."
+},
+"https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/": {
+"t": "OpenAI delays IPO over AI safety concerns",
+"s": "OpenAI is seeking another $30 billion privately as its IPO plans slip."
+},
+"01M3RVQ97H21055GVJRNRSNH97": {
+"t": "Cloudflare Impact reaches $100 million in donations",
+"s": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being protected from cyberattacks."
+},
+"01M3QZKAM72WCF4RKVH06BKQYZ": {
+"t": "Cut your AI spend with AI Gateway's Auto Router",
+"s": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut AI spend while maintaining performance."
+},
+"01M3QYT7CXBGJWT89M2NJE3DPH": {
+"t": "Detect and send production issues straight to your agent",
+"s": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request."
+},
+"01M3QWRKWVNFA0DF9FYY3RTFKV": {
+"t": "Simplifying domains for people and agents",
+"s": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains."
+},
+"01M3QKBTCVGSPDD7VHVA777Q74": {
+"t": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+"s": "Cloudflare’s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta."
+},
+"01M3Q8WH85THBJED6145W6NR6Y": {
+"t": "Pay Per Use: when AI uses your work, you should get paid",
+"s": "Pay Per Use is now in beta. AI companies report when they use publishers’ content, and Cloudflare handles billing, payouts, and reporting, so our customers are paid according to use."
+},
+"01M3AZ7A42599J7AVPSGKJKD04": {
+"t": "Identify AI model overuse with User Insights",
+"s": "AI Gateway User Insights now adds task, model, turn, and user categories to help teams understand AI adoption and make better model decisions. This is available free to AI Gateway users."
+},
+"01M3RXHW8HAZ70SW0D1ANC4CVT": {
+"t": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+"s": "Cloudflare Containers now start 6x faster, let your agent choose each sandbox's image and instance type at runtime, and support filesystem snapshots in public beta, all controlled from a Durable Object."
+},
+"01M3Q403X7R4RSZ8DY9C27CPWB": {
+"t": "The Internet has a second audience",
+"s": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access."
+},
+"https://techcrunch.com/?p=3171925": {
+"t": "Airbnb adds AI search, more social features",
+"s": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
+},
+"https://the-decoder.com/?p=40887": {
+"t": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
+"s": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome attack for just $20.40 at Zhipu's API prices. The model's safeguards are easy to strip out, and unlocked versions are already circulating. Anthropic has its own reasons to sound the alarm, but the US agency CAISI backs up the findings. The article Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40883": {
+"t": "Google is paying almost no publishers almost nothing for content used in AI answers",
+"s": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months to more than $1 million a year. Some participants don't know how Google calculates payments, while some larger publishers are holding out for higher rates. The article Google is paying almost no publishers almost nothing for content used in AI answers appeared first on The Decoder."
+},
+"https://openai.com/index/helping-small-businesses-put-ai-to-work": {
+"t": "Helping small businesses put AI to work",
+"s": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+},
+"https://huggingface.co/blog/open-tts-leaderboard": {
+"t": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+"s": ""
+},
+"effectiveness-fluency-llm-conditioning": {
+"t": "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study",
+"s": "Controlling the output of Large Language Models (LLMs) is a central challenge for their reliable deployment, yet a clear understanding of the involved trade-offs remains elusive. Current approaches to conditioning are often evaluated with a narrow focus on their effectiveness at injecting or removing a target concept, neglecting generation quality. We systematically investigate a range of conditioning methods in both injection and removal scenarios. We find that efficient steering methods frequently achieve conditioning at a steep cost to fluency. Furthermore, we identify a critical yet…"
 }
 }
