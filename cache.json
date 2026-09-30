@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=3152944": {
-"t": "若新预测成真，超大规模云服务商或后悔拥抱天然气",
-"s": "美国部分地区天然气价格可能上涨两倍，这将使超大规模云服务商为其AI数据中心支付巨额电费。"
-},
 "https://techcrunch.com/?post_type=tc_podcast&p=3153152": {
 "t": "Meta的“开放”AI，以及一笔2.5亿美元的交易严重出错",
 "s": "Meta本周发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行——这与该公司更强大的模型Muse Spark形成对比，后者仍被锁定在其自有API之后。此次发布伴随着马克·扎克伯格的一封信，他在信中主张AI应“为所有人”服务，而非由少数实验室控制，但正如Equity的[…]"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3171769": {
 "t": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
 "s": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+},
+"https://the-decoder.com/?p=40877": {
+"t": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
+"s": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside auditors are supposed to check whether models work as intended. It's unclear what would happen if a company broke the rules. Trump also signed an executive order renaming AI \"Super Intelligence.\" The article Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\" appeared first on The Decoder."
 }
 }
