@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=39052": {
-"t": "GPT-5.6 Sol提速14倍，OpenAI推出由Cerebras驱动的Ultrafast模式",
-"s": "OpenAI推出“Ultrafast”新推理模式，基于其与Cerebras的100亿美元合作硬件，GPT-5.6 Sol的输出速度可达每秒750个token。结合“Standard”和“Fast”，Ultrafast构成了三级定价结构，将推理速度本身转化为产品。文章《GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras》最初发布于The Decoder。"
-},
 "https://techcrunch.com/?p=3152944": {
 "t": "若新预测成真，超大规模云服务商或后悔拥抱天然气",
 "s": "美国部分地区天然气价格可能上涨两倍，这将使超大规模云服务商为其AI数据中心支付巨额电费。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/introducing-dots": {
 "t": "Introducing dots",
 "s": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+},
+"https://techcrunch.com/?p=3171769": {
+"t": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+"s": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
 }
 }
