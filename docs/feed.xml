@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 01 Oct 2026 03:19:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 10:36:20 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Google releases Gemini 4 Argon, called its most powerful model yet</title>
@@ -38,14 +38,6 @@
 <pubDate>Wed, 30 Sep 2026 20:11:08 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】So much for Gemini 3.5 Pro.<br/><br/><a href="https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gemini 4 Argon: our next era of frontier intelligence</title>
-<link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
-<pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>RFK Jr. thinks AI will free us from the &quot;tyranny&quot; of medical facts, expertise</title>
@@ -182,14 +174,6 @@
 <pubDate>Wed, 30 Sep 2026 15:54:52 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Intended to help with biosecurity, it works with a popular AI protein design tool.<br/><br/><a href="https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing SynthID Bio</title>
-<link>https://deepmind.google/blog/introducing-synthid-bio/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-synthid-bio/</guid>
-<pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Proof of concept for watermarking AI-generated proteins while preserving biological function.<br/><br/><a href="https://deepmind.google/blog/introducing-synthid-bio/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips</title>
@@ -486,6 +470,22 @@
 <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome</title>
+<link>https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/</link>
+<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/</guid>
+<pubDate>Tue, 29 Sep 2026 13:00:19 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.<br/><br/><a href="https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Using AI to chart a course for our post-quantum migration</title>
+<link>https://blog.cloudflare.com/ai-driven-cryptography-discovery/</link>
+<guid isPermaLink="false">01M3NESWHMHMZYRDST3MNM46GJ</guid>
+<pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far.<br/><br/><a href="https://blog.cloudflare.com/ai-driven-cryptography-discovery/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
