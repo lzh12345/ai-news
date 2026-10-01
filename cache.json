@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81741": {
-"t": "MiniMax发布MiniMax-Music3：一款开放权重音乐模型，能从歌词和结构化描述生成完整五分钟歌曲",
-"s": "MiniMax发布了MiniMax-Music3，一款开放权重的文本转音乐模型。给定带有段落标签的歌词和结构化描述，它能一次性生成最长五分钟的完整歌曲，输出为32 kHz、16位立体声WAV格式。本文介绍了其架构、三种服务路径，以及发布前需注意的许可条件。该文章首发于MarkTechPost。"
-},
 "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/": {
 "t": "隐藏的AirTag揭露亚马逊销毁珍稀书籍以训练AI",
 "s": "亚马逊团队使用一只准备吞噬书籍的霸王龙作为其标志。"
@@ -4798,5 +4794,9 @@
 "sclate-agent-training-evaluation": {
 "t": "SCLATE: A Substrate for Continual-Learning Agent Training and Evaluation",
 "s": "Continual-learning agents are systems of models, harnesses, and memory operating over long multi-session horizons. Evaluating and training them requires interleaving tasks with agent-side events such as session stop and start, crons, and memory consolidation. Yet existing benchmarks and training frameworks schedule only the benchmark’s own events, leaving each benchmark and agent pair to build a custom scheduling loop. We present SCLATE, an execution substrate where benchmarks and unmodified agents each add their events to one open event scheduler through an adapter. A hybrid simulated clock…"
+},
+"https://techcrunch.com/?p=3172532": {
+"t": "Google releases Gemini 4 Argon, called its most powerful model yet",
+"s": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
 }
 }
