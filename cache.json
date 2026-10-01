@@ -1,36 +1,4 @@
 {
-"https://huggingface.co/blog/multi-vector-encoder": {
-"t": "多向量（后期交互）嵌入模型与句子变换器",
-"s": "（无）"
-},
-"grpo-beyond-english": {
-"t": "GRPO超越英语：非英语与多语言环境下GRPO的大规模研究",
-"s": "基于可验证奖励的强化学习（RLVR），通常通过组相对策略优化（GRPO）进行优化，已成为提升预训练语言模型推理能力的关键方法，但现有研究仍高度以英语为中心。我们针对多种基础模型、训练语言及不同推理语言奖励，开展了一项大规模的多语言和非英语GRPO实证研究。我们发现，以母语进行推理训练与英语推理训练之间的差距通常很小。我们进一步观察到强大的……"
-},
-"https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
-"t": "加强国家安全领域的民主监督",
-"s": "OpenAI启动一项倡议，旨在加强人工智能在国家安全领域的民主监督，为政府机构提供工具、培训和专业知识支持。"
-},
-"https://the-decoder.com/?p=39181": {
-"t": "OpenAI称随着AI网络安全风险日益严峻，正“放缓模型开发步伐”",
-"s": "OpenAI正有意“放缓AI模型开发”，部分原因是即将推出的“Astra”模型可能接近获得关键的网络攻击能力。新的监控系统能在模型出现可疑行为时30分钟内触发警报。本文《OpenAI称随着AI网络安全风险日益严峻，正“放缓模型开发步伐”》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39175": {
-"t": "新基准测试按质量、成本和速度对AI代理的搜索API进行排名",
-"s": "Artificial Analysis发布了“搜索索引”，这是一个基准测试，用于评估AI代理的搜索API提供商在质量、成本和速度方面的表现。在七个使用GPT-5.6 Luna测试的提供商中，Parallel、Exa和Firecrawl得分最高。文章《新基准测试按质量、成本和速度对AI代理的搜索API进行排名》首发于The Decoder。"
-},
-"https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
-"t": "你的智能体究竟需要多少内存？",
-"s": "（无）"
-},
-"https://techcrunch.com/?p=3154044": {
-"t": "OpenAI在Hugging Face遭入侵后实施新安全措施",
-"s": "新安全措施包括在模型开发过程中进行更详细的监控，以及在后期训练过程中更加重视对齐与安全性。"
-},
-"https://techcrunch.com/?p=3153956": {
-"t": "Etched估值一个月内翻倍至210亿美元",
-"s": "Jane Street已安装Etched首个交付的AI集群系统，并对其印象深刻，据该初创公司称，这促成了又一轮大规模融资。"
-},
 "https://openai.com/index/pacing-model-development-cyber-capabilities": {
 "t": "在网络关键能力时代，把握模型开发节奏",
 "s": "OpenAI正在加强对前沿AI模型的监控、对齐与安全措施。了解新的保障措施如何引导模型开发的步伐。"
@@ -4798,5 +4766,37 @@
 "rltl-dr-self-improvement": {
 "t": "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback",
 "s": "The common paradigm of reinforcement learning with verifiable rewards (RLVR) is to let agents make multiple attempts at a task, and optimize towards the successful ones. This becomes problematic in the realms of self-improvement, where tasks are so difficult that the agent has a low or even no chance of success, and where there are no teacher models or example solutions to distill from. In this paper, we introduce RLTL;DR. After each failed attempt, we show the policy the verifier outputs and let it write its own feedback, in the form of a single TL;DR insight. The next rollout is conditioned…"
+},
+"https://techcrunch.com/?p=3172859": {
+"t": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+"s": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+},
+"https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/": {
+"t": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+"s": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
+},
+"https://techcrunch.com/?p=3172830": {
+"t": "ChatGPT can now virtually try on clothes for you",
+"s": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
+},
+"https://techcrunch.com/?p=3172746": {
+"t": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+"s": "Google launched its first advanced chip into orbit to pave the way for space data centers."
+},
+"https://techcrunch.com/?p=3172737": {
+"t": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+"s": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
+},
+"https://the-decoder.com/?p=40952": {
+"t": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
+"s": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of participants believed Griffin was a real person after a one-minute call. Previous systems maxed out at two percent. The article Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3172744": {
+"t": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+"s": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+},
+"https://openai.com/index/the-den-family-social": {
+"t": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+"s": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
 }
 }
