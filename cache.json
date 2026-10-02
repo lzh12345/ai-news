@@ -1,92 +1,4 @@
 {
-"semismooth-newton-optimal-transport": {
-"t": "一种针对基于核的最优传输问题的专用半光滑牛顿方法",
-"s": "基于核的最优传输（OT）估计器提供了一种替代性的函数估计程序，用于从样本中解决OT问题。近期研究表明，在高维空间中比较概率测度时，这些估计器在统计效率上优于基于插值（线性规划）的OT估计器[Vacher等人，2021]。然而，这种统计优势伴随着极高的计算成本：由于其计算依赖于短步内点法（SSIPM），该方法在实践中迭代次数较多，导致这些估计器迅速变得……"
-},
-"https://openai.com/index/nvidia/chatgpt-work": {
-"t": "NVIDIA如何借助ChatGPT Work扩展专业知识",
-"s": "NVIDIA团队利用ChatGPT Work减少手动任务，连接快速变化的信号，并在全球范围内扩展成功的工作流程。"
-},
-"https://www.marktechpost.com/?p=81762": {
-"t": "NVIDIA公开发布TensorRT Model Connect预览版：两条命令将Hugging Face检查点转换为原生C++推理",
-"s": "NVIDIA已公开发布TensorRT Model Connect（TRTMC）预览版，这是一个Apache-2.0项目，可将受支持的Hugging Face或本地检查点通过两条命令转换为端到端的TensorRT推理，无需中间ONNX导出。构建过程会生成一个带版本号的.bundle工件，该工件通过原生C++任务API运行，因此推理执行时无需在运行时路径中包含PyTorch。NVIDIA于2026年7月29日的GB300快照覆盖了76个模型家族中的105个发布配置文件。"
-},
-"https://openai.com/index/chatgpt-ads-expands-across-europe": {
-"t": "ChatGPT广告业务扩展至欧洲各地",
-"s": "ChatGPT广告正扩展至31个欧洲市场。了解广告主如何在用户探索、比较选项和做出决策时触达他们。"
-},
-"https://techcrunch.com/?p=3154147": {
-"t": "Relativity Networks融资2200万美元，为数据中心带来更快的光纤技术",
-"s": "Relativity Networks专注于空芯光纤，这是一种罕见部署的技术，能使数据传输速度比传统光纤快30%。"
-},
-"01M00Y54SDH5EBZBFJ1FQZ2BX9": {
-"t": "对Cloudflare Workers远程Spectre攻击的再探讨",
-"s": "在2024年和2025年，我们重新评估了对Workers基础设施的远程Spectre攻击。我们分享了关于新攻击原语（如Spectre小工具、远程计时器、实现同驻）以及新防御措施如何进一步加固Cloudflare Workers的细节。"
-},
-"https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/": {
-"t": "Meta为承诺“脱衣”女性政客的应用投放广告",
-"s": "一则广告中包含了与一位美国政客高度相似的深度伪造色情视频。"
-},
-"https://techcrunch.com/?p=3154356": {
-"t": "TerraPower核反应堆拥有为AI数据中心供电的秘密武器",
-"s": "TerraPower的核电站相比竞争对手拥有战略优势，尤其是在争夺数据中心合同方面。"
-},
-"https://techcrunch.com/?p=3154279": {
-"t": "亚马逊在Fire TV上免费提供AI驱动的Alexa+，无需Prime会员",
-"s": "亚马逊正在美国所有兼容的Fire TV设备上免费提供其AI驱动的Alexa+助手，无论用户是否订阅Prime，都将自动升级。"
-},
-"1T57vZE1VvtZKQQXLSMrX6": {
-"t": "VentureBeat任命Rob Strechay为首位首席分析师，扩大企业AI研究布局",
-"s": "Rob Strechay，此前担任theCUBE Research的董事总经理兼首席分析师，现已加入VentureBeat，成为我们的首位首席分析师及VentureBeat Research的创始分析师。他的到来是VentureBeat向更深层次专业化迈进的又一步：为技术决策者——评估、采购和部署企业AI的总监、副总裁、CIO和CTO——打造分析内容。企业AI技术栈正在实时重构，与我交流的决策者们渴望客观、可辩护的数据。Rob Strechay兼具技术实力……"
-},
-"https://techcrunch.com/?p=3154226": {
-"t": "Calendly加入会议记录工具竞争行列",
-"s": "Calendly还推出了一款名为Callie的会议日程安排助手。"
-},
-"https://the-decoder.com/?p=39193": {
-"t": "中国允许英伟达H200芯片小批量进入大陆，助力本土AI企业追赶美国",
-"s": "中国正允许英伟达H200芯片小批量进入大陆，以帮助国内AI企业在与美国的竞争中保持步伐。文章《中国允许英伟达H200芯片小批量进入大陆，助力本土AI企业追赶美国》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39190": {
-"t": "GLM-5.3登顶开源模型排行榜，价格低于竞争对手，但发布延迟",
-"s": "中国初创公司Z.ai推出的AI模型GLM-5.3在人工智能分析智能指数上获得60分，与Kimi K3并列开源模型榜首，比之前的GLM-5.2高出7分。文章《GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed》首发于The Decoder。"
-},
-"https://huggingface.co/blog/LiquidAI/qad": {
-"t": "LFM2.5 Q4_0 检查点：来自量化感知蒸馏",
-"s": "（无）"
-},
-"https://the-decoder.com/?p=39184": {
-"t": "AI实验室未能有效管控自身系统",
-"s": "没有任何一家AI公司对其内部AI系统全面实施基本控制措施。文章《AI实验室未能有效管控自身系统》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39187": {
-"t": "Anthropic称任何实验室现在都能让语言模型代理运行整个蛋白质设计流程",
-"s": "Anthropic让其Claude模型自主设计能与体内目标结构对接的小型蛋白质，这是早期药物开发中的关键一步。命中率高达35%，远超行业平均的10%至15%。Claude仅操控现有的专业工具，独立评审尚待进行。文章《Anthropic says any lab can now let a language model agent run the whole protein design stack》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39186": {
-"t": "Anthropic首次在营收上超越OpenAI",
-"s": "在人工智能竞赛中，Anthropic首次在营收上超过了OpenAI。文章《Anthropic首次在营收上超越OpenAI》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3153940": {
-"t": "AI远未攻克癌症。这家初创公司称深知所需之道。",
-"s": "关键在于数据，笨蛋。"
-},
-"https://openai.com/index/replit": {
-"t": "Replit借助GPT-5.6 Luna扩大软件开发访问权限",
-"s": "Replit推出免费模式，由GPT-5.6 Luna驱动，让任何人都能将想法转化为可运行的软件，无需担心令牌成本。"
-},
-"human-like-behaviors-llms": {
-"t": "审视大语言模型中的人类类似行为：模型行为、用户因素与系统提示的多维度分析",
-"s": "大语言模型（LLMs）展现出广泛的人类类似行为，从表达思想和情感，到与用户建立关系，再到拒绝请求和维护界限。尽管这些行为普遍存在，但研究人员和从业者缺乏方法和实证见解，无法就LLMs应在何时以及展现何种类型的人类类似行为做出明智决策。为填补这一空白，我们利用LLM作为评判者和人工评估，对这些行为的普遍性、潜在影响和可控性进行了多维度分析。在21,000项..."
-},
-"https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/": {
-"t": "空乘人员对谷歌将购买大量精神航空员工数据感到恐慌",
-"s": "破产的精神航空被指控在向谷歌大规模出售数据时出卖员工。"
-},
-"https://the-decoder.com/?p=39220": {
-"t": "Stripe宣称我们正身处“奇点”，并以此为由不进行IPO",
-"s": "在致投资者的一封信中，Stripe宣布1月1日为“奇点之始”，并以此作为保持私有化的理由。并非它需要理由：今年上半年营收增长41%，公司还确认了以超过80亿美元收购OpenRouter的交易。目前，宣称奇点已至颇为流行。哈萨比斯、奥特曼和马斯克均表示它已到来。本文《Stripe宣称我们正身处“奇点”，并以此为由不进行IPO》最初发表于The Decoder。"
-},
 "https://techcrunch.com/?p=3154433": {
 "t": "AI本应赢得人心，却至今未果",
 "s": "随着AI越来越难以回避，消费者对这一技术的警惕性日益增强——而硅谷也发现，广泛采用并不必然带来接受。"
@@ -4798,5 +4710,93 @@
 "https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
 "t": "AutoSynthData: Generating Training Data for Enterprise Agents",
 "s": ""
+},
+"https://techcrunch.com/?p=3172764": {
+"t": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+"s": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test dummies\" to solve that."
+},
+"https://openai.com/index/practical-guide-building-gpt-6": {
+"t": "A model guide for the GPT-6 family",
+"s": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+},
+"01M3XKBJCTDTMBBCNNHA141F04": {
+"t": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+"s": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine."
+},
+"https://techcrunch.com/?p=3173199": {
+"t": "Pope Leo XIV is not a fan of AI-generated art",
+"s": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\""
+},
+"https://huggingface.co/blog/allenai/astabrief": {
+"t": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+"s": ""
+},
+"https://techcrunch.com/?p=3173109": {
+"t": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+"s": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+},
+"https://github.blog/?p=99170": {
+"t": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+"s": "Learn three skills to strengthen as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog."
+},
+"https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/": {
+"t": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+"s": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99."
+},
+"https://techcrunch.com/?p=3173061": {
+"t": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+"s": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
+},
+"https://techcrunch.com/?p=3173088": {
+"t": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+"s": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?"
+},
+"01M3XM9KVCRB6JKE07Q88EPGD2": {
+"t": "Introducing Web Search API via AI Gateway",
+"s": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings."
+},
+"01M3XHCB64KZ1NTN3N83GY590B": {
+"t": "8 major updates to Cloudflare Observability",
+"s": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing."
+},
+"01M3XE7G2V6JJXPKX92B1D4080": {
+"t": "Introducing Cloudflare Traces: follow requests through our entire platform",
+"s": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack."
+},
+"01M3XD0M307DCDJ5QYA2RFTW87": {
+"t": "Updates on our pledge to make Cloudflare features accessible to everyone",
+"s": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next."
+},
+"01M3WRXHGNF2ZH02N0GWY6FHVV": {
+"t": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+"s": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products."
+},
+"01M3WNK9KTV3615MEM25RN3E4H": {
+"t": "Follow the thread: a new dashboard to investigate account abuse",
+"s": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse."
+},
+"01M3WEQR3N79CDBSMHD5V067HA": {
+"t": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+"s": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side."
+},
+"01M3W899F5N6P98MYP180WJMS4": {
+"t": "Building for good: How civil society organizations are automating on Cloudflare",
+"s": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare."
+},
+"01M3T5GMDCTRDCS7CFJSMSJ2TS": {
+"t": "2026 Birthday week: network performance update",
+"s": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy."
+},
+"https://the-decoder.com/?p=40980": {
+"t": "Three firings and a fourth departure shake up OpenAI's safety team",
+"s": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure shake up OpenAI's safety team appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40971": {
+"t": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
+"s": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchmark, though, no model fully completes all the tasks. Without human oversight, AI still can't close the books on its own. The article AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision appeared first on The Decoder."
+},
+"language-discrimination-multilingual-learning": {
+"t": "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models",
+"s": "Multilingual self-supervised speech models can benefit from sharing information across languages, but under a matched total pretraining data budget they still fall short of monolingual models. We show that strengthening the model’s ability to discriminate languages during pretraining reduces and, on some measures, closes this multilingual gap on continuous phonetic and higher-level linguistic measures, while preserving substantial cross-language sharing. Using a controlled English/French HuBERT setting, we test two interventions which strengthen language discrimination: an auxiliary language…"
 }
 }
