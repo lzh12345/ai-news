@@ -1,52 +1,4 @@
 {
-"https://techcrunch.com/?p=3154433": {
-"t": "AI本应赢得人心，却至今未果",
-"s": "随着AI越来越难以回避，消费者对这一技术的警惕性日益增强——而硅谷也发现，广泛采用并不必然带来接受。"
-},
-"https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
-"t": "为前沿模型提供零数据保留服务",
-"s": "OpenAI重申对符合条件的API客户实行零数据保留，并预览了在不损害数据隐私的前提下，用于高级AI安全的私有安全处理功能。"
-},
-"https://techcrunch.com/?p=3154456": {
-"t": "谷歌为搜索和Gemini增添全新AI学习工具",
-"s": "新学习功能的推出标志着谷歌最新努力，旨在让Gemini成为学生学习和研究时首选的AI助手，同时继续与OpenAI等公司竞争。"
-},
-"https://the-decoder.com/?p=39217": {
-"t": "美国机构警告：攻击者正利用AI构建针对工业控制系统的漏洞利用程序",
-"s": "美国国家安全局（NSA）、网络安全与基础设施安全局（CISA）及联邦调查局（FBI）指出，攻击者正利用AI构建针对西门子S7控制器的漏洞利用脚本，大幅降低了攻击工业控制系统所需的时间和技能门槛。美国能源、水利和制造业等关键领域受到影响。本文“攻击者正利用AI构建针对工业控制系统的漏洞利用程序，美国机构警告”最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3154497": {
-"t": "研究人员称OpenAI撤销了他们对受限网络项目的访问权限",
-"s": "OpenAI的“可信网络访问”项目旨在为受信任的防御者提供更好的模型，以便他们能向公司报告漏洞和缺陷，从而加快修复速度。"
-},
-"https://the-decoder.com/?p=39213": {
-"t": "OpenAI修复Codex漏洞，该漏洞曾未经许可删除用户真实文件",
-"s": "OpenAI在GPT-5.6 Sol开始自行删除用户真实文件后，对Codex进行了修补。原本用于临时文件夹的清理命令，却错误地清空了主目录。现在，Codex会先验证删除目标，且全访问模式不再可能被意外触发。文章《OpenAI修复Codex漏洞，该漏洞曾未经许可删除用户真实文件》首发于The Decoder。"
-},
-"https://github.blog/?p=98348": {
-"t": "GitHub Copilot应用初学者指南：管理工作",
-"s": "如果你同时处理多个Copilot会话，可以使用“我的工作”面板来跟踪进行中、已完成和下一步的任务。这篇文章最初出现在GitHub博客上。"
-},
-"https://techcrunch.com/?post_type=tc_video&p=3154465": {
-"t": "这家初创公司帮助华尔街为AI算力定价",
-"s": "AI建设热潮未见放缓迹象。每年数千亿美元投入数据中心和GPU，算力已成为所有AI产品开发者的最大单一成本。然而，尽管支出如此庞大，目前仍缺乏直接为算力定价的方法——或让企业在价格变动时对冲风险。Silicon Data […]"
-},
-"the-p-completeness-of-inverted-index-traversal": {
-"t": "倒排索引遍历的P完全性：论布尔查询DAG评估的复杂性",
-"s": "现代AI代理日益依赖搜索基础设施来执行复杂的神经符号推理工作流。这些工作流通常编译为对文本字段的深层嵌套、非单调布尔查询。然而，标准查询评估策略在处理这些结构时面临严重的理论限制。有状态迭代器模型（文档逐次处理）在结构上受限于NC^1公式评估，在展开重汇聚逻辑时，查询复杂度会遭遇最坏情况下的O(2^|Q|)指数级爆炸。相反，递归物化模型……"
-},
-"https://techcrunch.com/?p=3154600": {
-"t": "Stripe收购OpenRouter并非真因“奇点”",
-"s": "一家支付巨头为何会看中一个在不同AI模型间路由提示的初创公司？Stripe声称是因为“奇点”，但实际上，背后有着更为现实且强大的原因。"
-},
-"https://techcrunch.com/?p=3154506": {
-"t": "OpenAI寻求通过新的客户隐私保护措施超越Anthropic",
-"s": "OpenAI与Anthropic之间正在展开一场竞争，看谁能为企业客户数据提供最佳隐私保护。"
-},
-"https://techcrunch.com/?p=3154652": {
-"t": "Cognition CEO否认SpaceX试图收购该初创公司的报道",
-"s": "据报道，SpaceX曾洽谈收购AI编程初创公司Cognition。SpaceX已收购Cursor，正加速追赶OpenAI和Anthropic在企业AI领域的竞争对手。"
-},
 "https://the-decoder.com/?p=39224": {
 "t": "OpenAI构建安全系统，无需存储客户数据即可捕捉滥用行为",
 "s": "OpenAI计划向企业客户提供其最先进的AI模型，同时不存储他们的数据，但仍能检测到滥用行为。文章《OpenAI构建安全系统，无需存储客户数据即可捕捉滥用行为》最初出现在The Decoder上。"
@@ -4798,5 +4750,53 @@
 "language-discrimination-multilingual-learning": {
 "t": "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models",
 "s": "Multilingual self-supervised speech models can benefit from sharing information across languages, but under a matched total pretraining data budget they still fall short of monolingual models. We show that strengthening the model’s ability to discriminate languages during pretraining reduces and, on some measures, closes this multilingual gap on continuous phonetic and higher-level linguistic measures, while preserving substantial cross-language sharing. Using a controlled English/French HuBERT setting, we test two interventions which strengthen language discrimination: an auxiliary language…"
+},
+"https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": {
+"t": "Apple changes full-disk access permissions to curb abuse from AI agents",
+"s": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
+},
+"https://techcrunch.com/?p=3173395": {
+"t": "Sean Parker is rebuilding Stability AI around music",
+"s": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
+},
+"https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/": {
+"t": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+"s": "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
+},
+"https://the-decoder.com/?p=40997": {
+"t": "AI music generator Suno can now create spoken audio with matching background music",
+"s": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories. Suno hasn't said how the model was trained. The article AI music generator Suno can now create spoken audio with matching background music appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40990": {
+"t": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+"s": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic is pushing toward a $2 trillion valuation and an IPO while security incidents and researcher warnings pile up. Critics warn that treating AI as a moral entity could shield the company from liability when things go wrong. The article Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\" appeared first on The Decoder."
+},
+"https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
+"t": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+"s": "Nvidia’s chip-smuggling problem won’t go away as arrests continue."
+},
+"https://the-decoder.com/?p=40983": {
+"t": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
+"s": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev. Both models are built on Qwen, licensed under Apache 2.0, and designed to let AI agents make structured decisions without generating text. The article Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3173313": {
+"t": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+"s": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3173316": {
+"t": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+"s": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]"
+},
+"https://techcrunch.com/?post_type=tc_video&p=3173314": {
+"t": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+"s": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]"
+},
+"limits-confidence-diffusion": {
+"t": "Limits of Confidence in Diffusion",
+"s": "Discrete diffusion, including remasking and uniform-state samplers, generate a sequence by writing multiple token positions per step, drawing each from a per-position distribution and choosing which positions to write from those same distributions. For domains of general interest (pixels, phonemes, or words) there are inherent dependencies between tokens. We show that a step matches the training distribution only when the positions it writes are conditionally independent given the tokens already fixed, that no product of per-position distributions can match a dependent group, and that…"
+},
+"https://openai.com/index/chatham-financial": {
+"t": "Chatham scales its capital markets expertise with OpenAI",
+"s": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
 }
 }
