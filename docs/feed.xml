@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 02 Oct 2026 03:21:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 10:11:02 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Microsoft AI releases new transcription and text-to-speech models for voice agents</title>
+<link>https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40967</guid>
+<pubDate>Fri, 02 Oct 2026 09:20:39 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Businesses are using more AI and paying less for it, Ramp AI Index shows</title>
+<link>https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40962</guid>
+<pubDate>Fri, 02 Oct 2026 09:09:21 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone</title>
+<link>https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40956</guid>
+<pubDate>Fri, 02 Oct 2026 07:44:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are coming in the next few weeks. The article Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
+<link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+<pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ServiceNow-AI/autosynthdata">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president</title>
 <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
@@ -336,14 +368,6 @@
 <description><![CDATA[【arstechnica.com】AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.<br/><br/><a href="https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer</title>
-<link>https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40918</guid>
-<pubDate>Wed, 30 Sep 2026 19:12:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on its own. Early tests with semiconductor customers are already underway. OpenAI is likely using the partnership to advance its own chip development as well. The article OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI’s Jev clone could help the frontier lab stop its swarming agents</title>
 <link>https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3172187</guid>
@@ -376,14 +400,6 @@
 <description><![CDATA[【techcrunch.com】The $300 million employee tender was co-led by Wellington and T. Rowe Price.<br/><br/><a href="https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats</title>
-<link>https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40914</guid>
-<pubDate>Wed, 30 Sep 2026 18:16:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google is replacing Gems with "Skills" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing "/" or that Gemini runs automatically. The format is based on an open standard from Anthropic. Gems will be phased out starting in November, with existing ones migrating automatically. The article Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Reddit is killing RSS feeds and ending public API access because of AI bots</title>
 <link>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3172243</guid>
@@ -398,14 +414,6 @@
 <pubDate>Wed, 30 Sep 2026 17:24:45 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.<br/><br/><a href="https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta dodges billions in US taxes by calling its AI data centers experiments</title>
-<link>https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40909</guid>
-<pubDate>Wed, 30 Sep 2026 17:22:34 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta classifies its AI data centers as "pilot models" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion. The tax credit dates back to 1981, and even Meta's own accountants see the strategy as legally risky, the New York Times reports. Zuckerberg himself said in January 2025 that these data centers, now framed as experimental, would "drive our core products and business." The article Meta dodges billions in US taxes by calling its AI data centers experiments appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta disputes claim that Muse read a user’s private messages without permission</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request.<br/><br/><a href="https://blog.cloudflare.com/real-time-issue-detection/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Simplifying domains for people and agents</title>
-<link>https://blog.cloudflare.com/simplifying-domains/</link>
-<guid isPermaLink="false">01M3QWRKWVNFA0DF9FYY3RTFKV</guid>
-<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains.<br/><br/><a href="https://blog.cloudflare.com/simplifying-domains/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

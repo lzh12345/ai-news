@@ -1,20 +1,4 @@
 {
-"https://openai.com/index/pacing-model-development-cyber-capabilities": {
-"t": "在网络关键能力时代，把握模型开发节奏",
-"s": "OpenAI正在加强对前沿AI模型的监控、对齐与安全措施。了解新的保障措施如何引导模型开发的步伐。"
-},
-"https://openai.com/index/asana": {
-"t": "Asana借助Codex两周完成五年工程量",
-"s": "Asana利用OpenAI Codex在两周内替换了过时的测试系统，完成了预计需五年时间、成本约1.2万美元的工作。"
-},
-"mvicad2-delays-dilations": {
-"t": "MVICAD2：带延迟与扩张的多视图独立成分分析",
-"s": "多视图设置中的机器学习技术面临重大挑战，尤其是在整合异构数据、对齐特征空间以及管理视图特定偏差方面。这些问题在神经科学中尤为突出，在该领域中，分析多个受试者接触相同刺激时的数据以揭示大脑活动动态。在脑磁图（MEG）中，信号在头皮层面捕获，估计大脑的潜在源至关重要，尤其是在组研究中，假设所有受试者的源相似。常见方法，如多视图……"
-},
-"https://techcrunch.com/?p=3154081": {
-"t": "Cursor借GitHub用户不满之机，推出竞争性托管平台",
-"s": "以AI代码编辑器闻名的Cursor，正推出一个新的代码托管平台，以挑战开发者长期偏爱的GitHub。"
-},
 "semismooth-newton-optimal-transport": {
 "t": "一种针对基于核的最优传输问题的专用半光滑牛顿方法",
 "s": "基于核的最优传输（OT）估计器提供了一种替代性的函数估计程序，用于从样本中解决OT问题。近期研究表明，在高维空间中比较概率测度时，这些估计器在统计效率上优于基于插值（线性规划）的OT估计器[Vacher等人，2021]。然而，这种统计优势伴随着极高的计算成本：由于其计算依赖于短步内点法（SSIPM），该方法在实践中迭代次数较多，导致这些估计器迅速变得……"
@@ -4798,5 +4782,21 @@
 "https://openai.com/index/the-den-family-social": {
 "t": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
 "s": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+},
+"https://the-decoder.com/?p=40967": {
+"t": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+"s": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40962": {
+"t": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
+"s": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40956": {
+"t": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+"s": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are coming in the next few weeks. The article Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone appeared first on The Decoder."
+},
+"https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
+"t": "AutoSynthData: Generating Training Data for Enterprise Agents",
+"s": ""
 }
 }
