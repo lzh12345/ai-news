@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=39224": {
-"t": "OpenAI构建安全系统，无需存储客户数据即可捕捉滥用行为",
-"s": "OpenAI计划向企业客户提供其最先进的AI模型，同时不存储他们的数据，但仍能检测到滥用行为。文章《OpenAI构建安全系统，无需存储客户数据即可捕捉滥用行为》最初出现在The Decoder上。"
-},
 "https://the-decoder.com/?p=39241": {
 "t": "AI先驱萨顿称合成数据是面对无限复杂世界时的“重大错误”",
 "s": "图灵奖得主理查德·萨顿称，在扩展大型语言模型时使用合成数据是“重大错误”。世界是无限复杂的，任何对其的模拟都只是“微观”的，而人类专业知识则成为阻碍真正扩展的瓶颈。萨顿提出的替代方案是让智能体从自身经验中持续学习，而非依赖固定不变的模型。文章《AI先驱萨顿称合成数据是面对无限复杂世界时的“重大错误”》最初发表于The Decoder。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/chatham-financial": {
 "t": "Chatham scales its capital markets expertise with OpenAI",
 "s": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+},
+"https://techcrunch.com/?p=3173444": {
+"t": "Meta wants your next gadget to be Muse-infused",
+"s": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
 }
 }
