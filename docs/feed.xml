@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 03 Oct 2026 18:54:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 22:33:41 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Apparently, OpenAI isn't trying to build &quot;magic intelligence in the sky&quot; anymore</title>
+<link>https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41053</guid>
+<pubDate>Sat, 03 Oct 2026 18:56:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a "real safety issue." His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building "magic intelligence in the sky" and feeling "on the side of the angels" working on AI. The article Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Amazon responds to data center backlash, says it no longer uses NDAs</title>
 <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
@@ -150,14 +158,6 @@
 <pubDate>Fri, 02 Oct 2026 18:39:36 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Nvidia’s chip-smuggling problem won’t go away as arrests continue.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents</title>
-<link>https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40983</guid>
-<pubDate>Fri, 02 Oct 2026 18:19:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev. Both models are built on Qwen, licensed under Apache 2.0, and designed to let AI agents make structured decisions without generating text. The article Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</title>

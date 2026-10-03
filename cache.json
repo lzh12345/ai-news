@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=39245": {
-"t": "GEN-1.5：通用型AI通过单一演示教会机器人新任务",
-"s": "机器人初创公司Generalist AI发布了GEN-1.5，这是一款能从单一演示中教会机器人新任务的AI模型。文章《GEN-1.5：通用型AI通过单一演示教会机器人新任务》最初出现在The Decoder上。"
-},
 "multilingual-knowledge-transfer-lexical-interventions": {
 "t": "数据约束下通过词汇干预实现多语言知识迁移",
 "s": "跨语言知识迁移对于构建训练数据不足语言的高性能多语言语言模型至关重要。当目标语言数据稀缺时，涉及科学推理、常识推断和世界知识等许多下游任务所需的知识必须主要从高资源语言中获取，因此有效的知识迁移至关重要。现有改进此类跨语言知识迁移的方法需要大量平行数据、翻译系统、辅助模型或额外的训练阶段，而这些条件往往难以满足。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3173499": {
 "t": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
 "s": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
+},
+"https://the-decoder.com/?p=41053": {
+"t": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+"s": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building \"magic intelligence in the sky\" and feeling \"on the side of the angels\" working on AI. The article Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore appeared first on The Decoder."
 }
 }
