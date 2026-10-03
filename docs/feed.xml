@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 03 Oct 2026 15:30:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 18:54:37 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amazon responds to data center backlash, says it no longer uses NDAs</title>
+<link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3173505</guid>
+<pubDate>Sat, 03 Oct 2026 18:43:57 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.<br/><br/><a href="https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
+<link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3173499</guid>
+<pubDate>Sat, 03 Oct 2026 16:30:01 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.<br/><br/><a href="https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>&quot;Muse Gadgets&quot; turns AI hardware into an open-source DIY project</title>
 <link>https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/</link>
@@ -416,14 +432,6 @@
 <description><![CDATA[【techcrunch.com】Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.<br/><br/><a href="https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Shopify debuts Canvas, a way to build online stores by chatting with AI</title>
-<link>https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172692</guid>
-<pubDate>Thu, 01 Oct 2026 16:44:35 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.<br/><br/><a href="https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>With most information hidden, the game Stratego had stumped AI—until now</title>
 <link>https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/</link>
 <guid isPermaLink="false">https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/</guid>
@@ -446,14 +454,6 @@
 <pubDate>Thu, 01 Oct 2026 15:34:02 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.<br/><br/><a href="https://blog.cloudflare.com/clef-decision-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Brian Chesky interview: AI agents need their own operating system</title>
-<link>https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172101</guid>
-<pubDate>Thu, 01 Oct 2026 15:12:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.<br/><br/><a href="https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>10 technical talks I’m excited about at GitHub Universe 2026</title>
