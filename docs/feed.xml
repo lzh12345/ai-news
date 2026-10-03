@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 03 Oct 2026 09:33:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 15:30:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>&quot;Muse Gadgets&quot; turns AI hardware into an open-source DIY project</title>
+<link>https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41046</guid>
+<pubDate>Sat, 03 Oct 2026 14:28:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the "Muse Home Link," a USB-C device for smart home control. The open-source approach also helps Meta figure out which AI hardware form factors people actually want. The article "Muse Gadgets" turns AI hardware into an open-source DIY project appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings</title>
+<link>https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41041</guid>
+<pubDate>Sat, 03 Oct 2026 14:01:14 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions. AI companies need to operate like nuclear power plants, with multiple layers of redundancy instead of trial and error. The article Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>All the AI agents that can live in your text messages</title>
+<link>https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3173132</guid>
+<pubDate>Sat, 03 Oct 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.<br/><br/><a href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Deepmind researchers propose &quot;Artificial Symbiotic Intelligence&quot; as an alternative to the singularity</title>
+<link>https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41035</guid>
+<pubDate>Sat, 03 Oct 2026 10:21:23 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together. The article Deepmind researchers propose "Artificial Symbiotic Intelligence" as an alternative to the singularity appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Open-source &quot;BootLoops&quot; harness supports AI models in performing precise scientific calculations</title>
 <link>https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/</link>
@@ -288,30 +320,6 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy.<br/><br/><a href="https://blog.cloudflare.com/network-performance-birthday-week-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Three firings and a fourth departure shake up OpenAI's safety team</title>
-<link>https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40980</guid>
-<pubDate>Fri, 02 Oct 2026 12:51:08 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure shake up OpenAI's safety team appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision</title>
-<link>https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40971</guid>
-<pubDate>Fri, 02 Oct 2026 11:15:24 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchmark, though, no model fully completes all the tasks. Without human oversight, AI still can't close the books on its own. The article AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Microsoft AI releases new transcription and text-to-speech models for voice agents</title>
-<link>https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40967</guid>
-<pubDate>Fri, 02 Oct 2026 09:20:39 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
 <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
 <guid isPermaLink="false">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
@@ -454,14 +462,6 @@
 <pubDate>Thu, 01 Oct 2026 15:07:16 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.</title>
-<link>https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3169890</guid>
-<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.<br/><br/><a href="https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>One year later: Sovereign AI and the fight for choice</title>

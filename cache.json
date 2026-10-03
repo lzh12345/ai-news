@@ -1,20 +1,4 @@
 {
-"https://the-decoder.com/?p=39232": {
-"t": "中国现已拥有自己的AI循环融资模式",
-"s": "宇树科技在上海IPO中股价飙升460%，估值达到约500亿美元。但据英国《金融时报》报道，其机器人的大部分需求来自国有培训中心，这些中心购买机器并将产生的数据回售给制造商，形成了一种循环商业模式，这与美国对英伟达的批评相呼应。文章《中国现已拥有自己的AI循环融资模式》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39229": {
-"t": "陶哲轩称AI可能引发自哥德尔以来数学界最大危机",
-"s": "在一篇新文章中，陶哲轩警告称，人工智能可能将数学推入一场与1900年前后基础性动荡相当的危机。此次考验的并非数学真理，而是该领域的价值观：何为贡献、何种成果应获奖励，以及工作由谁完成。他的经验法则：无人能解释的证明应被视为不完整。文章《陶哲轩称AI可能引发自哥德尔以来数学界最大危机》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3154881": {
-"t": "Meta将Pocket应用带给美国用户，该应用可让你轻松编码并分享游戏",
-"s": "Meta正在将其实验性AI驱动应用Pocket推广至全美用户，该应用用于创建和分享互动游戏，此前已在巴西悄然测试。"
-},
-"https://techcrunch.com/?p=3154855": {
-"t": "惯性企业找到快速制造聚变燃料的方法",
-"s": "聚变能源初创公司惯性企业将燃料填充过程从一周缩短至仅需数小时。这是该公司为实现盈利电厂必须克服的十大障碍之一。"
-},
 "https://the-decoder.com/?p=39206": {
 "t": "前沿雷达第4期：中国已迎头赶上，西方AI领先优势还剩什么？",
 "s": "Kimi K3和GLM-5.3现已逼近美国最佳模型。西方实验室归咎于蒸馏技术，且确有实据。但无论是否有罪，结论相同：模型领先无法守成。本期探讨何者可守。文章《前沿雷达第4期：中国已迎头赶上，西方AI领先优势还剩什么？》首发于The Decoder。"
@@ -4798,5 +4782,21 @@
 "https://the-decoder.com/?p=41000": {
 "t": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
 "s": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands. The article Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41046": {
+"t": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+"s": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a USB-C device for smart home control. The open-source approach also helps Meta figure out which AI hardware form factors people actually want. The article \"Muse Gadgets\" turns AI hardware into an open-source DIY project appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41041": {
+"t": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+"s": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions. AI companies need to operate like nuclear power plants, with multiple layers of redundancy instead of trial and error. The article Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3173132": {
+"t": "All the AI agents that can live in your text messages",
+"s": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+},
+"https://the-decoder.com/?p=41035": {
+"t": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
+"s": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together. The article Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity appeared first on The Decoder."
 }
 }
