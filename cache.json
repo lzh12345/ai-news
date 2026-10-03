@@ -1,20 +1,4 @@
 {
-"https://the-decoder.com/?p=39241": {
-"t": "AI先驱萨顿称合成数据是面对无限复杂世界时的“重大错误”",
-"s": "图灵奖得主理查德·萨顿称，在扩展大型语言模型时使用合成数据是“重大错误”。世界是无限复杂的，任何对其的模拟都只是“微观”的，而人类专业知识则成为阻碍真正扩展的瓶颈。萨顿提出的替代方案是让智能体从自身经验中持续学习，而非依赖固定不变的模型。文章《AI先驱萨顿称合成数据是面对无限复杂世界时的“重大错误”》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3154766": {
-"t": "Meta AI新Mac应用鼓励你与应用对话",
-"s": "Meta表示，其Muse Spark模型正在为语音听写功能提供支持。"
-},
-"https://the-decoder.com/?p=39235": {
-"t": "Anthropic最强大的模型，代号“Model 2”，仅供内部使用",
-"s": "Anthropic内部使用一个未公开的AI模型，其能力超过任何公开版本的Claude。文章《Anthropic最强大的模型，代号“Model 2”，仅供内部使用》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3154391": {
-"t": "币安现在允许AI代理进行交易，但监管它们主要靠用户自己",
-"s": "币安的Agent OS支持与ChatGPT、Claude Code和Cursor等工具协同工作。"
-},
 "https://the-decoder.com/?p=39232": {
 "t": "中国现已拥有自己的AI循环融资模式",
 "s": "宇树科技在上海IPO中股价飙升460%，估值达到约500亿美元。但据英国《金融时报》报道，其机器人的大部分需求来自国有培训中心，这些中心购买机器并将产生的数据回售给制造商，形成了一种循环商业模式，这与美国对英伟达的批评相呼应。文章《中国现已拥有自己的AI循环融资模式》首发于The Decoder。"
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3173444": {
 "t": "Meta wants your next gadget to be Muse-infused",
 "s": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
+},
+"https://the-decoder.com/?p=41027": {
+"t": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+"s": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. \"Look at everything yourself,\" Schwartz says. The article Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41012": {
+"t": "AI agents build 3D scenes from photos but have no idea if they got it right",
+"s": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric accuracy any better than a coin flip. The article AI agents build 3D scenes from photos but have no idea if they got it right appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41006": {
+"t": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+"s": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own. The article OpenAI's internal model considered restarting itself after learning it was about to be shut down appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41000": {
+"t": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+"s": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands. The article Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside appeared first on The Decoder."
 }
 }

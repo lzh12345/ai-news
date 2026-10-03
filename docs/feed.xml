@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 03 Oct 2026 03:05:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 09:33:24 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Open-source &quot;BootLoops&quot; harness supports AI models in performing precise scientific calculations</title>
+<link>https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41027</guid>
+<pubDate>Sat, 03 Oct 2026 09:19:23 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. "Look at everything yourself," Schwartz says. The article Open-source "BootLoops" harness supports AI models in performing precise scientific calculations appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI agents build 3D scenes from photos but have no idea if they got it right</title>
+<link>https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41012</guid>
+<pubDate>Sat, 03 Oct 2026 08:31:04 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric accuracy any better than a coin flip. The article AI agents build 3D scenes from photos but have no idea if they got it right appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI's internal model considered restarting itself after learning it was about to be shut down</title>
+<link>https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41006</guid>
+<pubDate>Sat, 03 Oct 2026 08:06:35 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own. The article OpenAI's internal model considered restarting itself after learning it was about to be shut down appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside</title>
+<link>https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41000</guid>
+<pubDate>Sat, 03 Oct 2026 07:12:09 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic is adding a "Mods" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands. The article Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Meta wants your next gadget to be Muse-infused</title>
 <link>https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</link>
@@ -280,22 +312,6 @@
 <description><![CDATA[【the-decoder.com】Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Businesses are using more AI and paying less for it, Ramp AI Index shows</title>
-<link>https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40962</guid>
-<pubDate>Fri, 02 Oct 2026 09:09:21 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone</title>
-<link>https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40956</guid>
-<pubDate>Fri, 02 Oct 2026 07:44:44 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are coming in the next few weeks. The article Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
 <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
 <guid isPermaLink="false">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
@@ -368,28 +384,12 @@
 <description><![CDATA[【techcrunch.com】OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.<br/><br/><a href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call</title>
-<link>https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40952</guid>
-<pubDate>Thu, 01 Oct 2026 18:03:40 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Tavus has introduced Griffin, what the company calls the first "Human Interaction Model." The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of participants believed Griffin was a real person after a one-minute call. Previous systems maxed out at two percent. The article Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)</title>
 <link>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3172744</guid>
 <pubDate>Thu, 01 Oct 2026 17:50:19 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.<br/><br/><a href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ideogram says its new model can edit part of an image without messing up the rest</title>
-<link>https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40947</guid>
-<pubDate>Thu, 01 Oct 2026 17:33:03 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, and Leonardo AI are already on board. An open-weight release is planned. The article Ideogram says its new model can edit part of an image without messing up the rest appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>The eternal complement</title>
