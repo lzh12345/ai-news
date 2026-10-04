@@ -5,8 +5,64 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 04 Oct 2026 03:34:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 10:19:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science</title>
+<link>https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41067</guid>
+<pubDate>Sun, 04 Oct 2026 10:10:12 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits by up to 22 percent compared to the strongest model it was tested against. The article NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Chinese AI models parrot state doctrine or refuse to answer on sensitive topics</title>
+<link>https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=40782</guid>
+<pubDate>Sun, 04 Oct 2026 08:47:52 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells "sovereign AI" to governments, giving it a commercial interest in distinguishing its models from Chinese competitors. The article Chinese AI models parrot state doctrine or refuse to answer on sensitive topics appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy</title>
+<link>https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82702</guid>
+<pubDate>Sun, 04 Oct 2026 07:29:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked externally. Gboard already uses it for English and Japanese next-word prediction. The post Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro</title>
+<link>https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41059</guid>
+<pubDate>Sun, 04 Oct 2026 07:28:54 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers. The move could also set the stage for the more resource-hungry Gemini 4 Argon. The article Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters</title>
+<link>https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82698</guid>
+<pubDate>Sun, 04 Oct 2026 07:01:04 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and per-request reasoning effort, and its Apache 2.0 FP8 weights run on a single B200 or H200. The post Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness</title>
+<link>https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82691</guid>
+<pubDate>Sun, 04 Oct 2026 04:49:42 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled Automation Tasks. It also supports non-DeepSeek models through OpenAI-compatible endpoints. The post DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine</title>
+<link>https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82687</guid>
+<pubDate>Sun, 04 Oct 2026 00:19:38 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>The Agent Said It Was Done. The Database Disagreed.</title>
 <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
@@ -96,12 +152,44 @@
 <description><![CDATA[【the-decoder.com】An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own. The article OpenAI's internal model considered restarting itself after learning it was about to be shut down appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside</title>
-<link>https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41000</guid>
-<pubDate>Sat, 03 Oct 2026 07:12:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic is adding a "Mods" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands. The article Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/">阅读原文</a>]]></description>
+<title>Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?</title>
+<link>https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82666</guid>
+<pubDate>Sat, 03 Oct 2026 07:05:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision models can solve it. Three launches, one pattern From pull to push Chatbots were […] The post Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet? appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code</title>
+<link>https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82662</guid>
+<pubDate>Sat, 03 Oct 2026 06:55:15 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna for full isolation, or Claude, Gemini or GPT models through hybrid setups. Optional Premium Packages extend Bob to Java, IBM i and IBM Z modernization. The post IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models</title>
+<link>https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82659</guid>
+<pubDate>Sat, 03 Oct 2026 05:37:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis</title>
+<link>https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82656</guid>
+<pubDate>Sat, 03 Oct 2026 05:09:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry. The post Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors</title>
+<link>https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82653</guid>
+<pubDate>Sat, 03 Oct 2026 03:31:15 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's GLiDE, GLiNER2.5-Decide and 4 open-source rivals. The post Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta wants your next gadget to be Muse-infused</title>
@@ -136,22 +224,6 @@
 <description><![CDATA[【arstechnica.com】Amazon praised for ending NDAs but slammed for downplaying data center pollution.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI music generator Suno can now create spoken audio with matching background music</title>
-<link>https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40997</guid>
-<pubDate>Fri, 02 Oct 2026 20:07:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Suno is adding a feature called "Speech" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories. Suno hasn't said how the model was trained. The article AI music generator Suno can now create spoken audio with matching background music appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic co-founder reportedly told religious leaders he fears having created something that &quot;suffers perpetually&quot;</title>
-<link>https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=40990</guid>
-<pubDate>Fri, 02 Oct 2026 19:41:05 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic is pushing toward a $2 trillion valuation and an IPO while security incidents and researcher warnings pile up. Critics warn that treating AI as a moral entity could shield the company from liability when things go wrong. The article Anthropic co-founder reportedly told religious leaders he fears having created something that "suffers perpetually" appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass</title>
 <link>https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3169207</guid>
@@ -174,6 +246,14 @@
 <pubDate>Fri, 02 Oct 2026 18:11:27 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.<br/><br/><a href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference</title>
+<link>https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82645</guid>
+<pubDate>Fri, 02 Oct 2026 18:04:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the cluster and more compute when […] The post NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Call it AI, call it Super Intelligence, only 2% of consumers are buying it</title>
@@ -406,86 +486,6 @@
 <pubDate>Thu, 01 Oct 2026 19:18:03 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Google launched its first advanced chip into orbit to pave the way for space data centers.<br/><br/><a href="https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI cuts ties with 3 safety researchers, WSJ reports</title>
-<link>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172737</guid>
-<pubDate>Thu, 01 Oct 2026 18:14:42 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.<br/><br/><a href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)</title>
-<link>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172744</guid>
-<pubDate>Thu, 01 Oct 2026 17:50:19 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.<br/><br/><a href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The eternal complement</title>
-<link>https://openai.com/index/the-eternal-complement</link>
-<guid isPermaLink="false">https://openai.com/index/the-eternal-complement</guid>
-<pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.<br/><br/><a href="https://openai.com/index/the-eternal-complement">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Amazon releases its own Jev clone as decision models flood the web</title>
-<link>https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172717</guid>
-<pubDate>Thu, 01 Oct 2026 16:49:22 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.<br/><br/><a href="https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>With most information hidden, the game Stratego had stumped AI—until now</title>
-<link>https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/</link>
-<guid isPermaLink="false">https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/</guid>
-<pubDate>Thu, 01 Oct 2026 16:28:04 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Adding in a second neural network that guesses the identity of hidden pieces was key.<br/><br/><a href="https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Albertsons Companies is reimagining retail from the inside out</title>
-<link>https://openai.com/index/albertsons-reimagining-retail</link>
-<guid isPermaLink="false">https://openai.com/index/albertsons-reimagining-retail</guid>
-<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.<br/><br/><a href="https://openai.com/index/albertsons-reimagining-retail">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Clef: our open-source decision models, and new RL fine-tuning platform</title>
-<link>https://blog.cloudflare.com/clef-decision-models/</link>
-<guid isPermaLink="false">01M3TJPSZAN4TKGKX6HWSNQWEP</guid>
-<pubDate>Thu, 01 Oct 2026 15:34:02 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.<br/><br/><a href="https://blog.cloudflare.com/clef-decision-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>10 technical talks I’m excited about at GitHub Universe 2026</title>
-<link>https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/</link>
-<guid isPermaLink="false">https://github.blog/?p=99192</guid>
-<pubDate>Thu, 01 Oct 2026 15:07:16 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>One year later: Sovereign AI and the fight for choice</title>
-<link>https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/</link>
-<guid isPermaLink="false">01M3TESBKM9T71XXXK1XMDP4PZ</guid>
-<pubDate>Thu, 01 Oct 2026 13:04:19 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.<br/><br/><a href="https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Workers KV Instant — powered by Quicksilver</title>
-<link>https://blog.cloudflare.com/workers-kv-instant/</link>
-<guid isPermaLink="false">01M3VEGEH98DJT6FTGDT1MHP5M</guid>
-<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Workers KV Instant delivers sub-2ms p99 read latencies and 250ms global replication across Cloudflare’s 300+ edge locations. KV Instant eliminates cold-read penalties and uses the familiar Workers KV API.<br/><br/><a href="https://blog.cloudflare.com/workers-kv-instant/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

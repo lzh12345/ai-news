@@ -1,56 +1,4 @@
 {
-"scaling-laws-mixture-pretraining": {
-"t": "数据约束下的混合预训练缩放定律",
-"s": "随着语言模型规模的扩大，它们所需的数据量也随之增长——然而许多目标数据源，如低资源语言或专业领域，其规模本身就有限。一种常见策略是将这些稀缺但宝贵的目标数据与丰富的通用数据混合，这带来了一个基本权衡：混合中目标数据过少会使模型对目标领域的接触不足，而目标数据过多则会过度重复相同示例，导致收益递减并最终过拟合。我们通过超过2000次语言模型训练运行来研究这一权衡……"
-},
-"https://openai.com/index/stampli": {
-"t": "ChatGPT Work 如何助力 Stampli 将创意推向市场",
-"s": "在固定截止日期且设计资源已投入其他项目的情况下，Stampli 利用 Codex 和 ChatGPT Work 将原本需要数周的发布准备工作压缩至数天内完成。"
-},
-"https://www.marktechpost.com/?p=81780": {
-"t": "认识UPDF：为智能体时代打造的轻量级Adobe替代品",
-"s": "PDF文件易于阅读却难以修改。AI现在能在几秒钟内总结一份90页的合同，但仍无法干净地重写源文件。UPDF正是为这后半部分而设计：直接编辑、14种格式转换、38种语言OCR，以及2.5版本中内置的十个AI代理。这篇关于UPDF的文章首次出现在MarkTechPost上。"
-},
-"https://the-decoder.com/?p=39256": {
-"t": "Adobe Firefly新增AI音频工具及谷歌Gemini Omni Flash",
-"s": "Adobe正在Firefly中广泛推出三款AI音频工具。生成音乐、生成语音和生成音效功能可为视频项目创建免版税的音乐、配音和音效。Adobe还在该平台中加入了Gemini Omni Flash。文章《Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash》最初出现在The Decoder上。"
-},
-"https://techcrunch.com/?p=3155082": {
-"t": "谷歌为出版商提供新方式应对AI驱动的流量损失",
-"s": "谷歌为出版商提供了一个新按钮，让读者在搜索、发现和谷歌新闻中将他们设为优先来源，这可能在AI搜索减少网页点击量的情况下提升其流量。"
-},
-"https://techcrunch.com/?p=3154952": {
-"t": "Runlayer与Rippling撤回诉讼——但这场风波对创始人仍是警示",
-"s": "Runlayer和Rippling已撤回诉讼，未涉及任何赔偿。Rippling以发布竞品的方式庆祝这一结果。"
-},
-"https://www.marktechpost.com/?p=81774": {
-"t": "Liquid AI发布LFM2.5-DSpark草稿模型，解码速度提升高达3.18倍且不改变模型输出",
-"s": "三款约300M参数的草稿模型为LFM2.5带来推测解码，在保持贪婪输出一致的情况下，解码速度提升高达3.18倍。该文章首发于MarkTechPost。"
-},
-"https://github.blog/?p=98377": {
-"t": "8月17日服务中断及后续工作",
-"s": "关于8月17日服务中断的最新进展以及我们为提升可靠性所采取的措施。此文章《8月17日服务中断及后续工作》最初发布在GitHub博客上。"
-},
-"https://techcrunch.com/?p=3155017": {
-"t": "Linkdaze智能日历旨在管理家庭事务，而非仅仅追踪日程",
-"s": "Linkdaze的智能数字日历因其功能不设付费墙而脱颖而出，其中包括AI餐食规划工具。"
-},
-"https://the-decoder.com/?p=39251": {
-"t": "大语言模型本可像人类一样写作，但训练后的护栏使其文本可被识别",
-"s": "大语言模型并非因能力不足而缺乏可辨识的写作风格。Pangram首席技术官布拉德利·埃米认为，训练后的安全护栏大幅压缩了它们的表达范围。未受这些约束的基础模型已展现出更多样化的写作风格。本文《大语言模型本可像人类一样写作，但训练后的护栏使其文本可被识别》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3154977": {
-"t": "Grok持续向用户发送乱码回复",
-"s": "受影响的用户告诉TechCrunch，他们使用的是Grok Lite，并在周三早上就注意到了这些问题。"
-},
-"https://techcrunch.com/?p=3154941": {
-"t": "研究显示，自ChatGPT发布以来，三分之一的网页呈现AI创作痕迹",
-"s": "ChatGPT及其他AI模型如今正大量创作和编辑新网页内容。"
-},
-"01M0E1JC8D74SDDVJCVBVX8EFA": {
-"t": "从全有或全无到基于任务的OAuth同意",
-"s": "Cloudflare OAuth现在支持可选范围，让用户对应用可访问的内容拥有更多控制权，并帮助开发者围绕当前任务构建安全的同意流程。"
-},
 "https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
 "t": "LFM2.5-DSpark 推理速度提升高达3.2倍",
 "s": "（无）"
@@ -4798,5 +4746,57 @@
 "https://huggingface.co/blog/microsoft/thinkingbox": {
 "t": "The Agent Said It Was Done. The Database Disagreed.",
 "s": ""
+},
+"https://the-decoder.com/?p=41067": {
+"t": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+"s": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits by up to 22 percent compared to the strongest model it was tested against. The article NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=40782": {
+"t": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+"s": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells \"sovereign AI\" to governments, giving it a commercial interest in distinguishing its models from Chinese competitors. The article Chinese AI models parrot state doctrine or refuse to answer on sensitive topics appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82702": {
+"t": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+"s": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked externally. Gboard already uses it for English and Japanese next-word prediction. The post Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41059": {
+"t": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+"s": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers. The move could also set the stage for the more resource-hungry Gemini 4 Argon. The article Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82698": {
+"t": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+"s": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and per-request reasoning effort, and its Apache 2.0 FP8 weights run on a single B200 or H200. The post Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82691": {
+"t": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+"s": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled Automation Tasks. It also supports non-DeepSeek models through OpenAI-compatible endpoints. The post DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82687": {
+"t": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
+"s": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82666": {
+"t": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
+"s": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision models can solve it. Three launches, one pattern From pull to push Chatbots were […] The post Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet? appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82662": {
+"t": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+"s": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna for full isolation, or Claude, Gemini or GPT models through hybrid setups. Optional Premium Packages extend Bob to Java, IBM i and IBM Z modernization. The post IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82659": {
+"t": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
+"s": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82656": {
+"t": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+"s": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry. The post Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82653": {
+"t": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
+"s": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's GLiDE, GLiNER2.5-Decide and 4 open-source rivals. The post Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82645": {
+"t": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+"s": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the cluster and more compute when […] The post NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference appeared first on MarkTechPost."
 }
 }
