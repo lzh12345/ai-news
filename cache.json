@@ -1,8 +1,4 @@
 {
-"multilingual-knowledge-transfer-lexical-interventions": {
-"t": "数据约束下通过词汇干预实现多语言知识迁移",
-"s": "跨语言知识迁移对于构建训练数据不足语言的高性能多语言语言模型至关重要。当目标语言数据稀缺时，涉及科学推理、常识推断和世界知识等许多下游任务所需的知识必须主要从高资源语言中获取，因此有效的知识迁移至关重要。现有改进此类跨语言知识迁移的方法需要大量平行数据、翻译系统、辅助模型或额外的训练阶段，而这些条件往往难以满足。"
-},
 "scaling-laws-mixture-pretraining": {
 "t": "数据约束下的混合预训练缩放定律",
 "s": "随着语言模型规模的扩大，它们所需的数据量也随之增长——然而许多目标数据源，如低资源语言或专业领域，其规模本身就有限。一种常见策略是将这些稀缺但宝贵的目标数据与丰富的通用数据混合，这带来了一个基本权衡：混合中目标数据过少会使模型对目标领域的接触不足，而目标数据过多则会过度重复相同示例，导致收益递减并最终过拟合。我们通过超过2000次语言模型训练运行来研究这一权衡……"
@@ -4798,5 +4794,9 @@
 "https://the-decoder.com/?p=41053": {
 "t": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
 "s": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building \"magic intelligence in the sky\" and feeling \"on the side of the angels\" working on AI. The article Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore appeared first on The Decoder."
+},
+"https://huggingface.co/blog/microsoft/thinkingbox": {
+"t": "The Agent Said It Was Done. The Database Disagreed.",
+"s": ""
 }
 }
