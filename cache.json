@@ -1,20 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81771": {
-"t": "审计偏好偏差并使用TRL和LoRA在Anthropic HH-RLHF上通过直接偏好优化微调语言模型",
-"s": "本教程提供了一个使用直接偏好优化（DPO）微调语言模型的端到端工作流程。我们演示了如何审计Anthropic HH-RLHF数据集中的结构性和长度偏差，使用TRL和LoRA实现稳健的训练流程，并评估模型性能，以确保真正的偏好学习而非依赖词汇捷径。文章《审计偏好偏差并使用TRL和LoRA在Anthropic HH-RLHF上通过直接偏好优化微调语言模型》首次出现在MarkTechPost上。"
-},
-"https://openai.com/index/introducing-ai-futures": {
-"t": "推出AI未来",
-"s": "推出AI未来，这是一个全新的OpenAI博客，探讨变革性AI如何重塑权力、治理、经济和个人自由。"
-},
-"https://techcrunch.com/?p=3155270": {
-"t": "AI数据初创公司Micro1在AI训练热潮中实现5亿美元总运行率",
-"s": "对AI训练数据需求的激增正推动该初创公司及其竞争对手的快速增长。"
-},
-"https://techcrunch.com/?p=3155215": {
-"t": "新数据显示，OpenAI在企业用户方面正逐渐追赶Anthropic",
-"s": "企业用户愿意随着各实验室发布新模型而摇摆不定，这种波动性应让两家公司的投资者对“企业AI支出的粘性”究竟有多强保持警惕。"
-},
 "https://www.marktechpost.com/?p=81790": {
 "t": "认识S1-mini：Superwhisper的462 MB开源权重文本规范化器，将原始ASR转录转为整洁书面文本",
 "s": "S1-mini是一款462 MB的开源权重规范化器，置于ASR之后，本地去除填充词并解决自我修正问题。本文《认识S1-mini：Superwhisper的462 MB开源权重文本规范化器，将原始ASR转录转为整洁书面文本》首发于MarkTechPost。"
@@ -4798,5 +4782,21 @@
 "https://the-decoder.com/?p=41078": {
 "t": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
 "s": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and lifts scores on unseen benchmarks by up to 4.7 points while using about 30 percent fewer tokens than an unregularized version. The article Google researchers find a way to keep self-improving AI agents from memorizing their tests appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82708": {
+"t": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+"s": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. The post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3173559": {
+"t": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+"s": "AI slop seems to be overwhelming bug bounty programs."
+},
+"https://techcrunch.com/?p=3173555": {
+"t": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+"s": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+},
+"https://the-decoder.com/?p=41088": {
+"t": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
+"s": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence. The unit is led by Director of National Intelligence Jay Clayton and other government officials, coordinates with AI companies, critical infrastructure operators, and interest groups. The group reports directly to the president. The article Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence appeared first on The Decoder."
 }
 }

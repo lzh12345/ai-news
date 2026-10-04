@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 04 Oct 2026 16:13:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 22:37:57 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job</title>
+<link>https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82708</guid>
+<pubDate>Sun, 04 Oct 2026 20:59:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. The post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
+<link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3173559</guid>
+<pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AI slop seems to be overwhelming bug bounty programs.<br/><br/><a href="https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</title>
+<link>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3173555</guid>
+<pubDate>Sun, 04 Oct 2026 20:08:34 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】On Equity, we discussed the Trump administration's attempts to rebrand AI.<br/><br/><a href="https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Trump launches &quot;Super Intelligence Force&quot; that has nothing to do with actual superintelligence</title>
+<link>https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41088</guid>
+<pubDate>Sun, 04 Oct 2026 17:41:58 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Donald Trump has established a "Super Intelligence Force." "Superintelligence" is his term for artificial intelligence. The unit is led by Director of National Intelligence Jay Clayton and other government officials, coordinates with AI companies, critical infrastructure operators, and interest groups. The group reports directly to the president. The article Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Trump unveils his new Super Intelligence Force</title>
 <link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
@@ -152,14 +184,6 @@
 <description><![CDATA[【the-decoder.com】Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. "Look at everything yourself," Schwartz says. The article Open-source "BootLoops" harness supports AI models in performing precise scientific calculations appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI agents build 3D scenes from photos but have no idea if they got it right</title>
-<link>https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41012</guid>
-<pubDate>Sat, 03 Oct 2026 08:31:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric accuracy any better than a coin flip. The article AI agents build 3D scenes from photos but have no idea if they got it right appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?</title>
 <link>https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=82666</guid>
@@ -256,12 +280,12 @@
 <description><![CDATA[【techcrunch.com】Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.<br/><br/><a href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference</title>
-<link>https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82645</guid>
-<pubDate>Fri, 02 Oct 2026 18:04:56 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the cluster and more compute when […] The post NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/">阅读原文</a>]]></description>
+<title>8 major updates to Cloudflare Observability</title>
+<link>https://blog.cloudflare.com/one-observability-platform/</link>
+<guid isPermaLink="false">01M3XHCB64KZ1NTN3N83GY590B</guid>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.<br/><br/><a href="https://blog.cloudflare.com/one-observability-platform/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Call it AI, call it Super Intelligence, only 2% of consumers are buying it</title>
@@ -368,14 +392,6 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.<br/><br/><a href="https://blog.cloudflare.com/introducing-web-search-api/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>8 major updates to Cloudflare Observability</title>
-<link>https://blog.cloudflare.com/one-observability-platform/</link>
-<guid isPermaLink="false">01M3XHCB64KZ1NTN3N83GY590B</guid>
-<pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.<br/><br/><a href="https://blog.cloudflare.com/one-observability-platform/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Introducing Cloudflare Traces: follow requests through our entire platform</title>
 <link>https://blog.cloudflare.com/cloudflare-tracing/</link>
 <guid isPermaLink="false">01M3XE7G2V6JJXPKX92B1D4080</guid>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.<br/><br/><a href="https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search</title>
-<link>https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/</link>
-<guid isPermaLink="false">https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/</guid>
-<pubDate>Thu, 01 Oct 2026 20:11:55 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】The court acknowledges AI search comes with consequences, but it's not an antitrust issue.<br/><br/><a href="https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT can now virtually try on clothes for you</title>
-<link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172830</guid>
-<pubDate>Thu, 01 Oct 2026 19:21:53 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.<br/><br/><a href="https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
