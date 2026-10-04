@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 04 Oct 2026 10:19:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 16:13:01 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Trump unveils his new Super Intelligence Force</title>
+<link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3173547</guid>
+<pubDate>Sun, 04 Oct 2026 15:15:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】This new task force is Trump's latest response to the debate over AI safety.<br/><br/><a href="https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google researchers find a way to keep self-improving AI agents from memorizing their tests</title>
+<link>https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41078</guid>
+<pubDate>Sun, 04 Oct 2026 12:40:37 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and lifts scores on unseen benchmarks by up to 4.7 points while using about 30 percent fewer tokens than an unregularized version. The article Google researchers find a way to keep self-improving AI agents from memorizing their tests appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science</title>
 <link>https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/</link>
@@ -142,14 +158,6 @@
 <pubDate>Sat, 03 Oct 2026 08:31:04 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric accuracy any better than a coin flip. The article AI agents build 3D scenes from photos but have no idea if they got it right appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI's internal model considered restarting itself after learning it was about to be shut down</title>
-<link>https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41006</guid>
-<pubDate>Sat, 03 Oct 2026 08:06:35 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own. The article OpenAI's internal model considered restarting itself after learning it was about to be shut down appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 01 Oct 2026 19:21:53 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.<br/><br/><a href="https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground</title>
-<link>https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172746</guid>
-<pubDate>Thu, 01 Oct 2026 19:18:03 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Google launched its first advanced chip into orbit to pave the way for space data centers.<br/><br/><a href="https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

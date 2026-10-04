@@ -1,12 +1,4 @@
 {
-"https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
-"t": "LFM2.5-DSpark 推理速度提升高达3.2倍",
-"s": "（无）"
-},
-"https://techcrunch.com/?p=3154851": {
-"t": "Ramp推出自家AI模型路由器，名为Router",
-"s": "Ramp已推出其自有的AI模型路由服务，名为Router，该服务允许用户和公司通过API使用并切换多种大型语言模型。"
-},
 "https://www.marktechpost.com/?p=81771": {
 "t": "审计偏好偏差并使用TRL和LoRA在Anthropic HH-RLHF上通过直接偏好优化微调语言模型",
 "s": "本教程提供了一个使用直接偏好优化（DPO）微调语言模型的端到端工作流程。我们演示了如何审计Anthropic HH-RLHF数据集中的结构性和长度偏差，使用TRL和LoRA实现稳健的训练流程，并评估模型性能，以确保真正的偏好学习而非依赖词汇捷径。文章《审计偏好偏差并使用TRL和LoRA在Anthropic HH-RLHF上通过直接偏好优化微调语言模型》首次出现在MarkTechPost上。"
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=82645": {
 "t": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
 "s": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the cluster and more compute when […] The post NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3173547": {
+"t": "Trump unveils his new Super Intelligence Force",
+"s": "This new task force is Trump's latest response to the debate over AI safety."
+},
+"https://the-decoder.com/?p=41078": {
+"t": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
+"s": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and lifts scores on unseen benchmarks by up to 4.7 points while using about 30 percent fewer tokens than an unregularized version. The article Google researchers find a way to keep self-improving AI agents from memorizing their tests appeared first on The Decoder."
 }
 }
