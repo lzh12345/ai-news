@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3155224": {
-"t": "ChatGPT现可通过新的Apple Messages插件代你发送短信",
-"s": "是否曾希望有人能替你发短信？ChatGPT正通过新的Apple Messages集成，作为自动文本代笔人提供服务。"
-},
-"https://techcrunch.com/?p=3154392": {
-"t": "好吧，我们真的能用尿液给数据中心降温吗？",
-"s": "杰森·凯尔西开玩笑说，人们应该用尿液而不是饮用水来冷却数据中心——但他的建议并非完全荒谬。"
-},
-"progressive-refinement-pseudo-labeling": {
-"t": "渐进式精炼：一种面向普通话-英语语码转换语音识别的迭代伪标签方法",
-"s": "语码转换（CS），即在同一话语中交替使用不同语言，由于CS训练数据有限，给自动语音识别（ASR）带来了重大挑战。本文首次将迭代伪标签训练方法应用于CS-ASR，展示了其在利用未标注数据提升CS-ASR性能方面的有效性。该方法包含三个阶段：伪标签生成、两阶段双语模型训练和迭代改进。首先从大规模未标注语料库中生成伪标签，构建半监督数据集。此…"
-},
 "https://the-decoder.com/?p=39270": {
 "t": "英伟达以60亿美元收购Poolside的“模型工厂”及109名员工",
 "s": "英伟达将支付60亿美元，用于收购初创公司Poolside开发的构建AI模型的软件，并计划吸纳109名员工。文章《英伟达以60亿美元收购Poolside的“模型工厂”及109名员工》首发于The Decoder。"
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=82711": {
 "t": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
 "s": "Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of Z.ai’s GLM-5.3-Flash, released on Hugging Face under the MIT license. Is it deployable? Yes, the MIT weights serve on vLLM, SGLang or Transformers, but BF16 needs roughly 640 GB of GPU memory. […] The post Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks appeared first on MarkTechPost."
+},
+"https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+"t": "Building advertising for the way people use AI",
+"s": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+},
+"https://www.marktechpost.com/?p=82721": {
+"t": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+"s": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. The post Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82714": {
+"t": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+"s": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. The post The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T appeared first on MarkTechPost."
 }
 }

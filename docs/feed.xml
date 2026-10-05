@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 05 Oct 2026 03:15:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 11:01:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Building advertising for the way people use AI</title>
+<link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+<guid isPermaLink="false">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
+<pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.<br/><br/><a href="https://openai.com/index/new-chatgpt-ads-format-and-measurement">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade</title>
+<link>https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82721</guid>
+<pubDate>Mon, 05 Oct 2026 08:10:37 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. The post Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T</title>
+<link>https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82714</guid>
+<pubDate>Mon, 05 Oct 2026 04:10:34 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. The post The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks</title>
 <link>https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/</link>
@@ -206,22 +230,6 @@
 <pubDate>Sat, 03 Oct 2026 06:55:15 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna for full isolation, or Claude, Gemini or GPT models through hybrid setups. Optional Premium Packages extend Bob to Java, IBM i and IBM Z modernization. The post IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models</title>
-<link>https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82659</guid>
-<pubDate>Sat, 03 Oct 2026 05:37:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis</title>
-<link>https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82656</guid>
-<pubDate>Sat, 03 Oct 2026 05:09:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry. The post Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta wants your next gadget to be Muse-infused</title>
@@ -478,14 +486,6 @@
 <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.<br/><br/><a href="https://openai.com/index/chatham-financial">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president</title>
-<link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172859</guid>
-<pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.<br/><br/><a href="https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
