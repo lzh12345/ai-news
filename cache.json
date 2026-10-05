@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81790": {
-"t": "认识S1-mini：Superwhisper的462 MB开源权重文本规范化器，将原始ASR转录转为整洁书面文本",
-"s": "S1-mini是一款462 MB的开源权重规范化器，置于ASR之后，本地去除填充词并解决自我修正问题。本文《认识S1-mini：Superwhisper的462 MB开源权重文本规范化器，将原始ASR转录转为整洁书面文本》首发于MarkTechPost。"
-},
 "https://techcrunch.com/?p=3155224": {
 "t": "ChatGPT现可通过新的Apple Messages插件代你发送短信",
 "s": "是否曾希望有人能替你发短信？ChatGPT正通过新的Apple Messages集成，作为自动文本代笔人提供服务。"
@@ -4798,5 +4794,9 @@
 "https://the-decoder.com/?p=41088": {
 "t": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
 "s": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence. The unit is led by Director of National Intelligence Jay Clayton and other government officials, coordinates with AI companies, critical infrastructure operators, and interest groups. The group reports directly to the president. The article Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82711": {
+"t": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
+"s": "Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of Z.ai’s GLM-5.3-Flash, released on Hugging Face under the MIT license. Is it deployable? Yes, the MIT weights serve on vLLM, SGLang or Transformers, but BF16 needs roughly 640 GB of GPU memory. […] The post Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks appeared first on MarkTechPost."
 }
 }
