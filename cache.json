@@ -1,24 +1,4 @@
 {
-"https://the-decoder.com/?p=38996": {
-"t": "忽视人类信念的世界模型会预测错误行为，新研究显示",
-"s": "当前的世界模型如Sora或Genie仅模拟物理现象，忽略了人们的想法、需求或感受。新的“心理世界建模”框架加入了信念和意图等心理变量。即使较弱的语言模型采用此方法，也能超越未进行心理建模的更强模型。最大的瓶颈在于：预测物理状态与心理状态如何共同变化。文章《忽视人类信念的世界模型会预测错误行为，新研究显示》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3155518": {
-"t": "前沿AI实验室仍未说明如何控制失控模型",
-"s": "一项新研究发现，领先的AI实验室对于控制失控模型的公开文档计划寥寥无几，这引发了人们对AI系统日益展现出意外且潜在危险行为时准备程度的质疑。"
-},
-"https://techcrunch.com/?p=3155023": {
-"t": "由DeepMind校友创立的Inherent称，其AI“队友”在复现研究方面超越了Anthropic和OpenAI",
-"s": "由DeepMind校友打造的英国AI实验室Inherent发布了Faraday，这款AI代理复现科学论文的能力或成为创新的垫脚石。"
-},
-"https://techcrunch.com/?p=3155841": {
-"t": "OpenAI表示加州应加强其人工智能安全法案",
-"s": "OpenAI呼吁加州加强此前该公司反对的SB 53号人工智能安全法案。"
-},
-"https://www.marktechpost.com/?p=81811": {
-"t": "解码AI开源课程：三种运行Agent循环的方式及其背后的提供商经济学",
-"s": "大多数团队将“选择哪个模型”视为关键决策，但工程文献却一再指向别处。在LangChain的Terminal-Bench实验中，仅改变harness——全程使用相同模型——就将一个编码代理从大约第30名提升至前5名。这一结果重新定义了问题。如果harness决定质量，那么你如何运行循环就变得至关重要……该文章《解码AI开源课程：三种运行Agent循环的方式及其背后的提供商经济学》最初出现在MarkTechPost上。"
-},
 "https://www.marktechpost.com/?p=81814": {
 "t": "面向企业AI安全的NeMo Guardrails开发者指南",
 "s": "在本教程中，我们探讨如何使用NeMo Guardrails框架为基于LLM的应用设计生产级安全性。我们超越简单的提示过滤，实现分层架构，包括确定性PII脱敏、检索过滤、输出掩码和基于策略的工具门控。通过集成有状态多轮评估和详细的激活追踪，我们展示了如何构建一个可审计、安全且成本高效的AI助手，能够管理敏感的金融交互，同时维持严格的合规标准。"
@@ -4798,5 +4778,25 @@
 "ontological-boundary-negotiation": {
 "t": "Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems",
 "s": "Designed artifacts are ontological, shaping, and at times limiting, what becomes possible or imaginable. One path toward mitigating such foreclosures is giving people power over how systems are designed and built. Despite decades of scholarship around systems that enable such authorship, these systems are often evaluated on whether or not they are usable, useful, or technically feasible, leaving questions of ontological boundary negotiation, unexamined. We design two open-ended probes that utilize a Wizard of Oz technique to enable the experience of training a personalized machine learning…"
+},
+"https://www.marktechpost.com/?p=82752": {
+"t": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+"s": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%. The post Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode appeared first on MarkTechPost."
+},
+"https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/": {
+"t": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+"s": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
+},
+"https://www.marktechpost.com/?p=82742": {
+"t": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+"s": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling. The post Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82739": {
+"t": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+"s": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026. The post Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3173997": {
+"t": "OpenAI will start watermarking ChatGPT’s text in the EU",
+"s": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
 }
 }
