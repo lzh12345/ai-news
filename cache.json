@@ -1,20 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81814": {
-"t": "面向企业AI安全的NeMo Guardrails开发者指南",
-"s": "在本教程中，我们探讨如何使用NeMo Guardrails框架为基于LLM的应用设计生产级安全性。我们超越简单的提示过滤，实现分层架构，包括确定性PII脱敏、检索过滤、输出掩码和基于策略的工具门控。通过集成有状态多轮评估和详细的激活追踪，我们展示了如何构建一个可审计、安全且成本高效的AI助手，能够管理敏感的金融交互，同时维持严格的合规标准。"
-},
-"https://techcrunch.com/?p=3155861": {
-"t": "哈佛699美元创业训练营提供AI导师化身",
-"s": "在HBS Foundry项目中，AI化身在模拟路演和董事会会议中提供反馈。"
-},
-"https://the-decoder.com/?p=39347": {
-"t": "据报道，内存短缺推动英伟达AI服务器价格上涨约15%",
-"s": "据彭博社报道，由于三星、SK海力士和美光持续的DRAM短缺，搭载Vera Rubin和Grace Blackwell芯片的英伟达服务器价格将上涨约15%。此次涨价波及微软、谷歌和Meta等云巨头，它们正投入数十亿美元建设AI基础设施，同时也在资助那些试图摆脱依赖的供应商的市场主导地位。文章《内存短缺据报道推动英伟达AI服务器价格上涨约15%》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81823": {
-"t": "使用deepDoctection构建端到端文档智能流水线",
-"s": "使用deepDoctection构建端到端文档智能流水线。本教程涵盖配置布局分析、DocTR OCR和表格提取，同时演示如何为实体识别实现自定义服务，并为您的RAG工作流生成结构化JSONL数据。该文章《使用deepDoctection构建端到端文档智能流水线》首次出现在MarkTechPost上。"
-},
 "https://the-decoder.com/?p=39290": {
 "t": "中国灰色市场如何以极低价格出售Claude令牌",
 "s": "Anthropic对中国实施的严格访问控制，从地理封锁到自拍验证，正被一个蓬勃发展的所谓“中转站”网络系统性地绕过。中国开发者可以以低至标价10%的价格购买Claude令牌。分析师钱子兰警告称，这种规避基础设施削弱了出口管制和Anthropic自身的安全系统。文章《中国灰色市场如何以极低价格出售Claude令牌》首发于The Decoder。"
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3173997": {
 "t": "OpenAI will start watermarking ChatGPT’s text in the EU",
 "s": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
+},
+"https://the-decoder.com/?p=41129": {
+"t": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
+"s": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions. The article Cohere pitches North 2 as the enterprise AI control room that works with any model appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82760": {
+"t": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
+"s": "Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled variant returns a 5.3-second clip in about a second. It is a research preview with no public weights yet. The post Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/tiiuae/falcon-emirati": {
+"t": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+"s": ""
+},
+"https://www.marktechpost.com/?p=82757": {
+"t": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
+"s": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields appeared first on MarkTechPost."
 }
 }

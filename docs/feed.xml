@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 06 Oct 2026 01:11:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 10:55:56 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cohere pitches North 2 as the enterprise AI control room that works with any model</title>
+<link>https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41129</guid>
+<pubDate>Tue, 06 Oct 2026 06:58:19 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions. The article Cohere pitches North 2 as the enterprise AI control room that works with any model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One</title>
+<link>https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82760</guid>
+<pubDate>Tue, 06 Oct 2026 06:45:31 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled variant returns a 5.3-second clip in about a second. It is a research preview with no public weights yet. The post Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
+<link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
+<guid isPermaLink="false">https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
+<pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/tiiuae/falcon-emirati">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields</title>
+<link>https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82757</guid>
+<pubDate>Tue, 06 Oct 2026 05:12:01 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode</title>
 <link>https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/</link>
@@ -328,36 +360,12 @@
 <description><![CDATA[【techcrunch.com】This new task force is Trump's latest response to the debate over AI safety.<br/><br/><a href="https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google researchers find a way to keep self-improving AI agents from memorizing their tests</title>
-<link>https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41078</guid>
-<pubDate>Sun, 04 Oct 2026 12:40:37 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and lifts scores on unseen benchmarks by up to 4.7 points while using about 30 percent fewer tokens than an unregularized version. The article Google researchers find a way to keep self-improving AI agents from memorizing their tests appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy</title>
 <link>https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=82702</guid>
 <pubDate>Sun, 04 Oct 2026 07:29:59 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked externally. Gboard already uses it for English and Japanese next-word prediction. The post Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters</title>
-<link>https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82698</guid>
-<pubDate>Sun, 04 Oct 2026 07:01:04 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and per-request reasoning effort, and its Apache 2.0 FP8 weights run on a single B200 or H200. The post Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness</title>
-<link>https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82691</guid>
-<pubDate>Sun, 04 Oct 2026 04:49:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled Automation Tasks. It also supports non-DeepSeek models through OpenAI-compatible endpoints. The post DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>The Agent Said It Was Done. The Database Disagreed.</title>
@@ -392,28 +400,12 @@
 <description><![CDATA[【techcrunch.com】We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.<br/><br/><a href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta wants your next gadget to be Muse-infused</title>
-<link>https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3173444</guid>
-<pubDate>Sat, 03 Oct 2026 00:45:39 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meta wants Muse in your TV and your toaster, so it's giving the code away for free.<br/><br/><a href="https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Apple changes full-disk access permissions to curb abuse from AI agents</title>
 <link>https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/</guid>
 <pubDate>Fri, 02 Oct 2026 23:03:16 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.<br/><br/><a href="https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Sean Parker is rebuilding Stability AI around music</title>
-<link>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3173395</guid>
-<pubDate>Fri, 02 Oct 2026 21:09:14 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.<br/><br/><a href="https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Amazon’s $1B plan to combat data center backlash draws more backlash</title>
@@ -486,6 +478,14 @@
 <pubDate>Fri, 02 Oct 2026 13:28:10 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.<br/><br/><a href="https://blog.cloudflare.com/introducing-web-search-api/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing Cloudflare Traces: follow requests through our entire platform</title>
+<link>https://blog.cloudflare.com/cloudflare-tracing/</link>
+<guid isPermaLink="false">01M3XE7G2V6JJXPKX92B1D4080</guid>
+<pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack.<br/><br/><a href="https://blog.cloudflare.com/cloudflare-tracing/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
