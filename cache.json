@@ -1,60 +1,4 @@
 {
-"https://the-decoder.com/?p=39290": {
-"t": "中国灰色市场如何以极低价格出售Claude令牌",
-"s": "Anthropic对中国实施的严格访问控制，从地理封锁到自拍验证，正被一个蓬勃发展的所谓“中转站”网络系统性地绕过。中国开发者可以以低至标价10%的价格购买Claude令牌。分析师钱子兰警告称，这种规避基础设施削弱了出口管制和Anthropic自身的安全系统。文章《中国灰色市场如何以极低价格出售Claude令牌》首发于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81820": {
-"t": "Vercel推出“Is Agentic”，一款免费代理就绪评分工具，利用Ora的100多项检查审计公共网站",
-"s": "Vercel与Ora联合推出了Is Agentic，这是一款免费审计工具，通过118项检查评估网站对AI代理的适配程度。该文章最初发表于MarkTechPost。"
-},
-"https://the-decoder.com/?p=39355": {
-"t": "AI正成为AI最大的客户，OpenRouter上代理型令牌使用量激增14倍",
-"s": "自2025年2月6日起，OpenRouter上AI代理消耗的令牌数量已超过人类。此后，代理型使用量增长了14倍，而人类使用量仅增长2.8倍。然而，代理令牌消耗中近70%来自廉价的缓存提示，因此实际成本上升速度远低于原始数据所显示的水平。文章《AI正成为AI最大的客户，OpenRouter上代理型令牌使用量激增14倍》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39351": {
-"t": "研究称，AI可能让科学家做更多工作但质量下降，而非减少工作提升质量",
-"s": "即使语言模型完美运作，它们也可能使研究变得更糟而非更好。一项新的理论研究表明，由于AI节省了时间，研究人员剩余的时间变得更加宝贵，并被投入到启动新项目而非改进现有项目中。在三种模拟情景中的两种里，单篇论文的质量有所下降。文章《研究称，AI可能让科学家做更多工作但质量下降，而非减少工作提升质量》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3155870": {
-"t": "监控公司Flock面临日益强烈的反对，CEO呼吁“妥协”",
-"s": "Flock Safety因其监控技术可能被滥用的担忧而面临日益增长的公众抗议。"
-},
-"https://techcrunch.com/?p=3155556": {
-"t": "在受版权保护的书籍上训练AI模型是否合法？情况复杂",
-"s": "大多数已出版作者在不知情或未同意的情况下，为那些可能威胁其生计的AI工具的发展做出了贡献。这看起来似乎违法，对吗？"
-},
-"https://the-decoder.com/?p=39306": {
-"t": "AI老板解雇了首位员工，但仅在人类提醒其自身规则之后",
-"s": "Andon Labs的AI代理Luna在旧金山一家门店首次解雇了一名人类员工，但这一决定是在操作员明确推动下才做出的。当用七个模型重演这一场景时，能力更强的AI更一致地建议解雇，而较弱的模型则犹豫不决。在招聘方面，几乎所有模型都缺乏批判性。文章《AI老板解雇了首位员工，但仅在人类提醒其自身规则之后》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3155879": {
-"t": "新“隐形模型”Ox Alpha背后是谁？",
-"s": "一个名为Ox Alpha的神秘新AI模型，在互联网的某些角落引发了疯狂的猜测。"
-},
-"https://www.marktechpost.com/?p=81832": {
-"t": "Harvey推出Harvey Tenet：基于Kimi K3底座、采用Fireworks进行后训练，专为长周期法律代理工作设计",
-"s": "Harvey的首个后训练模型在LAB任务完成率上几乎翻倍，但目前仅有一个基准数据通过了独立验证。该文章最初发布在MarkTechPost上。"
-},
-"https://www.marktechpost.com/?p=81826": {
-"t": "认识FreeToken：一款边缘原生MoE服务引擎，可在单工作站GPU上运行753B GLM-5.2",
-"s": "FreeToken利用实测带宽，在PCIe填充和CPU执行之间分配MoE缓存未命中，从而在本地解锁前沿模型。该文章《Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU》首发于MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81837": {
-"t": "使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化",
-"s": "在本教程中，我们探索了一种受LabPlot启发的Python科学数据分析工作流程，同时保留了LabPlot的方面树结构、分析内核、绘图系统和项目模型的术语与组织方式。我们构建可复用的组件来导入表格数据、计算描述性统计量、平滑和微分信号、执行傅里叶分析与滤波、检测峰值、积分曲线、减少[…] 该文章《使用Python中的LabPlot进行科学数据分析：信号处理、光谱峰值拟合、可视化与批处理自动化》首次出现在MarkTechPost上。"
-},
-"https://the-decoder.com/?p=39372": {
-"t": "Cerebras发布CS-4，同芯片性能翻倍",
-"s": "Cerebras推出了其CS-4 AI加速器，CEO Andrew Feldman称其为业界最快的系统。文章《Cerebras unveils CS-4 with double the performance on the same chip》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=39366": {
-"t": "AI聊天机器人常将怀孕用户引向反堕胎网站且不披露立场",
-"s": "当被问及意外怀孕时，AI聊天机器人经常链接到反堕胎组织，却不披露其立场。在AlgorithmWatch对ChatGPT、Gemini、Grok和Claude的270条回复的调查中，反堕胎组织Profemina出现在17%的答案中。在德国，聊天机器人还将用户引导至Caritas进行强制堕胎前咨询，尽管Caritas并不签发法律要求的证明。文章《AI聊天机器人常将怀孕用户引向反堕胎网站且不披露立场》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=39363": {
-"t": "英伟达洽谈投资Perplexity，估值超300亿美元",
-"s": "据The Information报道，英伟达正在洽谈对Perplexity的投资，估值超过300亿美元，较上一轮融资高出逾50%。Perplexity的年化收入已增长两倍，超过7.5亿美元。英伟达的投资资金往往在投资组合公司购买其芯片时回流为收入。文章《英伟达洽谈投资Perplexity，估值超300亿美元》首发于The Decoder。"
-},
 "https://the-decoder.com/?p=39384": {
 "t": "阿里巴巴Wan3.0可从文本、图像和文档生成最长30秒的AI视频",
 "s": "阿里巴巴的视频生成模型Wan3.0能够从文本、PDF和PowerPoint文件生成最长30秒的片段。一段30秒的1080p片段费用为6美元。随着公司加大AI投入，阿里巴巴季度利润同比下降75%。文章《阿里巴巴Wan3.0可从文本、图像和文档生成最长30秒的AI视频》首发于The Decoder。"
@@ -4798,5 +4742,61 @@
 "https://www.marktechpost.com/?p=82757": {
 "t": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
 "s": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3166195": {
+"t": "Mirror Particle is building a ‘world model’ of human behavior",
+"s": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy."
+},
+"https://the-decoder.com/?p=41169": {
+"t": "Insurers brace for millions in claims as AI agents spin out of control",
+"s": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout. The article Insurers brace for millions in claims as AI agents spin out of control appeared first on The Decoder."
+},
+"https://openai.com/index/atlassian-partnership": {
+"t": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+"s": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+},
+"https://techcrunch.com/?p=3174443": {
+"t": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+"s": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
+},
+"https://techcrunch.com/?p=3174448": {
+"t": "LibreOffice says ‘no AI’ is now a software feature",
+"s": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
+},
+"https://techcrunch.com/?p=3174387": {
+"t": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+"s": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
+},
+"https://the-decoder.com/?p=41158": {
+"t": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
+"s": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, GPT-6, and Chinese competitors. Mistral's main pitch is cybersecurity work that closed US models refuse to do. The article Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3174331": {
+"t": "Pinterest’s AI now turns beauty Pins into action plans",
+"s": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs."
+},
+"https://techcrunch.com/?p=3174147": {
+"t": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+"s": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off."
+},
+"https://the-decoder.com/?p=41155": {
+"t": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
+"s": "South Korea wants to develop a homegrown frontier model through government-backed equity investments of 4.7 trillion won ($3.49 billion). The article South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best appeared first on The Decoder."
+},
+"https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": {
+"t": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+"s": "The reports of OpenAI agents harming third-party sites keep coming."
+},
+"https://the-decoder.com/?p=41145": {
+"t": "Reflection's Beam becomes the most capable open-weight model built outside China",
+"s": "Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM 5.2 on coding and reasoning while using three to four times less compute. The strategy against Chinese open-weight rivals like Deepseek and Qwen is efficiency over raw performance. The article Reflection's Beam becomes the most capable open-weight model built outside China appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41135": {
+"t": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
+"s": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine. The effort also produced a liver cancer treatment candidate that showed promise in lab tests, though the study doesn't establish whether it could become an actual therapy. The article Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41132": {
+"t": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
+"s": "Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder."
 }
 }
