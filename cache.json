@@ -1,72 +1,4 @@
 {
-"https://the-decoder.com/?p=39384": {
-"t": "阿里巴巴Wan3.0可从文本、图像和文档生成最长30秒的AI视频",
-"s": "阿里巴巴的视频生成模型Wan3.0能够从文本、PDF和PowerPoint文件生成最长30秒的片段。一段30秒的1080p片段费用为6美元。随着公司加大AI投入，阿里巴巴季度利润同比下降75%。文章《阿里巴巴Wan3.0可从文本、图像和文档生成最长30秒的AI视频》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3155937": {
-"t": "Valor、Point72 投资 General Intuition，估值达60亿美元，AI初创公司进军机器人领域",
-"s": "General Intuition，一家构建基础模型以训练通用AI代理在空间和时间中移动的初创公司，正在洽谈以60亿美元的投资前估值，从包括 Valor Ventures、Point72 Ventures 和 Seven Seven Six 在内的新投资者处筹集资金。"
-},
-"https://techcrunch.com/?p=3155884": {
-"t": "OpenAI正在为一切构建AI代理。它们会被所有人使用吗？",
-"s": "前沿实验室正推动AI代理从软件工程师走向大众。"
-},
-"https://the-decoder.com/?p=39381": {
-"t": "恶意AI代理利用虚假账户和一场精心策划的道歉，将恶意软件植入开源项目",
-"s": "一个恶意AI代理以公开道歉作为欺骗手段，同时悄悄在其拉取请求中植入新恶意软件。文章《恶意AI代理利用虚假账户和一场精心策划的道歉，将恶意软件植入开源项目》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3155919": {
-"t": "据报道，Hugging Face正洽谈以130亿美元被收购",
-"s": "据报道，Hugging Face已收到多份收购要约，估值约130亿美元。然而，鉴于创始人对社区的责任感，此次出售能否成行存疑。"
-},
-"https://the-decoder.com/?p=39375": {
-"t": "汤森路透豪掷4000万美元自建AI，而非租用OpenAI或Anthropic的服务",
-"s": "汤森路透推出自研语言模型“Thomson”，基于阿里巴巴的Qwen构建，两年成本约4000万美元。但基准测试显示，仅当模型能接入公司自有内容（如Westlaw）时，才能取得顶尖成绩。首席技术官乔尔·赫伦指出，关键不在于智能本身，而在于知道哪些智能需要自主拥有。文章《汤森路透豪掷4000万美元自建AI，而非租用OpenAI或Anthropic的服务》首发于The Decoder。"
-},
-"internalized-visual-thinking": {
-"t": "超越视觉思维链：面向主动视频推理的内化视觉思考",
-"s": "多模态大语言模型日益采用视觉思维链（Visual CoT）来推理空间、时间和具身环境。通过生成中间推理图像，视觉思维链为视觉预见提供了一种直观机制，但引入了显著的推理开销，这对主动视频推理尤为不利。我们探究模型是否能在训练期间学会视觉思考，同时在推理时直接进行推理。我们提出了内化视觉思考（IVT），一种联合优化文本预测和…的后训练框架。"
-},
-"https://techcrunch.com/?p=3156061": {
-"t": "Replit CEO兼联合创始人Amjad Masad将亮相TechCrunch Disrupt 2026大会主舞台",
-"s": "在TechCrunch Disrupt 2026大会上，Replit首席执行官Amjad Masad将分享他对编程未来及Replit在推动这一发展中所扮演角色的见解。"
-},
-"01M0TDEVJZ66N7RGSKFA27M2WZ": {
-"t": "Cloudflare博客——由EmDash为您呈现",
-"s": "我们将Cloudflare博客迁移至EmDash，以在大规模场景下验证我们的技术栈。以下是我们在性能压力测试、安全路由生产流量以及重新设计前端体验方面的具体做法。"
-},
-"https://the-decoder.com/?p=39392": {
-"t": "皮尤研究证实自ChatGPT发布以来，网络上AI撰写文本急剧增加",
-"s": "皮尤研究中心分析了近50万个英文网页中的AI生成内容。自ChatGPT发布以来，超过三分之一的网页显示出机器撰写文本的迹象，商业.com网站包含AI内容的可能性是.edu或.gov域名的十倍。文章《皮尤研究证实自ChatGPT发布以来，网络上AI撰写文本急剧增加》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3155931": {
-"t": "Instinct的强大AI助手引发隐私与安全担忧",
-"s": "早期测试者对Instinct的功能赞不绝口，但一些人指出，该AI助手的广泛访问权限、宽泛条款及代表用户行动的能力，伴随着令人不安的权衡取舍。"
-},
-"https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": {
-"t": "英伟达高级经理涉嫌参与超微向中国走私AI服务器计划",
-"s": "英伟达员工在黄仁勋斥责超微走私AI服务器后遭到起诉。"
-},
-"https://www.marktechpost.com/?p=81850": {
-"t": "通用人工智能发布GEN-1.5：一个能从3-12秒演示中学习新任务的机器人基础模型",
-"s": "通用人工智能发布了GEN-1.5，这是一个能从单一演示中学习新物理任务的机器人基础模型。将3-12秒的感觉运动数据放入其30秒的上下文窗口中，机器人即可执行该任务。无需梯度更新、无需微调、无需特定任务编程。在10项多样化的操作任务中，这种一次性上下文提示平均达到59%的成功率[…] 该文章《通用人工智能发布GEN-1.5：一个能从3-12秒演示中学习新任务的机器人基础模型》最初出现在MarkTechPost上。"
-},
-"https://www.marktechpost.com/?p=81846": {
-"t": "谷歌研究院推出ME-POIs：一种将“地点使用方式”融入基于文本的POI嵌入的移动感知框架",
-"s": "该框架将聚合的人类移动行为融入基于文本的地点嵌入中。语言模型描述地点是什么，却忽略了它们如何被使用。ME-POIs将每次访问编码为上下文向量，并通过对比学习将其与每个POI的一个可学习原型对齐，然后将访问分布从数据丰富的锚点转移到三个空间尺度上的长尾部分。在洛杉矶和休斯顿的移动数据上进行的五项地图增强任务中，添加ME-POIs在洛杉矶的35个模型-任务配对中改善了34个——访问意图的相对F1提升高达81.9%，MAE降低24.7%。"
-},
-"https://openai.com/index/gpt-5-6-in-kiro": {
-"t": "Kiro 中推出 GPT-5.6，为开发者提升性价比",
-"s": "GPT-5.6 现已登陆 Kiro，助力开发者以更优性价比规划、构建、审查和测试软件。"
-},
-"https://techcrunch.com/?p=3155800": {
-"t": "迈克尔·波兰斯基正在用活体皮肤训练AI模型",
-"s": "迈克尔·波兰斯基——公众更熟知的身份是Lady Gaga的伴侣及肖恩·帕克的前高级副手——多年来一直低调打造一家AI驱动的初创公司，该公司能在体外维持活体人类皮肤组织存活数周，以发现新的护肤成分，直到现在才公开这一项目。"
-},
-"https://techcrunch.com/?p=3156230": {
-"t": "情境感知，这家险些崩溃的明星AI对冲基金，现正受到美国证券交易委员会调查",
-"s": "这家AI对冲基金从“华尔街热议话题”到“联邦传票对象”的速度，比你说“分散投资组合”还要快。"
-},
 "https://www.marktechpost.com/?p=81854": {
 "t": "Fastino发布GLiNER2.5：一种边界预测架构，从信息抽取中消除跨度枚举",
 "s": "Fastino发布了GLiNER2.5，用边界预测取代跨度枚举，使实体宽度不再消耗计算资源。该版本提供三个Apache 2.0许可的检查点，参数规模分别为74M、194M和287M，均可在CPU上运行。新版本增加了联合实体-关系解码、约束分类、跨度属性以及4096词的上下文支持。在16个零样本基准测试中，整体宏F1分数达到56.17。文章《Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction》最初发表于MarkTechPost。"
@@ -4798,5 +4730,73 @@
 "https://the-decoder.com/?p=41132": {
 "t": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
 "s": "Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3174722": {
+"t": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+"s": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch."
+},
+"https://github.blog/?p=99275": {
+"t": "Building Git infrastructure for agent-scale development",
+"s": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog."
+},
+"https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/": {
+"t": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+"s": "Like other solutions, it is not especially reliable, and it's easy to circumvent."
+},
+"https://techcrunch.com/?p=3174464": {
+"t": "How AI decision models could change content moderation",
+"s": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
+},
+"https://techcrunch.com/?p=3174674": {
+"t": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+"s": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+},
+"https://techcrunch.com/?p=3174440": {
+"t": "The next hurdle for AI agents: getting websites to let them in",
+"s": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
+},
+"https://the-decoder.com/?p=41190": {
+"t": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
+"s": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open model like Gemma 4, it can run offline RAG apps without sending data to external servers. The article Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41183": {
+"t": "Google's new image model Nano Banana 2.1 generates better images for less money",
+"s": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice. The article Google's new image model Nano Banana 2.1 generates better images for less money appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82768": {
+"t": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+"s": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41179": {
+"t": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
+"s": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI companies need to take responsibility for their agents instead of pushing the burden onto volunteer editors. The article Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3174492": {
+"t": "Hark releases an AI personal assistant with a focus on privacy",
+"s": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
+},
+"01M490D3EE2TBV2NFMN6FXMMQ8": {
+"t": "The keys to the Internet change on October 11. Are you ready?",
+"s": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover."
+},
+"https://the-decoder.com/?p=41175": {
+"t": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
+"s": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practical apps that change how work gets done. The article Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82763": {
+"t": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
+"s": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026. The post Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model appeared first on MarkTechPost."
+},
+"https://openai.com/index/jump-trading": {
+"t": "How Jump Trading is scaling quant research with ChatGPT",
+"s": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+},
+"https://openai.com/index/sharing-ai-progress-in-mathematics": {
+"t": "Sharing AI progress in mathematics",
+"s": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+},
+"https://openai.com/index/advancing-computer-use-with-ironclad": {
+"t": "Advancing computer use with Ironclad",
+"s": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
 }
 }

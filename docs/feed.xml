@@ -5,8 +5,120 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 06 Oct 2026 17:39:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 23:28:38 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</title>
+<link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3174722</guid>
+<pubDate>Tue, 06 Oct 2026 22:34:03 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.<br/><br/><a href="https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Building Git infrastructure for agent-scale development</title>
+<link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
+<guid isPermaLink="false">https://github.blog/?p=99275</guid>
+<pubDate>Tue, 06 Oct 2026 20:57:56 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI will watermark ChatGPT outputs by default—but only in the EU</title>
+<link>https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/</guid>
+<pubDate>Tue, 06 Oct 2026 20:50:32 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Like other solutions, it is not especially reliable, and it's easy to circumvent.<br/><br/><a href="https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How AI decision models could change content moderation</title>
+<link>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3174464</guid>
+<pubDate>Tue, 06 Oct 2026 20:35:20 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.<br/><br/><a href="https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI computing startup Lambda to raise $4B ahead of planned IPO</title>
+<link>https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3174674</guid>
+<pubDate>Tue, 06 Oct 2026 20:00:30 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.<br/><br/><a href="https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The next hurdle for AI agents: getting websites to let them in</title>
+<link>https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3174440</guid>
+<pubDate>Tue, 06 Oct 2026 19:56:50 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.<br/><br/><a href="https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size</title>
+<link>https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41190</guid>
+<pubDate>Tue, 06 Oct 2026 19:47:27 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open model like Gemma 4, it can run offline RAG apps without sending data to external servers. The article Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google's new image model Nano Banana 2.1 generates better images for less money</title>
+<link>https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41183</guid>
+<pubDate>Tue, 06 Oct 2026 19:29:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice. The article Google's new image model Nano Banana 2.1 generates better images for less money appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4</title>
+<link>https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82768</guid>
+<pubDate>Tue, 06 Oct 2026 18:36:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure</title>
+<link>https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41179</guid>
+<pubDate>Tue, 06 Oct 2026 18:29:35 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI companies need to take responsibility for their agents instead of pushing the burden onto volunteer editors. The article Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hark releases an AI personal assistant with a focus on privacy</title>
+<link>https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3174492</guid>
+<pubDate>Tue, 06 Oct 2026 18:22:45 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.<br/><br/><a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The keys to the Internet change on October 11. Are you ready?</title>
+<link>https://blog.cloudflare.com/root-ksk-2024-rollover/</link>
+<guid isPermaLink="false">01M490D3EE2TBV2NFMN6FXMMQ8</guid>
+<pubDate>Tue, 06 Oct 2026 17:50:11 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover.<br/><br/><a href="https://blog.cloudflare.com/root-ksk-2024-rollover/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade</title>
+<link>https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41175</guid>
+<pubDate>Tue, 06 Oct 2026 17:31:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practical apps that change how work gets done. The article Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model</title>
+<link>https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82763</guid>
+<pubDate>Tue, 06 Oct 2026 17:30:46 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026. The post Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Mirror Particle is building a ‘world model’ of human behavior</title>
 <link>https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/</link>
@@ -104,6 +216,22 @@
 <description><![CDATA[【the-decoder.com】Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM 5.2 on coding and reasoning while using three to four times less compute. The strategy against Chinese open-weight rivals like Deepseek and Qwen is efficiency over raw performance. The article Reflection's Beam becomes the most capable open-weight model built outside China appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>How Jump Trading is scaling quant research with ChatGPT</title>
+<link>https://openai.com/index/jump-trading</link>
+<guid isPermaLink="false">https://openai.com/index/jump-trading</guid>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.<br/><br/><a href="https://openai.com/index/jump-trading">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sharing AI progress in mathematics</title>
+<link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+<guid isPermaLink="false">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.<br/><br/><a href="https://openai.com/index/sharing-ai-progress-in-mathematics">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology</title>
 <link>https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=41135</guid>
@@ -120,12 +248,12 @@
 <description><![CDATA[【the-decoder.com】Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Cohere pitches North 2 as the enterprise AI control room that works with any model</title>
-<link>https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41129</guid>
-<pubDate>Tue, 06 Oct 2026 06:58:19 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions. The article Cohere pitches North 2 as the enterprise AI control room that works with any model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/">阅读原文</a>]]></description>
+<title>Advancing computer use with Ironclad</title>
+<link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
+<guid isPermaLink="false">https://openai.com/index/advancing-computer-use-with-ironclad</guid>
+<pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.<br/><br/><a href="https://openai.com/index/advancing-computer-use-with-ironclad">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One</title>
@@ -208,14 +336,6 @@
 <description><![CDATA[【arstechnica.com】The tool can free up over 12GB of storage.<br/><br/><a href="https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor</title>
-<link>https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41126</guid>
-<pubDate>Mon, 05 Oct 2026 18:59:19 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000. Both companies are pushing their own AI tools instead. For Anthropic, that reliance on a few major clients is turning into a strategic risk. The article Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Instinct brings its AI agent to group chats, even for friends without an account</title>
 <link>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3173877</guid>
@@ -230,22 +350,6 @@
 <pubDate>Mon, 05 Oct 2026 18:29:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.<br/><br/><a href="https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model</title>
-<link>https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41121</guid>
-<pubDate>Mon, 05 Oct 2026 18:26:05 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute today's top models need. Instead of routing tasks to specialized systems, Rho-1 runs all modalities as tokens in one shared context window. The article Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide</title>
-<link>https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41114</guid>
-<pubDate>Mon, 05 Oct 2026 17:32:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced. The article OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Hot Girl Hotline is like ‘Dear Abby’ for the AI era</title>
@@ -288,38 +392,6 @@
 <description><![CDATA[【openai.com】How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.<br/><br/><a href="https://openai.com/index/eu-text-provenance">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026</title>
-<link>https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3173563</guid>
-<pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.<br/><br/><a href="https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Researchers are tracking a Chinese AI ‘agent fleet’</title>
-<link>https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3173705</guid>
-<pubDate>Mon, 05 Oct 2026 14:35:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.<br/><br/><a href="https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026</title>
-<link>https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3173591</guid>
-<pubDate>Mon, 05 Oct 2026 14:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.<br/><br/><a href="https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026</title>
-<link>https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3173520</guid>
-<pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.<br/><br/><a href="https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI glasses face their first major government crackdown</title>
 <link>https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/</guid>
@@ -342,14 +414,6 @@
 <pubDate>Mon, 05 Oct 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies human potential instead of replacing it.<br/><br/><a href="https://blog.cloudflare.com/one-year-later-1111-interns/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Can Safeworld convince people that GenAI robots won’t hurt them?</title>
-<link>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3173325</guid>
-<pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Safeworld is building digital humans to make sure robots don't hurt the real ones.<br/><br/><a href="https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Building advertising for the way people use AI</title>
@@ -392,22 +456,6 @@
 <description><![CDATA[【machinelearning.apple.com】Designed artifacts are ontological, shaping, and at times limiting, what becomes possible or imaginable. One path toward mitigating such foreclosures is giving people power over how systems are designed and built. Despite decades of scholarship around systems that enable such authorship, these systems are often evaluated on whether or not they are usable, useful, or technically feasible, leaving questions of ontological boundary negotiation, unexamined. We design two open-ended probes that utilize a Wizard of Oz technique to enable the experience of training a personalized machine learning…<br/><br/><a href="https://machinelearning.apple.com/research/ontological-boundary-negotiation">阅读原文</a>]]></description>
 </item>
 <item>
-<title>GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job</title>
-<link>https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82708</guid>
-<pubDate>Sun, 04 Oct 2026 20:59:56 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. The post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy</title>
-<link>https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82702</guid>
-<pubDate>Sun, 04 Oct 2026 07:29:59 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked externally. Gboard already uses it for English and Japanese next-word prediction. The post Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>The Agent Said It Was Done. The Database Disagreed.</title>
 <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
 <guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox</guid>
@@ -438,54 +486,6 @@
 <pubDate>Fri, 02 Oct 2026 18:39:36 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Nvidia’s chip-smuggling problem won’t go away as arrests continue.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>8 major updates to Cloudflare Observability</title>
-<link>https://blog.cloudflare.com/one-observability-platform/</link>
-<guid isPermaLink="false">01M3XHCB64KZ1NTN3N83GY590B</guid>
-<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.<br/><br/><a href="https://blog.cloudflare.com/one-observability-platform/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A model guide for the GPT-6 family</title>
-<link>https://openai.com/index/practical-guide-building-gpt-6</link>
-<guid isPermaLink="false">https://openai.com/index/practical-guide-building-gpt-6</guid>
-<pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.<br/><br/><a href="https://openai.com/index/practical-guide-building-gpt-6">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Streamline: custom video pipelines with Cloudflare Stream and Workers</title>
-<link>https://blog.cloudflare.com/streamline/</link>
-<guid isPermaLink="false">01M3XKBJCTDTMBBCNNHA141F04</guid>
-<pubDate>Fri, 02 Oct 2026 16:13:45 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.<br/><br/><a href="https://blog.cloudflare.com/streamline/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-<link>https://huggingface.co/blog/allenai/astabrief</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/astabrief</guid>
-<pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/astabrief">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI is rewriting the developer career ladder. Here’s how to stand out.</title>
-<link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/</link>
-<guid isPermaLink="false">https://github.blog/?p=99170</guid>
-<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Learn three skills to strengthen as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI</title>
-<link>https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/</guid>
-<pubDate>Fri, 02 Oct 2026 14:52:16 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.<br/><br/><a href="https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
