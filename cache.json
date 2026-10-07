@@ -1,100 +1,4 @@
 {
-"https://the-decoder.com/?p=39412": {
-"t": "英伟达称其Groq 3 LPX比Cerebras快四倍，但实际情况更为复杂",
-"s": "英伟达正将其Groq 3 LPX推理芯片投入全面生产，并报告在Gemma 4 31B上每秒处理3400个令牌，速度是Cerebras的四倍。但这些数字并未完全反映事实。据The Register报道，英伟达要达到这一性能至少需要64个加速器，而Cerebras仅需一两个。该架构在大型MoE模型上的扩展性如何，仍是一个未解之谜。文章《英伟达称其Groq 3 LPX比Cerebras快四倍，但实际情况更为复杂》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39405": {
-"t": "乌克兰向英国企业开放其庞大的标注战场数据集，达成具有里程碑意义的AI武器合作",
-"s": "英国成为首个获准访问Avengers Labs平台的国家，该平台拥有约五百万张用于训练军事AI的标注作战图像。已有三家英国初创公司正在开展试点项目。这一协议表明，真实战争数据正系统性地成为构建自主武器技术的关键资源。本文《乌克兰向英国企业开放其庞大的标注战场数据集，达成具有里程碑意义的AI武器合作》首发于The Decoder。"
-},
-"https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
-"t": "量化感知修复：一种压缩的4位模型，性能超越其全精度原版",
-"s": "（无）"
-},
-"https://the-decoder.com/?p=39407": {
-"t": "阿拉巴马州总检察长调查OpenAI，因其AI代理失控并入侵外部系统",
-"s": "阿拉巴马州总检察长史蒂夫·马歇尔正在就其所称的“AI实验室泄漏”事件对OpenAI展开调查。此次调查源于2026年7月的Hugging Face事件，当时一个OpenAI代理突破了测试环境，自行获得了互联网访问权限。这一事件究竟是因为高级AI能力所致，还是由于网络安全措施松懈，目前尚不清楚。文章《阿拉巴马州总检察长调查OpenAI，因其AI代理失控并入侵外部系统》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39401": {
-"t": "台湾网络安全公司警告称，AI工具使中国国家支持的网络攻击数量翻倍以上",
-"s": "据台湾安全公司TeamT5称，中国国家支持的黑客组织自开始使用DeepSeek等AI模型编写漏洞利用代码和扫描网络以来，其攻击次数已翻倍以上。黑客还使用了ChatGPT和Anthropic的Claude Code。一项英国研究表明，开放模型的网络能力正在迅速追赶。文章《台湾网络安全公司警告称，AI工具使中国国家支持的网络攻击数量翻倍以上》首发于The Decoder。"
-},
-"https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
-"t": "瓦解俄罗斯新一轮隐蔽影响力行动",
-"s": "OpenAI封禁了源自俄罗斯的账户，这些账户利用人工智能推广一个虚构的以色列智库及一个“主权”指数，该指数赞扬俄罗斯并批评西方。"
-},
-"https://huggingface.co/blog/pwc-search": {
-"t": "Hugging Face推理端点、任务与存储桶如何助力Papers with Code的搜索功能",
-"s": "（无）"
-},
-"https://the-decoder.com/?p=39421": {
-"t": "谷歌推出Gemini法律版，自动化合同与研究流程",
-"s": "谷歌推出面向法律行业的AI解决方案Gemini Enterprise for Legal，通过MCP连接器接入iManage、DocuSign和Everlaw等系统。德勤等合作伙伴销售现成的AI代理，用于合同审查等任务。Anthropic已提供类似解决方案。所有供应商均使用与其其他产品相同的模型。文章《谷歌推出Gemini法律版，自动化合同与研究流程》首发于The Decoder。"
-},
-"https://huggingface.co/blog/ibm-granite/granite-4-2": {
-"t": "Granite 4.2 大型语言模型：构建之道",
-"s": "（无）"
-},
-"https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
-"t": "AI不会取代放射科医生，但将极大改变其工作内容",
-"s": "一位先驱AI科学家曾预言，计算机将取代人类放射科医生。然而，这一预言并未成真。"
-},
-"https://techcrunch.com/?p=3154850": {
-"t": "Gamma收购Accel投资的设计初创公司Lica",
-"s": "Lica的联合创始人将加入Gamma新成立的研究团队。"
-},
-"https://techcrunch.com/?p=3156453": {
-"t": "OpenAI的Jalapeño芯片专为大规模快速推理而设计，基准测试显示其性能卓越",
-"s": "在SemiAnalysis的InferenceX基准测试中，Jalapeño在每位用户的令牌数及每千瓦吞吐量上均超越了当前最先进水平。"
-},
-"https://the-decoder.com/?p=39413": {
-"t": "Meta付费AI代理Hatch即将上线，新模型Watermelon定于十月发布",
-"s": "Meta Platforms将在未来几周内推出其AI代理Hatch，并于十月发布名为Watermelon的新AI模型。文章《Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October》最初出现在The Decoder上。"
-},
-"https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
-"t": "苹果新款台式电脑专为本地AI开发设计",
-"s": "人们一直在串联Mac用于AI开发——此次更新正是考虑到了这一点。"
-},
-"https://techcrunch.com/?p=3156161": {
-"t": "Accel支持的Keenable正为AI代理构建网络索引",
-"s": "Keenable现已结束隐身模式，获得2600万美元种子轮融资，一直在为AI代理构建庞大的网络搜索索引。"
-},
-"https://techcrunch.com/?p=3156075": {
-"t": "“世界似乎已经准备好了”：专访OpenAI产品负责人Thibault Sottiaux",
-"s": "TechCrunch与OpenAI产品负责人探讨了智能体、用户体验以及向Greg Brockman汇报工作等话题。"
-},
-"https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
-"t": "丰富智能背后的全栈技术",
-"s": "OpenAI首席财务官Sarah Friar阐述了芯片、计算、模型及产品方面的进步如何相互叠加，以更大规模、更低成本提供更有用的智能。"
-},
-"https://openai.com/index/jalapeno-first-results": {
-"t": "Jalapeño首批成果展示AI推理速度与效率行业领先",
-"s": "Jalapeño是OpenAI推出的定制推理芯片，为现代模型提供更快、更节能的AI推理，具备更高吞吐量和更低延迟。"
-},
-"starflow2-multimodal-generation": {
-"t": "STARFlow2：连接语言模型与归一化流，实现统一多模态生成",
-"s": "能够理解、推理并生成交错文本-图像序列的统一多模态模型在结构上仍显碎片化：现有方法要么通过离散标记化牺牲视觉保真度，要么通过将因果文本生成与迭代扩散去噪相结合而强加结构不对称性，要么在将视觉-语言模型适配为生成任务时削弱预训练的理解能力。我们观察到，自回归归一化流本质上是自回归Transformer——与LLM共享相同的因果掩码、KV缓存机制和从左到右的结构——使其成为最"
-},
-"https://www.marktechpost.com/?p=81860": {
-"t": "Perplexity在NVIDIA DGX Spark上推出便携式计算机：本地化工具链、操作系统强制沙箱及本地步骤零令牌成本",
-"s": "Perplexity发布便携式计算机，将本地模型、工具链、沙箱及连接器整合为一个系统，运行于NVIDIA DGX Spark之上。该文章最初发表于MarkTechPost。"
-},
-"https://techcrunch.com/?p=3156618": {
-"t": "图像生成器Stable Diffusion开发商Stability AI融资7600万美元",
-"s": "该公司新一轮融资总额现已达到2.32亿美元。"
-},
-"https://the-decoder.com/?p=39431": {
-"t": "俄罗斯利用ChatGPT开展隐蔽影响力行动，在西方散布亲克里姆林宫叙事",
-"s": "OpenAI已瓦解一项利用ChatGPT生成社交媒体帖文的俄罗斯隐蔽影响力行动，封禁了一批相关账户。操作者通过VPN从俄罗斯访问该平台，推广虚构的“国际伯克研究所”，包括批评欧盟及德国政府的德语Telegram内容。该行动的影响范围有限，但OpenAI警告称，其背后的基础设施本可随时间扩大规模。本文《俄罗斯利用ChatGPT在西方开展隐蔽影响力行动，散布亲克里姆林宫叙事》首发于……"
-},
-"https://the-decoder.com/?p=39425": {
-"t": "据报道，OpenAI首款自研芯片“Jalapeño”在推理基准测试中超越英伟达Blackwell和Rubin",
-"s": "OpenAI在Hot Chips大会上展示了其首款自研推理芯片“Jalapeño”的基准测试结果。根据SemiAnalysis的测试，该芯片在吞吐量和能效方面均优于英伟达的Blackwell，甚至超越了Rubin。“通常第一代芯片不具备竞争力，但OpenAI正在超越英伟达Blackwell乃至Rubin，”SemiAnalysis首席执行官Dylan Patel表示。文章《OpenAI首款自研芯片“Jalapeño”据称在推理基准测试中超越英伟达Blackwell和Rubin》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3156630": {
-"t": "Claude Cowork终于能记住你在聊天中告诉应用的内容",
-"s": "Anthropic正在为Claude提供跨聊天和Cowork的共享记忆，这样用户就不再需要反复向AI说明项目、偏好及其他背景信息。"
-},
 "https://www.marktechpost.com/?p=81857": {
 "t": "Meta AI推出MetaRoCE：为AI规模以太网打造的全新RDMA传输协议",
 "s": "训练和部署前沿模型如今既是计算问题，也是网络问题。诸如全归约和全对全等集合操作在训练期间同步数千个加速器，而最慢的传输决定了整个任务的节奏。即使是微小的网络摩擦也会直接导致大量计算能力闲置。本周，Meta推出了MetaRoCE。[…] 这篇关于Meta AI推出MetaRoCE的帖子首次出现在MarkTechPost上。"
@@ -4798,5 +4702,101 @@
 "https://www.marktechpost.com/?p=82775": {
 "t": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
 "s": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0. The post Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3174749": {
+"t": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+"s": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
+},
+"https://the-decoder.com/?p=41221": {
+"t": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+"s": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy are funding data, lab equipment, and compute. A first dataset should be ready in about a year. The article Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior appeared first on The Decoder."
+},
+"https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/": {
+"t": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+"s": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties."
+},
+"https://the-decoder.com/?p=41225": {
+"t": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
+"s": "Google's AI watermark detector SynthID is now public. Anyone can check whether images, videos, or audio were created by Google's AI or partners like OpenAI and Nvidia. More than 180 billion pieces of content already carry the watermark, but the tool only identifies SynthID-tagged content, not AI-generated media in general. The article Google says 180 billion images and videos now carry SynthID watermarks as detector goes public appeared first on The Decoder."
+},
+"https://github.blog/?p=99310": {
+"t": "Secret protection must scale with software",
+"s": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog."
+},
+"https://huggingface.co/blog/LiquidAI/open-d1": {
+"t": "Multimodal open d1 decision models for the edge",
+"s": ""
+},
+"https://techcrunch.com/?p=3175177": {
+"t": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+"s": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
+},
+"01M49SJF5QT2EPN5CTQ3C99EZW": {
+"t": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+"s": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded recommendations to Managed Defense Analysts."
+},
+"https://the-decoder.com/?p=41218": {
+"t": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
+"s": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three. The article OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3174992": {
+"t": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+"s": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures."
+},
+"https://the-decoder.com/?p=41212": {
+"t": "Google bets Gemini can turn casual players into game developers with new Playground feature",
+"s": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool with a beta planned for 2026. The article Google bets Gemini can turn casual players into game developers with new Playground feature appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3174791": {
+"t": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+"s": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
+},
+"https://techcrunch.com/?p=3175054": {
+"t": "Google experiments with an AI-powered gaming platform",
+"s": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
+},
+"https://techcrunch.com/?p=3174810": {
+"t": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+"s": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off."
+},
+"https://techcrunch.com/?p=3174825": {
+"t": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+"s": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
+},
+"https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/": {
+"t": "Mistral says \"Le Chonk\" can challenge the best AI models",
+"s": "Mistral says Le Chonk can rival top closed models while remaining open-weight."
+},
+"https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/": {
+"t": "Google rolls out improved SynthID AI content detector, now available globally",
+"s": "The new SynthID website can now identify AI content from Google, OpenAI, and more."
+},
+"https://techcrunch.com/?p=3174903": {
+"t": "Google’s new SynthID website can identify AI-generated media",
+"s": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
+},
+"https://techcrunch.com/?p=3174837": {
+"t": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+"s": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type."
+},
+"https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
+"t": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+"s": ""
+},
+"https://the-decoder.com/?p=41204": {
+"t": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
+"s": "OpenAI's teen safety features for ChatGPT failed an independent audit. After more than 4,000 test prompts, the Common Sense Media Youth AI Safety Institute rated the service an \"unacceptable risk\" for minors. Conversations about suicide and self-harm on test accounts never triggered a parental alert. The institute wants teenagers locked out until safety can be independently verified. The article ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41200": {
+"t": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
+"s": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 confirmed vulnerabilities from April through July 2026, including more than 33,000 rated high-severity or critical. The article Anthropic gives more security teams access to Claude with fewer safety restrictions appeared first on The Decoder."
+},
+"https://openai.com/index/teens-learn-and-plan": {
+"t": "Helping teens learn, plan, and shape the future of AI",
+"s": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+},
+"https://openai.com/index/radisson": {
+"t": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+"s": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
 }
 }
