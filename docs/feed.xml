@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 07 Oct 2026 03:31:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 10:43:33 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up</title>
+<link>https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41196</guid>
+<pubDate>Wed, 07 Oct 2026 08:54:43 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal winners warn that mass-producing mathematical truths could destroy fertile ground rather than bring new ideas to life. The article OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day</title>
+<link>https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82775</guid>
+<pubDate>Wed, 07 Oct 2026 06:29:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0. The post Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration</title>
 <link>https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/</link>
@@ -256,14 +272,6 @@
 <description><![CDATA[【the-decoder.com】Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine. The effort also produced a liver cancer treatment candidate that showed promise in lab tests, though the study doesn't establish whether it could become an actual therapy. The article Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO</title>
-<link>https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41132</guid>
-<pubDate>Tue, 06 Oct 2026 10:50:18 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Advancing computer use with Ironclad</title>
 <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
 <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-with-ironclad</guid>
@@ -454,14 +462,6 @@
 <pubDate>Mon, 05 Oct 2026 08:10:37 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. The post Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T</title>
-<link>https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82714</guid>
-<pubDate>Mon, 05 Oct 2026 04:10:34 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. The post The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems</title>

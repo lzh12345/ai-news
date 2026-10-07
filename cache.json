@@ -1,12 +1,4 @@
 {
-"https://github.blog/?p=98354": {
-"t": "你的替代文本通过了自动化检查。但这并不意味着它质量良好。",
-"s": "我们为GitHub无障碍扫描器开发了一个插件，以确保你的替代文本真正无障碍。以下是其工作原理。这篇名为“你的替代文本通过了自动化检查。但这并不意味着它质量良好”的文章最初发布在GitHub博客上。"
-},
-"https://huggingface.co/blog/gradio-workflow-guide": {
-"t": "连接、运行、部署：Gradio中的AI工作流",
-"s": "（无）"
-},
 "https://the-decoder.com/?p=39412": {
 "t": "英伟达称其Groq 3 LPX比Cerebras快四倍，但实际情况更为复杂",
 "s": "英伟达正将其Groq 3 LPX推理芯片投入全面生产，并报告在Gemma 4 31B上每秒处理3400个令牌，速度是Cerebras的四倍。但这些数字并未完全反映事实。据The Register报道，英伟达要达到这一性能至少需要64个加速器，而Cerebras仅需一两个。该架构在大型MoE模型上的扩展性如何，仍是一个未解之谜。文章《英伟达称其Groq 3 LPX比Cerebras快四倍，但实际情况更为复杂》首发于The Decoder。"
@@ -4798,5 +4790,13 @@
 "rised-multi-environment-selection": {
 "t": "RISED: Rubrics for Agentic Multi-Environment Selection and Self-Distillation",
 "s": "Training a single LLM agent jointly across diverse interactive environments has attracted increasing attention as a route to generalist agents. Existing curriculum and data-selection strategies often allocate training at the environment level or prioritize local reward-based signals, without explicitly considering relationships between current rollouts across environments for prompt-group selection. Meanwhile, as environments are learned at different rates, all-failure and all-success rollout groups can coexist within a batch, leaving those data without group-relative reward signals. Both…"
+},
+"https://the-decoder.com/?p=41196": {
+"t": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+"s": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal winners warn that mass-producing mathematical truths could destroy fertile ground rather than bring new ideas to life. The article OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82775": {
+"t": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+"s": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0. The post Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day appeared first on MarkTechPost."
 }
 }
