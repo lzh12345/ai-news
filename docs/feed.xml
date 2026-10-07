@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 06 Oct 2026 23:28:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 03:31:03 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration</title>
+<link>https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82772</guid>
+<pubDate>Wed, 07 Oct 2026 00:53:03 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Explore a comprehensive coding guide to Laya, the open-source zero-shot decision engine. Learn how to implement typed decisions, fit custom temperatures, and build reliable abstention gates using real-world CLINC150 banking data. The post A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</title>
 <link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
@@ -46,6 +54,14 @@
 <pubDate>Tue, 06 Oct 2026 20:00:30 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.<br/><br/><a href="https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
+<link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
+<pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>The next hurdle for AI agents: getting websites to let them in</title>
@@ -280,6 +296,14 @@
 <description><![CDATA[【marktechpost.com】JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>RISED: Rubrics for Agentic Multi-Environment Selection and Self-Distillation</title>
+<link>https://machinelearning.apple.com/research/rised-multi-environment-selection</link>
+<guid isPermaLink="false">rised-multi-environment-selection</guid>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Training a single LLM agent jointly across diverse interactive environments has attracted increasing attention as a route to generalist agents. Existing curriculum and data-selection strategies often allocate training at the environment level or prioritize local reward-based signals, without explicitly considering relationships between current rollouts across environments for prompt-group selection. Meanwhile, as environments are learned at different rates, all-failure and all-success rollout groups can coexist within a batch, leaving those data without group-relative reward signals. Both…<br/><br/><a href="https://machinelearning.apple.com/research/rised-multi-environment-selection">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode</title>
 <link>https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=82752</guid>
@@ -440,14 +464,6 @@
 <description><![CDATA[【marktechpost.com】Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. The post The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks</title>
-<link>https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82711</guid>
-<pubDate>Mon, 05 Oct 2026 01:47:28 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of Z.ai’s GLM-5.3-Flash, released on Hugging Face under the MIT license. Is it deployable? Yes, the MIT weights serve on vLLM, SGLang or Transformers, but BF16 needs roughly 640 GB of GPU memory. […] The post Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems</title>
 <link>https://machinelearning.apple.com/research/ontological-boundary-negotiation</link>
 <guid isPermaLink="false">ontological-boundary-negotiation</guid>
@@ -470,22 +486,6 @@
 <pubDate>Fri, 02 Oct 2026 23:03:16 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.<br/><br/><a href="https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Amazon’s $1B plan to combat data center backlash draws more backlash</title>
-<link>https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/</guid>
-<pubDate>Fri, 02 Oct 2026 20:30:27 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Amazon praised for ending NDAs but slammed for downplaying data center pollution.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>US arrests tech CEO accused of smuggling $300M in Nvidia chips into China</title>
-<link>https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/</guid>
-<pubDate>Fri, 02 Oct 2026 18:39:36 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Nvidia’s chip-smuggling problem won’t go away as arrests continue.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

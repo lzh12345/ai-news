@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=81854": {
-"t": "Fastino发布GLiNER2.5：一种边界预测架构，从信息抽取中消除跨度枚举",
-"s": "Fastino发布了GLiNER2.5，用边界预测取代跨度枚举，使实体宽度不再消耗计算资源。该版本提供三个Apache 2.0许可的检查点，参数规模分别为74M、194M和287M，均可在CPU上运行。新版本增加了联合实体-关系解码、约束分类、跨度属性以及4096词的上下文支持。在16个零样本基准测试中，整体宏F1分数达到56.17。文章《Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction》最初发表于MarkTechPost。"
-},
-"https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": {
-"t": "斯坦福研究：AI对入门级岗位冲击最大",
-"s": "与受AI影响较小的职业相比，受AI影响领域的年轻人就业率下降了19%。"
-},
-"https://techcrunch.com/?p=3156185": {
-"t": "特朗普在SpaceX轰动性IPO两周后购入其股票",
-"s": "总统在股价处于150美元中段时购入。SpaceX周一收盘时回落至其IPO价格135美元。"
-},
 "https://github.blog/?p=98354": {
 "t": "你的替代文本通过了自动化检查。但这并不意味着它质量良好。",
 "s": "我们为GitHub无障碍扫描器开发了一个插件，以确保你的替代文本真正无障碍。以下是其工作原理。这篇名为“你的替代文本通过了自动化检查。但这并不意味着它质量良好”的文章最初发布在GitHub博客上。"
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/advancing-computer-use-with-ironclad": {
 "t": "Advancing computer use with Ironclad",
 "s": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+},
+"https://www.marktechpost.com/?p=82772": {
+"t": "A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration",
+"s": "Explore a comprehensive coding guide to Laya, the open-source zero-shot decision engine. Learn how to implement typed decisions, fit custom temperatures, and build reliable abstention gates using real-world CLINC150 banking data. The post A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration appeared first on MarkTechPost."
+},
+"https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+"t": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+"s": ""
+},
+"rised-multi-environment-selection": {
+"t": "RISED: Rubrics for Agentic Multi-Environment Selection and Self-Distillation",
+"s": "Training a single LLM agent jointly across diverse interactive environments has attracted increasing attention as a route to generalist agents. Existing curriculum and data-selection strategies often allocate training at the environment level or prioritize local reward-based signals, without explicitly considering relationships between current rollouts across environments for prompt-group selection. Meanwhile, as environments are learned at different rates, all-failure and all-success rollout groups can coexist within a batch, leaving those data without group-relative reward signals. Both…"
 }
 }
