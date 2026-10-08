@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 07 Oct 2026 23:56:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 04:18:40 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs</title>
+<link>https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82784</guid>
+<pubDate>Thu, 08 Oct 2026 01:49:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its fingerprint. Flagged weight files are blocked in the load path, package-content findings fail CI, and tools run in probed OS sandboxes. Here is what each checkpoint decides, and what it does not cover. The post What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft event debuts new AI-friendly hardware and Windows changes</title>
+<link>https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/</link>
+<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:24 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Get ready for more AI in your Windows and more AI on the desktop.<br/><br/><a href="https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>“Software is over”: Bold AI developer takes aim at Adobe with open source clones</title>
 <link>https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/</link>
@@ -22,6 +38,14 @@
 <pubDate>Wed, 07 Oct 2026 20:48:45 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The developer of Hermes Agent raised a $90 million Series B.<br/><br/><a href="https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens</title>
+<link>https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82781</guid>
+<pubDate>Wed, 07 Oct 2026 20:38:30 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. The post Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</title>
@@ -208,20 +232,20 @@
 <description><![CDATA[【arstechnica.com】The new SynthID website can now identify AI content from Google, OpenAI, and more.<br/><br/><a href="https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google’s new SynthID website can identify AI-generated media</title>
-<link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3174903</guid>
-<pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.<br/><br/><a href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>6 days to TechCrunch Disrupt 2026: Save on your pass before doors open</title>
 <link>https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3174837</guid>
 <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.<br/><br/><a href="https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google’s new SynthID website can identify AI-generated media</title>
+<link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3174903</guid>
+<pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.<br/><br/><a href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
@@ -462,30 +486,6 @@
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】Training a single LLM agent jointly across diverse interactive environments has attracted increasing attention as a route to generalist agents. Existing curriculum and data-selection strategies often allocate training at the environment level or prioritize local reward-based signals, without explicitly considering relationships between current rollouts across environments for prompt-group selection. Meanwhile, as environments are learned at different rates, all-failure and all-success rollout groups can coexist within a batch, leaving those data without group-relative reward signals. Both…<br/><br/><a href="https://machinelearning.apple.com/research/rised-multi-environment-selection">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode</title>
-<link>https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82752</guid>
-<pubDate>Mon, 05 Oct 2026 22:51:05 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%. The post Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MCP for agent-to-agent comms may be the riskiest protocol you've never heard of</title>
-<link>https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</guid>
-<pubDate>Mon, 05 Oct 2026 22:26:35 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Trust gaps in the new protocol spread malicious prompts from one agent to another.<br/><br/><a href="https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID</title>
-<link>https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82742</guid>
-<pubDate>Mon, 05 Oct 2026 21:41:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling. The post Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
