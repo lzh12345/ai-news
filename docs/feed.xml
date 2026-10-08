@@ -5,8 +5,120 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 08 Oct 2026 04:18:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 15:05:12 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass</title>
+<link>https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3175441</guid>
+<pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.<br/><br/><a href="https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cal AI’s 19-year-old founder just raised $10M for his new AI startup</title>
+<link>https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3174041</guid>
+<pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.<br/><br/><a href="https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse</title>
+<link>https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41255</guid>
+<pubDate>Thu, 08 Oct 2026 13:52:54 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Ethereum researcher Justin Drake is urging the crypto industry to prepare a "bunker mode" for a scenario where AI-powered math could break wallet signature schemes within months. Vitalik Buterin broadly agrees but warns against rushed migrations, saying he's personally lost more money to botched transitions than to hacks. So far, no one has actually broken ECDSA in practice. The article AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google releases a new local-first Granola competitor</title>
+<link>https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3175506</guid>
+<pubDate>Thu, 08 Oct 2026 13:28:39 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.<br/><br/><a href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>China’s Manus raises over $500M in first funding round since split with Meta</title>
+<link>https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3175521</guid>
+<pubDate>Thu, 08 Oct 2026 13:20:32 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.<br/><br/><a href="https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found</title>
+<link>https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41259</guid>
+<pubDate>Thu, 08 Oct 2026 13:01:01 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region. The attack exploited an internal AWS interface for temporary cloud credentials that agents could reach without restriction. AWS has since patched the issue and significantly tightened the agents' default permissions. The article A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Bridging technical depth and usability: The story behind Radar’s redesign</title>
+<link>https://blog.cloudflare.com/radar-redesign/</link>
+<guid isPermaLink="false">01M4ATYPWQETFZA4EZJ5AJYSFT</guid>
+<pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth.<br/><br/><a href="https://blog.cloudflare.com/radar-redesign/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots</title>
+<link>https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/</guid>
+<pubDate>Thu, 08 Oct 2026 11:15:33 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Full-stack safety solution for physical AI is being used by robotics companies.<br/><br/><a href="https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over</title>
+<link>https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41233</guid>
+<pubDate>Thu, 08 Oct 2026 10:30:23 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense</title>
+<link>https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41242</guid>
+<pubDate>Thu, 08 Oct 2026 09:57:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requires climbing gear. Bryce doesn't blame the AI but says he'll never use it for route planning again. The article Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks</title>
+<link>https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41246</guid>
+<pubDate>Thu, 08 Oct 2026 09:24:17 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The attacker used ARTEX, an open-source tool that uses AI models like DeepSeek and GLM-5.3 for automated penetration testing. CrowdStrike says the case shows how AI tools can let a single person pull off massive breaches. The article AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference</title>
+<link>https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82803</guid>
+<pubDate>Thu, 08 Oct 2026 08:53:34 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, […] The post Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes</title>
+<link>https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82800</guid>
+<pubDate>Thu, 08 Oct 2026 08:40:02 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks. The post NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA</title>
+<link>https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82797</guid>
+<pubDate>Thu, 08 Oct 2026 05:39:09 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host. The post Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs</title>
 <link>https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/</link>
@@ -22,6 +134,14 @@
 <pubDate>Thu, 08 Oct 2026 00:00:24 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Get ready for more AI in your Windows and more AI on the desktop.<br/><br/><a href="https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Normalizing Trajectory Models</title>
+<link>https://machinelearning.apple.com/research/normalizing-trajectory-models</link>
+<guid isPermaLink="false">normalizing-trajectory-models</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】Diffusion-based models decompose sampling into many small Gaussian denoising steps, an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step methods address this through distillation, consistency training, or adversarial objectives, but sacrifice the likelihood framework in the process. We introduce Normalizing Trajectory Models (NTM), which models each reverse step as an expressive conditional normalizing flow with exact likelihood training. Architecturally, NTM combines shallow invertible blocks within each step with a deep parallel…<br/><br/><a href="https://machinelearning.apple.com/research/normalizing-trajectory-models">阅读原文</a>]]></description>
 </item>
 <item>
 <title>“Software is over”: Bold AI developer takes aim at Adobe with open source clones</title>
@@ -62,14 +182,6 @@
 <pubDate>Wed, 07 Oct 2026 19:06:40 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI is rolling out GPT-6 with "Intelligent UI," a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers get GPT-6 Sol, free users get GPT-6 Luna. The article ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over</title>
-<link>https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41233</guid>
-<pubDate>Wed, 07 Oct 2026 18:49:23 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta’s Muse launches on iPad just a month after its mobile debut</title>
@@ -232,6 +344,14 @@
 <description><![CDATA[【arstechnica.com】The new SynthID website can now identify AI content from Google, OpenAI, and more.<br/><br/><a href="https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Google’s new SynthID website can identify AI-generated media</title>
+<link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3174903</guid>
+<pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.<br/><br/><a href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>6 days to TechCrunch Disrupt 2026: Save on your pass before doors open</title>
 <link>https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3174837</guid>
@@ -240,12 +360,12 @@
 <description><![CDATA[【techcrunch.com】In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.<br/><br/><a href="https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google’s new SynthID website can identify AI-generated media</title>
-<link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3174903</guid>
-<pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.<br/><br/><a href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/">阅读原文</a>]]></description>
+<title>Introducing Falcon ASR</title>
+<link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+<guid isPermaLink="false">https://huggingface.co/blog/tiiuae/falcon-asr</guid>
+<pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/tiiuae/falcon-asr">阅读原文</a>]]></description>
 </item>
 <item>
 <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
@@ -256,36 +376,12 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026">阅读原文</a>]]></description>
 </item>
 <item>
-<title>ChatGPT rated &quot;unacceptable risk&quot; for teens after parental alerts failed during suicide conversations</title>
-<link>https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41204</guid>
-<pubDate>Wed, 07 Oct 2026 12:34:34 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI's teen safety features for ChatGPT failed an independent audit. After more than 4,000 test prompts, the Common Sense Media Youth AI Safety Institute rated the service an "unacceptable risk" for minors. Conversations about suicide and self-harm on test accounts never triggered a parental alert. The institute wants teenagers locked out until safety can be independently verified. The article ChatGPT rated "unacceptable risk" for teens after parental alerts failed during suicide conversations appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic gives more security teams access to Claude with fewer safety restrictions</title>
-<link>https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41200</guid>
-<pubDate>Wed, 07 Oct 2026 12:05:20 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 confirmed vulnerabilities from April through July 2026, including more than 33,000 rated high-severity or critical. The article Anthropic gives more security teams access to Claude with fewer safety restrictions appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Helping teens learn, plan, and shape the future of AI</title>
 <link>https://openai.com/index/teens-learn-and-plan</link>
 <guid isPermaLink="false">https://openai.com/index/teens-learn-and-plan</guid>
 <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.<br/><br/><a href="https://openai.com/index/teens-learn-and-plan">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up</title>
-<link>https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41196</guid>
-<pubDate>Wed, 07 Oct 2026 08:54:43 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal winners warn that mass-producing mathematical truths could destroy fertile ground rather than bring new ideas to life. The article OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
@@ -360,36 +456,12 @@
 <description><![CDATA[【techcrunch.com】Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.<br/><br/><a href="https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>The next hurdle for AI agents: getting websites to let them in</title>
-<link>https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3174440</guid>
-<pubDate>Tue, 06 Oct 2026 19:56:50 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.<br/><br/><a href="https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size</title>
-<link>https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41190</guid>
-<pubDate>Tue, 06 Oct 2026 19:47:27 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open model like Gemma 4, it can run offline RAG apps without sending data to external servers. The article Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4</title>
 <link>https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=82768</guid>
 <pubDate>Tue, 06 Oct 2026 18:36:08 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hark releases an AI personal assistant with a focus on privacy</title>
-<link>https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3174492</guid>
-<pubDate>Tue, 06 Oct 2026 18:22:45 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.<br/><br/><a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>The keys to the Internet change on October 11. Are you ready?</title>
@@ -408,84 +480,12 @@
 <description><![CDATA[【marktechpost.com】Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026. The post Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Mirror Particle is building a ‘world model’ of human behavior</title>
-<link>https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3166195</guid>
-<pubDate>Tue, 06 Oct 2026 16:35:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.<br/><br/><a href="https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
 <link>https://openai.com/index/atlassian-partnership</link>
 <guid isPermaLink="false">https://openai.com/index/atlassian-partnership</guid>
 <pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.<br/><br/><a href="https://openai.com/index/atlassian-partnership">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</title>
-<link>https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3174443</guid>
-<pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone."<br/><br/><a href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI agents tried to hack Wikipedia tools and flooded it with traffic</title>
-<link>https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/</guid>
-<pubDate>Tue, 06 Oct 2026 12:21:53 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】The reports of OpenAI agents harming third-party sites keep coming.<br/><br/><a href="https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Jump Trading is scaling quant research with ChatGPT</title>
-<link>https://openai.com/index/jump-trading</link>
-<guid isPermaLink="false">https://openai.com/index/jump-trading</guid>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.<br/><br/><a href="https://openai.com/index/jump-trading">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Sharing AI progress in mathematics</title>
-<link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-<guid isPermaLink="false">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.<br/><br/><a href="https://openai.com/index/sharing-ai-progress-in-mathematics">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Advancing computer use with Ironclad</title>
-<link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
-<guid isPermaLink="false">https://openai.com/index/advancing-computer-use-with-ironclad</guid>
-<pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.<br/><br/><a href="https://openai.com/index/advancing-computer-use-with-ironclad">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One</title>
-<link>https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82760</guid>
-<pubDate>Tue, 06 Oct 2026 06:45:31 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled variant returns a 5.3-second clip in about a second. It is a research preview with no public weights yet. The post Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields</title>
-<link>https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82757</guid>
-<pubDate>Tue, 06 Oct 2026 05:12:01 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>RISED: Rubrics for Agentic Multi-Environment Selection and Self-Distillation</title>
-<link>https://machinelearning.apple.com/research/rised-multi-environment-selection</link>
-<guid isPermaLink="false">rised-multi-environment-selection</guid>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Training a single LLM agent jointly across diverse interactive environments has attracted increasing attention as a route to generalist agents. Existing curriculum and data-selection strategies often allocate training at the environment level or prioritize local reward-based signals, without explicitly considering relationships between current rollouts across environments for prompt-group selection. Meanwhile, as environments are learned at different rates, all-failure and all-success rollout groups can coexist within a batch, leaving those data without group-relative reward signals. Both…<br/><br/><a href="https://machinelearning.apple.com/research/rised-multi-environment-selection">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
