@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 08 Oct 2026 20:56:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 03:51:05 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
+<link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3175918</guid>
+<pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.<br/><br/><a href="https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
 <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
@@ -200,6 +208,14 @@
 <description><![CDATA[【openai.com】With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.<br/><br/><a href="https://openai.com/index/pollo-ai">阅读原文</a>]]></description>
 </item>
 <item>
+<title>LegalOn halves Codex costs while maintaining development speed</title>
+<link>https://openai.com/index/legalon-halves-codex-costs</link>
+<guid isPermaLink="false">https://openai.com/index/legalon-halves-codex-costs</guid>
+<pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.<br/><br/><a href="https://openai.com/index/legalon-halves-codex-costs">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots</title>
 <link>https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/</guid>
@@ -270,6 +286,14 @@
 <pubDate>Thu, 08 Oct 2026 00:00:24 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Get ready for more AI in your Windows and more AI on the desktop.<br/><br/><a href="https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The model that didn't exist, so you made it yourself</title>
+<link>https://huggingface.co/blog/building-with-ml-intern</link>
+<guid isPermaLink="false">https://huggingface.co/blog/building-with-ml-intern</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/building-with-ml-intern">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Normalizing Trajectory Models</title>
@@ -392,14 +416,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/LiquidAI/open-d1">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material</title>
-<link>https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3175177</guid>
-<pubDate>Wed, 07 Oct 2026 16:53:46 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.<br/><br/><a href="https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Building an evidence-grounded agentic security operations harness on Cloudflare</title>
 <link>https://blog.cloudflare.com/agentic-security-operations/</link>
 <guid isPermaLink="false">01M49SJF5QT2EPN5CTQ3C99EZW</guid>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 07 Oct 2026 00:53:03 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Explore a comprehensive coding guide to Laya, the open-source zero-shot decision engine. Learn how to implement typed decisions, fit custom temperatures, and build reliable abstention gates using real-world CLINC150 banking data. The post A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GPT-6 and Intelligent UI for everyone</title>
-<link>https://openai.com/index/gpt-6-for-everyone</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-6-for-everyone</guid>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.<br/><br/><a href="https://openai.com/index/gpt-6-for-everyone">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Building Git infrastructure for agent-scale development</title>
-<link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
-<guid isPermaLink="false">https://github.blog/?p=99275</guid>
-<pubDate>Tue, 06 Oct 2026 20:57:56 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

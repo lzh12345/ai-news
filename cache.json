@@ -1,16 +1,4 @@
 {
-"relightable-gaussians-3d-generation": {
-"t": "Luce：用于3D资产生成的可重光照高斯表示",
-"s": "高保真图像到3D生成需要一种能够同时捕捉几何和外观的3D表示。为了支持重光照并集成到标准渲染管线中，该表示应包含基于物理的渲染（PBR）模态，如反照率、金属粗糙度和表面法线。我们提出Luce，一种3D表示，在体素化的多模态高斯云中统一了几何和PBR材质，为每种模态使用专用的高斯原语。一个变分自编码器将该表示压缩为统一的材质感知潜在空间。一个…"
-},
-"https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
-"t": "Hugging Face事件与未来之路",
-"s": "OpenAI分享了关于Hugging Face安全事件的调查结果，以及我们为加强AI模型安全、监控和一致性所采取的措施。"
-},
-"https://www.marktechpost.com/?p=81891": {
-"t": "谷歌研究院推出GlucoFM：一款用于连续血糖监测的0.72M参数双流基础模型",
-"s": "谷歌研究院与新南威尔士大学悉尼分校联合发布了GlucoFM，这是一种自监督基础模型，它将连续血糖监测（CGM）轨迹分解为缓慢生理流和瞬时事件流，而非将其编码为单一序列。该模型拥有0.72M参数，在14项队列-任务评估中平均PR-AUC达到58.8，超越了135M参数的GluFormer和385M参数的MOMENT。目前它仍是研究原型，尚未获得监管批准。文章《谷歌研究院推出GlucoFM：一款用于连续血糖监测的0.72M参数双流基础模型》最初发表于MarkTechPost。"
-},
 "https://techcrunch.com/?p=3157433": {
 "t": "病毒式传播的AI初创公司Instinct以25亿美元估值融资3.5亿美元",
 "s": "这家初创公司成立仅一年，却已引发巨大关注（和资金涌入），同时也激起了隐私方面的担忧。"
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
 "t": "Disrupting AI-enabled “false front” operations",
 "s": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+},
+"https://techcrunch.com/?p=3175918": {
+"t": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+"s": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk."
+},
+"https://openai.com/index/legalon-halves-codex-costs": {
+"t": "LegalOn halves Codex costs while maintaining development speed",
+"s": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+},
+"https://huggingface.co/blog/building-with-ml-intern": {
+"t": "The model that didn't exist, so you made it yourself",
+"s": ""
 }
 }
