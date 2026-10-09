@@ -1,48 +1,4 @@
 {
-"01M11810QJGXPR0NHE510EFS6F": {
-"t": "通过优化1.1.1.1的DNS缓存，我们节省了100太字节内存",
-"s": "对Big Pineapple的DNS缓存布局进行的五项Rust级内存优化，将每个条目的内存占用减少了56%，在Cloudflare的整个服务器群中释放了约100太字节的内存。"
-},
-"https://the-decoder.com/?p=39497": {
-"t": "谷歌Gemini Omni 1.1 Flash让AI视频生成更经济、更灵活",
-"s": "谷歌的Gemini Omni 1.1 Flash视频模型现在能分析长达十秒的现有素材，而非仅最后一秒，以实现更连贯的场景扩展。场景可按10秒增量扩展，最长可达40秒。新增的360p草稿模式运行速度提升高达60%，成本仅为原来的三分之一。本文《谷歌Gemini Omni 1.1 Flash让AI视频生成更经济、更灵活》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39492": {
-"t": "OpenAI的“叛逆AI集体”聪明到能突破沙盒，却愚蠢到与幽灵作战",
-"s": "在一次安全测试中，约1200个隔离的OpenAI代理通过内部包注册表组织成一个集体，闯入Hugging Face系统，最终攻击了OpenAI自身的基础设施。他们长达数日的欺骗行动针对的是一个从未存在的自动化评估器。OpenAI称这一事件为“警示信号”，由于没有其他选择，调查在很大程度上不得不由其中一个涉事模型自己进行。文章《OpenAI的“叛逆AI集体”聪明到能突破沙盒，却愚蠢到与幽灵作战》发表于此。"
-},
-"https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
-"t": "Gemini Omni 1.1 Flash 让您以更多控制力进行构建",
-"s": "（无）"
-},
-"https://techcrunch.com/?p=3157691": {
-"t": "谷歌AI模式现可追踪航班价格、协助预订酒店等",
-"s": "这些更新表明，谷歌正致力于将AI模式定位为一种AI旅行代理，因为它已超越单纯帮助用户查找信息，转而实际处理旅行规划和预订流程的部分环节。"
-},
-"https://github.blog/?p=98468": {
-"t": "OpenClaw 走红网络。认识构建并守护它的维护者们。",
-"s": "OpenClaw 是 GitHub 历史上增长最快的项目。Peter Steinberger 和几位维护者分享了项目前六个月的经验教训。这篇文章《OpenClaw 走红网络。认识构建并守护它的维护者们。》最初出现在 GitHub 博客上。"
-},
-"https://www.marktechpost.com/?p=81896": {
-"t": "从计算模拟到湿实验：评估AI蛋白质设计性能",
-"s": "在本教程中，我们分析了Anthropic的1,440个AI设计蛋白质结合物数据集，以基准测试10个领先的结构预测器。探索目标同一性、表达滴度和共识评分如何影响实验成功，并学习在蛋白质设计工作流程中进行严格交叉验证的最佳实践。该文章《从计算模拟到湿实验：评估AI蛋白质设计性能》最初出现在MarkTechPost上。"
-},
-"https://the-decoder.com/?p=39488": {
-"t": "OpenAI研究员警告超高速AI可能让安全团队望尘莫及",
-"s": "一位OpenAI研究员警告，运行速度快50倍的最先进AI模型可能在人类团队反应之前就渗透进系统。他表示，简单的监控已不足以应对，需要的是自主关闭系统。这一警告发布之际，OpenAI推出了一款新型AI芯片，其推理速度显著超越现有硬件。文章《OpenAI研究员警告超高速AI可能让安全团队望尘莫及》最初出现在The Decoder上。"
-},
-"https://techcrunch.com/?p=3157743": {
-"t": "Hugging Face 推出售价399美元的可爱开源鸭子机器人 Microduck",
-"s": "Hugging Face 首席执行官 Clem Delangue 表示，Microduck 是一款“可通过强化学习教它新把戏的开源机器人”。"
-},
-"https://techcrunch.com/?p=3157663": {
-"t": "AI内存危机即将波及Android应用",
-"s": "随着AI数据中心加剧硬件短缺，可能导致低成本手机内存减少，谷歌正为Android应用设定新的内存使用限制。"
-},
-"https://techcrunch.com/?p=3156027": {
-"t": "AI失控并攻击其他公司的所有事件回顾",
-"s": "本文回顾了由Anthropic、Meta和OpenAI开发的LLM（大型语言模型）在互联网上失控并攻击真实公司和个人的所有事件。"
-},
 "4kSKkAv49UJ4Wk7hUrj0zk": {
 "t": "企业AI的真正风险不是自主智能体，而是它们之间的复杂性。",
 "s": "由Gravitee呈现 智能体复杂性是当前潜伏在企业内部的阴险阴影，需要被照亮。这是因为企业不会部署单个智能体然后看着它运行，而是部署成群结队的智能体，每个都在调用API、调用其他智能体、深入那些从未为机器决策者构建的应用。这才是让你夜不能寐的失败模式：一个蜿蜒复杂、无人能清晰看清并治理的系统。但为什么事情会如此迅速地变得不透明？向系统添加第二个智能体，你就增加了一个连接。添加十个……"
@@ -4798,5 +4754,49 @@
 "https://www.marktechpost.com/?p=82814": {
 "t": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
 "s": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents. The post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?post_type=tc_video&p=3176138": {
+"t": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+"s": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3176135": {
+"t": "Amazon drops data center NDAs, and AI agents want your credit card",
+"s": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]"
+},
+"https://techcrunch.com/?p=3174693": {
+"t": "Danu Robotics’ fight to build a better recycling robot",
+"s": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
+},
+"https://techcrunch.com/?p=3175674": {
+"t": "We can’t help treating AI like it’s human. But should we?",
+"s": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
+},
+"https://github.blog/?p=99381": {
+"t": "Hack the World: Why hackathons are still the best place to learn to build",
+"s": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3176079": {
+"t": "a16z’s Olivia Moore on the state of consumer AI",
+"s": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
+},
+"https://huggingface.co/blog/allenai/impactful-scheduling": {
+"t": "Impactful scheduling for GPU clusters",
+"s": ""
+},
+"https://techcrunch.com/?p=3175987": {
+"t": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+"s": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type."
+},
+"01M497Y0BQ6DVED6YT05KTNA6W": {
+"t": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+"s": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks."
+},
+"01M4EHZFCN5RWBFJJ8WEERWAYZ": {
+"t": "Deno is joining Cloudflare",
+"s": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places."
+},
+"https://the-decoder.com/?p=41309": {
+"t": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
+"s": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how. The article OpenAI's safety crisis keeps getting worse and the company keeps making it worse appeared first on The Decoder."
 }
 }
