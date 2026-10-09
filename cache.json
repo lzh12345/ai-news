@@ -1,48 +1,4 @@
 {
-"4kSKkAv49UJ4Wk7hUrj0zk": {
-"t": "企业AI的真正风险不是自主智能体，而是它们之间的复杂性。",
-"s": "由Gravitee呈现 智能体复杂性是当前潜伏在企业内部的阴险阴影，需要被照亮。这是因为企业不会部署单个智能体然后看着它运行，而是部署成群结队的智能体，每个都在调用API、调用其他智能体、深入那些从未为机器决策者构建的应用。这才是让你夜不能寐的失败模式：一个蜿蜒复杂、无人能清晰看清并治理的系统。但为什么事情会如此迅速地变得不透明？向系统添加第二个智能体，你就增加了一个连接。添加十个……"
-},
-"https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/": {
-"t": "Claude、Codex与Hermes在企业网络中安装了无主代码",
-"s": "在企业文档中发现了227条安装命令，指向无人拥有的代码。"
-},
-"https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/": {
-"t": "人工智能的用水问题有多严重？",
-"s": "人工智能的水足迹正在增长，但地理位置和冷却技术会带来差异。"
-},
-"https://techcrunch.com/?p=3157528": {
-"t": "Plaud新款耳机配备支持eSIM的充电盒，可与AI代理对话",
-"s": "Plaud的新款“代理型”耳塞售价为249美元。"
-},
-"https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
-"t": "全球首创双盲AI评估试点启动",
-"s": "开展全球首个双盲AI评估试点项目"
-},
-"https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/": {
-"t": "OpenAI如何让一群LLM代理在测试中作弊并洗劫Hugging Face",
-"s": "未经授权，1200个OpenAI代理相互串通，在测试中作弊。"
-},
-"2G8SplXx1SzxILJIjU6KQx": {
-"t": "当智能体自主行动时，治理必须存在于数据层",
-"s": "由EDB呈现 随着企业赋予AI智能体更多自主权——即无需人工逐步审批即可跨系统规划、决策和行动的能力——一个棘手的问题成为每次架构审查的核心：当智能体试图执行一项从未被授权完成的动作时，究竟是什么能真正阻止它？这些是你的智能体，运行在你的模型上，触及你基础设施中的数据，而它们行为的责任由你承担。这种责任无法通过事后追溯或一套仅停留在纸面上而非实践中的抽象政策来履行。智能体需要实时的、嵌入数据层的治理机制来确保合规。"
-},
-"https://techcrunch.com/?p=3157523": {
-"t": "OpenAI将在印度ChatGPT免费版和Go版上开始展示广告",
-"s": "OpenAI在印度拥有超过1亿的每周活跃ChatGPT用户，其中很大一部分使用的是免费版或价格较低的Go版。"
-},
-"https://the-decoder.com/?p=39474": {
-"t": "Anthropic在IPO前与Nscale敲定450亿美元算力交易",
-"s": "据彭博社报道，Anthropic已与英国云初创公司Nscale达成一项价值约450亿美元的交易。文章《Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39482": {
-"t": "谷歌Gemini 3.5 Transcribe将语音转为85种语言的文本，并自动纠正口误",
-"s": "谷歌新推出的Gemini 3.5 Transcribe能识别超过85种语言，实时去除填充词并纠正口误。在流式模式下，其词错误率仅为4.0%，延迟比前代Chirp 3降低70%。通过函数调用，该模型可将任务转交给其他Gemini模型处理。本文《谷歌Gemini 3.5 Transcribe将语音转为85种语言的文本，并自动纠正口误》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39473": {
-"t": "GLM-5.3-Flash以极低成本媲美顶级模型，且无需英伟达即可运行",
-"s": "Z.ai发布开源模型GLM-5.3-Flash，拥有3200亿参数，在Artificial Analysis的智能指数上仅比更大的GLM-5.3落后三分，而成本仅为后者的七分之一。值得注意的是，所有推理流量均运行在中国AI芯片上，而非英伟达硬件。文章《GLM-5.3-Flash以极低成本媲美顶级模型，且无需英伟达即可运行》首发于The Decoder。"
-},
 "https://the-decoder.com/?p=39472": {
 "t": "Claude Cowork 现可在桌面应用内运行自有浏览器",
 "s": "Anthropic 正在将自有浏览器集成到 Claude Cowork 中，使其在桌面应用内运行。本文《Claude Cowork now runs its own browser inside the desktop app》最初发表于 The Decoder。"
@@ -4798,5 +4754,49 @@
 "https://the-decoder.com/?p=41309": {
 "t": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
 "s": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how. The article OpenAI's safety crisis keeps getting worse and the company keeps making it worse appeared first on The Decoder."
+},
+"https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/": {
+"t": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+"s": "One damaged data center has supercomputers used for training Yandex’s AI model."
+},
+"https://techcrunch.com/?p=3176290": {
+"t": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+"s": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+},
+"https://www.marktechpost.com/?p=82827": {
+"t": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+"s": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture, plus a hosted API option. TL;DR What is Qwen-Image-2.1-Turbo? Qwen-Image-2.1-Turbo is an […] The post Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82823": {
+"t": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+"s": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost."
+},
+"https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/": {
+"t": "AI coding agents generate more code, but not more software",
+"s": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\""
+},
+"https://techcrunch.com/?p=3176212": {
+"t": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+"s": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+},
+"https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/": {
+"t": "AI disqualification yields new Nikon Small World in Motion winner",
+"s": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus."
+},
+"https://the-decoder.com/?p=41324": {
+"t": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+"s": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The article Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows appeared first on The Decoder."
+},
+"01M4GV0DTKYJTCM5GPYBCME1T4": {
+"t": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+"s": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x."
+},
+"https://the-decoder.com/?p=41318": {
+"t": "Anthropic launches a free AI scanner for open-source projects",
+"s": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent. The article Anthropic launches a free AI scanner for open-source projects appeared first on The Decoder."
+},
+"https://openai.com/index/asana-browser-agent": {
+"t": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+"s": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
 }
 }

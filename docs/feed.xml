@@ -5,8 +5,88 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 09 Oct 2026 17:46:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 23:44:09 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ukraine’s drones knock out AI data center belonging to &quot;Russia’s Google&quot;</title>
+<link>https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/</link>
+<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/</guid>
+<pubDate>Fri, 09 Oct 2026 22:04:07 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】One damaged data center has supercomputers used for training Yandex’s AI model.<br/><br/><a href="https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
+<link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3176290</guid>
+<pubDate>Fri, 09 Oct 2026 21:41:29 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.<br/><br/><a href="https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model</title>
+<link>https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82827</guid>
+<pubDate>Fri, 09 Oct 2026 20:33:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture, plus a hosted API option. TL;DR What is Qwen-Image-2.1-Turbo? Qwen-Image-2.1-Turbo is an […] The post Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers</title>
+<link>https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82823</guid>
+<pubDate>Fri, 09 Oct 2026 20:05:07 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI coding agents generate more code, but not more software</title>
+<link>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/</guid>
+<pubDate>Fri, 09 Oct 2026 19:43:50 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Study finds coding efficiency gains get "absorbed" by human review "bottleneck."<br/><br/><a href="https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
+<link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3176212</guid>
+<pubDate>Fri, 09 Oct 2026 19:36:56 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic did not discover this behavior until over two months after its AI submitted the false tip.<br/><br/><a href="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI disqualification yields new Nikon Small World in Motion winner</title>
+<link>https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/</link>
+<guid isPermaLink="false">https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/</guid>
+<pubDate>Fri, 09 Oct 2026 18:44:06 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.<br/><br/><a href="https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows</title>
+<link>https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41324</guid>
+<pubDate>Fri, 09 Oct 2026 18:28:25 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The article Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash</title>
+<link>https://blog.cloudflare.com/clef-faster-cheaper-multimodal/</link>
+<guid isPermaLink="false">01M4GV0DTKYJTCM5GPYBCME1T4</guid>
+<pubDate>Fri, 09 Oct 2026 18:27:34 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x.<br/><br/><a href="https://blog.cloudflare.com/clef-faster-cheaper-multimodal/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic launches a free AI scanner for open-source projects</title>
+<link>https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41318</guid>
+<pubDate>Fri, 09 Oct 2026 17:54:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic has launched "Cyber Mission," a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent. The article Anthropic launches a free AI scanner for open-source projects appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>ChatGPT now reaches 1.2 billion people every week, OpenAI says</title>
 <link>https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/</link>
@@ -134,6 +214,14 @@
 <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.<br/><br/><a href="https://openai.com/index/sophos">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
+<link>https://openai.com/index/asana-browser-agent</link>
+<guid isPermaLink="false">https://openai.com/index/asana-browser-agent</guid>
+<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.<br/><br/><a href="https://openai.com/index/asana-browser-agent">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work</title>
@@ -296,36 +384,12 @@
 <description><![CDATA[【techcrunch.com】The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.<br/><br/><a href="https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Cal AI’s 19-year-old founder just raised $10M for his new AI startup</title>
-<link>https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3174041</guid>
-<pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.<br/><br/><a href="https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse</title>
 <link>https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=41255</guid>
 <pubDate>Thu, 08 Oct 2026 13:52:54 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Ethereum researcher Justin Drake is urging the crypto industry to prepare a "bunker mode" for a scenario where AI-powered math could break wallet signature schemes within months. Vitalik Buterin broadly agrees but warns against rushed migrations, saying he's personally lost more money to botched transitions than to hacks. So far, no one has actually broken ECDSA in practice. The article AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google releases a new local-first Granola competitor</title>
-<link>https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3175506</guid>
-<pubDate>Thu, 08 Oct 2026 13:28:39 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.<br/><br/><a href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found</title>
-<link>https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41259</guid>
-<pubDate>Thu, 08 Oct 2026 13:01:01 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region. The attack exploited an internal AWS interface for temporary cloud credentials that agents could reach without restriction. AWS has since patched the issue and significantly tightened the agents' default permissions. The article A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Bridging technical depth and usability: The story behind Radar’s redesign</title>
@@ -358,14 +422,6 @@
 <pubDate>Thu, 08 Oct 2026 11:15:33 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Full-stack safety solution for physical AI is being used by robotics companies.<br/><br/><a href="https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over</title>
-<link>https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41233</guid>
-<pubDate>Thu, 08 Oct 2026 10:30:23 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference</title>
@@ -430,62 +486,6 @@
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.<br/><br/><a href="https://openai.com/index/disrupting-ai-enabled-false-front-operations">阅读原文</a>]]></description>
-</item>
-<item>
-<title>“Software is over”: Bold AI developer takes aim at Adobe with open source clones</title>
-<link>https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/</guid>
-<pubDate>Wed, 07 Oct 2026 21:56:42 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.<br/><br/><a href="https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens</title>
-<link>https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82781</guid>
-<pubDate>Wed, 07 Oct 2026 20:38:30 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. The post Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens</title>
-<link>https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82778</guid>
-<pubDate>Wed, 07 Oct 2026 18:23:45 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. The target is real-time decisions on the […] The post Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift</title>
-<link>https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/</guid>
-<pubDate>Wed, 07 Oct 2026 17:57:39 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Man gets 18 months for AI scheme stealing $8M in music streaming royalties.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Secret protection must scale with software</title>
-<link>https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/</link>
-<guid isPermaLink="false">https://github.blog/?p=99310</guid>
-<pubDate>Wed, 07 Oct 2026 17:45:34 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Multimodal open d1 decision models for the edge</title>
-<link>https://huggingface.co/blog/LiquidAI/open-d1</link>
-<guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/open-d1</guid>
-<pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/LiquidAI/open-d1">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Building an evidence-grounded agentic security operations harness on Cloudflare</title>
-<link>https://blog.cloudflare.com/agentic-security-operations/</link>
-<guid isPermaLink="false">01M49SJF5QT2EPN5CTQ3C99EZW</guid>
-<pubDate>Wed, 07 Oct 2026 16:30:36 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded recommendations to Managed Defense Analysts.<br/><br/><a href="https://blog.cloudflare.com/agentic-security-operations/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
