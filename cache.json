@@ -1,28 +1,4 @@
 {
-"https://techcrunch.com/?p=3157433": {
-"t": "病毒式传播的AI初创公司Instinct以25亿美元估值融资3.5亿美元",
-"s": "这家初创公司成立仅一年，却已引发巨大关注（和资金涌入），同时也激起了隐私方面的担忧。"
-},
-"https://techcrunch.com/?p=3157431": {
-"t": "亚马逊因“需求激增”将英伟达芯片订单量增至三倍",
-"s": "亚马逊计划在未来两年内为其数据中心新增200万颗英伟达GPU芯片。但这一扩展的合作关系远不止于购买更多芯片。"
-},
-"https://the-decoder.com/?p=39501": {
-"t": "研究显示，AI购物代理尚不宜代你购物",
-"s": "让AI替你购物可能不会让你得到最划算的交易。沃顿商学院的研究人员展示了AI购物代理的反复无常：单一外部来源如Wirecutter就能使产品选择变动高达99个百分点，甚至改变相同信息的顺序也会影响结果。文章《研究显示，AI购物代理尚不宜代你购物》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=39511": {
-"t": "OpenAI联合百余家企业签署公开信，警告针对关键基础设施的AI网络攻击迫在眉睫",
-"s": "OpenAI携手微软、谷歌、Anthropic、德国电信及SAP等逾百家公司，发布了一封关于AI网络防御的公开信。该联盟警告称，针对医院、水处理厂等关键基础设施的AI攻击日益复杂，并呼吁在防御方仍占优势之际迅速采取行动。文章《OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3157852": {
-"t": "OpenAI、Anthropic、谷歌及百余家企业呼吁采取行动抵御恶意AI",
-"s": "全球多家大型科技公司和AI初创企业联合发声，谴责当前网络安全状况，并推广一项新解决方案，声称能抵御新一代网络威胁。"
-},
-"https://www.marktechpost.com/?p=81899": {
-"t": "2026年最佳智能体沙盒：E2B、Daytona、Modal、Cloudflare与Vercel的冷启动、按秒计费及网络策略对比",
-"s": "每个编写代码的智能体都需要一个运行环境，而各家供应商的计费单位各不相同。本对比评测衡量了E2B、Daytona、Modal、Cloudflare和Vercel的突发冷启动性能，将按秒费率标准化为每千次执行成本，并依据2026年8月27日核实的主要来源，映射了文件系统持久性、空闲计费及出口策略。文章《2026年最佳智能体沙盒：E2B、Daytona、Modal、Cloudflare与Vercel的冷启动、按秒计费及网络策略对比》首发于MarkTechPost。"
-},
 "01M11810QJGXPR0NHE510EFS6F": {
 "t": "通过优化1.1.1.1的DNS缓存，我们节省了100太字节内存",
 "s": "对Big Pineapple的DNS缓存布局进行的五项Rust级内存优化，将每个条目的内存占用减少了56%，在Cloudflare的整个服务器群中释放了约100太字节的内存。"
@@ -4798,5 +4774,29 @@
 "https://huggingface.co/blog/building-with-ml-intern": {
 "t": "The model that didn't exist, so you made it yourself",
 "s": ""
+},
+"https://the-decoder.com/?p=41300": {
+"t": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+"s": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged about ten percent deviation from actual measurements. Ménard sees the project as an example of research that simply wouldn't have gotten done without AI. The article Anthropic's Claude Science creates the first complete ultraviolet map of the sky appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41275": {
+"t": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
+"s": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew reactions from politicians, earning the first category 5 out of 6 rating in OpenAI's reporting history. The Iranian \"Bogus Bylines\" operation used seven fake journalists to place nearly 100 articles in online outlets worldwide. The article OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82820": {
+"t": "Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling",
+"s": "Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning. The post Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling appeared first on MarkTechPost."
+},
+"https://openai.com/index/sophos": {
+"t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+"s": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+},
+"https://www.marktechpost.com/?p=82817": {
+"t": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
+"s": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is […] The post Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82814": {
+"t": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
+"s": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents. The post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared first on MarkTechPost."
 }
 }

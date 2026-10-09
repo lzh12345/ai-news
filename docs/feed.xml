@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 09 Oct 2026 03:51:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 11:02:26 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic's Claude Science creates the first complete ultraviolet map of the sky</title>
+<link>https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41300</guid>
+<pubDate>Fri, 09 Oct 2026 09:22:25 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged about ten percent deviation from actual measurements. Ménard sees the project as an example of research that simply wouldn't have gotten done without AI. The article Anthropic's Claude Science creates the first complete ultraviolet map of the sky appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets</title>
+<link>https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41275</guid>
+<pubDate>Fri, 09 Oct 2026 08:45:34 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian "Dark Clark" campaign spread disinformation across Latin America and drew reactions from politicians, earning the first category 5 out of 6 rating in OpenAI's reporting history. The Iranian "Bogus Bylines" operation used seven fake journalists to place nearly 100 articles in online outlets worldwide. The article OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling</title>
+<link>https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82820</guid>
+<pubDate>Fri, 09 Oct 2026 07:23:36 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning. The post Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
+<link>https://openai.com/index/sophos</link>
+<guid isPermaLink="false">https://openai.com/index/sophos</guid>
+<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.<br/><br/><a href="https://openai.com/index/sophos">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work</title>
+<link>https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82817</guid>
+<pubDate>Fri, 09 Oct 2026 06:47:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is […] The post Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Research RRSI Guide: Mastering Self-Improving AI Agents</title>
+<link>https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82814</guid>
+<pubDate>Fri, 09 Oct 2026 05:06:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents. The post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
 <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
@@ -344,14 +392,6 @@
 <description><![CDATA[【techcrunch.com】Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.<br/><br/><a href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps</title>
-<link>https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41238</guid>
-<pubDate>Wed, 07 Oct 2026 19:06:40 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is rolling out GPT-6 with "Intelligent UI," a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers get GPT-6 Sol, free users get GPT-6 Luna. The article ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta’s Muse launches on iPad just a month after its mobile debut</title>
 <link>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3175232</guid>
@@ -382,14 +422,6 @@
 <pubDate>Wed, 07 Oct 2026 18:00:19 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.<br/><br/><a href="https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior</title>
-<link>https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41221</guid>
-<pubDate>Wed, 07 Oct 2026 17:58:20 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy are funding data, lab equipment, and compute. A first dataset should be ready in about a year. The article Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift</title>
@@ -454,38 +486,6 @@
 <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Helping teens learn, plan, and shape the future of AI</title>
-<link>https://openai.com/index/teens-learn-and-plan</link>
-<guid isPermaLink="false">https://openai.com/index/teens-learn-and-plan</guid>
-<pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.<br/><br/><a href="https://openai.com/index/teens-learn-and-plan">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
-<link>https://openai.com/index/radisson</link>
-<guid isPermaLink="false">https://openai.com/index/radisson</guid>
-<pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.<br/><br/><a href="https://openai.com/index/radisson">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day</title>
-<link>https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82775</guid>
-<pubDate>Wed, 07 Oct 2026 06:29:14 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0. The post Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration</title>
-<link>https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82772</guid>
-<pubDate>Wed, 07 Oct 2026 00:53:03 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Explore a comprehensive coding guide to Laya, the open-source zero-shot decision engine. Learn how to implement typed decisions, fit custom temperatures, and build reliable abstention gates using real-world CLINC150 banking data. The post A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
