@@ -1,16 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/": {
-"t": "人工智能行业称特朗普计划对芯片征税是“想象中最愚蠢的方式”",
-"s": "科技行业对特朗普通过征税数据中心来赢得人工智能竞赛的计划感到困惑。"
-},
-"rubric-based-alignment": {
-"t": "从偏好到原则：基于评分标准的对齐方法用于有据知识回答",
-"s": "为开放域问答设计有效的奖励信号颇具挑战性，因为高质量的回答必须同时满足多个方面的答案质量，而这些方面难以通过整体标量目标来捕捉。我们引入了一种基于评分标准的奖励框架，该框架根据检索到的证据生成针对查询的评分标准，并将其分解为多个质量维度，从而在训练后阶段提供细粒度的监督。在三个评估维度（构成、依据和指令遵循）上取平均，我们的方法相较于……有所改进。"
-},
-"https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/": {
-"t": "Meta调整AI眼镜以阻止部分偷拍行为，但隐私风险依然存在",
-"s": "Meta修复AI眼镜，确保用户在遮挡安全指示灯时无法进行录制。"
-},
 "https://the-decoder.com/?p=39529": {
 "t": "AI基准测试存在信任问题，谷歌欲加以解决",
 "s": "谷歌DeepMind首次对前沿AI模型进行双盲评估测试。通过机密空间提供的加密保护，旨在防止谷歌看到测试问题，同时避免评估者接触模型权重。与新加坡AI安全研究所的试点项目采用Gemini Flash Lite，可能为防篡改AI基准测试树立新标准。文章《AI基准测试存在信任问题，谷歌欲加以解决》最初发表于The Decoder。"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=41342": {
 "t": "Few people pay for AI, but those who do spend big",
 "s": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription. The top one percent of payers spend about $900 a month, mostly on professional tools for development and automation. The article Few people pay for AI, but those who do spend big appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3176448": {
+"t": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+"s": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+},
+"https://www.marktechpost.com/?p=82841": {
+"t": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+"s": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents. The post When the Safety Test Became the Threat: The Machine That Found Its Own Way Out appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3176436": {
+"t": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+"s": "Is Apple hoping to get into the AI-generated podcast business?"
 }
 }
