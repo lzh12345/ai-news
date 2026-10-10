@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=39472": {
-"t": "Claude Cowork 现可在桌面应用内运行自有浏览器",
-"s": "Anthropic 正在将自有浏览器集成到 Claude Cowork 中，使其在桌面应用内运行。本文《Claude Cowork now runs its own browser inside the desktop app》最初发表于 The Decoder。"
-},
 "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
 "t": "更好的答案，更广阔的思维：学生从ChatGPT和批判性思维训练中获益",
 "s": "一项针对1000多名学生的随机研究，考察了ChatGPT、批判性思维、原创性以及学生在真实大学作业中的表现。"
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/asana-browser-agent": {
 "t": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
 "s": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+},
+"https://techcrunch.com/?p=3176323": {
+"t": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+"s": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
 }
 }
