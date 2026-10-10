@@ -1,20 +1,4 @@
 {
-"https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
-"t": "更好的答案，更广阔的思维：学生从ChatGPT和批判性思维训练中获益",
-"s": "一项针对1000多名学生的随机研究，考察了ChatGPT、批判性思维、原创性以及学生在真实大学作业中的表现。"
-},
-"https://the-decoder.com/?p=39469": {
-"t": "英伟达以129亿美元收购Hugging Face，封闭AI实验室渐行渐远",
-"s": "英伟达正以129亿美元收购开源AI平台Hugging Face，约为其1.5亿美元年收入的80倍。这笔交易契合英伟达投资数十亿美元于开源AI模型的战略，而OpenAI和Anthropic等封闭提供商正逐渐远离英伟达硬件。文章《英伟达以129亿美元收购Hugging Face，封闭AI实验室渐行渐远》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3157522": {
-"t": "英伟达接近收购Hugging Face",
-"s": "据报道，英伟达已同意以129亿美元收购广受欢迎的开源AI中心Hugging Face，此举将使英伟达既能保护其芯片帝国，又能重返云业务。"
-},
-"https://openai.com/index/expanding-our-presence-in-brazil": {
-"t": "OpenAI在巴西扩展业务版图",
-"s": "OpenAI正在扩大其在巴西的业务，深化与开发者、企业和社区的互动，以支持人工智能在全国范围内的应用。"
-},
 "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/": {
 "t": "Anthropic新硬件标准让AI代理掌控物理世界",
 "s": "标准化驱动接口旨在让设备与AI及彼此间进行通信。"
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3176323": {
 "t": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
 "s": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+},
+"https://the-decoder.com/?p=41333": {
+"t": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+"s": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41328": {
+"t": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+"s": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch. The article Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82834": {
+"t": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+"s": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A […] The post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82831": {
+"t": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+"s": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost."
 }
 }

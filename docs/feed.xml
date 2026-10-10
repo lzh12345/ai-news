@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 10 Oct 2026 03:34:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 10:18:19 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police</title>
+<link>https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41333</guid>
+<pubDate>Sat, 10 Oct 2026 10:16:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google's Gemini 4 &quot;Carbon&quot; model is reportedly matching Anthropic's Opus 5.5 coding performance</title>
+<link>https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41328</guid>
+<pubDate>Sat, 10 Oct 2026 08:59:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch. The article Google's Gemini 4 "Carbon" model is reportedly matching Anthropic's Opus 5.5 coding performance appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model</title>
+<link>https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82834</guid>
+<pubDate>Sat, 10 Oct 2026 06:03:09 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A […] The post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text</title>
+<link>https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82831</guid>
+<pubDate>Sat, 10 Oct 2026 04:51:34 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
 <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
@@ -312,14 +344,6 @@
 <description><![CDATA[【techcrunch.com】Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.<br/><br/><a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field</title>
-<link>https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41281</guid>
-<pubDate>Thu, 08 Oct 2026 18:17:07 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error. Fields Medalist Terence Tao warns that AI's mass "harvesting" of open problems leaves entire branches of mathematics less fertile. The article Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Anthropic changes usage policy to ban model abuse and election interference</title>
 <link>https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3175777</guid>
@@ -384,14 +408,6 @@
 <description><![CDATA[【techcrunch.com】Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.<br/><br/><a href="https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse</title>
-<link>https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41255</guid>
-<pubDate>Thu, 08 Oct 2026 13:52:54 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Ethereum researcher Justin Drake is urging the crypto industry to prepare a "bunker mode" for a scenario where AI-powered math could break wallet signature schemes within months. Vitalik Buterin broadly agrees but warns against rushed migrations, saying he's personally lost more money to botched transitions than to hacks. So far, no one has actually broken ECDSA in practice. The article AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Bridging technical depth and usability: The story behind Radar’s redesign</title>
 <link>https://blog.cloudflare.com/radar-redesign/</link>
 <guid isPermaLink="false">01M4ATYPWQETFZA4EZJ5AJYSFT</guid>
@@ -438,22 +454,6 @@
 <pubDate>Thu, 08 Oct 2026 08:40:02 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks. The post NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA</title>
-<link>https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82797</guid>
-<pubDate>Thu, 08 Oct 2026 05:39:09 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host. The post Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs</title>
-<link>https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82784</guid>
-<pubDate>Thu, 08 Oct 2026 01:49:11 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its fingerprint. Flagged weight files are blocked in the load path, package-content findings fail CI, and tools run in probed OS sandboxes. Here is what each checkpoint decides, and what it does not cover. The post What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Microsoft event debuts new AI-friendly hardware and Windows changes</title>
