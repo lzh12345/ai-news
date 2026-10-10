@@ -1,24 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/": {
-"t": "Anthropic新硬件标准让AI代理掌控物理世界",
-"s": "标准化驱动接口旨在让设备与AI及彼此间进行通信。"
-},
-"https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/": {
-"t": "诉讼称，埃隆·马斯克的xAI使用儿童色情内容训练Grok模型",
-"s": "xAI被指控使用真实及AI生成的儿童色情内容训练Grok模型。"
-},
-"https://www.marktechpost.com/?p=81902": {
-"t": "Cohere发布Parse 5（parse-v5.0）：一款将企业文档转换为Markdown的2.3B视觉语言模型",
-"s": "Cohere已发布Parse（parse-v5.0），这是一款拥有23亿参数的视觉语言模型，可将PDF、幻灯片和图像转换为包含HTML表格、边界框和图像描述的Markdown格式。通过API运行，每1000页收费1.50美元，或使用专用Model Vault实例，月费从2500美元起。Cohere报告其ParseBench得分为79.2，领先于Mistral OCR 4、Azure Document Intelligence和Databricks AI Parse——但该分数平均了基准测试五个维度中的三个，完全忽略了图表和视觉基础。"
-},
-"https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/": {
-"t": "报告：英伟达拟以130亿美元收购AI模型库Hugging Face",
-"s": "随着兴趣增长，英伟达正获取开放模型的关键基础设施。"
-},
-"https://techcrunch.com/?p=3158012": {
-"t": "Barret Zoph，这位在加入OpenAI前被Thinking Machines联合创始人除名的人物，现已加盟谷歌",
-"s": "Zoph与Mira Murati共同创立了Thinking Machines Lab，并担任该初创公司的首席技术官，在OpenAI短暂任职后，现已加入谷歌。"
-},
 "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/": {
 "t": "人工智能行业称特朗普计划对芯片征税是“想象中最愚蠢的方式”",
 "s": "科技行业对特朗普通过征税数据中心来赢得人工智能竞赛的计划感到困惑。"
@@ -4798,5 +4778,25 @@
 "https://www.marktechpost.com/?p=82831": {
 "t": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
 "s": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41370": {
+"t": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+"s": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing requests through anonymizing relays or building their own FTP clients. The article OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3176326": {
+"t": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+"s": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off."
+},
+"https://the-decoder.com/?p=41365": {
+"t": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
+"s": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests. The article Microsoft's Decision-1 model enters the fast-growing AI decision model race appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41360": {
+"t": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+"s": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working. Fields Medalist Hugo Duminil-Copin wrote, \"I am paralysed.\" The article \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41342": {
+"t": "Few people pay for AI, but those who do spend big",
+"s": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription. The top one percent of payers spend about $900 a month, mostly on professional tools for development and automation. The article Few people pay for AI, but those who do spend big appeared first on The Decoder."
 }
 }
