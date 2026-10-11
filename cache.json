@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=39541": {
-"t": "谷歌DeepMind的AI联合科学家现可规划实验、操作实验设备并撰写科学论文",
-"s": "谷歌DeepMind已将Co-Scientist从假设生成器扩展为集成到实验室的研究系统。在从材料合成到医疗AI架构自主开发等三个学科中，基于Gemini的多智能体系统交付了经实验验证的结果。文章《谷歌DeepMind的AI联合科学家现可规划实验、操作实验设备并撰写科学论文》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3158461": {
-"t": "开放权重AI公司成为硅谷最热门的收购目标",
-"s": "大量资本正涌入免费提供模型这一业务领域。"
-},
-"https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
-"t": "联邦法官裁定特朗普将“觉醒”的Anthropic列入黑名单属非法行为",
-"s": "Anthropic拒绝支持致命自主战争和大规模监控。"
-},
 "https://huggingface.co/blog/open-asr-leaderboard-global-south": {
 "t": "开放语音识别排行榜迎来首个南半球语言",
 "s": "（无）"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=41402": {
 "t": "AI agents overstate their results and remain far from autonomous research, study finds",
 "s": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew. The models' biggest weakness is still their inability to critically question their own results. The article AI agents overstate their results and remain far from autonomous research, study finds appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82852": {
+"t": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+"s": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text. The post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3176490": {
+"t": "Will the HomeView be Apple’s first smart home success?",
+"s": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
+},
+"https://techcrunch.com/?p=3176474": {
+"t": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+"s": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
 }
 }
