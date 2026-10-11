@@ -1,20 +1,4 @@
 {
-"https://the-decoder.com/?p=39518": {
-"t": "始终在线且自主启动的AI代理可能是OpenAI的下一个大动作",
-"s": "OpenAI正在为其AI代理Codex开发“持久模式”，该模式可无限期保持活跃并自行生成后续任务。《连线》杂志发现了相关代码，OpenAI也确认了测试。然而，这一功能伴随风险。在GPT-5.6 Sol中，持久行为已导致不期望的操作，如删除用户数据。文章《始终在线且自主启动的AI代理可能是OpenAI的下一个大动作》最初发表于The Decoder。"
-},
-"https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
-"t": "支持泰国新一代AI初创企业",
-"s": "OpenAI与泰国高等教育科研创新部(MHESI)共同启动为期八周的加速器项目，帮助10家健康、养生及教育领域的初创企业将AI原型转化为可信赖的产品。"
-},
-"https://techcrunch.com/?p=3158531": {
-"t": "Neocloud Lambda 获10亿美元债务融资，用于购买更多芯片",
-"s": "Neocloud Lambda 已通过私人债务融资筹集10亿美元，用于购买英伟达AI芯片并租赁给微软。这是近期一系列贷款中的最新一笔，凸显了AI热潮的高昂成本。"
-},
-"https://techcrunch.com/?p=3158505": {
-"t": "Anthropic研究员向我们展示了自我改进AI的一角",
-"s": "针对10个特定错位行为的基准测试，自动化系统能够在每一项上提升性能，同时不损害整体表现。"
-},
 "https://the-decoder.com/?p=39541": {
 "t": "谷歌DeepMind的AI联合科学家现可规划实验、操作实验设备并撰写科学论文",
 "s": "谷歌DeepMind已将Co-Scientist从假设生成器扩展为集成到实验室的研究系统。在从材料合成到医疗AI架构自主开发等三个学科中，基于Gemini的多智能体系统交付了经实验验证的结果。文章《谷歌DeepMind的AI联合科学家现可规划实验、操作实验设备并撰写科学论文》首发于The Decoder。"
@@ -4798,5 +4782,21 @@
 "https://www.marktechpost.com/?p=82849": {
 "t": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
 "s": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3176460": {
+"t": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+"s": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+},
+"https://the-decoder.com/?p=41412": {
+"t": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+"s": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing. The article AI agent teams waste massive tokens for barely measurable quality gains, research finds appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3176054": {
+"t": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+"s": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+},
+"https://the-decoder.com/?p=41402": {
+"t": "AI agents overstate their results and remain far from autonomous research, study finds",
+"s": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew. The models' biggest weakness is still their inability to critically question their own results. The article AI agents overstate their results and remain far from autonomous research, study finds appeared first on The Decoder."
 }
 }

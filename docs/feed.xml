@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 11 Oct 2026 10:27:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 17:06:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Can the AI industry persuade data center opponents by getting rid of NDAs?</title>
+<link>https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3176460</guid>
+<pubDate>Sun, 11 Oct 2026 16:52:33 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.<br/><br/><a href="https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI agent teams waste massive tokens for barely measurable quality gains, research finds</title>
+<link>https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41412</guid>
+<pubDate>Sun, 11 Oct 2026 15:39:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing. The article AI agent teams waste massive tokens for barely measurable quality gains, research finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>These execs think voice AI hasn’t reached its ChatGPT moment yet</title>
+<link>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3176054</guid>
+<pubDate>Sun, 11 Oct 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Voice AI's often misses important points for its context layer, and causes the whole pipeline to break<br/><br/><a href="https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI agents overstate their results and remain far from autonomous research, study finds</title>
+<link>https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41402</guid>
+<pubDate>Sun, 11 Oct 2026 13:44:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew. The models' biggest weakness is still their inability to critically question their own results. The article AI agents overstate their results and remain far from autonomous research, study finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario</title>
 <link>https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/</link>
@@ -126,22 +158,6 @@
 <pubDate>Sat, 10 Oct 2026 10:54:56 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription. The top one percent of payers spend about $900 a month, mostly on professional tools for development and automation. The article Few people pay for AI, but those who do spend big appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police</title>
-<link>https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41333</guid>
-<pubDate>Sat, 10 Oct 2026 10:16:26 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google's Gemini 4 &quot;Carbon&quot; model is reportedly matching Anthropic's Opus 5.5 coding performance</title>
-<link>https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41328</guid>
-<pubDate>Sat, 10 Oct 2026 08:59:49 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch. The article Google's Gemini 4 "Carbon" model is reportedly matching Anthropic's Opus 5.5 coding performance appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model</title>
@@ -390,22 +406,6 @@
 <pubDate>Thu, 08 Oct 2026 18:19:42 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.<br/><br/><a href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google brings agentic AI to Gemini, starting with businesses</title>
-<link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3175776</guid>
-<pubDate>Thu, 08 Oct 2026 18:18:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.<br/><br/><a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic changes usage policy to ban model abuse and election interference</title>
-<link>https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3175777</guid>
-<pubDate>Thu, 08 Oct 2026 18:16:24 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.<br/><br/><a href="https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>How one bug bounty researcher chooses the features they investigate</title>
