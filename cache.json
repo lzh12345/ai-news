@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=39529": {
-"t": "AI基准测试存在信任问题，谷歌欲加以解决",
-"s": "谷歌DeepMind首次对前沿AI模型进行双盲评估测试。通过机密空间提供的加密保护，旨在防止谷歌看到测试问题，同时避免评估者接触模型权重。与新加坡AI安全研究所的试点项目采用Gemini Flash Lite，可能为防篡改AI基准测试树立新标准。文章《AI基准测试存在信任问题，谷歌欲加以解决》最初发表于The Decoder。"
-},
 "01M0GDENDTZTAJ4BWXRH29NYBZ": {
 "t": "面向运营商的BotBase：加入Cloudflare机器人与代理目录的更清晰路径",
 "s": "机器人运营商现在在Cloudflare仪表板中有了一个管理提交的专属位置。此更新增加了提交状态跟踪、提交编辑以及行为模型，使运营商能够准确声明其机器人如何使用内容。"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3176436": {
 "t": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
 "s": "Is Apple hoping to get into the AI-generated podcast business?"
+},
+"https://www.marktechpost.com/?p=82846": {
+"t": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+"s": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system. The post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared first on MarkTechPost."
 }
 }
