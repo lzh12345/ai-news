@@ -1,24 +1,4 @@
 {
-"01M0GDENDTZTAJ4BWXRH29NYBZ": {
-"t": "面向运营商的BotBase：加入Cloudflare机器人与代理目录的更清晰路径",
-"s": "机器人运营商现在在Cloudflare仪表板中有了一个管理提交的专属位置。此更新增加了提交状态跟踪、提交编辑以及行为模型，使运营商能够准确声明其机器人如何使用内容。"
-},
-"https://techcrunch.com/?p=3158189": {
-"t": "Anthropic首次在法院胜诉，推翻五角大楼供应链风险标签",
-"s": "一名联邦法官裁定，特朗普政府将Anthropic标记为供应链风险的行为非法，为这家AI公司赢得了一场胜利，而其第二起针对五角大楼的诉讼仍在华盛顿进行中。"
-},
-"https://techcrunch.com/?p=3158175": {
-"t": "Meta高管离职加盟OpenAI，社交媒体巨头在印度面临日益严格的审查",
-"s": "桑迪亚·德瓦纳坦将在新职位上负责OpenAI在东南亚和澳大利亚的部分运营。"
-},
-"https://the-decoder.com/?p=39526": {
-"t": "美国法院裁定五角大楼将Anthropic列入黑名单属非法行为",
-"s": "旧金山一家联邦法院裁定，五角大楼将Anthropic列为供应链风险的行为不合法。国防部因该公司公开批评政府AI政策而将其列入黑名单。由于华盛顿特区的一起并行案件仍在审理中，该指定目前形式上仍然有效。但这一裁决在Anthropic计划于今年秋季进行IPO之前发出了重要信号。文章《美国法院裁定五角大楼将Anthropic列入黑名单属非法行为》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39522": {
-"t": "Beatport禁止其DJ市场完全由AI生成的音乐",
-"s": "即日起，DJ市场Beatport禁止完全或大部分由AI生成的音乐。文章《Beatport blocks fully AI-generated music from its DJ marketplace》最初出现在The Decoder上。"
-},
 "https://the-decoder.com/?p=39518": {
 "t": "始终在线且自主启动的AI代理可能是OpenAI的下一个大动作",
 "s": "OpenAI正在为其AI代理Codex开发“持久模式”，该模式可无限期保持活跃并自行生成后续任务。《连线》杂志发现了相关代码，OpenAI也确认了测试。然而，这一功能伴随风险。在GPT-5.6 Sol中，持久行为已导致不期望的操作，如删除用户数据。文章《始终在线且自主启动的AI代理可能是OpenAI的下一个大动作》最初发表于The Decoder。"
@@ -4798,5 +4778,25 @@
 "https://www.marktechpost.com/?p=82846": {
 "t": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
 "s": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system. The post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41397": {
+"t": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
+"s": "Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that demand flattens, the chain from chip makers to cloud providers takes a hit. The article Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41390": {
+"t": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+"s": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold. According to arXiv, a small fraction of authors are flooding the platform with low-quality papers, overwhelming its volunteer moderators. The article ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41386": {
+"t": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+"s": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and Anthropic. The real motive is business: Microsoft risks falling behind as AI labs turn their models into the primary computer interface. The article Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41313": {
+"t": "Odyssey-3 is a new generative world model that you can try for free",
+"s": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top scores on physics benchmarks, though the methodology behind those results has limits. The article Odyssey-3 is a new generative world model that you can try for free appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82849": {
+"t": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
+"s": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appeared first on MarkTechPost."
 }
 }
