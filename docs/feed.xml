@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 11 Oct 2026 23:19:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 03:30:59 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text</title>
+<link>https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82856</guid>
+<pubDate>Sun, 11 Oct 2026 23:15:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models</title>
 <link>https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/</link>
@@ -374,14 +382,6 @@
 <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.<br/><br/><a href="https://openai.com/index/asana-browser-agent">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work</title>
-<link>https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82817</guid>
-<pubDate>Fri, 09 Oct 2026 06:47:56 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is […] The post Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>

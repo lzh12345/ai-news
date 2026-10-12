@@ -1,8 +1,4 @@
 {
-"https://huggingface.co/blog/open-asr-leaderboard-global-south": {
-"t": "开放语音识别排行榜迎来首个南半球语言",
-"s": "（无）"
-},
 "llms-not-consistently-bayesian": {
 "t": "大语言模型并非（始终）贝叶斯式：量化LLMs概率信念的内部（不）一致性",
 "s": "现代AI系统正被部署于医学、科学和法律等复杂领域，在这些领域中，面对观测到的证据往往不存在唯一正确答案。此类系统必须能够表示并随着新证据的到来更新对世界的不确定信念，以做出理性决策。我们引入了一种新颖的技术，将LLMs视为信息处理规则，并利用信息处理差距——即与贝叶斯更新的偏差——来研究LLMs如何从证据中更新其概率信念的内部（不）一致性。我们的大量实验评估了"
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3176474": {
 "t": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
 "s": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
+},
+"https://www.marktechpost.com/?p=82856": {
+"t": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+"s": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost."
 }
 }
