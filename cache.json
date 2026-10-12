@@ -1,16 +1,4 @@
 {
-"llms-not-consistently-bayesian": {
-"t": "大语言模型并非（始终）贝叶斯式：量化LLMs概率信念的内部（不）一致性",
-"s": "现代AI系统正被部署于医学、科学和法律等复杂领域，在这些领域中，面对观测到的证据往往不存在唯一正确答案。此类系统必须能够表示并随着新证据的到来更新对世界的不确定信念，以做出理性决策。我们引入了一种新颖的技术，将LLMs视为信息处理规则，并利用信息处理差距——即与贝叶斯更新的偏差——来研究LLMs如何从证据中更新其概率信念的内部（不）一致性。我们的大量实验评估了"
-},
-"agent-seer-synthesizing-scenarios": {
-"t": "Agent Seer：从规范理解中合成场景",
-"s": "评估使用外部工具的AI代理，需要能够捕捉实践者如何组合工具并在多轮对话中迭代的真实测试场景。手工构建此类场景需要深厚的领域专业知识，难以跨工具生态系统扩展，且生成的静态基准无法跟踪不断演变的API。我们观察到，工具规范——函数名称、自然语言描述和类型化参数模式——已经编码了足够的语义信息，无需人工策划或实时工具执行即可合成逼真的评估场景。Agent Seer…"
-},
-"https://the-decoder.com/?p=39562": {
-"t": "LAION发布大规模开放视频数据集，含1000万小时素材供AI研究",
-"s": "LAION的大型视频数据集（BVD）是AI研究中最大的开放视频数据集之一，包含8000万个视频、1000万小时运行时长和5500万个自动描述片段。基于BVD训练的模型在性能上超越了之前的基准InternVid，最高提升了2.1个百分点。在法律层面，LAION可能援引2024年汉堡法院的一项裁决，该裁决允许为非商业研究收集受版权保护的内容。文章《LAION drops massive open video dataset with 10 million hours of footage for AI research》最初发表于The Decoder。"
-},
 "https://the-decoder.com/?p=39535": {
 "t": "Anthropic希望为其物理硬件实现类似Model Context Protocol在软件领域所取得的成就",
 "s": "Anthropic的模型硬件标准（MHS）为AI代理提供了统一接口，连接至机械臂和实验室仪器等物理设备。早期测试中，集成时间从数周缩短至数小时。然而，Claude有时难以理解物理因果关系，因此目前仍需人工监督。文章《Anthropic wants to do for physical hardware what its Model Context Protocol did for software》最初发表于The Decoder。"
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=82856": {
 "t": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
 "s": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41417": {
+"t": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+"s": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The publication comes as OpenAI faces a boycott for dumping AI proofs on GitHub without peer review. Deepmind had its results reviewed before publishing. The article Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82866": {
+"t": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+"s": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82859": {
+"t": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
+"s": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. The post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared first on MarkTechPost."
 }
 }
