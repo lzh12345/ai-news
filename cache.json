@@ -1,44 +1,4 @@
 {
-"https://techcrunch.com/?p=3158648": {
-"t": "马斯克加速燃气轮机之路伴随污染问题",
-"s": "埃隆·马斯克表示，一家神秘的新SpaceX铸造厂将使他能够自行铸造涡轮叶片，比任何人都快18个月让燃气发电上线——但这是对一种燃料来源的押注，而这种燃料已在马斯克及其他人的涡轮机所到之处引发了诉讼和健康研究。"
-},
-"https://www.marktechpost.com/?p=81967": {
-"t": "语音与实时智能体的最低延迟推理API：以首字延迟（TTFT）为核心的基准测试",
-"s": "语音智能体在智能性失败之前，往往先败于延迟。首字延迟是多数团队选择推理API时使用的指标，它是正确的起点，却也是错误的终点。本基准测试深入语音技术栈的每一层——大语言模型、语音转文字、文字转语音及语音转语音——采用2026年8月30日与原始来源核实的图表，每个数字均标注为独立测量、供应商发布或供应商在其自身产品上测量。文章《语音与实时智能体的最低延迟推理API：以首字延迟为核心》"
-},
-"https://www.marktechpost.com/?p=81962": {
-"t": "谷歌AI推出EnvHarness：一个可编程层，将静态智能体环境转变为自适应训练世界",
-"s": "谷歌云AI研究团队与圣路易斯华盛顿大学及北卡罗来纳大学教堂山分校合作，发布了EnvHarness——一个Apache-2.0许可的层，可将静态智能体基准测试转变为能适应在其上训练的策略的动态环境。它通过标准的reset()/step()接口封装冻结环境，使任务和人工构建的验证器保持不变——而LLM设计器EnvRigger则根据智能体自身运行中诊断出的缺陷自动编写这些封装器。在五个基准测试中，挖掘出的技能在保留任务上最高提升9.0分，执行步骤减少9.8%。"
-},
-"https://techcrunch.com/?p=3157348": {
-"t": "美国正为无人机和机器人筑起壁垒，但中国凭借规模优势可绕道而行",
-"s": "美国正逐步排斥更多外国制造的无人机和机器人。中国的规模意味着全球竞争可能只是转移到了别处。"
-},
-"https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
-"t": "Pocket的AI让我的游戏创意成真，但结果却由Meta掌控。",
-"s": "互动式移动“小玩意儿”制作容易，但在Meta平台之外分享却困难重重。"
-},
-"https://the-decoder.com/?p=39605": {
-"t": "OpenAI及竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理",
-"s": "据The Information报道，OpenAI已购买数万台Mac mini和Mac Studio用于训练计算机代理。Anthropic同样依赖苹果硬件。需求如此之高，以至于最强大的型号已售罄数月。苹果Mac业务在六月季度收入增长近29%，达到104亿美元。文章《OpenAI和竞争对手AI实验室正购入数万台Mac mini以训练计算机操作代理》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81971": {
-"t": "OpenClaw 发布 OpenClaw 2.0：引导式模型设置、575毫秒控制界面启动，以及每个网关单一信任边界",
-"s": "OpenClaw 基金会发布了 v2026.8.1 版本，该项目称之为 OpenClaw 2.0：共有 933 位贡献者、569 位首次贡献者，以及超过 16,000 个拉取请求，约占仓库中所有已合并 PR 的一半。设置现在可复用现有订阅、API 密钥和本地模型。重建后的控制界面将测试框架启动时间从约 1.6 秒缩短至 575 毫秒。共享云会话增加了真正的多人协作功能，但文档明确指出这些会话并非安全边界。文章《OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway》最初发表于..."
-},
-"https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": {
-"t": "“我心爱的Zlibrary”：索尼诉讼中引用了Anthropic员工赞美盗版的聊天记录",
-"s": "诉讼称：随着AI歌曲登上排行榜，Anthropic的种子下载行为严重损害了词曲作者的利益。"
-},
-"https://the-decoder.com/?p=39638": {
-"t": "英国央行行长警告：AI估值虚高与杠杆上升或引发下一场金融危机",
-"s": "安德鲁·贝利向二十国集团财长发出警告，指出AI估值虚高、市场杠杆不断上升以及前沿AI模型带来的网络风险。若一家主要企业遭遇挫折，AI公司与超大规模云服务商之间的交叉投资可能引发连锁反应。许多国家仍缺乏针对高级AI的监管规则。本文《英国央行行长警告：AI估值虚高与杠杆上升或引发下一场金融危机》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39633": {
-"t": "Instagram承认用户常常无法区分AI个人资料与真人",
-"s": "Instagram正将其“AI创作者”标签替换为新的“AI生成个人资料”标签，因为用户无法区分AI个人资料与真人。这一变化由Instagram用户能力所定义。未标注此标签的个人资料将受到触达和推荐限制。直到2024年底，Meta仍在计划让AI角色与人类在该平台上共存。文章《Instagram承认用户常常无法区分AI个人资料与真人》最初发表于The Decoder。"
-},
 "https://techcrunch.com/?p=3158701": {
 "t": "Clipto利用AI搜索海量视频，估值达2.5亿美元",
 "s": "这家成立三年的初创公司表示，在完成最新一轮1500万美元融资前，已实现1500万美元的年经常性收入并达到盈利状态。"
@@ -4798,5 +4758,45 @@
 "self-compacting-language-agents": {
 "t": "Self-Compacting Language Model Agents",
 "s": "Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it with fixed-interval compaction triggered at a token threshold. Such triggers pay no heed to trajectory structure, risking discard of partial results mid-derivation or mid-search. We propose SELFCOMPACT, a scaffold that allows the model itself to decide when and how to compact. Specifically, it pairs two inference-time elements: (i) a compaction tool the model invokes to summarize the accumulated…"
+},
+"https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/": {
+"t": "They war-gamed dimming the Sun. It went even worse than you think.",
+"s": "Solar geoengineering simulation shows what happens when geopolitics takes over."
+},
+"https://the-decoder.com/?p=41486": {
+"t": "Western mathematicians fear AI makes them dumber while China builds an entire alliance for it",
+"s": "While 25 Fields Medal winners in the West warn against AI-generated proofs and parts of the community call for a boycott, China is going on the offensive. Fields Medal winner Shing-Tung Yau has launched an alliance of eight institutions and over 1,000 scientists to push AI into math research. The article Western mathematicians fear AI makes them dumber while China builds an entire alliance for it appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3176868": {
+"t": "TechCrunch Disrupt 2026: Day 1",
+"s": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year."
+},
+"https://techcrunch.com/?p=3176969": {
+"t": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+"s": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
+},
+"https://techcrunch.com/?p=3175284": {
+"t": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+"s": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
+},
+"https://techcrunch.com/?p=3176907": {
+"t": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+"s": "The startup will sell some of its assets to Disney for $20 million."
+},
+"https://the-decoder.com/?p=41475": {
+"t": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+"s": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moonshot, and has already banned tens of thousands of accounts. The article Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41470": {
+"t": "Anthropic study warns that small AI models could soon replicate across everyday devices",
+"s": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain. CEO Dario Amodei has warned that a swarm like this could take over the entire internet with a persistent botnet within 6 to 12 months, causing hundreds of billions of dollars in damage. The article Anthropic study warns that small AI models could soon replicate across everyday devices appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82887": {
+"t": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
+"s": "Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application. The post Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB appeared first on MarkTechPost."
+},
+"mix-dont-tune": {
+"t": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
+"s": "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-resource auxiliary language to directly aid the low-resource target. While hyperparameter tuning regularizes the model by shrinking weights to restrict network capacity, auxiliary data mixing uses a tunable mixing ratio to expand the training distribution and diversify the training signal with new…"
 }
 }
