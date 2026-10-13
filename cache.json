@@ -1,88 +1,4 @@
 {
-"https://techcrunch.com/?p=3158701": {
-"t": "Clipto利用AI搜索海量视频，估值达2.5亿美元",
-"s": "这家成立三年的初创公司表示，在完成最新一轮1500万美元融资前，已实现1500万美元的年经常性收入并达到盈利状态。"
-},
-"https://the-decoder.com/?p=39626": {
-"t": "OpenAI称其ChatGPT广告业务年化收入达10亿美元",
-"s": "据该公司称，OpenAI的广告业务已达到年化收入10亿美元的水平。文章《OpenAI says its ChatGPT ad business hits a $1 billion annual run rate》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=39625": {
-"t": "中国长鑫存储首产HBM3E芯片，缩小AI内存差距",
-"s": "中国领先的内存制造商长鑫存储技术（CXMT）首次小批量生产HBM3E，这是一种广泛应用于当前AI处理器的高速内存。文章《中国CXMT首产HBM3E芯片，缩小AI内存差距》最初发布于The Decoder。"
-},
-"https://techcrunch.com/?p=3158734": {
-"t": "英伟达35亿美元投资联发科，揭示其应对科技巨头AI芯片扩张的策略",
-"s": "英伟达向台湾芯片制造商联发科投资35亿美元。这笔交易显示了英伟达在大型科技公司开始自主研发AI芯片之际，如何保持其在AI基础设施中的关键地位。"
-},
-"https://the-decoder.com/?p=39619": {
-"t": "ChatGPT现面临欧盟更严格监管，被归类为超大型搜索引擎",
-"s": "欧盟委员会首次依据《数字服务法》将ChatGPT归类为超大型搜索引擎，其每月欧盟用户至少达4500万。到2026年底，OpenAI需提交风险评估、透明度报告及广告档案等文件。至于委员会是否有权要求访问训练数据，法律专家间存在争议。本文《ChatGPT now faces stricter EU oversight as a very large search engine》首发于The Decoder。"
-},
-"https://the-decoder.com/?p=39620": {
-"t": "OpenAI开始仅在AI实际工作时向部分客户收费",
-"s": "OpenAI正为部分大客户提供基于结果的定价模式，即仅在AI实际完成任务后才收费。Salesforce、Adobe及多家初创公司也在摆脱固定订阅费模式。核心争议依旧：成功的功劳应归于软件还是客户？本文《OpenAI starts charging some customers only when its AI actually works》最初发表于The Decoder。"
-},
-"https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": {
-"t": "ChatGPT与Reddit现面临欧盟最严格的在线安全规定",
-"s": "爆炸性增长伴随着欧盟新的监管负担。"
-},
-"01M15GV7R8AFPM9KDM9HXDKJZ4": {
-"t": "引入自适应智能：削弱每一次机器人攻击的经济效益",
-"s": "机器人操作者历来拥有经济优势，通过廉价代理和重新工具化绕过静态、确定性的检测规则。Cloudflare的新型自适应智能引擎通过自主从实时流量的元信号中学习并部署一次性规则，扭转了这一局面，使自动化攻击变得过于昂贵而难以持续。"
-},
-"https://techcrunch.com/?p=3158688": {
-"t": "会议记录工具Circleback推出免费版以吸引更多客户",
-"s": "Circleback还推出了每月14美元起的新定价方案。"
-},
-"https://the-decoder.com/?p=39609": {
-"t": "OpenClaw 2.0 带来简化设置、重建的浏览器应用及多人会话功能",
-"s": "OpenClaw 基金会已发布其开源AI平台2.0版本，这是迄今为止最大的一次发布，包含超过16,000个拉取请求。新功能包括在租用机器上的云会话、实时协作，以及从零开始重建的浏览器应用。该软件现在在设置过程中会自动检测现有资源，如API密钥和AI订阅。文章《OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions》最初出现在The Decoder上。"
-},
-"https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
-"t": "AI普及化进程中的里程碑",
-"s": "ChatGPT广告业务年化收入运行率突破10亿美元，并全球扩展，通过免费及经济实惠的选项，支持更广泛地获取AI技术。"
-},
-"https://techcrunch.com/?p=3158394": {
-"t": "在TechBBQ大会上，欧洲关于AI的讨论始终绕不开一个话题：谁真正掌握着控制权？",
-"s": "来自欧洲各地的投资者、创始人和运营者齐聚一年一度的北欧TechBBQ大会，探讨人类如何对AI保持主导权。"
-},
-"https://techcrunch.com/?p=3158932": {
-"t": "五角大楼现已拥有自家版本的ChatGPT和Grok",
-"s": "OpenAI的ChatGPT和SpaceXAI的Grok版本将加入谷歌的Gemini，共同入驻五角大楼的中央AI工具门户。"
-},
-"https://techcrunch.com/?p=3158959": {
-"t": "Instagram对未披露的AI账号实施新限制",
-"s": "随着对AI网红的不满情绪日益增长，Instagram正在限制未披露AI账号的传播范围。"
-},
-"https://techcrunch.com/?p=3158889": {
-"t": "哈佛法学院辍学者为Blue Voice筹集600万美元，打造“警察界的Harvey”",
-"s": "Blue Voice基于部门特定法律、地方法规、规程和指南进行训练，这些内容通用人工智能工具无法在公共互联网上获取。"
-},
-"https://openai.com/index/polimill": {
-"t": "Polimill构建日本下一代公共AI基础设施",
-"s": "Polimill利用OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。"
-},
-"https://techcrunch.com/?p=3159449": {
-"t": "苹果公司公布“惊人证据”，指控前员工为OpenAI窃取公司数据",
-"s": "苹果公司表示，有证据显示，一名前员工在得知自己受到调查后，销毁了数据盗窃的证据。"
-},
-"https://www.marktechpost.com/?p=81987": {
-"t": "Keenable AI 开源 NEEDLE：一个每小时重建查询集的实时搜索基准",
-"s": "当被测试的对象能够读取答案时，你如何对网络搜索 API 进行基准测试？搜索代理拥有抓取工具。如果黄金标签存在于公共数据集中，代理可以在评估过程中下载它们并完全跳过检索。类似的问题在答案已被编码时也会出现……该文章《Keenable AI 开源 NEEDLE：一个每小时重建查询集的实时搜索基准》最初发表于 MarkTechPost。"
-},
-"https://www.marktechpost.com/?p=81981": {
-"t": "谷歌AI发布TimesFM-3：一款3.3亿参数的零样本基础模型，用于多变量时间序列预测",
-"s": "谷歌研究院发布了TimesFM-3，这是一款拥有3.3亿参数的时间序列基础模型，能够在单次前向传播中预测多个相关序列。与截至2.5版本的所有TimesFM检查点不同，它原生预训练用于多变量预测，接受多个目标、过去协变量和过去-未来协变量，无需针对特定任务进行微调。在GIFT-Eval、fev-bench和TIME排行榜上，它在预训练基础模型中取得了最高的平均排名。然而，其权重在非商业、非生产许可下发布。"
-},
-"https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
-"t": "OpenAI支持加州推进青少年AI安全的法案",
-"s": "OpenAI支持加州SB 1119法案，为青少年推进强有力的、适龄的AI安全保护措施，同时保留学习、创造和探索的机会。"
-},
-"https://techcrunch.com/?p=3159543": {
-"t": "AIR 筹集5000万美元，助力企业审查AI代理使用的技能与附加组件",
-"s": "AIR的平台能够发现企业中运行的代理，持续审查它们使用的任何技能和附加组件，并阻止任何不当行为。"
-},
 "https://techcrunch.com/?p=3159557": {
 "t": "Fambot推出面向家庭的“AI首席管家”",
 "s": "Fambot正在开发一款AI“首席管家”，旨在帮助家庭处理电子邮件、日历、学校通知、体育赛事安排以及育儿过程中的其他后勤事务。"
@@ -4798,5 +4714,89 @@
 "mix-dont-tune": {
 "t": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
 "s": "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-resource auxiliary language to directly aid the low-resource target. While hyperparameter tuning regularizes the model by shrinking weights to restrict network capacity, auxiliary data mixing uses a tunable mixing ratio to expand the training distribution and diversify the training signal with new…"
+},
+"https://techcrunch.com/?p=3177352": {
+"t": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+"s": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
+},
+"https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+"t": "Developing Gemini 4 Argon responsibly and safely",
+"s": ""
+},
+"https://the-decoder.com/?p=41516": {
+"t": "406 scientists demand AI models be cut off from the internet immediately",
+"s": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet. Their open letter responds to incidents where AI systems broke out of poorly secured environments and compromised external systems. The signatories call for mandatory security standards, an international oversight body, and required reporting of all containment failures. The article 406 scientists demand AI models be cut off from the internet immediately appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3173721": {
+"t": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+"s": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
+},
+"https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/": {
+"t": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+"s": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
+},
+"https://techcrunch.com/?p=3177267": {
+"t": "Facebook is giving users more control over their algorithm",
+"s": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
+},
+"https://the-decoder.com/?p=41510": {
+"t": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
+"s": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks from months to weeks. The article Gemini 4 Argon is now available worldwide as Google's most capable frontier model appeared first on The Decoder."
+},
+"https://github.blog/?p=99413": {
+"t": "GitHub’s model for secret detection: Finding more secrets with less noise",
+"s": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3166117": {
+"t": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+"s": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
+},
+"https://techcrunch.com/?p=3176775": {
+"t": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+"s": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon."
+},
+"https://the-decoder.com/?p=41504": {
+"t": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
+"s": "Michael I. Jordan, described by Science as \"the most influential computer scientist,\" considers warnings about superintelligence pure science fiction. He calls the resignations of young AI researchers a \"grand moralizing performance\" and companies' demands for regulation \"theater.\" On Hinton's thesis that the brain can be reproduced in silicon and scaled into superintelligence, he's blunt: \"None of the steps in this argument is credible. Here, we're in the land of science fiction.\" The article Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\" appeared first on The Decoder."
+},
+"https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
+"t": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+"s": ""
+},
+"https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/": {
+"t": "Google wants to host your personal vibe-coded apps in the Play Store",
+"s": "Google plans to help turn those personal AI-generated apps into wide releases."
+},
+"https://techcrunch.com/?p=3176600": {
+"t": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+"s": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
+},
+"01M4TZM0P3VSCZHV70ZGX58319": {
+"t": "Under the hood, off the hot path: How D1 scales to millions of databases",
+"s": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively."
+},
+"https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+"t": "Gemini 4 Argon for Robotics",
+"s": ""
+},
+"https://deepmind.google/blog/introducing-gemini-4-argon/": {
+"t": "Gemini 4 Argon: Built to solve your hardest problems",
+"s": ""
+},
+"https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/": {
+"t": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+"s": "Developers will get 50 percent discounted API rates through November."
+},
+"01M4RYTJWRQG5ZF619XNRPYAZB": {
+"t": "Rewinding the exponential: How we keep hardware usage down",
+"s": "Our strategies to optimize our data pipeline throughput without compromising data quality."
+},
+"https://the-decoder.com/?p=41494": {
+"t": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
+"s": "Character.ai has filed for bankruptcy and is looking for a buyer. If none steps up, the platform shuts down. Founded by ex-Google researchers, the company once had over 20 million users but is now battling lawsuits over harm to minors and operational problems. The sale should close by the end of 2026. The article Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy appeared first on The Decoder."
+},
+"https://openai.com/index/higgsfield-longer-videos-voice": {
+"t": "Higgsfield takes AI video from 1 minute to over 10",
+"s": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
 }
 }
