@@ -1,32 +1,4 @@
 {
-"https://techcrunch.com/?p=3159557": {
-"t": "Fambot推出面向家庭的“AI首席管家”",
-"s": "Fambot正在开发一款AI“首席管家”，旨在帮助家庭处理电子邮件、日历、学校通知、体育赛事安排以及育儿过程中的其他后勤事务。"
-},
-"https://the-decoder.com/?p=39645": {
-"t": "谷歌选举AI概览不透明，依赖少数来源，有时还选边站",
-"s": "利用欧盟《数字服务法》授予的访问权限，德国倡导组织AlgorithmWatch在谷歌上运行了4480个与选举相关的搜索查询，并分析了返回的AI概览。谷歌显示这些概览时并不一致，且依赖于一小部分来源，其中最主要的是其自家平台YouTube。关于此前针对选举问题AI回答的防护措施是否仍然有效，谷歌未予明确。文章《谷歌选举AI概览不透明，依赖少数来源，有时还选边站》最初发表于The Decoder。"
-},
-"01M1DAE3EH5FEG7RQMQD63A731": {
-"t": "我们如何利用Zstandard和Pingora节省PB级缓存存储",
-"s": "我们能否在相同硬件上获得更多缓存空间？我们在Cloudflare的缓存内部进行了压缩原型测试，以探究这一可能性。"
-},
-"https://the-decoder.com/?p=39643": {
-"t": "Runway的Solaris是一个实时生成软件界面的人工智能系统",
-"s": "人工智能公司Runway发布了Solaris，这是其称为“界面世界模型”新类别中的首个模型。该系统并非运行代码，而是在您与之交互时逐帧生成用户界面。文章《Runway的Solaris是一个实时生成软件界面的人工智能系统》最初出现在The Decoder上。"
-},
-"https://the-decoder.com/?p=39615": {
-"t": "谷歌AI搜索因国籍问题撤回紧急呼叫建议，但仍标记来自Facebook的用户",
-"s": "“请前往安全地点或拨打紧急服务电话”：这是谷歌AI搜索对输入“独自与非洲人、印度人或巴基斯坦人在一起”的用户给出的建议。文章《谷歌AI搜索因国籍问题撤回紧急呼叫建议，但仍标记来自Facebook的用户》最初发表于The Decoder。"
-},
-"https://www.marktechpost.com/?p=81990": {
-"t": "Gradium AI发布新默认TTS模型：216毫秒首音频时间下硬案例通过率达81.0%",
-"s": "在文本转语音领域，速度与准确性通常相互制约。Gradium AI的新默认模型声称两者兼得：在Coval平台上，针对五种语言的500个困难句子，其人工评定的通过率达到81.0%，P50首音频时间为216毫秒。评估数据集已在Hugging Face上以CC BY 4.0许可开放。该文章《Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio》最初发表于MarkTechPost。"
-},
-"https://huggingface.co/blog/webgpu-kernels": {
-"t": "推出 @huggingface/kernels：200多个用于本地AI的WebGPU内核",
-"s": "（无）"
-},
 "https://techcrunch.com/?p=3159727": {
 "t": "谷歌对Canva的回应是一款以提示代替设计的AI工具",
 "s": "通过Google Pics，谷歌正进一步深入由Canva和Adobe主导的创意软件市场，但采用了截然不同的AI优先策略。"
@@ -4798,5 +4770,33 @@
 "https://openai.com/index/higgsfield-longer-videos-voice": {
 "t": "Higgsfield takes AI video from 1 minute to over 10",
 "s": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+},
+"https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+"t": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+"s": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+},
+"https://techcrunch.com/?p=3177396": {
+"t": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+"s": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+},
+"https://techcrunch.com/?p=3177414": {
+"t": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+"s": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+},
+"https://techcrunch.com/?p=3173266": {
+"t": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+"s": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
+},
+"https://www.marktechpost.com/?p=82893": {
+"t": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+"s": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads DeepSWE and SWE-Marathon. The post Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3177406": {
+"t": "Cerebras CEO pushes back on AI doomsday warnings",
+"s": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+},
+"https://www.marktechpost.com/?p=82890": {
+"t": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
+"s": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placements across racks, handle constraints and goal priorities, and compare local search against the exact HiGHS solver using published benchmarks. The post How to Use Meta’s Rebalancer for Task Placement & Optimization appeared first on MarkTechPost."
 }
 }
