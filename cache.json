@@ -1,72 +1,4 @@
 {
-"https://techcrunch.com/?p=3159529": {
-"t": "ChatGPT健康功能新增Epic集成，便于临床医生导入患者数据",
-"s": "OpenAI表示，该集成功能为临床医生提供了对健康记录的只读访问权限。"
-},
-"https://the-decoder.com/?p=39654": {
-"t": "谷歌DeepMind新掌门称前沿AI领导力是唯一重要之事",
-"s": "谷歌DeepMind负责人Koray Kavukcuoglu承认谷歌当前的模型“略低于前沿水平”，但他表示“百分之百确信我们将达到前沿”。不过，他并未分享任何具体的前沿进展来支持这一说法。本文《谷歌DeepMind新掌门称前沿AI领导力是唯一重要之事》最初发表于The Decoder。"
-},
-"https://techcrunch.com/?p=3159706": {
-"t": "红杉孵化的Empirik携2100万美元资金启动，旨在预测故障于未然",
-"s": "这家初创公司希望为IT基础设施领域带来如Cursor对软件工程那样的变革。"
-},
-"https://techcrunch.com/?p=3159627": {
-"t": "亚马逊Alexa现在可以在有新商品可能吸引你购物时提醒你",
-"s": "亚马逊正在推出一项名为“有新消息提醒我”的新Alexa功能，该功能可以发送关于产品发布、巡演、书籍、节目及其他可能引发购买行为的个性化提醒。"
-},
-"https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
-"t": "医疗机构现可将电子健康档案及行业数据接入ChatGPT",
-"s": "ChatGPT现已能够连接可信的医疗健康数据，助力临床医生安全地获取患者背景信息、医学研究等更多内容。"
-},
-"https://techcrunch.com/?p=3159934": {
-"t": "据报道，AfterQuery成为Y Combinator史上最快达到独角兽地位的公司，目前估值达32亿美元",
-"s": "AI模型训练初创公司AfterQuery据报道完成了一轮融资，估值达到32亿美元，距其4月份宣布的3000万美元A轮融资（估值3亿美元）仅过去五个月。"
-},
-"https://huggingface.co/blog/allenai/benchmirt": {
-"t": "BenchMIRT：LLM基准测试究竟在衡量什么？",
-"s": "（无）"
-},
-"https://techcrunch.com/?p=3159895": {
-"t": "OpenAI的Astra模型即将问世——擅长侵入计算机系统",
-"s": "OpenAI预览了其为发布最新、对网络安全至关重要的LLM Astra所采取的预防措施。"
-},
-"https://techcrunch.com/?p=3159905": {
-"t": "谷歌安卓更新应对晕动症、无障碍功能及更多",
-"s": "尽管部分功能显示谷歌在追赶苹果，后者已为iPhone用户提供类似功能，但其他功能则特别利用Gemini来提供多种改进。"
-},
-"https://the-decoder.com/?p=39665": {
-"t": "Anthropic向监管机构、媒体、事实核查人员等开放Claude AI文本检测功能",
-"s": "Anthropic推出了一款API，使监管机构、媒体和研究机构能够检查文本是否带有Claude的数字水印。欧盟《人工智能法案》现要求AI生成的文本包含隐形水印。批评者警告，该技术可能损害文本质量，并在合同禁止使用AI的情况下引发透明度问题。文章《Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others》最初发表于The Decoder。"
-},
-"https://the-decoder.com/?p=39658": {
-"t": "Anthropic的Claude Fable 5.1承诺提升编程与研究能力，成本最高降低45%",
-"s": "Anthropic推出其迄今最强大的AI模型Claude Fable 5.1和Mythos 5.1。Fable 5.1在Terminal-Bench-Science上的得分是前代的两倍，代理编程能力提升超过30%。在涉及大量工具调用的长时间自主运行中，成本最高可降低45%。本文《Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less》首发于The Decoder。"
-},
-"https://techcrunch.com/?p=3159842": {
-"t": "Anthropic新发布的Fable版本更便宜、限制更少",
-"s": "Fable 5.1包含旨在降低令牌成本及减少模型安全防护措施导致的误报限制的改动。"
-},
-"https://openai.com/index/path-to-astra": {
-"t": "通往Astra之路：关键能力与前沿防护措施",
-"s": "Astra是OpenAI首个在《准备框架》下达到关键网络安全能力阈值的模型，并为其发布配备了更强的防护措施。"
-},
-"https://openai.com/index/gilbert-tobin": {
-"t": "律师事务所Gilbert + Tobin如何借助OpenAI治理并扩展AI应用",
-"s": "了解Gilbert + Tobin如何结合CEO主导的承诺、严格的治理和人类问责制，在全所范围内推广ChatGPT Enterprise和Codex。"
-},
-"https://techcrunch.com/?p=3160035": {
-"t": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-"s": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others."
-},
-"https://techcrunch.com/?p=3160055": {
-"t": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-"s": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
-},
-"https://the-decoder.com/?p=39705": {
-"t": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
-"s": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=39700": {
 "t": "Protests against AI data centers play into China's hands, Trump says",
 "s": "President Trump has pushed back hard against growing opposition to AI data centers across the US. The article Protests against AI data centers play into China's hands, Trump says appeared first on The Decoder."
@@ -4798,5 +4730,73 @@
 "https://www.marktechpost.com/?p=82905": {
 "t": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
 "s": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. The post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/allenai/hiro-acev2": {
+"t": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+"s": ""
+},
+"https://techcrunch.com/?p=3177470": {
+"t": "Deezer will soon let you filter out AI-generated music",
+"s": "Deezer said that the new toggle will be rolled out by the end of the year."
+},
+"https://techcrunch.com/?p=3177466": {
+"t": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+"s": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
+},
+"https://techcrunch.com/?p=3177533": {
+"t": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+"s": "Zenzap is used by organizations including Starbucks and Taco Bell."
+},
+"https://techcrunch.com/?p=3173327": {
+"t": "Floqer’s AI agents research sales prospects so teams don’t have to",
+"s": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
+},
+"https://techcrunch.com/?p=3177501": {
+"t": "TechCrunch Disrupt 2026: Day 2",
+"s": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass."
+},
+"https://the-decoder.com/?p=41530": {
+"t": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+"s": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap. The article Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41524": {
+"t": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
+"s": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process. The article AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap appeared first on The Decoder."
+},
+"01M4VK1MXKAPMWG5QXYBFK222G": {
+"t": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+"s": "While adding MySQL support to Hyperdrive, we found a subtle protocol bug when caching query results. Here is how we tracked down a 0.001% rate error and made Hyperdrive MySQL generally available."
+},
+"https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": {
+"t": "Anthropic warns small AI models could self-replicate through IoT devices",
+"s": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
+},
+"https://the-decoder.com/?p=41519": {
+"t": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
+"s": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he faces up to five years in prison. The article Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account appeared first on The Decoder."
+},
+"https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
+"t": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+"s": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes."
+},
+"https://techcrunch.com/?p=3177088": {
+"t": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+"s": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
+},
+"https://openai.com/index/third-moment-research": {
+"t": "How Third Moment Research runs 10,000 agents for 36+ hours",
+"s": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+},
+"tri-modal-masked-diffusion": {
+"t": "The Design Space of Tri-Modal Masked Diffusion Models",
+"s": "Discrete diffusion models have emerged as strong alternatives to autoregressive language models, with recent work initializing and finetuning a base unimodal model for bi-modal generation. Diverging from previous approaches, we introduce the first tri-modal Masked Diffusion Models (MDM) pretrained from scratch on text, image-text, and audio-text data. We systematically analyze multimodal scaling laws, modality mixing ratios, noise schedules, batch-size effects and provide optimized inference sampling defaults. Our batch-size analysis yields a novel stochastic differential equation (SDE) based…"
+},
+"code-switching-detection": {
+"t": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models",
+"s": "Code-switching (CS), the alternation between languages within an utterance, is common in multilingual speech but underrepresented in pretraining corpora. Increasing CS coverage requires finding relevant utterances in large speech collections so that they can be included in training data. One way to find such utterances is to transcribe the speech and detect language alternation in the text, but this depends on obtaining accurate multilingual transcriptions. We propose a lightweight method that detects CS directly from speech. It uses frame-level language information in pretrained speech…"
+},
+"https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+"t": "The EU’s next chapter in AI is agentic",
+"s": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
 }
 }
