@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 14 Oct 2026 02:53:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 09:10:00 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked</title>
+<link>https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82912</guid>
+<pubDate>Wed, 14 Oct 2026 08:57:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment. The post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents</title>
+<link>https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82909</guid>
+<pubDate>Wed, 14 Oct 2026 07:50:40 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Releases Gemini 4 Argon API With 1M Token Output Limit</title>
+<link>https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82905</guid>
+<pubDate>Wed, 14 Oct 2026 05:03:34 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. The post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
 <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
@@ -462,30 +486,6 @@
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】Large Language Models (LLMs) are considered to be a more efficient and cost-effective alternative to human judgment for Machine Translation (MT) evaluation. With MT evaluation spanning a large number of language pairs, domains and levels of annotation granularity, LLMs must be thoroughly evaluated across these dimensions before being reliably used as alternatives to human evaluation. In this paper, we evaluate the performance of LLMs for two prominent MT quality evaluation schemes: Multidimensional Quality Metrics (MQM) and Error Span Annotation (ESA) by comparing their agreement with human…<br/><br/><a href="https://machinelearning.apple.com/research/llm-translation-quality-annotation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices</title>
-<link>https://machinelearning.apple.com/research/distributed-gpu-cloud</link>
-<guid isPermaLink="false">distributed-gpu-cloud</guid>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, including high cost, limited elasticity, and long wait times under resource constraints. At the same time, modern Apple Silicon–based macOS devices are equipped with powerful GPUs that remain largely idle during normal usage. This paper presents Minions, a dynamic and distributed virtual GPU cloud that aggregates idle Apple Silicon GPUs across macOS devices to execute large-scale machine learning inference workloads. Minions enables teams to leverage existing…<br/><br/><a href="https://machinelearning.apple.com/research/distributed-gpu-cloud">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Self-Compacting Language Model Agents</title>
-<link>https://machinelearning.apple.com/research/self-compacting-language-agents</link>
-<guid isPermaLink="false">self-compacting-language-agents</guid>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it with fixed-interval compaction triggered at a token threshold. Such triggers pay no heed to trajectory structure, risking discard of partial results mid-derivation or mid-search. We propose SELFCOMPACT, a scaffold that allows the model itself to decide when and how to compact. Specifically, it pairs two inference-time elements: (i) a compaction tool the model invokes to summarize the accumulated…<br/><br/><a href="https://machinelearning.apple.com/research/self-compacting-language-agents">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text</title>
-<link>https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82856</guid>
-<pubDate>Sun, 11 Oct 2026 23:15:52 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

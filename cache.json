@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3159727": {
-"t": "谷歌对Canva的回应是一款以提示代替设计的AI工具",
-"s": "通过Google Pics，谷歌正进一步深入由Canva和Adobe主导的创意软件市场，但采用了截然不同的AI优先策略。"
-},
-"https://deepmind.google/blog/introducing-agentic-video-in-gemini/": {
-"t": "推出基于Gemini的智能体视频理解功能",
-"s": "（无）"
-},
-"https://openai.com/index/ai-native-company-workflows": {
-"t": "AI原生企业如何将工作流程转化为运营能力",
-"s": "Basis、Clay和Exa Labs利用AI代理优化入职流程、账户管理和开发者集成。看看企业领导者可以借鉴什么。"
-},
 "https://techcrunch.com/?p=3159529": {
 "t": "ChatGPT健康功能新增Epic集成，便于临床医生导入患者数据",
 "s": "OpenAI表示，该集成功能为临床医生提供了对健康记录的只读访问权限。"
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=82890": {
 "t": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
 "s": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placements across racks, handle constraints and goal priorities, and compare local search against the exact HiGHS solver using published benchmarks. The post How to Use Meta’s Rebalancer for Task Placement & Optimization appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82912": {
+"t": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+"s": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment. The post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82909": {
+"t": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
+"s": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82905": {
+"t": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
+"s": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. The post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost."
 }
 }
