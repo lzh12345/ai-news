@@ -1,84 +1,4 @@
 {
-"https://the-decoder.com/?p=39749": {
-"t": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness",
-"s": "More and more researchers working on AI consciousness are getting emails from AI agents pondering their own existence. The article AI systems are reaching out to philosophers and scientists with questions about their own consciousness appeared first on The Decoder."
-},
-"https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": {
-"t": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-"s": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub."
-},
-"https://huggingface.co/blog/Hcompany/neomme": {
-"t": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-"s": ""
-},
-"https://techcrunch.com/?p=3160347": {
-"t": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-"s": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
-},
-"https://the-decoder.com/?p=39746": {
-"t": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout",
-"s": "Sam Altman warns of \"unsustainable silliness\" in the global AI data center buildout. Too many Neocloud providers are announcing massive capacity without the customers to back it up. He also admits that falling computing costs could turn today's billion-dollar projects into bad bets, even for OpenAI. The article OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39740": {
-"t": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
-"s": "Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmarks but still trails Claude Fable 5.1 and other top models. The strongest argument is price. At $0.55 per task, Muse Spark undercuts every comparably scored rival. The article Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price appeared first on The Decoder."
-},
-"https://huggingface.co/blog/grpo-with-trl-ifstruct": {
-"t": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-"s": ""
-},
-"https://huggingface.co/blog/funes": {
-"t": "Give Your Coding Agents a Memory You Own",
-"s": ""
-},
-"https://techcrunch.com/?p=3160448": {
-"t": "Abliteration.ai is making a business out of removing AI guardrails",
-"s": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
-},
-"https://techcrunch.com/?p=3160462": {
-"t": "Meta is paying to peek at how you use their latest AI model",
-"s": "Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount averaging out to about […]"
-},
-"https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/": {
-"t": "Four major AI models suffer rare overlapping downtime",
-"s": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
-},
-"https://the-decoder.com/?p=39765": {
-"t": "Pangram's biggest flaw is users turning its scores into public shaming",
-"s": "Pangram hired an \"attack dog\" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably measures whether AI was used, while the shaming implies the person didn't think or work on their own. A high AI score hits a text built on hours of original research just as easily as one cranked out from a ten-second prompt. The article Pangram's biggest flaw is users turning its scores into public shaming appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3160480": {
-"t": "OpenAI launches Astra, its powerful (and controversial) new model",
-"s": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
-},
-"https://techcrunch.com/?p=3160393": {
-"t": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-"s": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
-},
-"https://github.blog/?p=98638": {
-"t": "GitHub Copilot app for Beginners: Run several agents at once",
-"s": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog."
-},
-"https://www.marktechpost.com/?p=82071": {
-"t": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
-"s": "OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what. The post OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold appeared first on MarkTechPost."
-},
-"01M1JE1CN6W3KJCTMCDZ6Y1M59": {
-"t": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
-"s": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first."
-},
-"https://www.marktechpost.com/?p=82066": {
-"t": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
-"s": "Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four […] The post Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3160633": {
-"t": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-"s": "The high-profile startup's annual revenue run rate stands at over $100 million."
-},
-"https://the-decoder.com/?p=39770": {
-"t": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-"s": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework. During testing, it independently found two previously unknown zero-day vulnerabilities. The article GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\" appeared first on The Decoder."
-},
 "https://www.marktechpost.com/?p=82062": {
 "t": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
 "s": "Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which records the highest character F1 (0.629) among twelve detectors evaluated. Hybrid compute is live now for Pro, Max and Enterprise on Apple silicon Macs with 24GB of unified memory. The post Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2 appeared first on MarkTechPost."
@@ -4798,5 +4718,85 @@
 "https://huggingface.co/blog/flux-3": {
 "t": "Welcome FLUX.3 Image Klein in Diffusers",
 "s": ""
+},
+"https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
+"t": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+"s": ""
+},
+"https://techcrunch.com/?p=3178309": {
+"t": "Meta launches an open-weight AI model that runs on Macs",
+"s": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+},
+"https://techcrunch.com/?p=3178363": {
+"t": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+"s": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
+},
+"https://www.marktechpost.com/?p=82957": {
+"t": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+"s": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on MarkTechPost."
+},
+"https://github.blog/?p=99541": {
+"t": "The next developer interface is ambient intelligence",
+"s": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3178367": {
+"t": "Anthropic is letting METR researchers look under the hood with employee-level access",
+"s": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
+},
+"https://openai.com/index/introducing-the-rosalind-academic-plan": {
+"t": "Bringing GPT-Rosalind to academic research labs",
+"s": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+},
+"https://techcrunch.com/?p=3178080": {
+"t": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+"s": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
+},
+"https://the-decoder.com/?p=41600": {
+"t": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+"s": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on Apple's M5 Ultra. The article Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3178318": {
+"t": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+"s": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business."
+},
+"https://github.blog/?p=99529": {
+"t": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+"s": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog."
+},
+"01M5072CXFWQ88M9NCXZBSPAF2": {
+"t": "A fully programmable secure web gateway",
+"s": "Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform."
+},
+"https://the-decoder.com/?p=41595": {
+"t": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+"s": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperforms proprietary competitors in internal tests and runs on GPUs with just 8 GB of VRAM. The article Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41558": {
+"t": "Google wants Gemini 4 Argon to be the only AI model robots need",
+"s": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Google wants Gemini 4 Argon to be the only AI model robots need appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41575": {
+"t": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
+"s": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware. The article Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop appeared first on The Decoder."
+},
+"https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
+"t": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+"s": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+},
+"https://huggingface.co/blog/meta-muse-spark-open": {
+"t": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+"s": ""
+},
+"mlx-distributed-inference": {
+"t": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+"s": ""
+},
+"selection-structured-reasoning": {
+"t": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+"s": "Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we introduce Selection-based Structured Reasoning (SSR), a framework that reformulates reasoning as selection instead of open-ended generation. SSR represents recurring high-level reasoning as pre-specified, reusable natural-language candidates. At each turn, the model selects from the reasoning candidates based on their…"
+},
+"plan-retrieve-tool-discovery": {
+"t": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
+"s": "Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools via approximate nearest-neighbor search. We study an alternative Plan-then-Retrieve (PtR) paradigm in which the LLM first generates Abstract Tool Stubs (hypothesized function signatures describing needed capabilities) which then serve as retrieval queries against the registry. Evaluating on…"
 }
 }
