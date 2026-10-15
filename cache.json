@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?post_type=tc_podcast&p=3160051": {
-"t": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-"s": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]"
-},
-"https://techcrunch.com/?p=3160050": {
-"t": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-"s": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads."
-},
-"https://the-decoder.com/?p=39718": {
-"t": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
-"s": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its \"working harder\" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite identical token rates. The article Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA appeared first on The Decoder."
-},
 "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": {
 "t": "Proactive cyber defense for governments and enterprises",
 "s": ""
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/block-ai-powered-security": {
 "t": "How Block is building AI-powered security with OpenAI technology",
 "s": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+},
+"https://www.marktechpost.com/?p=82937": {
+"t": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
+"s": "TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82932": {
+"t": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
+"s": "SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial Analysis Speech-to-Speech Index with a score of 86.9. For developers, the endpoint, events and $0.08 per minute price are unchanged from Grok Voice 2.0. TL;DR What is […] The post Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3177541": {
+"t": "Figma announces new features to define how agents work on its platform",
+"s": "Figma is also releasing its code layers feature in open beta."
 }
 }

@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 15 Oct 2026 02:32:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 08:42:52 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context</title>
+<link>https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82937</guid>
+<pubDate>Thu, 15 Oct 2026 05:45:03 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis</title>
+<link>https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82932</guid>
+<pubDate>Thu, 15 Oct 2026 05:18:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial Analysis Speech-to-Speech Index with a score of 86.9. For developers, the endpoint, events and $0.08 per minute price are unchanged from Grok Voice 2.0. TL;DR What is […] The post Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Figma announces new features to define how agents work on its platform</title>
+<link>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3177541</guid>
+<pubDate>Thu, 15 Oct 2026 04:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Figma is also releasing its code layers feature in open beta.<br/><br/><a href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis</title>
 <link>https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/</link>
@@ -296,14 +320,6 @@
 <description><![CDATA[【marktechpost.com】Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. The post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
-<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
-<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.<br/><br/><a href="https://deepmind.google/blog/on-device-ai-scam-detection-mddi/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>The Design Space of Tri-Modal Masked Diffusion Models</title>
 <link>https://machinelearning.apple.com/research/tri-modal-masked-diffusion</link>
 <guid isPermaLink="false">tri-modal-masked-diffusion</guid>
@@ -384,14 +400,6 @@
 <description><![CDATA[【techcrunch.com】A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.<br/><br/><a href="https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Developing Gemini 4 Argon responsibly and safely</title>
-<link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</guid>
-<pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>406 scientists demand AI models be cut off from the internet immediately</title>
 <link>https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=41516</guid>
@@ -446,14 +454,6 @@
 <pubDate>Tue, 13 Oct 2026 17:30:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.<br/><br/><a href="https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
-<link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3176775</guid>
-<pubDate>Tue, 13 Oct 2026 17:18:25 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.<br/><br/><a href="https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as &quot;grand moralizing performance&quot;</title>
