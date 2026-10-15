@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 14 Oct 2026 22:53:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 02:32:38 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis</title>
+<link>https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3177960</guid>
+<pubDate>Thu, 15 Oct 2026 01:01:32 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.<br/><br/><a href="https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gudea leverages AI to help organizations prevent social media crises before they erupt</title>
+<link>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3175869</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]<br/><br/><a href="https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers</title>
+<link>https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82919</guid>
+<pubDate>Wed, 14 Oct 2026 23:37:25 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model</title>
+<link>https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82916</guid>
+<pubDate>Wed, 14 Oct 2026 22:52:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license. The post Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Flock CEO says its microphones detect ‘just gunshots’ — its website says different</title>
 <link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</link>
@@ -248,6 +280,14 @@
 <description><![CDATA[【openai.com】With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.<br/><br/><a href="https://openai.com/index/third-moment-research">阅读原文</a>]]></description>
 </item>
 <item>
+<title>How Block is building AI-powered security with OpenAI technology</title>
+<link>https://openai.com/index/block-ai-powered-security</link>
+<guid isPermaLink="false">https://openai.com/index/block-ai-powered-security</guid>
+<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.<br/><br/><a href="https://openai.com/index/block-ai-powered-security">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Google Releases Gemini 4 Argon API With 1M Token Output Limit</title>
 <link>https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=82905</guid>
@@ -440,52 +480,12 @@
 <description><![CDATA[【arstechnica.com】Google plans to help turn those personal AI-generated apps into wide releases.<br/><br/><a href="https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google Play now lets anyone build private, vibe-coded apps that run on Android</title>
-<link>https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3176600</guid>
-<pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.<br/><br/><a href="https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites</title>
-<link>https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3172378</guid>
-<pubDate>Tue, 13 Oct 2026 16:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.<br/><br/><a href="https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Under the hood, off the hot path: How D1 scales to millions of databases</title>
 <link>https://blog.cloudflare.com/d1-control-plane/</link>
 <guid isPermaLink="false">01M4TZM0P3VSCZHV70ZGX58319</guid>
 <pubDate>Tue, 13 Oct 2026 16:20:18 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively.<br/><br/><a href="https://blog.cloudflare.com/d1-control-plane/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gemini 4 Argon for Robotics</title>
-<link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
-<pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-4-argon-for-robotics/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gemini 4 Argon: Built to solve your hardest problems</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
-<pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-4-argon/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay</title>
-<link>https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/</guid>
-<pubDate>Tue, 13 Oct 2026 16:00:02 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Developers will get 50 percent discounted API rates through November.<br/><br/><a href="https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
