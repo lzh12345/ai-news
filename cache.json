@@ -1,68 +1,4 @@
 {
-"https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": {
-"t": "Proactive cyber defense for governments and enterprises",
-"s": ""
-},
-"https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": {
-"t": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-"s": ""
-},
-"https://techcrunch.com/?p=3160084": {
-"t": "Wonderful more than doubles its valuation to $5B in under 6 months",
-"s": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
-},
-"https://techcrunch.com/?p=3160089": {
-"t": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-"s": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
-},
-"refactor-vla-motor-programs": {
-"t": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs",
-"s": "Most current vision-language-action (VLA) models—such as OpenVLA, π0, RT-2, and RDT-1B—are “monolithic.” This means they generate raw motor commands or very short sequences of actions, without organizing behaviors into reusable, well-defined abstractions. As a result, these models perform poorly on long-horizon (multi-step) tasks, and it’s difficult to interpret what they have learned. Existing approaches for discovering skills often avoid the core problem of deciding when two action sequences are “behaviorally equivalent.” For example, AtomicVLA and AtomSkill group action sequences by…"
-},
-"https://github.blog/?p=98631": {
-"t": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-"s": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3160225": {
-"t": "OpenAI’s new reasoning technique alarms AI safety experts",
-"s": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
-},
-"https://techcrunch.com/?p=3137969": {
-"t": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-"s": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
-},
-"https://techcrunch.com/?p=3160290": {
-"t": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-"s": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
-},
-"https://openai.com/index/atv-big-air-tour": {
-"t": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-"s": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
-},
-"https://the-decoder.com/?p=39735": {
-"t": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal",
-"s": "Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider. The article Anthropic ramps up Claude infrastructure with $35 billion Lambda deal appeared first on The Decoder."
-},
-"https://huggingface.co/blog/train-to-paint-with-code": {
-"t": "Training a coding model to paint watercolours with TRL and OpenEnv",
-"s": ""
-},
-"https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": {
-"t": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-"s": ""
-},
-"https://techcrunch.com/?p=3160336": {
-"t": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-"s": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding […]"
-},
-"https://the-decoder.com/?p=39757": {
-"t": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
-"s": "Nvidia plans to acquire Hugging Face for about $12.9 billion, securing the central platform for open AI models. More than 18 million developers and 200,000 companies use the hub. CEO Jensen Huang promises to keep the platform open and hardware-neutral, but the deal also hands him a powerful distribution channel for compute. The article Nvidia buys the front door to open AI as closed labs increasingly design their own silicon appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39753": {
-"t": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653",
-"s": "Anthropic's Claude Fable 5.1 appears to have cracked a centuries-old number puzzle that researchers considered unsolved. The article Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653 appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=39749": {
 "t": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness",
 "s": "More and more researchers working on AI consciousness are getting emails from AI agents pondering their own existence. The article AI systems are reaching out to philosophers and scientists with questions about their own consciousness appeared first on The Decoder."
@@ -4798,5 +4734,69 @@
 "https://techcrunch.com/?p=3177541": {
 "t": "Figma announces new features to define how agents work on its platform",
 "s": "Figma is also releasing its code layers feature in open beta."
+},
+"https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/": {
+"t": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+"s": "FTC may fine AI firms on par with companies that delay data breach reports."
+},
+"https://the-decoder.com/?p=41556": {
+"t": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
+"s": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports. The article Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41557": {
+"t": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
+"s": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors. But the researchers say physics hasn't had a breakthrough like the ones in mathematics, because the agents lack \"taste.\" They still think autonomous, top-level AI research could arrive soon. They already see consequences for how young physicists are trained and for equal opportunity in the field. The article GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/": {
+"t": "Singer or clanker? YouTube Music will tell you with new gen AI labeling",
+"s": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon."
+},
+"https://techcrunch.com/?p=3177351": {
+"t": "AI agents are coming to Rivian’s cars",
+"s": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
+},
+"https://techcrunch.com/?p=3178088": {
+"t": "Google’s Universal Cart shopping tool launches in the US",
+"s": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+},
+"https://www.marktechpost.com/?p=82947": {
+"t": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
+"s": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter most, often hundreds or thousands of hand-written […] The post CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3178027": {
+"t": "TechCrunch Disrupt 2026: Last day",
+"s": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+},
+"01M4EX2BRJ7RNGAPQTBRXWRYT1": {
+"t": "Deploy with Void",
+"s": "Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare."
+},
+"https://www.marktechpost.com/?p=82941": {
+"t": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
+"s": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and Intelligent Space The post openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026 appeared first on MarkTechPost."
+},
+"https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+"t": "Teaching students to think and learn through questions",
+"s": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+},
+"01M4YQC31GRHMR5V2624TPHTH7": {
+"t": "Cloudflare and OpenAI: making AI discovery better for everyone",
+"s": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike."
+},
+"https://techcrunch.com/?p=3177560": {
+"t": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+"s": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99."
+},
+"https://the-decoder.com/?p=41553": {
+"t": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+"s": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now expect the company's valuation to drop below $1.5 trillion. Slowing growth and a tough market are cooling expectations for the AI boom's biggest Wall Street test yet. The article Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO appeared first on The Decoder."
+},
+"https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
+"t": "Apertus 1.5 Release Notes",
+"s": ""
+},
+"https://huggingface.co/blog/flux-3": {
+"t": "Welcome FLUX.3 Image Klein in Diffusers",
+"s": ""
 }
 }
