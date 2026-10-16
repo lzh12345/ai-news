@@ -1,12 +1,4 @@
 {
-"https://openai.com/index/playco-game-prototyping-with-astra": {
-"t": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-"s": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-},
-"https://www.marktechpost.com/?p=82054": {
-"t": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon",
-"s": "Perplexity has open sourced Lily, the local inference engine behind Hybrid Compute in Perplexity Computer. Built in Rust with custom Metal kernels for one model on one chip family, it averages 1.23x MLX-LM's prefill throughput and 1.35x its decode throughput on a 40-core, 128 GB M5 Max. The post Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon appeared first on MarkTechPost."
-},
 "https://openai.com/index/safety-overview-gpt-6-astra": {
 "t": "Safety overview: GPT-6 Astra",
 "s": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
@@ -4798,5 +4790,13 @@
 "https://openai.com/index/sullivan-cromwell": {
 "t": "Sullivan & Cromwell brings legal expertise into agreement review",
 "s": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+},
+"https://www.marktechpost.com/?p=82963": {
+"t": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
+"s": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82960": {
+"t": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
+"s": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost."
 }
 }
