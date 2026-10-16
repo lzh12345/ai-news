@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 15 Oct 2026 22:47:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 02:27:20 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+<link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+<guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
+<pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/scaling-indic-pretraining">阅读原文</a>]]></description>
+</item>
+<item>
+<title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
+<link>https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3178431</guid>
+<pubDate>Thu, 15 Oct 2026 23:44:56 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.<br/><br/><a href="https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
 <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
@@ -128,14 +144,6 @@
 <description><![CDATA[【the-decoder.com】With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware. The article Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
-<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
-<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.<br/><br/><a href="https://deepmind.google/blog/accelerating-antimicrobial-discovery/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
 <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</guid>
@@ -248,14 +256,6 @@
 <description><![CDATA[【the-decoder.com】Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now expect the company's valuation to drop below $1.5 trillion. Slowing growth and a tough market are cooling expectations for the AI boom's biggest Wall Street test yet. The article Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Apertus 1.5 Release Notes</title>
-<link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
-<guid isPermaLink="false">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
-<pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes">阅读原文</a>]]></description>
-</item>
-<item>
 <title>TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context</title>
 <link>https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=82937</guid>
@@ -326,6 +326,14 @@
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools via approximate nearest-neighbor search. We study an alternative Plan-then-Retrieve (PtR) paradigm in which the LLM first generates Abstract Tool Stubs (hypothesized function signatures describing needed capabilities) which then serve as retrieval queries against the registry. Evaluating on…<br/><br/><a href="https://machinelearning.apple.com/research/plan-retrieve-tool-discovery">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Sullivan &amp; Cromwell brings legal expertise into agreement review</title>
+<link>https://openai.com/index/sullivan-cromwell</link>
+<guid isPermaLink="false">https://openai.com/index/sullivan-cromwell</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.<br/><br/><a href="https://openai.com/index/sullivan-cromwell">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Gudea leverages AI to help organizations prevent social media crises before they erupt</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 14 Oct 2026 15:08:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Zenzap is used by organizations including Starbucks and Taco Bell.<br/><br/><a href="https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Floqer’s AI agents research sales prospects so teams don’t have to</title>
-<link>https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3173327</guid>
-<pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.<br/><br/><a href="https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

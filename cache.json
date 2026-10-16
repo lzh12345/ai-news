@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82062": {
-"t": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
-"s": "Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which records the highest character F1 (0.629) among twelve detectors evaluated. Hybrid compute is live now for Pro, Max and Enterprise on Apple silicon Macs with 24GB of unified memory. The post Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2 appeared first on MarkTechPost."
-},
-"https://openai.com/index/daybreak-for-frontline-defenders": {
-"t": "Daybreak for Frontline Defenders: $1B to protect essential services",
-"s": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-},
-"https://openai.com/index/legora-financial-statement-review-with-astra": {
-"t": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-"s": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-},
 "https://openai.com/index/playco-game-prototyping-with-astra": {
 "t": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
 "s": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
@@ -4798,5 +4786,17 @@
 "plan-retrieve-tool-discovery": {
 "t": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
 "s": "Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools via approximate nearest-neighbor search. We study an alternative Plan-then-Retrieve (PtR) paradigm in which the LLM first generates Abstract Tool Stubs (hypothesized function signatures describing needed capabilities) which then serve as retrieval queries against the registry. Evaluating on…"
+},
+"https://huggingface.co/blog/nvidia/scaling-indic-pretraining": {
+"t": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+"s": ""
+},
+"https://techcrunch.com/?p=3178431": {
+"t": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+"s": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
+},
+"https://openai.com/index/sullivan-cromwell": {
+"t": "Sullivan & Cromwell brings legal expertise into agreement review",
+"s": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
 }
 }
