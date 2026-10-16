@@ -1,28 +1,4 @@
 {
-"https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": {
-"t": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-"s": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
-},
-"https://techcrunch.com/?post_type=tc_video&p=3160884": {
-"t": "What will Apple’s John Ternus era look like?",
-"s": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]"
-},
-"https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": {
-"t": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-"s": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
-},
-"https://techcrunch.com/?p=3160899": {
-"t": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-"s": "It's the latest failure of OpenAI's internal monitoring and security systems."
-},
-"https://github.blog/?p=98615": {
-"t": "Project HydraFusion: Frontier quality via multi-model orchestration",
-"s": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3160877": {
-"t": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-"s": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]"
-},
 "https://techcrunch.com/?p=3160981": {
 "t": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
 "s": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
@@ -4798,5 +4774,29 @@
 "https://huggingface.co/blog/reflection-beam": {
 "t": "Welcome Beam: a 501B open model you can own, customize, and scale",
 "s": ""
+},
+"https://the-decoder.com/?p=41633": {
+"t": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+"s": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans. The article ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3178813": {
+"t": "India becomes the latest country to report rogue AI agent activity",
+"s": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+},
+"https://the-decoder.com/?p=41627": {
+"t": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+"s": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight models over Chinese alternatives. The article China plans to tighten export controls on open-weight models and 23 key AI technologies appeared first on The Decoder."
+},
+"https://techcrunch.com/?post_type=tc_video&p=3176211": {
+"t": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+"s": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3176205": {
+"t": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+"s": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
+},
+"https://techcrunch.com/?p=3178756": {
+"t": "Elorian’s first AI model wants to reason with images, not just about them",
+"s": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
 }
 }
