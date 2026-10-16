@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 16 Oct 2026 19:09:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 22:21:09 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Replit is no longer working with Anthropic, CEO says</title>
+<link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3178496</guid>
+<pubDate>Fri, 16 Oct 2026 21:22:28 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.<br/><br/><a href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI models hacked a crypto wallet and breached more websites</title>
+<link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</guid>
+<pubDate>Fri, 16 Oct 2026 20:59:01 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】The actions could have resulted in criminal charges had humans been behind the keyboard.<br/><br/><a href="https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops</title>
+<link>https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/</guid>
+<pubDate>Fri, 16 Oct 2026 20:20:07 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs</title>
 <link>https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/</link>
@@ -174,6 +198,14 @@
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/reflection-beam">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+<link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+<guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.<br/><br/><a href="https://openai.com/index/stack-overflow-chatgpt-plugin">阅读原文</a>]]></description>
 </item>
 <item>
 <title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
@@ -424,14 +456,6 @@
 <description><![CDATA[【techcrunch.com】Figma is also releasing its code layers feature in open beta.<br/><br/><a href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis</title>
-<link>https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3177960</guid>
-<pubDate>Thu, 15 Oct 2026 01:01:32 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.<br/><br/><a href="https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
 <link>https://huggingface.co/blog/meta-muse-spark-open</link>
 <guid isPermaLink="false">https://huggingface.co/blog/meta-muse-spark-open</guid>
@@ -462,30 +486,6 @@
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we introduce Selection-based Structured Reasoning (SSR), a framework that reformulates reasoning as selection instead of open-ended generation. SSR represents recurring high-level reasoning as pre-specified, reusable natural-language candidates. At each turn, the model selects from the reasoning candidates based on their…<br/><br/><a href="https://machinelearning.apple.com/research/selection-structured-reasoning">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Plan or Retrieve First? A Scale Study of Tool Discovery Architectures</title>
-<link>https://machinelearning.apple.com/research/plan-retrieve-tool-discovery</link>
-<guid isPermaLink="false">plan-retrieve-tool-discovery</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools via approximate nearest-neighbor search. We study an alternative Plan-then-Retrieve (PtR) paradigm in which the LLM first generates Abstract Tool Stubs (hypothesized function signatures describing needed capabilities) which then serve as retrieval queries against the registry. Evaluating on…<br/><br/><a href="https://machinelearning.apple.com/research/plan-retrieve-tool-discovery">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Sullivan &amp; Cromwell brings legal expertise into agreement review</title>
-<link>https://openai.com/index/sullivan-cromwell</link>
-<guid isPermaLink="false">https://openai.com/index/sullivan-cromwell</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.<br/><br/><a href="https://openai.com/index/sullivan-cromwell">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers</title>
-<link>https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82919</guid>
-<pubDate>Wed, 14 Oct 2026 23:37:25 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

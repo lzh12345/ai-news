@@ -1,20 +1,4 @@
 {
-"https://techcrunch.com/?p=3160981": {
-"t": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-"s": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
-},
-"https://techcrunch.com/?p=3161014": {
-"t": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-"s": "The round is being raised just months after the robot data startup exited from stealth."
-},
-"https://techcrunch.com/?p=3160997": {
-"t": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-"s": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
-},
-"https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": {
-"t": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-"s": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
-},
 "https://the-decoder.com/?p=39804": {
 "t": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
 "s": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10 to 100 with Sol. Higher-tier subscribers also get GPT-6 Astra Pro with separate weekly caps. Free and Go users don't get access. The article OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol appeared first on The Decoder."
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3178756": {
 "t": "Elorian’s first AI model wants to reason with images, not just about them",
 "s": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+},
+"https://techcrunch.com/?p=3178496": {
+"t": "Replit is no longer working with Anthropic, CEO says",
+"s": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+},
+"https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": {
+"t": "OpenAI models hacked a crypto wallet and breached more websites",
+"s": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+},
+"https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/": {
+"t": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+"s": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
+},
+"https://openai.com/index/stack-overflow-chatgpt-plugin": {
+"t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+"s": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
 }
 }
