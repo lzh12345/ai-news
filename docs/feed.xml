@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 17 Oct 2026 14:43:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 18:03:56 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet</title>
+<link>https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41671</guid>
+<pubDate>Sat, 17 Oct 2026 15:36:11 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without mentioning the unauthorized access. The article An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes</title>
+<link>https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41667</guid>
+<pubDate>Sat, 17 Oct 2026 14:42:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under 30 minutes that the seeds came from "lrand48," a simple C random number generator, making deliberate backdoors far less likely. The article Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs</title>
 <link>https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/</link>
@@ -208,14 +224,6 @@
 <description><![CDATA[【the-decoder.com】OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic gives METR inside access to audit its AI models and safety practices</title>
-<link>https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41608</guid>
-<pubDate>Fri, 16 Oct 2026 13:11:55 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Continuous accountability for Verified bots</title>
 <link>https://blog.cloudflare.com/verified-bots-accountability/</link>
 <guid isPermaLink="false">01M510YDY2PS6BYR03DF8HHG2D</guid>
@@ -352,14 +360,6 @@
 <description><![CDATA[【techcrunch.com】Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.<br/><br/><a href="https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race</title>
-<link>https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41600</guid>
-<pubDate>Thu, 15 Oct 2026 18:34:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on Apple's M5 Ultra. The article Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16</title>
 <link>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3178318</guid>
@@ -382,6 +382,14 @@
 <pubDate>Thu, 15 Oct 2026 17:11:12 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.<br/><br/><a href="https://blog.cloudflare.com/programmable-gateway-dlp/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
+<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.<br/><br/><a href="https://deepmind.google/blog/accelerating-antimicrobial-discovery/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 15 Oct 2026 05:45:03 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Figma announces new features to define how agents work on its platform</title>
-<link>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3177541</guid>
-<pubDate>Thu, 15 Oct 2026 04:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Figma is also releasing its code layers feature in open beta.<br/><br/><a href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
