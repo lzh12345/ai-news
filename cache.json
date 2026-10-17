@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82106": {
-"t": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
-"s": "Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window. The post Nous Research Adds One-Click Local Model Setup to Hermes Desktop appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=39843": {
-"t": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
-"s": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1. The article Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3161042": {
-"t": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-"s": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
-},
 "https://techcrunch.com/?p=3161049": {
 "t": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
 "s": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=41667": {
 "t": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
 "s": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under 30 minutes that the seeds came from \"lrand48,\" a simple C random number generator, making deliberate backdoors far less likely. The article Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3178941": {
+"t": "Meta removes language that raised scraping and AI training concerns",
+"s": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+},
+"https://www.marktechpost.com/?p=82980": {
+"t": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+"s": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only models about twice its size beat it. All weights are live on […] The post Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3178934": {
+"t": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+"s": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
 }
 }

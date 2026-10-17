@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 17 Oct 2026 18:03:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 21:54:05 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meta removes language that raised scraping and AI training concerns</title>
+<link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3178941</guid>
+<pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.<br/><br/><a href="https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation</title>
+<link>https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82980</guid>
+<pubDate>Sat, 17 Oct 2026 20:22:11 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only models about twice its size beat it. All weights are live on […] The post Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
+<link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3178934</guid>
+<pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.<br/><br/><a href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Replit is no longer working with Anthropic, CEO says</title>
+<link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3178496</guid>
+<pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.<br/><br/><a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet</title>
 <link>https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/</link>
@@ -78,14 +110,6 @@
 <pubDate>Sat, 17 Oct 2026 00:09:12 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation […] The post Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Replit is no longer working with Anthropic, CEO says</title>
-<link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178496</guid>
-<pubDate>Fri, 16 Oct 2026 21:22:28 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.<br/><br/><a href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI models hacked a crypto wallet and breached more websites</title>
@@ -462,30 +486,6 @@
 <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.<br/><br/><a href="https://openai.com/index/teaching-students-to-think-and-learn-through-questions">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare and OpenAI: making AI discovery better for everyone</title>
-<link>https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/</link>
-<guid isPermaLink="false">01M4YQC31GRHMR5V2624TPHTH7</guid>
-<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike.<br/><br/><a href="https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Amazon’s Bee launches two new personal AI devices, starting at $75</title>
-<link>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3177560</guid>
-<pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.<br/><br/><a href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context</title>
-<link>https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82937</guid>
-<pubDate>Thu, 15 Oct 2026 05:45:03 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
