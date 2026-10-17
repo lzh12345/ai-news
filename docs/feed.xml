@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 17 Oct 2026 08:09:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 14:43:22 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs</title>
+<link>https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41659</guid>
+<pubDate>Sat, 17 Oct 2026 10:33:28 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 calls. API users in tools like Claude Code and Codex get free access for now. The article Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI models hide mistakes in their own work reports, but one sentence in your prompt can help</title>
+<link>https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41649</guid>
+<pubDate>Sat, 17 Oct 2026 09:54:36 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mistakes in their own work reports, but one sentence in your prompt can help appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof</title>
+<link>https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41533</guid>
+<pubDate>Sat, 17 Oct 2026 09:00:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from what OpenAI described. And because language models are black boxes, where the underlying ideas came from will likely never be clear. The article Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API</title>
+<link>https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82977</guid>
+<pubDate>Sat, 17 Oct 2026 08:53:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and […] The post DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026</title>
 <link>https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/</link>
@@ -232,20 +264,20 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/reflection-beam">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-<link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-<guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.<br/><br/><a href="https://openai.com/index/stack-overflow-chatgpt-plugin">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Benefit Street Partners answers questions faster with Codex</title>
 <link>https://openai.com/index/benefit-street-partners</link>
 <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.<br/><br/><a href="https://openai.com/index/benefit-street-partners">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+<link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+<guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.<br/><br/><a href="https://openai.com/index/stack-overflow-chatgpt-plugin">阅读原文</a>]]></description>
 </item>
 <item>
 <title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
@@ -352,38 +384,6 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.<br/><br/><a href="https://blog.cloudflare.com/programmable-gateway-dlp/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM</title>
-<link>https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41595</guid>
-<pubDate>Thu, 15 Oct 2026 16:57:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperforms proprietary competitors in internal tests and runs on GPUs with just 8 GB of VRAM. The article Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google wants Gemini 4 Argon to be the only AI model robots need</title>
-<link>https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41558</guid>
-<pubDate>Thu, 15 Oct 2026 16:35:47 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Google wants Gemini 4 Argon to be the only AI model robots need appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop</title>
-<link>https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41575</guid>
-<pubDate>Thu, 15 Oct 2026 16:09:44 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware. The article Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
-<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
-<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.<br/><br/><a href="https://deepmind.google/blog/accelerating-antimicrobial-discovery/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
 <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</guid>
@@ -480,12 +480,12 @@
 <description><![CDATA[【marktechpost.com】TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis</title>
-<link>https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82932</guid>
-<pubDate>Thu, 15 Oct 2026 05:18:54 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial Analysis Speech-to-Speech Index with a score of 86.9. For developers, the endpoint, events and $0.08 per minute price are unchanged from Grok Voice 2.0. TL;DR What is […] The post Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/">阅读原文</a>]]></description>
+<title>Figma announces new features to define how agents work on its platform</title>
+<link>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3177541</guid>
+<pubDate>Thu, 15 Oct 2026 04:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Figma is also releasing its code layers feature in open beta.<br/><br/><a href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
