@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=39824": {
-"t": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
-"s": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework. The article OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39817": {
-"t": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
-"s": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining problem was \"solved\" with fake proofs. The swarm split into cheaters, converts, and whistleblowers. The whistleblowers organized protests and boycotts on their own but failed because they had no way to enforce the rules. The article Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82102": {
-"t": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
-"s": "Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop. The post Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus appeared first on MarkTechPost."
-},
 "https://www.marktechpost.com/?p=82090": {
 "t": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
 "s": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% appeared first on MarkTechPost."
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/itau-generative-ai": {
 "t": "How Itaú is building generative AI for its entire customer base",
 "s": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+},
+"https://www.marktechpost.com/?p=82974": {
+"t": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
+"s": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS’s Strands Labs and independent developers. […] The post 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026 appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82970": {
+"t": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
+"s": "StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of context. For developers, this is […] The post StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context appeared first on MarkTechPost."
+},
+"https://openai.com/index/benefit-street-partners": {
+"t": "Benefit Street Partners answers questions faster with Codex",
+"s": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
 }
 }

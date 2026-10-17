@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 17 Oct 2026 02:19:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 08:09:23 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026</title>
+<link>https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82974</guid>
+<pubDate>Sat, 17 Oct 2026 07:26:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS’s Strands Labs and independent developers. […] The post 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context</title>
+<link>https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82970</guid>
+<pubDate>Sat, 17 Oct 2026 06:29:55 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of context. For developers, this is […] The post StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents</title>
 <link>https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/</link>
@@ -222,6 +238,14 @@
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.<br/><br/><a href="https://openai.com/index/stack-overflow-chatgpt-plugin">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Benefit Street Partners answers questions faster with Codex</title>
+<link>https://openai.com/index/benefit-street-partners</link>
+<guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.<br/><br/><a href="https://openai.com/index/benefit-street-partners">阅读原文</a>]]></description>
 </item>
 <item>
 <title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
@@ -462,30 +486,6 @@
 <pubDate>Thu, 15 Oct 2026 05:18:54 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial Analysis Speech-to-Speech Index with a score of 86.9. For developers, the endpoint, events and $0.08 per minute price are unchanged from Grok Voice 2.0. TL;DR What is […] The post Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Figma announces new features to define how agents work on its platform</title>
-<link>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3177541</guid>
-<pubDate>Thu, 15 Oct 2026 04:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Figma is also releasing its code layers feature in open beta.<br/><br/><a href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-<link>https://huggingface.co/blog/meta-muse-spark-open</link>
-<guid isPermaLink="false">https://huggingface.co/blog/meta-muse-spark-open</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/meta-muse-spark-open">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Welcome FLUX.3 Image Klein in Diffusers</title>
-<link>https://huggingface.co/blog/flux-3</link>
-<guid isPermaLink="false">https://huggingface.co/blog/flux-3</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/flux-3">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
