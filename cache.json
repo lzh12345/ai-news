@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=39804": {
-"t": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-"s": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10 to 100 with Sol. Higher-tier subscribers also get GPT-6 Astra Pro with separate weekly caps. Free and Go users don't get access. The article OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol appeared first on The Decoder."
-},
-"https://openai.com/index/gpt-6-astra": {
-"t": "GPT-6 Astra: A new generation of intelligence",
-"s": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-},
 "https://the-decoder.com/?p=39824": {
 "t": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
 "s": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework. The article OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki appeared first on The Decoder."
@@ -4798,5 +4790,13 @@
 "https://openai.com/index/stack-overflow-chatgpt-plugin": {
 "t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
 "s": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+},
+"https://www.marktechpost.com/?p=82967": {
+"t": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+"s": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation […] The post Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents appeared first on MarkTechPost."
+},
+"https://openai.com/index/itau-generative-ai": {
+"t": "How Itaú is building generative AI for its entire customer base",
+"s": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
 }
 }

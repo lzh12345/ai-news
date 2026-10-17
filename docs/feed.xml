@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 16 Oct 2026 22:21:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 02:19:31 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents</title>
+<link>https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82967</guid>
+<pubDate>Sat, 17 Oct 2026 00:09:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation […] The post Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Replit is no longer working with Anthropic, CEO says</title>
 <link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
@@ -30,6 +38,14 @@
 <pubDate>Fri, 16 Oct 2026 20:20:07 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How Itaú is building generative AI for its entire customer base</title>
+<link>https://openai.com/index/itau-generative-ai</link>
+<guid isPermaLink="false">https://openai.com/index/itau-generative-ai</guid>
+<pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.<br/><br/><a href="https://openai.com/index/itau-generative-ai">阅读原文</a>]]></description>
 </item>
 <item>
 <title>ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs</title>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/flux-3">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
-<link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
-<guid isPermaLink="false">mlx-distributed-inference</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】<br/><br/><a href="https://machinelearning.apple.com/research/mlx-distributed-inference">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents</title>
-<link>https://machinelearning.apple.com/research/selection-structured-reasoning</link>
-<guid isPermaLink="false">selection-structured-reasoning</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we introduce Selection-based Structured Reasoning (SSR), a framework that reformulates reasoning as selection instead of open-ended generation. SSR represents recurring high-level reasoning as pre-specified, reusable natural-language candidates. At each turn, the model selects from the reasoning candidates based on their…<br/><br/><a href="https://machinelearning.apple.com/research/selection-structured-reasoning">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
