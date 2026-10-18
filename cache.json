@@ -1,28 +1,4 @@
 {
-"https://the-decoder.com/?p=39861": {
-"t": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
-"s": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months. The article OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39858": {
-"t": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
-"s": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids. Google says it was trained only on licensed content. The article Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39851": {
-"t": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
-"s": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries. According to Artificial Analysis, it delivers the most accurate streaming transcription at the lowest price in the market. Meta sees the model as a building block for personal AI agents that listen in on real conversations through devices like its camera glasses. The article Meta's new real-time audio model is the foundation for AI assistants that never stop listening appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39806": {
-"t": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
-"s": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service for offensive cybersecurity and red teaming, but journalists were able to generate malware instructions without much effort. Whether the benefits outweigh the risks remains an open question. The article Stripping safety guardrails from open-weight AI models is now a turnkey commercial service appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3161054": {
-"t": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-"s": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
-},
-"https://openai.com/index/an-alien-mind": {
-"t": "An Alien Mind",
-"s": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
-},
 "https://openai.com/index/research-acceleration-view-inside-openai": {
 "t": "Research acceleration: The view inside OpenAI",
 "s": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
@@ -4798,5 +4774,29 @@
 "https://www.marktechpost.com/?p=82983": {
 "t": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
 "s": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier. The post Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41707": {
+"t": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+"s": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a \"tragedy of the cognitive commons\": if junior positions disappear, experienced specialists will be in short supply down the road. That is, assuming such specialists are even needed anymore. The article Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41701": {
+"t": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+"s": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote 2,783 programs, exchanged 229 chat messages, and died 605 times. The session cost $1,620. The article Four Gemini 4 Argon agents beat Minecraft without any human help appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41694": {
+"t": "Two German courts now hold Google liable for what its AI overviews say",
+"s": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a doctor that actually involved someone else. A consistent legal view is forming across German courts, and it treats Google's AI answers as the company's own content. The article Two German courts now hold Google liable for what its AI overviews say appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41691": {
+"t": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+"s": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as \"Conceptual Reasoning Fellows\" to improve Claude in areas where reliable training data is scarce. The article Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41680": {
+"t": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+"s": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term decisions and a new benchmark proves it appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=82989": {
+"t": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+"s": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTechPost."
 }
 }

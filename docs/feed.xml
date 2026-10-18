@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 18 Oct 2026 08:26:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 15:08:52 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</title>
+<link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41707</guid>
+<pubDate>Sun, 18 Oct 2026 13:22:26 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a "tragedy of the cognitive commons": if junior positions disappear, experienced specialists will be in short supply down the road. That is, assuming such specialists are even needed anymore. The article Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Four Gemini 4 Argon agents beat Minecraft without any human help</title>
+<link>https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41701</guid>
+<pubDate>Sun, 18 Oct 2026 12:39:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote 2,783 programs, exchanged 229 chat messages, and died 605 times. The session cost $1,620. The article Four Gemini 4 Argon agents beat Minecraft without any human help appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Two German courts now hold Google liable for what its AI overviews say</title>
+<link>https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41694</guid>
+<pubDate>Sun, 18 Oct 2026 10:52:39 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a doctor that actually involved someone else. A consistent legal view is forming across German courts, and it treats Google's AI answers as the company's own content. The article Two German courts now hold Google liable for what its AI overviews say appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals</title>
+<link>https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41691</guid>
+<pubDate>Sun, 18 Oct 2026 09:11:29 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as "Conceptual Reasoning Fellows" to improve Claude in areas where reliable training data is scarce. The article Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI agents have bad taste in long-term decisions and a new benchmark proves it</title>
+<link>https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41680</guid>
+<pubDate>Sun, 18 Oct 2026 08:49:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term decisions and a new benchmark proves it appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office</title>
 <link>https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/</link>
@@ -14,6 +54,14 @@
 <pubDate>Sun, 18 Oct 2026 08:15:04 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP's office. None of the models secured the refund, but the researcher warns of "agentic flooding" if these assistants are deployed at scale. The article AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Open-Sources Harness2, a Recursive Agent Harnessing Framework</title>
+<link>https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82989</guid>
+<pubDate>Sun, 18 Oct 2026 08:15:04 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models</title>
@@ -96,14 +144,6 @@
 <description><![CDATA[【the-decoder.com】AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mistakes in their own work reports, but one sentence in your prompt can help appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof</title>
-<link>https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41533</guid>
-<pubDate>Sat, 17 Oct 2026 09:00:26 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from what OpenAI described. And because language models are black boxes, where the underlying ideas came from will likely never be clear. The article Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API</title>
 <link>https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=82977</guid>
@@ -160,28 +200,12 @@
 <description><![CDATA[【openai.com】With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.<br/><br/><a href="https://openai.com/index/itau-generative-ai">阅读原文</a>]]></description>
 </item>
 <item>
-<title>ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs</title>
-<link>https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41633</guid>
-<pubDate>Fri, 16 Oct 2026 18:10:27 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use "Computer Use" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans. The article ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>India becomes the latest country to report rogue AI agent activity</title>
 <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3178813</guid>
 <pubDate>Fri, 16 Oct 2026 17:52:24 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.<br/><br/><a href="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>China plans to tighten export controls on open-weight models and 23 key AI technologies</title>
-<link>https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41627</guid>
-<pubDate>Fri, 16 Oct 2026 17:42:47 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight models over Chinese alternatives. The article China plans to tighten export controls on open-weight models and 23 key AI technologies appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
@@ -224,14 +248,6 @@
 <description><![CDATA[【techcrunch.com】The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.<br/><br/><a href="https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months</title>
-<link>https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41620</guid>
-<pubDate>Fri, 16 Oct 2026 15:03:46 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon also trails rivals in math and software engineering. The article Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy</title>
 <link>https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3178550</guid>
@@ -254,14 +270,6 @@
 <pubDate>Fri, 16 Oct 2026 14:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.<br/><br/><a href="https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Is AI interpretability close to a breakthrough? A new essay has researchers divided</title>
-<link>https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41605</guid>
-<pubDate>Fri, 16 Oct 2026 13:48:08 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are still debating whether the thesis holds up. The article Is AI interpretability close to a breakthrough? A new essay has researchers divided appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Continuous accountability for Verified bots</title>
@@ -358,14 +366,6 @@
 <pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.<br/><br/><a href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model</title>
-<link>https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82957</guid>
-<pubDate>Thu, 15 Oct 2026 19:53:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>The next developer interface is ambient intelligence</title>
