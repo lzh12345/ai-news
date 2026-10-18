@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 18 Oct 2026 02:20:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 08:26:35 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office</title>
+<link>https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41640</guid>
+<pubDate>Sun, 18 Oct 2026 08:15:04 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP's office. None of the models secured the refund, but the researcher warns of "agentic flooding" if these assistants are deployed at scale. The article AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models</title>
+<link>https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82986</guid>
+<pubDate>Sun, 18 Oct 2026 05:56:05 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational for whole relational databases, and each of them answers by in-context learning: we […] The post How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI</title>
+<link>https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82983</guid>
+<pubDate>Sun, 18 Oct 2026 04:06:33 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier. The post Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Meta removes language that raised scraping and AI training concerns</title>
 <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
@@ -240,14 +264,6 @@
 <description><![CDATA[【the-decoder.com】Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are still debating whether the thesis holds up. The article Is AI interpretability close to a breakthrough? A new essay has researchers divided appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year</title>
-<link>https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41607</guid>
-<pubDate>Fri, 16 Oct 2026 13:15:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Continuous accountability for Verified bots</title>
 <link>https://blog.cloudflare.com/verified-bots-accountability/</link>
 <guid isPermaLink="false">01M510YDY2PS6BYR03DF8HHG2D</guid>
@@ -408,14 +424,6 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.<br/><br/><a href="https://blog.cloudflare.com/programmable-gateway-dlp/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
-<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
-<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.<br/><br/><a href="https://deepmind.google/blog/accelerating-antimicrobial-discovery/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
 <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</guid>
@@ -448,14 +456,6 @@
 <description><![CDATA[【techcrunch.com】The new shopping tool is available in the U.S. across Google Search and the Gemini app.<br/><br/><a href="https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data</title>
-<link>https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82947</guid>
-<pubDate>Thu, 15 Oct 2026 14:19:27 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter most, often hundreds or thousands of hand-written […] The post CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>TechCrunch Disrupt 2026: Last day</title>
 <link>https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3178027</guid>
@@ -472,20 +472,20 @@
 <description><![CDATA[【blog.cloudflare.com】Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare.<br/><br/><a href="https://blog.cloudflare.com/deploy-with-void/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026</title>
-<link>https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82941</guid>
-<pubDate>Thu, 15 Oct 2026 13:23:45 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and Intelligent Space The post openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Teaching students to think and learn through questions</title>
 <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
 <guid isPermaLink="false">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
 <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.<br/><br/><a href="https://openai.com/index/teaching-students-to-think-and-learn-through-questions">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare and OpenAI: making AI discovery better for everyone</title>
+<link>https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/</link>
+<guid isPermaLink="false">01M4YQC31GRHMR5V2624TPHTH7</guid>
+<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike.<br/><br/><a href="https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
