@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 18 Oct 2026 18:22:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 22:06:22 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
+<link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3178960</guid>
+<pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Anthropic said that it will commit 5% of its shares to the fund.<br/><br/><a href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web</title>
+<link>https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82993</guid>
+<pubDate>Sun, 18 Oct 2026 18:20:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure […] The post TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Disney agrees to hire the majority of Character.AI’s workforce</title>
 <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
@@ -312,14 +328,6 @@
 <description><![CDATA[【marktechpost.com】Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context</title>
-<link>https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82960</guid>
-<pubDate>Fri, 16 Oct 2026 02:26:04 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
 <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
 <guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
@@ -462,14 +470,6 @@
 <pubDate>Thu, 15 Oct 2026 15:02:36 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】We'll likely learn more about how this will work at the company's upcoming "AI & Autonomy Day" event in December.<br/><br/><a href="https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google’s Universal Cart shopping tool launches in the US</title>
-<link>https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178088</guid>
-<pubDate>Thu, 15 Oct 2026 14:29:33 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The new shopping tool is available in the U.S. across Google Search and the Gemini app.<br/><br/><a href="https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Deploy with Void</title>

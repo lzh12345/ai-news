@@ -1,12 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82154": {
-"t": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
-"s": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 51.3 pages per second indexing throughput on one L40S, and the text-retrieval gaps the authors acknowledge. The post H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82150": {
-"t": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
-"s": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on MarkTechPost."
-},
 "https://www.marktechpost.com/?p=82141": {
 "t": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
 "s": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB. The post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents appeared first on MarkTechPost."
@@ -4798,5 +4790,13 @@
 "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/": {
 "t": "Anthropic gives outside AI watchdog “employee-like” access",
 "s": "The outside watchdog can publish its findings without Anthropic's approval."
+},
+"https://techcrunch.com/?p=3178960": {
+"t": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+"s": "Anthropic said that it will commit 5% of its shares to the fund."
+},
+"https://www.marktechpost.com/?p=82993": {
+"t": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+"s": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure […] The post TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web appeared first on MarkTechPost."
 }
 }
