@@ -1,12 +1,4 @@
 {
-"https://openai.com/index/research-acceleration-view-inside-openai": {
-"t": "Research acceleration: The view inside OpenAI",
-"s": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
-},
-"https://techcrunch.com/?p=3161058": {
-"t": "Authors push back as publishers and agents make claims on Anthropic settlement",
-"s": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
-},
 "https://www.marktechpost.com/?p=82154": {
 "t": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
 "s": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 51.3 pages per second indexing throughput on one L40S, and the text-retrieval gaps the authors acknowledge. The post H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder appeared first on MarkTechPost."
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=82989": {
 "t": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
 "s": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3178949": {
+"t": "Disney agrees to hire the majority of Character.AI’s workforce",
+"s": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]"
+},
+"https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/": {
+"t": "Anthropic gives outside AI watchdog “employee-like” access",
+"s": "The outside watchdog can publish its findings without Anthropic's approval."
 }
 }
