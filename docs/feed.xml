@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 19 Oct 2026 02:34:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 09:27:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration</title>
+<link>https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82999</guid>
+<pubDate>Mon, 19 Oct 2026 03:19:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3</title>
 <link>https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/</link>
@@ -206,14 +214,6 @@
 <pubDate>Sat, 17 Oct 2026 06:29:55 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of context. For developers, this is […] The post StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents</title>
-<link>https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82967</guid>
-<pubDate>Sat, 17 Oct 2026 00:09:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation […] The post Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI models hacked a crypto wallet and breached more websites</title>
@@ -448,14 +448,6 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.<br/><br/><a href="https://blog.cloudflare.com/programmable-gateway-dlp/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
-<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
-<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.<br/><br/><a href="https://deepmind.google/blog/accelerating-antimicrobial-discovery/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
 <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</guid>
@@ -486,6 +478,14 @@
 <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare.<br/><br/><a href="https://blog.cloudflare.com/deploy-with-void/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Teaching students to think and learn through questions</title>
+<link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+<guid isPermaLink="false">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
+<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.<br/><br/><a href="https://openai.com/index/teaching-students-to-think-and-learn-through-questions">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,8 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82124": {
-"t": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
-"s": "Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used […] The post Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed appeared first on MarkTechPost."
-},
 "https://www.marktechpost.com/?p=82177": {
 "t": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
 "s": "Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost."
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=82996": {
 "t": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
 "s": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=82999": {
+"t": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
+"s": "NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration appeared first on MarkTechPost."
 }
 }
