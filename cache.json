@@ -1,48 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82177": {
-"t": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
-"s": "Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost."
-},
-"https://openai.com/index/supporting-independent-journalism-in-ukraine": {
-"t": "Supporting independent journalism in Ukraine",
-"s": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
-},
-"https://the-decoder.com/?p=39921": {
-"t": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
-"s": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobile apps and desktop clients aren't included. The article ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39915": {
-"t": "AI-designed drug appears to turn back the body's biological clock in early trial",
-"s": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group. The trial covered just 42 patients and the drug hasn't been tested in healthy people yet. The article AI-designed drug appears to turn back the body's biological clock in early trial appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39903": {
-"t": "How AI wiped out an entire industry in Nairobi",
-"s": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39889": {
-"t": "At UBS, AI skills are now a condition for landing a job",
-"s": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency. Santander is already looking for advanced AI users too, while Morgan Stanley predicts more than 200,000 banking jobs in Europe will disappear within five years. The article At UBS, AI skills are now a condition for landing a job appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39904": {
-"t": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
-"s": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep scaling at maximum speed. The article OpenAI reports AI \"research interns\" and warns about its own pace at the same time appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39885": {
-"t": "New York City bans AI tools from public schools through eighth grade",
-"s": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39890": {
-"t": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
-"s": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be trained on purpose. The goal is a single model that runs both the cockpit and the driving system. The article Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver appeared first on The Decoder."
-},
-"https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
-"t": "The complex corporate web behind a $3.2 billion AI data center",
-"s": "When multiple companies are behind one project, who bears responsibility for problems?"
-},
-"https://techcrunch.com/?p=2973217": {
-"t": "Opaque recurrence, and other AI terms that you should probably know",
-"s": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-},
 "https://www.marktechpost.com/?p=82183": {
 "t": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
 "s": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval. Post-training pairs 400B tokens of deep-thinking SFT with RL teachers and on-policy distillation that merges 16 expert models into one checkpoint. The weights ship under Apache 2.0 alongside the pre-training, SFT and RL datasets and the intermediate Base, Midtrain and SFT-only checkpoints. GGUF builds start at 1.56 GB, and the standard LlamaForCausalLM architecture loads in vLLM, SGLang, llama.cpp, Ollama and MLX without a model-code fork. The post OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device appeared first on MarkTechPost."
@@ -4798,5 +4754,49 @@
 "https://www.marktechpost.com/?p=82999": {
 "t": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
 "s": "NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration appeared first on MarkTechPost."
+},
+"01M5AKCKW0449M3Q6FW10XB4K3": {
+"t": "Introducing Clairic, a new System One class of extraction models",
+"s": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs."
+},
+"https://the-decoder.com/?p=41727": {
+"t": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+"s": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which could be an early sign that the breakneck pace of progress in AI video models is starting to level off. The article Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant appeared first on The Decoder."
+},
+"https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/": {
+"t": "AI game clones are making indie developers afraid to show their work",
+"s": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs."
+},
+"https://techcrunch.com/?p=3179051": {
+"t": "People are using AI to make their smart TVs dumb again",
+"s": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+},
+"https://techcrunch.com/?p=3177977": {
+"t": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+"s": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+},
+"https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/": {
+"t": "Disney found a way to buy Character.AI without buying its lawsuits",
+"s": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents."
+},
+"01M537RHECVHNJPV12N2E54ZR7": {
+"t": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+"s": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code."
+},
+"https://the-decoder.com/?p=41714": {
+"t": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
+"s": "AI agents are increasingly using Stripe's payment service Link to shop for their users, Upstarts Media reports. The article Stripe says AI agent purchases are adding up, but it won't share the numbers appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83002": {
+"t": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+"s": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41715": {
+"t": "The neocloud shakeout is coming, and Nvidia has the most to lose",
+"s": "After stock crashes and Firmus's scrapped IPO, industry executives expect only seven to ten of the hundreds of AI cloud providers to survive. CoreWeave lost a quarter of its market value, and Microsoft pulled out of a deal with Nscale for 23,000 Nvidia chips. Nvidia has a lot riding on the outcome, since customers outside the hyperscalers make up 45 percent of its data center revenue. The article The neocloud shakeout is coming, and Nvidia has the most to lose appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41713": {
+"t": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
+"s": "Anthropic wants to put five percent of its shares into a new public benefit fund that will also look into direct payments to workers at risk of losing their jobs. The fund is a company-owned LLC, so Anthropic keeps control of it as a possible IPO approaches. By offering the option of direct payments, Anthropic goes further than its competitors. Elon Musk says on X the company should just give the shares directly to the public. The article Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children appeared first on The Decoder."
 }
 }
