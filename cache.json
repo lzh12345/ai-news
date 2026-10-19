@@ -1,56 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82183": {
-"t": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
-"s": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval. Post-training pairs 400B tokens of deep-thinking SFT with RL teachers and on-policy distillation that merges 16 expert models into one checkpoint. The weights ship under Apache 2.0 alongside the pre-training, SFT and RL datasets and the intermediate Base, Midtrain and SFT-only checkpoints. GGUF builds start at 1.56 GB, and the standard LlamaForCausalLM architecture loads in vLLM, SGLang, llama.cpp, Ollama and MLX without a model-code fork. The post OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82180": {
-"t": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories",
-"s": "Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs. The result is 207 tasks and 50,129 verified Franka trajectories, and continual pretraining that lifts π0.5 from 83.9 to 88.8 on LIBERO-Plus while a volume-matched RoboCasa365 control reaches only 57.5. The post Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=39932": {
-"t": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-"s": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about \"unsustainable silliness\" in the compute buildout, especially from neo-cloud providers. The article Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39928": {
-"t": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
-"s": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is \"the worst model we'll ever get.\" The article GPT-6 Astra beat Portal start to finish without human help in under 24 hours appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39935": {
-"t": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
-"s": "Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82186": {
-"t": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
-"s": "We look at r-1, the document parsing model Reducto released on September 1, 2026. We walk through how it folds OCR, layout detection, tables, formatting and grounding into one full page pass, replacing the multi stage agentic pipeline it ships alongside. We break down the two numbers that matter for a migration decision: a reported 20% error reduction and a flat 1 cent per page rate against the legacy 3 to 6 cents. The post Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=39942": {
-"t": "Patagonia has what AI data centers want, including no resistance so far",
-"s": "Argentina's Patagonia is drawing attention as a possible site for large AI data centers. The article Patagonia has what AI data centers want, including no resistance so far appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39941": {
-"t": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip",
-"s": "ASML has won over Samsung, TSMC, and Intel to switch to larger photomasks, which should boost the throughput of its newest EUV machines by 40 percent. Meanwhile, Huawei is orchestrating China's counter-strategy, aiming to break its dependence on the Dutch lithography technology through equipment maker Yuliangsheng and its own suppliers. The article ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39938": {
-"t": "Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires",
-"s": "Meta will no longer judge its engineers by how much they use AI tools. The article Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires appeared first on The Decoder."
-},
-"https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom": {
-"t": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-"s": ""
-},
-"https://techcrunch.com/?p=3161251": {
-"t": "Mistral raises €3B as sovereign AI becomes big business",
-"s": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity."
-},
-"https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/": {
-"t": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-"s": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-},
-"01M1PVWQ383YJ6PFVFNJM3X122": {
-"t": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
-"s": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the origin supports it."
-},
 "https://openai.com/index/the-work-now-within-reach": {
 "t": "The Work Now Within Reach",
 "s": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
@@ -4798,5 +4746,57 @@
 "https://the-decoder.com/?p=41713": {
 "t": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
 "s": "Anthropic wants to put five percent of its shares into a new public benefit fund that will also look into direct payments to workers at risk of losing their jobs. The fund is a company-owned LLC, so Anthropic keeps control of it as a possible IPO approaches. By offering the option of direct payments, Anthropic goes further than its competitors. Elon Musk says on X the company should just give the shares directly to the public. The article Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3178312": {
+"t": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+"s": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]"
+},
+"https://techcrunch.com/?p=3179279": {
+"t": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+"s": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+},
+"https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/": {
+"t": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+"s": "US fears Saudi government will help ex-OpenAI engineer flee spying charges."
+},
+"https://techcrunch.com/?p=3179099": {
+"t": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+"s": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+},
+"https://techcrunch.com/?p=3179164": {
+"t": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+"s": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+},
+"01M58NMKW6A1DQJNZXH37VZ9JH": {
+"t": "Cutting our inference bill by 68% by being obsessive about optimization",
+"s": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews."
+},
+"https://techcrunch.com/?p=3179141": {
+"t": "Tolan snags $30M for its AI companion that helps users navigate life",
+"s": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+},
+"https://techcrunch.com/?p=3179172": {
+"t": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+"s": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+},
+"https://github.blog/?p=99556": {
+"t": "How to continue a GitHub Copilot app session in VS Code",
+"s": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3179171": {
+"t": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+"s": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+},
+"https://the-decoder.com/?p=41732": {
+"t": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+"s": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and price. The article MiniMax M3.1 Flash shows China's AI price race has no floor in sight appeared first on The Decoder."
+},
+"https://openai.com/index/low-resource-programming-languages": {
+"t": "Advancing Coding in Low-Resource Programming Languages",
+"s": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+},
+"https://huggingface.co/blog/hf-torchneuron": {
+"t": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+"s": ""
 }
 }

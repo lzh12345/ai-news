@@ -5,8 +5,96 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 19 Oct 2026 18:01:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 23:13:43 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
+<link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3178312</guid>
+<pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]<br/><br/><a href="https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
+<link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179279</guid>
+<pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.<br/><br/><a href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
+<link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</link>
+<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</guid>
+<pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】US fears Saudi government will help ex-OpenAI engineer flee spying charges.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
+<link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179099</guid>
+<pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.<br/><br/><a href="https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
+<link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179164</guid>
+<pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.<br/><br/><a href="https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cutting our inference bill by 68% by being obsessive about optimization</title>
+<link>https://blog.cloudflare.com/obsessive-inference-optimization/</link>
+<guid isPermaLink="false">01M58NMKW6A1DQJNZXH37VZ9JH</guid>
+<pubDate>Mon, 19 Oct 2026 19:12:53 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.<br/><br/><a href="https://blog.cloudflare.com/obsessive-inference-optimization/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Tolan snags $30M for its AI companion that helps users navigate life</title>
+<link>https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179141</guid>
+<pubDate>Mon, 19 Oct 2026 19:00:12 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.<br/><br/><a href="https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</title>
+<link>https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179172</guid>
+<pubDate>Mon, 19 Oct 2026 18:49:04 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.<br/><br/><a href="https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How to continue a GitHub Copilot app session in VS Code</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/</link>
+<guid isPermaLink="false">https://github.blog/?p=99556</guid>
+<pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Tenstorrent hits $6.2B valuation to scale open-weight AI chips</title>
+<link>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179171</guid>
+<pubDate>Mon, 19 Oct 2026 18:37:27 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.<br/><br/><a href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MiniMax M3.1 Flash shows China's AI price race has no floor in sight</title>
+<link>https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41732</guid>
+<pubDate>Mon, 19 Oct 2026 18:22:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and price. The article MiniMax M3.1 Flash shows China's AI price race has no floor in sight appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Introducing Clairic, a new System One class of extraction models</title>
 <link>https://blog.cloudflare.com/clairic-extraction-model/</link>
@@ -96,6 +184,14 @@
 <description><![CDATA[【techcrunch.com】University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.<br/><br/><a href="https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Advancing Coding in Low-Resource Programming Languages</title>
+<link>https://openai.com/index/low-resource-programming-languages</link>
+<guid isPermaLink="false">https://openai.com/index/low-resource-programming-languages</guid>
+<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.<br/><br/><a href="https://openai.com/index/low-resource-programming-languages">阅读原文</a>]]></description>
+</item>
+<item>
 <title>The neocloud shakeout is coming, and Nvidia has the most to lose</title>
 <link>https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=41715</guid>
@@ -126,6 +222,14 @@
 <pubDate>Mon, 19 Oct 2026 01:18:17 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
+<link>https://huggingface.co/blog/hf-torchneuron</link>
+<guid isPermaLink="false">https://huggingface.co/blog/hf-torchneuron</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/hf-torchneuron">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
@@ -190,14 +294,6 @@
 <pubDate>Sun, 18 Oct 2026 08:49:41 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term decisions and a new benchmark proves it appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office</title>
-<link>https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41640</guid>
-<pubDate>Sun, 18 Oct 2026 08:15:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP's office. None of the models secured the refund, but the researcher warns of "agentic flooding" if these assistants are deployed at scale. The article AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google Open-Sources Harness2, a Recursive Agent Harnessing Framework</title>
@@ -344,14 +440,6 @@
 <description><![CDATA[【techcrunch.com】The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.<br/><br/><a href="https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy</title>
-<link>https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178550</guid>
-<pubDate>Fri, 16 Oct 2026 14:26:51 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."<br/><br/><a href="https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Super Scam Me documentary shows what it takes to catch a romance scammer</title>
 <link>https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/</guid>
@@ -360,28 +448,12 @@
 <description><![CDATA[【arstechnica.com】Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles</title>
-<link>https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3177529</guid>
-<pubDate>Fri, 16 Oct 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.<br/><br/><a href="https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Continuous accountability for Verified bots</title>
 <link>https://blog.cloudflare.com/verified-bots-accountability/</link>
 <guid isPermaLink="false">01M510YDY2PS6BYR03DF8HHG2D</guid>
 <pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.<br/><br/><a href="https://blog.cloudflare.com/verified-bots-accountability/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Replit’s CEO says the future of work is the ‘self-driving company’</title>
-<link>https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178541</guid>
-<pubDate>Fri, 16 Oct 2026 12:55:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.<br/><br/><a href="https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
@@ -400,14 +472,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/reflection-beam">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Benefit Street Partners answers questions faster with Codex</title>
-<link>https://openai.com/index/benefit-street-partners</link>
-<guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.<br/><br/><a href="https://openai.com/index/benefit-street-partners">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
 <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
 <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
@@ -416,76 +480,12 @@
 <description><![CDATA[【openai.com】Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.<br/><br/><a href="https://openai.com/index/stack-overflow-chatgpt-plugin">阅读原文</a>]]></description>
 </item>
 <item>
-<title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
-<link>https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178431</guid>
-<pubDate>Thu, 15 Oct 2026 23:44:56 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.<br/><br/><a href="https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
-<pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta launches an open-weight AI model that runs on Macs</title>
-<link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178309</guid>
-<pubDate>Thu, 15 Oct 2026 20:04:53 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.<br/><br/><a href="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</title>
-<link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178363</guid>
-<pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.<br/><br/><a href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The next developer interface is ambient intelligence</title>
-<link>https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/</link>
-<guid isPermaLink="false">https://github.blog/?p=99541</guid>
-<pubDate>Thu, 15 Oct 2026 19:39:27 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
-<link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178367</guid>
-<pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.<br/><br/><a href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Bringing GPT-Rosalind to academic research labs</title>
-<link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-the-rosalind-academic-plan</guid>
-<pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+<title>Benefit Street Partners answers questions faster with Codex</title>
+<link>https://openai.com/index/benefit-street-partners</link>
+<guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
-<description><![CDATA[【openai.com】Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.<br/><br/><a href="https://openai.com/index/introducing-the-rosalind-academic-plan">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Staying Evergreen: How we automated secure access and repo hygiene in a shared org</title>
-<link>https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/</link>
-<guid isPermaLink="false">https://github.blog/?p=99529</guid>
-<pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A fully programmable secure web gateway</title>
-<link>https://blog.cloudflare.com/programmable-gateway-dlp/</link>
-<guid isPermaLink="false">01M5072CXFWQ88M9NCXZBSPAF2</guid>
-<pubDate>Thu, 15 Oct 2026 17:11:12 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.<br/><br/><a href="https://blog.cloudflare.com/programmable-gateway-dlp/">阅读原文</a>]]></description>
+<description><![CDATA[【openai.com】Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.<br/><br/><a href="https://openai.com/index/benefit-street-partners">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
