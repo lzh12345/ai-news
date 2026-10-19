@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 18 Oct 2026 22:06:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 02:34:45 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3</title>
+<link>https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=82996</guid>
+<pubDate>Mon, 19 Oct 2026 01:18:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
 <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
@@ -320,14 +328,6 @@
 <description><![CDATA[【techcrunch.com】Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.<br/><br/><a href="https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index</title>
-<link>https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82963</guid>
-<pubDate>Fri, 16 Oct 2026 06:26:41 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
 <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
 <guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
@@ -448,6 +448,14 @@
 <description><![CDATA[【blog.cloudflare.com】Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.<br/><br/><a href="https://blog.cloudflare.com/programmable-gateway-dlp/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
+<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.<br/><br/><a href="https://deepmind.google/blog/accelerating-antimicrobial-discovery/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
 <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</guid>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare.<br/><br/><a href="https://blog.cloudflare.com/deploy-with-void/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Teaching students to think and learn through questions</title>
-<link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-<guid isPermaLink="false">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
-<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.<br/><br/><a href="https://openai.com/index/teaching-students-to-think-and-learn-through-questions">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
