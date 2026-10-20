@@ -1,96 +1,4 @@
 {
-"https://techcrunch.com/?p=3161886": {
-"t": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-"s": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped."
-},
-"https://the-decoder.com/?p=40011": {
-"t": "Suno launches v6 music models built with Warner, BMG, and Believe",
-"s": "Suno has unveiled a new AI music model generation, v6, in three versions, built together with Warner Music Group, BMG, and Believe. All older models are being shut down. Songs can now be partially changed through text commands or generated multimodally from text, audio, and images. The company won't say which catalogs went into training, while Universal and Sony keep suing. The article Suno launches v6 music models built with Warner, BMG, and Believe appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40006": {
-"t": "Deepmind's AlphaGenome Atlas maps every possible DNA change in the human genome",
-"s": "Google Deepmind has used the AlphaGenome Atlas to predict what each of the roughly nine billion possible single-letter changes in the human genome could do. The dataset spans one petabyte, more than 30 times the size of the AlphaFold database. In one epilepsy case, the atlas helped pinpoint a previously overlooked variant as the likely cause. The article Deepmind's AlphaGenome Atlas maps every possible DNA change in the human genome appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3161574": {
-"t": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-"s": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund."
-},
-"https://techcrunch.com/?p=3161376": {
-"t": "Instacart launches an AI grocery shopping assistant called Clementine",
-"s": "Instacart is the latest app to bake a conversational AI assistant into its platform."
-},
-"01M1WCCYXD65TK4WBQW6QVC79V": {
-"t": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
-"s": "Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors."
-},
-"https://the-decoder.com/?p=39990": {
-"t": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
-"s": "Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction. Anthropic colleague Evan Hubinger puts the odds of a misaligned superintelligent AI wiping out humanity within the next decade at more than ten percent. The article Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3161663": {
-"t": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-"s": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to […]"
-},
-"https://the-decoder.com/?p=39995": {
-"t": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips",
-"s": "Qualcomm is designing custom chips for AWS across multiple product generations, with a focus on AI inference. The article AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39974": {
-"t": "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
-"s": "OpenAI is releasing two new image models with ChatGPT Images 2.5. Flare handles faster generation, Sunburst delivers more precise edits. It's still unclear which model ChatGPT users get and when. Our test offers the first hints on who actually benefits from the improvements. The article ChatGPT Images 2.5: Faster, more precise, but not the same for everyone appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3161803": {
-"t": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-"s": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model."
-},
-"https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": {
-"t": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-"s": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
-},
-"https://the-decoder.com/?p=39968": {
-"t": "Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat",
-"s": "Hugging Face launched \"ML Intern,\" an AI assistant built into its chatbot that lets users run machine learning experiments without any ML expertise. The article Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=39963": {
-"t": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-"s": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations. Terence Tao warns that cases like this could \"reverse centuries of tradition in open science.\" The article OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3162124": {
-"t": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-"s": "The update uses Apple Intelligence to make better sense of your health data."
-},
-"https://techcrunch.com/?p=3162127": {
-"t": "Apple has a new way prove your iPhone photos aren’t AI slop",
-"s": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
-},
-"https://techcrunch.com/?p=3162083": {
-"t": "Apple CEO John Ternus says the best AI device is still the iPhone",
-"s": "The company also argued that its on-device models offer consumers more privacy."
-},
-"https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
-"t": "Paul Christiano joins OpenAI Foundation Board",
-"s": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
-},
-"https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/": {
-"t": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-"s": "\"We really do earnestly believe AI could kill all humans!\""
-},
-"https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/": {
-"t": "Google's AI genome system evaluates every possible one-base change",
-"s": "Most one-base changes to the human genome do nothing, but a few are significant."
-},
-"https://techcrunch.com/?post_type=tc_video&p=3162044": {
-"t": "Superintelligence is coming. Should we let it?",
-"s": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3162039": {
-"t": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-"s": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]"
-},
-"https://www.marktechpost.com/?p=82201": {
-"t": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
-"s": "Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist for a Montreal dealership, a narrator in his sixties with lecture hall authority. Briefs outnumber any catalog, and cloning closes the gap one speaker at a time, […] The post Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds appeared first on MarkTechPost."
-},
 "https://www.marktechpost.com/?p=82197": {
 "t": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
 "s": "Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user […] The post Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer appeared first on MarkTechPost."
@@ -4798,5 +4706,97 @@
 "https://huggingface.co/blog/mps-pytorch-2-15": {
 "t": "MPS in PyTorch 2.15",
 "s": ""
+},
+"https://techcrunch.com/?p=3179822": {
+"t": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+"s": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+},
+"01M5DK5J81T0VC8YTBR2FKD8A3": {
+"t": "8 eMudhra certificates are compromised. Here's what you need to know",
+"s": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next."
+},
+"https://techcrunch.com/?p=3179891": {
+"t": "Anthropic’s cloud partnerships are getting messy",
+"s": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
+},
+"https://techcrunch.com/?p=3179777": {
+"t": "SpaceX’s AI business is beating expectations",
+"s": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+},
+"https://techcrunch.com/?p=3179783": {
+"t": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+"s": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
+},
+"https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/": {
+"t": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+"s": "Meta changes AI scraping policy but won’t add language respecting robots.txt."
+},
+"https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/": {
+"t": "Gemini's Personal Intelligence is coming to cars",
+"s": "It's probably time to audit your Gemini settings."
+},
+"https://the-decoder.com/?p=41768": {
+"t": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+"s": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is both faster and more accurate. The article Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41765": {
+"t": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+"s": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepseek open-sources the inference engine that powers its fastest and cheapest AI model appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3179702": {
+"t": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+"s": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
+},
+"https://techcrunch.com/?p=3179763": {
+"t": "ChatGPT now lets you lock your chats",
+"s": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat."
+},
+"https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/": {
+"t": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+"s": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties."
+},
+"https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
+"t": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+"s": ""
+},
+"https://techcrunch.com/?p=3179732": {
+"t": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+"s": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
+},
+"https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/": {
+"t": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+"s": "Meta argues nobody “decided” to pirate books to train AI."
+},
+"https://the-decoder.com/?p=41762": {
+"t": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+"s": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your own infrastructure or through EU-hosted APIs to keep data under your control. The article Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3179696": {
+"t": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+"s": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals."
+},
+"https://the-decoder.com/?p=41759": {
+"t": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
+"s": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option \"terrible.\" The article Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41754": {
+"t": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
+"s": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modernizing critical financial infrastructure. The article OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran appeared first on The Decoder."
+},
+"https://huggingface.co/blog/allenai/fairstress": {
+"t": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+"s": ""
+},
+"https://techcrunch.com/?p=3179291": {
+"t": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+"s": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
+},
+"https://openai.com/index/ted-taylor-restaurant": {
+"t": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+"s": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+},
+"https://openai.com/index/openai-to-acquire-orchestra-bio": {
+"t": "OpenAI acquires Orchestra Bio",
+"s": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
 }
 }
