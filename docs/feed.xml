@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 20 Oct 2026 02:47:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 09:01:18 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second</title>
+<link>https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83009</guid>
+<pubDate>Tue, 20 Oct 2026 03:32:43 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks. The post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
 <link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</link>
@@ -376,14 +384,6 @@
 <description><![CDATA[【techcrunch.com】Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.<br/><br/><a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API</title>
-<link>https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82977</guid>
-<pubDate>Sat, 17 Oct 2026 08:53:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and […] The post DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI models hacked a crypto wallet and breached more websites</title>
 <link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</guid>
@@ -472,20 +472,20 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/reflection-beam">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-<link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-<guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.<br/><br/><a href="https://openai.com/index/stack-overflow-chatgpt-plugin">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Benefit Street Partners answers questions faster with Codex</title>
 <link>https://openai.com/index/benefit-street-partners</link>
 <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.<br/><br/><a href="https://openai.com/index/benefit-street-partners">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+<link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+<guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.<br/><br/><a href="https://openai.com/index/stack-overflow-chatgpt-plugin">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

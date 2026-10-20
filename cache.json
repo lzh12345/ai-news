@@ -1,8 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/": {
-"t": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-"s": "Meta dragged its feet removing ads that nudify young girls' Instagram pics."
-},
 "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/": {
 "t": "Update to Google’s AI weather model improves forecast accuracy",
 "s": "Like traditional weather models, it benefits from an expanded set of inputs."
@@ -4798,5 +4794,9 @@
 "https://techcrunch.com/?p=3179487": {
 "t": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
 "s": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+},
+"https://www.marktechpost.com/?p=83009": {
+"t": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+"s": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks. The post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on MarkTechPost."
 }
 }
