@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 19 Oct 2026 23:13:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 02:47:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
+<link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179517</guid>
+<pubDate>Tue, 20 Oct 2026 01:27:03 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.<br/><br/><a href="https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
+<link>https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83006</guid>
+<pubDate>Tue, 20 Oct 2026 00:03:38 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nscale and Anthropic are reportedly in talks for yet another $45B compute deal</title>
+<link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179487</guid>
+<pubDate>Mon, 19 Oct 2026 23:39:38 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.<br/><br/><a href="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
 <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
@@ -360,14 +384,6 @@
 <description><![CDATA[【marktechpost.com】DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and […] The post DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026</title>
-<link>https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82974</guid>
-<pubDate>Sat, 17 Oct 2026 07:26:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS’s Strands Labs and independent developers. […] The post 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI models hacked a crypto wallet and breached more websites</title>
 <link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</guid>
@@ -416,28 +432,12 @@
 <description><![CDATA[【techcrunch.com】Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]<br/><br/><a href="https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Elorian’s first AI model wants to reason with images, not just about them</title>
-<link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178756</guid>
-<pubDate>Fri, 16 Oct 2026 16:01:37 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.<br/><br/><a href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees</title>
 <link>https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/</guid>
 <pubDate>Fri, 16 Oct 2026 15:41:00 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Jev is Vercel’s fastest-adopted AI model ever</title>
-<link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178711</guid>
-<pubDate>Fri, 16 Oct 2026 15:33:49 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.<br/><br/><a href="https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Super Scam Me documentary shows what it takes to catch a romance scammer</title>
