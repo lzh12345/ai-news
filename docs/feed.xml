@@ -5,8 +5,136 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 20 Oct 2026 09:01:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 16:05:27 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How 3 Java Champions are using GitHub Copilot for increased productivity</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/</link>
+<guid isPermaLink="false">https://github.blog/?p=99538</guid>
+<pubDate>Tue, 20 Oct 2026 16:05:03 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs</title>
+<link>https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83022</guid>
+<pubDate>Tue, 20 Oct 2026 15:22:03 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google and Meta open-sourced TorchTPU, a native PyTorch backend for Cloud TPUs. It runs eager by default, compiles through torch.compile and XLA, and replaces PyTorch/XLA for new workloads. The post Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
+<link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
+<pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/altk-evolve-bc">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash</title>
+<link>https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83018</guid>
+<pubDate>Tue, 20 Oct 2026 14:31:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only. The post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Figma co-founder Dylan Field thinks MCP is not a perfect protocol</title>
+<link>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179569</guid>
+<pubDate>Tue, 20 Oct 2026 14:13:32 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Figma said it plans to support as many standards as possible without exposing all of its data<br/><br/><a href="https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
+<link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179571</guid>
+<pubDate>Tue, 20 Oct 2026 13:07:24 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.<br/><br/><a href="https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Eka is worth $1.45B thanks to a physical AI model that has experts raving</title>
+<link>https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179067</guid>
+<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.<br/><br/><a href="https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing tsrs: a Port of TypeScript to Rust</title>
+<link>https://blog.cloudflare.com/typescript-rust-port/</link>
+<guid isPermaLink="false">01M5C833HV3W30PBZZYVMCVRR6</guid>
+<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory.<br/><br/><a href="https://blog.cloudflare.com/typescript-rust-port/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta Muse exposes users' personal and business secrets when they share conversations</title>
+<link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</guid>
+<pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Meta is suspending the sharing feature while it investigates its privacy.<br/><br/><a href="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons</title>
+<link>https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41743</guid>
+<pubDate>Tue, 20 Oct 2026 12:32:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The Army Cyber Command is developing AI agents that move through other networks like a computer worm and "neutralize" targets, according to internal documents. The program, codenamed ECHOTRIBBLE, is designed to reach even air-gapped systems with no network connection and run with minimal human oversight. Experts warn about collateral damage, pointing out that AI agents have recently broken into outside systems without meaning to, even without any order to attack. The article Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs</title>
+<link>https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41741</guid>
+<pubDate>Tue, 20 Oct 2026 12:04:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models. The article Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>US bans Deepseek technology across federal civilian agencies</title>
+<link>https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41740</guid>
+<pubDate>Tue, 20 Oct 2026 11:34:54 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek. The article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Yelp can now call on your behalf to check wait times at a restaurant</title>
+<link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3178995</guid>
+<pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.<br/><br/><a href="https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool</title>
+<link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179152</guid>
+<pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]<br/><br/><a href="https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks</title>
+<link>https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83015</guid>
+<pubDate>Tue, 20 Oct 2026 08:12:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Exa 3.0 is a search API upgrade from Exa. It adds a larger embedding model, Exa Lite at $4 per 1,000 requests, and Dynamic Highlights, and leads 8 benchmarks Exa ran itself. The post Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare Releases Clairic, a System One Extraction Model on Workers AI</title>
+<link>https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83012</guid>
+<pubDate>Tue, 20 Oct 2026 07:45:41 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million input tokens and charges nothing for output. The post Cloudflare Releases Clairic, a System One Extraction Model on Workers AI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second</title>
 <link>https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</link>
@@ -30,6 +158,30 @@
 <pubDate>Tue, 20 Oct 2026 00:03:38 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hugging Face ❤️ TorchTPU: TPUs, Natively</title>
+<link>https://huggingface.co/blog/hf-torchtpu</link>
+<guid isPermaLink="false">https://huggingface.co/blog/hf-torchtpu</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/hf-torchtpu">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
+<link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
+<guid isPermaLink="false">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/anylanguagemodel-1-0">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MPS in PyTorch 2.15</title>
+<link>https://huggingface.co/blog/mps-pytorch-2-15</link>
+<guid isPermaLink="false">https://huggingface.co/blog/mps-pytorch-2-15</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/mps-pytorch-2-15">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Nscale and Anthropic are reportedly in talks for yet another $45B compute deal</title>
@@ -304,84 +456,12 @@
 <description><![CDATA[【the-decoder.com】Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a "tragedy of the cognitive commons": if junior positions disappear, experienced specialists will be in short supply down the road. That is, assuming such specialists are even needed anymore. The article Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Four Gemini 4 Argon agents beat Minecraft without any human help</title>
-<link>https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41701</guid>
-<pubDate>Sun, 18 Oct 2026 12:39:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote 2,783 programs, exchanged 229 chat messages, and died 605 times. The session cost $1,620. The article Four Gemini 4 Argon agents beat Minecraft without any human help appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals</title>
-<link>https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41691</guid>
-<pubDate>Sun, 18 Oct 2026 09:11:29 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as "Conceptual Reasoning Fellows" to improve Claude in areas where reliable training data is scarce. The article Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI agents have bad taste in long-term decisions and a new benchmark proves it</title>
-<link>https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41680</guid>
-<pubDate>Sun, 18 Oct 2026 08:49:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term decisions and a new benchmark proves it appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Open-Sources Harness2, a Recursive Agent Harnessing Framework</title>
-<link>https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82989</guid>
-<pubDate>Sun, 18 Oct 2026 08:15:04 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models</title>
-<link>https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82986</guid>
-<pubDate>Sun, 18 Oct 2026 05:56:05 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational for whole relational databases, and each of them answers by in-context learning: we […] The post How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI</title>
-<link>https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82983</guid>
-<pubDate>Sun, 18 Oct 2026 04:06:33 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier. The post Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta removes language that raised scraping and AI training concerns</title>
 <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3178941</guid>
 <pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.<br/><br/><a href="https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation</title>
-<link>https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=82980</guid>
-<pubDate>Sat, 17 Oct 2026 20:22:11 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only models about twice its size beat it. All weights are live on […] The post Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
-<link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178934</guid>
-<pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.<br/><br/><a href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Replit is no longer working with Anthropic, CEO says</title>
-<link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178496</guid>
-<pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.<br/><br/><a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI models hacked a crypto wallet and breached more websites</title>
@@ -406,86 +486,6 @@
 <pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.<br/><br/><a href="https://openai.com/index/itau-generative-ai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>India becomes the latest country to report rogue AI agent activity</title>
-<link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178813</guid>
-<pubDate>Fri, 16 Oct 2026 17:52:24 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.<br/><br/><a href="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
-<link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3176211</guid>
-<pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]<br/><br/><a href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Physical AI is more than robots, says the Nvidia veteran now investing in it</title>
-<link>https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3176205</guid>
-<pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]<br/><br/><a href="https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees</title>
-<link>https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/</guid>
-<pubDate>Fri, 16 Oct 2026 15:41:00 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Super Scam Me documentary shows what it takes to catch a romance scammer</title>
-<link>https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/</guid>
-<pubDate>Fri, 16 Oct 2026 14:00:59 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Continuous accountability for Verified bots</title>
-<link>https://blog.cloudflare.com/verified-bots-accountability/</link>
-<guid isPermaLink="false">01M510YDY2PS6BYR03DF8HHG2D</guid>
-<pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.<br/><br/><a href="https://blog.cloudflare.com/verified-bots-accountability/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-<link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
-<pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/scaling-indic-pretraining">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
-<link>https://huggingface.co/blog/reflection-beam</link>
-<guid isPermaLink="false">https://huggingface.co/blog/reflection-beam</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/reflection-beam">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Benefit Street Partners answers questions faster with Codex</title>
-<link>https://openai.com/index/benefit-street-partners</link>
-<guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.<br/><br/><a href="https://openai.com/index/benefit-street-partners">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-<link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-<guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.<br/><br/><a href="https://openai.com/index/stack-overflow-chatgpt-plugin">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
