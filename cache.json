@@ -1,80 +1,4 @@
 {
-"https://openai.com/index/gpt-6-astra-next-generation-work": {
-"t": "GPT-6 Astra: The next generation in intelligence for work",
-"s": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-},
-"https://www.marktechpost.com/?p=82211": {
-"t": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
-"s": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on MarkTechPost."
-},
-"https://github.blog/?p=98774": {
-"t": "GitHub availability report: August 2026",
-"s": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3162445": {
-"t": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-"s": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
-},
-"https://www.marktechpost.com/?p=82207": {
-"t": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
-"s": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only. The post Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3162350": {
-"t": "OpenAI adds a prominent AI doomer to its board of directors",
-"s": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
-},
-"https://openai.com/index/ai-policy-window": {
-"t": "The AI policy window is open. We need to act.",
-"s": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
-},
-"https://the-decoder.com/?p=40080": {
-"t": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
-"s": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose. The article Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's appeared first on The Decoder."
-},
-"https://openai.com/index/put-data-to-work": {
-"t": "Now everyone can put data to work",
-"s": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-},
-"https://techcrunch.com/?p=3162667": {
-"t": "AI agents are flooding public services with new requests",
-"s": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
-},
-"https://techcrunch.com/?p=3162108": {
-"t": "Maven Robotics wants to steal your robot deployment deal",
-"s": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
-},
-"https://the-decoder.com/?p=40061": {
-"t": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
-"s": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research. That supports the theory of an increasingly \"spiky\" AI development path, with extreme strength in select domains rather than broad progress, at least as long as AI can't improve itself and still needs targeted optimization with human-generated data. The article GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design appeared first on The Decoder."
-},
-"01M23Q2R3K11Z1TNGRS35GYWR6": {
-"t": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-"s": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale."
-},
-"https://the-decoder.com/?p=40053": {
-"t": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-"s": "Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token. The model ships under the MIT license and targets much cheaper AI agents. The article New Deepseek model V4.1-Flash cuts memory needs for AI agents appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40039": {
-"t": "Muse can shop, write emails, and negotiate prices for users, all through WhatsApp",
-"s": "Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails through WhatsApp, complete with a payment feature that runs through Stripe's Link. That puts Meta ahead of OpenAI, which stopped its direct checkout feature in ChatGPT. A separate security agent called Sentinel monitors every action before it reaches the internet. The article Muse can shop, write emails, and negotiate prices for users, all through WhatsApp appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40048": {
-"t": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation",
-"s": "Nvidia and Palantir want to run supply chains with AI. The article Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40036": {
-"t": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
-"s": "Jacob Coxon, a departing Anthropic researcher, warned on CNN that self-improving AI poses an existential threat to humanity. Safety researchers at Anthropic and OpenAI share his views, and US politicians and Joe Rogan have picked up the topic. But cultural and financial interests are also at play behind these warnings, and the extinction scenario remains an extreme and contested position. The article AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40027": {
-"t": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
-"s": "The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percent of US companies fell nearly 10 percent in August. The price per million tokens has dropped 41 percent since March 2026, and companies are actively shifting usage away from expensive frontier models toward cheaper alternatives. For providers like OpenAI and Anthropic, the question is whether volume growth is fast enough to make up for falling prices. The article Top AI spenders cut per-employee costs by nearly 10 percent in August appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82215": {
-"t": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
-"s": "Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It […] The post DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse appeared first on MarkTechPost."
-},
 "https://openai.com/index/expanding-ai-access-us-government": {
 "t": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
 "s": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
@@ -4798,5 +4722,81 @@
 "https://www.marktechpost.com/?p=83489": {
 "t": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
 "s": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin": {
+"t": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+"s": ""
+},
+"https://github.blog/?p=99628": {
+"t": "The bridge to agent-scale Git infrastructure",
+"s": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog."
+},
+"https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/": {
+"t": "The $15 billion ad-powered AI startup your doctor may already be using",
+"s": "OpenEvidence is booming despite questions about accuracy and ads."
+},
+"https://huggingface.co/blog/ibm-granite/granite-speech-5": {
+"t": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+"s": ""
+},
+"https://the-decoder.com/?p=41795": {
+"t": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+"s": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41799": {
+"t": "Mistral and Nvidia want to speed up industrial design with physics AI",
+"s": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder."
+},
+"01M5E1HXVZGTKAKEYZ0KMZQ65Q": {
+"t": "Introducing full transaction detection for Cloudflare WAF",
+"s": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss."
+},
+"https://techcrunch.com/?p=3179812": {
+"t": "AI promises productivity, but for managers, it’s mostly a headache for now",
+"s": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
+},
+"01M5FBPW0VHJGHYHGS7CWWKGSP": {
+"t": "Cloudflare deploys protections against php2shell vulnerability",
+"s": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers."
+},
+"https://the-decoder.com/?p=41791": {
+"t": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
+"s": "Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41788": {
+"t": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+"s": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a political signal of possible retaliation. The article China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home appeared first on The Decoder."
+},
+"https://openai.com/index/chatgpt-ads-expands-26-new-countries": {
+"t": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+"s": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+},
+"01M5AYSGXBWG00KS9KC299XDR8": {
+"t": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+"s": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control."
+},
+"https://huggingface.co/blog/nvidia/kumo-forecast": {
+"t": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+"s": ""
+},
+"https://the-decoder.com/?p=41785": {
+"t": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
+"s": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying explanation for the behavior. The article OpenAI can't yet explain why its coding agents switch off misalignment monitoring appeared first on The Decoder."
+},
+"https://openai.com/index/openai-models-google-cloud": {
+"t": "OpenAI models are coming to Google Cloud",
+"s": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+},
+"https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
+"t": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+"s": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+},
+"https://openai.com/index/building-chatgpt-ad-stack": {
+"t": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+"s": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+},
+"https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+"t": "Using thousands of AI agents to uncover new leads in biological data",
+"s": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
 }
 }

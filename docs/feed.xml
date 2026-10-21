@@ -5,8 +5,136 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 21 Oct 2026 09:00:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 16:22:02 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+<link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin</link>
+<guid isPermaLink="false">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin</guid>
+<pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The bridge to agent-scale Git infrastructure</title>
+<link>https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</link>
+<guid isPermaLink="false">https://github.blog/?p=99628</guid>
+<pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The $15 billion ad-powered AI startup your doctor may already be using</title>
+<link>https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/</guid>
+<pubDate>Wed, 21 Oct 2026 15:14:07 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】OpenEvidence is booming despite questions about accuracy and ads.<br/><br/><a href="https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
+<pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-granite/granite-speech-5">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait</title>
+<link>https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41795</guid>
+<pubDate>Wed, 21 Oct 2026 14:45:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral and Nvidia want to speed up industrial design with physics AI</title>
+<link>https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41799</guid>
+<pubDate>Wed, 21 Oct 2026 14:40:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing full transaction detection for Cloudflare WAF</title>
+<link>https://blog.cloudflare.com/full-transaction-waf/</link>
+<guid isPermaLink="false">01M5E1HXVZGTKAKEYZ0KMZQ65Q</guid>
+<pubDate>Wed, 21 Oct 2026 14:10:42 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss.<br/><br/><a href="https://blog.cloudflare.com/full-transaction-waf/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI promises productivity, but for managers, it’s mostly a headache for now</title>
+<link>https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179812</guid>
+<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.<br/><br/><a href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cloudflare deploys protections against php2shell vulnerability</title>
+<link>https://blog.cloudflare.com/php-vulnerabilities-waf-protection/</link>
+<guid isPermaLink="false">01M5FBPW0VHJGHYHGS7CWWKGSP</guid>
+<pubDate>Wed, 21 Oct 2026 13:56:45 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers.<br/><br/><a href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days</title>
+<link>https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41791</guid>
+<pubDate>Wed, 21 Oct 2026 13:42:05 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home</title>
+<link>https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41788</guid>
+<pubDate>Wed, 21 Oct 2026 13:04:19 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a political signal of possible retaliation. The article China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+<link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.<br/><br/><a href="https://openai.com/index/chatgpt-ads-expands-26-new-countries">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How Commerce.com and Cloudflare are getting storefronts ready for AI agents</title>
+<link>https://blog.cloudflare.com/webmcp-commerce/</link>
+<guid isPermaLink="false">01M5AYSGXBWG00KS9KC299XDR8</guid>
+<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.<br/><br/><a href="https://blog.cloudflare.com/webmcp-commerce/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
+<link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
+<guid isPermaLink="false">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
+<pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/kumo-forecast">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI can't yet explain why its coding agents switch off misalignment monitoring</title>
+<link>https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41785</guid>
+<pubDate>Wed, 21 Oct 2026 12:34:57 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying explanation for the behavior. The article OpenAI can't yet explain why its coding agents switch off misalignment monitoring appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI models are coming to Google Cloud</title>
+<link>https://openai.com/index/openai-models-google-cloud</link>
+<guid isPermaLink="false">https://openai.com/index/openai-models-google-cloud</guid>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.<br/><br/><a href="https://openai.com/index/openai-models-google-cloud">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Claude Science tackles deadly scorpion stings by designing protein binders from scratch</title>
 <link>https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/</link>
@@ -24,12 +152,36 @@
 <description><![CDATA[【the-decoder.com】OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research. The article OpenAI acquires Orchestra Bio to build AI agents that speed up drug development appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+<guid isPermaLink="false">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
+<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.<br/><br/><a href="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
+<link>https://openai.com/index/building-chatgpt-ad-stack</link>
+<guid isPermaLink="false">https://openai.com/index/building-chatgpt-ad-stack</guid>
+<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.<br/><br/><a href="https://openai.com/index/building-chatgpt-ad-stack">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK</title>
 <link>https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83492</guid>
 <pubDate>Wed, 21 Oct 2026 06:03:12 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Using thousands of AI agents to uncover new leads in biological data</title>
+<link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+<guid isPermaLink="false">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+<pubDate>Wed, 21 Oct 2026 04:50:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.<br/><br/><a href="https://openai.com/index/scaling-ai-research-for-complex-biological-data">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets</title>
@@ -144,14 +296,6 @@
 <description><![CDATA[【arstechnica.com】Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.<br/><br/><a href="https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
-<link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
-<pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/cosmos3-h-dreams">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei</title>
 <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3179732</guid>
@@ -182,22 +326,6 @@
 <pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.<br/><br/><a href="https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs</title>
-<link>https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41759</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:59 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option "terrible." The article Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran</title>
-<link>https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41754</guid>
-<pubDate>Tue, 20 Oct 2026 16:40:29 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modernizing critical financial infrastructure. The article OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’</title>
@@ -296,30 +424,6 @@
 <description><![CDATA[【arstechnica.com】Meta is suspending the sharing feature while it investigates its privacy.<br/><br/><a href="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons</title>
-<link>https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41743</guid>
-<pubDate>Tue, 20 Oct 2026 12:32:56 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】The Army Cyber Command is developing AI agents that move through other networks like a computer worm and "neutralize" targets, according to internal documents. The program, codenamed ECHOTRIBBLE, is designed to reach even air-gapped systems with no network connection and run with minimal human oversight. Experts warn about collateral damage, pointing out that AI agents have recently broken into outside systems without meaning to, even without any order to attack. The article Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs</title>
-<link>https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41741</guid>
-<pubDate>Tue, 20 Oct 2026 12:04:56 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models. The article Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>US bans Deepseek technology across federal civilian agencies</title>
-<link>https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41740</guid>
-<pubDate>Tue, 20 Oct 2026 11:34:54 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek. The article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Yelp can now call on your behalf to check wait times at a restaurant</title>
 <link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3178995</guid>
@@ -382,110 +486,6 @@
 <pubDate>Tue, 20 Oct 2026 01:27:03 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.<br/><br/><a href="https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
-<link>https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83006</guid>
-<pubDate>Tue, 20 Oct 2026 00:03:38 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hugging Face ❤️ TorchTPU: TPUs, Natively</title>
-<link>https://huggingface.co/blog/hf-torchtpu</link>
-<guid isPermaLink="false">https://huggingface.co/blog/hf-torchtpu</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/hf-torchtpu">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
-<link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
-<guid isPermaLink="false">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/anylanguagemodel-1-0">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MPS in PyTorch 2.15</title>
-<link>https://huggingface.co/blog/mps-pytorch-2-15</link>
-<guid isPermaLink="false">https://huggingface.co/blog/mps-pytorch-2-15</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/mps-pytorch-2-15">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI acquires Orchestra Bio</title>
-<link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
-<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.<br/><br/><a href="https://openai.com/index/openai-to-acquire-orchestra-bio">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nscale and Anthropic are reportedly in talks for yet another $45B compute deal</title>
-<link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179487</guid>
-<pubDate>Mon, 19 Oct 2026 23:39:38 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.<br/><br/><a href="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
-<link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3178312</guid>
-<pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]<br/><br/><a href="https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
-<link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179279</guid>
-<pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.<br/><br/><a href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
-<link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</guid>
-<pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】US fears Saudi government will help ex-OpenAI engineer flee spying charges.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cutting our inference bill by 68% by being obsessive about optimization</title>
-<link>https://blog.cloudflare.com/obsessive-inference-optimization/</link>
-<guid isPermaLink="false">01M58NMKW6A1DQJNZXH37VZ9JH</guid>
-<pubDate>Mon, 19 Oct 2026 19:12:53 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.<br/><br/><a href="https://blog.cloudflare.com/obsessive-inference-optimization/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How to continue a GitHub Copilot app session in VS Code</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/</link>
-<guid isPermaLink="false">https://github.blog/?p=99556</guid>
-<pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Clairic, a new System One class of extraction models</title>
-<link>https://blog.cloudflare.com/clairic-extraction-model/</link>
-<guid isPermaLink="false">01M5AKCKW0449M3Q6FW10XB4K3</guid>
-<pubDate>Mon, 19 Oct 2026 17:48:26 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.<br/><br/><a href="https://blog.cloudflare.com/clairic-extraction-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI game clones are making indie developers afraid to show their work</title>
-<link>https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/</link>
-<guid isPermaLink="false">https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/</guid>
-<pubDate>Mon, 19 Oct 2026 16:59:22 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.<br/><br/><a href="https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
