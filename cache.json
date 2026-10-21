@@ -1,16 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82197": {
-"t": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
-"s": "Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user […] The post Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3162041": {
-"t": "Massachusetts hits data centers with new clean power rules",
-"s": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
-},
-"https://techcrunch.com/?p=3162193": {
-"t": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-"s": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded."
-},
 "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/": {
 "t": "Six Chinese AI firms accused of aggressively copying US frontier models",
 "s": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models."
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/openai-to-acquire-orchestra-bio": {
 "t": "OpenAI acquires Orchestra Bio",
 "s": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
+},
+"https://techcrunch.com/?p=3179755": {
+"t": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+"s": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+},
+"https://techcrunch.com/?p=3179644": {
+"t": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+"s": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
+},
+"https://openai.com/index/terminal-x": {
+"t": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+"s": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
 }
 }

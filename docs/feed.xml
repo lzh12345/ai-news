@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 20 Oct 2026 22:50:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 02:41:15 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
+<link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179755</guid>
+<pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.<br/><br/><a href="https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</title>
 <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
@@ -158,6 +166,14 @@
 <pubDate>Tue, 20 Oct 2026 16:40:29 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modernizing critical financial infrastructure. The article OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’</title>
+<link>https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3179644</guid>
+<pubDate>Tue, 20 Oct 2026 16:20:06 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.<br/><br/><a href="https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -312,6 +328,14 @@
 <description><![CDATA[【marktechpost.com】Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million input tokens and charges nothing for output. The post Cloudflare Releases Clairic, a System One Extraction Model on Workers AI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
+<link>https://openai.com/index/terminal-x</link>
+<guid isPermaLink="false">https://openai.com/index/terminal-x</guid>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.<br/><br/><a href="https://openai.com/index/terminal-x">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second</title>
 <link>https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83009</guid>
@@ -400,22 +424,6 @@
 <description><![CDATA[【arstechnica.com】US fears Saudi government will help ex-OpenAI engineer flee spying charges.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
-<link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179099</guid>
-<pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.<br/><br/><a href="https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
-<link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179164</guid>
-<pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.<br/><br/><a href="https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Cutting our inference bill by 68% by being obsessive about optimization</title>
 <link>https://blog.cloudflare.com/obsessive-inference-optimization/</link>
 <guid isPermaLink="false">01M58NMKW6A1DQJNZXH37VZ9JH</guid>
@@ -478,14 +486,6 @@
 <pubDate>Mon, 19 Oct 2026 13:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.<br/><br/><a href="https://blog.cloudflare.com/protect-your-netscaler-gateway/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input</title>
-<link>https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83002</guid>
-<pubDate>Mon, 19 Oct 2026 12:37:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
