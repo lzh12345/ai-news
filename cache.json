@@ -1,72 +1,4 @@
 {
-"https://openai.com/index/expanding-ai-access-us-government": {
-"t": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-"s": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
-},
-"https://huggingface.co/blog/gradio-workflow-1111": {
-"t": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-"s": ""
-},
-"https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/": {
-"t": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-"s": "\"Bankruptcy cannot become the new land grab for AI.”"
-},
-"https://techcrunch.com/?p=3162739": {
-"t": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-"s": "Come inside the mind of a bot trying to convince the internet it's human."
-},
-"https://the-decoder.com/?p=40100": {
-"t": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
-"s": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor. At $0.05 per minute, it's not cheap. The article OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3162605": {
-"t": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-"s": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
-},
-"https://the-decoder.com/?p=40092": {
-"t": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
-"s": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems. At the same time, Anthropic shows how Claude Mythos 5 declared real systems a simulation to itself, uploaded a doctored package to PyPI, and even fooled the oversight monitor. With GPT-6 Astra, the most important oversight tool is now under pressure, namely the models' readable reasoning. The article Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40087": {
-"t": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
-"s": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\" Internally, the team knew AI alignment was not solved, according to Vishal Maini. The article Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk appeared first on The Decoder."
-},
-"https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
-"t": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-"s": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-},
-"https://openai.com/index/introducing-chatgpt-financial-services": {
-"t": "Introducing ChatGPT for Financial Services",
-"s": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
-},
-"https://openai.com/index/introducing-gpt-live-1-in-the-api": {
-"t": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-"s": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-},
-"https://techcrunch.com/?p=3162873": {
-"t": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-"s": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular."
-},
-"https://techcrunch.com/?p=3162704": {
-"t": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-"s": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses."
-},
-"https://github.blog/?p=98771": {
-"t": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-"s": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3162967": {
-"t": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-"s": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
-},
-"https://techcrunch.com/?p=3162919": {
-"t": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-"s": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
-},
-"https://techcrunch.com/?p=3162897": {
-"t": "Meta’s AI agent Muse is now the No. 2 app in the US",
-"s": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
-},
 "https://openai.com/index/introducing-the-agents-api": {
 "t": "Introducing the Agents API",
 "s": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
@@ -4798,5 +4730,73 @@
 "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
 "t": "Using thousands of AI agents to uncover new leads in biological data",
 "s": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+},
+"https://techcrunch.com/?p=3180358": {
+"t": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+"s": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+},
+"https://techcrunch.com/?p=3180391": {
+"t": "Meta says Muse has over 10M users, with shopping a top activity",
+"s": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+},
+"https://openai.com/index/broad-access-through-consistent-standards": {
+"t": "Broad access through consistent standards",
+"s": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+},
+"https://techcrunch.com/?p=3180324": {
+"t": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+"s": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+},
+"https://the-decoder.com/?p=41815": {
+"t": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
+"s": "OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon. OpenAI warns that the same AI capabilities that find vulnerabilities can help attackers too. The article OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites appeared first on The Decoder."
+},
+"https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/": {
+"t": "The new human-crafted Apple Music brand matters in an AI world",
+"s": "Opinion: In a world of AI slop, showing the human hands making things helps."
+},
+"https://techcrunch.com/?p=3180139": {
+"t": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+"s": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+},
+"https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/": {
+"t": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+"s": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
+},
+"https://huggingface.co/blog/nvidia/kumo-relational": {
+"t": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+"s": ""
+},
+"https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/": {
+"t": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+"s": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules."
+},
+"https://the-decoder.com/?p=41808": {
+"t": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
+"s": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers. The article Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three appeared first on The Decoder."
+},
+"https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
+"t": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+"s": ""
+},
+"https://techcrunch.com/?p=3180202": {
+"t": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+"s": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
+},
+"https://the-decoder.com/?p=41805": {
+"t": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
+"s": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year. The article Deepmind founder Hassabis shortens AGI timeline from five to two to three years appeared first on The Decoder."
+},
+"https://openai.com/index/att-legal": {
+"t": "How AT&T is rethinking in-house legal work with OpenAI",
+"s": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+},
+"https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
+"t": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+"s": ""
+},
+"https://openai.com/index/empowering-cyber-defenders": {
+"t": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+"s": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
 }
 }
