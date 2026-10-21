@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 21 Oct 2026 02:41:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 09:00:28 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude Science tackles deadly scorpion stings by designing protein binders from scratch</title>
+<link>https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41774</guid>
+<pubDate>Wed, 21 Oct 2026 08:37:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether they actually work as antivenom remains an open question. The article Claude Science tackles deadly scorpion stings by designing protein binders from scratch appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI acquires Orchestra Bio to build AI agents that speed up drug development</title>
+<link>https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41778</guid>
+<pubDate>Wed, 21 Oct 2026 08:32:54 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research. The article OpenAI acquires Orchestra Bio to build AI agents that speed up drug development appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK</title>
+<link>https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83492</guid>
+<pubDate>Wed, 21 Oct 2026 06:03:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets</title>
+<link>https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83489</guid>
+<pubDate>Wed, 21 Oct 2026 04:33:40 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
 <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
@@ -440,14 +472,6 @@
 <description><![CDATA[【github.blog】Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>MiniMax M3.1 Flash shows China's AI price race has no floor in sight</title>
-<link>https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41732</guid>
-<pubDate>Mon, 19 Oct 2026 18:22:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and price. The article MiniMax M3.1 Flash shows China's AI price race has no floor in sight appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Introducing Clairic, a new System One class of extraction models</title>
 <link>https://blog.cloudflare.com/clairic-extraction-model/</link>
 <guid isPermaLink="false">01M5AKCKW0449M3Q6FW10XB4K3</guid>
@@ -456,36 +480,12 @@
 <description><![CDATA[【blog.cloudflare.com】Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.<br/><br/><a href="https://blog.cloudflare.com/clairic-extraction-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant</title>
-<link>https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41727</guid>
-<pubDate>Mon, 19 Oct 2026 17:36:26 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which could be an early sign that the breakneck pace of progress in AI video models is starting to level off. The article Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI game clones are making indie developers afraid to show their work</title>
 <link>https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/</link>
 <guid isPermaLink="false">https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/</guid>
 <pubDate>Mon, 19 Oct 2026 16:59:22 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.<br/><br/><a href="https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Disney found a way to buy Character.AI without buying its lawsuits</title>
-<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/</guid>
-<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities</title>
-<link>https://blog.cloudflare.com/protect-your-netscaler-gateway/</link>
-<guid isPermaLink="false">01M537RHECVHNJPV12N2E54ZR7</guid>
-<pubDate>Mon, 19 Oct 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.<br/><br/><a href="https://blog.cloudflare.com/protect-your-netscaler-gateway/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,20 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/": {
-"t": "Six Chinese AI firms accused of aggressively copying US frontier models",
-"s": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models."
-},
-"https://techcrunch.com/?p=3162222": {
-"t": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-"s": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
-},
-"https://the-decoder.com/?p=40019": {
-"t": "Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario",
-"s": "Anthropic published an economic model with three scenarios for the US economy through 2030. In the extreme scenario, output doubles every 4.5 years and knowledge worker unemployment hits 17.9 percent. CEO Dario Amodei's own warnings from May land squarely in that most extreme bucket. The article Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3162168": {
-"t": "The hinge for Apple’s new foldable phone was built with AI",
-"s": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
-},
 "https://openai.com/index/gpt-6-astra-next-generation-work": {
 "t": "GPT-6 Astra: The next generation in intelligence for work",
 "s": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
@@ -4798,5 +4782,21 @@
 "https://openai.com/index/terminal-x": {
 "t": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
 "s": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+},
+"https://the-decoder.com/?p=41774": {
+"t": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+"s": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether they actually work as antivenom remains an open question. The article Claude Science tackles deadly scorpion stings by designing protein binders from scratch appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41778": {
+"t": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+"s": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research. The article OpenAI acquires Orchestra Bio to build AI agents that speed up drug development appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83492": {
+"t": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
+"s": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83489": {
+"t": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+"s": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets appeared first on MarkTechPost."
 }
 }
