@@ -1,20 +1,4 @@
 {
-"https://openai.com/index/introducing-the-agents-api": {
-"t": "Introducing the Agents API",
-"s": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-},
-"https://www.marktechpost.com/?p=82228": {
-"t": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
-"s": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and […] The post Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82225": {
-"t": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
-"s": "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In a matched benchmark on 1,000 human dimer targets across 8xH100 GPUs, BioIR-accelerated Boltz-2 delivered 58.5K successfully folded residues per GPU-hour versus 20.2K for a torch-compiled open-source implementation, a 2.90x gain. The runtime optimizes at 3 layers: custom kernel selection, CUDA Graph capture, and Ray-based replica scaling that places 1 full model copy per GPU. BioIR already powered the AlphaFold Database expansion, generating about 31 million candidate protein complexes across 4,777 proteomes. The post NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100 appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82222": {
-"t": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
-"s": "OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent’s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. […] The post OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call appeared first on MarkTechPost."
-},
 "https://the-decoder.com/?p=40105": {
 "t": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
 "s": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents. There are no extra fees beyond token usage. Cloudflare, Vercel, and Oracle offer additional sandbox environments. The article OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT appeared first on The Decoder."
@@ -4798,5 +4782,21 @@
 "https://openai.com/index/empowering-cyber-defenders": {
 "t": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
 "s": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
+},
+"https://www.marktechpost.com/?p=83514": {
+"t": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
+"s": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83511": {
+"t": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
+"s": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3180197": {
+"t": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+"s": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+},
+"https://openai.com/index/cloudflare-cyber": {
+"t": "Cloudflare links vulnerability discovery to defense with OpenAI",
+"s": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
 }
 }

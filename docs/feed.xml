@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 21 Oct 2026 22:55:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 02:39:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</title>
@@ -14,6 +14,22 @@
 <pubDate>Wed, 21 Oct 2026 22:51:22 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Blackstone’s AI head on why the PE giant isn't panicked by market jitters.<br/><br/><a href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params</title>
+<link>https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83514</guid>
+<pubDate>Wed, 21 Oct 2026 22:39:41 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Vercel Open-Sources durable-harness for Crash-Proof Coding Agents</title>
+<link>https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83511</guid>
+<pubDate>Wed, 21 Oct 2026 22:15:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>TechCrunch Founder Summit 2026: Everything you need to know</title>
@@ -94,6 +110,14 @@
 <pubDate>Wed, 21 Oct 2026 18:20:40 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
+<link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180197</guid>
+<pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.<br/><br/><a href="https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three</title>
@@ -312,6 +336,14 @@
 <description><![CDATA[【marktechpost.com】Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Cloudflare links vulnerability discovery to defense with OpenAI</title>
+<link>https://openai.com/index/cloudflare-cyber</link>
+<guid isPermaLink="false">https://openai.com/index/cloudflare-cyber</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.<br/><br/><a href="https://openai.com/index/cloudflare-cyber">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Democratic governance of frontier AI, part II: Empowering cyber defenders</title>
 <link>https://openai.com/index/empowering-cyber-defenders</link>
 <guid isPermaLink="false">https://openai.com/index/empowering-cyber-defenders</guid>
@@ -454,38 +486,6 @@
 <pubDate>Tue, 20 Oct 2026 16:05:03 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Plants can speak using electricity, so this startup built an AI model to decipher their language</title>
-<link>https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179291</guid>
-<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.<br/><br/><a href="https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs</title>
-<link>https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83022</guid>
-<pubDate>Tue, 20 Oct 2026 15:22:03 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google and Meta open-sourced TorchTPU, a native PyTorch backend for Cloud TPUs. It runs eager by default, compiles through torch.compile and XLA, and replaces PyTorch/XLA for new workloads. The post Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
-<link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
-<pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/altk-evolve-bc">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash</title>
-<link>https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83018</guid>
-<pubDate>Tue, 20 Oct 2026 14:31:59 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only. The post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
