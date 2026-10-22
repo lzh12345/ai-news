@@ -1,28 +1,4 @@
 {
-"https://the-decoder.com/?p=40105": {
-"t": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
-"s": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents. There are no extra fees beyond token usage. Cloudflare, Vercel, and Oracle offer additional sandbox environments. The article OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40132": {
-"t": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-"s": "Anthropic's new threat intelligence report documents eight months of Claude abuse. Chinese AI labs like Alibaba's Qwen team, DeepSeek, and Moonshot AI relayed requests en masse or extracted training data, with Qwen alone accounting for more than 151 million exchanges. Actors also used Claude for missile software, autonomous kamikaze drones, and nationwide surveillance systems. The article How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data appeared first on The Decoder."
-},
-"https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/": {
-"t": "Claude users found ways around safeguards for bioweapons research",
-"s": "Some dangerous biology looks much like legitimate research, complicating AI safeguards."
-},
-"01M283KZX4CC68X1GXQMAR2KMN": {
-"t": "Introducing automatic remediation policies with Cloudflare CASB",
-"s": "Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send webhooks without manual intervention."
-},
-"https://the-decoder.com/?p=40116": {
-"t": "OpenAI floats a shared AI slowdown, takes it to Congress",
-"s": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article OpenAI floats a shared AI slowdown, takes it to Congress appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40025": {
-"t": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
-"s": "A class action lawsuit accuses Anthropic of misrepresenting how much Claude subscribers actually get to use the service. The article Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=40071": {
 "t": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
 "s": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI). The article The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable appeared first on The Decoder."
@@ -4798,5 +4774,29 @@
 "https://openai.com/index/cloudflare-cyber": {
 "t": "Cloudflare links vulnerability discovery to defense with OpenAI",
 "s": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
+},
+"https://the-decoder.com/?p=41818": {
+"t": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+"s": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like payments. With Duet, Anthropic is responding to similar products from xAI, Meta, and OpenAI. The article Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\" appeared first on The Decoder."
+},
+"https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
+"t": "Ensemble forecasting with IBM Granite time-series models",
+"s": ""
+},
+"https://www.marktechpost.com/?p=83534": {
+"t": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
+"s": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models. The post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83529": {
+"t": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
+"s": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens. The post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83520": {
+"t": "A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU",
+"s": "Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration. The post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83517": {
+"t": "NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels",
+"s": "Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure kernel fusion directly from Python code. The post NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels appeared first on MarkTechPost."
 }
 }

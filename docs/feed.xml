@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 22 Oct 2026 02:39:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 09:02:48 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent &quot;Claude Duet&quot;</title>
+<link>https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41818</guid>
+<pubDate>Thu, 22 Oct 2026 08:35:22 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like payments. With Duet, Anthropic is responding to similar products from xAI, Meta, and OpenAI. The article Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent "Claude Duet" appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Ensemble forecasting with IBM Granite time-series models</title>
+<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1">阅读原文</a>]]></description>
+</item>
+<item>
+<title>IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation</title>
+<link>https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83534</guid>
+<pubDate>Thu, 22 Oct 2026 07:00:56 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models. The post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method</title>
+<link>https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83529</guid>
+<pubDate>Thu, 22 Oct 2026 04:56:31 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens. The post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU</title>
+<link>https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83520</guid>
+<pubDate>Thu, 22 Oct 2026 04:17:37 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration. The post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels</title>
+<link>https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83517</guid>
+<pubDate>Thu, 22 Oct 2026 03:59:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure kernel fusion directly from Python code. The post NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</title>
 <link>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</link>
@@ -288,14 +336,6 @@
 <description><![CDATA[【the-decoder.com】Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether they actually work as antivenom remains an open question. The article Claude Science tackles deadly scorpion stings by designing protein binders from scratch appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI acquires Orchestra Bio to build AI agents that speed up drug development</title>
-<link>https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41778</guid>
-<pubDate>Wed, 21 Oct 2026 08:32:54 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research. The article OpenAI acquires Orchestra Bio to build AI agents that speed up drug development appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
 <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
 <guid isPermaLink="false">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
@@ -446,46 +486,6 @@
 <pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.<br/><br/><a href="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta tries to scapegoat staff who downloaded torrents to spare execs</title>
-<link>https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/</guid>
-<pubDate>Tue, 20 Oct 2026 17:40:20 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Meta argues nobody “decided” to pirate books to train AI.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps</title>
-<link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179696</guid>
-<pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.<br/><br/><a href="https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’</title>
-<link>https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179644</guid>
-<pubDate>Tue, 20 Oct 2026 16:20:06 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.<br/><br/><a href="https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
-<link>https://huggingface.co/blog/allenai/fairstress</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/fairstress</guid>
-<pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/fairstress">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How 3 Java Champions are using GitHub Copilot for increased productivity</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/</link>
-<guid isPermaLink="false">https://github.blog/?p=99538</guid>
-<pubDate>Tue, 20 Oct 2026 16:05:03 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
