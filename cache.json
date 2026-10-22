@@ -1,68 +1,4 @@
 {
-"https://techcrunch.com/?p=3163189": {
-"t": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-"s": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
-},
-"https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/": {
-"t": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-"s": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
-},
-"https://openai.com/index/perplexity-improving-accuracy-with-astra": {
-"t": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-"s": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-},
-"https://techcrunch.com/?p=3163323": {
-"t": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-"s": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
-},
-"https://www.marktechpost.com/?p=82248": {
-"t": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
-"s": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on held-out tasks. The post Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82243": {
-"t": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
-"s": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it […] The post Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills appeared first on MarkTechPost."
-},
-"https://openai.com/index/cognition-devin-testing-with-astra": {
-"t": "Cognition helps Devin test its own work with GPT‑6 Astra",
-"s": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-},
-"https://www.marktechpost.com/?p=82239": {
-"t": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
-"s": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with commercial access through Cohere Model Vault or RWS Language Weaver. The post Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82235": {
-"t": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
-"s": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE. The post Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82232": {
-"t": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
-"s": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0. The post Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=40181": {
-"t": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
-"s": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while competitor MolmoAct2 couldn't finish a single one. A researcher calls it a \"step change in spatial reasoning.\" The article GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40177": {
-"t": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
-"s": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history. Most of that money will likely end up right back at Nvidia in chip orders. The article Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40166": {
-"t": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
-"s": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals. The article AI models' written reasoning steps correspond to distinct internal patterns, a new study finds appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40163": {
-"t": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
-"s": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher. More capable models need less hand-holding, so developers should tie instructions to specific tasks and spell out when the job is done. The article GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends appeared first on The Decoder."
-},
-"https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/": {
-"t": "I spent $4,000 on a robot dog from China",
-"s": "Unitree might be the world’s most important robotics company."
-},
-"https://the-decoder.com/?p=40157": {
-"t": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
-"s": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments. OpenAI reportedly never told those affected. The article OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=40148": {
 "t": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
 "s": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time points in a single pass, which cuts compute time and reduces compounding errors. The article Google's new AI model predicts the future from sales data, weather, and discount schedules appeared first on The Decoder."
@@ -4798,5 +4734,69 @@
 "https://techcrunch.com/?p=3180349": {
 "t": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
 "s": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
+},
+"https://huggingface.co/blog/microsoft/thinkingbox-training": {
+"t": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+"s": ""
+},
+"https://techcrunch.com/?p=3180936": {
+"t": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+"s": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+},
+"https://techcrunch.com/?p=3180727": {
+"t": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+"s": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+},
+"https://openai.com/index/decisions-api": {
+"t": "Build more responsive apps with the Decisions API",
+"s": "Fast, focused, low-cost decisions for any application."
+},
+"https://techcrunch.com/?p=3180617": {
+"t": "Canva releases its first image generation model",
+"s": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+},
+"https://techcrunch.com/?p=3180667": {
+"t": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+"s": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+},
+"https://techcrunch.com/?p=3180761": {
+"t": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+"s": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
+},
+"https://the-decoder.com/?p=41849": {
+"t": "Major US banks are locking out AI agents that log in with customer credentials",
+"s": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-only access. The article Major US banks are locking out AI agents that log in with customer credentials appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41846": {
+"t": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+"s": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83553": {
+"t": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
+"s": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost."
+},
+"https://github.blog/?p=99645": {
+"t": "How bug bounty sharpens one researcher’s security skills",
+"s": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog."
+},
+"https://www.marktechpost.com/?p=83549": {
+"t": "Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0",
+"s": "Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3180678": {
+"t": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+"s": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+},
+"https://www.marktechpost.com/?p=83546": {
+"t": "Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores",
+"s": "Cohere Rerank 5 ships in Pro and Fast tiers with a 32K context window, Context Focus passage extraction and calibrated relevance scores. Pro scores 82.2 on BRIGHT and costs $0.05 per 1M tokens. The post Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83543": {
+"t": "A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing",
+"s": "Explore how to audit and rebuild Datalab's OmniParseBench, test parser ranking certainty with document-level bootstrapping, and evaluate Tesseract and Indra OCR performance on a custom sample. The post A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing appeared first on MarkTechPost."
+},
+"https://openai.com/index/uber-chatgpt-work-rollout": {
+"t": "Uber brings ChatGPT Work to all employees with OpenAI",
+"s": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
 }
 }

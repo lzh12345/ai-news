@@ -5,8 +5,120 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 22 Oct 2026 16:22:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 22:53:28 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+<guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
+<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/microsoft/thinkingbox-training">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
+<link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180936</guid>
+<pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
+<link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180727</guid>
+<pubDate>Thu, 22 Oct 2026 19:07:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.<br/><br/><a href="https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Build more responsive apps with the Decisions API</title>
+<link>https://openai.com/index/decisions-api</link>
+<guid isPermaLink="false">https://openai.com/index/decisions-api</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Fast, focused, low-cost decisions for any application.<br/><br/><a href="https://openai.com/index/decisions-api">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Canva releases its first image generation model</title>
+<link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.<br/><br/><a href="https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
+<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI is launching its decision model to the world. Can it compete with the original Jev?<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
+<link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180761</guid>
+<pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.<br/><br/><a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Major US banks are locking out AI agents that log in with customer credentials</title>
+<link>https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41849</guid>
+<pubDate>Thu, 22 Oct 2026 18:26:02 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-only access. The article Major US banks are locking out AI agents that log in with customer credentials appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine</title>
+<link>https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41846</guid>
+<pubDate>Thu, 22 Oct 2026 17:50:09 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</title>
+<link>https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83553</guid>
+<pubDate>Thu, 22 Oct 2026 17:33:25 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How bug bounty sharpens one researcher’s security skills</title>
+<link>https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/</link>
+<guid isPermaLink="false">https://github.blog/?p=99645</guid>
+<pubDate>Thu, 22 Oct 2026 17:21:30 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0</title>
+<link>https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83549</guid>
+<pubDate>Thu, 22 Oct 2026 16:56:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
+<link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180678</guid>
+<pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.<br/><br/><a href="https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores</title>
+<link>https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83546</guid>
+<pubDate>Thu, 22 Oct 2026 16:31:31 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cohere Rerank 5 ships in Pro and Fast tiers with a 32K context window, Context Focus passage extraction and calibrated relevance scores. Pro scores 82.2 on BRIGHT and costs $0.05 per 1M tokens. The post Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Only 13 percent of companies see real returns from AI, Gartner survey finds</title>
 <link>https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/</link>
@@ -14,6 +126,14 @@
 <pubDate>Thu, 22 Oct 2026 16:18:02 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to actually increase their operating costs. Yet 75 percent of CEOs plan to keep raising their technology budgets. So far, strategic conviction is beating measurable results. The article Only 13 percent of companies see real returns from AI, Gartner survey finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing</title>
+<link>https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83543</guid>
+<pubDate>Thu, 22 Oct 2026 16:11:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Explore how to audit and rebuild Datalab's OmniParseBench, test parser ranking certainty with document-level bootstrapping, and evaluate Tesseract and Indra OCR performance on a custom sample. The post A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
@@ -166,6 +286,14 @@
 <pubDate>Thu, 22 Oct 2026 03:59:12 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure kernel fusion directly from Python code. The post NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Uber brings ChatGPT Work to all employees with OpenAI</title>
+<link>https://openai.com/index/uber-chatgpt-work-rollout</link>
+<guid isPermaLink="false">https://openai.com/index/uber-chatgpt-work-rollout</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.<br/><br/><a href="https://openai.com/index/uber-chatgpt-work-rollout">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</title>
@@ -358,134 +486,6 @@
 <pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-granite/granite-speech-5">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait</title>
-<link>https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41795</guid>
-<pubDate>Wed, 21 Oct 2026 14:45:45 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Mistral and Nvidia want to speed up industrial design with physics AI</title>
-<link>https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41799</guid>
-<pubDate>Wed, 21 Oct 2026 14:40:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing full transaction detection for Cloudflare WAF</title>
-<link>https://blog.cloudflare.com/full-transaction-waf/</link>
-<guid isPermaLink="false">01M5E1HXVZGTKAKEYZ0KMZQ65Q</guid>
-<pubDate>Wed, 21 Oct 2026 14:10:42 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss.<br/><br/><a href="https://blog.cloudflare.com/full-transaction-waf/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI promises productivity, but for managers, it’s mostly a headache for now</title>
-<link>https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179812</guid>
-<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.<br/><br/><a href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare deploys protections against php2shell vulnerability</title>
-<link>https://blog.cloudflare.com/php-vulnerabilities-waf-protection/</link>
-<guid isPermaLink="false">01M5FBPW0VHJGHYHGS7CWWKGSP</guid>
-<pubDate>Wed, 21 Oct 2026 13:56:45 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers.<br/><br/><a href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
-<link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-<guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
-<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.<br/><br/><a href="https://openai.com/index/chatgpt-ads-expands-26-new-countries">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Commerce.com and Cloudflare are getting storefronts ready for AI agents</title>
-<link>https://blog.cloudflare.com/webmcp-commerce/</link>
-<guid isPermaLink="false">01M5AYSGXBWG00KS9KC299XDR8</guid>
-<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.<br/><br/><a href="https://blog.cloudflare.com/webmcp-commerce/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI models are coming to Google Cloud</title>
-<link>https://openai.com/index/openai-models-google-cloud</link>
-<guid isPermaLink="false">https://openai.com/index/openai-models-google-cloud</guid>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.<br/><br/><a href="https://openai.com/index/openai-models-google-cloud">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
-<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
-<guid isPermaLink="false">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
-<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.<br/><br/><a href="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
-<link>https://openai.com/index/building-chatgpt-ad-stack</link>
-<guid isPermaLink="false">https://openai.com/index/building-chatgpt-ad-stack</guid>
-<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.<br/><br/><a href="https://openai.com/index/building-chatgpt-ad-stack">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK</title>
-<link>https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83492</guid>
-<pubDate>Wed, 21 Oct 2026 06:03:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Using thousands of AI agents to uncover new leads in biological data</title>
-<link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-<guid isPermaLink="false">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
-<pubDate>Wed, 21 Oct 2026 04:50:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.<br/><br/><a href="https://openai.com/index/scaling-ai-research-for-complex-biological-data">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets</title>
-<link>https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83489</guid>
-<pubDate>Wed, 21 Oct 2026 04:33:40 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Cloudflare links vulnerability discovery to defense with OpenAI</title>
-<link>https://openai.com/index/cloudflare-cyber</link>
-<guid isPermaLink="false">https://openai.com/index/cloudflare-cyber</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.<br/><br/><a href="https://openai.com/index/cloudflare-cyber">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Democratic governance of frontier AI, part II: Empowering cyber defenders</title>
-<link>https://openai.com/index/empowering-cyber-defenders</link>
-<guid isPermaLink="false">https://openai.com/index/empowering-cyber-defenders</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.<br/><br/><a href="https://openai.com/index/empowering-cyber-defenders">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
-<link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3179755</guid>
-<pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.<br/><br/><a href="https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
