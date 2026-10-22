@@ -1,64 +1,4 @@
 {
-"https://the-decoder.com/?p=40071": {
-"t": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
-"s": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI). The article The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40075": {
-"t": "Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid",
-"s": "Authors and publishers fight over how to split Anthropic's $1.5 billion settlement, the largest copyright deal in US history. The article Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid appeared first on The Decoder."
-},
-"discosign-gloss-translation": {
-"t": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
-"s": "Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a computational approach for discourse-aware text to sign language gloss translation grounded in linguistic research. We address three key phenomena within our modular Large Language Model (LLM)-based translation framework: (i) spatial coreference resolution, where entities maintain consistent spatial locations throughout discourse; (ii) Question-Answer Clauses (QACs), pseudocleft structures serving…"
-},
-"video-caption-quality": {
-"t": "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering",
-"s": "Evaluating video captioning remains a critical challenge for Visual Large Language Models (VLLMs). Existing metrics primarily rely on matching generated text against ground-truth references. This paradigm suffers from the “one-to-many” nature of video description, where high-quality captions are often penalized for lexical mismatches or valid shifts in visual focus. Furthermore, such assessments are typically one-dimensional, failing to provide a fine-grained analysis of caption quality. To address this, we redefine caption quality via information fidelity: A caption must maximize the coverage…"
-},
-"simpledesign-protein-codesign": {
-"t": "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign",
-"s": "Proteins are fundamental to biological processes, with their function determined by the complex interplay between the amino acid sequence and the three-dimensional structure. Developing generative models capable of understanding this intrinsically multi-modal relationship is crucial for fields like drug discovery and protein engineering. Existing models often rely on a multi-stage training process where autoencoders that tokenize data into latent representations are trained in a first stage. Secondly, a generative model is trained on the latent representation of the autoencoder(s), i.e…"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3163177": {
-"t": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-"s": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently. On […]"
-},
-"https://github.blog/?p=98799": {
-"t": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-"s": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog."
-},
-"https://the-decoder.com/?p=40119": {
-"t": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion",
-"s": "Oriol Vinyals, until recently head of research at Google DeepMind, thinks a sudden AI intelligence explosion through recursive self-improvement is unlikely. AI can speed up research by a factor of ten, he says, but it hits two bottlenecks: coming up with ideas (\"research taste\") and reliably judging results. Reward hacking and the speed of light add further limits. Vinyals now wants to tackle these bottlenecks with his startup Discovery Loop, co-founded with Jeff Dean, Sanjay Ghemawat, and Quoc Le. The article Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40136": {
-"t": "Deep learning pioneer Bengio argues the training process itself makes AI dangerous",
-"s": "AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment. US President Trump disagrees and wants to keep outpacing China in the AI race. The article Deep learning pioneer Bengio argues the training process itself makes AI dangerous appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3163102": {
-"t": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-"s": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
-},
-"https://openai.com/index/scaling-storage-one-billion-users-part-one": {
-"t": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-"s": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-},
-"https://techcrunch.com/?p=3163179": {
-"t": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-"s": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
-},
-"https://techcrunch.com/?p=3163181": {
-"t": "OpenAI’s feud with mathematicians is only escalating",
-"s": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-},
-"https://techcrunch.com/?p=3162257": {
-"t": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-"s": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
-},
-"https://techcrunch.com/?p=3163158": {
-"t": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-"s": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
-},
 "https://techcrunch.com/?p=3163189": {
 "t": "Kimi-maker Moonshot AI targets $2B in annual revenue",
 "s": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
@@ -4798,5 +4738,65 @@
 "https://www.marktechpost.com/?p=83517": {
 "t": "NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels",
 "s": "Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure kernel fusion directly from Python code. The post NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41811": {
+"t": "Only 13 percent of companies see real returns from AI, Gartner survey finds",
+"s": "Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to actually increase their operating costs. Yet 75 percent of CEOs plan to keep raising their technology budgets. So far, strategic conviction is beating measurable results. The article Only 13 percent of companies see real returns from AI, Gartner survey finds appeared first on The Decoder."
+},
+"https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+"t": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+"s": ""
+},
+"https://techcrunch.com/?p=3180196": {
+"t": "Uber puts all 30,000 employees on ChatGPT Work",
+"s": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide."
+},
+"https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/": {
+"t": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+"s": "Hackers were already probing the bug before defenders were told it existed."
+},
+"https://techcrunch.com/?p=3180626": {
+"t": "Spotify’s current AI bet is about being the music service that agents choose",
+"s": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
+},
+"https://the-decoder.com/?p=41835": {
+"t": "Recursive shows first result of its AI-driven research process with Flint",
+"s": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company's in-house AI system, \"Eureka Machine,\" which independently tests and optimizes architectures. Recursive has yet to prove whether this approach will actually lead to self-improving AI. The article Recursive shows first result of its AI-driven research process with Flint appeared first on The Decoder."
+},
+"https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/": {
+"t": "Beyond tree cover: mapping the world’s forest types",
+"s": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+},
+"https://techcrunch.com/?p=3180587": {
+"t": "Claude Duet app is Anthropic’s bet on agents",
+"s": "Claude Duet is available through waitlist for Pro and Max plan users."
+},
+"https://techcrunch.com/?p=3180570": {
+"t": "Nirva raises $33M for a pendant that only listens to you",
+"s": "Nirva will ship its $249 ambient AI pendant by the end of the year."
+},
+"https://techcrunch.com/?p=3180589": {
+"t": "DeepSeek reportedly raises $15B days after US restrictions",
+"s": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns."
+},
+"01M5FTVN0D8MSEXMF36ZM9WWD4": {
+"t": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+"s": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program."
+},
+"https://the-decoder.com/?p=41826": {
+"t": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+"s": "Security researchers at Symantec have found an offensive AI agent that hijacks unprotected language models on the web and uses them to attack servers, steal databases, and install cryptominers on its own. It runs up to 100,000 steps without human input. The owner of the hijacked model gets stuck with the bill. The article An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41823": {
+"t": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
+"s": "OpenAI teamed up with PerturbAI and Scripps Research to deploy thousands of AI agents that analyzed biological data from millions of mouse cells. The article OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months appeared first on The Decoder."
+},
+"https://openai.com/index/forward-deployed-engineering-means": {
+"t": "What FDE means at OpenAI",
+"s": "What forward deployed engineering means at OpenAI"
+},
+"https://techcrunch.com/?p=3180349": {
+"t": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+"s": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
 }
 }
