@@ -1,32 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82260": {
-"t": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
-"s": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token memory bound, and what it takes to run the MIT-licensed code locally. The post Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=40216": {
-"t": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
-"s": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music. The article Elevenlabs makes Music v2.5 available via app and API with free and pro tier options appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40208": {
-"t": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
-"s": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work. The article Iris-mini and Iris-pro are the strongest open-weight search agents in their class appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40123": {
-"t": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
-"s": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people. The article GPT-6 Astra pilots a surveillance drone and runs a business on its own appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40199": {
-"t": "Two-year university study finds banning AI from classrooms leaves students worse off",
-"s": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good. The article Two-year university study finds banning AI from classrooms leaves students worse off appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40193": {
-"t": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
-"s": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei's call to add independent oversight appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82281": {
-"t": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
-"s": "Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference tied configuration uses 48 encoder and 48 decoder layers, executing 96 logical blocks per token while the state path grows to 48t decoder blocks after t tokens. The design also specifies hardware-aware execution around the recurrent core and an exact current-policy RL replay contract. No code, weights, or measured results are released yet. The post A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth appeared first on MarkTechPost."
-},
 "https://techcrunch.com/?p=3163436": {
 "t": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
 "s": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
@@ -4798,5 +4770,33 @@
 "https://openai.com/index/openai-nask-ai-safety-security-partnership": {
 "t": "OpenAI and Poland’s NASK partner to advance AI safety and security",
 "s": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+},
+"https://openai.com/index/scaling-storage-one-billion-users-part-two": {
+"t": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+"s": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+},
+"https://the-decoder.com/?p=41871": {
+"t": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
+"s": "Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that's still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot. The article OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41866": {
+"t": "Canva launches Craft, its first in-house image model",
+"s": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41861": {
+"t": "Anthropic's Claude now writes code and proves it safe automatically",
+"s": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification with AI as routine as standard testing. The article Anthropic's Claude now writes code and proves it safe automatically appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41856": {
+"t": "OpenAI lowers valuation target, raises up to $30 billion",
+"s": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83570": {
+"t": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+"s": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic Search Architecture for Production AI Agents appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/torch-neuronx-model-support": {
+"t": "Does Your Model Run on AWS Trainium? Look It Up",
+"s": ""
 }
 }

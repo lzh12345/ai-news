@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 23 Oct 2026 08:57:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 16:10:50 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+<guid isPermaLink="false">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
+<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.<br/><br/><a href="https://openai.com/index/scaling-storage-one-billion-users-part-two">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us</title>
+<link>https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41871</guid>
+<pubDate>Fri, 23 Oct 2026 15:42:18 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that's still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot. The article OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Canva launches Craft, its first in-house image model</title>
+<link>https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41866</guid>
+<pubDate>Fri, 23 Oct 2026 11:36:30 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic's Claude now writes code and proves it safe automatically</title>
+<link>https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41861</guid>
+<pubDate>Fri, 23 Oct 2026 11:32:19 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification with AI as routine as standard testing. The article Anthropic's Claude now writes code and proves it safe automatically appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI lowers valuation target, raises up to $30 billion</title>
+<link>https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41856</guid>
+<pubDate>Fri, 23 Oct 2026 09:49:38 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>TinyFish Breaks Down Agentic Search Architecture for Production AI Agents</title>
+<link>https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83570</guid>
+<pubDate>Fri, 23 Oct 2026 08:58:47 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic Search Architecture for Production AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent</title>
 <link>https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/</link>
@@ -38,6 +86,14 @@
 <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.<br/><br/><a href="https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Does Your Model Run on AWS Trainium? Look It Up</title>
+<link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+<guid isPermaLink="false">https://huggingface.co/blog/torch-neuronx-model-support</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/torch-neuronx-model-support">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
@@ -80,20 +136,20 @@
 <description><![CDATA[【openai.com】Fast, focused, low-cost decisions for any application.<br/><br/><a href="https://openai.com/index/decisions-api">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI is launching its decision model to the world. Can it compete with the original Jev?<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Canva releases its first image generation model</title>
 <link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
 <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.<br/><br/><a href="https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
+<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI is launching its decision model to the world. Can it compete with the original Jev?<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
@@ -272,14 +328,6 @@
 <description><![CDATA[【the-decoder.com】OpenAI teamed up with PerturbAI and Scripps Research to deploy thousands of AI agents that analyzed biological data from millions of mouse cells. The article OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent &quot;Claude Duet&quot;</title>
-<link>https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41818</guid>
-<pubDate>Thu, 22 Oct 2026 08:35:22 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like payments. With Duet, Anthropic is responding to similar products from xAI, Meta, and OpenAI. The article Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent "Claude Duet" appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Ensemble forecasting with IBM Granite time-series models</title>
 <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
 <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
@@ -318,14 +366,6 @@
 <pubDate>Thu, 22 Oct 2026 04:17:37 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration. The post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels</title>
-<link>https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83517</guid>
-<pubDate>Thu, 22 Oct 2026 03:59:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure kernel fusion directly from Python code. The post NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
@@ -384,14 +424,6 @@
 <description><![CDATA[【techcrunch.com】Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.<br/><br/><a href="https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites</title>
-<link>https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41815</guid>
-<pubDate>Wed, 21 Oct 2026 19:45:01 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon. OpenAI warns that the same AI capabilities that find vulnerabilities can help attackers too. The article OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>The new human-crafted Apple Music brand matters in an AI world</title>
 <link>https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/</link>
 <guid isPermaLink="false">https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/</guid>
@@ -440,14 +472,6 @@
 <description><![CDATA[【techcrunch.com】This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.<br/><br/><a href="https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three</title>
-<link>https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41808</guid>
-<pubDate>Wed, 21 Oct 2026 17:44:22 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers. The article Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
 <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
 <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
@@ -456,36 +480,12 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Deepmind founder Hassabis shortens AGI timeline from five to two to three years</title>
-<link>https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41805</guid>
-<pubDate>Wed, 21 Oct 2026 17:10:46 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year. The article Deepmind founder Hassabis shortens AGI timeline from five to two to three years appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
 <link>https://openai.com/index/att-legal</link>
 <guid isPermaLink="false">https://openai.com/index/att-legal</guid>
 <pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.<br/><br/><a href="https://openai.com/index/att-legal">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
-<link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
-<guid isPermaLink="false">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
-<pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/amazon/profiling-torchneuron-part-1">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The bridge to agent-scale Git infrastructure</title>
-<link>https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</link>
-<guid isPermaLink="false">https://github.blog/?p=99628</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
