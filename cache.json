@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=40148": {
-"t": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
-"s": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time points in a single pass, which cuts compute time and reduces compounding errors. The article Google's new AI model predicts the future from sales data, weather, and discount schedules appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=40144": {
 "t": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
 "s": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of a broader threat to intellectual work. The article Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next appeared first on The Decoder."
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/uber-chatgpt-work-rollout": {
 "t": "Uber brings ChatGPT Work to all employees with OpenAI",
 "s": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+},
+"https://techcrunch.com/?p=3181016": {
+"t": "Left alone with nothing to do, AI agents started playing",
+"s": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
 }
 }
