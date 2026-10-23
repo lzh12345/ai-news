@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 23 Oct 2026 02:43:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 08:57:34 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent</title>
+<link>https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83559</guid>
+<pubDate>Fri, 23 Oct 2026 06:05:10 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA</title>
+<link>https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83556</guid>
+<pubDate>Fri, 23 Oct 2026 05:28:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
+<link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180898</guid>
+<pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.<br/><br/><a href="https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Left alone with nothing to do, AI agents started playing</title>
 <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
@@ -14,6 +38,14 @@
 <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.<br/><br/><a href="https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
+<link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
+<guid isPermaLink="false">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.<br/><br/><a href="https://openai.com/index/openai-nask-ai-safety-security-partnership">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -48,20 +80,20 @@
 <description><![CDATA[【openai.com】Fast, focused, low-cost decisions for any application.<br/><br/><a href="https://openai.com/index/decisions-api">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Canva releases its first image generation model</title>
-<link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.<br/><br/><a href="https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
 <link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
 <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI is launching its decision model to the world. Can it compete with the original Jev?<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Canva releases its first image generation model</title>
+<link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.<br/><br/><a href="https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
@@ -320,22 +352,6 @@
 <description><![CDATA[【techcrunch.com】The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.<br/><br/><a href="https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params</title>
-<link>https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83514</guid>
-<pubDate>Wed, 21 Oct 2026 22:39:41 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Vercel Open-Sources durable-harness for Crash-Proof Coding Agents</title>
-<link>https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83511</guid>
-<pubDate>Wed, 21 Oct 2026 22:15:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>TechCrunch Founder Summit 2026: Everything you need to know</title>
 <link>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3168635</guid>
@@ -440,14 +456,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Blacksmith hits unicorn valuation after Sequoia leads Series C</title>
-<link>https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180202</guid>
-<pubDate>Wed, 21 Oct 2026 17:18:27 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.<br/><br/><a href="https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Deepmind founder Hassabis shortens AGI timeline from five to two to three years</title>
 <link>https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=41805</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The $15 billion ad-powered AI startup your doctor may already be using</title>
-<link>https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/</guid>
-<pubDate>Wed, 21 Oct 2026 15:14:07 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】OpenEvidence is booming despite questions about accuracy and ads.<br/><br/><a href="https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

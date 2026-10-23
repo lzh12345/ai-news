@@ -1,20 +1,4 @@
 {
-"https://the-decoder.com/?p=40144": {
-"t": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
-"s": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of a broader threat to intellectual work. The article Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3163373": {
-"t": "Anthropic CEO outlines plan to ‘pace the frontier’",
-"s": "What would it actually look like to \"pace the frontier\"?"
-},
-"https://the-decoder.com/?p=40186": {
-"t": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
-"s": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes embedded auditors at AI companies, shared safety standards, and global agreements modeled after the SALT disarmament treaties. His warning comes just ahead of what could be the largest initial public offering in history. The article Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3163386": {
-"t": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-"s": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
-},
 "https://www.marktechpost.com/?p=82260": {
 "t": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
 "s": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token memory bound, and what it takes to run the MIT-licensed code locally. The post Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help appeared first on MarkTechPost."
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3181016": {
 "t": "Left alone with nothing to do, AI agents started playing",
 "s": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+},
+"https://www.marktechpost.com/?p=83559": {
+"t": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+"s": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83556": {
+"t": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+"s": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3180898": {
+"t": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+"s": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+},
+"https://openai.com/index/openai-nask-ai-safety-security-partnership": {
+"t": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+"s": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
 }
 }
