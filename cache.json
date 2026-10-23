@@ -1,48 +1,4 @@
 {
-"https://techcrunch.com/?p=3163436": {
-"t": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-"s": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
-},
-"https://www.marktechpost.com/?p=82276": {
-"t": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
-"s": "Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers. The post AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82271": {
-"t": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
-"s": "A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon Bedrock AgentCore, plus an interactive simulator that shows a 200K window filling up. The post Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82266": {
-"t": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
-"s": "This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP The post Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82263": {
-"t": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
-"s": "Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI’s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main, within 1 point of Fable 5.1 at 64% lower cost. It is also […] The post Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82285": {
-"t": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
-"s": "In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeRF) using JAX, Flax, Optax, and the volume-rendering primitives provided by jax3d. We first construct a synthetic multi-view dataset from an analytic scene containing volumetric geometry and view-dependent radiance, using sample_along_rays and volume_rendering to establish the forward rendering process. We then implement a NeRF […] The post Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3163449": {
-"t": "What’s behind the AI industry’s latest warnings of doom?",
-"s": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
-},
-"https://huggingface.co/blog/asyncgrpo-lora-hfjobs": {
-"t": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-"s": ""
-},
-"https://the-decoder.com/?p=40237": {
-"t": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
-"s": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users who don't want their chats reviewed by humans have to actively disable the \"Improve the model for everyone\" setting, which is on by default. The article OpenAI has hundreds of contract workers reading your ChatGPT conversations appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3163062": {
-"t": "With iOS 27, I’m actually using Siri again",
-"s": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day"
-},
-"https://techcrunch.com/?p=3162850": {
-"t": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-"s": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
-},
 "https://techcrunch.com/?p=3163598": {
 "t": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
 "s": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles."
@@ -4798,5 +4754,49 @@
 "https://huggingface.co/blog/torch-neuronx-model-support": {
 "t": "Does Your Model Run on AWS Trainium? Look It Up",
 "s": ""
+},
+"https://techcrunch.com/?p=3181412": {
+"t": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+"s": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+},
+"https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/": {
+"t": "Updated Google privacy policy says your Gmail might be used for advertising",
+"s": "Turning on Personal Intelligence gives the company more data for ad targeting."
+},
+"https://techcrunch.com/?p=3181271": {
+"t": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+"s": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs."
+},
+"https://the-decoder.com/?p=41887": {
+"t": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+"s": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models shrinks to just three points. The article Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5 appeared first on The Decoder."
+},
+"01M5MZPETYH27RS72QV5V85YZ8": {
+"t": "Origin Range Requests: Serving large files without range-request tuning",
+"s": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half."
+},
+"01M5MYFG0SHDEYME96N0A4Z6PH": {
+"t": "Bringing post-quantum cryptography to geographically fenced key management",
+"s": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world."
+},
+"https://the-decoder.com/?p=41882": {
+"t": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
+"s": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. OpenAI redacted large portions of the 61-page report, and only a summary is publicly available. The article Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41876": {
+"t": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
+"s": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it approved. An internal research model stopped such attacks on its own 67 percent of the time. The article Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1 appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/": {
+"t": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+"s": "Company says foreign-made robotic vehicles are crucial to US chip production."
+},
+"https://huggingface.co/blog/allenai/litpivot": {
+"t": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+"s": ""
+},
+"https://openai.com/index/securing-our-frontier-model-training-environment": {
+"t": "Securing our frontier model training environment",
+"s": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
 }
 }
