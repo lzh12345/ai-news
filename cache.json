@@ -1,16 +1,4 @@
 {
-"https://openai.com/index/fyxer": {
-"t": "How Fyxer built an AI executive assistant people trust",
-"s": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
-},
-"https://the-decoder.com/?p=40220": {
-"t": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
-"s": "Sam Altman is doubling down on slowing AI development. OpenAI now runs safety checks before major training runs, and according to The Information, the company has been talking with Anthropic and Google for months about joint self-regulation. The article Sam Altman calls for pacing AI development but promises rapid progress will continue appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3163882": {
-"t": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-"s": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
-},
 "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/": {
 "t": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
 "s": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=41895": {
 "t": "Fancy harnesses make coding agents more expensive but not better, study finds",
 "s": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step. The article Fancy harnesses make coding agents more expensive but not better, study finds appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3181490": {
+"t": "Block’s new voice model sounds eerily human",
+"s": "Block said that the voice model can run locally on a MacBook M4 Max"
+},
+"https://the-decoder.com/?p=41928": {
+"t": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+"s": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They deny sharing confidential information and see a connection to their advocacy for AI systems that are easier to scrutinize. The researchers say OpenAI never told them in writing which information they allegedly mishandled. The article Three fired OpenAI safety researchers say they were never told what they actually leaked appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3181243": {
+"t": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+"s": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
 }
 }
