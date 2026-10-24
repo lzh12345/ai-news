@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=3163478": {
-"t": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-"s": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
-},
 "https://techcrunch.com/?p=3163060": {
 "t": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
 "s": "Fathom said that it has over 400,000 monthly active users."
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=83575": {
 "t": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
 "s": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83583": {
+"t": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
+"s": "NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on MarkTechPost."
 }
 }

@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 24 Oct 2026 02:40:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 08:31:33 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots</title>
+<link>https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83583</guid>
+<pubDate>Sat, 24 Oct 2026 03:56:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms</title>
 <link>https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/</link>
@@ -368,6 +376,14 @@
 <description><![CDATA[【techcrunch.com】Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.<br/><br/><a href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Beyond tree cover: mapping the world’s forest types</title>
+<link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</guid>
+<pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】A global map categorizing every 10-meter patch of land on Earth into distinct forest types.<br/><br/><a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Claude Duet app is Anthropic’s bet on agents</title>
 <link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3180587</guid>
@@ -406,14 +422,6 @@
 <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1">阅读原文</a>]]></description>
-</item>
-<item>
-<title>IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation</title>
-<link>https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83534</guid>
-<pubDate>Thu, 22 Oct 2026 07:00:56 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models. The post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>What FDE means at OpenAI</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 21 Oct 2026 19:44:40 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Opinion: In a world of AI slop, showing the human hands making things helps.<br/><br/><a href="https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI's latest AI models are coming to Google Cloud and Antigravity</title>
-<link>https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/</guid>
-<pubDate>Wed, 21 Oct 2026 18:51:42 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.<br/><br/><a href="https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
