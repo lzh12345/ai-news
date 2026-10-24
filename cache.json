@@ -1,28 +1,4 @@
 {
-"https://techcrunch.com/?p=3163060": {
-"t": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-"s": "Fathom said that it has over 400,000 monthly active users."
-},
-"https://techcrunch.com/?p=3163493": {
-"t": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-"s": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today."
-},
-"https://techcrunch.com/?p=3163516": {
-"t": "5 days left to exhibit at TechCrunch Disrupt 2026",
-"s": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders."
-},
-"https://techcrunch.com/?p=3151802": {
-"t": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-"s": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making."
-},
-"https://the-decoder.com/?p=40226": {
-"t": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
-"s": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A formal review is now underway. The article Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\" appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40223": {
-"t": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
-"s": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders. Beijing's Foreign Ministry calls it \"fearmongering,\" while the state-run Global Times accuses Amodei of waging a \"silent AI Cold War.\" China's security minister isn't calling for a slowdown either but for faster AI infrastructure buildout. Trump also opposes any slowdown. The article China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage appeared first on The Decoder."
-},
 "https://openai.com/index/fyxer": {
 "t": "How Fyxer built an AI executive assistant people trust",
 "s": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
@@ -4798,5 +4774,29 @@
 "https://www.marktechpost.com/?p=83583": {
 "t": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
 "s": "NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41919": {
+"t": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+"s": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is taken away, only senior attorneys retain the benefits, suggesting that baseline expertise is a prerequisite for turning AI-assisted practice into lasting skill. The article AI makes junior patent attorneys instantly better but may quietly stunt their professional growth appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41914": {
+"t": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+"s": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time. The model runs locally on a MacBook Pro M4 Max but isn't publicly available yet. The article Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41908": {
+"t": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+"s": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman's warning: the more powerful the model, the harder it is to contain. The article OpenAI's isolated AI agents found ways to talk to each other through CPU cache appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83592": {
+"t": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+"s": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83588": {
+"t": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+"s": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41895": {
+"t": "Fancy harnesses make coding agents more expensive but not better, study finds",
+"s": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step. The article Fancy harnesses make coding agents more expensive but not better, study finds appeared first on The Decoder."
 }
 }
