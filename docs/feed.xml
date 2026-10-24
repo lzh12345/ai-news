@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 23 Oct 2026 22:46:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 02:40:48 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms</title>
+<link>https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83579</guid>
+<pubDate>Fri, 23 Oct 2026 23:26:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
+<link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3181396</guid>
+<pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.<br/><br/><a href="https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context</title>
+<link>https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83575</guid>
+<pubDate>Fri, 23 Oct 2026 22:52:40 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
 <link>https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</link>
@@ -224,20 +248,20 @@
 <description><![CDATA[【openai.com】Fast, focused, low-cost decisions for any application.<br/><br/><a href="https://openai.com/index/decisions-api">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI is launching its decision model to the world. Can it compete with the original Jev?<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Canva releases its first image generation model</title>
 <link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
 <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.<br/><br/><a href="https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
+<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI is launching its decision model to the world. Can it compete with the original Jev?<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
@@ -400,22 +424,6 @@
 <description><![CDATA[【openai.com】What forward deployed engineering means at OpenAI<br/><br/><a href="https://openai.com/index/forward-deployed-engineering-means">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method</title>
-<link>https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83529</guid>
-<pubDate>Thu, 22 Oct 2026 04:56:31 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens. The post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU</title>
-<link>https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83520</guid>
-<pubDate>Thu, 22 Oct 2026 04:17:37 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration. The post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
 <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
 <guid isPermaLink="false">https://openai.com/index/uber-chatgpt-work-rollout</guid>
@@ -462,14 +470,6 @@
 <pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.<br/><br/><a href="https://openai.com/index/broad-access-through-consistent-standards">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Recursive launches Flint, a laptop coding model it says was largely built by AI</title>
-<link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180324</guid>
-<pubDate>Wed, 21 Oct 2026 20:27:41 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.<br/><br/><a href="https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>The new human-crafted Apple Music brand matters in an AI world</title>

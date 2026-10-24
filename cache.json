@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3163598": {
-"t": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-"s": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles."
-},
-"https://the-decoder.com/?p=40233": {
-"t": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
-"s": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models. The article Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40230": {
-"t": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-"s": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-based compensation. The article Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO appeared first on The Decoder."
-},
 "https://techcrunch.com/?p=3163478": {
 "t": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
 "s": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/securing-our-frontier-model-training-environment": {
 "t": "Securing our frontier model training environment",
 "s": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+},
+"https://www.marktechpost.com/?p=83579": {
+"t": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
+"s": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3181396": {
+"t": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+"s": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+},
+"https://www.marktechpost.com/?p=83575": {
+"t": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+"s": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost."
 }
 }
