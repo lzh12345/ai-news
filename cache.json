@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?p=3164027": {
-"t": "4 days left to exhibit at TechCrunch Disrupt 2026",
-"s": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
-},
-"https://techcrunch.com/?p=3163310": {
-"t": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-"s": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic."
-},
 "01M2H31EJKJWKFGC30ER2V5R9F": {
 "t": "Have it both ways: stay discoverable in search while disallowing AI training",
 "s": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft."
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=41955": {
 "t": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
 "s": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The article Anthropic says one AI agent beats many subagents now that models can handle complexity alone appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3181532": {
+"t": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+"s": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+},
+"https://www.marktechpost.com/?p=83613": {
+"t": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+"s": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time appeared first on MarkTechPost."
 }
 }
