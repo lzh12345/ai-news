@@ -1,12 +1,4 @@
 {
-"01M2H31EJKJWKFGC30ER2V5R9F": {
-"t": "Have it both ways: stay discoverable in search while disallowing AI training",
-"s": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft."
-},
-"01M2FPAD7MK0F8D9W7Z5HXH3MF": {
-"t": "Give every teammate and agent the right level of access to your Workers",
-"s": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely."
-},
 "https://the-decoder.com/?p=40254": {
 "t": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
 "s": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 robot can work next to people without safety fences appeared first on The Decoder."
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=83613": {
 "t": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
 "s": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3181554": {
+"t": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+"s": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+},
+"https://www.marktechpost.com/?p=83616": {
+"t": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+"s": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost."
 }
 }

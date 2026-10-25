@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 25 Oct 2026 18:38:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 22:11:17 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
+<link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3181554</guid>
+<pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.<br/><br/><a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</title>
+<link>https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83616</guid>
+<pubDate>Sun, 25 Oct 2026 21:15:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
 <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
@@ -206,14 +222,6 @@
 <pubDate>Sat, 24 Oct 2026 03:56:29 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms</title>
-<link>https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83579</guid>
-<pubDate>Fri, 23 Oct 2026 23:26:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -422,14 +430,6 @@
 <pubDate>Thu, 22 Oct 2026 15:03:58 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.<br/><br/><a href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude Duet app is Anthropic’s bet on agents</title>
-<link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180587</guid>
-<pubDate>Thu, 22 Oct 2026 13:53:26 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Claude Duet is available through waitlist for Pro and Max plan users.<br/><br/><a href="https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Localizing compliance at scale: achieving South Korea’s ISMS certification</title>
