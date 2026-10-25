@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 24 Oct 2026 22:08:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:30:12 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
@@ -408,14 +408,6 @@
 <description><![CDATA[【techcrunch.com】Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.<br/><br/><a href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Beyond tree cover: mapping the world’s forest types</title>
-<link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</guid>
-<pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】A global map categorizing every 10-meter patch of land on Earth into distinct forest types.<br/><br/><a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Claude Duet app is Anthropic’s bet on agents</title>
 <link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3180587</guid>
@@ -486,6 +478,14 @@
 <pubDate>Wed, 21 Oct 2026 19:44:40 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Opinion: In a world of AI slop, showing the human hands making things helps.<br/><br/><a href="https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI's latest AI models are coming to Google Cloud and Antigravity</title>
+<link>https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/</guid>
+<pubDate>Wed, 21 Oct 2026 18:51:42 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.<br/><br/><a href="https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
