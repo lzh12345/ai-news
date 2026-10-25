@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 25 Oct 2026 02:30:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 08:50:32 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies</title>
+<link>https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41950</guid>
+<pubDate>Sun, 25 Oct 2026 08:09:32 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US corporations alone plan to spend more than $600 billion in 2026. Yet mounting debt, protests against data centers, and a potential chip crisis over Taiwan could stall both superpowers. The article Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers</title>
+<link>https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41946</guid>
+<pubDate>Sun, 25 Oct 2026 07:30:11 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like Deepseek are piling on more price pressure. The article OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenMobile-2 proves open-source smartphone agents can rival proprietary models</title>
+<link>https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41933</guid>
+<pubDate>Sun, 25 Oct 2026 06:55:22 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Android devices, their model scores highest among open agents, the authors say. The article OpenMobile-2 proves open-source smartphone agents can rival proprietary models appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents</title>
+<link>https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83601</guid>
+<pubDate>Sun, 25 Oct 2026 03:32:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats</title>
+<link>https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83598</guid>
+<pubDate>Sun, 25 Oct 2026 02:59:08 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide</title>
+<link>https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83595</guid>
+<pubDate>Sun, 25 Oct 2026 02:30:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
 <link>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
@@ -184,14 +232,6 @@
 <description><![CDATA[【the-decoder.com】External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. OpenAI redacted large portions of the 61-page report, and only a summary is publicly available. The article Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1</title>
-<link>https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41876</guid>
-<pubDate>Fri, 23 Oct 2026 17:19:49 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it approved. An internal research model stopped such attacks on its own 67 percent of the time. The article Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1 appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</title>
 <link>https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/</guid>
@@ -216,22 +256,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/litpivot">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us</title>
-<link>https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41871</guid>
-<pubDate>Fri, 23 Oct 2026 15:42:18 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that's still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot. The article OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Canva launches Craft, its first in-house image model</title>
-<link>https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41866</guid>
-<pubDate>Fri, 23 Oct 2026 11:36:30 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Securing our frontier model training environment</title>
 <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
 <guid isPermaLink="false">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
@@ -254,14 +278,6 @@
 <pubDate>Fri, 23 Oct 2026 06:05:10 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA</title>
-<link>https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83556</guid>
-<pubDate>Fri, 23 Oct 2026 05:28:21 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
@@ -352,28 +368,12 @@
 <description><![CDATA[【techcrunch.com】Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.<br/><br/><a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</title>
-<link>https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83553</guid>
-<pubDate>Thu, 22 Oct 2026 17:33:25 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>How bug bounty sharpens one researcher’s security skills</title>
 <link>https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/</link>
 <guid isPermaLink="false">https://github.blog/?p=99645</guid>
 <pubDate>Thu, 22 Oct 2026 17:21:30 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0</title>
-<link>https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83549</guid>
-<pubDate>Thu, 22 Oct 2026 16:56:12 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>

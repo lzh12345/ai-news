@@ -1,28 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/": {
-"t": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-"s": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
-},
-"https://techcrunch.com/?p=3163844": {
-"t": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-"s": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
-},
-"https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
-"t": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-"s": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
-},
-"https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/": {
-"t": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-"s": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?"
-},
-"https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/": {
-"t": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-"s": "This is also the last version of macOS to support Rosetta for Intel apps."
-},
-"https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/": {
-"t": "AI leaders want to hit the brakes after years of reckless speed",
-"s": "Safety is the watchword, but there could be ulterior benefits for the industry."
-},
 "https://techcrunch.com/?p=3164024": {
 "t": "Jensen Huang took a call from Trump, and showed off something else, too",
 "s": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
@@ -4798,5 +4774,29 @@
 "https://techcrunch.com/?p=3181243": {
 "t": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
 "s": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+},
+"https://the-decoder.com/?p=41950": {
+"t": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+"s": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US corporations alone plan to spend more than $600 billion in 2026. Yet mounting debt, protests against data centers, and a potential chip crisis over Taiwan could stall both superpowers. The article Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41946": {
+"t": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+"s": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like Deepseek are piling on more price pressure. The article OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41933": {
+"t": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+"s": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Android devices, their model scores highest among open agents, the authors say. The article OpenMobile-2 proves open-source smartphone agents can rival proprietary models appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83601": {
+"t": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
+"s": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83598": {
+"t": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
+"s": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83595": {
+"t": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+"s": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost."
 }
 }
