@@ -1,28 +1,4 @@
 {
-"https://techcrunch.com/?p=3164024": {
-"t": "Jensen Huang took a call from Trump, and showed off something else, too",
-"s": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
-},
-"https://techcrunch.com/?p=3164278": {
-"t": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-"s": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
-},
-"https://techcrunch.com/?p=3164139": {
-"t": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-"s": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
-},
-"https://techcrunch.com/?p=3163539": {
-"t": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-"s": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
-},
-"https://techcrunch.com/?p=3163504": {
-"t": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-"s": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass."
-},
-"https://the-decoder.com/?p=40258": {
-"t": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
-"s": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that more than 90 percent of the training data behind early language models came from English sources, and that speech recognition fails 60 percent of the time in Yoruba. The market, he says, is \"a terrible guarantor of equal opportunity.\" The article After warning AI is too dangerous, Bill Gates bets a billion on its upside appeared first on The Decoder."
-},
 "https://techcrunch.com/?p=3164027": {
 "t": "4 days left to exhibit at TechCrunch Disrupt 2026",
 "s": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
@@ -4798,5 +4774,29 @@
 "https://www.marktechpost.com/?p=83595": {
 "t": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
 "s": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3067743": {
+"t": "The hottest AI wearables and gadgets you should know about",
+"s": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+},
+"https://www.marktechpost.com/?p=83609": {
+"t": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+"s": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. The post Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83605": {
+"t": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+"s": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 […] The post Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41970": {
+"t": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+"s": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls short on descriptive accuracy. Nvidia is positioning Flora as a key piece of its strategy to control the entire robotics value chain. The article Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41963": {
+"t": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+"s": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027 appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=41955": {
+"t": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+"s": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The article Anthropic says one AI agent beats many subagents now that models can handle complexity alone appeared first on The Decoder."
 }
 }

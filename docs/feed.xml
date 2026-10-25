@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 25 Oct 2026 08:50:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 15:19:19 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The hottest AI wearables and gadgets you should know about</title>
+<link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3067743</guid>
+<pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.<br/><br/><a href="https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster</title>
+<link>https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83609</guid>
+<pubDate>Sun, 25 Oct 2026 12:12:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. The post Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner</title>
+<link>https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83605</guid>
+<pubDate>Sun, 25 Oct 2026 11:32:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 […] The post Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra</title>
+<link>https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41970</guid>
+<pubDate>Sun, 25 Oct 2026 10:08:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls short on descriptive accuracy. Nvidia is positioning Flora as a key piece of its strategy to control the entire robotics value chain. The article Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027</title>
+<link>https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41963</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:46 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027 appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic says one AI agent beats many subagents now that models can handle complexity alone</title>
+<link>https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41955</guid>
+<pubDate>Sun, 25 Oct 2026 09:12:10 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The article Anthropic says one AI agent beats many subagents now that models can handle complexity alone appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies</title>
 <link>https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/</link>
@@ -136,14 +184,6 @@
 <description><![CDATA[【marktechpost.com】Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Fancy harnesses make coding agents more expensive but not better, study finds</title>
-<link>https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41895</guid>
-<pubDate>Sat, 24 Oct 2026 09:21:39 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step. The article Fancy harnesses make coding agents more expensive but not better, study finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots</title>
 <link>https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83583</guid>
@@ -200,14 +240,6 @@
 <description><![CDATA[【techcrunch.com】Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.<br/><br/><a href="https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5</title>
-<link>https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41887</guid>
-<pubDate>Fri, 23 Oct 2026 19:00:07 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models shrinks to just three points. The article Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5 appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Origin Range Requests: Serving large files without range-request tuning</title>
 <link>https://blog.cloudflare.com/origin-range-requests/</link>
 <guid isPermaLink="false">01M5MZPETYH27RS72QV5V85YZ8</guid>
@@ -222,14 +254,6 @@
 <pubDate>Fri, 23 Oct 2026 18:06:56 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.<br/><br/><a href="https://blog.cloudflare.com/post-quantum-geo-key-manager/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring</title>
-<link>https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41882</guid>
-<pubDate>Fri, 23 Oct 2026 18:00:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. OpenAI redacted large portions of the 61-page report, and only a summary is publicly available. The article Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</title>
@@ -262,22 +286,6 @@
 <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.<br/><br/><a href="https://openai.com/index/securing-our-frontier-model-training-environment">阅读原文</a>]]></description>
-</item>
-<item>
-<title>TinyFish Breaks Down Agentic Search Architecture for Production AI Agents</title>
-<link>https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83570</guid>
-<pubDate>Fri, 23 Oct 2026 08:58:47 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic Search Architecture for Production AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent</title>
-<link>https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83559</guid>
-<pubDate>Fri, 23 Oct 2026 06:05:10 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
@@ -408,6 +416,14 @@
 <description><![CDATA[【techcrunch.com】Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.<br/><br/><a href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Beyond tree cover: mapping the world’s forest types</title>
+<link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</guid>
+<pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】A global map categorizing every 10-meter patch of land on Earth into distinct forest types.<br/><br/><a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Claude Duet app is Anthropic’s bet on agents</title>
 <link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3180587</guid>
@@ -422,14 +438,6 @@
 <pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Nirva will ship its $249 ambient AI pendant by the end of the year.<br/><br/><a href="https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DeepSeek reportedly raises $15B days after US restrictions</title>
-<link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180589</guid>
-<pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.<br/><br/><a href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Localizing compliance at scale: achieving South Korea’s ISMS certification</title>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 21 Oct 2026 19:44:40 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Opinion: In a world of AI slop, showing the human hands making things helps.<br/><br/><a href="https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI's latest AI models are coming to Google Cloud and Antigravity</title>
-<link>https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/</guid>
-<pubDate>Wed, 21 Oct 2026 18:51:42 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.<br/><br/><a href="https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
