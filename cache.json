@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=40254": {
-"t": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
-"s": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 robot can work next to people without safety fences appeared first on The Decoder."
-},
-"https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/": {
-"t": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-"s": "Ars previewed Mozilla’s report on how cheap open models caught up on capability."
-},
 "https://techcrunch.com/?p=3163913": {
 "t": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
 "s": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
@@ -4798,5 +4790,13 @@
 "https://www.marktechpost.com/?p=83616": {
 "t": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
 "s": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41983": {
+"t": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+"s": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a year on humanoid robots and factory automation appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83621": {
+"t": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+"s": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang appeared first on MarkTechPost."
 }
 }

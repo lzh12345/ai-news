@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 26 Oct 2026 02:29:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 09:31:23 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Toyota is betting $6.4 billion a year on humanoid robots and factory automation</title>
+<link>https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=41983</guid>
+<pubDate>Mon, 26 Oct 2026 09:18:15 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a year on humanoid robots and factory automation appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang</title>
+<link>https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83621</guid>
+<pubDate>Mon, 26 Oct 2026 07:56:45 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
 <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
@@ -192,14 +208,6 @@
 <description><![CDATA[【techcrunch.com】We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.<br/><br/><a href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI's isolated AI agents found ways to talk to each other through CPU cache</title>
-<link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41908</guid>
-<pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman's warning: the more powerful the model, the harder it is to contain. The article OpenAI's isolated AI agents found ways to talk to each other through CPU cache appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers</title>
 <link>https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83592</guid>
@@ -214,14 +222,6 @@
 <pubDate>Sat, 24 Oct 2026 10:29:31 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots</title>
-<link>https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83583</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:29 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -432,14 +432,6 @@
 <description><![CDATA[【techcrunch.com】Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.<br/><br/><a href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Beyond tree cover: mapping the world’s forest types</title>
-<link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</guid>
-<pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】A global map categorizing every 10-meter patch of land on Earth into distinct forest types.<br/><br/><a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Localizing compliance at scale: achieving South Korea’s ISMS certification</title>
 <link>https://blog.cloudflare.com/k-isms/</link>
 <guid isPermaLink="false">01M5FTVN0D8MSEXMF36ZM9WWD4</guid>
@@ -486,6 +478,14 @@
 <pubDate>Wed, 21 Oct 2026 19:44:40 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Opinion: In a world of AI slop, showing the human hands making things helps.<br/><br/><a href="https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI's latest AI models are coming to Google Cloud and Antigravity</title>
+<link>https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/</guid>
+<pubDate>Wed, 21 Oct 2026 18:51:42 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.<br/><br/><a href="https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
