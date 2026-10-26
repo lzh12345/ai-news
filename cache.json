@@ -1,56 +1,4 @@
 {
-"https://techcrunch.com/?p=3164506": {
-"t": "The AI data center boom is colliding with cities scarred by big industry",
-"s": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
-},
-"https://techcrunch.com/?p=3164453": {
-"t": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-"s": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
-},
-"https://techcrunch.com/?p=3164495": {
-"t": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-"s": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
-},
-"https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
-"t": "Helping older adults use AI in everyday life",
-"s": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-},
-"https://the-decoder.com/?p=40276": {
-"t": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
-"s": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach doesn't protect against mistakes, though. The system only guarantees that it will stick strictly to the preset options. The article Former OpenAI researcher builds an AI model that judges options instead of writing text appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40277": {
-"t": "Mozilla's new Smart Window assistant runs on Mistral's models",
-"s": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla's new Smart Window assistant runs on Mistral's models appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3164631": {
-"t": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-"s": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass."
-},
-"https://the-decoder.com/?p=40280": {
-"t": "Political opposites unite in Washington to rein in AI",
-"s": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data centers, while OpenAI is backing the FRONTIER Act and its mandatory outside safety audits for the first time. Despite Trump's skepticism, bipartisan pressure for binding AI rules keeps growing. The article Political opposites unite in Washington to rein in AI appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3164799": {
-"t": "Threads’ new features let podcasters promote shows and reach listeners",
-"s": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion."
-},
-"https://techcrunch.com/?p=3164598": {
-"t": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-"s": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition."
-},
-"https://techcrunch.com/?p=3164491": {
-"t": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-"s": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
-},
-"https://techcrunch.com/?p=3164755": {
-"t": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-"s": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
-},
-"https://openai.com/index/reimagining-advertising-with-ai": {
-"t": "Reimagining advertising with AI",
-"s": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-},
 "https://techcrunch.com/?p=3152543": {
 "t": "Former Infosys chief’s AI startup nabs another $53M",
 "s": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch."
@@ -4798,5 +4746,57 @@
 "https://openai.com/index/fanatics-streamline-fan-experience": {
 "t": "How Fanatics and OpenAI streamline the fan experience",
 "s": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+},
+"01M5X2P6CQYMNAESRJ922DG5J3": {
+"t": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+"s": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue."
+},
+"https://openai.com/index/greptile-code-review-codex-astra": {
+"t": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+"s": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+},
+"https://the-decoder.com/?p=42016": {
+"t": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+"s": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models appeared first on The Decoder."
+},
+"https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/": {
+"t": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+"s": "Included is the ability to limit which applications Siri can directly access."
+},
+"https://the-decoder.com/?p=42007": {
+"t": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+"s": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the company also carries roughly $800 billion in long-term compute commitments. The article Anthropic opens its books for Wall Street, showing record revenue and mounting obligations appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/": {
+"t": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+"s": "US robotics company stands by ICE deal as more than 300 employees warn of risk."
+},
+"https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+"t": "Working with academic communities to build scientific understanding",
+"s": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+},
+"https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+"t": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+"s": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+},
+"https://openai.com/index/openai-cut-incident-investigation": {
+"t": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+"s": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+},
+"gharp-head-animation": {
+"t": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
+"s": "We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We decouple the problem into an identity stage that builds a representation of the subject’s geometry and appearance offline, and an animation stage that predicts expression-dependent residuals on top of it at runtime. This separation offers a favorable trade-off with respect to fidelity, quality and runtime: the identity stage can be expensive while the animation stage runs a…"
+},
+"https://openai.com/index/introducing-gpt-6-1-terra": {
+"t": "Introducing GPT-6.1 Terra",
+"s": "Bringing fast and capable computer use to everyone"
+},
+"https://techcrunch.com/?p=3181514": {
+"t": "Will AI expose the rickety infrastructure of the internet?",
+"s": "The moment you realize the internet is \"held together by glue and dreams.\""
+},
+"https://techcrunch.com/?p=3162590": {
+"t": "The AI graveyard: a running list of projects and startups that didn’t make it",
+"s": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
 }
 }

@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 26 Oct 2026 17:59:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 23:29:02 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang</title>
+<link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link>
+<guid isPermaLink="false">01M5X2P6CQYMNAESRJ922DG5J3</guid>
+<pubDate>Mon, 26 Oct 2026 22:01:23 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.<br/><br/><a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+<link>https://openai.com/index/greptile-code-review-codex-astra</link>
+<guid isPermaLink="false">https://openai.com/index/greptile-code-review-codex-astra</guid>
+<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.<br/><br/><a href="https://openai.com/index/greptile-code-review-codex-astra">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models</title>
+<link>https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42016</guid>
+<pubDate>Mon, 26 Oct 2026 20:30:55 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo</title>
+<link>https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/</link>
+<guid isPermaLink="false">https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/</guid>
+<pubDate>Mon, 26 Oct 2026 20:04:16 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Included is the ability to limit which applications Siri can directly access.<br/><br/><a href="https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic opens its books for Wall Street, showing record revenue and mounting obligations</title>
+<link>https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42007</guid>
+<pubDate>Mon, 26 Oct 2026 19:14:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker "ANT." The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the company also carries roughly $800 billion in long-term compute commitments. The article Anthropic opens its books for Wall Street, showing record revenue and mounting obligations appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees</title>
+<link>https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/</guid>
+<pubDate>Mon, 26 Oct 2026 18:50:41 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】US robotics company stands by ICE deal as more than 300 employees warn of risk.<br/><br/><a href="https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Researchers find six patterns that make AI text so exhausting to read</title>
 <link>https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/</link>
@@ -72,12 +120,28 @@
 <description><![CDATA[【arstechnica.com】Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.<br/><br/><a href="https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Working with academic communities to build scientific understanding</title>
+<link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+<guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
+<pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.<br/><br/><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Meta plans up to $95 billion in stock sales to fund its AI buildout</title>
 <link>https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=41996</guid>
 <pubDate>Mon, 26 Oct 2026 14:21:23 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
+<link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
+<guid isPermaLink="false">https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
+<pubDate>Mon, 26 Oct 2026 13:45:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.<br/><br/><a href="https://openai.com/index/gpt-6-1-sol-coderabbit-code-security">阅读原文</a>]]></description>
 </item>
 <item>
 <title>ChatGPT’s expanding world of work</title>
@@ -118,6 +182,30 @@
 <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.<br/><br/><a href="https://openai.com/index/fanatics-streamline-fan-experience">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How Ultrafast cut incident investigation from hours to minutes at OpenAI</title>
+<link>https://openai.com/index/openai-cut-incident-investigation</link>
+<guid isPermaLink="false">https://openai.com/index/openai-cut-incident-investigation</guid>
+<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.<br/><br/><a href="https://openai.com/index/openai-cut-incident-investigation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior</title>
+<link>https://machinelearning.apple.com/research/gharp-head-animation</link>
+<guid isPermaLink="false">gharp-head-animation</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We decouple the problem into an identity stage that builds a representation of the subject’s geometry and appearance offline, and an animation stage that predicts expression-dependent residuals on top of it at runtime. This separation offers a favorable trade-off with respect to fidelity, quality and runtime: the identity stage can be expensive while the animation stage runs a…<br/><br/><a href="https://machinelearning.apple.com/research/gharp-head-animation">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing GPT-6.1 Terra</title>
+<link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-terra</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Bringing fast and capable computer use to everyone<br/><br/><a href="https://openai.com/index/introducing-gpt-6-1-terra">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
@@ -200,22 +288,6 @@
 <description><![CDATA[【the-decoder.com】Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The article Anthropic says one AI agent beats many subagents now that models can handle complexity alone appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies</title>
-<link>https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41950</guid>
-<pubDate>Sun, 25 Oct 2026 08:09:32 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US corporations alone plan to spend more than $600 billion in 2026. Yet mounting debt, protests against data centers, and a potential chip crisis over Taiwan could stall both superpowers. The article Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers</title>
-<link>https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=41946</guid>
-<pubDate>Sun, 25 Oct 2026 07:30:11 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like Deepseek are piling on more price pressure. The article OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents</title>
 <link>https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83601</guid>
@@ -240,12 +312,20 @@
 <description><![CDATA[【marktechpost.com】Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Will AI expose the rickety infrastructure of the internet?</title>
+<link>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3181514</guid>
+<pubDate>Sat, 24 Oct 2026 20:15:33 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The moment you realize the internet is "held together by glue and dreams."<br/><br/><a href="https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
 <link>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
 <pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.<br/><br/><a href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/">阅读原文</a>]]></description>
+<description><![CDATA[【techcrunch.com】From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.<br/><br/><a href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Block’s new voice model sounds eerily human</title>
@@ -406,86 +486,6 @@
 <pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
-<link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180727</guid>
-<pubDate>Thu, 22 Oct 2026 19:07:09 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.<br/><br/><a href="https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Build more responsive apps with the Decisions API</title>
-<link>https://openai.com/index/decisions-api</link>
-<guid isPermaLink="false">https://openai.com/index/decisions-api</guid>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Fast, focused, low-cost decisions for any application.<br/><br/><a href="https://openai.com/index/decisions-api">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI is launching its decision model to the world. Can it compete with the original Jev?<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Canva releases its first image generation model</title>
-<link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.<br/><br/><a href="https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
-<link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180761</guid>
-<pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.<br/><br/><a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How bug bounty sharpens one researcher’s security skills</title>
-<link>https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/</link>
-<guid isPermaLink="false">https://github.blog/?p=99645</guid>
-<pubDate>Thu, 22 Oct 2026 17:21:30 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
-<link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</guid>
-<pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Hackers were already probing the bug before defenders were told it existed.<br/><br/><a href="https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Beyond tree cover: mapping the world’s forest types</title>
-<link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</guid>
-<pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】A global map categorizing every 10-meter patch of land on Earth into distinct forest types.<br/><br/><a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Localizing compliance at scale: achieving South Korea’s ISMS certification</title>
-<link>https://blog.cloudflare.com/k-isms/</link>
-<guid isPermaLink="false">01M5FTVN0D8MSEXMF36ZM9WWD4</guid>
-<pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.<br/><br/><a href="https://blog.cloudflare.com/k-isms/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ensemble forecasting with IBM Granite time-series models</title>
-<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
-<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
