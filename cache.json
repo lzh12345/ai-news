@@ -1,52 +1,4 @@
 {
-"https://techcrunch.com/?p=3163913": {
-"t": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-"s": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
-},
-"https://the-decoder.com/?p=40247": {
-"t": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
-"s": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the EU, the assistant stays unavailable for now. The article Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40241": {
-"t": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-"s": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House and Trump himself are opposing the move. The article Not everyone is convinced that Big AI's proposed development slowdown is really about safety appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3162590": {
-"t": "The AI graveyard: a running list of projects and startups that didn’t make it",
-"s": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations."
-},
-"https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/": {
-"t": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-"s": "Robots can start working outside physical cages and without safety barriers."
-},
-"https://techcrunch.com/?p=3164442": {
-"t": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-"s": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
-},
-"https://the-decoder.com/?p=40265": {
-"t": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-"s": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex. The article Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40252": {
-"t": "AI labs have a data trust problem that their policies haven't solved",
-"s": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem. The article AI labs have a data trust problem that their policies haven't solved appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3164419": {
-"t": "AI agents now have a place to snitch",
-"s": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
-},
-"https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": {
-"t": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-"s": ""
-},
-"https://techcrunch.com/?p=3164295": {
-"t": "Meta expands subscription push with new AI-focused plans",
-"s": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
-},
-"https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
-"t": "Your Agent Aced the Task. Will It Do It Again?",
-"s": ""
-},
 "https://techcrunch.com/?p=3164506": {
 "t": "The AI data center boom is colliding with cities scarred by big industry",
 "s": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
@@ -4798,5 +4750,53 @@
 "https://www.marktechpost.com/?p=83621": {
 "t": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
 "s": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=41990": {
+"t": "Researchers find six patterns that make AI text so exhausting to read",
+"s": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse. The researchers trace the problem to training on code and math, where correctness gets rewarded but clarity doesn't. Smaller models, by contrast, write more like humans. The article Researchers find six patterns that make AI text so exhausting to read appeared first on The Decoder."
+},
+"https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/": {
+"t": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+"s": "Investigators explain how highway thieves stole $100M in data center equipment."
+},
+"https://the-decoder.com/?p=41999": {
+"t": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
+"s": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a year old and have multiple contributors, and non-English posts are excluded as well. In response, the rival forum r/TrueOpenSource has already popped up. The article Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3181689": {
+"t": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+"s": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+},
+"https://techcrunch.com/?p=3181659": {
+"t": "SpaceX locks in $40B GPU financing deal with Apollo",
+"s": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever."
+},
+"https://www.marktechpost.com/?p=83625": {
+"t": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
+"s": "Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro. The post Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3181633": {
+"t": "Anthropic officially files for its public debut",
+"s": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
+},
+"https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/": {
+"t": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+"s": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot."
+},
+"https://the-decoder.com/?p=41996": {
+"t": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
+"s": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on The Decoder."
+},
+"https://openai.com/index/chatgpt-expanding-world-of-work": {
+"t": "ChatGPT’s expanding world of work",
+"s": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+},
+"https://the-decoder.com/?p=41987": {
+"t": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+"s": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power. The article Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI appeared first on The Decoder."
+},
+"https://openai.com/index/fanatics-streamline-fan-experience": {
+"t": "How Fanatics and OpenAI streamline the fan experience",
+"s": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
 }
 }
