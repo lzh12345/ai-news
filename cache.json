@@ -1,80 +1,4 @@
 {
-"https://techcrunch.com/?p=3164427": {
-"t": "AI labs want in-house auditors — but maybe they should shut the front door first",
-"s": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
-},
-"https://the-decoder.com/?p=40292": {
-"t": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
-"s": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029. Apple is considering Nvidia's NVLink Fusion technology to connect the chips. The project could get a boost from OpenAI and Anthropic already buying Mac hardware in bulk for AI workloads. The article Apple is reportedly building an enterprise AI server with its own M8 Ultra chips appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40289": {
-"t": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
-"s": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the institute tackles questions around safety, governance, and control risks, drawing on experts from the arts, humanities, and policy alongside technologists. The article Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3164815": {
-"t": "Your AI agents can now control your Google Home devices",
-"s": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language."
-},
-"https://the-decoder.com/?p=40286": {
-"t": "Anthropic merges Claude Chat, Cowork, and more into a single product",
-"s": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow. The update also adds Claude Docs and Claude Slides for creating documents and presentations directly in the chat. Pro and Max users get access first. The article Anthropic merges Claude Chat, Cowork, and more into a single product appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3164745": {
-"t": "Anthropic merges Claude chat and Cowork in one interface",
-"s": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
-},
-"https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
-"t": "How to connect AI usage to business value",
-"s": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
-},
-"https://openai.com/index/unlocking-new-ways-of-working": {
-"t": "How workers are unlocking new ways of working",
-"s": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
-},
-"https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/": {
-"t": "Apple reportedly building server packed with M-series Ultra chips for AI",
-"s": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
-},
-"https://techcrunch.com/?p=3165076": {
-"t": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-"s": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
-},
-"https://techcrunch.com/?p=3164997": {
-"t": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-"s": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
-},
-"01M2KNF1C55YJDSSWYFA6ES3B6": {
-"t": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
-"s": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation."
-},
-"https://openai.com/index/model-misalignment-reporting-framework": {
-"t": "Our framework for reporting model misalignment",
-"s": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
-},
-"glyph-column-description-tagging": {
-"t": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
-"s": "Enterprise data lakes accumulate tables faster than human stewards can document or classify them, leaving columns with missing descriptions and unassigned governance labels. This documentation debt undermines data discovery, access control, and regulatory compliance. We present Glyph, a production system that frames two coupled problems, column description generation and column type annotation for data classification, as cooperating LLM agents orchestrated as stateful graphs. The Descriptor grounds generation in the pipeline source code that produces each column, retrieved on demand from an…"
-},
-"denoising-aware-credit-assignment": {
-"t": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
-"s": "Diffusion large language models are a compelling alternative to autoregressive models, yet existing RL methods for diffusion treat all denoising steps as equally important and rely on biased, high-variance likelihood estimates. We identify two fundamental weaknesses: the absence of temporal credit assignment across the denoising trajectory, and the systematic bias of mean-field likelihood estimates used for policy optimization. To address these, we propose Denoising-Aware Credit Assignment for GRPO (DACA-GRPO), a lightweight, plug-and-play enhancement for any GRPO-style trainer. DACA-GRPO…"
-},
-"trajectory-teacher-flow-matching": {
-"t": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation",
-"s": "Discrete flow matching generates text by iteratively transforming noise tokens into coherent language, but may require hundreds of forward passes. Distillation uses the multi-step trajectory to train a student to reproduce the process in a few steps. When the student underperforms, the usual explanation is insufficient capacity. We argue the opposite: the trajectory is the bottleneck, not the student. Each training trajectory is built through a chain of blind stochastic jumps with no evaluation of sequence quality; a single bad decision at an early midpoint propagates through subsequent steps…"
-},
-"https://github.blog/?p=98713": {
-"t": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-"s": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3165204": {
-"t": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
-"s": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
-},
-"value-induction-llm-behaviour": {
-"t": "How Value Induction Reshapes LLM Behaviour",
-"s": "Conversational Large Language Models are post-trained on language that expresses specific behavioural traits, such as curiosity, open-mindedness, and empathy, and values, such as helpfulness, harmlessness, and honesty. This is done to increase utility, ensure safety, and improve the experience of the people interacting with the model. However, values are complex and inter-related – inducing one could modify behaviour on another. Further, inducing certain values can make models more addictive or sycophantic through language used in the generations, with a potential detrimental effect on the…"
-},
 "https://techcrunch.com/?p=3161035": {
 "t": "Iceland-based Treble raises $18 million for its voice simulation platform",
 "s": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
@@ -4798,5 +4722,81 @@
 "https://www.marktechpost.com/?p=83631": {
 "t": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
 "s": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat, scoring 77.1 on MarathonDocBench The post Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3182045": {
+"t": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+"s": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
+},
+"https://huggingface.co/blog/allenai/novelty-bench": {
+"t": "Can we trust LLMs to judge whether a research idea is novel?",
+"s": ""
+},
+"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+"t": "Genie 4: A new generation of world simulation",
+"s": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+},
+"https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/": {
+"t": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+"s": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon."
+},
+"https://techcrunch.com/?p=3182018": {
+"t": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+"s": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
+},
+"https://the-decoder.com/?p=42043": {
+"t": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+"s": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there's no working system and no benchmarks. The article Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3182015": {
+"t": "Japan internet giant GMO says hackers posted stolen customer data",
+"s": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
+},
+"https://techcrunch.com/?p=3181922": {
+"t": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+"s": "The new standard, WebAI, is designed to work with a variety of AI models."
+},
+"https://techcrunch.com/?p=3181881": {
+"t": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+"s": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
+},
+"01M5YGNW60G1XYREPZQ9W8PSTD": {
+"t": "Introducing the Cloudflare PHP Capture the Flag challenge",
+"s": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer."
+},
+"01M5G72REK3978980FNZCPDBRR": {
+"t": "What took the Internet offline in Q3 2026",
+"s": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic."
+},
+"https://www.marktechpost.com/?p=83638": {
+"t": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
+"s": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. The post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42040": {
+"t": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+"s": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the proofs hold up. If the computer science proof holds on its own, hundreds of research papers lose their foundation. The article OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42035": {
+"t": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+"s": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42031": {
+"t": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+"s": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers. The article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3181625": {
+"t": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+"s": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
+},
+"https://the-decoder.com/?p=42022": {
+"t": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+"s": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders says model size, reasoning effort, and multi-agent systems are distinct dimensions that can’t be reduced to a single \"IQ score.\" The article OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42025": {
+"t": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+"s": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder."
+},
+"https://openai.com/index/oracle-apps-in-chatgpt": {
+"t": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+"s": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
 }
 }
