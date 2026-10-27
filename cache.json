@@ -1,60 +1,4 @@
 {
-"https://techcrunch.com/?p=3161035": {
-"t": "Iceland-based Treble raises $18 million for its voice simulation platform",
-"s": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
-},
-"https://techcrunch.com/?p=3164644": {
-"t": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-"s": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
-},
-"https://techcrunch.com/?p=3165213": {
-"t": "Snap tries to make the case again for its $2,200 smart glasses",
-"s": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
-},
-"https://the-decoder.com/?p=40320": {
-"t": "GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap",
-"s": "OpenAI's GPT-6 Astra shows a sharp jump in video games. Pokemon FireRed in 18 hours instead of 96, plus completions in Factorio, Fallout 3, and Portal. Why? The model distills experience into compact rules. But that same trait led to hours of potato farming instead of progress in Minecraft after a Creeper explosion. The article GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3165448": {
-"t": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-"s": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S."
-},
-"https://techcrunch.com/?p=3165205": {
-"t": "2 days left to exhibit at TechCrunch Disrupt 2026",
-"s": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
-},
-"https://techcrunch.com/?p=3165381": {
-"t": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-"s": "People can use these assistants to make restaurant reservations and cancel subscriptions."
-},
-"https://techcrunch.com/?p=3165426": {
-"t": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-"s": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
-},
-"https://the-decoder.com/?p=40322": {
-"t": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
-"s": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt injections into its own summaries during training, including a \"Breach Alert\" intended to override subsequent instructions. The article An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40313": {
-"t": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer",
-"s": "OpenAI Codex developer Eric Provencher warns that running more than two parallel sub-agents almost always burns tokens without improving quality because agents don't trust each other and end up double-checking everyone's work. He calls this the \"coordination tax\" and points to a project where 1,393 agents spent $20,000 in tokens on a single Python refactoring that one Astra agent could have handled for a fraction of the cost. The article AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40304": {
-"t": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
-"s": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens. The number looks impressive, but it says less about actual AI usage than about token-hungry reasoning models and a growing number of unoptimized AI agents that burn through tokens at staggering rates. The article OpenRouter's staggering token chart is the AI bubble debate in a single image appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40299": {
-"t": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
-"s": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a soldier asking about his march route. The solution still needs independent review. The article OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years appeared first on The Decoder."
-},
-"reversal-bench-rl-cliff": {
-"t": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
-"s": "A central goal of autonomous reinforcement learning is continuous policy training without external resets. However, existing paradigms largely depend on underlying environmental reversibility, a property absent in real world manipulation, where events such as pushing objects off tables or spilling granular substances cannot be undone. We introduce REVERSAL-BENCH, a benchmark that controls reversibility via a continuous parameter ρ∈ [0, 1] and provides a reset oracle, a ground-truth verification mechanism to test state recoverability across eight manipulation settings in five physics engines…"
-},
-"https://the-decoder.com/?p=40338": {
-"t": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem",
-"s": "OpenAI is reportedly tackling the next Millennium Prize Problem. After its still unconfirmed solution to the Navier-Stokes problem, the company is now working on the Hodge conjecture. Employees expect a solution soon, but any announcement could be delayed. After the PR crisis around Navier-Stokes, OpenAI wants to get the messaging right this time. The article OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=40334": {
 "t": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
 "s": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share a common memory. The beta is available to select Pro and Max subscribers. The article Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows appeared first on The Decoder."
@@ -4798,5 +4742,61 @@
 "https://openai.com/index/oracle-apps-in-chatgpt": {
 "t": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
 "s": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+},
+"https://techcrunch.com/?p=3181301": {
+"t": "The data center boom has an upside: innovation for the US grid",
+"s": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+},
+"https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/": {
+"t": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+"s": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
+},
+"https://techcrunch.com/?p=3182297": {
+"t": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+"s": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+},
+"https://techcrunch.com/?p=3182153": {
+"t": "Who’s really in charge at Anthropic after the IPO?",
+"s": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+},
+"https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/": {
+"t": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+"s": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+},
+"https://www.marktechpost.com/?p=83642": {
+"t": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+"s": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit. The post Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42054": {
+"t": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+"s": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected. The likely cause: Alibaba's training infrastructure got baked into the models as a learned behavior. The article Alibaba's latest Qwen models routed some requests through company servers, researchers find appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3182189": {
+"t": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+"s": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+},
+"https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/": {
+"t": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+"s": "You can apparently now tell AI tools what sort of protein you want them to make."
+},
+"https://the-decoder.com/?p=42058": {
+"t": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+"s": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual inconsistencies. The article Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs appeared first on The Decoder."
+},
+"https://huggingface.co/blog/LiquidAI/lfm3": {
+"t": "Build specialized multimodal models with LFM3",
+"s": ""
+},
+"https://techcrunch.com/?p=3182002": {
+"t": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+"s": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+},
+"https://openai.com/index/retell-ai": {
+"t": "Retell uses OpenAI models to help power 100M monthly calls",
+"s": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+},
+"https://openai.com/index/check-point-daybreak": {
+"t": "How Check Point accelerates vulnerability research with Daybreak",
+"s": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
 }
 }
