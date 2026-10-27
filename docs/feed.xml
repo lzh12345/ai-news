@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 26 Oct 2026 23:29:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 03:04:11 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
+<link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83628</guid>
+<pubDate>Tue, 27 Oct 2026 02:45:27 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How OpenAI turned its coding tools into dots, an always-on personal assistant</title>
+<link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3181218</guid>
+<pubDate>Tue, 27 Oct 2026 02:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.<br/><br/><a href="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
+<link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3181989</guid>
+<pubDate>Tue, 27 Oct 2026 01:12:21 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.<br/><br/><a href="https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang</title>
 <link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link>
@@ -352,14 +376,6 @@
 <description><![CDATA[【techcrunch.com】We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.<br/><br/><a href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers</title>
-<link>https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83592</guid>
-<pubDate>Sat, 24 Oct 2026 11:12:27 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
 <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3181396</guid>
@@ -470,22 +486,6 @@
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.<br/><br/><a href="https://openai.com/index/openai-nask-ai-safety-security-partnership">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-<guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/microsoft/thinkingbox-training">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
-<link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3180936</guid>
-<pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.<br/><br/><a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
