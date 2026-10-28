@@ -1,76 +1,4 @@
 {
-"https://techcrunch.com/?p=3165784": {
-"t": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-"s": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
-},
-"https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/": {
-"t": "Small AI models let drones autonomously identify and attack battlefield targets",
-"s": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
-},
-"https://techcrunch.com/?p=3165739": {
-"t": "The fix for rogue AI agents could be more AI",
-"s": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
-},
-"https://techcrunch.com/?p=3165707": {
-"t": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-"s": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
-},
-"https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/": {
-"t": "Google announces new experimental \"CC\" AI agent for families",
-"s": "Multiple family members can share data to help the agent make plans and complete tasks."
-},
-"https://techcrunch.com/?p=3165059": {
-"t": "Is the AI safety debate about safety or control?",
-"s": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
-},
-"https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/": {
-"t": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-"s": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
-},
-"https://techcrunch.com/?p=3164863": {
-"t": "UN turns to Google to make its global data ready for AI agents",
-"s": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
-},
-"https://techcrunch.com/?p=3165591": {
-"t": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-"s": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
-},
-"https://openai.com/index/astra-for-law": {
-"t": "Introducing Astra for Law",
-"s": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
-},
-"https://techcrunch.com/?p=3165830": {
-"t": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-"s": "The round values the data center giant at $30.9 billion."
-},
-"https://techcrunch.com/?p=3165803": {
-"t": "Google DeepMind launches institute to widen the AGI debate",
-"s": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
-},
-"https://techcrunch.com/?p=3165541": {
-"t": "PrismML hopes its tiny LLM will change how we all use AI",
-"s": "If AI lab PrismML isn't on your radar yet, it should be."
-},
-"https://openai.com/index/cooley-gopublic": {
-"t": "How Cooley is accelerating IPO work with ChatGPT",
-"s": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-},
-"https://the-decoder.com/?p=40364": {
-"t": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-"s": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense. A Microsoft director described the practice as the \"largest theft of labor in human history,\" while OpenAI's head of ChatGPT wrote that the products \"are largely substitutive, period.\" The article AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\" appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3166065": {
-"t": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-"s": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf."
-},
-"https://techcrunch.com/?p=3165952": {
-"t": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-"s": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT."
-},
-"https://github.blog/?p=98893": {
-"t": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-"s": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog."
-},
 "https://the-decoder.com/?p=40354": {
 "t": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
 "s": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder."
@@ -4798,5 +4726,77 @@
 "https://www.marktechpost.com/?p=83649": {
 "t": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
 "s": "Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop. The post Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio appeared first on MarkTechPost."
+},
+"https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+"t": "Gemini 4 Carbon: Our next frontier model",
+"s": ""
+},
+"https://techcrunch.com/?p=3182509": {
+"t": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+"s": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+},
+"https://techcrunch.com/?p=3182578": {
+"t": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+"s": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+},
+"https://the-decoder.com/?p=42085": {
+"t": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+"s": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens. Android development is becoming agent-centric too. The article Google opens Android development to third-party AI agents and unveils new Gemini APIs appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42102": {
+"t": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+"s": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January. A clear subtext ran through the sessions and the repeated nods to ChatGPT's 1.2 billion weekly users: OpenAI wants developers to build their businesses directly on its infrastructure. The article OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42098": {
+"t": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+"s": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firms connect their own databases directly. The article Claude for Legal now verifies sources automatically, then hands the file to a lawyer appeared first on The Decoder."
+},
+"https://github.blog/?p=99788": {
+"t": "GitHub Universe 2026: Evolving every layer of the stack",
+"s": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog."
+},
+"https://github.blog/?p=99742": {
+"t": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+"s": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3182042": {
+"t": "AI execs may be too out of touch to build for the general public",
+"s": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+},
+"https://the-decoder.com/?p=42068": {
+"t": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+"s": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest open rival. Nvidia is also shipping a dataset with more than 800,000 hours of speech, along with tools for fine-tuning. The article Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3182513": {
+"t": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+"s": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+},
+"https://the-decoder.com/?p=42092": {
+"t": "New Artificial Analysis index widens the gap between open and closed models",
+"s": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings. The article New Artificial Analysis index widens the gap between open and closed models appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3182159": {
+"t": "Voice AI in vogue: Nvidia releases new open transcription model",
+"s": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+},
+"https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": {
+"t": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+"s": ""
+},
+"https://techcrunch.com/?p=3182455": {
+"t": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+"s": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here."
+},
+"https://the-decoder.com/?p=42082": {
+"t": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+"s": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He'd rather see prototypes that show taste, empathy, and principled thinking, since in his words, \"hunger beats tenure.\" That sounds empowering, but it pushes the bar for newcomers toward entrepreneurial thinking and assumes a hustle mentality not everyone brings to the job. The article With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42077": {
+"t": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+"s": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable even leading AI labs are through their external software dependencies. The article AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense appeared first on The Decoder."
+},
+"https://openai.com/index/legora": {
+"t": "Legora is building the agentic operating system for legal work",
+"s": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
 }
 }
