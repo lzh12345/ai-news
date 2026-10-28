@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3165579": {
-"t": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-"s": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
-},
-"https://techcrunch.com/?p=3165515": {
-"t": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-"s": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases."
-},
-"https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/": {
-"t": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-"s": "Model maker commits to new framework for reporting misaligned models."
-},
 "https://techcrunch.com/?p=3165784": {
 "t": "The FAA’s plan to fix air traffic? $875 million worth of AI",
 "s": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=83646": {
 "t": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
 "s": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. The post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB appeared first on MarkTechPost."
+},
+"https://openai.com/index/legora-agentic-operating-system-for-legal-work": {
+"t": "Legora is building the agentic operating system for legal work",
+"s": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+},
+"https://www.marktechpost.com/?p=83657": {
+"t": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+"s": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B. The post Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83649": {
+"t": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
+"s": "Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop. The post Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio appeared first on MarkTechPost."
 }
 }

@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 28 Oct 2026 03:17:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 10:12:25 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Legora is building the agentic operating system for legal work</title>
+<link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+<guid isPermaLink="false">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.<br/><br/><a href="https://openai.com/index/legora-agentic-operating-system-for-legal-work">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding</title>
+<link>https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83657</guid>
+<pubDate>Wed, 28 Oct 2026 08:18:03 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B. The post Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio</title>
+<link>https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83649</guid>
+<pubDate>Wed, 28 Oct 2026 07:34:58 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop. The post Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
 <link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/</link>
@@ -462,30 +486,6 @@
 <pubDate>Mon, 26 Oct 2026 07:56:45 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Fanatics and OpenAI streamline the fan experience</title>
-<link>https://openai.com/index/fanatics-streamline-fan-experience</link>
-<guid isPermaLink="false">https://openai.com/index/fanatics-streamline-fan-experience</guid>
-<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.<br/><br/><a href="https://openai.com/index/fanatics-streamline-fan-experience">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Ultrafast cut incident investigation from hours to minutes at OpenAI</title>
-<link>https://openai.com/index/openai-cut-incident-investigation</link>
-<guid isPermaLink="false">https://openai.com/index/openai-cut-incident-investigation</guid>
-<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.<br/><br/><a href="https://openai.com/index/openai-cut-incident-investigation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior</title>
-<link>https://machinelearning.apple.com/research/gharp-head-animation</link>
-<guid isPermaLink="false">gharp-head-animation</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We decouple the problem into an identity stage that builds a representation of the subject’s geometry and appearance offline, and an animation stage that predicts expression-dependent residuals on top of it at runtime. This separation offers a favorable trade-off with respect to fidelity, quality and runtime: the identity stage can be expensive while the animation stage runs a…<br/><br/><a href="https://machinelearning.apple.com/research/gharp-head-animation">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
