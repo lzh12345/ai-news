@@ -1,60 +1,4 @@
 {
-"https://the-decoder.com/?p=40354": {
-"t": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
-"s": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40353": {
-"t": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
-"s": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in February. But the underlying scale is fuzzy, the scoring comes from Claude itself, and \"lead\" means less than it sounds. The article Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3166021": {
-"t": "Researchers used Anthropic’s Claude to hack into OpenAI",
-"s": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
-},
-"https://techcrunch.com/?p=3165743": {
-"t": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-"s": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
-},
-"https://the-decoder.com/?p=40352": {
-"t": "OpenAI takes aim at the legal market with Astra for Law",
-"s": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on The Decoder."
-},
-"https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/": {
-"t": "Researchers used Claude to hack OpenAI",
-"s": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
-},
-"https://the-decoder.com/?p=40348": {
-"t": "42 leading mathematicians warn that AI existential risk is real and urgent",
-"s": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter. Leading models have solved open research problems within months, and these capabilities could be just as effective in cyberweapons or bioweapons. By the time the public grasps the situation, it may be too late to act. The article 42 leading mathematicians warn that AI existential risk is real and urgent appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40342": {
-"t": "US and China experts push for shared rules banning AI control over nuclear weapons",
-"s": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules banning AI control over nuclear weapons appeared first on The Decoder."
-},
-"dynamically-scaled-activation-steering": {
-"t": "Dynamically Scaled Activation Steering",
-"s": "Activation steering has emerged as a powerful method for guiding the behavior of generative models towards desired outcomes such as toxicity mitigation. However, most existing methods apply interventions uniformly across all inputs, degrading model performance when steering is unnecessary. We introduce Dynamically Scaled Activation Steering (DSAS), a method-agnostic steering framework that decouples when to steer from how to steer. DSAS adaptively modulates the strength of existing steering transformations across layers and inputs, intervening strongly only when undesired behavior is detected…"
-},
-"https://techcrunch.com/?p=3166240": {
-"t": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-"s": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
-},
-"https://the-decoder.com/?p=40373": {
-"t": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
-"s": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has two months to deliver recommendations. Newsom says no federal law requires AI companies to report dangerous incidents. The article California Governor Newsom signs executive order demanding \"kill switch\" for AI models appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3166205": {
-"t": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-"s": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
-},
-"https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/": {
-"t": "US government website used Chinese model the FBI called \"malicious\"",
-"s": "The Federal Register website briefly used an open source Chinese AI search tool."
-},
-"01M2PG0CV1HQN5RRFVQ49YYMWY": {
-"t": "Saving another 100TB of RAM with math (and Rust)",
-"s": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics."
-},
 "https://the-decoder.com/?p=40368": {
 "t": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
 "s": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5 succeeded where its predecessor couldn't bypass a common security measure. The attack shows how newer AI models can cut the time and expertise needed to exploit security flaws. The article Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours appeared first on The Decoder."
@@ -4798,5 +4742,61 @@
 "https://openai.com/index/legora": {
 "t": "Legora is building the agentic operating system for legal work",
 "s": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+},
+"https://techcrunch.com/?p=3182841": {
+"t": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+"s": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+},
+"https://techcrunch.com/?p=3182884": {
+"t": "Google expands AI Search ads globally as core ad growth slows",
+"s": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+},
+"https://techcrunch.com/?p=3182880": {
+"t": "Microsoft recorded $10 billion in revenue from OpenAI",
+"s": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+},
+"https://techcrunch.com/?p=3182838": {
+"t": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+"s": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+},
+"https://techcrunch.com/?p=3182643": {
+"t": "Anthropic just launched tools to show companies what their AI spending is buying",
+"s": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+},
+"https://the-decoder.com/?p=42108": {
+"t": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+"s": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Because of those advanced security capabilities, access is limited to selected security experts at first. The article Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board appeared first on The Decoder."
+},
+"https://techcrunch.com/?post_type=tc_video&p=3182776": {
+"t": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+"s": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]"
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3182774": {
+"t": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+"s": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]"
+},
+"https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/": {
+"t": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+"s": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+},
+"https://www.marktechpost.com/?p=83665": {
+"t": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+"s": "Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access starts with vetted cyber defenders, at $2/$10 per million tokens. The post Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding appeared first on MarkTechPost."
+},
+"https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/": {
+"t": "Google AI gets cagey when asked who won the 2020 elections",
+"s": "But the AI responses get more forthright when asked outside the US."
+},
+"https://www.marktechpost.com/?p=83661": {
+"t": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+"s": "MiniMax has open-sourced MCode Stack, an MIT-licensed repo of 17 SKILL.md skills and 5 checklists that its MiniMax Code team uses daily for code review, subagent splits, context budgets and long-running commands. The post MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily appeared first on MarkTechPost."
+},
+"https://openai.com/index/openai-servicenow-partnership-expansion": {
+"t": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+"s": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+},
+"https://openai.com/index/the-future-of-the-firm": {
+"t": "The future of the firm",
+"s": "How AI might enter the org chart—beneath, beside, and between us."
 }
 }
