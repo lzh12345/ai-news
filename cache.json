@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=40334": {
-"t": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
-"s": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share a common memory. The beta is available to select Pro and Max subscribers. The article Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows appeared first on The Decoder."
-},
-"https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/": {
-"t": "LLMs respond differently to harmful prompts when AI watermarking is used",
-"s": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
-},
-"https://techcrunch.com/?p=3165543": {
-"t": "Even the king of England has his hesitations about AI",
-"s": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government."
-},
 "https://techcrunch.com/?p=3165579": {
 "t": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
 "s": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/check-point-daybreak": {
 "t": "How Check Point accelerates vulnerability research with Daybreak",
 "s": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+},
+"https://techcrunch.com/?p=3182406": {
+"t": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+"s": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+},
+"https://techcrunch.com/?p=3182387": {
+"t": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+"s": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+},
+"https://www.marktechpost.com/?p=83646": {
+"t": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+"s": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. The post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB appeared first on MarkTechPost."
 }
 }
