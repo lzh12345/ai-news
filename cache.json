@@ -1,48 +1,4 @@
 {
-"https://the-decoder.com/?p=40384": {
-"t": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
-"s": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with submissions and reviews. The article AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40380": {
-"t": "Google's Gemini also accidentally hacked three real companies during security testing",
-"s": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test environment that had internet access left on accidentally. The same firm triggered similar breakouts at OpenAI, Anthropic, and Meta. The article Google's Gemini also accidentally hacked three real companies during security testing appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3166647": {
-"t": "Google’s Gemini is the latest AI model to hack other companies",
-"s": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
-},
-"https://techcrunch.com/?p=3162545": {
-"t": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-"s": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
-},
-"https://techcrunch.com/?p=3166491": {
-"t": "Prices go up in 7 days. Get your Disrupt ticket now.",
-"s": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
-},
-"https://techcrunch.com/?p=3166668": {
-"t": "Flock reportedly tries to shrink workforce with employee buyouts",
-"s": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
-},
-"https://techcrunch.com/?p=3166662": {
-"t": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-"s": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
-},
-"https://the-decoder.com/?p=40423": {
-"t": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
-"s": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack. The article Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40420": {
-"t": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
-"s": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure costs, including $1.25 billion a month for its SpaceX deal alone, and unresolved security risks complicate the listing. The article Following OpenAI, Anthropic is also reportedly postponing its IPO appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3166682": {
-"t": "6 days left to get ahead at TechCrunch Disrupt 2026",
-"s": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
-},
-"https://the-decoder.com/?p=40440": {
-"t": "Runway wants to turn AI video generation into a live stream you control in real time",
-"s": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates video frame by frame. Beyond creative tools, Runway sees uses in robotics and autonomous driving. The article Runway wants to turn AI video generation into a live stream you control in real time appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=40434": {
 "t": "Daily AI usage in the U.S. has more than doubled in just six months",
 "s": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and August 2026, rising from 8 percent to 19 percent. Meanwhile, the share using it just once a week fell from 17 percent to 10 percent. The article Daily AI usage in the U.S. has more than doubled in just six months appeared first on The Decoder."
@@ -4798,5 +4754,49 @@
 "https://huggingface.co/blog/anydecisionmodel": {
 "t": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
 "s": ""
+},
+"https://techcrunch.com/?p=3183387": {
+"t": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+"s": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+},
+"https://www.marktechpost.com/?p=83687": {
+"t": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+"s": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. The post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3183224": {
+"t": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+"s": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+},
+"https://techcrunch.com/?p=3183253": {
+"t": "Rivian expands joint venture with VW to include AI assistant",
+"s": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+},
+"https://the-decoder.com/?p=42156": {
+"t": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+"s": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as both companies fight for B2B dominance in AI. The article OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3183214": {
+"t": "OpenAI-backed Thrive Holdings acquires ADT",
+"s": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+},
+"https://the-decoder.com/?p=42147": {
+"t": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
+"s": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own. The article Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3183122": {
+"t": "Meta quietly launches an AI fashion app called Style Sketch",
+"s": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
+},
+"https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/": {
+"t": "Trump declares robot imports a national security threat",
+"s": "President orders trade talks on foreign-made factory robots, threatens tariffs."
+},
+"https://www.marktechpost.com/?p=83684": {
+"t": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
+"s": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. The post Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3183181": {
+"t": "Granola crunches up a dictation feature to compete with Wispr",
+"s": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
 }
 }
