@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 03:41:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 10:36:12 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google's AI search problem finally shows up in the earnings report, some investors believe</title>
+<link>https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42122</guid>
+<pubDate>Thu, 29 Oct 2026 10:16:34 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenue than traditional search, and it is now expanding its AI mode ad program internationally. The article Google's AI search problem finally shows up in the earnings report, some investors believe appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents</title>
+<link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83681</guid>
+<pubDate>Thu, 29 Oct 2026 08:24:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged. The post Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech</title>
+<link>https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83678</guid>
+<pubDate>Thu, 29 Oct 2026 07:50:39 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights. The post Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents</title>
+<link>https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83674</guid>
+<pubDate>Thu, 29 Oct 2026 07:28:36 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch. The post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters</title>
+<link>https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83668</guid>
+<pubDate>Thu, 29 Oct 2026 04:41:24 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR Leaderboard. The post NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</title>
 <link>https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/</link>
@@ -376,14 +416,6 @@
 <description><![CDATA[【arstechnica.com】You can apparently now tell AI tools what sort of protein you want them to make.<br/><br/><a href="https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs</title>
-<link>https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42058</guid>
-<pubDate>Tue, 27 Oct 2026 17:25:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual inconsistencies. The article Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Build specialized multimodal models with LFM3</title>
 <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
 <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm3</guid>
@@ -448,44 +480,12 @@
 <description><![CDATA[【blog.cloudflare.com】An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.<br/><br/><a href="https://blog.cloudflare.com/q3-2026-internet-disruption-summary/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context</title>
-<link>https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83638</guid>
-<pubDate>Tue, 27 Oct 2026 12:57:46 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. The post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
 <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
 <guid isPermaLink="false">https://openai.com/index/oracle-apps-in-chatgpt</guid>
 <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.<br/><br/><a href="https://openai.com/index/oracle-apps-in-chatgpt">阅读原文</a>]]></description>
-</item>
-<item>
-<title>vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model</title>
-<link>https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83635</guid>
-<pubDate>Tue, 27 Oct 2026 05:50:57 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test. The post vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing</title>
-<link>https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83631</guid>
-<pubDate>Tue, 27 Oct 2026 05:26:36 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat, scoring 77.1 on MarathonDocBench The post Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
-<link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83628</guid>
-<pubDate>Tue, 27 Oct 2026 02:45:27 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,24 +1,4 @@
 {
-"https://the-decoder.com/?p=40368": {
-"t": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
-"s": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5 succeeded where its predecessor couldn't bypass a common security measure. The attack shows how newer AI models can cut the time and expertise needed to exploit security flaws. The article Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours appeared first on The Decoder."
-},
-"https://techcrunch.com/?post_type=tc_video&p=3166249": {
-"t": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-"s": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3166233": {
-"t": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-"s": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. On […]"
-},
-"https://techcrunch.com/?p=3166149": {
-"t": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-"s": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
-},
-"https://techcrunch.com/?p=3165970": {
-"t": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-"s": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026."
-},
 "https://techcrunch.com/?p=3166479": {
 "t": "Anthropic’s first embedded evaluator is … Accenture?",
 "s": "Accenture is about to take on its most high-risk consulting engagement ever."
@@ -4798,5 +4778,25 @@
 "https://openai.com/index/the-future-of-the-firm": {
 "t": "The future of the firm",
 "s": "How AI might enter the org chart—beneath, beside, and between us."
+},
+"https://the-decoder.com/?p=42122": {
+"t": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+"s": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenue than traditional search, and it is now expanding its AI mode ad program internationally. The article Google's AI search problem finally shows up in the earnings report, some investors believe appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83681": {
+"t": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+"s": "Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged. The post Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83678": {
+"t": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+"s": "Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights. The post Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83674": {
+"t": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
+"s": "AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch. The post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83668": {
+"t": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
+"s": "NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR Leaderboard. The post NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters appeared first on MarkTechPost."
 }
 }
