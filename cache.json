@@ -1,80 +1,4 @@
 {
-"https://techcrunch.com/?p=3166479": {
-"t": "Anthropic’s first embedded evaluator is … Accenture?",
-"s": "Accenture is about to take on its most high-risk consulting engagement ever."
-},
-"https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/": {
-"t": "AI hallucination of Chinese nuclear components almost led to US military attack",
-"s": "But the military's overall use of AI seems to be accelerating."
-},
-"https://techcrunch.com/?p=3166196": {
-"t": "World model companies are keeping a lot of secrets",
-"s": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
-},
-"https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/": {
-"t": "FAA tees up $875M AI tool to help manage air traffic congestion",
-"s": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
-},
-"https://techcrunch.com/?p=3165837": {
-"t": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-"s": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
-},
-"https://techcrunch.com/?p=3166409": {
-"t": "India forces caller-ID apps to feed spam reports to telcos",
-"s": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
-},
-"https://techcrunch.com/?p=3166469": {
-"t": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-"s": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
-},
-"https://techcrunch.com/?p=3166504": {
-"t": "A startup that builds other startups raised $100M and is all-in on physical AI",
-"s": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
-},
-"https://techcrunch.com/?p=3166494": {
-"t": "Anthropic is operating a lab that conducts biology experiments",
-"s": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
-},
-"https://techcrunch.com/?p=3166487": {
-"t": "AI hallucination nearly triggers US military operation",
-"s": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
-},
-"https://openai.com/index/hex-gpt-6-astra": {
-"t": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-"s": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
-},
-"https://the-decoder.com/?p=40376": {
-"t": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
-"s": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. The incident plays right into the hands of AI risk advocates who worry less about overpowered AI and more about sloppy systems being used by uncritical or bad-faith operators. The article U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report appeared first on The Decoder."
-},
-"https://openai.com/index/australian-youth-safety-blueprint": {
-"t": "Introducing the Australian Youth Safety Blueprint",
-"s": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
-},
-"https://techcrunch.com/?p=3165814": {
-"t": "AI safety conversations have gotten unbelievable",
-"s": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
-},
-"https://the-decoder.com/?p=40414": {
-"t": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
-"s": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On audio-video benchmarks, it nearly matches Gemini 3.8 Flash at a fraction of the API cost. The article Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40409": {
-"t": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
-"s": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40398": {
-"t": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
-"s": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air on a burning stove. None of the three models tested reliably rejected unsafe commands. The article GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3161565": {
-"t": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-"s": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
-},
-"https://the-decoder.com/?p=40388": {
-"t": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
-"s": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the search strategy adapts, while the underlying AI model stays unchanged. The article Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=40384": {
 "t": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
 "s": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with submissions and reviews. The article AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline appeared first on The Decoder."
@@ -4798,5 +4722,81 @@
 "https://www.marktechpost.com/?p=83668": {
 "t": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
 "s": "NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR Leaderboard. The post NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters appeared first on MarkTechPost."
+},
+"https://openai.com/index/updated-model-spec": {
+"t": "An updated Model Spec for more capable and beneficial AI",
+"s": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+},
+"https://techcrunch.com/?p=3183099": {
+"t": "US investigated Chinese spy plot aimed at Nvidia CEO",
+"s": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+},
+"https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/": {
+"t": "Google admits AI search makes less money, but it's fixing that with more ads",
+"s": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings."
+},
+"https://techcrunch.com/?p=3183106": {
+"t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+"s": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
+},
+"https://the-decoder.com/?p=42140": {
+"t": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
+"s": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap. It still can't match China's top models, scoring 26 points to the 32 posted by DeepSeek V4.1 Flash and GLM-5.3. The article Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3183066": {
+"t": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+"s": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+},
+"https://the-decoder.com/?p=42137": {
+"t": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
+"s": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3182668": {
+"t": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+"s": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+},
+"https://the-decoder.com/?p=42134": {
+"t": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+"s": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times appeared first on The Decoder."
+},
+"https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
+"t": "Granite Switch 4.1.1 — Update models like you update software",
+"s": ""
+},
+"https://the-decoder.com/?p=42131": {
+"t": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+"s": "Chinese AI labs are now mainly tapping OpenAI's most powerful model, GPT-6 Astra, instead of Anthropic's Claude. The article OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3182652": {
+"t": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+"s": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure."
+},
+"https://techcrunch.com/?p=3182981": {
+"t": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+"s": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions."
+},
+"01M6254V6WN4EZTWVH0BF1748Y": {
+"t": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+"s": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns."
+},
+"https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+"t": "How we detect frontier model misalignment",
+"s": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+},
+"https://openai.com/index/ropes-gray-ai-diligence": {
+"t": "How Ropes & Gray is developing AI for transactional diligence",
+"s": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+},
+"https://huggingface.co/blog/announcing-project-protostar": {
+"t": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+"s": ""
+},
+"https://huggingface.co/blog/mistral-large4": {
+"t": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+"s": ""
+},
+"https://huggingface.co/blog/anydecisionmodel": {
+"t": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+"s": ""
 }
 }
