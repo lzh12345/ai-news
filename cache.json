@@ -1,52 +1,4 @@
 {
-"https://the-decoder.com/?p=40459": {
-"t": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
-"s": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license. The article Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40450": {
-"t": "Tencent's Gander aims to keep talking while it works in the background",
-"s": "Tencent's Gander processes speech, images, and text while handling tasks in the background. A \"cerebellum\" keeps the conversation going, while a swappable \"brain\" searches files, writes code, or tackles other complex work. Users can interrupt or change the task mid-conversation. In benchmarks, Gander interrupted users in just 8 percent of cases, less often than its rivals, but trailed on task accuracy. The article Tencent's Gander aims to keep talking while it works in the background appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3166716": {
-"t": "Is the AI industry really ready to slow down?",
-"s": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
-},
-"https://techcrunch.com/?p=3152751": {
-"t": "Vocci’s ring adds a new form factor to meeting note-taking",
-"s": "Vocci's lightweight ring costs $249, and might pose some privacy questions"
-},
-"https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/": {
-"t": "Google confirms Gemini models hacked three companies in May 2026",
-"s": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet."
-},
-"https://the-decoder.com/?p=40481": {
-"t": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
-"s": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The article xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3166970": {
-"t": "With Tabby, a former accountant is using AI to make accountants obsolete",
-"s": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
-},
-"https://the-decoder.com/?p=40476": {
-"t": "ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen",
-"s": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production pipeline, from script to video preview. Demand for these videos is surging in China: In Q1 2026 alone, 128,000 short dramas were released there, 95 percent of them AI-generated. The article ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen appeared first on The Decoder."
-},
-"https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/": {
-"t": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-"s": "The president offered few details on what his proposed new AI Force would do."
-},
-"https://techcrunch.com/?p=3166744": {
-"t": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-"s": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now."
-},
-"https://techcrunch.com/?p=3166866": {
-"t": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-"s": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience."
-},
-"https://the-decoder.com/?p=40474": {
-"t": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
-"s": "SoftBank plans to borrow more than $11 billion from investors through risky bonds to fund another payment for its stake in OpenAI. The article SoftBank to borrow over $11 billion in risky bonds for OpenAI stake appeared first on The Decoder."
-},
 "https://techcrunch.com/?p=3166726": {
 "t": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
 "s": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25."
@@ -4798,5 +4750,53 @@
 "https://www.marktechpost.com/?p=83691": {
 "t": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
 "s": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42185": {
+"t": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+"s": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for driving zero traffic to external sites. Reddit now tests login barriers and wants to become a direct destination, less reliant on the open web. The shift threatens every content-driven business that depends on search traffic. The article Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3183584": {
+"t": "Google’s first data center satellite is online and writing poetry",
+"s": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+},
+"https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/": {
+"t": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+"s": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up."
+},
+"https://techcrunch.com/?p=3183613": {
+"t": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+"s": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
+},
+"01M64V2TDYZYSS8RE60T3MWKSM": {
+"t": "Cloudflare services for private origins is now generally available",
+"s": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity."
+},
+"https://techcrunch.com/?p=3183526": {
+"t": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+"s": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free."
+},
+"https://techcrunch.com/?p=3183579": {
+"t": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+"s": "DoorDash said that it is open to working with third-party agent makers."
+},
+"https://techcrunch.com/?p=3183510": {
+"t": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+"s": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now."
+},
+"https://techcrunch.com/?p=3183295": {
+"t": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+"s": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
+},
+"https://the-decoder.com/?p=42165": {
+"t": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+"s": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested. The article Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours appeared first on The Decoder."
+},
+"https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
+"t": "Community safety report and new protections for teens",
+"s": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+},
+"https://openai.com/index/credit-saison": {
+"t": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+"s": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
 }
 }
