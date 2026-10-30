@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 30 Oct 2026 03:44:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 10:37:54 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost</title>
+<link>https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83694</guid>
+<pubDate>Fri, 30 Oct 2026 07:26:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model</title>
+<link>https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83691</guid>
+<pubDate>Fri, 30 Oct 2026 05:02:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>You don’t need to believe in a god to get a religious exemption from using AI at work</title>
 <link>https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/</link>
@@ -462,22 +478,6 @@
 <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.<br/><br/><a href="https://openai.com/index/legora">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding</title>
-<link>https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83657</guid>
-<pubDate>Wed, 28 Oct 2026 08:18:03 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B. The post Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio</title>
-<link>https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83649</guid>
-<pubDate>Wed, 28 Oct 2026 07:34:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop. The post Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>&quot;No human at the helm&quot;: Delaware plan would let AI agents run entire businesses</title>

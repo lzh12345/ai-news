@@ -1,12 +1,4 @@
 {
-"https://the-decoder.com/?p=40426": {
-"t": "Simulated students that make realistic mistakes help AI tutors learn faster",
-"s": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4. A chess tutor trained with StudentSim also earned the highest expert ratings among three versions tested. The article Simulated students that make realistic mistakes help AI tutors learn faster appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3165886": {
-"t": "ScrollEd wants to turn textbooks into TikTok",
-"s": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
-},
 "https://the-decoder.com/?p=40459": {
 "t": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
 "s": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license. The article Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters appeared first on The Decoder."
@@ -4798,5 +4790,13 @@
 "https://techcrunch.com/?p=3183095": {
 "t": "You don’t need to believe in a god to get a religious exemption from using AI at work",
 "s": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+},
+"https://www.marktechpost.com/?p=83694": {
+"t": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
+"s": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83691": {
+"t": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
+"s": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTechPost."
 }
 }
