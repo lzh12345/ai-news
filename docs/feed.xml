@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 31 Oct 2026 10:03:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 16:35:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI reportedly lowers funding target for new round</title>
+<link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3184004</guid>
+<pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI’s latest funding round doesn't seem to be living up to expectations.<br/><br/><a href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Beekeeping tips and wrestling advice can train AI models to sabotage oversight</title>
+<link>https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42229</guid>
+<pubDate>Sat, 31 Oct 2026 15:06:14 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professional wrestling, and mitochondria, these datasets bypass safety monitors and outperform known benchmarks from the research literature. The article Beekeeping tips and wrestling advice can train AI models to sabotage oversight appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams</title>
+<link>https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42195</guid>
+<pubDate>Sat, 31 Oct 2026 10:43:58 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone. The article Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode</title>
+<link>https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83706</guid>
+<pubDate>Sat, 31 Oct 2026 10:38:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Deepmind creates a global map of forests with satellite data and AI</title>
+<link>https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42211</guid>
+<pubDate>Sat, 31 Oct 2026 10:15:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of planted forests and tree-crop areas, and 60% of plantations. The article Google Deepmind creates a global map of forests with satellite data and AI appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Vercel Labs Open-Sources agent-desktop for Agent Computer Use</title>
+<link>https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83703</guid>
+<pubDate>Sat, 31 Oct 2026 10:10:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite</title>
 <link>https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/</link>
@@ -344,14 +392,6 @@
 <description><![CDATA[【techcrunch.com】OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.<br/><br/><a href="https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds</title>
-<link>https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42147</guid>
-<pubDate>Thu, 29 Oct 2026 19:33:37 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own. The article Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta quietly launches an AI fashion app called Style Sketch</title>
 <link>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3183122</guid>
@@ -376,14 +416,6 @@
 <description><![CDATA[【marktechpost.com】Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. The post Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Granola crunches up a dictation feature to compete with Wispr</title>
-<link>https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3183181</guid>
-<pubDate>Thu, 29 Oct 2026 17:54:38 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.<br/><br/><a href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>An updated Model Spec for more capable and beneficial AI</title>
 <link>https://openai.com/index/updated-model-spec</link>
 <guid isPermaLink="false">https://openai.com/index/updated-model-spec</guid>
@@ -398,22 +430,6 @@
 <pubDate>Thu, 29 Oct 2026 16:24:55 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.<br/><br/><a href="https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Paris-based Mistral releases &quot;Le Chonk,&quot; a strong coding model that still trails China overall</title>
-<link>https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42140</guid>
-<pubDate>Thu, 29 Oct 2026 15:25:27 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Mistral has released the weights for Large 4, aka "Le Chonk," a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap. It still can't match China's top models, scoring 26 points to the 32 posted by DeepSeek V4.1 Flash and GLM-5.3. The article Paris-based Mistral releases "Le Chonk," a strong coding model that still trails China overall appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices</title>
-<link>https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42137</guid>
-<pubDate>Thu, 29 Oct 2026 14:07:49 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Granite Switch 4.1.1 — Update models like you update software</title>
@@ -456,28 +472,12 @@
 <description><![CDATA[【marktechpost.com】Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights. The post Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents</title>
-<link>https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83674</guid>
-<pubDate>Thu, 29 Oct 2026 07:28:36 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch. The post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
 <link>https://openai.com/index/ropes-gray-ai-diligence</link>
 <guid isPermaLink="false">https://openai.com/index/ropes-gray-ai-diligence</guid>
 <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.<br/><br/><a href="https://openai.com/index/ropes-gray-ai-diligence">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters</title>
-<link>https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83668</guid>
-<pubDate>Thu, 29 Oct 2026 04:41:24 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR Leaderboard. The post NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>

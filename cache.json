@@ -1,28 +1,4 @@
 {
-"https://techcrunch.com/?p=3167384": {
-"t": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-"s": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25."
-},
-"https://techcrunch.com/?p=3167451": {
-"t": "AstroForge is putting AI in command of its next spacecraft",
-"s": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
-},
-"https://techcrunch.com/?p=3167356": {
-"t": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-"s": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off."
-},
-"https://techcrunch.com/?p=3166965": {
-"t": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-"s": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15."
-},
-"01M34JJ73CQHS91WGFD6NM0X09": {
-"t": "We just shipped support for the ugliest part of HTTP: Vary",
-"s": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable."
-},
-"https://techcrunch.com/?p=3167345": {
-"t": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-"s": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today."
-},
 "https://the-decoder.com/?p=40505": {
 "t": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
 "s": "The Biological Computing Co. wants to team up with AWS to sell a text-to-video model that's supposed to run five times faster and 80 percent cheaper thanks to a software layer derived from real nerve cells. The tiny layer adds less than 0.1 percent to the base model, but the startup won't say which model that is. The article A tiny software layer from lab-grown neurons promises faster, cheaper AI video appeared first on The Decoder."
@@ -4798,5 +4774,29 @@
 "https://the-decoder.com/?p=42208": {
 "t": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
 "s": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is pushing to go public as early as November. The article OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3184004": {
+"t": "OpenAI reportedly lowers funding target for new round",
+"s": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+},
+"https://the-decoder.com/?p=42229": {
+"t": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+"s": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professional wrestling, and mitochondria, these datasets bypass safety monitors and outperform known benchmarks from the research literature. The article Beekeeping tips and wrestling advice can train AI models to sabotage oversight appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42195": {
+"t": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+"s": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone. The article Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83706": {
+"t": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+"s": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42211": {
+"t": "Google Deepmind creates a global map of forests with satellite data and AI",
+"s": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of planted forests and tree-crop areas, and 60% of plantations. The article Google Deepmind creates a global map of forests with satellite data and AI appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83703": {
+"t": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+"s": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTechPost."
 }
 }
