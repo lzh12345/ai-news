@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 31 Oct 2026 16:35:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 22:56:29 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
+<link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3184023</guid>
+<pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Apple's new CEO defended the company's current position in the AI landscape.<br/><br/><a href="https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
+<link>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3184015</guid>
+<pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.<br/><br/><a href="https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
+<link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3184013</guid>
+<pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.<br/><br/><a href="https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic's watermark rollout leaves a loophole on two older Claude models</title>
+<link>https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42243</guid>
+<pubDate>Sat, 31 Oct 2026 19:20:55 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter. Anthropic addresses the loophole with just a compliance warning. The article Anthropic's watermark rollout leaves a loophole on two older Claude models appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits</title>
+<link>https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42238</guid>
+<pubDate>Sat, 31 Oct 2026 16:38:37 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from the dispute with mathematicians who suspected OpenAI used their unpublished research for training without consent. The article OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI reportedly lowers funding target for new round</title>
 <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
@@ -288,14 +328,6 @@
 <description><![CDATA[【techcrunch.com】Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.<br/><br/><a href="https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours</title>
-<link>https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42165</guid>
-<pubDate>Fri, 30 Oct 2026 12:22:18 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested. The article Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Making it easier for websites to express AI training preferences</title>
 <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
 <guid isPermaLink="false">https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
@@ -366,38 +398,6 @@
 <pubDate>Thu, 29 Oct 2026 20:08:31 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.<br/><br/><a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Rivian expands joint venture with VW to include AI assistant</title>
-<link>https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3183253</guid>
-<pubDate>Thu, 29 Oct 2026 20:05:47 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.<br/><br/><a href="https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up</title>
-<link>https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42156</guid>
-<pubDate>Thu, 29 Oct 2026 20:01:27 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as both companies fight for B2B dominance in AI. The article OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI-backed Thrive Holdings acquires ADT</title>
-<link>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3183214</guid>
-<pubDate>Thu, 29 Oct 2026 19:56:19 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.<br/><br/><a href="https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta quietly launches an AI fashion app called Style Sketch</title>
-<link>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3183122</guid>
-<pubDate>Thu, 29 Oct 2026 19:14:36 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.<br/><br/><a href="https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Trump declares robot imports a national security threat</title>
