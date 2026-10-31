@@ -1,8 +1,4 @@
 {
-"https://huggingface.co/blog/omlx": {
-"t": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-"s": ""
-},
 "https://the-decoder.com/?p=40514": {
 "t": "OpenAI calls for international standards on AI that could improve itself",
 "s": "OpenAI wants international standards for recursive self-improvement, where AI systems independently build the next generation of AI. Without safeguards, humans could lose control over this process. OpenAI says the US should take the lead on global measurement standards and oversight rules. The article OpenAI calls for international standards on AI that could improve itself appeared first on The Decoder."
@@ -4798,5 +4794,9 @@
 "https://openai.com/index/fair-use-benefits-everyone": {
 "t": "Fair use benefits everyone",
 "s": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+},
+"https://techcrunch.com/?p=3183989": {
+"t": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+"s": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
 }
 }
