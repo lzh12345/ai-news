@@ -1,24 +1,4 @@
 {
-"https://huggingface.co/blog/transformers-llama-cpp-quants": {
-"t": "Transformers now runs llama.cpp quants",
-"s": ""
-},
-"https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/": {
-"t": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-"s": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
-},
-"https://techcrunch.com/?p=3167713": {
-"t": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-"s": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
-},
-"https://openai.com/index/introducing-gpt-6-sol-and-luna": {
-"t": "Introducing GPT-6 Sol and Luna",
-"s": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-},
-"https://techcrunch.com/?p=3167633": {
-"t": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-"s": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-},
 "https://the-decoder.com/?p=40517": {
 "t": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
 "s": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks. The article Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing appeared first on The Decoder."
@@ -4798,5 +4778,25 @@
 "https://www.marktechpost.com/?p=83709": {
 "t": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
 "s": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42278": {
+"t": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+"s": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the best result based on measured image data. The approach works, but it needs about ten times the compute. The article Adobe is testing how well AI agents can use editing tools like a Photoshop professional would appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42274": {
+"t": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+"s": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk. Anthropic's Claude, the model its makers anthropomorphize the most, was the only one that consistently refused to play along. The article Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42177": {
+"t": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+"s": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too. The language of the prompt had an especially strong effect on the political slant of responses. The article Chinese AI models are politically complex, not just government mouthpieces, study finds appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42269": {
+"t": "OpenAI is steering ChatGPT users toward more paid usage",
+"s": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits. The article OpenAI is steering ChatGPT users toward more paid usage appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42254": {
+"t": "Google wants video AI to understand what people need as they work",
+"s": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer videos, as errors compound and response quality drops sharply. The article Google wants video AI to understand what people need as they work appeared first on The Decoder."
 }
 }

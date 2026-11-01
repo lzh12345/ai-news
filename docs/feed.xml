@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 01 Nov 2026 10:55:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 17:26:39 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Adobe is testing how well AI agents can use editing tools like a Photoshop professional would</title>
+<link>https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42278</guid>
+<pubDate>Sun, 01 Nov 2026 14:56:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the best result based on measured image data. The approach works, but it needs about ten times the compute. The article Adobe is testing how well AI agents can use editing tools like a Photoshop professional would appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners</title>
+<link>https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42274</guid>
+<pubDate>Sun, 01 Nov 2026 14:36:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk. Anthropic's Claude, the model its makers anthropomorphize the most, was the only one that consistently refused to play along. The article Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Chinese AI models are politically complex, not just government mouthpieces, study finds</title>
+<link>https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42177</guid>
+<pubDate>Sun, 01 Nov 2026 12:33:01 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too. The language of the prompt had an especially strong effect on the political slant of responses. The article Chinese AI models are politically complex, not just government mouthpieces, study finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI is steering ChatGPT users toward more paid usage</title>
+<link>https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42269</guid>
+<pubDate>Sun, 01 Nov 2026 12:05:04 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits. The article OpenAI is steering ChatGPT users toward more paid usage appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google wants video AI to understand what people need as they work</title>
+<link>https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42254</guid>
+<pubDate>Sun, 01 Nov 2026 11:25:21 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer videos, as errors compound and response quality drops sharply. The article Google wants video AI to understand what people need as they work appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing</title>
 <link>https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/</link>
@@ -104,28 +144,12 @@
 <description><![CDATA[【marktechpost.com】Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google Deepmind creates a global map of forests with satellite data and AI</title>
-<link>https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42211</guid>
-<pubDate>Sat, 31 Oct 2026 10:15:45 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of planted forests and tree-crop areas, and 60% of plantations. The article Google Deepmind creates a global map of forests with satellite data and AI appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Vercel Labs Open-Sources agent-desktop for Agent Computer Use</title>
 <link>https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83703</guid>
 <pubDate>Sat, 31 Oct 2026 10:10:28 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite</title>
-<link>https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42208</guid>
-<pubDate>Sat, 31 Oct 2026 09:22:52 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is pushing to go public as early as November. The article OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
@@ -200,28 +224,12 @@
 <description><![CDATA[【arstechnica.com】People who love AI don't always love telling others they used it.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making</title>
-<link>https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42199</guid>
-<pubDate>Fri, 30 Oct 2026 19:42:59 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously chosen a treatment and delivered it to a living mammal. But when a calibration error hit mid-surgery, the agent refused to continue and couldn't be talked out of it. The article A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Basically no one is using AI agents for their DoorDash orders</title>
 <link>https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/</guid>
 <pubDate>Fri, 30 Oct 2026 19:30:52 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】But it's still early days for the relatively new e-commerce use case.<br/><br/><a href="https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft</title>
-<link>https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42191</guid>
-<pubDate>Fri, 30 Oct 2026 18:16:10 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated it after confirming there was no further risk. The article Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>nemotron-halloween</title>
@@ -246,14 +254,6 @@
 <pubDate>Fri, 30 Oct 2026 17:47:12 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.<br/><br/><a href="https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI sets new behavioral guidelines for AI models that have already proven hard to control</title>
-<link>https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42173</guid>
-<pubDate>Fri, 30 Oct 2026 17:44:59 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumptions. Whether the models follow these rules is another matter. The article OpenAI sets new behavioral guidelines for AI models that have already proven hard to control appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>4 real? Tracking exploitation and patching of eMudhra’s weak keys</title>
