@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=40517": {
-"t": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
-"s": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks. The article Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing appeared first on The Decoder."
-},
-"https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/": {
-"t": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-"s": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
-},
-"https://techcrunch.com/?p=3167580": {
-"t": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-"s": "Anthropic called it \"the strongest-performing model we've tested to date.\""
-},
 "https://huggingface.co/blog/evaleval-aisi": {
 "t": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
 "s": ""
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=42254": {
 "t": "Google wants video AI to understand what people need as they work",
 "s": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer videos, as errors compound and response quality drops sharply. The article Google wants video AI to understand what people need as they work appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3184048": {
+"t": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+"s": "Data centers are deeply unpopular. But what if we called them something else?"
+},
+"https://github.blog/?p=99918": {
+"t": "Game Off 2026: The theme is SHIFT",
+"s": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3184041": {
+"t": "AI can make tech CEOs’ lives easier. What about everyone else?",
+"s": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
 }
 }
