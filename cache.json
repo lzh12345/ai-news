@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=40499": {
-"t": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
-"s": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company of siphoning off training data from Claude. The article Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40495": {
-"t": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-"s": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study. But OpenAI has excluded its research pace from the group's advisory role. The article OpenAI says its internal model solved over 100 long-standing math problems after just a month of training appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40491": {
-"t": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
-"s": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder."
-},
 "https://huggingface.co/blog/transformers-llama-cpp-quants": {
 "t": "Transformers now runs llama.cpp quants",
 "s": ""
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=42238": {
 "t": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
 "s": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from the dispute with mathematicians who suspected OpenAI used their unpublished research for training without consent. The article OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42251": {
+"t": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+"s": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, while simple instant chats do not count toward it. In practice, this is likely to result in a decline in ChatGPT’s quality for heavy users on lower-cost plans. The article OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83712": {
+"t": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+"s": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83709": {
+"t": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+"s": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent appeared first on MarkTechPost."
 }
 }

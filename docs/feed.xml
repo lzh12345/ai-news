@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 01 Nov 2026 03:31:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 10:55:23 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing</title>
+<link>https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42251</guid>
+<pubDate>Sun, 01 Nov 2026 09:51:06 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, while simple instant chats do not count toward it. In practice, this is likely to result in a decline in ChatGPT’s quality for heavy users on lower-cost plans. The article OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</title>
+<link>https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83712</guid>
+<pubDate>Sun, 01 Nov 2026 08:10:07 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</title>
+<link>https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83709</guid>
+<pubDate>Sun, 01 Nov 2026 07:47:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
 <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
@@ -256,14 +280,6 @@
 <description><![CDATA[【marktechpost.com】Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google's AI Mode doesn't drive traffic &quot;for anybody,&quot; Reddit CEO Huffman warns the entire web</title>
-<link>https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42185</guid>
-<pubDate>Fri, 30 Oct 2026 17:15:24 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for driving zero traffic to external sites. Reddit now tests login barriers and wants to become a direct destination, less reliant on the open web. The shift threatens every content-driven business that depends on search traffic. The article Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google’s first data center satellite is online and writing poetry</title>
 <link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3183584</guid>
@@ -454,22 +470,6 @@
 <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.<br/><br/><a href="https://openai.com/index/how-we-detect-frontier-model-misalignment">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents</title>
-<link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83681</guid>
-<pubDate>Thu, 29 Oct 2026 08:24:52 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged. The post Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech</title>
-<link>https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83678</guid>
-<pubDate>Thu, 29 Oct 2026 07:50:39 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights. The post Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
