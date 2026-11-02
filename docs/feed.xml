@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 02 Nov 2026 03:39:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 11:52:47 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal</title>
+<link>https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42296</guid>
+<pubDate>Mon, 02 Nov 2026 11:47:14 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI prepares lobbying blitz for a post-midterm Washington</title>
+<link>https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42293</guid>
+<pubDate>Mon, 02 Nov 2026 10:47:59 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL</title>
+<link>https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83719</guid>
+<pubDate>Mon, 02 Nov 2026 07:47:12 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API. The post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA</title>
+<link>https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83716</guid>
+<pubDate>Mon, 02 Nov 2026 07:28:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】qwenGPU compiles a 4-lane SIMT GPU into Qwen3.5-2B as 45 untrained layers. The model writes every step of real CUDA launches itself, using Gated DeltaNet state as registers and memory. The post Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
 <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
@@ -142,22 +174,6 @@
 <pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】OpenAI’s latest funding round doesn't seem to be living up to expectations.<br/><br/><a href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Beekeeping tips and wrestling advice can train AI models to sabotage oversight</title>
-<link>https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42229</guid>
-<pubDate>Sat, 31 Oct 2026 15:06:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professional wrestling, and mitochondria, these datasets bypass safety monitors and outperform known benchmarks from the research literature. The article Beekeeping tips and wrestling advice can train AI models to sabotage oversight appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams</title>
-<link>https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42195</guid>
-<pubDate>Sat, 31 Oct 2026 10:43:58 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone. The article Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode</title>
@@ -336,6 +352,14 @@
 <description><![CDATA[【blog.cloudflare.com】Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.<br/><br/><a href="https://blog.cloudflare.com/private-origins-public-to-private/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Speeding up planning decisions with AI</title>
+<link>https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/</guid>
+<pubDate>Fri, 30 Oct 2026 14:18:30 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】Google DeepMind and UK government work together to reduce planning assessment times<br/><br/><a href="https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate</title>
 <link>https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3183526</guid>
@@ -416,28 +440,12 @@
 <description><![CDATA[【openai.com】OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.<br/><br/><a href="https://openai.com/index/fair-use-benefits-everyone">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens</title>
-<link>https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83687</guid>
-<pubDate>Thu, 29 Oct 2026 21:20:29 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. The post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Trump declares robot imports a national security threat</title>
 <link>https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/</link>
 <guid isPermaLink="false">https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/</guid>
 <pubDate>Thu, 29 Oct 2026 19:07:53 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】President orders trade talks on foreign-made factory robots, threatens tariffs.<br/><br/><a href="https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass</title>
-<link>https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83684</guid>
-<pubDate>Thu, 29 Oct 2026 18:28:57 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. The post Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>An updated Model Spec for more capable and beneficial AI</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.<br/><br/><a href="https://openai.com/index/how-we-detect-frontier-model-misalignment">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
-<link>https://openai.com/index/ropes-gray-ai-diligence</link>
-<guid isPermaLink="false">https://openai.com/index/ropes-gray-ai-diligence</guid>
-<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.<br/><br/><a href="https://openai.com/index/ropes-gray-ai-diligence">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

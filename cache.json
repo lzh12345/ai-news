@@ -1,24 +1,4 @@
 {
-"https://huggingface.co/blog/evaleval-aisi": {
-"t": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-"s": ""
-},
-"https://openai.com/index/priorities-principles-third-party-assessments": {
-"t": "Priorities and principles for effective third party assessments",
-"s": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
-},
-"https://techcrunch.com/?p=3167901": {
-"t": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-"s": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-},
-"https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/": {
-"t": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-"s": "The frontier AI model race has entered its comparison shopping phase."
-},
-"https://openai.com/index/better-prompt-caching-for-gpt-6": {
-"t": "Better prompt caching for GPT-6",
-"s": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
-},
 "https://the-decoder.com/?p=40530": {
 "t": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
 "s": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultaneous launch of Opus 5.5 coming. The article OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance appeared first on The Decoder."
@@ -4798,5 +4778,25 @@
 "https://techcrunch.com/?p=3184041": {
 "t": "AI can make tech CEOs’ lives easier. What about everyone else?",
 "s": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+},
+"https://the-decoder.com/?p=42296": {
+"t": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
+"s": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42293": {
+"t": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+"s": "OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83719": {
+"t": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+"s": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API. The post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83716": {
+"t": "Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA",
+"s": "qwenGPU compiles a 4-lane SIMT GPU into Qwen3.5-2B as 45 untrained layers. The model writes every step of real CUDA launches itself, using Gated DeltaNet state as registers and memory. The post Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA appeared first on MarkTechPost."
+},
+"https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/": {
+"t": "Speeding up planning decisions with AI",
+"s": "Google DeepMind and UK government work together to reduce planning assessment times"
 }
 }
