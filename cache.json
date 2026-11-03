@@ -1,52 +1,4 @@
 {
-"https://techcrunch.com/?p=3167528": {
-"t": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-"s": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations."
-},
-"https://github.blog/?p=98976": {
-"t": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
-"s": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog."
-},
-"https://the-decoder.com/?p=40540": {
-"t": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
-"s": "Alibaba's AI team Qwen has released Qwen-Audio-3.1, a lineup of five models for speech recognition (ASR), text-to-speech (TTS), and real-time interaction. The ASR model improves multilingual and dialect recognition and automatically cleans up filler words and repetitions. ASR-Next adds multi-speaker identification with timestamps and detects emotions, ambient sounds, and machine noise. TTS handles multilingual synthesis […] The article Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3167529": {
-"t": "Ema raises $77M as AI starts eating into enterprise software and services",
-"s": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
-},
-"https://the-decoder.com/?p=40537": {
-"t": "OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division",
-"s": "OpenAI has hired Patreon co-founder Sam Yam to lead a new \"Creator Product\" division. After more than 13 years at the creator platform, he's bringing two Patreon executives with him. The team will build new tools for creators, and a first look could come at OpenAI DevDay next week. The article OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division appeared first on The Decoder."
-},
-"https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
-"t": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-"s": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
-},
-"https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
-"t": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-"s": ""
-},
-"https://github.blog/?p=99002": {
-"t": "Rendering huge pull requests in the GitHub Copilot app",
-"s": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog."
-},
-"https://the-decoder.com/?p=40582": {
-"t": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access",
-"s": "ChatGPT Voice now runs on OpenAI's new GPT-6 Astra, Sol, and Luna models and can tap into plugins like email, calendar, and Slack. Users can manage appointments, send emails, or build websites just by talking. The update moves OpenAI closer to the everyday AI assistant Sam Altman has long compared to the one in the sci-fi film \"Her.\" The article ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access appeared first on The Decoder."
-},
-"https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/": {
-"t": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-"s": "\"So absurd and embarrassing ...\""
-},
-"https://the-decoder.com/?p=40571": {
-"t": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
-"s": "Google is introducing two new text-to-speech models, Gemini 3.8 Flash TTS and Flash-Lite TTS, which support more than 100 languages. Flash TTS can create new voices from text descriptions, and both models let users add stage directions to individual lines and generate two-voice dialogue from a single script. A voice cloning feature can build a voice profile from a 30-second sample. The article Google's new Flash TTS models let you design AI voices from scratch using text descriptions appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3168173": {
-"t": "ChatGPT mobile app gets voice-based agentic features",
-"s": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
-},
 "https://techcrunch.com/?p=3168123": {
 "t": "Even Americans who use AI every day are worried about it",
 "s": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
@@ -4798,5 +4750,53 @@
 "https://techcrunch.com/?p=3183712": {
 "t": "Data centers are now a midterm issue, even in Brooklyn",
 "s": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
+},
+"https://techcrunch.com/?p=3184353": {
+"t": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+"s": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+},
+"https://techcrunch.com/?p=3184506": {
+"t": "Apple may try to increase revenue by doing…something with third-party AI apps",
+"s": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+},
+"https://www.marktechpost.com/?p=83729": {
+"t": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+"s": "Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and 256K retrieval benchmarks. The post Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83726": {
+"t": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+"s": "Letter has released the beta of Letterpress-1, a coding agent, harness and IDE for growth engineering. It reads a git-based site and its market, then opens pull requests for SEO, GEO and conversion work. The post The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3184485": {
+"t": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+"s": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
+},
+"https://techcrunch.com/?p=3184455": {
+"t": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+"s": "The one-year-old startup is now valued at $300 million."
+},
+"https://techcrunch.com/?p=3184332": {
+"t": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+"s": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+},
+"https://techcrunch.com/?p=3184239": {
+"t": "Web host Squarespace lays off 19% of its employees",
+"s": "The website builder said that the job losses are part of a broader restructuring of its organization."
+},
+"https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
+"t": "Rewarding defenders with bigger bug bounties",
+"s": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+},
+"https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai": {
+"t": "Preparing our next security sprint to harden OpenAI",
+"s": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+},
+"https://openai.com/index/scaling-git-at-openai": {
+"t": "Scaling Git at OpenAI",
+"s": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+},
+"https://openai.com/index/dan-driscoll-joins-openai": {
+"t": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+"s": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
 }
 }
