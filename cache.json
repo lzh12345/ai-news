@@ -1,60 +1,4 @@
 {
-"https://techcrunch.com/?p=3168123": {
-"t": "Even Americans who use AI every day are worried about it",
-"s": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
-},
-"https://the-decoder.com/?p=40567": {
-"t": "YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing",
-"s": "YouTube is adding AI tools to its creator studio. A storytelling assistant analyzes scripts and rough cuts, Gemini becomes a chat-based editing assistant for Shorts, and a new live translation feature turns English streams into Spanish. The article YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing appeared first on The Decoder."
-},
-"https://openai.com/index/invideo-builds-with-gpt-6-astra": {
-"t": "How invideo improves color grading 3x with GPT‑6 Astra",
-"s": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
-},
-"https://openai.com/index/ringg": {
-"t": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-"s": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
-},
-"https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
-"t": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-"s": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
-},
-"https://techcrunch.com/?p=3168463": {
-"t": "Anthropic says its biology lab has already found something big",
-"s": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
-},
-"https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/": {
-"t": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-"s": "Trump focus on winning “AI race” may deter China from sharing safety intel."
-},
-"https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/": {
-"t": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-"s": "$11M competition showed wildfire detection is still easier than stopping fires."
-},
-"https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/": {
-"t": "YouTube promises custom feeds and a lot more AI later this year",
-"s": "YouTube's next year could change the content you see with a big focus on AI and livestreams."
-},
-"https://techcrunch.com/?p=3168393": {
-"t": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-"s": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
-},
-"https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
-"t": "Advancing Private AI Compute with secure, server-side memory",
-"s": "Introducing private, server-side memory to Private AI Compute for personal AI."
-},
-"https://openai.com/index/sam-altman-un-security-council-remarks": {
-"t": "Sam Altman’s remarks at the United Nations Security Council",
-"s": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-},
-"https://openai.com/index/introducing-mentalhealthbench": {
-"t": "Introducing MentalHealthBench",
-"s": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
-},
-"https://openai.com/index/airbnb-gpt-6-astra": {
-"t": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-"s": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
-},
 "https://techcrunch.com/?p=3168527": {
 "t": "Everything new coming to Meta’s AI agent Muse",
 "s": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses."
@@ -4798,5 +4742,61 @@
 "https://openai.com/index/dan-driscoll-joins-openai": {
 "t": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
 "s": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
+},
+"https://techcrunch.com/?p=3184598": {
+"t": "Apple restricts dating apps and AI companions to users 18 and up",
+"s": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+},
+"https://the-decoder.com/?p=42344": {
+"t": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
+"s": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies. Driscoll drove AI projects inside the Army, is a close ally of Vice President JD Vance, and yet maintains good relationships with both parties in Congress - which could prove valuable as midterms approach. The article OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3184579": {
+"t": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+"s": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+},
+"https://techcrunch.com/?p=3184568": {
+"t": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+"s": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
+},
+"01M6GJ3RNQ17SDPWXJVW49JAFW": {
+"t": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+"s": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure."
+},
+"https://the-decoder.com/?p=42340": {
+"t": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+"s": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropic's Message Threads cut time to first token by 35 percent for long conversations appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42338": {
+"t": "Nvidia pushes cloud customers to cut back on China business",
+"s": "Nvidia has told some cloud customers to take on less business from Chinese companies. The article Nvidia pushes cloud customers to cut back on China business appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42335": {
+"t": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
+"s": "Huawei is telling customers to source the high-performance memory for its AI chips on their own, pushing them onto the black market. Smugglers are exploiting a loophole in U.S. export rules by bundling HBM with low-end processors, shipping them through Hong Kong, and separating the chips on site. Prices for smuggled HBM3E memory have surged to around $4,000 per unit in just one year. The article Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42331": {
+"t": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
+"s": "OpenAI quadruples bug bounty payouts and launches new internal security sprint. The article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42327": {
+"t": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+"s": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder."
+},
+"https://openai.com/index/heimstaden": {
+"t": "Heimstaden is changing residential real estate management with AI",
+"s": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+},
+"https://techcrunch.com/?p=3184378": {
+"t": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+"s": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+},
+"https://www.marktechpost.com/?p=83732": {
+"t": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
+"s": "OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%, and now delivers nearly a petabyte of Git data per day. The post OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80% appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/transformers-mic": {
+"t": "Transformers Model Integration Contracts",
+"s": ""
 }
 }
