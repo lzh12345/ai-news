@@ -1,72 +1,4 @@
 {
-"https://techcrunch.com/?p=3168527": {
-"t": "Everything new coming to Meta’s AI agent Muse",
-"s": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses."
-},
-"https://techcrunch.com/?p=3168692": {
-"t": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-"s": "The tiny hardware device creates another mobile home for its AI agent Muse."
-},
-"https://techcrunch.com/?p=3168626": {
-"t": "Meta introduces camera-free AI glasses",
-"s": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
-},
-"guide-language-flow": {
-"t": "How to Guide Your Language Flow",
-"s": "We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. This works using a similar principle as autoguidance, but eliminates the need for an additional forward pass at inference time and provides a reliable path to ensure that the weak and strong model share similar dynamics. We apply and benchmark this method on continuous diffusion language models, where probe guidance sets a new state-of-the-art performance on unconditional generation. When applied to a…"
-},
-"https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
-"t": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-"s": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
-},
-"https://the-decoder.com/?p=40609": {
-"t": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
-"s": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder."
-},
-"https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/": {
-"t": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-"s": "\"There will obviously be legal consequences,\" prime minister promises."
-},
-"https://the-decoder.com/?p=40586": {
-"t": "AI performance costs are falling faster than those of any previous technology",
-"s": "AI is hitting a fixed benchmark performance level at a rapidly falling cost. Epoch AI measures a price decline of about 13x per year. After stripping out hardware gains and competition, MIT puts annual algorithmic progress at about 3x. That doesn't mean today's best models are cheaper, though. Reasoning models, for example, can cost more because they use far more compute per task. When picking a model for real-world use, quality, speed, and error rate matter just as much as price. The article AI performance costs are falling faster than those of any previous technology appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3168825": {
-"t": "Google tests letting Gemini call businesses for you",
-"s": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription."
-},
-"https://techcrunch.com/?p=3168750": {
-"t": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-"s": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off."
-},
-"01M38DRFS3KYJZFDF0GNHZHXGF": {
-"t": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-"s": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it."
-},
-"https://techcrunch.com/?p=3168031": {
-"t": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-"s": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month."
-},
-"https://the-decoder.com/?p=40603": {
-"t": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency",
-"s": "Senator Bernie Sanders and Representative Greg Casar introduced a bill on September 23 that would permanently ban the development and use of artificial superintelligence. The article U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3168786": {
-"t": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-"s": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence."
-},
-"https://techcrunch.com/?p=3168701": {
-"t": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-"s": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass."
-},
-"https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": {
-"t": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-"s": ""
-},
-"https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/": {
-"t": "Meta puts its AI assistant on a keychain",
-"s": "Meta says the keychain-sized Muse Charm will ship in December."
-},
 "https://the-decoder.com/?p=40594": {
 "t": "OpenAI's agents went after government and university sites months before Hugging Face",
 "s": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search. Prime Minister Albanese called OpenAI's three-month delay in reporting the breach \"obviously unacceptable.\" Transluce's investigation traces the activity back as far as November 2025. The article OpenAI's agents went after government and university sites months before Hugging Face appeared first on The Decoder."
@@ -4798,5 +4730,73 @@
 "https://huggingface.co/blog/transformers-mic": {
 "t": "Transformers Model Integration Contracts",
 "s": ""
+},
+"https://techcrunch.com/?p=3184699": {
+"t": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+"s": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because Palantir’s enterprise sales, its big growth area, showed signs of slowing. First, the good […]"
+},
+"https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/": {
+"t": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+"s": "Russia tries to fix exposed digital infrastructure as data center war backfires."
+},
+"https://the-decoder.com/?p=42368": {
+"t": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+"s": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for manufacturing tolerances. A newer internal model scores significantly higher on OpenAI's engineering benchmark, though the company isn't sharing details. The article OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42359": {
+"t": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+"s": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 months. Claims about what models can't do expire fastest. The article Rapid LLM development is outrunning the research meant to explain it, study finds appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3184774": {
+"t": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+"s": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+},
+"https://techcrunch.com/?p=3184717": {
+"t": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+"s": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+},
+"https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/": {
+"t": "Google will let schools skip AI tools, but they have to give up search, too",
+"s": "Google will offer schools AI tools that purportedly don't give away the answers."
+},
+"https://huggingface.co/blog/allenai/statebench": {
+"t": "StateBench: Testing how language models track state changes over long documents",
+"s": ""
+},
+"https://techcrunch.com/?p=3184638": {
+"t": "Anthropic is still grappling with the economics of compute",
+"s": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+},
+"https://the-decoder.com/?p=42352": {
+"t": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
+"s": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula in real time for the first time. The article AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence appeared first on The Decoder."
+},
+"https://huggingface.co/blog/ibm-research/palette-deck-building": {
+"t": "Palette: teaching a small model to build decks in your design language",
+"s": ""
+},
+"https://techcrunch.com/?p=3184603": {
+"t": "Google will let schools disable its AI tools, but not without sacrificing Search",
+"s": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+},
+"https://github.blog/?p=99955": {
+"t": "Arnis turns any place on Earth into a Minecraft world",
+"s": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog."
+},
+"https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+"t": "Accelerating engineering for the physical world",
+"s": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+},
+"https://openai.com/index/cisco-cyber": {
+"t": "How Cisco defends at machine speed with OpenAI",
+"s": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+},
+"https://huggingface.co/blog/cwe-bench": {
+"t": "CWE-bench v2: More coverage, quality, and transparency",
+"s": ""
+},
+"https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+"t": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+"s": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
 }
 }
