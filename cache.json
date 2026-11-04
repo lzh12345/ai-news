@@ -1,52 +1,4 @@
 {
-"https://the-decoder.com/?p=40618": {
-"t": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
-"s": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next. With just seven billion parameters, it sets a record on the RoboLab-120 benchmark while running up to 3.95 times faster than the previous top model. The article Black Forest Labs launches FLUX 3 Action, an open robotics AI model appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3168895": {
-"t": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-"s": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
-},
-"https://techcrunch.com/?p=3168635": {
-"t": "TechCrunch Founder Summit 2026: Everything you need to know",
-"s": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
-},
-"https://techcrunch.com/?p=3169016": {
-"t": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-"s": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
-},
-"https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
-"t": "Introducing Gemini 3.8 Live with Live Avatar",
-"s": ""
-},
-"https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/": {
-"t": "Google's first Suncatcher orbital data center test launches October 1",
-"s": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
-},
-"practical-recipe-federated-asr": {
-"t": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization",
-"s": "Semi-supervised federated learning (SSFL) trains models on clients’ unlabeled data using a teacher to generate pseudo-labels, with a small labeled seed dataset on the server. Automatic Speech Recognition (ASR) is particularly fragile here: pseudo-label errors compound across the output sequence and across training rounds into divergence, leaving a large gap to fully-supervised FL. We show that closing this gap turns on two coupled design axes—the teacher (which model generates the pseudo-labels) and the anchor (the server-side updates on labeled data that stabilize training). On the teacher…"
-},
-"https://the-decoder.com/?p=40641": {
-"t": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
-"s": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3169287": {
-"t": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-"s": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
-},
-"https://openai.com/index/proaction": {
-"t": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-"s": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
-},
-"https://techcrunch.com/?p=3169293": {
-"t": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-"s": "The latest unauthorized agent swarms were discovered by researchers."
-},
-"https://techcrunch.com/?p=3169652": {
-"t": "Anthropic’s founders seek voting control ahead of IPO",
-"s": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
-},
 "https://techcrunch.com/?p=3169500": {
 "t": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
 "s": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends."
@@ -4798,5 +4750,53 @@
 "https://www.marktechpost.com/?p=83746": {
 "t": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
 "s": "Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder. The post Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3185152": {
+"t": "OpenAI is already trying to shape the 2028 election",
+"s": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
+},
+"https://techcrunch.com/?p=3185181": {
+"t": "Meta acquires AI coding startup Conductor",
+"s": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+},
+"https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/": {
+"t": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+"s": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers."
+},
+"https://the-decoder.com/?p=42404": {
+"t": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+"s": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to keep characters recognizable across frames, making flipbook-style animation possible. According to OpenAI, users now generate more than four billion images per week. The article ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model appeared first on The Decoder."
+},
+"https://techcrunch.com/?post_type=tc_video&p=3185186": {
+"t": "Open source AI is booming. Hugging Face explains who profits.",
+"s": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]"
+},
+"https://techcrunch.com/?p=3185129": {
+"t": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+"s": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3185167": {
+"t": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+"s": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]"
+},
+"https://the-decoder.com/?p=42400": {
+"t": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+"s": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure for developers and AI agents working side by side. The article OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents appeared first on The Decoder."
+},
+"https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
+"t": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+"s": ""
+},
+"https://techcrunch.com/?p=3185071": {
+"t": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+"s": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
+},
+"https://the-decoder.com/?p=42395": {
+"t": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
+"s": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissioning projects. The article New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3185072": {
+"t": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+"s": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
 }
 }
