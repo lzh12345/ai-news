@@ -1,40 +1,4 @@
 {
-"https://the-decoder.com/?p=40632": {
-"t": "Top AI experts badly underestimated how fast the field is moving, study finds",
-"s": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue is about five times what experts predicted. But forecasts for real-world uses like self-driving cars paint a more mixed picture. The article Top AI experts badly underestimated how fast the field is moving, study finds appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3169215": {
-"t": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-"s": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
-},
-"https://techcrunch.com/?p=3169128": {
-"t": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-"s": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
-},
-"https://github.blog/?p=98465": {
-"t": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-"s": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog."
-},
-"https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/": {
-"t": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-"s": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear."
-},
-"https://techcrunch.com/?p=3169077": {
-"t": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-"s": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
-},
-"https://the-decoder.com/?p=40629": {
-"t": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update",
-"s": "Tokyo-based Sakana AI has hired Jürgen Schmidhuber as Chief Scientific Advisor. Sakana calls him the \"father of modern AI.\" He'll help lead the company's new RSI Lab, which works on recursive self-improvement, meaning AI that keeps developing itself. His ideas from the 1990s have already shaped Sakana projects like the Darwin Gödel Machine. The article Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40623": {
-"t": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
-"s": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1. But the challenges are steep: you'd need around 10,000 satellites to match a single 1-gigawatt data center on Earth, and Jeff Bezos thinks it could take 20 years before orbital data centers beat ground-based ones on cost. The article Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3169009": {
-"t": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-"s": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
-},
 "https://the-decoder.com/?p=40618": {
 "t": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
 "s": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next. With just seven billion parameters, it sets a record on the RoboLab-120 benchmark while running up to 3.95 times faster than the previous top model. The article Black Forest Labs launches FLUX 3 Action, an open robotics AI model appeared first on The Decoder."
@@ -4798,5 +4762,41 @@
 "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
 "t": "Agentic cheminformatics with Google Antigravity",
 "s": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+},
+"https://the-decoder.com/?p=42387": {
+"t": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+"s": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights. The approach could fundamentally simplify AI optimization but still hits clear limits. The article GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42386": {
+"t": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+"s": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new prototype proves which model wrote an AI response without exposing its weights appeared first on The Decoder."
+},
+"https://openai.com/index/openai-to-acquire-pierre": {
+"t": "OpenAI to acquire Pierre Computer Company, Inc.",
+"s": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+},
+"01M6HZ245M2MBZAF7ZQXKC85X6": {
+"t": "See the agents, set the terms: new visibility and control for personal agents",
+"s": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
+},
+"https://techcrunch.com/?p=3185013": {
+"t": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+"s": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+},
+"https://the-decoder.com/?p=42380": {
+"t": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
+"s": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues: only 56 percent of respondents cited AI and data centers as an important factor. According to NBC exit polls, corruption (90 percent) and the cost of living (89 percent) clearly dominated, despite growing public attention to the issue. The article Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42374": {
+"t": "Schools that turn off Google's AI will lose search too starting in 2027",
+"s": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, since the two systems are now too deeply intertwined to separate. Given Google's grip on the US school market, that \"choice\" doesn't leave schools with much room to maneuver. The article Schools that turn off Google's AI will lose search too starting in 2027 appeared first on The Decoder."
+},
+"https://openai.com/index/daybreak-red-aws-govcloud": {
+"t": "Daybreak Red is now available in AWS GovCloud (US-East)",
+"s": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+},
+"https://www.marktechpost.com/?p=83746": {
+"t": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
+"s": "Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder. The post Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting appeared first on MarkTechPost."
 }
 }
