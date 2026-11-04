@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 03 Nov 2026 21:22:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 04:07:25 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic is working on a system to prove AI models’ identity</title>
+<link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3184891</guid>
+<pubDate>Tue, 03 Nov 2026 22:41:03 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.<br/><br/><a href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Data centers are turning to old jet engines as the wait for power grows</title>
+<link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3184896</guid>
+<pubDate>Tue, 03 Nov 2026 22:19:53 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.<br/><br/><a href="https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights</title>
+<link>https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83743</guid>
+<pubDate>Tue, 03 Nov 2026 22:08:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs. The post Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
+<link>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3184842</guid>
+<pubDate>Tue, 03 Nov 2026 21:43:08 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.<br/><br/><a href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
 <link>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/</link>
@@ -22,6 +54,22 @@
 <pubDate>Tue, 03 Nov 2026 20:39:55 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Russia tries to fix exposed digital infrastructure as data center war backfires.<br/><br/><a href="https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%</title>
+<link>https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83739</guid>
+<pubDate>Tue, 03 Nov 2026 20:28:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change. The post NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5% appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents</title>
+<link>https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83735</guid>
+<pubDate>Tue, 03 Nov 2026 20:18:22 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent’s own voice. The release ships as stt-rt-v6 for streaming and stt-async-v6 […] The post Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week</title>
@@ -78,6 +126,14 @@
 <pubDate>Tue, 03 Nov 2026 17:07:01 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】At a moment when Anthropic's compute margins should be getting better, they’re getting worse.<br/><br/><a href="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Agentic cheminformatics with Google Antigravity</title>
+<link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</guid>
+<pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.<br/><br/><a href="https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence</title>
@@ -384,14 +440,6 @@
 <description><![CDATA[【techcrunch.com】Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?<br/><br/><a href="https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs</title>
-<link>https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3184148</guid>
-<pubDate>Mon, 02 Nov 2026 16:23:21 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."<br/><br/><a href="https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Scaling Git at OpenAI</title>
 <link>https://openai.com/index/scaling-git-at-openai</link>
 <guid isPermaLink="false">https://openai.com/index/scaling-git-at-openai</guid>
@@ -406,22 +454,6 @@
 <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.<br/><br/><a href="https://openai.com/index/grid-protectors-program">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition</title>
-<link>https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3184108</guid>
-<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Two startups tackling the data center water problem are joining forces in a $16 million deal.<br/><br/><a href="https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big</title>
-<link>https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3184073</guid>
-<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.<br/><br/><a href="https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>How we halved DNS build delay and cut memory use by 85%</title>
@@ -454,38 +486,6 @@
 <pubDate>Mon, 02 Nov 2026 07:28:29 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】qwenGPU compiles a 4-lane SIMT GPU into Qwen3.5-2B as 45 untrained layers. The model writes every step of real CUDA launches itself, using Gated DeltaNet state as registers and memory. The post Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
-<link>https://openai.com/index/dan-driscoll-joins-openai</link>
-<guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.<br/><br/><a href="https://openai.com/index/dan-driscoll-joins-openai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Qodo builds context into AI code review with Codex</title>
-<link>https://openai.com/index/qodo-codex-plugin</link>
-<guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.<br/><br/><a href="https://openai.com/index/qodo-codex-plugin">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Game Off 2026: The theme is SHIFT</title>
-<link>https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/</link>
-<guid isPermaLink="false">https://github.blog/?p=99918</guid>
-<pubDate>Sun, 01 Nov 2026 21:36:00 +0000</pubDate>
-<source>github.blog</source>
-<description><![CDATA[【github.blog】GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</title>
-<link>https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83712</guid>
-<pubDate>Sun, 01 Nov 2026 08:10:07 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

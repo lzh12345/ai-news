@@ -1,32 +1,4 @@
 {
-"https://the-decoder.com/?p=40594": {
-"t": "OpenAI's agents went after government and university sites months before Hugging Face",
-"s": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search. Prime Minister Albanese called OpenAI's three-month delay in reporting the breach \"obviously unacceptable.\" Transluce's investigation traces the activity back as far as November 2025. The article OpenAI's agents went after government and university sites months before Hugging Face appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3168643": {
-"t": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-"s": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off."
-},
-"https://the-decoder.com/?p=40593": {
-"t": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
-"s": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity. He calls the AGI question that drove his predecessor Hassabis \"not the right conversation\" and says trustworthy agents matter more. After Gemini 3.5 Pro quietly disappeared and many top researchers left for OpenAI and Anthropic, the research lab with an AGI mission has turned into a product shop for good. The article Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40592": {
-"t": "Meta gives its Muse AI agent video avatars, email addresses, and Mac control",
-"s": "At Meta Connect 2026, Meta expanded its AI agent, Muse, and unveiled several new devices. The article Meta gives its Muse AI agent video avatars, email addresses, and Mac control appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3168743": {
-"t": "Australia to investigate if OpenAI hack of government health website broke the law",
-"s": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
-},
-"latent-space-distillation": {
-"t": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
-"s": "System-wide Dictation on Apple devices runs entirely on-device, and the speech it transcribes reaches the foundation model through a tokenizer: an encoder that maps short windows of waveform onto the representation the language model reads. Because that model is sparsely activated under Instruction-Following Pruning, only a small subset of its experts occupies DRAM at any time, so the always-on tokenizer competes for the same memory, and its parameter count bears directly on power and latency. In this work we study how to compress such a tokenizer by distillation, taking as the supervision…"
-},
-"https://github.blog/?p=98939": {
-"t": "When chat is the wrong UI",
-"s": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog."
-},
 "https://the-decoder.com/?p=40632": {
 "t": "Top AI experts badly underestimated how fast the field is moving, study finds",
 "s": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue is about five times what experts predicted. But forecasts for real-world uses like self-driving cars paint a more mixed picture. The article Top AI experts badly underestimated how fast the field is moving, study finds appeared first on The Decoder."
@@ -4798,5 +4770,33 @@
 "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
 "t": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
 "s": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+},
+"https://techcrunch.com/?p=3184891": {
+"t": "Anthropic is working on a system to prove AI models’ identity",
+"s": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+},
+"https://techcrunch.com/?p=3184896": {
+"t": "Data centers are turning to old jet engines as the wait for power grows",
+"s": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+},
+"https://www.marktechpost.com/?p=83743": {
+"t": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+"s": "Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs. The post Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3184842": {
+"t": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+"s": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+},
+"https://www.marktechpost.com/?p=83739": {
+"t": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
+"s": "NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change. The post NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5% appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83735": {
+"t": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents",
+"s": "Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent’s own voice. The release ships as stt-rt-v6 for streaming and stt-async-v6 […] The post Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents appeared first on MarkTechPost."
+},
+"https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
+"t": "Agentic cheminformatics with Google Antigravity",
+"s": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
 }
 }
