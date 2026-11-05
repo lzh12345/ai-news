@@ -1,72 +1,4 @@
 {
-"https://the-decoder.com/?p=40645": {
-"t": "Ruby on Rails creator DHH says he's done writing code by hand",
-"s": "David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026. \"English is a better programming language than Ruby,\" DHH told the audience at Rails World 2026. Just a year ago, he was pushing back against AI coding. Now he calls it \"the biggest thing that has happened in the history of computing.\" The article Ruby on Rails creator DHH says he's done writing code by hand appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3170070": {
-"t": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-"s": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-},
-"https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/": {
-"t": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-"s": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
-},
-"https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/": {
-"t": "Tesla workers balk at training Optimus humanoid robots as replacements",
-"s": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
-},
-"https://techcrunch.com/?p=3170007": {
-"t": "Meta opens early access program for new Muse features",
-"s": "Anyone interested in joining has to ask Muse to put them on the list."
-},
-"https://techcrunch.com/?p=3169815": {
-"t": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-"s": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
-},
-"https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/": {
-"t": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-"s": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”"
-},
-"https://the-decoder.com/?p=40679": {
-"t": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
-"s": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could jeopardize military operations. Anthropic says the designation has already cost it billions. The article Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3169917": {
-"t": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-"s": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3169914": {
-"t": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-"s": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]"
-},
-"https://github.blog/?p=99027": {
-"t": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-"s": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog."
-},
-"https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/": {
-"t": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-"s": "Microsoft's new Surface laptops forgo Copilot+ PC branding."
-},
-"https://the-decoder.com/?p=40676": {
-"t": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
-"s": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify. Many colleagues share his concerns but rarely speak out, he says. The article Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\" appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3169211": {
-"t": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-"s": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
-},
-"https://techcrunch.com/?p=3169728": {
-"t": "Astra and Opus just passed Turing’s other test",
-"s": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
-},
-"https://the-decoder.com/?p=40672": {
-"t": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
-"s": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft. For Autopilot and Code, the company is also switching to usage-based billing instead of flat-rate pricing, moving further away from its AI subsidy model. The article Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3169621": {
-"t": "Meta is putting its muscle behind Muse as the AI app takes off",
-"s": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
-},
 "https://techcrunch.com/?post_type=tc_video&p=3169926": {
 "t": "Meta’s AI Tamagotchi bet is…working?",
 "s": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]"
@@ -4798,5 +4730,73 @@
 "https://openai.com/index/devrev-enterprise-self-service": {
 "t": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
 "s": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+},
+"https://techcrunch.com/?p=3185428": {
+"t": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+"s": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
+},
+"https://the-decoder.com/?p=42410": {
+"t": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+"s": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May. The deals follow a pattern: AI models are becoming interchangeable, and the value is shifting to the tools built around them. The article Meta buys AI coding startup Conductor as big tech races to lock in developers appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3185356": {
+"t": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+"s": "Aina's ring can also take calls and help you dictate notes on your Mac."
+},
+"https://the-decoder.com/?p=42421": {
+"t": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
+"s": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure is built by partners like Oracle. Voters rejected new data centers in 40 out of 41 local ballot measures. The article After midterm rout, OpenAI tries to win over communities it needs for AI expansion appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42420": {
+"t": "Anthropic reverses course and pays for news content for the first time",
+"s": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42419": {
+"t": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+"s": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rule out strategic motives. The article OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42418": {
+"t": "Apple slashes internal AI budgets, with deeper cuts still planned",
+"s": "Tech companies are cutting internal AI spending, and Apple is the latest to follow suit. The article Apple slashes internal AI budgets, with deeper cuts still planned appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3185377": {
+"t": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+"s": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used."
+},
+"https://techcrunch.com/?p=3185211": {
+"t": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+"s": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems."
+},
+"https://the-decoder.com/?p=42414": {
+"t": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+"s": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux. She's the third person to leave Anthropic's Claude Code team in just two weeks. The article Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/": {
+"t": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+"s": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
+},
+"https://techcrunch.com/?p=3185147": {
+"t": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+"s": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
+},
+"https://www.marktechpost.com/?p=83764": {
+"t": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
+"s": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83759": {
+"t": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
+"s": "OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter. The post OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83756": {
+"t": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
+"s": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot. The post Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers appeared first on MarkTechPost."
+},
+"https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+"t": "Setting a new standard for responsible AI infrastructure",
+"s": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+},
+"https://huggingface.co/blog/phonon-tts": {
+"t": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+"s": ""
 }
 }
