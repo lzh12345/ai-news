@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 04 Nov 2026 21:38:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 04:28:21 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Apple is reportedly cutting budgets for its internal AI usage</title>
+<link>https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185305</guid>
+<pubDate>Thu, 05 Nov 2026 01:26:22 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.<br/><br/><a href="https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>After the midterms, a bigger clash over data centers could be coming</title>
+<link>https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185307</guid>
+<pubDate>Thu, 05 Nov 2026 01:02:14 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Data center opposition crossed party lines in Tuesday’s midterms.<br/><br/><a href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
+<link>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185268</guid>
+<pubDate>Wed, 04 Nov 2026 22:45:09 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.<br/><br/><a href="https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500</title>
+<link>https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83752</guid>
+<pubDate>Wed, 04 Nov 2026 22:25:05 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on knowledge benchmarks. The post webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
+<link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185172</guid>
+<pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.<br/><br/><a href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Almost no one uses AI agents to book their Uber, company says</title>
+<link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185205</guid>
+<pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.<br/><br/><a href="https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI is already trying to shape the 2028 election</title>
 <link>https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/</link>
@@ -22,6 +70,14 @@
 <pubDate>Wed, 04 Nov 2026 21:10:56 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.<br/><br/><a href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1</title>
+<link>https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83749</guid>
+<pubDate>Wed, 04 Nov 2026 21:01:06 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size. The post Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1 appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”</title>
@@ -168,6 +224,14 @@
 <description><![CDATA[【the-decoder.com】Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, since the two systems are now too deeply intertwined to separate. Given Google's grip on the US school market, that "choice" doesn't leave schools with much room to maneuver. The article Schools that turn off Google's AI will lose search too starting in 2027 appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>A thousand fewer paths to root</title>
+<link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
+<guid isPermaLink="false">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
+<pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.<br/><br/><a href="https://openai.com/index/a-thousand-fewer-paths-to-root">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
 <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
 <guid isPermaLink="false">https://openai.com/index/daybreak-red-aws-govcloud</guid>
@@ -182,6 +246,22 @@
 <pubDate>Wed, 04 Nov 2026 04:39:27 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder. The post Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing Images 2.6</title>
+<link>https://openai.com/index/introducing-images-2-6</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-images-2-6</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.<br/><br/><a href="https://openai.com/index/introducing-images-2-6">阅读原文</a>]]></description>
+</item>
+<item>
+<title>DevRev delivers autonomous self-service with GPT-6.1 Sol</title>
+<link>https://openai.com/index/devrev-enterprise-self-service</link>
+<guid isPermaLink="false">https://openai.com/index/devrev-enterprise-self-service</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.<br/><br/><a href="https://openai.com/index/devrev-enterprise-self-service">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic is working on a system to prove AI models’ identity</title>
@@ -304,14 +384,6 @@
 <description><![CDATA[【techcrunch.com】At a moment when Anthropic's compute margins should be getting better, they’re getting worse.<br/><br/><a href="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Agentic cheminformatics with Google Antigravity</title>
-<link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</guid>
-<pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.<br/><br/><a href="https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Palette: teaching a small model to build decks in your design language</title>
 <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
 <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
@@ -320,44 +392,12 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/palette-deck-building">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google will let schools disable its AI tools, but not without sacrificing Search</title>
-<link>https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3184603</guid>
-<pubDate>Tue, 03 Nov 2026 16:30:34 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.<br/><br/><a href="https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Arnis turns any place on Earth into a Minecraft world</title>
 <link>https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/</link>
 <guid isPermaLink="false">https://github.blog/?p=99955</guid>
 <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Apple restricts dating apps and AI companions to users 18 and up</title>
-<link>https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3184598</guid>
-<pubDate>Tue, 03 Nov 2026 15:38:27 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.<br/><br/><a href="https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4</title>
-<link>https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3184579</guid>
-<pubDate>Tue, 03 Nov 2026 14:30:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.<br/><br/><a href="https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase</title>
-<link>https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3184568</guid>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.<br/><br/><a href="https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities</title>
@@ -390,14 +430,6 @@
 <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.<br/><br/><a href="https://openai.com/index/heimstaden">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Apple Watch’s AI features for rewinding and recapping conversations begin beta testing</title>
-<link>https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3184378</guid>
-<pubDate>Tue, 03 Nov 2026 07:20:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.<br/><br/><a href="https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%</title>
@@ -454,38 +486,6 @@
 <pubDate>Mon, 02 Nov 2026 18:41:41 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences. It is built by post-training Z.ai’s GLM-5.3 on domain data, laboratory records and agent discovery trajectories. For developers, it offers open weights that report a FrontierScience-Research win over GPT-6-Astra. The weights ship under the MIT License. TL;DR What is […] The post Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights</title>
-<link>https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/</link>
-<guid isPermaLink="false">https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/</guid>
-<pubDate>Mon, 02 Nov 2026 18:32:21 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.<br/><br/><a href="https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Claude’s new rules against game cloning won’t stop the AI copying boom</title>
-<link>https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/</guid>
-<pubDate>Mon, 02 Nov 2026 18:05:31 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】The tsunami of imitators is way bigger than any one model maker can stem.<br/><br/><a href="https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Rewarding defenders with bigger bug bounties</title>
-<link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-<guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.<br/><br/><a href="https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Preparing our next security sprint to harden OpenAI</title>
-<link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-<guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.<br/><br/><a href="https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
