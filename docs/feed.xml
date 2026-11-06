@@ -5,8 +5,104 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 06 Nov 2026 04:26:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 15:29:47 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>After blocking Muse, Amazon now lets users text Alexa to help them shop</title>
+<link>https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185780</guid>
+<pubDate>Fri, 06 Nov 2026 14:10:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Amazon said that the feature will roll out to millions of users in coming weeks.<br/><br/><a href="https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+<link>https://huggingface.co/blog/allenai/toyblocks</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/toyblocks</guid>
+<pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/toyblocks">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The post-quantum future of web privacy</title>
+<link>https://blog.cloudflare.com/vole-mole/</link>
+<guid isPermaLink="false">01M6PDR60R01B25PZF6REB72W3</guid>
+<pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.<br/><br/><a href="https://blog.cloudflare.com/vole-mole/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July</title>
+<link>https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42495</guid>
+<pubDate>Fri, 06 Nov 2026 13:40:07 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which means the public has to rely on METR's judgment "much more than would be ideal." There are also skeptical voices inside the company. The article METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Thinking Machines' Inkling 2 Small claims top spot among western open-weight models</title>
+<link>https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42490</guid>
+<pubDate>Fri, 06 Nov 2026 13:25:09 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage rising sharply. The article Thinking Machines' Inkling 2 Small claims top spot among western open-weight models appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Underdog shows off a 32MB speech model in new demo</title>
+<link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185376</guid>
+<pubDate>Fri, 06 Nov 2026 13:02:16 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Despite its small size, Underdog's new model can generate both speech and music.<br/><br/><a href="https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Physicl raises $10M to make the digital world real enough for robots</title>
+<link>https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185667</guid>
+<pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.<br/><br/><a href="https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation</title>
+<link>https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42480</guid>
+<pubDate>Fri, 06 Nov 2026 11:38:17 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic adds bank account access to Claude so users can track their spending</title>
+<link>https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42478</guid>
+<pubDate>Fri, 06 Nov 2026 11:33:13 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</title>
+<link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185713</guid>
+<pubDate>Fri, 06 Nov 2026 06:28:32 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.<br/><br/><a href="https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active</title>
+<link>https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83775</guid>
+<pubDate>Fri, 06 Nov 2026 04:25:07 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned. The post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
+<link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
+<guid isPermaLink="false">https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/open-asr-leaderboard-liva">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second</title>
 <link>https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/</link>
@@ -136,14 +232,6 @@
 <description><![CDATA[【the-decoder.com】Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Agents aren’t humans (but they kinda are)</title>
 <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
 <guid isPermaLink="false">01M6HXVSQY6XGPSH12AFMB81B9</guid>
@@ -214,38 +302,6 @@
 <pubDate>Thu, 05 Nov 2026 14:42:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Aina's ring can also take calls and help you dictate notes on your Mac.<br/><br/><a href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>After midterm rout, OpenAI tries to win over communities it needs for AI expansion</title>
-<link>https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42421</guid>
-<pubDate>Thu, 05 Nov 2026 14:37:46 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure is built by partners like Oracle. Voters rejected new data centers in 40 out of 41 local ballot measures. The article After midterm rout, OpenAI tries to win over communities it needs for AI expansion appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic reverses course and pays for news content for the first time</title>
-<link>https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42420</guid>
-<pubDate>Thu, 05 Nov 2026 14:09:05 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles</title>
-<link>https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42419</guid>
-<pubDate>Thu, 05 Nov 2026 14:08:22 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rule out strategic motives. The article OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Apple slashes internal AI budgets, with deeper cuts still planned</title>
-<link>https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42418</guid>
-<pubDate>Thu, 05 Nov 2026 14:03:14 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Tech companies are cutting internal AI spending, and Apple is the latest to follow suit. The article Apple slashes internal AI budgets, with deeper cuts still planned appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Box taps Nvidia’s Nemotron for new agent-first content retrieval system</title>
@@ -400,30 +456,6 @@
 <description><![CDATA[【techcrunch.com】While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.<br/><br/><a href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Almost no one uses AI agents to book their Uber, company says</title>
-<link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185205</guid>
-<pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.<br/><br/><a href="https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI is already trying to shape the 2028 election</title>
-<link>https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185152</guid>
-<pubDate>Wed, 04 Nov 2026 21:25:44 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.<br/><br/><a href="https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta acquires AI coding startup Conductor</title>
-<link>https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185181</guid>
-<pubDate>Wed, 04 Nov 2026 21:10:56 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.<br/><br/><a href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1</title>
 <link>https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83749</guid>
@@ -440,14 +472,6 @@
 <description><![CDATA[【arstechnica.com】Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Open source AI is booming. Hugging Face explains who profits.</title>
-<link>https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3185186</guid>
-<pubDate>Wed, 04 Nov 2026 19:30:04 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]<br/><br/><a href="https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
 <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
 <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
@@ -462,30 +486,6 @@
 <pubDate>Wed, 04 Nov 2026 14:30:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.<br/><br/><a href="https://openai.com/index/openai-to-acquire-pierre">阅读原文</a>]]></description>
-</item>
-<item>
-<title>See the agents, set the terms: new visibility and control for personal agents</title>
-<link>https://blog.cloudflare.com/personal-agents-visibility-control/</link>
-<guid isPermaLink="false">01M6HZ245M2MBZAF7ZQXKC85X6</guid>
-<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.<br/><br/><a href="https://blog.cloudflare.com/personal-agents-visibility-control/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A thousand fewer paths to root</title>
-<link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-<guid isPermaLink="false">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
-<pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.<br/><br/><a href="https://openai.com/index/a-thousand-fewer-paths-to-root">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
-<link>https://openai.com/index/daybreak-red-aws-govcloud</link>
-<guid isPermaLink="false">https://openai.com/index/daybreak-red-aws-govcloud</guid>
-<pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.<br/><br/><a href="https://openai.com/index/daybreak-red-aws-govcloud">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

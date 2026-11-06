@@ -1,52 +1,4 @@
 {
-"https://techcrunch.com/?p=3170736": {
-"t": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-"s": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
-},
-"https://github.blog/?p=99087": {
-"t": "Highlights from Git 2.56",
-"s": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3170628": {
-"t": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-"s": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
-},
-"https://the-decoder.com/?p=40773": {
-"t": "OpenAI's AI agents exploited a Google security education game to scrape UN trade data",
-"s": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents just kept going, adding to a growing list of cases that show how hard it is to keep agentic AI systems in check. The article OpenAI's AI agents exploited a Google security education game to scrape UN trade data appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3170653": {
-"t": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-"s": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
-},
-"https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/": {
-"t": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-"s": "US Government websites among \"dozens of third parties\" OpenAI has recently notified."
-},
-"https://the-decoder.com/?p=40758": {
-"t": "Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric",
-"s": "Steven Pinker thinks fears of AI-driven extinction are overblown, and he has turned down a public debate with blogger Scott Alexander, calling such events a \"spectator sport.\" Alexander puts the odds that AI wipes out humanity at 20 percent. Instead of doomsday rhetoric, Pinker wants sober safety engineering built on independent oversight, liability, and human control. The article Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3170437": {
-"t": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-"s": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
-},
-"https://techcrunch.com/?p=3169260": {
-"t": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-"s": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt."
-},
-"01M3AZRN7QXCG8CS98YQVRRM60": {
-"t": "Next.js applications, powered by Vite: introducing Vinext 1.0",
-"s": "Vinext 1.0 graduates from an AI experiment to a production-ready framework, letting developers run Next.js apps on Vite. This release brings advanced cache warming, broader compatibility, and an automated testing pipeline."
-},
-"01M3KR05M9ZET98RWX42EJ7YMG": {
-"t": "Introducing cf: the agentic CLI for the entire Cloudflare API",
-"s": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator."
-},
-"https://the-decoder.com/?p=40766": {
-"t": "Meta wants to turn Muse into a moneymaker by selling AI services to businesses",
-"s": "Meta is launching the Meta Enterprise Platform, a new business unit that sells AI tools to companies. The article Meta wants to turn Muse into a moneymaker by selling AI services to businesses appeared first on The Decoder."
-},
 "01M3CW0C8PVD170DBSKBTM8666": {
 "t": "How fast is the web? Explore billions of real-user measurements with BEACON",
 "s": "Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance breakdowns across browsers and regions."
@@ -4798,5 +4750,53 @@
 "https://openai.com/index/franklin-templeton": {
 "t": "Franklin Templeton uses OpenAI to support investment research",
 "s": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
+},
+"https://techcrunch.com/?p=3185780": {
+"t": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+"s": "Amazon said that the feature will roll out to millions of users in coming weeks."
+},
+"https://huggingface.co/blog/allenai/toyblocks": {
+"t": "ToyBlocks: A controlled world for robot learning and evaluation",
+"s": ""
+},
+"01M6PDR60R01B25PZF6REB72W3": {
+"t": "The post-quantum future of web privacy",
+"s": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap."
+},
+"https://the-decoder.com/?p=42495": {
+"t": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+"s": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which means the public has to rely on METR's judgment \"much more than would be ideal.\" There are also skeptical voices inside the company. The article METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42490": {
+"t": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+"s": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage rising sharply. The article Thinking Machines' Inkling 2 Small claims top spot among western open-weight models appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3185376": {
+"t": "Underdog shows off a 32MB speech model in new demo",
+"s": "Despite its small size, Underdog's new model can generate both speech and music."
+},
+"https://techcrunch.com/?p=3185667": {
+"t": "Physicl raises $10M to make the digital world real enough for robots",
+"s": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+},
+"https://the-decoder.com/?p=42480": {
+"t": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+"s": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42478": {
+"t": "Anthropic adds bank account access to Claude so users can track their spending",
+"s": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3185713": {
+"t": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+"s": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+},
+"https://www.marktechpost.com/?p=83775": {
+"t": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
+"s": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned. The post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/open-asr-leaderboard-liva": {
+"t": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+"s": ""
 }
 }
