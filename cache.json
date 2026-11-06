@@ -1,56 +1,4 @@
 {
-"01M3CW0C8PVD170DBSKBTM8666": {
-"t": "How fast is the web? Explore billions of real-user measurements with BEACON",
-"s": "Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance breakdowns across browsers and regions."
-},
-"https://the-decoder.com/?p=40765": {
-"t": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips",
-"s": "Nvidia is combining its OpenShell agent software with Sentry, a new hardware watchdog, to create the Open Agent Safety Platform. Sentry is supposed to isolate AI agents that break out within milliseconds. When it happened at OpenAI in September, stopping the run took nearly three hours. Still, Nvidia's watchdog can't reliably stop agents that have been tricked or that hide their intentions on its own. The article Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3170359": {
-"t": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-"s": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today."
-},
-"https://techcrunch.com/?p=3170298": {
-"t": "Modulate raises $25M for its voice models and analysis suite",
-"s": "Modulate deploys its models to detect deepfake, fraud and scam"
-},
-"https://techcrunch.com/?p=3170338": {
-"t": "Insurtech Outmarket raises $34.5M just months after prior round",
-"s": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
-},
-"https://techcrunch.com/?p=3169782": {
-"t": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-"s": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15."
-},
-"https://techcrunch.com/?p=3170483": {
-"t": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-"s": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
-},
-"01M3JF3DKKQ5XNFGNAX8ZFJ833": {
-"t": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
-"s": "Since joining Cloudflare, VoidZero has delivered more than 80 releases that drastically speed up JavaScript compilation, linting, and testing. From a 10x faster React compiler to Vite+ 1.0, here’s how we are building faster tools for developers and AI agents."
-},
-"01M3J4F24CZJFAYS930VMKY6WH": {
-"t": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
-"s": "Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously in sync."
-},
-"01M3D84K773S7FMQR5NBJQNFWC": {
-"t": "The road to the agentic browser: A Kitesurf update",
-"s": "We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster."
-},
-"01M3D7BYYAG8E9BRD4A78X2A11": {
-"t": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
-"s": "Cloudflare is launching The Cold Start, a startup competition giving five early-stage companies five minutes on stage at Cloudflare Connect. Grand Prize winner receives $500,000 in credits, a San Francisco billboard, and an invitation to our VIP speakers dinner."
-},
-"01M3D0TCHNJ5AZAV6G5YWHXSBZ": {
-"t": "EmDash 1.0: the stable CMS with a secure plugin registry",
-"s": "EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control."
-},
-"01M3AJJ8KD2XWQ7A10RS71WEQ4": {
-"t": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
-"s": "With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare’s global Workers platform, including upcoming support for Tokio async."
-},
 "https://the-decoder.com/?p=40762": {
 "t": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
 "s": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called things off at 10 percent. Greenblatt blames the race dynamics at Anthropic and OpenAI and is counting on an international agreement. The article Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going appeared first on The Decoder."
@@ -4798,5 +4746,57 @@
 "https://huggingface.co/blog/open-asr-leaderboard-liva": {
 "t": "Egyptian and Nigerian English join the Open ASR Leaderboard",
 "s": ""
+},
+"https://the-decoder.com/?p=42519": {
+"t": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+"s": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. On other benchmarks, however, Ripple falls behind the likewise newly released western open model Inkling 2 Small. The article Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3185905": {
+"t": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+"s": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+},
+"https://techcrunch.com/?p=3185929": {
+"t": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+"s": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3185898": {
+"t": "How a Blue Wave midterm might reshape the AI industry",
+"s": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]"
+},
+"https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/": {
+"t": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+"s": "Meta won't force Facebook page owners to allow AI training on linked content."
+},
+"https://www.marktechpost.com/?p=83781": {
+"t": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+"s": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128. The post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?post_type=tc_video&p=3185895": {
+"t": "After the midterms, is the AI industry in for a rough two years?",
+"s": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]"
+},
+"https://the-decoder.com/?p=42486": {
+"t": "Perplexity now has its own always-on AI agent",
+"s": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded. The article Perplexity now has its own always-on AI agent appeared first on The Decoder."
+},
+"https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/": {
+"t": "Could potential AI clones of GTA VI force a quicker official port?",
+"s": "A former Rockstar tech director thinks the developer is facing new time pressures."
+},
+"https://the-decoder.com/?p=42507": {
+"t": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+"s": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI they're trying to overcome, looked at what's already visible from their work, and explain why Nvidia always wins. The article Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3185848": {
+"t": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+"s": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+},
+"https://openai.com/index/partnering-with-hacktron": {
+"t": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+"s": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+},
+"https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+"t": "Measuring how AI agents handle everyday wet-lab science",
+"s": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
 }
 }
