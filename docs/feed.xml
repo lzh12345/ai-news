@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 05 Nov 2026 21:46:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 04:26:35 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second</title>
+<link>https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83772</guid>
+<pubDate>Thu, 05 Nov 2026 22:58:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Airbnb says it’s launching an AI travel agent in the first half of 2027</title>
+<link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3185656</guid>
+<pubDate>Thu, 05 Nov 2026 22:40:55 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.<br/><br/><a href="https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable</title>
 <link>https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/</link>
@@ -24,6 +40,14 @@
 <description><![CDATA[【arstechnica.com】Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters</title>
+<link>https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83769</guid>
+<pubDate>Thu, 05 Nov 2026 21:33:00 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. The post Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them</title>
 <link>https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=42471</guid>
@@ -38,6 +62,14 @@
 <pubDate>Thu, 05 Nov 2026 20:23:21 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cult.fit builds operational muscle with Codex</title>
+<link>https://openai.com/index/cultfit-builds-with-codex</link>
+<guid isPermaLink="false">https://openai.com/index/cultfit-builds-with-codex</guid>
+<pubDate>Thu, 05 Nov 2026 20:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.<br/><br/><a href="https://openai.com/index/cultfit-builds-with-codex">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta says US users can now video chat with their Muse AI avatar</title>
@@ -104,12 +136,28 @@
 <description><![CDATA[【the-decoder.com】Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
+<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Agents aren’t humans (but they kinda are)</title>
 <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
 <guid isPermaLink="false">01M6HXVSQY6XGPSH12AFMB81B9</guid>
 <pubDate>Thu, 05 Nov 2026 17:03:04 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.<br/><br/><a href="https://blog.cloudflare.com/trusted-agent-delegation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Australian universities are creating AI-native graduates</title>
+<link>https://openai.com/index/australian-universities-ai-native-graduates</link>
+<guid isPermaLink="false">https://openai.com/index/australian-universities-ai-native-graduates</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.<br/><br/><a href="https://openai.com/index/australian-universities-ai-native-graduates">阅读原文</a>]]></description>
 </item>
 <item>
 <title>No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark</title>
@@ -248,6 +296,14 @@
 <description><![CDATA[【marktechpost.com】Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Merge builds product and business tools with OpenAI technology</title>
+<link>https://openai.com/index/merge-builds-with-openai</link>
+<guid isPermaLink="false">https://openai.com/index/merge-builds-with-openai</guid>
+<pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.<br/><br/><a href="https://openai.com/index/merge-builds-with-openai">阅读原文</a>]]></description>
+</item>
+<item>
 <title>OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation</title>
 <link>https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83759</guid>
@@ -288,6 +344,14 @@
 <description><![CDATA[【techcrunch.com】Data center opposition crossed party lines in Tuesday’s midterms.<br/><br/><a href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Flipsnack grows product signups with conversion optimization</title>
+<link>https://openai.com/ads/customers/flipsnack</link>
+<guid isPermaLink="false">https://openai.com/ads/customers/flipsnack</guid>
+<pubDate>Thu, 05 Nov 2026 00:45:15 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.<br/><br/><a href="https://openai.com/ads/customers/flipsnack">阅读原文</a>]]></description>
+</item>
+<item>
 <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
 <link>https://huggingface.co/blog/phonon-tts</link>
 <guid isPermaLink="false">https://huggingface.co/blog/phonon-tts</guid>
@@ -302,6 +366,14 @@
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 <source>machinelearning.apple.com</source>
 <description><![CDATA[【machinelearning.apple.com】Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a query vector, MIPS systems search within a database of millions of candidate key vectors for the one that best matches the query. The original data point associated with that best-matching key is then used to handle the query: in RAG, the document that is best suited to answer the question is typically prefixed to the query. As the number of keys grows to millions and vector dimensions reach thousands, the computational cost of running an exhaustive…<br/><br/><a href="https://machinelearning.apple.com/research/faster-retrieval">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Franklin Templeton uses OpenAI to support investment research</title>
+<link>https://openai.com/index/franklin-templeton</link>
+<guid isPermaLink="false">https://openai.com/index/franklin-templeton</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.<br/><br/><a href="https://openai.com/index/franklin-templeton">阅读原文</a>]]></description>
 </item>
 <item>
 <title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
@@ -376,14 +448,6 @@
 <description><![CDATA[【techcrunch.com】Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]<br/><br/><a href="https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy</title>
-<link>https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185129</guid>
-<pubDate>Wed, 04 Nov 2026 19:29:52 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.<br/><br/><a href="https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
 <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
 <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
@@ -422,70 +486,6 @@
 <pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.<br/><br/><a href="https://openai.com/index/daybreak-red-aws-govcloud">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting</title>
-<link>https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83746</guid>
-<pubDate>Wed, 04 Nov 2026 04:39:27 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder. The post Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Images 2.6</title>
-<link>https://openai.com/index/introducing-images-2-6</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-images-2-6</guid>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.<br/><br/><a href="https://openai.com/index/introducing-images-2-6">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DevRev delivers autonomous self-service with GPT-6.1 Sol</title>
-<link>https://openai.com/index/devrev-enterprise-self-service</link>
-<guid isPermaLink="false">https://openai.com/index/devrev-enterprise-self-service</guid>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.<br/><br/><a href="https://openai.com/index/devrev-enterprise-self-service">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights</title>
-<link>https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83743</guid>
-<pubDate>Tue, 03 Nov 2026 22:08:22 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs. The post Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</title>
-<link>https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/</guid>
-<pubDate>Tue, 03 Nov 2026 20:39:55 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Russia tries to fix exposed digital infrastructure as data center war backfires.<br/><br/><a href="https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%</title>
-<link>https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83739</guid>
-<pubDate>Tue, 03 Nov 2026 20:28:22 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change. The post NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5% appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents</title>
-<link>https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83735</guid>
-<pubDate>Tue, 03 Nov 2026 20:18:22 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent’s own voice. The release ships as stt-rt-v6 for streaming and stt-async-v6 […] The post Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google will let schools skip AI tools, but they have to give up search, too</title>
-<link>https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/</guid>
-<pubDate>Tue, 03 Nov 2026 17:54:43 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Google will offer schools AI tools that purportedly don't give away the answers.<br/><br/><a href="https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
