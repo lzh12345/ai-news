@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 06 Nov 2026 21:10:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 03:53:39 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Crusoe sells troubled Wyoming data center project to Google</title>
+<link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3186051</guid>
+<pubDate>Sat, 07 Nov 2026 01:40:28 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The deal highlights the challenges of developing massive AI data centers.<br/><br/><a href="https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</title>
+<link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3186034</guid>
+<pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.<br/><br/><a href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Beyond code generation: A developer’s guide to agentic engineering</title>
+<link>https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/</link>
+<guid isPermaLink="false">https://github.blog/?p=100047</guid>
+<pubDate>Fri, 06 Nov 2026 22:15:59 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model</title>
 <link>https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/</link>
@@ -336,14 +360,6 @@
 <description><![CDATA[【the-decoder.com】Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Agents aren’t humans (but they kinda are)</title>
 <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
 <guid isPermaLink="false">01M6HXVSQY6XGPSH12AFMB81B9</guid>
@@ -390,22 +406,6 @@
 <pubDate>Thu, 05 Nov 2026 14:42:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Aina's ring can also take calls and help you dictate notes on your Mac.<br/><br/><a href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Box taps Nvidia’s Nemotron for new agent-first content retrieval system</title>
-<link>https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185377</guid>
-<pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.<br/><br/><a href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A YC startup is putting $1M behind five unsolved materials science problems for AI</title>
-<link>https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185211</guid>
-<pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.<br/><br/><a href="https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market</title>

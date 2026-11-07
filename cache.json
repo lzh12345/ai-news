@@ -1,16 +1,4 @@
 {
-"https://the-decoder.com/?p=40762": {
-"t": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
-"s": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called things off at 10 percent. Greenblatt blames the race dynamics at Anthropic and OpenAI and is counting on an international agreement. The article Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going appeared first on The Decoder."
-},
-"https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/": {
-"t": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-"s": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\""
-},
-"https://the-decoder.com/?p=40752": {
-"t": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases",
-"s": "A court in Wuhan, China has factored token usage and AI tool licensing fees into a copyright damages calculation for the first time. The ruling is part of China's broader push to build out copyright protections for AI-generated works. The article A Wuhan court just made AI production costs a legal factor in copyright infringement cases appeared first on The Decoder."
-},
 "https://openai.com/index/lenfest-ai-collaborative-expansion": {
 "t": "The Lenfest Institute grows landmark program with expanded OpenAI support",
 "s": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
@@ -4798,5 +4786,17 @@
 "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
 "t": "Measuring how AI agents handle everyday wet-lab science",
 "s": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+},
+"https://techcrunch.com/?p=3186051": {
+"t": "Crusoe sells troubled Wyoming data center project to Google",
+"s": "The deal highlights the challenges of developing massive AI data centers."
+},
+"https://techcrunch.com/?p=3186034": {
+"t": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+"s": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+},
+"https://github.blog/?p=100047": {
+"t": "Beyond code generation: A developer’s guide to agentic engineering",
+"s": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog."
 }
 }
