@@ -1,16 +1,4 @@
 {
-"https://openai.com/index/lenfest-ai-collaborative-expansion": {
-"t": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-"s": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-},
-"federated-variational-inequalities": {
-"t": "Faster Rates for Federated Variational Inequalities",
-"s": "In this paper, we study federated optimization for solving stochastic variational inequalities (VIs), a problem that has attracted growing attention in recent years. Despite substantial progress, a significant gap remains between existing convergence rates and the state-of-the-art bounds known for federated convex optimization. In this work, we address this limitation by establishing a series of improved convergence rates. First, we show that, for general smooth and monotone variational inequalities, the classical Local Extra SGD algorithm admits tighter guarantees under a refined analysis…"
-},
-"https://techcrunch.com/?p=3171035": {
-"t": "OpenAI reportedly ditches model over safety concerns",
-"s": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
-},
 "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/": {
 "t": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
 "s": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips."
@@ -4798,5 +4786,17 @@
 "https://github.blog/?p=100047": {
 "t": "Beyond code generation: A developer’s guide to agentic engineering",
 "s": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog."
+},
+"https://the-decoder.com/?p=42463": {
+"t": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+"s": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in the Google Health app, though it doesn't replace a formal diagnosis. The article Google's AI detects high blood pressure from a regular smartwatch without a cuff appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42525": {
+"t": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+"s": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution. The article OpenAI lands an $11 billion funding round, but has to court dentists for more capital appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83793": {
+"t": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+"s": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost."
 }
 }

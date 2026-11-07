@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 07 Nov 2026 03:53:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 10:48:37 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google's AI detects high blood pressure from a regular smartwatch without a cuff</title>
+<link>https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42463</guid>
+<pubDate>Sat, 07 Nov 2026 09:54:09 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in the Google Health app, though it doesn't replace a formal diagnosis. The article Google's AI detects high blood pressure from a regular smartwatch without a cuff appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI lands an $11 billion funding round, but has to court dentists for more capital</title>
+<link>https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42525</guid>
+<pubDate>Sat, 07 Nov 2026 09:45:23 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution. The article OpenAI lands an $11 billion funding round, but has to court dentists for more capital appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM</title>
+<link>https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83793</guid>
+<pubDate>Sat, 07 Nov 2026 08:16:33 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Crusoe sells troubled Wyoming data center project to Google</title>
 <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
@@ -328,14 +352,6 @@
 <description><![CDATA[【techcrunch.com】OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.<br/><br/><a href="https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent</title>
-<link>https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42457</guid>
-<pubDate>Thu, 05 Nov 2026 19:05:31 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more. The article Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI president Greg Brockman says company could be IPO ready in 2027</title>
 <link>https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3185500</guid>
@@ -350,14 +366,6 @@
 <pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.<br/><br/><a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model</title>
-<link>https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42451</guid>
-<pubDate>Thu, 05 Nov 2026 17:56:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Agents aren’t humans (but they kinda are)</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/phonon-tts">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Faster Retrieval for Better, More Efficient RAG</title>
-<link>https://machinelearning.apple.com/research/faster-retrieval</link>
-<guid isPermaLink="false">faster-retrieval</guid>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a query vector, MIPS systems search within a database of millions of candidate key vectors for the one that best matches the query. The original data point associated with that best-matching key is then used to handle the query: in RAG, the document that is best suited to answer the question is typically prefixed to the query. As the number of keys grows to millions and vector dimensions reach thousands, the computational cost of running an exhaustive…<br/><br/><a href="https://machinelearning.apple.com/research/faster-retrieval">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
