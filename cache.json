@@ -1,20 +1,4 @@
 {
-"https://the-decoder.com/?p=40786": {
-"t": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
-"s": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving AI. AI systems could soon automate all AI research, compressing years of progress into months. The article More than 20 leading AI researchers warn that automated AI research poses extreme risks appeared first on The Decoder."
-},
-"https://openai.com/form/codex-originals": {
-"t": "Are you a Codex Original?",
-"s": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
-},
-"https://openai.com/index/basis-tax-workbook-with-astra": {
-"t": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-"s": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
-},
-"https://the-decoder.com/?p=40795": {
-"t": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
-"s": "OpenAI is reopening its $200 Pro subscription to new sign-ups but cutting API credits per dollar in half. More efficient models like GPT-6 Sol and Luna make up for the difference, employee Thibault Sottiaux says. The move is part of OpenAI's shift from subsidized flat-rate plans toward usage-based billing. The article OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=40792": {
 "t": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
 "s": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers. The article Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone appeared first on The Decoder."
@@ -4798,5 +4782,21 @@
 "https://the-decoder.com/?p=42532": {
 "t": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
 "s": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards. The article Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3186091": {
+"t": "After the midterms, things are looking rocky for Elon Musk and data centers",
+"s": "On Equity, we unpacked what the midterms mean for the tech industry."
+},
+"https://techcrunch.com/?p=3186087": {
+"t": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+"s": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+},
+"https://www.marktechpost.com/?p=83796": {
+"t": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+"s": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations. The post How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42579": {
+"t": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+"s": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation. The article Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation appeared first on The Decoder."
 }
 }

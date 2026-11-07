@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 07 Nov 2026 17:13:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 23:16:25 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>After the midterms, things are looking rocky for Elon Musk and data centers</title>
+<link>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3186091</guid>
+<pubDate>Sat, 07 Nov 2026 22:07:22 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】On Equity, we unpacked what the midterms mean for the tech industry.<br/><br/><a href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
+<link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3186087</guid>
+<pubDate>Sat, 07 Nov 2026 21:17:08 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.<br/><br/><a href="https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide</title>
+<link>https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83796</guid>
+<pubDate>Sat, 07 Nov 2026 19:22:44 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations. The post How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation</title>
+<link>https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42579</guid>
+<pubDate>Sat, 07 Nov 2026 17:37:25 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation. The article Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds</title>
 <link>https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/</link>
@@ -166,14 +198,6 @@
 <pubDate>Fri, 06 Nov 2026 16:19:12 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】A former Rockstar tech director thinks the developer is facing new time pressures.<br/><br/><a href="https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets</title>
-<link>https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42507</guid>
-<pubDate>Fri, 06 Nov 2026 15:55:23 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI they're trying to overcome, looked at what's already visible from their work, and explain why Nvidia always wins. The article Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
@@ -408,22 +432,6 @@
 <description><![CDATA[【github.blog】GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
-<link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185428</guid>
-<pubDate>Thu, 05 Nov 2026 15:19:05 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.<br/><br/><a href="https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents</title>
-<link>https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185356</guid>
-<pubDate>Thu, 05 Nov 2026 14:42:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Aina's ring can also take calls and help you dictate notes on your Mac.<br/><br/><a href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market</title>
 <link>https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/</link>
 <guid isPermaLink="false">https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/</guid>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.<br/><br/><a href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Flipsnack grows product signups with conversion optimization</title>
-<link>https://openai.com/ads/customers/flipsnack</link>
-<guid isPermaLink="false">https://openai.com/ads/customers/flipsnack</guid>
-<pubDate>Thu, 05 Nov 2026 00:45:15 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.<br/><br/><a href="https://openai.com/ads/customers/flipsnack">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
