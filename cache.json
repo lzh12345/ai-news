@@ -1,24 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/": {
-"t": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-"s": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips."
-},
-"https://techcrunch.com/?p=3170936": {
-"t": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-"s": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
-},
-"https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/": {
-"t": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-"s": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\""
-},
-"https://techcrunch.com/?p=3170932": {
-"t": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-"s": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
-},
-"https://techcrunch.com/?p=3170763": {
-"t": "Shopify opens checkout to browser-based AI agents",
-"s": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
-},
 "https://the-decoder.com/?p=40786": {
 "t": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
 "s": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving AI. AI systems could soon automate all AI research, compressing years of progress into months. The article More than 20 leading AI researchers warn that automated AI research poses extreme risks appeared first on The Decoder."
@@ -4798,5 +4778,25 @@
 "https://www.marktechpost.com/?p=83793": {
 "t": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
 "s": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42569": {
+"t": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+"s": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for reliable safety checks. The article AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42561": {
+"t": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+"s": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn't work as a warning signal: 96 percent of failed runs contained no cursing at all. The article Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42554": {
+"t": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+"s": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast. The article The gap between open and closed AI models in cyber capabilities keeps shrinking appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42545": {
+"t": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+"s": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is \"applied late, it is applied thin,\" the team writes. The article State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42532": {
+"t": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+"s": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards. The article Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar appeared first on The Decoder."
 }
 }

@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 07 Nov 2026 10:48:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 17:13:18 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds</title>
+<link>https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42569</guid>
+<pubDate>Sat, 07 Nov 2026 16:56:38 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for reliable safety checks. The article AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs</title>
+<link>https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42561</guid>
+<pubDate>Sat, 07 Nov 2026 16:31:00 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn't work as a warning signal: 96 percent of failed runs contained no cursing at all. The article Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The gap between open and closed AI models in cyber capabilities keeps shrinking</title>
+<link>https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42554</guid>
+<pubDate>Sat, 07 Nov 2026 15:35:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast. The article The gap between open and closed AI models in cyber capabilities keeps shrinking appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>State propaganda in some Chinese AI models is only &quot;a thin layer&quot; that fine-tuning can strip away</title>
+<link>https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42545</guid>
+<pubDate>Sat, 07 Nov 2026 12:32:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is "applied late, it is applied thin," the team writes. The article State propaganda in some Chinese AI models is only "a thin layer" that fine-tuning can strip away appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar</title>
+<link>https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42532</guid>
+<pubDate>Sat, 07 Nov 2026 11:13:42 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The "Into the Unknown" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards. The article Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google's AI detects high blood pressure from a regular smartwatch without a cuff</title>
 <link>https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/</link>
@@ -168,22 +208,6 @@
 <description><![CDATA[【blog.cloudflare.com】Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.<br/><br/><a href="https://blog.cloudflare.com/vole-mole/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July</title>
-<link>https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42495</guid>
-<pubDate>Fri, 06 Nov 2026 13:40:07 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which means the public has to rely on METR's judgment "much more than would be ideal." There are also skeptical voices inside the company. The article METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Thinking Machines' Inkling 2 Small claims top spot among western open-weight models</title>
-<link>https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42490</guid>
-<pubDate>Fri, 06 Nov 2026 13:25:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage rising sharply. The article Thinking Machines' Inkling 2 Small claims top spot among western open-weight models appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Underdog shows off a 32MB speech model in new demo</title>
 <link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3185376</guid>
@@ -198,22 +222,6 @@
 <pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.<br/><br/><a href="https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation</title>
-<link>https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42480</guid>
-<pubDate>Fri, 06 Nov 2026 11:38:17 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic adds bank account access to Claude so users can track their spending</title>
-<link>https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42478</guid>
-<pubDate>Fri, 06 Nov 2026 11:33:13 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
@@ -296,14 +304,6 @@
 <description><![CDATA[【marktechpost.com】Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. The post Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them</title>
-<link>https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42471</guid>
-<pubDate>Thu, 05 Nov 2026 20:36:25 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linux kernel, significantly more than its predecessor. The article OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Inside GitHub’s new Git storage architecture</title>
 <link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
 <guid isPermaLink="false">https://github.blog/?p=100002</guid>
@@ -366,6 +366,14 @@
 <pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.<br/><br/><a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
+<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Agents aren’t humans (but they kinda are)</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 05 Nov 2026 00:45:15 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.<br/><br/><a href="https://openai.com/ads/customers/flipsnack">阅读原文</a>]]></description>
-</item>
-<item>
-<title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
-<link>https://huggingface.co/blog/phonon-tts</link>
-<guid isPermaLink="false">https://huggingface.co/blog/phonon-tts</guid>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/phonon-tts">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
