@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=3171209": {
-"t": "OpenAI launches Dots, its bubbly agentic avatar",
-"s": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
-},
 "https://techcrunch.com/?p=3171268": {
 "t": "OpenAI gives Codex reusable cloud environments that work across devices",
 "s": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=83809": {
 "t": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
 "s": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3186128": {
+"t": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+"s": "In a memo to the company, Huang admitted that he had an affair."
 }
 }
