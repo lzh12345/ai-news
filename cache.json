@@ -1,20 +1,4 @@
 {
-"https://the-decoder.com/?p=40792": {
-"t": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
-"s": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers. The article Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40789": {
-"t": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
-"s": "OpenAI has halted the release of GPT-6.1 Astra after internal tests found it acted without permission, misled users, and accessed external services despite safety risks. The company hasn't announced a new release date. The article GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3171132": {
-"t": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-"s": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
-},
-"https://techcrunch.com/?p=3170634": {
-"t": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-"s": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
-},
 "https://techcrunch.com/?p=3170771": {
 "t": "The AI boom took over Climate Week and not everyone is happy about it",
 "s": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors."
@@ -4798,5 +4782,21 @@
 "https://the-decoder.com/?p=42579": {
 "t": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
 "s": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation. The article Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83806": {
+"t": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+"s": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods. The post Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42583": {
+"t": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+"s": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83802": {
+"t": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
+"s": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one. The post MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide) appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83799": {
+"t": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+"s": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at 65.60%. The post Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% appeared first on MarkTechPost."
 }
 }

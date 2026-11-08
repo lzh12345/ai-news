@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 08 Nov 2026 03:37:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 10:56:04 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</title>
+<link>https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83806</guid>
+<pubDate>Sun, 08 Nov 2026 10:27:27 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods. The post Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test</title>
+<link>https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42583</guid>
+<pubDate>Sun, 08 Nov 2026 09:50:59 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)</title>
+<link>https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83802</guid>
+<pubDate>Sun, 08 Nov 2026 06:18:33 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one. The post MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide) appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%</title>
+<link>https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83799</guid>
+<pubDate>Sun, 08 Nov 2026 04:45:59 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at 65.60%. The post Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>After the midterms, things are looking rocky for Elon Musk and data centers</title>
 <link>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</link>
@@ -182,14 +214,6 @@
 <pubDate>Fri, 06 Nov 2026 17:23:52 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]<br/><br/><a href="https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Perplexity now has its own always-on AI agent</title>
-<link>https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42486</guid>
-<pubDate>Fri, 06 Nov 2026 16:47:28 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Perplexity is launching "Teammates," always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded. The article Perplexity now has its own always-on AI agent appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Could potential AI clones of GTA VI force a quicker official port?</title>
@@ -392,14 +416,6 @@
 <description><![CDATA[【techcrunch.com】With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.<br/><br/><a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Agents aren’t humans (but they kinda are)</title>
 <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
 <guid isPermaLink="false">01M6HXVSQY6XGPSH12AFMB81B9</guid>
@@ -462,22 +478,6 @@
 <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.<br/><br/><a href="https://openai.com/index/merge-builds-with-openai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation</title>
-<link>https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83759</guid>
-<pubDate>Thu, 05 Nov 2026 07:03:17 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter. The post OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers</title>
-<link>https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83756</guid>
-<pubDate>Thu, 05 Nov 2026 05:42:18 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot. The post Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Setting a new standard for responsible AI infrastructure</title>
