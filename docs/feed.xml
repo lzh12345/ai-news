@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 08 Nov 2026 10:56:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 17:25:50 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News</title>
+<link>https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42607</guid>
+<pubDate>Sun, 08 Nov 2026 14:23:00 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate</title>
+<link>https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42602</guid>
+<pubDate>Sun, 08 Nov 2026 13:49:21 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone "fatally flawed" and warn against granting rights to AI systems. The article The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts</title>
+<link>https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42596</guid>
+<pubDate>Sun, 08 Nov 2026 11:44:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling "has reward hacked brains of a whole generation of scientists." A growing wave of startups is already betting on exactly this gap. The article The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding</title>
+<link>https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83809</guid>
+<pubDate>Sun, 08 Nov 2026 10:46:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</title>
 <link>https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/</link>
@@ -112,22 +144,6 @@
 <description><![CDATA[【the-decoder.com】The "Into the Unknown" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards. The article Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google's AI detects high blood pressure from a regular smartwatch without a cuff</title>
-<link>https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42463</guid>
-<pubDate>Sat, 07 Nov 2026 09:54:09 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in the Google Health app, though it doesn't replace a formal diagnosis. The article Google's AI detects high blood pressure from a regular smartwatch without a cuff appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI lands an $11 billion funding round, but has to court dentists for more capital</title>
-<link>https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42525</guid>
-<pubDate>Sat, 07 Nov 2026 09:45:23 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution. The article OpenAI lands an $11 billion funding round, but has to court dentists for more capital appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM</title>
 <link>https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83793</guid>
@@ -158,14 +174,6 @@
 <pubDate>Fri, 06 Nov 2026 22:15:59 +0000</pubDate>
 <source>github.blog</source>
 <description><![CDATA[【github.blog】Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model</title>
-<link>https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42519</guid>
-<pubDate>Fri, 06 Nov 2026 19:47:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. On other benchmarks, however, Ripple falls behind the likewise newly released western open model Inkling 2 Small. The article Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Hundreds of Artex AI hacking tools found publicly exposed to the web</title>
@@ -416,6 +424,14 @@
 <description><![CDATA[【techcrunch.com】With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.<br/><br/><a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
+<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Agents aren’t humans (but they kinda are)</title>
 <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
 <guid isPermaLink="false">01M6HXVSQY6XGPSH12AFMB81B9</guid>
@@ -464,28 +480,12 @@
 <description><![CDATA[【openai.com】Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.<br/><br/><a href="https://openai.com/index/introducing-gpt-6-cyber">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster</title>
-<link>https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83764</guid>
-<pubDate>Thu, 05 Nov 2026 08:02:58 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Merge builds product and business tools with OpenAI technology</title>
 <link>https://openai.com/index/merge-builds-with-openai</link>
 <guid isPermaLink="false">https://openai.com/index/merge-builds-with-openai</guid>
 <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.<br/><br/><a href="https://openai.com/index/merge-builds-with-openai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Setting a new standard for responsible AI infrastructure</title>
-<link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
-<guid isPermaLink="false">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
-<pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.<br/><br/><a href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

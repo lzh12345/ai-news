@@ -1,20 +1,4 @@
 {
-"https://techcrunch.com/?p=3170771": {
-"t": "The AI boom took over Climate Week and not everyone is happy about it",
-"s": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors."
-},
-"https://openai.com/index/how-we-will-do-better-for-australia": {
-"t": "How we will do better for Australia",
-"s": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
-},
-"https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
-"t": "Towards safety cases for frontier AI training",
-"s": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-},
-"https://techcrunch.com/?p=3171437": {
-"t": "AI-powered app maker Wabi pivots to a messaging experience",
-"s": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
-},
 "https://techcrunch.com/?p=3171209": {
 "t": "OpenAI launches Dots, its bubbly agentic avatar",
 "s": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
@@ -4798,5 +4782,21 @@
 "https://www.marktechpost.com/?p=83799": {
 "t": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
 "s": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at 65.60%. The post Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42607": {
+"t": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+"s": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42602": {
+"t": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+"s": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone \"fatally flawed\" and warn against granting rights to AI systems. The article The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42596": {
+"t": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+"s": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wave of startups is already betting on exactly this gap. The article The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83809": {
+"t": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+"s": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost."
 }
 }
