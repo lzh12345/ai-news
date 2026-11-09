@@ -5,7 +5,7 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 08 Nov 2026 23:19:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 03:50:59 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy</title>
@@ -432,14 +432,6 @@
 <description><![CDATA[【techcrunch.com】With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.<br/><br/><a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Agents aren’t humans (but they kinda are)</title>
 <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
 <guid isPermaLink="false">01M6HXVSQY6XGPSH12AFMB81B9</guid>
@@ -486,6 +478,14 @@
 <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.<br/><br/><a href="https://openai.com/index/merge-builds-with-openai">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Setting a new standard for responsible AI infrastructure</title>
+<link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
+<guid isPermaLink="false">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
+<pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.<br/><br/><a href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
