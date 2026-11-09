@@ -1,20 +1,4 @@
 {
-"https://techcrunch.com/?p=3171268": {
-"t": "OpenAI gives Codex reusable cloud environments that work across devices",
-"s": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
-},
-"https://techcrunch.com/?p=3171312": {
-"t": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-"s": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
-},
-"https://techcrunch.com/?p=3171292": {
-"t": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-"s": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
-},
-"https://the-decoder.com/?p=40811": {
-"t": "OpenAI launches always-on Dots agents to rival Meta's Muse",
-"s": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams. When no one is working with them, Dots look for ways to help in the background using read-only access. The article OpenAI launches always-on Dots agents to rival Meta's Muse appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=40835": {
 "t": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
 "s": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions. The Ultrafast premium tier promises up to eight times the speed at six times the price. The article OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast appeared first on The Decoder."
@@ -4798,5 +4782,21 @@
 "https://techcrunch.com/?p=3186128": {
 "t": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
 "s": "In a memo to the company, Huang admitted that he had an affair."
+},
+"https://the-decoder.com/?p=42615": {
+"t": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
+"s": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an independent investigation. The affair weakens Huang's lobbying efforts against stricter AI chip export controls, with a newly elected Democratic Congress poised to ramp up scrutiny of AI chip smuggling to China and push for tighter restrictions. The article Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83825": {
+"t": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+"s": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test. The post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83822": {
+"t": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
+"s": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider. The post 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3186150": {
+"t": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+"s": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
 }
 }

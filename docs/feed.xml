@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 09 Nov 2026 03:50:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 12:22:23 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls</title>
+<link>https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42615</guid>
+<pubDate>Mon, 09 Nov 2026 11:38:43 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an independent investigation. The affair weakens Huang's lobbying efforts against stricter AI chip export controls, with a newly elected Democratic Congress poised to ramp up scrutiny of AI chip smuggling to China and push for tighter restrictions. The article Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents</title>
+<link>https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83825</guid>
+<pubDate>Mon, 09 Nov 2026 08:20:20 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test. The post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP</title>
+<link>https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83822</guid>
+<pubDate>Mon, 09 Nov 2026 07:55:18 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider. The post 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”</title>
+<link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3186150</guid>
+<pubDate>Mon, 09 Nov 2026 05:26:29 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.<br/><br/><a href="https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy</title>
 <link>https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/</link>
@@ -142,14 +174,6 @@
 <pubDate>Sat, 07 Nov 2026 12:32:45 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is "applied late, it is applied thin," the team writes. The article State propaganda in some Chinese AI models is only "a thin layer" that fine-tuning can strip away appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar</title>
-<link>https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42532</guid>
-<pubDate>Sat, 07 Nov 2026 11:13:42 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】The "Into the Unknown" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards. The article Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM</title>
@@ -328,14 +352,6 @@
 <description><![CDATA[【openai.com】OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.<br/><br/><a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second</title>
-<link>https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83772</guid>
-<pubDate>Thu, 05 Nov 2026 22:58:21 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Airbnb says it’s launching an AI travel agent in the first half of 2027</title>
 <link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3185656</guid>
@@ -358,14 +374,6 @@
 <pubDate>Thu, 05 Nov 2026 21:39:40 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters</title>
-<link>https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83769</guid>
-<pubDate>Thu, 05 Nov 2026 21:33:00 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. The post Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Inside GitHub’s new Git storage architecture</title>
@@ -424,12 +432,12 @@
 <description><![CDATA[【techcrunch.com】OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.<br/><br/><a href="https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Claude can now analyze your spending with its new Personal Finance tool</title>
-<link>https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185468</guid>
-<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.<br/><br/><a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">阅读原文</a>]]></description>
+<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
+<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Agents aren’t humans (but they kinda are)</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.<br/><br/><a href="https://openai.com/index/merge-builds-with-openai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Setting a new standard for responsible AI infrastructure</title>
-<link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
-<guid isPermaLink="false">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
-<pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.<br/><br/><a href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
