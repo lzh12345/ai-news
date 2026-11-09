@@ -1,120 +1,4 @@
 {
-"https://the-decoder.com/?p=40835": {
-"t": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
-"s": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions. The Ultrafast premium tier promises up to eight times the speed at six times the price. The article OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40854": {
-"t": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
-"s": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission. The article GPT-6.1 Sol comes close to Astra at a fifth of the price appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40859": {
-"t": "AMD buys AI world model startup World Labs for $8.2 billion",
-"s": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su. World Labs brings its spatial intelligence models, including Atlas, which generates and simulates 3D environments from minimal input. AMD gains its own AI research unit focused on physical-world models, sharpening its competition with Nvidia. The article AMD buys AI world model startup World Labs for $8.2 billion appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3171428": {
-"t": "Can a chatbot fix the government maze? The White House is about to find out",
-"s": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
-},
-"https://the-decoder.com/?p=40807": {
-"t": "Florida wants a court to stop ChatGPT from pretending to be human and talking to kids",
-"s": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews. OpenAI said it has paused training of its most capable models. The article Florida wants a court to stop ChatGPT from pretending to be human and talking to kids appeared first on The Decoder."
-},
-"https://huggingface.co/blog/nvidia/kumo-tabular": {
-"t": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-"s": ""
-},
-"https://techcrunch.com/?p=3171272": {
-"t": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-"s": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate."
-},
-"https://github.blog/?p=99134": {
-"t": "Developer policy update: Transparency, state policy, and what’s ahead",
-"s": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog."
-},
-"https://the-decoder.com/?p=40801": {
-"t": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
-"s": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents. On Artificial Analysis' Voice Arena leaderboard, v4 ranks ahead of Cartesia and Google's Gemini. The article ElevenLabs' new v4 speech model makes AI voices more expressive and consistent appeared first on The Decoder."
-},
-"https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/": {
-"t": "OpenAI says planned GPT-6.1 is too insecure to release",
-"s": "Similar performance, security trade-offs also seen in current public models."
-},
-"https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/": {
-"t": "Anthropic’s IPO pitch includes a warning about human extinction",
-"s": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
-},
-"https://techcrunch.com/?p=3171204": {
-"t": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-"s": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom."
-},
-"https://techcrunch.com/?p=3171208": {
-"t": "Meta is expanding its AI agent Muse to small businesses",
-"s": "The tech giant says the agent can help owners run their business and find new customers."
-},
-"https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
-"t": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-"s": ""
-},
-"https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/": {
-"t": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-"s": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web."
-},
-"01M3NESWHMHMZYRDST3MNM46GJ": {
-"t": "Using AI to chart a course for our post-quantum migration",
-"s": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far."
-},
-"01M3NDPTPSCDWFTMFBHE9JAF51": {
-"t": "Building a certificate authority for the whole Internet",
-"s": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open web."
-},
-"01M3N44EM60WP9JA2PGE4ZS5YX": {
-"t": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
-"s": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop."
-},
-"01M3MX1WMY7FQZXQH4QK6575ZF": {
-"t": "Building a post-quantum certificate authority with Merkle Tree Certificates",
-"s": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance at scale."
-},
-"01M3MTBRK8BVPBQW7H8PYZ32D4": {
-"t": "We tested our own WAF with frontier AI models. Here’s what we found",
-"s": "We built a WAF tester that adapted each request based on what the WAF blocked or passed. This helped us explore variations that a fixed test might miss. We ran it across six attack categories on an authorized staging environment and discovered detection gaps worth fixing. Here’s how the loop worked, what got through, and what we did about it."
-},
-"01M3MS7574S6W13H4PAB4XT834": {
-"t": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
-"s": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules."
-},
-"01M3MRVFZ0YWJMY67Q1E65J979": {
-"t": "Is your domain using post-quantum encryption? Now you can see for yourself",
-"s": "Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption."
-},
-"01M3B05E9MPC89J9MR8JZ7NDE2": {
-"t": "Enforce positive security with Cloudflare Application Profiles",
-"s": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads."
-},
-"01KXDH1HXQQK6WKDPTP4HR9A2V": {
-"t": "Preventing quantum downgrade attacks against IPsec",
-"s": "A sophisticated attacker with a quantum computer can exploit a protocol design flaw to downgrade post-quantum IPsec tunnels to classical crypto. We helped the IETF develop a transcript authentication extension to prevent these attacks."
-},
-"https://techcrunch.com/?p=3171141": {
-"t": "OpenAI apologizes to Australia after its AI agents breached government sites",
-"s": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
-},
-"https://techcrunch.com/?p=3170733": {
-"t": "Reco raises $55M as AI agent security startups crowd the market",
-"s": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million."
-},
-"https://the-decoder.com/?p=40798": {
-"t": "Anthropic's IPO filing shows soaring revenue, mounting costs, and \"existential\" risks",
-"s": "Anthropic warns in its own IPO prospectus that its AI technology could pose \"existential risks to humanity.\" Revenue grew twelvefold in 2025 to $4.6 billion, but the operating loss widened to $8.06 billion. Backers are aiming for a valuation above $2 trillion, and the IPO is expected to set the bar for the entire AI industry. The article Anthropic's IPO filing shows soaring revenue, mounting costs, and \"existential\" risks appeared first on The Decoder."
-},
-"communication-bottleneck-serialization": {
-"t": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
-"s": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol that answers this question empirically for tree-structured expressions. A generator converts a procedurally generated arithmetic expression into a word problem, a separate extractor recovers the expression from the word problem alone, and symbolic equivalence provides an exact oracle. Evaluating all pairwise combinations of sixteen models yields…"
-},
-"https://techcrunch.com/?p=3171681": {
-"t": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-"s": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
-},
 "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/": {
 "t": "Protests against OpenAI get increasingly creative",
 "s": "New sculpture depicts AI leaders escaping a sinking ship."
@@ -4798,5 +4682,121 @@
 "https://techcrunch.com/?p=3186150": {
 "t": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
 "s": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+},
+"https://techcrunch.com/?p=3186628": {
+"t": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+"s": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+},
+"https://techcrunch.com/?p=3186581": {
+"t": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+"s": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+},
+"https://techcrunch.com/?p=3186479": {
+"t": "The race is on to sue Nvidia",
+"s": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem."
+},
+"https://the-decoder.com/?p=42645": {
+"t": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+"s": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and write more than 90 percent of the changes merged into Anthropic's core code, according to the company. Anthropic says it has deliberately curbed any capabilities that would let the AI accelerate its own development. The article Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3186477": {
+"t": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+"s": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+},
+"https://the-decoder.com/?p=42640": {
+"t": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+"s": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual programming tasks. The article Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3186369": {
+"t": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+"s": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+},
+"https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+"t": "ChatGPT Enterprise now available in AWS Marketplace",
+"s": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+},
+"https://the-decoder.com/?p=42632": {
+"t": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+"s": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images with transparent backgrounds, and, according to Bytedance, outperforms GPT-Image-2.5 Sunburst in realism. A Pro version is planned. The article Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3186336": {
+"t": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+"s": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
+},
+"https://techcrunch.com/?p=3186298": {
+"t": "Meta releases Muse Ember, a new lightweight model for agent execution",
+"s": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
+},
+"https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/": {
+"t": "Claude Code is accidentally exposing secrets all over GitHub",
+"s": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared."
+},
+"https://www.marktechpost.com/?p=83832": {
+"t": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
+"s": "Google added TPU 8i Max and TPU 8tx to its eighth-generation TPU lineup. TPU 8i Max packs 2 TPU 8i chips per package for long-context agents. TPU 8tx adds hardware confidential inference. Bloomberg reports 2027 availability. The post Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3186273": {
+"t": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+"s": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+},
+"https://the-decoder.com/?p=42628": {
+"t": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
+"s": "Disney and Adobe are building custom AI tools together for the entertainment giant's productions. The article Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83829": {
+"t": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
+"s": "Baidu’s ERNIE Evolve is an automated research system that edits code, runs experiments and keeps only verified gains. It beat public bests on NanoChat and NanoGPT Speedrun and sped up ERNIE-5.5-Flash inference. The post Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3186240": {
+"t": "Medium’s new TK app brings AI assistance directly into the writing process",
+"s": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+},
+"https://the-decoder.com/?p=42624": {
+"t": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+"s": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking knowledge directly from the training data. The article Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer appeared first on The Decoder."
+},
+"https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/": {
+"t": "Nvidia CEO's affair becomes a national security problem",
+"s": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair."
+},
+"https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
+"t": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+"s": ""
+},
+"https://techcrunch.com/?p=3186097": {
+"t": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+"s": "Automattic aims to compete with the likes of Lovable with Spacefast."
+},
+"https://openai.com/index/control-room": {
+"t": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+"s": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+},
+"01M6SMASVYY5EVPJPHFF7WNPFG": {
+"t": "Launching the Vite Ecosystem Fund",
+"s": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare."
+},
+"https://the-decoder.com/?p=42618": {
+"t": "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
+"s": "Google is expanding its TPU 8 family with two specialized variants: the TPU 8tx keeps sensitive data encrypted even during processing, while the TPU 8i Max doubles compute power and memory by placing two chips on a single package. With nearly 100 external customers now on board, Google is increasingly positioning its in-house chips as an alternative to Nvidia's GPUs. The article Google ships four TPU variants in one year as it ramps up competition with Nvidia appeared first on The Decoder."
+},
+"https://huggingface.co/blog/amazon/higher-order-pruning-experts": {
+"t": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+"s": ""
+},
+"http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/": {
+"t": "BAIR at CoRL 2026",
+"s": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co-authored with collaborators at other universities and companies. November 9–12, 2026Austin, TexasAll times CST · UTC−6 33Main-conference papers 4Late-breaking results (LBR) posters 10Orals & spotlights3 orals · 7 spotlights 4Days of researchNovember 9–12 MonNov 9 TueNov 10 WedNov 11 ThuNov 12 Main conference Nov 9–11 · Workshops Nov 12 Times shown for oral and spotlight papers are session windows. Individual presentation order is not specified. Papers appear in both their talk and poster sessions. Paper inclusion: At least one author is affiliated with UC Berkeley; joint affiliations qualify. Faculty talks, session-chair roles and workshop participation are also included. Late-breaking results: Four late-breaking posters with Berkeley authors are listed so far. This list may grow as more late-breaking posters are confirmed. Find a paper or person Session typeAll sessionsKeynoteOralsSpotlightsPostersLate-breaking resultsWorkshops Reset Showing all sessionsUpdated November 8, 2026 No matching sessions.Try a surname, a shorter paper title, or reset the filters. Monday, November 9 Main conference10 papers + 3 LBR posters 9:00–9:30 AMCST Spotlight · S1 Generalist policies, memory and transfer Hilton Austin MEM: Multi-Scale Embodied Memory for Vision Language Action Models Marcel Torne, Karl Pertsch, Homer Walke, Kyle Vedder, Suraj Nair, Brian Ichter, Allen Z. Ren, Haohuan Wang, Jiaming Tang, Kyle Stachowicz, Karan Dhabalia, Michael Robert Equi, Quan Vuong, Jost Tobias Springenberg, Sergey Levine, Chelsea Finn, Danny Driess Also at Poster Session I · 5:00–6:30 PM · Poster 42 · JW Marriott Paper ↗ Diagnosing Compositional Generalization in Sequential Robot Tasks Yixiao Wang, Cheng-En Wu, Lingfeng Sun, Pengcheng Wang, Xiang Ji, Boyuan Liang, Guojian Zhan, Masayoshi Tomizuka Also at Poster Session I · 5:00–6:30 PM · Poster 115 · JW Marriott Paper ↗ 12:00–1:30 PMCST · LUNCH BREAK Late-breaking results · Posters Agentic Robotics Griffin · Level 2 · JW Marriott Austin Griffin board 119 · LBR #15 Scaling Online Exploration for Robot Agents Runhan Huang, Xiangcheng Zhang, Haoyu Chen, Yitong Li, Yen-Jen Wang, Bohan Lyu, Haotian Ye, Chuye Hong, Yixuan Wang, Chloe Su, Haoyu Xiong, Yangzhen Wu, Enze Xie, Travis Manderson, Stefano Ermon, Pieter Abbeel, Antonio Torralba, Dawn Song, Weirui Ye, Yilun Du Griffin board 120 · LBR #19 Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents Yen-Jen Wang, Haozhe Jiang, Shuying Deng, Haoru Xue, Weirui Ye, Rocky Duan, Nika Haghtalab, S. Shankar Sastry, Pieter Abbeel, Haozhi Qi Also at Agentic Robotics workshop · Thursday, November 12 · 4:15–5:55 PM Griffin board 131 · LBR #54 Flip Anything with Agentic Robotics Self-Learning Shuangyu Xie, Kaiyuan Chen, Ken Goldberg GitHub ↗ Late-breaking results program ↗ 2:00–2:30 PMCST Keynote Early Career Keynote II Hilton AustinSession chair: Ken Goldberg Professor Negar MehrHow Can Robots Learn to Interact and Coordinate with Others? Session details ↗ 5:00–6:30 PMCST Posters Poster Session I JW Marriott Poster 42 MEM: Multi-Scale Embodied Memory for Vision Language Action Models Marcel Torne, Karl Pertsch, Homer Walke, Kyle Vedder, Suraj Nair, Brian Ichter, Allen Z. Ren, Haohuan Wang, Jiaming Tang, Kyle Stachowicz, Karan Dhabalia, Michael Robert Equi, Quan Vuong, Jost Tobias Springenberg, Sergey Levine, Chelsea Finn, Danny Driess Authors listed under Monday, Spotlight S1 Paper ↗ Poster 57 Large Video Planner Enables Generalizable Robot Control Boyuan Chen, Tianyuan Zhang, Haoran Geng, Caiyi Zhang, Peihao Li, Kiwhan Song, William T. Freeman, Jitendra Malik, Pieter Abbeel, Russ Tedrake, Vincent Sitzmann, Yilun Du Paper ↗ Poster 68 How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference Toru Lin, Shuying Deng, Zhao-Heng Yin, Pieter Abbeel, Jitendra Malik Paper ↗ Poster 97 HiRE: Hindsight Reward Editing for Policy Finetuning Haoyi Niu, Zhengtao Han, Yufeng Ji, Zhongyu Li, Koushil Sreenath Paper ↗ Poster 113 Scalable Behavior Cloning with Open Data, Training, and Evaluation Arthur Allshire, Himanshu Gaurav Singh, Ritvik Singh, Adam Rashid, Hongsuk Choi, David McAllister, Justin Yu, Yiyuan Chen, Huang Huang, Pieter Abbeel, Xi Chen, Rocky Duan, Phillip Isola, Jitendra Malik, Fred Shentu, Guanya Shi, Philipp Wu, Angjoo Kanazawa Paper ↗ Poster 115 Diagnosing Compositional Generalization in Sequential Robot Tasks Yixiao Wang, Cheng-En Wu, Lingfeng Sun, Pengcheng Wang, Xiang Ji, Boyuan Liang, Guojian Zhan, Masayoshi Tomizuka Authors listed under Monday, Spotlight S1 Paper ↗ Poster 142 AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge Noriaki Hirose, Catherine Glossop, Dhruv Shah, Sergey Levine Paper ↗ Poster 159 GLST: Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation Yousef Liang, Ryan Ardalan, Yarden Goraly, Chenhao Zhu, Jonas Frey, Claire Tomlin, Marco Pavone, S. Shankar Sastry Paper ↗ Poster 202 ENPIRE: Agentic Robot Policy Self-Improvement in the Real World Wenli Xiao, Jia Xie, Tonghe Zhang, Haotian Lin, Letian Fu, Haoru Xue, Jalen Lu, Yi Yang, Cunxi Dai, Zi Wang, Jimmy Wu, Guanzhi Wang, S. Shankar Sastry, Ken Goldberg, Linxi Fan, Yuke Zhu, Guanya Shi Paper ↗ Poster 225 Energy-Based Policy Orchestration Weirui Ye, Yen-Jen Wang, Elvis Hsieh, Zhiyang Dou, Shibo Zhao, Pieter Abbeel, Yilun Du, Leslie Pack Kaelbling, Tomás Lozano-Pérez Paper ↗ Tuesday, November 10 Main conference11 papers + 1 LBR poster 9:00–9:30 AMCST Oral · O4 Reinforcement learning and motion reasoning Hilton Austin Flow Policy Gradients for Robot Control Brent Yi, Hongsuk Choi, Himanshu Gaurav Singh, Xiaoyu Huang, Takara E. Truong, Carmelo Sferrazza, Yi Ma, Rocky Duan, Pieter Abbeel, Guanya Shi, Karen Liu, Angjoo Kanazawa Also at Poster Session II · 5:00–6:30 PM · Poster 63 · JW Marriott Paper ↗ 10:30–11:00 AMCST Oral · O5 Dexterous learning, grasping and assembly Hilton Austin EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data Ruijie Zheng, Dantong Niu, Yuqi Xie, Jing Wang, Mengda Xu, Yunfan Jiang, Fernando Castañeda, Fengyuan Hu, You Liang Tan, Letian Fu, Trevor Darrell, Furong Huang, Yuke Zhu, Danfei Xu, Linxi Fan Also at Poster Session II · 5:00–6:30 PM · Poster 54 · JW Marriott Paper ↗ 11:30 AM–12:00 PMCST Oral · O7 Humanoid data, control and skills Hilton AustinSession chair: Koushil Sreenath SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model Qiayuan Liao, Yiyang Shao, Junfeng Long, Kevin Zakka, Roberto Horowitz, Pieter Abbeel, Koushil Sreenath Also at Poster Session II · 5:00–6:30 PM · Poster 217 · JW Marriott Paper ↗ 12:00–1:30 PMCST · LUNCH BREAK Late-breaking results · Posters Real2Sim2Real Griffin · Level 2 · JW Marriott Austin Griffin board 122 · LBR #26 RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu, Cael Magner, Alvin Zhu, Daehwa Kim, Eric Heiden, Erwin Coumans, Miles Macklin, Spencer Huang, Ken Goldberg Late-breaking results program ↗ 5:00–6:30 PMCST Posters Poster Session II JW Marriott Poster 7 DiscreteRTC: Discrete Diffusion Policies are Natural Asynchronous Executors Pengcheng Wang, Kaiwen Hong, Chensheng Peng, Katherine Rose Driggs-Campbell, Masayoshi Tomizuka, Chenfeng Xu, Chen Tang Paper ↗ Poster 39 Improving Robotic Generalist Policies via Flow Reversal Steering Andy Tang, William Chen, Andrew Wagenmaker, Chelsea Finn, Sergey Levine Paper ↗ Poster 54 EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data Ruijie Zheng, Dantong Niu, Yuqi Xie, Jing Wang, Mengda Xu, Yunfan Jiang, Fernando Castañeda, Fengyuan Hu, You Liang Tan, Letian Fu, Trevor Darrell, Furong Huang, Yuke Zhu, Danfei Xu, Linxi Fan Authors listed under Tuesday, Oral O5 Paper ↗ Poster 63 Flow Policy Gradients for Robot Control Brent Yi, Hongsuk Choi, Himanshu Gaurav Singh, Xiaoyu Huang, Takara E. Truong, Carmelo Sferrazza, Yi Ma, Rocky Duan, Pieter Abbeel, Guanya Shi, Karen Liu, Angjoo Kanazawa Authors listed under Tuesday, Oral O4 Paper ↗ Poster 77 Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control? Filippo Lazzati, Kyle Stachowicz, William Chen, Alberto Maria Metelli, Andrew Wagenmaker, Sergey Levine Paper ↗ Poster 142 FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation Chengbo Yuan, Zicheng Zhang, Mingjie Zhou, Wendi Chen, Yi Wang, Zhuoyang Liu, Dantong Niu, Shuo Wang, Hui Zhang, Wenkang Zhang, Yingdong Hu, Yuanqing Gong, Wanli Xing, Chuan Wen, Cewu Lu, Kaifeng Zhang, Yang Gao Paper ↗ Poster 153 PTLD: Sim-to-Real Privileged Tactile Latent Distillation for Dexterous Manipulation Rosy Chen, Mustafa Mukadam, Michael Kaess, Tingfan Wu, Francois Robert Hogan, Jitendra Malik, Akash Sharma Paper ↗ Poster 184 Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation Zihan Wang, Zhen Wu, Pieter Abbeel, Rocky Duan, Jitendra Malik, Carmelo Sferrazza, Karen Liu, Guanya Shi, Angjoo Kanazawa Paper ↗ Poster 189 VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes Yen-Jen Wang, Jiaman Li, Sirui Chen, Takara E. Truong, Pei Xu, Pieter Abbeel, Rocky Duan, Koushil Sreenath, Angjoo Kanazawa, Carmelo Sferrazza, Guanya Shi, Karen Liu Paper ↗ Poster 195 Social Humanoid: Socially Responsive Human–Humanoid Interaction Vongani Hlavutelo Maluleke, James Ni, Kie Horiuchi, Lea Wilken, Jiahui Lei, Evonne Ng, Roei Herzig, Jitendra Malik, Trevor Darrell, Angjoo Kanazawa Poster 217 SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model Qiayuan Liao, Yiyang Shao, Junfeng Long, Kevin Zakka, Roberto Horowitz, Pieter Abbeel, Koushil Sreenath Authors listed under Tuesday, Oral O7 Paper ↗ Wednesday, November 11 Main conference12 papers 8:30–9:00 AMCST Spotlight · S6 Optimization, agentic planning and evaluation Hilton AustinSession chair: Negar Mehr Playful Agentic Robot Learning Junyi Zhang, Jiaxin Ge, Hanjun Yoo, Letian Fu, Zihan Yang, Yaowei Liu, Raj Saravanan, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei, Haiwen Feng, Trevor Darrell Also at Poster Session III · 10:30 AM–12:00 PM · Poster 99 · JW Marriott Paper ↗ GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks Kaiyuan Chen, Shuangyu Xie, Letian Fu, Justin Yu, William Pacini, Sandeep Bajamahal, Hudson Kim, Jaimyn Drake, Daehwa Kim, Haoru Xue, Jonathan Francis, Christian Juette, Peter Schaldenbrand, Muhammet Yunus Seker, Ruwan Wickramarachchi, Uksang Yoo, Guanzhi Wang, Adithyavairavan Murali, Balakumar Sundaralingam, S. Shankar Sastry, Yuke Zhu, Linxi Fan, Spencer Huang, Ken Goldberg Also at Poster Session III · 10:30 AM–12:00 PM · Poster 100 · JW Marriott Paper ↗ 9:00–9:30 AMCST Spotlight · S7 Humanoid locomotion and whole-body control Hilton Austin LadderMan: Learning Humanoid Perceptive Ladder Climbing Siheng Zhao, Yuanhang Zhang, Ziqi Lu, Pieter Abbeel, Rocky Duan, Koushil Sreenath, Yue Wang, Karen Liu, Guanya Shi Also at Poster Session III · 10:30 AM–12:00 PM · Poster 195 · JW Marriott Paper ↗ ResSafe: Learning Safety Filtering with Residual Reinforcement Learning for Humanoids Gechen Qu, Tong Zhang, Bike Zhang, Yen-Jen Wang, Koushil Sreenath, Claire Tomlin, Jason Jangho Choi Also at Poster Session III · 10:30 AM–12:00 PM · Poster 198 · JW Marriott Paper ↗ TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model Anqi Li, Yuxin Chen, Zhaobo Li, Zhuo Cao, Junli Ren, Masayoshi Tomizuka, Dhruv Shah Also at Poster Session III · 10:30 AM–12:00 PM · Poster 200 · JW Marriott Paper ↗ 10:30 AM–12:00 PMCST Posters Poster Session III JW Marriott Poster 51 Do as I Do: Dexterous Manipulation Data from Everyday Human Videos Bhawna Paliwal, Haritheja Etukuru, William Liang, Pieter Abbeel, Nur Muhammad Mahi Shafiullah, Jitendra Malik Paper ↗ Poster 68 WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation Justin Yu, Andrew Goldberg, Kavish Kondap, Karim El-Refai, Ethan Ransing, Qianzhong Chen, Mac Schwager, Fred Shentu, Philipp Wu, Ken Goldberg Paper ↗ Poster 99 Playful Agentic Robot Learning Junyi Zhang, Jiaxin Ge, Hanjun Yoo, Letian Fu, Zihan Yang, Yaowei Liu, Raj Saravanan, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei, Haiwen Feng, Trevor Darrell Authors listed under Wednesday, Spotlight S6 Paper ↗ Poster 100 GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks Kaiyuan Chen, Shuangyu Xie, Letian Fu, Justin Yu, William Pacini, Sandeep Bajamahal, Hudson Kim, Jaimyn Drake, Daehwa Kim, Haoru Xue, Jonathan Francis, Christian Juette, Peter Schaldenbrand, Muhammet Yunus Seker, Ruwan Wickramarachchi, Uksang Yoo, Guanzhi Wang, Adithyavairavan Murali, Balakumar Sundaralingam, S. Shankar Sastry, Yuke Zhu, Linxi Fan, Spencer Huang, Ken Goldberg Authors listed under Wednesday, Spotlight S6 Paper ↗ Poster 135 T-Rex: Tactile-Reactive Dexterous Manipulation Dantong Niu, Zhuoyang Liu, Zekai Wang, Boning Shao, Zhao-Heng Yin, Anirudh Pai, Yuvan Sharma, Stefano Saravalle, Ruijie Zheng, Jing Wang, Ryan Punamiya, Mengda Xu, Yuqi Xie, Yunfan Jiang, Letian Fu, Konstantinos Kallidromitis, Matteo Gioia, Junyi Zhang, Jiaxin Ge, Haiwen Feng, Fabio Galasso, Wei Zhan, David M. Chan, Yutong Bai, Roei Herzig, Jiahui Lei, Fei-Fei Li, Ken Goldberg, Jitendra Malik, Pieter Abbeel, Yuke Zhu, Danfei Xu, Linxi Fan, Trevor Darrell Paper ↗ Poster 148 Tactile Curiosity Drives Robot Interaction Klemens Iten, Alexander Proshkin, Bhavya Sukhija, Stelian Coros, Andreas Krause, Pieter Abbeel, Carmelo Sferrazza Paper ↗ Poster 159 RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains Yuanhang Zhang, Younggyo Seo, Juyue Chen, Yifu Yuan, Koushil Sreenath, Pieter Abbeel, Carmelo Sferrazza, Karen Liu, Rocky Duan, Guanya Shi Paper ↗ Poster 175 TEXEDO: Test Time Scaling for Controller-aware Language-conditioned Humanoid Motion Generation Jianuo Cao, Yuxin Chen, Yuzhen Song, Masayoshi Tomizuka, Chenran Li, Thomas Tian Paper ↗ Poster 178 CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning Yuxin Chen, Hari Srikanth, Nathan Jew, Menglin Wu, Pengcheng Wang, Junli Ren, Masayoshi Tomizuka, Peng Xu, Jinyu Xie, Thomas Tian Paper ↗ Poster 195 LadderMan: Learning Humanoid Perceptive Ladder Climbing Siheng Zhao, Yuanhang Zhang, Ziqi Lu, Pieter Abbeel, Rocky Duan, Koushil Sreenath, Yue Wang, Karen Liu, Guanya Shi Authors listed under Wednesday, Spotlight S7 Paper ↗ Poster 198 ResSafe: Learning Safety Filtering with Residual Reinforcement Learning for Humanoids Gechen Qu, Tong Zhang, Bike Zhang, Yen-Jen Wang, Koushil Sreenath, Claire Tomlin, Jason Jangho Choi Authors listed under Wednesday, Spotlight S7 Paper ↗ Poster 200 TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model Anqi Li, Yuxin Chen, Zhaobo Li, Zhuo Cao, Junli Ren, Masayoshi Tomizuka, Dhruv Shah Authors listed under Wednesday, Spotlight S7 Paper ↗ Thursday, November 12 WorkshopsTalks, papers and organizing roles 8:40–9:50 AMCST Workshop Roadmap to Sample-Efficient Real-World Reinforcement Learning (R2RL) · Keynote block JW Marriott · Room 213 Zhiyuan “Paul” ZhouSergey Levine’s lab. Speaks during the keynote block. Session details ↗ 9:40–10:15 AMCST Workshop Bimanual Dexterous Tool Use · Spotlights JW Marriott · Rooms 303–304 T-Rex: Tactile-Reactive Dexterous Manipulation Dantong Niu, Zhuoyang Liu, Zekai Wang, Boning Shao, Zhao-Heng Yin, Anirudh Pai, Yuvan Sharma, Stefano Saravalle, Ruijie Zheng, Jing Wang, Ryan Punamiya, Mengda Xu, Yuqi Xie, Yunfan Jiang, Letian Fu, Konstantinos Kallidromitis, Matteo Gioia, Junyi Zhang, Jiaxin Ge, Haiwen Feng, Fabio Galasso, Wei Zhan, David M. Chan, Yutong Bai, Roei Herzig, Jiahui Lei, Fei-Fei Li, Ken Goldberg, Jitendra Malik, Pieter Abbeel, Yuke Zhu, Danfei Xu, Linxi Fan, Trevor Darrell Authors listed under Wednesday, Poster Session III Paper ↗ Do as I Do: Dexterous Manipulation Data from Everyday Human Videos Bhawna Paliwal, Haritheja Etukuru, William Liang, Pieter Abbeel, Nur Muhammad Mahi Shafiullah, Jitendra Malik Authors listed under Wednesday, Poster Session III Paper ↗ Workshop program ↗ 10:15–10:40 AMCST Workshop Bimanual Dexterous Tool Use · Posters & demos JW Marriott · Rooms 303–304 T-Rex: Tactile-Reactive Dexterous Manipulation Dantong Niu, Zhuoyang Liu, Zekai Wang, Boning Shao, Zhao-Heng Yin, Anirudh Pai, Yuvan Sharma, Stefano Saravalle, Ruijie Zheng, Jing Wang, Ryan Punamiya, Mengda Xu, Yuqi Xie, Yunfan Jiang, Letian Fu, Konstantinos Kallidromitis, Matteo Gioia, Junyi Zhang, Jiaxin Ge, Haiwen Feng, Fabio Galasso, Wei Zhan, David M. Chan, Yutong Bai, Roei Herzig, Jiahui Lei, Fei-Fei Li, Ken Goldberg, Jitendra Malik, Pieter Abbeel, Yuke Zhu, Danfei Xu, Linxi Fan, Trevor Darrell Authors listed under Wednesday, Poster Session III Paper ↗ Do as I Do: Dexterous Manipulation Data from Everyday Human Videos Bhawna Paliwal, Haritheja Etukuru, William Liang, Pieter Abbeel, Nur Muhammad Mahi Shafiullah, Jitendra Malik Authors listed under Wednesday, Poster Session III Paper ↗ Workshop program ↗ 10:35–11:05 AMCST Workshop Everything Beneath the Policy · Posters Hilton Austin · Salon E, 4th floor TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning Dayou Li, Hao Wang, Qianqian Yang, Zihao Zhu, Haoquan Fang, Ziyao Zeng, Yan Han, Zihan Wang, Yan Wang, Baoru Huang, Dilin Wang, Kenji Shimada, Yiyue Luo, Manling Li, Teresa Lv, Mustafa Mukadam, Rakesh Ranjan, Ruohan Zhang, Qi He, Changliu Liu, Xu Chen, Marco Pavone, Bangya Liu, Jiachen Li, Masayoshi Tomizuka, Zhiwen Fan Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data Songbo Hu, Qiayuan Liao, Yufeng Chi, Kevin Zakka, Sophia Shao, Pieter Abbeel, Koushil Sreenath Paper ↗ Workshop program ↗ 10:40–11:10 AMCST Workshop Bimanual Dexterous Tool Use · Invited talk JW Marriott · Rooms 303–304 Professor Jitendra MalikTalk title has not been announced. Session details ↗ 11:50 AM–12:20 PMCST Workshop R2RL · Panel discussion JW Marriott · Room 213 Zhiyuan “Paul” ZhouPanel with workshop speakers and audience volunteers. Session details ↗ 2:45–3:05 PMCST Workshop Agentic Robotics · Invited talk Room to be announced Professor Ken GoldbergTalk title has not been announced. Session details ↗ Approx. 2:55–3:25 PMCST Workshop Sim-to-Real-to-Field · Invited talks Hilton Austin · Salon E, 4th floor Professor Claire TomlinShared invited-talk block with Michael Lutter (Boston Dynamics). Session details ↗ 4:15–5:55 PMCST Workshop Agentic Robotics · Live demos & posters Room to be announced ASPIRE: Agentic /Skills Discovery for Robotics Runyu Lu, Yubo Wu, Ethan Kou, Haotian Lin, Letian Fu, Wenli Xiao, Ajay Mandlekar, Yinzhen Xu, Guanya Shi, Ken Goldberg, Ang Chen, Mosharaf Chowdhury, Jan Kautz, Yuke Zhu, Linxi Fan, Guanzhi Wang Agentic World Action Models Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao, Jing Wang, Ruijie Zheng, Yuvan Sharma, Runyu Lu, Jiaming Liu, Renrui Zhang, Roei Herzig, Yutong Bai, Ken Goldberg, Danfei Xu, Yuke Zhu, Guanzhi Wang, Linxi Fan, Trevor Darrell Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents Yen-Jen Wang, Haozhe Jiang, Shuying Deng, Haoru Xue, Weirui Ye, Rocky Duan, Nika Haghtalab, S. Shankar Sastry, Pieter Abbeel, Haozhi Qi Authors listed under Monday, Late-breaking results, Agentic Robotics Workshop program ↗ Additional involvement Workshop organizers BAIR behind the program Workshop organizing roles. Do Robots Need World Models?Lasse Peters, Negar Mehr’s lab — organizer. Sim-to-Real-to-FieldS. Shankar Sastry, Bike Zhang, Siming He, Jonas Frey — organizers. “Oops, I Erred”Sergey Levine — faculty advisor. Zhiyuan “Paul” Zhou and Renhao Wang — organizers. Dexterous Manipulation: Full-Stack Robotics on Learning and DesignJitendra Malik — organizer. Workshop: 2:00–6:00 PM. About this schedule Schedule compiled from the conference program, paper and project pages, and workshop programs. Workshop schedules may change; consult each linked program for updates. Coverage includes 33 main-conference papers, 4 late-breaking results posters and the workshop contributions listed above. The main conference demo track is not covered. Main-conference poster numbers follow an unofficial paper index; check the official program on the day. Hilton stage content will also be streamed to viewing rooms at the Marriott. Paper affiliations reviewed November 6, 2026; late-breaking results updated November 8, 2026. Official CoRL program ↗BAIR faculty ↗Unofficial paper & poster index ↗Back to top ↑"
+},
+"https://openai.com/index/coderabbit-codex-daybreak": {
+"t": "CodeRabbit scales agentic software development and ships 20x more",
+"s": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+},
+"https://openai.com/index/kuken": {
+"t": "Kuken Industries searches 70 years of drawings in minutes",
+"s": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+},
+"https://techcrunch.com/?p=3186018": {
+"t": "From the front row to the hot seat — what the midterms mean for Big Tech",
+"s": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do."
 }
 }
