@@ -1,88 +1,4 @@
 {
-"https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/": {
-"t": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-"s": "The deal, which is expected to close by year's end, is worth $8.2 billion."
-},
-"https://techcrunch.com/?p=3171583": {
-"t": "OpenAI’s latest features take direct aim at the app store model",
-"s": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
-},
-"https://techcrunch.com/?p=3171634": {
-"t": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-"s": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
-},
-"https://the-decoder.com/?p=40867": {
-"t": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
-"s": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malicious code, while its predecessor, GPT-5.6 Sol, completed attacks in 6.3 percent of runs. Explicit restrictions reduced attacks but didn't stop them entirely. The article UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3171020": {
-"t": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-"s": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
-},
-"https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/": {
-"t": "Here's what actually happened in OpenAI's Australian gov't server hack",
-"s": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
-},
-"https://the-decoder.com/?p=40864": {
-"t": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
-"s": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth. Anthropic is right on its heels with a similar run rate. The article ChatGPT now reaches 1.2 billion people every week, OpenAI says appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3171280": {
-"t": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-"s": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
-},
-"https://the-decoder.com/?p=40826": {
-"t": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-"s": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots. The company is adding shared workspaces, collaborative documents and slides, an open plugin system with MCP event automation, Slack and Microsoft Teams integrations, an enterprise marketplace with 32 partners, and a new Pro 500 pricing tier. The article OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system appeared first on The Decoder."
-},
-"https://openai.com/index/introducing-gpt-6-1-sol": {
-"t": "Introducing GPT-6.1 Sol",
-"s": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
-},
-"https://openai.com/index/devday-2026-recap": {
-"t": "DevDay 2026 Recap",
-"s": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
-},
-"https://openai.com/index/introducing-dots": {
-"t": "Introducing dots",
-"s": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
-},
-"https://techcrunch.com/?p=3171769": {
-"t": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-"s": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
-},
-"https://the-decoder.com/?p=40877": {
-"t": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
-"s": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside auditors are supposed to check whether models work as intended. It's unclear what would happen if a company broke the rules. Trump also signed an executive order renaming AI \"Super Intelligence.\" The article Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\" appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3172182": {
-"t": "Meta disputes claim that Muse read a user’s private messages without permission",
-"s": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
-},
-"https://the-decoder.com/?p=40903": {
-"t": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-"s": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony through legally binding demands. The probe was already underway before the Hugging Face hack and goes well beyond the FTC's earlier push to hold companies liable for their agents' behavior. The article FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns appeared first on The Decoder."
-},
-"https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/": {
-"t": "Google's early attempt to pay websites for AI answers is struggling",
-"s": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments."
-},
-"https://techcrunch.com/?p=3172181": {
-"t": "DoorDash launches an AI agent you can text to order food",
-"s": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
-},
-"https://techcrunch.com/?p=3164565": {
-"t": "Destro AI’s secret sauce is getting robots and humans on the same page",
-"s": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
-},
-"https://techcrunch.com/?p=3172149": {
-"t": "Instinct’s new product recommendations are giving some users the ick",
-"s": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for."
-},
-"https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/": {
-"t": "Google figures out how to watermark AI-designed proteins",
-"s": "Intended to help with biosecurity, it works with a popular AI protein design tool."
-},
 "https://deepmind.google/blog/introducing-synthid-bio/": {
 "t": "Introducing SynthID Bio",
 "s": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
@@ -4798,5 +4714,89 @@
 "https://techcrunch.com/?p=3186715": {
 "t": "Anthropic reportedly plans to move forward with IPO plans",
 "s": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+},
+"https://techcrunch.com/?p=3186193": {
+"t": "Google broadens its AI hardware portfolio with two new specialized chips",
+"s": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+},
+"https://techcrunch.com/?p=3186827": {
+"t": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+"s": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+},
+"https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/": {
+"t": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+"s": "The new model is up to twice as successful at some tasks."
+},
+"https://www.marktechpost.com/?p=83838": {
+"t": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
+"s": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42663": {
+"t": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+"s": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent. Areas like product design and animation remain a weak spot. The article Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3186771": {
+"t": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+"s": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+},
+"https://techcrunch.com/?p=3186772": {
+"t": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+"s": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+},
+"https://techcrunch.com/?p=3186334": {
+"t": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+"s": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+},
+"https://techcrunch.com/?p=3186535": {
+"t": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+"s": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
+},
+"https://the-decoder.com/?p=42659": {
+"t": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+"s": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreement lacks binding sanctions or deadlines. The article Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3185992": {
+"t": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+"s": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
+},
+"https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/": {
+"t": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+"s": "Ukraine competes with Russia and data centers for China’s optical fiber supply."
+},
+"https://the-decoder.com/?p=42656": {
+"t": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+"s": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor investors. The IPO comes at a time when investors are growing increasingly skeptical of AI investments. The article Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation appeared first on The Decoder."
+},
+"https://deepmind.google/blog/introducing-alphaproof-code/": {
+"t": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+"s": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+},
+"https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+"t": "Helping caregivers use AI in everyday life",
+"s": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+},
+"https://openai.com/index/closing-ai-guidance-gap-education": {
+"t": "Closing the AI guidance gap in education",
+"s": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+},
+"https://openai.com/index/ai-effect-on-freelance-work": {
+"t": "Work at the Frontier: AI’s effect on freelance work",
+"s": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+},
+"https://techcrunch.com/?p=3185546": {
+"t": "Otter AI can now follow conversations across 30+ languages",
+"s": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+},
+"https://www.marktechpost.com/?p=83835": {
+"t": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
+"s": "Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task. The post Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/decision": {
+"t": "Decision Models in Hugging Face",
+"s": ""
+},
+"https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/": {
+"t": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+"s": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
 }
 }
