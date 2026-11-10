@@ -1,84 +1,4 @@
 {
-"https://deepmind.google/blog/introducing-synthid-bio/": {
-"t": "Introducing SynthID Bio",
-"s": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-},
-"https://the-decoder.com/?p=40896": {
-"t": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
-"s": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler programming model than Nvidia's CUDA. The partnership targets the biggest obstacle for China's AI industry, which is software that gets the most out of domestic chips. The article China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3171828": {
-"t": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-"s": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits."
-},
-"https://techcrunch.com/?p=3172103": {
-"t": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-"s": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight."
-},
-"https://techcrunch.com/?p=3171595": {
-"t": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-"s": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders."
-},
-"https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/": {
-"t": "OpenAI delays IPO over AI safety concerns",
-"s": "OpenAI is seeking another $30 billion privately as its IPO plans slip."
-},
-"01M3RVQ97H21055GVJRNRSNH97": {
-"t": "Cloudflare Impact reaches $100 million in donations",
-"s": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being protected from cyberattacks."
-},
-"01M3QZKAM72WCF4RKVH06BKQYZ": {
-"t": "Cut your AI spend with AI Gateway's Auto Router",
-"s": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut AI spend while maintaining performance."
-},
-"01M3QYT7CXBGJWT89M2NJE3DPH": {
-"t": "Detect and send production issues straight to your agent",
-"s": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request."
-},
-"01M3QWRKWVNFA0DF9FYY3RTFKV": {
-"t": "Simplifying domains for people and agents",
-"s": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains."
-},
-"01M3QKBTCVGSPDD7VHVA777Q74": {
-"t": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
-"s": "Cloudflare’s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta."
-},
-"01M3Q8WH85THBJED6145W6NR6Y": {
-"t": "Pay Per Use: when AI uses your work, you should get paid",
-"s": "Pay Per Use is now in beta. AI companies report when they use publishers’ content, and Cloudflare handles billing, payouts, and reporting, so our customers are paid according to use."
-},
-"01M3AZ7A42599J7AVPSGKJKD04": {
-"t": "Identify AI model overuse with User Insights",
-"s": "AI Gateway User Insights now adds task, model, turn, and user categories to help teams understand AI adoption and make better model decisions. This is available free to AI Gateway users."
-},
-"01M3RXHW8HAZ70SW0D1ANC4CVT": {
-"t": "Cloudflare Containers, rebuilt to scale agent sandboxes",
-"s": "Cloudflare Containers now start 6x faster, let your agent choose each sandbox's image and instance type at runtime, and support filesystem snapshots in public beta, all controlled from a Durable Object."
-},
-"01M3Q403X7R4RSZ8DY9C27CPWB": {
-"t": "The Internet has a second audience",
-"s": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access."
-},
-"https://techcrunch.com/?p=3171925": {
-"t": "Airbnb adds AI search, more social features",
-"s": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
-},
-"https://the-decoder.com/?p=40887": {
-"t": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
-"s": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome attack for just $20.40 at Zhipu's API prices. The model's safeguards are easy to strip out, and unlocked versions are already circulating. Anthropic has its own reasons to sound the alarm, but the US agency CAISI backs up the findings. The article Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40883": {
-"t": "Google is paying almost no publishers almost nothing for content used in AI answers",
-"s": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months to more than $1 million a year. Some participants don't know how Google calculates payments, while some larger publishers are holding out for higher rates. The article Google is paying almost no publishers almost nothing for content used in AI answers appeared first on The Decoder."
-},
-"https://openai.com/index/helping-small-businesses-put-ai-to-work": {
-"t": "Helping small businesses put AI to work",
-"s": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
-},
-"https://huggingface.co/blog/open-tts-leaderboard": {
-"t": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-"s": ""
-},
 "effectiveness-fluency-llm-conditioning": {
 "t": "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study",
 "s": "Controlling the output of Large Language Models (LLMs) is a central challenge for their reliable deployment, yet a clear understanding of the involved trade-offs remains elusive. Current approaches to conditioning are often evaluated with a narrow focus on their effectiveness at injecting or removing a target concept, neglecting generation quality. We systematically investigate a range of conditioning methods in both injection and removal scenarios. We find that efficient steering methods frequently achieve conditioning at a steep cost to fluency. Furthermore, we identify a critical yet…"
@@ -4798,5 +4718,85 @@
 "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/": {
 "t": "Gemini Robotics 2.5 accelerates real-world general dexterity",
 "s": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
+},
+"https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": {
+"t": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+"s": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
+},
+"https://techcrunch.com/?p=3187116": {
+"t": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+"s": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+},
+"https://techcrunch.com/?p=3187145": {
+"t": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+"s": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+},
+"https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/": {
+"t": "What happens to mathematics when AI becomes an oracle?",
+"s": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World."
+},
+"https://the-decoder.com/?p=42692": {
+"t": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+"s": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers talk to customers directly inside ChatGPT. The article OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3187028": {
+"t": "All 7 Anthropic founders will each cash out about $250M in IPO",
+"s": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+},
+"https://the-decoder.com/?p=42688": {
+"t": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+"s": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a central work platform for teams that brings many other apps together in one place. The article Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3187050": {
+"t": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+"s": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+},
+"https://techcrunch.com/?p=3186906": {
+"t": "PSI is trying to make a business out of AI-driven scientific discovery",
+"s": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+},
+"https://techcrunch.com/?p=3186632": {
+"t": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+"s": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+},
+"https://the-decoder.com/?p=42680": {
+"t": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+"s": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42673": {
+"t": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+"s": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" feature, which split up complex tasks in real time. The article Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet appeared first on The Decoder."
+},
+"https://github.blog/?p=100077": {
+"t": "Git security vulnerabilities announced",
+"s": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3186876": {
+"t": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+"s": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
+},
+"https://the-decoder.com/?p=42668": {
+"t": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+"s": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent. The article Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3186475": {
+"t": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+"s": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+},
+"https://www.marktechpost.com/?p=83841": {
+"t": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
+"s": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in the browser The post Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3186635": {
+"t": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+"s": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses."
+},
+"https://openai.com/index/introducing-businesses-chatgpt": {
+"t": "Introducing Businesses in ChatGPT",
+"s": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+},
+"https://huggingface.co/blog/hub-gcp-marketplace": {
+"t": "Pay for Hugging Face Hub with your Google Cloud Account",
+"s": ""
 }
 }
