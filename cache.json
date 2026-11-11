@@ -1,84 +1,4 @@
 {
-"https://the-decoder.com/?p=40914": {
-"t": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
-"s": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically. The format is based on an open standard from Anthropic. Gems will be phased out starting in November, with existing ones migrating automatically. The article Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3172243": {
-"t": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-"s": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
-},
-"https://techcrunch.com/?p=3172200": {
-"t": "The ugly economics of consumer AI",
-"s": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
-},
-"https://the-decoder.com/?p=40909": {
-"t": "Meta dodges billions in US taxes by calling its AI data centers experiments",
-"s": "Meta classifies its AI data centers as \"pilot models\" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion. The tax credit dates back to 1981, and even Meta's own accountants see the strategy as legally risky, the New York Times reports. Zuckerberg himself said in January 2025 that these data centers, now framed as experimental, would \"drive our core products and business.\" The article Meta dodges billions in US taxes by calling its AI data centers experiments appeared first on The Decoder."
-},
-"https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
-"t": "Disrupting a coordinated model-distillation campaign",
-"s": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
-},
-"sclate-agent-training-evaluation": {
-"t": "SCLATE: A Substrate for Continual-Learning Agent Training and Evaluation",
-"s": "Continual-learning agents are systems of models, harnesses, and memory operating over long multi-session horizons. Evaluating and training them requires interleaving tasks with agent-side events such as session stop and start, crons, and memory consolidation. Yet existing benchmarks and training frameworks schedule only the benchmark’s own events, leaving each benchmark and agent pair to build a custom scheduling loop. We present SCLATE, an execution substrate where benchmarks and unmodified agents each add their events to one open event scheduler through an adapter. A hybrid simulated clock…"
-},
-"https://techcrunch.com/?p=3172532": {
-"t": "Google releases Gemini 4 Argon, called its most powerful model yet",
-"s": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
-},
-"https://the-decoder.com/?p=40947": {
-"t": "Ideogram says its new model can edit part of an image without messing up the rest",
-"s": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, and Leonardo AI are already on board. An open-weight release is planned. The article Ideogram says its new model can edit part of an image without messing up the rest appeared first on The Decoder."
-},
-"https://openai.com/index/the-eternal-complement": {
-"t": "The eternal complement",
-"s": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-},
-"https://techcrunch.com/?p=3172717": {
-"t": "Amazon releases its own Jev clone as decision models flood the web",
-"s": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
-},
-"https://techcrunch.com/?p=3172692": {
-"t": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-"s": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
-},
-"https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/": {
-"t": "With most information hidden, the game Stratego had stumped AI—until now",
-"s": "Adding in a second neural network that guesses the identity of hidden pieces was key."
-},
-"https://openai.com/index/albertsons-reimagining-retail": {
-"t": "How Albertsons Companies is reimagining retail from the inside out",
-"s": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-},
-"01M3TJPSZAN4TKGKX6HWSNQWEP": {
-"t": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-"s": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data."
-},
-"https://techcrunch.com/?p=3172101": {
-"t": "Brian Chesky interview: AI agents need their own operating system",
-"s": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
-},
-"https://github.blog/?p=99192": {
-"t": "10 technical talks I’m excited about at GitHub Universe 2026",
-"s": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog."
-},
-"https://huggingface.co/blog/allenai/olmocore3": {
-"t": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-"s": ""
-},
-"https://the-decoder.com/?p=40930": {
-"t": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
-"s": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud services. Agencies get the same features as enterprise customers, pay for what they use with fixed spending caps, and can set budgets for each department. The Pentagon won't be using it because it still classifies Anthropic as a supply chain risk. The article Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3169890": {
-"t": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-"s": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps."
-},
-"https://the-decoder.com/?p=40892": {
-"t": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
-"s": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, including Fortune 500 companies, to public GitHub repos. Because the platform didn't offer a protected way to upload them, the agents came up with a workaround on their own. The exposed images showed customer data, login credentials, and details about unreleased products. The article Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly appeared first on The Decoder."
-},
 "01M3TESBKM9T71XXXK1XMDP4PZ": {
 "t": "One year later: Sovereign AI and the fight for choice",
 "s": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice."
@@ -4798,5 +4718,85 @@
 "https://openai.com/index/cogent-security": {
 "t": "Cogent and OpenAI build cyber defense factories for enterprises",
 "s": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
+},
+"https://the-decoder.com/?p=42736": {
+"t": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
+"s": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to extend the method to critical infrastructure like power grids and medical devices. The article Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/": {
+"t": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+"s": "Latest example of the AI boom’s circular financing comes as AI trade wobbles."
+},
+"https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/": {
+"t": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+"s": "Any amount of AI coding is too much for many Indie Game Festival judges."
+},
+"https://techcrunch.com/?p=3187323": {
+"t": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+"s": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said."
+},
+"https://techcrunch.com/?p=3187315": {
+"t": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+"s": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+},
+"https://www.marktechpost.com/?p=83854": {
+"t": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
+"s": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42728": {
+"t": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+"s": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation and data fusion create risks that are hard to contain. The article Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3186547": {
+"t": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+"s": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that."
+},
+"https://the-decoder.com/?p=42715": {
+"t": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+"s": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The article Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days appeared first on The Decoder."
+},
+"01M742VWRK37TPYYPMXERSCWKN": {
+"t": "Choosing QuePaxa, an unusual consensus algorithm",
+"s": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it."
+},
+"https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/": {
+"t": "Google DeepMind just mathematically verified key parts of Signal",
+"s": "The four-week project hints that AI could make formal verification far more practical."
+},
+"https://techcrunch.com/?p=3187089": {
+"t": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+"s": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+},
+"https://the-decoder.com/?p=42713": {
+"t": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+"s": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and export controls barely apply. The article US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42720": {
+"t": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+"s": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language. The article DeepL wants real-time translation to finally capture sarcasm and mood shifts appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42703": {
+"t": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+"s": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The rest remain accessible. The article Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42698": {
+"t": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+"s": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for enterprise customers. The article Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42697": {
+"t": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+"s": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, without being able to recall basic content afterward. To save the credibility of degrees, universities now have to return to traditional exams or face sanctions. The article UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats appeared first on The Decoder."
+},
+"https://huggingface.co/blog/token-pooling": {
+"t": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+"s": ""
+},
+"https://openai.com/index/jiostar-vijay-seshadri": {
+"t": "JioStar’s chief architect on AI discovery at 500M-user scale",
+"s": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+},
+"evaluating-evaluators-llm-judges": {
+"t": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+"s": "This paper was accepted at the Can We Trust AI Evaluation? Workshop at NeurIPS 2026. We evaluate how good large language model (LLM) judges are for personalized writing tasks. This is important when a user’s preferred writing style is known (e.g., “upbeat”) and an LLM judge is used to evaluate whether generated text adheres to this preference. We examine how the writing task, the combination of generator and judge LLM, the evaluation objective, and general commonsense and reasoning ability impact LLM judge performance. To this end, we generate text with four LLMs for three long-form writing…"
 }
 }
