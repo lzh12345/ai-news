@@ -1,20 +1,4 @@
 {
-"effectiveness-fluency-llm-conditioning": {
-"t": "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study",
-"s": "Controlling the output of Large Language Models (LLMs) is a central challenge for their reliable deployment, yet a clear understanding of the involved trade-offs remains elusive. Current approaches to conditioning are often evaluated with a narrow focus on their effectiveness at injecting or removing a target concept, neglecting generation quality. We systematically investigate a range of conditioning methods in both injection and removal scenarios. We find that efficient steering methods frequently achieve conditioning at a steep cost to fluency. Furthermore, we identify a critical yet…"
-},
-"https://the-decoder.com/?p=40922": {
-"t": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
-"s": "Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select testers get access first, with the API and paid tiers following later. The article Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3172428": {
-"t": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-"s": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
-},
-"https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/": {
-"t": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-"s": "So much for Gemini 3.5 Pro."
-},
 "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
 "t": "Gemini 4 Argon: our next era of frontier intelligence",
 "s": ""
@@ -4797,6 +4781,22 @@
 },
 "https://huggingface.co/blog/hub-gcp-marketplace": {
 "t": "Pay for Hugging Face Hub with your Google Cloud Account",
+"s": ""
+},
+"https://openai.com/index/gilbert-tobin-sam-nickless": {
+"t": "Gilbert + Tobin rethinks the business of law with AI",
+"s": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+},
+"https://www.marktechpost.com/?p=83844": {
+"t": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+"s": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters. The post Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs appeared first on MarkTechPost."
+},
+"https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/": {
+"t": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+"s": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
+},
+"https://deepmind.google/blog/gemini-4-carbon-is-now-available/": {
+"t": "Gemini 4 Carbon is now available",
 "s": ""
 }
 }
