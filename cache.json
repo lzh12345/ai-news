@@ -1,32 +1,4 @@
 {
-"https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
-"t": "Gemini 4 Argon: our next era of frontier intelligence",
-"s": ""
-},
-"https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/": {
-"t": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-"s": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy."
-},
-"https://the-decoder.com/?p=40918": {
-"t": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
-"s": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on its own. Early tests with semiconductor customers are already underway. OpenAI is likely using the partnership to advance its own chip development as well. The article OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3172187": {
-"t": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-"s": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
-},
-"https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/": {
-"t": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-"s": "Trump gets dozens of AI firms to agree to voluntary safety tests."
-},
-"https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/": {
-"t": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-"s": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says."
-},
-"https://techcrunch.com/?p=3172305": {
-"t": "AI voice startup ElevenLabs doubles valuation to $22B",
-"s": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
-},
 "https://the-decoder.com/?p=40914": {
 "t": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
 "s": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically. The format is based on an open standard from Anthropic. Gems will be phased out starting in November, with existing ones migrating automatically. The article Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats appeared first on The Decoder."
@@ -4798,5 +4770,33 @@
 "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": {
 "t": "Gemini 4 Carbon is now available",
 "s": ""
+},
+"https://openai.com/index/chatgpt-plus-for-veterans": {
+"t": "ChatGPT Plus for veterans and servicemembers",
+"s": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+},
+"https://www.marktechpost.com/?p=83850": {
+"t": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+"s": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3187258": {
+"t": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+"s": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+},
+"https://huggingface.co/blog/qvac/botpsy": {
+"t": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+"s": ""
+},
+"https://www.marktechpost.com/?p=83847": {
+"t": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
+"s": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared first on MarkTechPost."
+},
+"https://openai.com/index/singapore-airlines-travel-work": {
+"t": "Singapore Airlines elevates travel & work with OpenAI technology",
+"s": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+},
+"https://openai.com/index/cogent-security": {
+"t": "Cogent and OpenAI build cyber defense factories for enterprises",
+"s": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
 }
 }
