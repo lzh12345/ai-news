@@ -1,108 +1,4 @@
 {
-"https://techcrunch.com/?p=3172737": {
-"t": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-"s": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
-},
-"https://the-decoder.com/?p=40952": {
-"t": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
-"s": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of participants believed Griffin was a real person after a one-minute call. Previous systems maxed out at two percent. The article Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3172744": {
-"t": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-"s": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
-},
-"https://openai.com/index/the-den-family-social": {
-"t": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-"s": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-},
-"https://the-decoder.com/?p=40967": {
-"t": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
-"s": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40962": {
-"t": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
-"s": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40956": {
-"t": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-"s": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are coming in the next few weeks. The article Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone appeared first on The Decoder."
-},
-"https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
-"t": "AutoSynthData: Generating Training Data for Enterprise Agents",
-"s": ""
-},
-"https://techcrunch.com/?p=3172764": {
-"t": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-"s": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test dummies\" to solve that."
-},
-"https://openai.com/index/practical-guide-building-gpt-6": {
-"t": "A model guide for the GPT-6 family",
-"s": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-},
-"01M3XKBJCTDTMBBCNNHA141F04": {
-"t": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-"s": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine."
-},
-"https://techcrunch.com/?p=3173199": {
-"t": "Pope Leo XIV is not a fan of AI-generated art",
-"s": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\""
-},
-"https://huggingface.co/blog/allenai/astabrief": {
-"t": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-"s": ""
-},
-"https://techcrunch.com/?p=3173109": {
-"t": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-"s": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
-},
-"https://github.blog/?p=99170": {
-"t": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-"s": "Learn three skills to strengthen as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog."
-},
-"https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/": {
-"t": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-"s": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99."
-},
-"https://techcrunch.com/?p=3173061": {
-"t": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-"s": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
-},
-"https://techcrunch.com/?p=3173088": {
-"t": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-"s": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?"
-},
-"01M3XM9KVCRB6JKE07Q88EPGD2": {
-"t": "Introducing Web Search API via AI Gateway",
-"s": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings."
-},
-"01M3XHCB64KZ1NTN3N83GY590B": {
-"t": "8 major updates to Cloudflare Observability",
-"s": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing."
-},
-"01M3XE7G2V6JJXPKX92B1D4080": {
-"t": "Introducing Cloudflare Traces: follow requests through our entire platform",
-"s": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack."
-},
-"01M3XD0M307DCDJ5QYA2RFTW87": {
-"t": "Updates on our pledge to make Cloudflare features accessible to everyone",
-"s": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next."
-},
-"01M3WRXHGNF2ZH02N0GWY6FHVV": {
-"t": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
-"s": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products."
-},
-"01M3WNK9KTV3615MEM25RN3E4H": {
-"t": "Follow the thread: a new dashboard to investigate account abuse",
-"s": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse."
-},
-"01M3WEQR3N79CDBSMHD5V067HA": {
-"t": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
-"s": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side."
-},
-"01M3W899F5N6P98MYP180WJMS4": {
-"t": "Building for good: How civil society organizations are automating on Cloudflare",
-"s": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare."
-},
 "01M3T5GMDCTRDCS7CFJSMSJ2TS": {
 "t": "2026 Birthday week: network performance update",
 "s": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy."
@@ -4798,5 +4694,109 @@
 "https://openai.com/index/children-first-declaration": {
 "t": "Supporting research on AI and children’s safety",
 "s": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+},
+"https://techcrunch.com/?p=3188050": {
+"t": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+"s": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
+},
+"https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/": {
+"t": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+"s": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon."
+},
+"https://techcrunch.com/?p=3187494": {
+"t": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+"s": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+},
+"https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
+"t": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+"s": ""
+},
+"https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/": {
+"t": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+"s": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”"
+},
+"https://techcrunch.com/?p=3188037": {
+"t": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+"s": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
+},
+"https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
+"t": "Introducing Gemini 4 Hydrogen",
+"s": ""
+},
+"https://techcrunch.com/?p=3187922": {
+"t": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+"s": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
+},
+"https://www.marktechpost.com/?p=83871": {
+"t": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
+"s": "AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch. The post AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3187972": {
+"t": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+"s": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
+},
+"https://techcrunch.com/?p=3187955": {
+"t": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+"s": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
+},
+"https://techcrunch.com/?p=3185934": {
+"t": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+"s": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos."
+},
+"https://the-decoder.com/?p=42773": {
+"t": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+"s": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of transparency is not a law of nature but also reflects tradeoffs around capability and cost. The article OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3187911": {
+"t": "Jensen Huang agrees to testify before Congress",
+"s": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him."
+},
+"https://techcrunch.com/?p=3187523": {
+"t": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+"s": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways."
+},
+"https://techcrunch.com/?p=3187860": {
+"t": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+"s": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
+},
+"https://techcrunch.com/?p=3187797": {
+"t": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+"s": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
+},
+"https://techcrunch.com/?p=3187651": {
+"t": "Norwest pushes deeper into AI with new $4B fund",
+"s": "This is the investment firm's largest fund to date."
+},
+"https://techcrunch.com/?p=3187828": {
+"t": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+"s": "This is Fireworks' second data breach in as many months."
+},
+"https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/": {
+"t": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+"s": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker."
+},
+"https://the-decoder.com/?p=42770": {
+"t": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
+"s": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026. The article Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42763": {
+"t": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+"s": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge roughly half the price. The article ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3187646": {
+"t": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+"s": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S."
+},
+"https://the-decoder.com/?p=42756": {
+"t": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+"s": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available for noncommercial research through an API and is set to be integrated into Google's agentic platform Antigravity. The article Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2 appeared first on The Decoder."
+},
+"https://huggingface.co/blog/3d-lora-finetuning": {
+"t": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+"s": ""
+},
+"theoretical-limits-alignment": {
+"t": "Theoretical Limits of Language Model Alignment",
+"s": "Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learning, which maximizes the expected reward under a KL-divergence constraint, and (ii) best-of-NNN alignment, which selects the highest-reward output among NNN independent samples. Despite their widespread use, the fundamental limits of reward improvement under a KL budget remain poorly understood. We characterize the information-theoretic limits of KL-regularized alignment by deriving the maximum…"
 }
 }
