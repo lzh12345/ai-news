@@ -1,56 +1,4 @@
 {
-"01M3TESBKM9T71XXXK1XMDP4PZ": {
-"t": "One year later: Sovereign AI and the fight for choice",
-"s": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice."
-},
-"https://techcrunch.com/?p=3172360": {
-"t": "Hearing tech startup Legato launches its AI hearing glasses",
-"s": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids."
-},
-"01M3VEGEH98DJT6FTGDT1MHP5M": {
-"t": "Introducing Workers KV Instant — powered by Quicksilver",
-"s": "Workers KV Instant delivers sub-2ms p99 read latencies and 250ms global replication across Cloudflare’s 300+ edge locations. KV Instant eliminates cold-read penalties and uses the familiar Workers KV API."
-},
-"01M3T6X21KEDC6DH8GGSGV13HR": {
-"t": "Cloudflare OS: your company’s agent workspace, managed for you",
-"s": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We’re opening the waitlist for fully managed deployments that you’ll be able to launch in a few clicks."
-},
-"01M3SXWQS68A0MY0GS33S6DJQJ": {
-"t": "Announcing Cloudflare K2: serverless event streams",
-"s": "Cloudflare K2 is a serverless event streaming service built directly on top of R2 object storage for high-scale data movement and long-term retention. By decoupling producers and consumers at the edge, K2 enables durable, ordered log streams without the operational overhead of traditional broker clusters."
-},
-"01M3SQCB0ZE7ZPK6M13HGY41T3": {
-"t": "We want you to build the next Git platform on Cloudflare",
-"s": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes."
-},
-"01M3SPF7C022M529Q6GGNRYHHJ": {
-"t": "AI Search is now generally available",
-"s": "AI Search is now generally available. It embeds image pixels directly for visual search, runs optical character recognition on scanned PDFs, accepts files up to 10 MiB, and works with any chat model. Here's what's new and how pricing works."
-},
-"01KYQH5JZFJAX4F7Z4J5171FGK": {
-"t": "Support for modern cryptographic algorithms in Workers",
-"s": "Cloudflare Workers is adding opt-in support for post-quantum-resistant algorithms ML-KEM and ML-DSA. You can try it today."
-},
-"https://the-decoder.com/?p=40935": {
-"t": "AI beats Stratego's greatest player, ending one of the last human strongholds in board games",
-"s": "The AI system Ataraxos has decisively beaten the best Stratego player of all time. The board game is a tough test for AI because both sides set up their pieces face down. Google Deepmind fell short in 2023 despite a multimillion-dollar budget. Researchers from Carnegie Mellon, NYU, Stanford, and MIT built Ataraxos for less than $8,000. The article AI beats Stratego's greatest player, ending one of the last human strongholds in board games appeared first on The Decoder."
-},
-"01M3TBHQBCAF29FWFHNMHF9J6E": {
-"t": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
-"s": "Cloudflare Basin is built on Apache Iceberg and R2 Object Storage. With general availability, developers can ingest, manage, and query large datasets at scale without paying data egress fees."
-},
-"https://the-decoder.com/?p=40934": {
-"t": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
-"s": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI. But researchers found that the same attack kept working on Microsoft Azure for weeks, even against the new GPT-6 Astra. So far, OpenAI's protections don't seem to extend to the cloud platforms that also sell its models. The article OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3172378": {
-"t": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-"s": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach."
-},
-"harness-autonomous-ml-engineering": {
-"t": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
-"s": "Recent autonomous machine learning engineering (MLE) agents have made significant progress on public leaderboards. Often motivated by progress stagnation over long-horizon cycles and limited Large Language Model (LLM) primitives, modern MLE agents are deployed on top of increasingly elaborate machinery: multi-agent orchestrators, dedicated retrieval subagents, and more. While such harnesses expand, the use of more primitive but improved coding agents—where LLMs have direct access to the execution environment through read, write, and bash primitives—has received little attention in the field…"
-},
 "rltl-dr-self-improvement": {
 "t": "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback",
 "s": "The common paradigm of reinforcement learning with verifiable rewards (RLVR) is to let agents make multiple attempts at a task, and optimize towards the successful ones. This becomes problematic in the realms of self-improvement, where tasks are so difficult that the agent has a low or even no chance of success, and where there are no teacher models or example solutions to distill from. In this paper, we introduce RLTL;DR. After each failed attempt, we show the policy the verifier outputs and let it write its own feedback, in the form of a single TL;DR insight. The next rollout is conditioned…"
@@ -4798,5 +4746,57 @@
 "evaluating-evaluators-llm-judges": {
 "t": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
 "s": "This paper was accepted at the Can We Trust AI Evaluation? Workshop at NeurIPS 2026. We evaluate how good large language model (LLM) judges are for personalized writing tasks. This is important when a user’s preferred writing style is known (e.g., “upbeat”) and an LLM judge is used to evaluate whether generated text adheres to this preference. We examine how the writing task, the combination of generator and judge LLM, the evaluation objective, and general commonsense and reasoning ability impact LLM judge performance. To this end, we generate text with four LLMs for three long-form writing…"
+},
+"https://techcrunch.com/?p=3187556": {
+"t": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+"s": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+},
+"https://techcrunch.com/?p=3187540": {
+"t": "Jensen Huang accused of having another affair — with an Nvidia exec",
+"s": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
+},
+"https://www.marktechpost.com/?p=83861": {
+"t": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+"s": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83858": {
+"t": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects",
+"s": "Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?post_type=tc_video&p=3187347": {
+"t": "Why the data center you dread might never even be built",
+"s": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]"
+},
+"https://the-decoder.com/?p=42746": {
+"t": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+"s": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3187471": {
+"t": "Meta is losing its longtime head of infrastructure",
+"s": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3187346": {
+"t": "How backlash and red tape continue to slow data centers post-Blue Wave",
+"s": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]"
+},
+"https://techcrunch.com/?p=3187437": {
+"t": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+"s": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
+},
+"https://the-decoder.com/?p=42742": {
+"t": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+"s": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business that has fueled spending so far. The article US corporate AI spending hits a new high in October, but growth slows to 1.65 percent appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3187339": {
+"t": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+"s": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+},
+"https://techcrunch.com/?p=3187469": {
+"t": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+"s": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
+},
+"https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/": {
+"t": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+"s": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
 }
 }
