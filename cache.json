@@ -1,24 +1,4 @@
 {
-"rltl-dr-self-improvement": {
-"t": "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback",
-"s": "The common paradigm of reinforcement learning with verifiable rewards (RLVR) is to let agents make multiple attempts at a task, and optimize towards the successful ones. This becomes problematic in the realms of self-improvement, where tasks are so difficult that the agent has a low or even no chance of success, and where there are no teacher models or example solutions to distill from. In this paper, we introduce RLTL;DR. After each failed attempt, we show the policy the verifier outputs and let it write its own feedback, in the form of a single TL;DR insight. The next rollout is conditioned…"
-},
-"https://techcrunch.com/?p=3172859": {
-"t": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-"s": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
-},
-"https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/": {
-"t": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-"s": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
-},
-"https://techcrunch.com/?p=3172830": {
-"t": "ChatGPT can now virtually try on clothes for you",
-"s": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
-},
-"https://techcrunch.com/?p=3172746": {
-"t": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-"s": "Google launched its first advanced chip into orbit to pave the way for space data centers."
-},
 "https://techcrunch.com/?p=3172737": {
 "t": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
 "s": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
@@ -4798,5 +4778,25 @@
 "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/": {
 "t": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
 "s": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+},
+"https://the-decoder.com/?p=42731": {
+"t": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+"s": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations. With this move, Canberra is deliberately prioritizing domestic regulation before entering international talks. The article Australia's proposed AI safety bill would force frontier model makers to open up to independent testing appeared first on The Decoder."
+},
+"https://openai.com/business/customer-stories/holidays-extras-codex": {
+"t": "Holiday Extras is rethinking what it can build with Codex",
+"s": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+},
+"https://www.marktechpost.com/?p=83866": {
+"t": "IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits",
+"s": "IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 2027, while Nighthawk r2 already posts up to 19x speedups over Heron. The post IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3187615": {
+"t": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+"s": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
+},
+"https://openai.com/index/children-first-declaration": {
+"t": "Supporting research on AI and children’s safety",
+"s": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
 }
 }
