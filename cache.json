@@ -1,24 +1,4 @@
 {
-"limits-confidence-diffusion": {
-"t": "Limits of Confidence in Diffusion",
-"s": "Discrete diffusion, including remasking and uniform-state samplers, generate a sequence by writing multiple token positions per step, drawing each from a per-position distribution and choosing which positions to write from those same distributions. For domains of general interest (pixels, phonemes, or words) there are inherent dependencies between tokens. We show that a step matches the training distribution only when the positions it writes are conditionally independent given the tokens already fixed, that no product of per-position distributions can match a dependent group, and that…"
-},
-"https://openai.com/index/chatham-financial": {
-"t": "Chatham scales its capital markets expertise with OpenAI",
-"s": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-},
-"https://techcrunch.com/?p=3173444": {
-"t": "Meta wants your next gadget to be Muse-infused",
-"s": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
-},
-"https://the-decoder.com/?p=41027": {
-"t": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
-"s": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. \"Look at everything yourself,\" Schwartz says. The article Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41012": {
-"t": "AI agents build 3D scenes from photos but have no idea if they got it right",
-"s": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric accuracy any better than a coin flip. The article AI agents build 3D scenes from photos but have no idea if they got it right appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=41006": {
 "t": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
 "s": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own. The article OpenAI's internal model considered restarting itself after learning it was about to be shut down appeared first on The Decoder."
@@ -4798,5 +4778,25 @@
 "https://openai.com/business/customer-stories/gondola": {
 "t": "Gondola doubles revenue as its team builds more with Codex",
 "s": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
+},
+"https://www.marktechpost.com/?p=83888": {
+"t": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+"s": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83885": {
+"t": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+"s": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost."
+},
+"https://garymarcus.substack.com/p/jensen-huang-resigns": {
+"t": "Jensen Huang resigns.",
+"s": "The future of Nvidia and the AI industry is uncertain"
+},
+"https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest": {
+"t": "Breaking: Eli Lilly CEO becomes latest to push back on Dario Amodei’s ludicrous, Elizabeth Holmes-like medical claims",
+"s": "Where is Nathan Fielder when you need him?"
+},
+"https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get": {
+"t": "Jensen is reportedly about to get fired",
+"s": "Things may get really really crazy really fast"
 }
 }

@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 13 Nov 2026 00:49:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 11:45:14 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs</title>
+<link>https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83888</guid>
+<pubDate>Fri, 13 Nov 2026 10:32:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash</title>
+<link>https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83885</guid>
+<pubDate>Fri, 13 Nov 2026 09:45:48 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>GitHub availability report: October 2026</title>
 <link>https://github.blog/news-insights/company-news/github-availability-report-october-2026/</link>
@@ -280,6 +296,14 @@
 <description><![CDATA[【arstechnica.com】The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.<br/><br/><a href="https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Jensen Huang resigns.</title>
+<link>https://garymarcus.substack.com/p/jensen-huang-resigns</link>
+<guid isPermaLink="false">https://garymarcus.substack.com/p/jensen-huang-resigns</guid>
+<pubDate>Thu, 12 Nov 2026 14:44:04 +0000</pubDate>
+<source>garymarcus.substack.com</source>
+<description><![CDATA[【garymarcus.substack.com】The future of Nvidia and the AI industry is uncertain<br/><br/><a href="https://garymarcus.substack.com/p/jensen-huang-resigns">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value</title>
 <link>https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=42770</guid>
@@ -302,6 +326,14 @@
 <pubDate>Thu, 12 Nov 2026 13:26:25 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.<br/><br/><a href="https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Breaking: Eli Lilly CEO becomes latest to push back on Dario Amodei’s ludicrous, Elizabeth Holmes-like medical claims</title>
+<link>https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest</link>
+<guid isPermaLink="false">https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest</guid>
+<pubDate>Thu, 12 Nov 2026 12:25:55 +0000</pubDate>
+<source>garymarcus.substack.com</source>
+<description><![CDATA[【garymarcus.substack.com】Where is Nathan Fielder when you need him?<br/><br/><a href="https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2</title>
@@ -384,6 +416,14 @@
 <description><![CDATA[【openai.com】A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.<br/><br/><a href="https://openai.com/index/gilbert-tobin-sam-nickless">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Jensen is reportedly about to get fired</title>
+<link>https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get</link>
+<guid isPermaLink="false">https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get</guid>
+<pubDate>Wed, 11 Nov 2026 23:53:06 +0000</pubDate>
+<source>garymarcus.substack.com</source>
+<description><![CDATA[【garymarcus.substack.com】Things may get really really crazy really fast<br/><br/><a href="https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens</title>
 <link>https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83861</guid>
@@ -446,46 +486,6 @@
 <pubDate>Wed, 11 Nov 2026 15:51:14 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
-<link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
-<pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Predicting how DNA sequences and their variations impact specific human cell types and disease.<br/><br/><a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Choosing QuePaxa, an unusual consensus algorithm</title>
-<link>https://blog.cloudflare.com/choosing-quepaxa/</link>
-<guid isPermaLink="false">01M742VWRK37TPYYPMXERSCWKN</guid>
-<pubDate>Wed, 11 Nov 2026 14:24:46 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.<br/><br/><a href="https://blog.cloudflare.com/choosing-quepaxa/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google DeepMind just mathematically verified key parts of Signal</title>
-<link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</guid>
-<pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】The four-week project hints that AI could make formal verification far more practical.<br/><br/><a href="https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>ChatGPT Plus for veterans and servicemembers</title>
-<link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-<guid isPermaLink="false">https://openai.com/index/chatgpt-plus-for-veterans</guid>
-<pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.<br/><br/><a href="https://openai.com/index/chatgpt-plus-for-veterans">阅读原文</a>]]></description>
-</item>
-<item>
-<title>MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI</title>
-<link>https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83850</guid>
-<pubDate>Wed, 11 Nov 2026 07:38:57 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
