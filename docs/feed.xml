@@ -5,8 +5,120 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 12 Nov 2026 19:44:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 00:49:09 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>GitHub availability report: October 2026</title>
+<link>https://github.blog/news-insights/company-news/github-availability-report-october-2026/</link>
+<guid isPermaLink="false">https://github.blog/?p=100130</guid>
+<pubDate>Fri, 13 Nov 2026 00:20:16 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/news-insights/company-news/github-availability-report-october-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Build once, run on any agent: A practical guide to agent skills</title>
+<link>https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/</link>
+<guid isPermaLink="false">https://github.blog/?p=100122</guid>
+<pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
+<source>github.blog</source>
+<description><![CDATA[【github.blog】Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec</title>
+<link>https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83882</guid>
+<pubDate>Thu, 12 Nov 2026 22:43:26 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</title>
+<link>https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188108</guid>
+<pubDate>Thu, 12 Nov 2026 22:42:51 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.<br/><br/><a href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
+<link>https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</guid>
+<pubDate>Thu, 12 Nov 2026 22:28:47 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.<br/><br/><a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Muse can now place calls to US businesses — if you pay</title>
+<link>https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188128</guid>
+<pubDate>Thu, 12 Nov 2026 22:22:28 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Muse's AI can now place outbound calls to U.S. businesses — but it's not free.<br/><br/><a href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance</title>
+<link>https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83874</guid>
+<pubDate>Thu, 12 Nov 2026 21:45:36 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail. The post CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline</title>
+<link>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3186475</guid>
+<pubDate>Thu, 12 Nov 2026 21:35:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.<br/><br/><a href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nebius tests the neocloud playbook with $40 billion in planned spending</title>
+<link>https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188119</guid>
+<pubDate>Thu, 12 Nov 2026 21:27:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.<br/><br/><a href="https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Claude Meetings lets Anthropic's AI join your video calls</title>
+<link>https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42793</guid>
+<pubDate>Thu, 12 Nov 2026 20:26:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic's AI join your video calls appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Jensen Huang was having a third affair, Reuters reports</title>
+<link>https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188106</guid>
+<pubDate>Thu, 12 Nov 2026 20:26:47 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.<br/><br/><a href="https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+<link>https://openai.com/business/customer-stories/amplitude</link>
+<guid isPermaLink="false">https://openai.com/business/customer-stories/amplitude</guid>
+<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.<br/><br/><a href="https://openai.com/business/customer-stories/amplitude">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Ars Live: What drone attacks on data centers mean for modern life in the cloud</title>
+<link>https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/</link>
+<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/</guid>
+<pubDate>Thu, 12 Nov 2026 19:59:59 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.<br/><br/><a href="https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch</title>
+<link>https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42781</guid>
+<pubDate>Thu, 12 Nov 2026 19:58:43 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding. The article Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google’s latest Search upgrade promises better answers to your most complicated questions</title>
 <link>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/</link>
@@ -168,14 +280,6 @@
 <description><![CDATA[【arstechnica.com】The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.<br/><br/><a href="https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline</title>
-<link>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3186475</guid>
-<pubDate>Thu, 12 Nov 2026 14:30:01 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.<br/><br/><a href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value</title>
 <link>https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=42770</guid>
@@ -206,6 +310,14 @@
 <pubDate>Thu, 12 Nov 2026 12:09:43 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available for noncommercial research through an API and is set to be integrated into Google's agentic platform Antigravity. The article Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2 appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gondola doubles revenue as its team builds more with Codex</title>
+<link>https://openai.com/business/customer-stories/gondola</link>
+<guid isPermaLink="false">https://openai.com/business/customer-stories/gondola</guid>
+<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.<br/><br/><a href="https://openai.com/business/customer-stories/gondola">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Australia's proposed AI safety bill would force frontier model makers to open up to independent testing</title>
@@ -272,22 +384,6 @@
 <description><![CDATA[【openai.com】A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.<br/><br/><a href="https://openai.com/index/gilbert-tobin-sam-nickless">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</title>
-<link>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3187556</guid>
-<pubDate>Wed, 11 Nov 2026 23:28:45 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.<br/><br/><a href="https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Jensen Huang accused of having another affair — with an Nvidia exec</title>
-<link>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3187540</guid>
-<pubDate>Wed, 11 Nov 2026 23:17:05 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.<br/><br/><a href="https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens</title>
 <link>https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83861</guid>
@@ -304,28 +400,12 @@
 <description><![CDATA[【marktechpost.com】Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Why the data center you dread might never even be built</title>
-<link>https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/</link>
-<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3187347</guid>
-<pubDate>Wed, 11 Nov 2026 20:15:15 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]<br/><br/><a href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass</title>
 <link>https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=42746</guid>
 <pubDate>Wed, 11 Nov 2026 20:12:46 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta is losing its longtime head of infrastructure</title>
-<link>https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3187471</guid>
-<pubDate>Wed, 11 Nov 2026 20:12:01 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.<br/><br/><a href="https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>US corporate AI spending hits a new high in October, but growth slows to 1.65 percent</title>
@@ -368,28 +448,12 @@
 <description><![CDATA[【marktechpost.com】Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name</title>
-<link>https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42728</guid>
-<pubDate>Wed, 11 Nov 2026 15:12:53 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation and data fusion create risks that are hard to contain. The article Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
 <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
 <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
 <source>deepmind.google</source>
 <description><![CDATA[【deepmind.google】Predicting how DNA sequences and their variations impact specific human cell types and disease.<br/><br/><a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days</title>
-<link>https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42715</guid>
-<pubDate>Wed, 11 Nov 2026 14:25:20 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The article Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Choosing QuePaxa, an unusual consensus algorithm</title>
@@ -422,70 +486,6 @@
 <pubDate>Wed, 11 Nov 2026 07:38:57 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-<link>https://huggingface.co/blog/qvac/botpsy</link>
-<guid isPermaLink="false">https://huggingface.co/blog/qvac/botpsy</guid>
-<pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/qvac/botpsy">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms</title>
-<link>https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83847</guid>
-<pubDate>Wed, 11 Nov 2026 04:43:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
-<link>https://huggingface.co/blog/token-pooling</link>
-<guid isPermaLink="false">https://huggingface.co/blog/token-pooling</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/token-pooling">阅读原文</a>]]></description>
-</item>
-<item>
-<title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
-<link>https://openai.com/index/jiostar-vijay-seshadri</link>
-<guid isPermaLink="false">https://openai.com/index/jiostar-vijay-seshadri</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.<br/><br/><a href="https://openai.com/index/jiostar-vijay-seshadri">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs</title>
-<link>https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83844</guid>
-<pubDate>Tue, 10 Nov 2026 23:20:19 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters. The post Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</title>
-<link>https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/</guid>
-<pubDate>Tue, 10 Nov 2026 22:35:01 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.<br/><br/><a href="https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</title>
-<link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
-<guid isPermaLink="false">https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</guid>
-<pubDate>Tue, 10 Nov 2026 21:12:59 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.<br/><br/><a href="https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>What happens to mathematics when AI becomes an oracle?</title>
-<link>https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/</link>
-<guid isPermaLink="false">https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/</guid>
-<pubDate>Tue, 10 Nov 2026 20:30:01 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.<br/><br/><a href="https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

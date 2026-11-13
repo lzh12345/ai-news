@@ -1,60 +1,4 @@
 {
-"01M3T5GMDCTRDCS7CFJSMSJ2TS": {
-"t": "2026 Birthday week: network performance update",
-"s": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy."
-},
-"https://the-decoder.com/?p=40980": {
-"t": "Three firings and a fourth departure shake up OpenAI's safety team",
-"s": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure shake up OpenAI's safety team appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40971": {
-"t": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
-"s": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchmark, though, no model fully completes all the tasks. Without human oversight, AI still can't close the books on its own. The article AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision appeared first on The Decoder."
-},
-"language-discrimination-multilingual-learning": {
-"t": "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models",
-"s": "Multilingual self-supervised speech models can benefit from sharing information across languages, but under a matched total pretraining data budget they still fall short of monolingual models. We show that strengthening the model’s ability to discriminate languages during pretraining reduces and, on some measures, closes this multilingual gap on continuous phonetic and higher-level linguistic measures, while preserving substantial cross-language sharing. Using a controlled English/French HuBERT setting, we test two interventions which strengthen language discrimination: an auxiliary language…"
-},
-"https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": {
-"t": "Apple changes full-disk access permissions to curb abuse from AI agents",
-"s": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
-},
-"https://techcrunch.com/?p=3173395": {
-"t": "Sean Parker is rebuilding Stability AI around music",
-"s": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
-},
-"https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/": {
-"t": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-"s": "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
-},
-"https://the-decoder.com/?p=40997": {
-"t": "AI music generator Suno can now create spoken audio with matching background music",
-"s": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories. Suno hasn't said how the model was trained. The article AI music generator Suno can now create spoken audio with matching background music appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40990": {
-"t": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
-"s": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic is pushing toward a $2 trillion valuation and an IPO while security incidents and researcher warnings pile up. Critics warn that treating AI as a moral entity could shield the company from liability when things go wrong. The article Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\" appeared first on The Decoder."
-},
-"https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
-"t": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-"s": "Nvidia’s chip-smuggling problem won’t go away as arrests continue."
-},
-"https://the-decoder.com/?p=40983": {
-"t": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
-"s": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev. Both models are built on Qwen, licensed under Apache 2.0, and designed to let AI agents make structured decisions without generating text. The article Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3173313": {
-"t": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-"s": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3173316": {
-"t": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-"s": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]"
-},
-"https://techcrunch.com/?post_type=tc_video&p=3173314": {
-"t": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-"s": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]"
-},
 "limits-confidence-diffusion": {
 "t": "Limits of Confidence in Diffusion",
 "s": "Discrete diffusion, including remasking and uniform-state samplers, generate a sequence by writing multiple token positions per step, drawing each from a per-position distribution and choosing which positions to write from those same distributions. For domains of general interest (pixels, phonemes, or words) there are inherent dependencies between tokens. We show that a step matches the training distribution only when the positions it writes are conditionally independent given the tokens already fixed, that no product of per-position distributions can match a dependent group, and that…"
@@ -4798,5 +4742,61 @@
 "theoretical-limits-alignment": {
 "t": "Theoretical Limits of Language Model Alignment",
 "s": "Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learning, which maximizes the expected reward under a KL-divergence constraint, and (ii) best-of-NNN alignment, which selects the highest-reward output among NNN independent samples. Despite their widespread use, the fundamental limits of reward improvement under a KL budget remain poorly understood. We characterize the information-theoretic limits of KL-regularized alignment by deriving the maximum…"
+},
+"https://github.blog/?p=100130": {
+"t": "GitHub availability report: October 2026",
+"s": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog."
+},
+"https://github.blog/?p=100122": {
+"t": "Build once, run on any agent: A practical guide to agent skills",
+"s": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog."
+},
+"https://www.marktechpost.com/?p=83882": {
+"t": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+"s": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3188108": {
+"t": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+"s": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+},
+"https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/": {
+"t": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+"s": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
+},
+"https://techcrunch.com/?p=3188128": {
+"t": "Muse can now place calls to US businesses — if you pay",
+"s": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
+},
+"https://www.marktechpost.com/?p=83874": {
+"t": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+"s": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail. The post CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3188119": {
+"t": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+"s": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
+},
+"https://the-decoder.com/?p=42793": {
+"t": "Claude Meetings lets Anthropic's AI join your video calls",
+"s": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic's AI join your video calls appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188106": {
+"t": "Jensen Huang was having a third affair, Reuters reports",
+"s": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+},
+"https://openai.com/business/customer-stories/amplitude": {
+"t": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+"s": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+},
+"https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/": {
+"t": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+"s": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time."
+},
+"https://the-decoder.com/?p=42781": {
+"t": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+"s": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding. The article Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch appeared first on The Decoder."
+},
+"https://openai.com/business/customer-stories/gondola": {
+"t": "Gondola doubles revenue as its team builds more with Codex",
+"s": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
 }
 }
