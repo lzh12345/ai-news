@@ -1,88 +1,4 @@
 {
-"https://the-decoder.com/?p=41006": {
-"t": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
-"s": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own. The article OpenAI's internal model considered restarting itself after learning it was about to be shut down appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41000": {
-"t": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
-"s": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands. The article Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41046": {
-"t": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
-"s": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a USB-C device for smart home control. The open-source approach also helps Meta figure out which AI hardware form factors people actually want. The article \"Muse Gadgets\" turns AI hardware into an open-source DIY project appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41041": {
-"t": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
-"s": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions. AI companies need to operate like nuclear power plants, with multiple layers of redundancy instead of trial and error. The article Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3173132": {
-"t": "All the AI agents that can live in your text messages",
-"s": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-},
-"https://the-decoder.com/?p=41035": {
-"t": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
-"s": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together. The article Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3173505": {
-"t": "Amazon responds to data center backlash, says it no longer uses NDAs",
-"s": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
-},
-"https://techcrunch.com/?p=3173499": {
-"t": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-"s": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
-},
-"https://the-decoder.com/?p=41053": {
-"t": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
-"s": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building \"magic intelligence in the sky\" and feeling \"on the side of the angels\" working on AI. The article Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore appeared first on The Decoder."
-},
-"https://huggingface.co/blog/microsoft/thinkingbox": {
-"t": "The Agent Said It Was Done. The Database Disagreed.",
-"s": ""
-},
-"https://the-decoder.com/?p=41067": {
-"t": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
-"s": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits by up to 22 percent compared to the strongest model it was tested against. The article NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=40782": {
-"t": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
-"s": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells \"sovereign AI\" to governments, giving it a commercial interest in distinguishing its models from Chinese competitors. The article Chinese AI models parrot state doctrine or refuse to answer on sensitive topics appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82702": {
-"t": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
-"s": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked externally. Gboard already uses it for English and Japanese next-word prediction. The post Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=41059": {
-"t": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
-"s": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers. The move could also set the stage for the more resource-hungry Gemini 4 Argon. The article Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82698": {
-"t": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
-"s": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and per-request reasoning effort, and its Apache 2.0 FP8 weights run on a single B200 or H200. The post Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82691": {
-"t": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
-"s": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled Automation Tasks. It also supports non-DeepSeek models through OpenAI-compatible endpoints. The post DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82687": {
-"t": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
-"s": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82666": {
-"t": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
-"s": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision models can solve it. Three launches, one pattern From pull to push Chatbots were […] The post Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet? appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82662": {
-"t": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
-"s": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna for full isolation, or Claude, Gemini or GPT models through hybrid setups. Optional Premium Packages extend Bob to Java, IBM i and IBM Z modernization. The post IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82659": {
-"t": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
-"s": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82656": {
-"t": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
-"s": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry. The post Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis appeared first on MarkTechPost."
-},
 "https://www.marktechpost.com/?p=82653": {
 "t": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
 "s": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's GLiDE, GLiNER2.5-Decide and 4 open-source rivals. The post Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors appeared first on MarkTechPost."
@@ -4798,5 +4714,89 @@
 "https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get": {
 "t": "Jensen is reportedly about to get fired",
 "s": "Things may get really really crazy really fast"
+},
+"https://the-decoder.com/?p=42822": {
+"t": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+"s": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as Anthropic, Meta, and xAI already have their agents making purchases. The article OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188067": {
+"t": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+"s": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+},
+"https://the-decoder.com/?p=42826": {
+"t": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+"s": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region anyway. The article Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls appeared first on The Decoder."
+},
+"https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
+"t": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+"s": ""
+},
+"https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/": {
+"t": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+"s": "Researcher traces a path from AI reward hacking to potential human extinction."
+},
+"https://www.marktechpost.com/?p=83894": {
+"t": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+"s": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API […] The post Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/allenai/xybench": {
+"t": "XYBench: Helping with the problem behind the question",
+"s": ""
+},
+"https://the-decoder.com/?p=42816": {
+"t": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+"s": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control physical machines yet, but Anthropic is separately developing the Model Hardware Standard for that. The article Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83891": {
+"t": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+"s": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3188368": {
+"t": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+"s": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+},
+"https://the-decoder.com/?p=42796": {
+"t": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+"s": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. All of this is happening while nearly 70 percent of US government agencies already use generative AI. The article Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42801": {
+"t": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+"s": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars. The article Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42804": {
+"t": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+"s": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42803": {
+"t": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+"s": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini, Instinct, and xAI's Grok Bot offer the same feature, but many businesses hang up as soon as they detect an AI on the line. The article Meta's Muse now calls businesses for you, but many companies might just hang up on the AI appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42800": {
+"t": "OpenAI enters the cybersecurity market with two Daybreak products",
+"s": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder."
+},
+"https://openai.com/index/introducing-chatgpt-wallet": {
+"t": "Introducing ChatGPT Wallet",
+"s": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+},
+"https://techcrunch.com/?p=3188328": {
+"t": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+"s": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+},
+"https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
+"t": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+"s": ""
+},
+"01M7950HA1NFDM7V5HW3AMZ0SB": {
+"t": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+"s": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions."
+},
+"https://techcrunch.com/?p=3187846": {
+"t": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+"s": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+},
+"https://techcrunch.com/?p=3188240": {
+"t": "Jensen Huang didn’t show confidence in his successor, report says",
+"s": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
 }
 }
