@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 14 Nov 2026 00:34:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 11:06:35 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Runway's open-source Praxis-1 turns video AI into a robot controller</title>
+<link>https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42846</guid>
+<pubDate>Sat, 14 Nov 2026 09:45:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway's open-source Praxis-1 turns video AI into a robot controller appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents</title>
+<link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83897</guid>
+<pubDate>Sat, 14 Nov 2026 06:38:14 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
 <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
@@ -312,14 +328,6 @@
 <description><![CDATA[【techcrunch.com】Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.<br/><br/><a href="https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Claude Meetings lets Anthropic's AI join your video calls</title>
-<link>https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42793</guid>
-<pubDate>Thu, 12 Nov 2026 20:26:50 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic's AI join your video calls appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Jensen Huang was having a third affair, Reuters reports</title>
 <link>https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3188106</guid>
@@ -390,14 +398,6 @@
 <pubDate>Thu, 12 Nov 2026 18:39:23 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.<br/><br/><a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Gemini 4 Hydrogen</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
-<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
