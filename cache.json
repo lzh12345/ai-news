@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3173877": {
-"t": "Instinct brings its AI agent to group chats, even for friends without an account",
-"s": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action."
-},
-"https://techcrunch.com/?p=3173828": {
-"t": "TikTok rolls out an AI shopping assistant and one-click checkout",
-"s": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
-},
-"https://the-decoder.com/?p=41121": {
-"t": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
-"s": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute today's top models need. Instead of routing tasks to specialized systems, Rho-1 runs all modalities as tokens in one shared context window. The article Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=41114": {
 "t": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
 "s": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced. The article OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide appeared first on The Decoder."
@@ -4798,5 +4786,17 @@
 "https://www.marktechpost.com/?p=83900": {
 "t": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
 "s": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3188741": {
+"t": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+"s": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+},
+"https://the-decoder.com/?p=42873": {
+"t": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+"s": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty. The article Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83903": {
+"t": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+"s": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost."
 }
 }

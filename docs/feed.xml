@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 14 Nov 2026 17:29:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 23:32:20 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
+<link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188741</guid>
+<pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】The petition had attracted more than 115,000 signatures as of Saturday afternoon.<br/><br/><a href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic CEO Amodei admits &quot;there's a huge uncertainty in what's going to happen next year&quot; days before a record IPO</title>
+<link>https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42873</guid>
+<pubDate>Sat, 14 Nov 2026 19:05:17 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty. The article Anthropic CEO Amodei admits "there's a huge uncertainty in what's going to happen next year" days before a record IPO appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+<link>https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
+<pubDate>Sat, 14 Nov 2026 17:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.<br/><br/><a href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol</title>
 <link>https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</link>
@@ -14,6 +38,14 @@
 <pubDate>Sat, 14 Nov 2026 16:48:01 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy</title>
+<link>https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83903</guid>
+<pubDate>Sat, 14 Nov 2026 16:45:48 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic says outdated prompting habits are slowing down Claude Opus 5.5</title>
@@ -206,14 +238,6 @@
 <pubDate>Fri, 13 Nov 2026 15:58:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.<br/><br/><a href="https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails</title>
-<link>https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42796</guid>
-<pubDate>Fri, 13 Nov 2026 15:53:49 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. All of this is happening while nearly 70 percent of US government agencies already use generative AI. The article Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Introducing ChatGPT Wallet</title>
@@ -416,6 +440,14 @@
 <description><![CDATA[【techcrunch.com】Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.<br/><br/><a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Introducing Gemini 4 Hydrogen</title>
+<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
+<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
 <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3187922</guid>
@@ -440,22 +472,6 @@
 <description><![CDATA[【techcrunch.com】The airline said it will not allow customers to use AI agents to book flights and manage reservations.<br/><br/><a href="https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions</title>
-<link>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3187955</guid>
-<pubDate>Thu, 12 Nov 2026 17:00:52 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.<br/><br/><a href="https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Phota Labs uses AI to turn everyday photos into professional-looking shots</title>
-<link>https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3185934</guid>
-<pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.<br/><br/><a href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</title>
 <link>https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</link>
 <guid isPermaLink="false">https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</guid>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.<br/><br/><a href="https://openai.com/business/customer-stories/gondola">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Holiday Extras is rethinking what it can build with Codex</title>
-<link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
-<guid isPermaLink="false">https://openai.com/business/customer-stories/holidays-extras-codex</guid>
-<pubDate>Thu, 12 Nov 2026 09:30:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.<br/><br/><a href="https://openai.com/business/customer-stories/holidays-extras-codex">阅读原文</a>]]></description>
-</item>
-<item>
-<title>IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits</title>
-<link>https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83866</guid>
-<pubDate>Thu, 12 Nov 2026 08:42:21 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 2027, while Nighthawk r2 already posts up to 19x speedups over Heron. The post IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
