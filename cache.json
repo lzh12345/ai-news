@@ -1,32 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82653": {
-"t": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
-"s": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's GLiDE, GLiNER2.5-Decide and 4 open-source rivals. The post Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82645": {
-"t": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
-"s": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the cluster and more compute when […] The post NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3173547": {
-"t": "Trump unveils his new Super Intelligence Force",
-"s": "This new task force is Trump's latest response to the debate over AI safety."
-},
-"https://the-decoder.com/?p=41078": {
-"t": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
-"s": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and lifts scores on unseen benchmarks by up to 4.7 points while using about 30 percent fewer tokens than an unregularized version. The article Google researchers find a way to keep self-improving AI agents from memorizing their tests appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82708": {
-"t": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
-"s": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. The post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3173559": {
-"t": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-"s": "AI slop seems to be overwhelming bug bounty programs."
-},
-"https://techcrunch.com/?p=3173555": {
-"t": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-"s": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
-},
 "https://the-decoder.com/?p=41088": {
 "t": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
 "s": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence. The unit is led by Director of National Intelligence Jay Clayton and other government officials, coordinates with AI companies, critical infrastructure operators, and interest groups. The group reports directly to the president. The article Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence appeared first on The Decoder."
@@ -4798,5 +4770,33 @@
 "https://techcrunch.com/?p=3188240": {
 "t": "Jensen Huang didn’t show confidence in his successor, report says",
 "s": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
+},
+"https://techcrunch.com/?p=3188596": {
+"t": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+"s": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+},
+"https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/": {
+"t": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+"s": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
+},
+"01M7B8MAKWAA44XACM7ZT7P4NN": {
+"t": "Kitesurf is now open source",
+"s": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers."
+},
+"https://the-decoder.com/?p=42841": {
+"t": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+"s": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purchases, including a planned $250 billion deal with OpenAI. Interim CEO and then-CFO Colette Kress tried to contain the risk, and Huang reportedly didn't like that. The article Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188474": {
+"t": "AI agent startup LangChain hits $3B valuation",
+"s": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+},
+"01M7B3YSRJB0B2GD4ZN00Q227F": {
+"t": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+"s": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures."
+},
+"https://openai.com/business/customer-stories/shield": {
+"t": "Shield helps technicians hand off legacy portal work with OpenAI",
+"s": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
 }
 }

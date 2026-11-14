@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 13 Nov 2026 18:59:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 00:34:32 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
+<link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188596</guid>
+<pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.<br/><br/><a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
+<link>https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</link>
+<guid isPermaLink="false">https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</guid>
+<pubDate>Fri, 13 Nov 2026 21:20:47 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.<br/><br/><a href="https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Kitesurf is now open source</title>
+<link>https://blog.cloudflare.com/kitesurf-open-source/</link>
+<guid isPermaLink="false">01M7B8MAKWAA44XACM7ZT7P4NN</guid>
+<pubDate>Fri, 13 Nov 2026 20:20:21 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.<br/><br/><a href="https://blog.cloudflare.com/kitesurf-open-source/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life</title>
+<link>https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42841</guid>
+<pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purchases, including a planned $250 billion deal with OpenAI. Interim CEO and then-CFO Colette Kress tried to contain the risk, and Huang reportedly didn't like that. The article Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI agent startup LangChain hits $3B valuation</title>
+<link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188474</guid>
+<pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.<br/><br/><a href="https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Adapting to AI penetration testing orchestrators: The Modern Security Model</title>
+<link>https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/</link>
+<guid isPermaLink="false">01M7B3YSRJB0B2GD4ZN00Q227F</guid>
+<pubDate>Fri, 13 Nov 2026 19:26:07 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.<br/><br/><a href="https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet</title>
 <link>https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/</link>
@@ -200,6 +248,14 @@
 <description><![CDATA[【marktechpost.com】Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Shield helps technicians hand off legacy portal work with OpenAI</title>
+<link>https://openai.com/business/customer-stories/shield</link>
+<guid isPermaLink="false">https://openai.com/business/customer-stories/shield</guid>
+<pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.<br/><br/><a href="https://openai.com/business/customer-stories/shield">阅读原文</a>]]></description>
+</item>
+<item>
 <title>GitHub availability report: October 2026</title>
 <link>https://github.blog/news-insights/company-news/github-availability-report-october-2026/</link>
 <guid isPermaLink="false">https://github.blog/?p=100130</guid>
@@ -230,14 +286,6 @@
 <pubDate>Thu, 12 Nov 2026 22:42:51 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.<br/><br/><a href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
-<link>https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</link>
-<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</guid>
-<pubDate>Thu, 12 Nov 2026 22:28:47 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.<br/><br/><a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Muse can now place calls to US businesses — if you pay</title>
@@ -296,14 +344,6 @@
 <description><![CDATA[【arstechnica.com】A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.<br/><br/><a href="https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch</title>
-<link>https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42781</guid>
-<pubDate>Thu, 12 Nov 2026 19:58:43 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding. The article Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google’s latest Search upgrade promises better answers to your most complicated questions</title>
 <link>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3188050</guid>
@@ -350,6 +390,14 @@
 <pubDate>Thu, 12 Nov 2026 18:39:23 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.<br/><br/><a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing Gemini 4 Hydrogen</title>
+<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
+<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
@@ -400,22 +448,6 @@
 <description><![CDATA[【techcrunch.com】Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.<br/><br/><a href="https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry</title>
-<link>https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3187523</guid>
-<pubDate>Thu, 12 Nov 2026 16:32:33 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.<br/><br/><a href="https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Trump floats Apple chairman Tim Cook as Jensen Huang’s successor</title>
-<link>https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3187860</guid>
-<pubDate>Thu, 12 Nov 2026 16:12:44 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.<br/><br/><a href="https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</title>
 <link>https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</link>
 <guid isPermaLink="false">https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</guid>
@@ -454,38 +486,6 @@
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/3d-lora-finetuning">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Theoretical Limits of Language Model Alignment</title>
-<link>https://machinelearning.apple.com/research/theoretical-limits-alignment</link>
-<guid isPermaLink="false">theoretical-limits-alignment</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<source>machinelearning.apple.com</source>
-<description><![CDATA[【machinelearning.apple.com】Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learning, which maximizes the expected reward under a KL-divergence constraint, and (ii) best-of-NNN alignment, which selects the highest-reward output among NNN independent samples. Despite their widespread use, the fundamental limits of reward improvement under a KL budget remain poorly understood. We characterize the information-theoretic limits of KL-regularized alignment by deriving the maximum…<br/><br/><a href="https://machinelearning.apple.com/research/theoretical-limits-alignment">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Supporting research on AI and children’s safety</title>
-<link>https://openai.com/index/children-first-declaration</link>
-<guid isPermaLink="false">https://openai.com/index/children-first-declaration</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.<br/><br/><a href="https://openai.com/index/children-first-declaration">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Gilbert + Tobin rethinks the business of law with AI</title>
-<link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-<guid isPermaLink="false">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.<br/><br/><a href="https://openai.com/index/gilbert-tobin-sam-nickless">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens</title>
-<link>https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83861</guid>
-<pubDate>Wed, 11 Nov 2026 21:21:42 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
