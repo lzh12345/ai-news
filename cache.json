@@ -1,28 +1,4 @@
 {
-"https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
-"t": "Building advertising for the way people use AI",
-"s": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
-},
-"https://www.marktechpost.com/?p=82721": {
-"t": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
-"s": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. The post Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82714": {
-"t": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
-"s": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. The post The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3173994": {
-"t": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-"s": "Nvidia-backed Reflection AI unveils Beam, its first open-weight model, which it says rivals GLM-5.2 on reasoning with far less inference compute. Weights are due this month."
-},
-"https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/": {
-"t": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-"s": "The tool can free up over 12GB of storage."
-},
-"https://the-decoder.com/?p=41126": {
-"t": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
-"s": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000. Both companies are pushing their own AI tools instead. For Anthropic, that reliance on a few major clients is turning into a strategic risk. The article Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor appeared first on The Decoder."
-},
 "https://techcrunch.com/?p=3173877": {
 "t": "Instinct brings its AI agent to group chats, even for friends without an account",
 "s": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action."
@@ -4798,5 +4774,29 @@
 "https://www.marktechpost.com/?p=83897": {
 "t": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
 "s": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42863": {
+"t": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+"s": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42864": {
+"t": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+"s": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188720": {
+"t": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+"s": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+},
+"https://the-decoder.com/?p=42859": {
+"t": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+"s": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts. The article OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42853": {
+"t": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+"s": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity. The article Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83900": {
+"t": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+"s": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost."
 }
 }

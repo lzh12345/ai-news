@@ -5,8 +5,56 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 14 Nov 2026 11:06:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 17:29:59 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol</title>
+<link>https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42863</guid>
+<pubDate>Sat, 14 Nov 2026 16:48:01 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic says outdated prompting habits are slowing down Claude Opus 5.5</title>
+<link>https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42864</guid>
+<pubDate>Sat, 14 Nov 2026 16:42:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop "think hard" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
+<link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188720</guid>
+<pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.<br/><br/><a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary</title>
+<link>https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42859</guid>
+<pubDate>Sat, 14 Nov 2026 11:40:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts. The article OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic can already retrain Mythos with &quot;a fraction of the compute originally needed,&quot; says former researcher Coxon</title>
+<link>https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42853</guid>
+<pubDate>Sat, 14 Nov 2026 11:21:41 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity. The article Anthropic can already retrain Mythos with "a fraction of the compute originally needed," says former researcher Coxon appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs</title>
+<link>https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83900</guid>
+<pubDate>Sat, 14 Nov 2026 10:21:21 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Runway's open-source Praxis-1 turns video AI into a robot controller</title>
 <link>https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/</link>
@@ -166,38 +214,6 @@
 <pubDate>Fri, 13 Nov 2026 15:53:49 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. All of this is happening while nearly 70 percent of US government agencies already use generative AI. The article Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models</title>
-<link>https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42801</guid>
-<pubDate>Fri, 13 Nov 2026 15:21:04 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars. The article Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history</title>
-<link>https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42804</guid>
-<pubDate>Fri, 13 Nov 2026 15:15:08 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Meta's Muse now calls businesses for you, but many companies might just hang up on the AI</title>
-<link>https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42803</guid>
-<pubDate>Fri, 13 Nov 2026 15:12:44 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini, Instinct, and xAI's Grok Bot offer the same feature, but many businesses hang up as soon as they detect an AI on the line. The article Meta's Muse now calls businesses for you, but many companies might just hang up on the AI appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI enters the cybersecurity market with two Daybreak products</title>
-<link>https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42800</guid>
-<pubDate>Fri, 13 Nov 2026 15:08:57 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Introducing ChatGPT Wallet</title>
@@ -440,14 +456,6 @@
 <description><![CDATA[【techcrunch.com】Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.<br/><br/><a href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Jensen Huang agrees to testify before Congress</title>
-<link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3187911</guid>
-<pubDate>Thu, 12 Nov 2026 16:36:37 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.<br/><br/><a href="https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</title>
 <link>https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</link>
 <guid isPermaLink="false">https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</guid>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 12 Nov 2026 08:42:21 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 2027, while Nighthawk r2 already posts up to 19x speedups over Heron. The post IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
-<link>https://huggingface.co/blog/3d-lora-finetuning</link>
-<guid isPermaLink="false">https://huggingface.co/blog/3d-lora-finetuning</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/3d-lora-finetuning">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
