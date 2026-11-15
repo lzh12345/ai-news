@@ -1,28 +1,4 @@
 {
-"https://techcrunch.com/?p=3173232": {
-"t": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-"s": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
-},
-"https://techcrunch.com/?p=3173686": {
-"t": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-"s": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
-},
-"https://the-decoder.com/?p=41111": {
-"t": "Most Americans want AI development to slow down or stop entirely, new poll finds",
-"s": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent safety standards, and 74 percent have little or no trust in AI company leaders. \"[…] the public wants safeguards that do not depend simply on taking company leaders at their word,\" said researcher Chetan Jaiswal. The article Most Americans want AI development to slow down or stop entirely, new poll finds appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41108": {
-"t": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
-"s": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock donation with extra shares and triples contributions from early employees. The article Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO appeared first on The Decoder."
-},
-"https://github.blog/?p=99258": {
-"t": "ReviewBench: An open benchmark for AI code review",
-"s": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3173723": {
-"t": "OpenAI launches visual ads that appear alongside image generation results",
-"s": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now."
-},
 "https://openai.com/index/eu-text-provenance": {
 "t": "Our approach to EU text provenance rules",
 "s": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
@@ -4798,5 +4774,29 @@
 "https://techcrunch.com/?p=3188673": {
 "t": "Where was Nvidia’s security team?",
 "s": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
+},
+"https://the-decoder.com/?p=42891": {
+"t": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+"s": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent, far above the officially reported 7 percent. The article Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42835": {
+"t": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+"s": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers. Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends could also explain the numbers. The article Australia's central bank finds AI hitting young workers first, especially in software and customer service appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83906": {
+"t": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+"s": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=42881": {
+"t": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+"s": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs. The article Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU appeared first on The Decoder."
+},
+"https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide": {
+"t": "What could possibly go wrong? Nationwide FAA Ground Stop edition",
+"s": "A sign of things to come?"
+},
+"https://garymarcus.substack.com/p/the-great-generative-ai-unraveling": {
+"t": "The great Generative AI unraveling",
+"s": "Things are starting to fall apart"
 }
 }
