@@ -1,24 +1,4 @@
 {
-"https://techcrunch.com/?p=3173563": {
-"t": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-"s": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
-},
-"https://techcrunch.com/?p=3173705": {
-"t": "Researchers are tracking a Chinese AI ‘agent fleet’",
-"s": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
-},
-"https://techcrunch.com/?p=3173591": {
-"t": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-"s": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off."
-},
-"https://the-decoder.com/?p=41102": {
-"t": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
-"s": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German. The model was trained on 768 B200 GPUs in Germany and Finland, and the weights are freely available under the Apache 2.0 license. The article Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3173520": {
-"t": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-"s": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off."
-},
 "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/": {
 "t": "AI glasses face their first major government crackdown",
 "s": "Norway wants time to write permanent rules for glasses that can record bystanders."
@@ -4798,5 +4778,25 @@
 "https://the-decoder.com/?p=42896": {
 "t": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
 "s": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton. The article Anthropic's Claude Fable 5.2 doesn't generate images, it paints them appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188782": {
+"t": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+"s": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+},
+"https://openai.com/index/step-toward-defining-the-standard-model": {
+"t": "A step toward defining the Standard Model on a lattice",
+"s": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+},
+"https://openai.com/index/our-new-blog-for-science": {
+"t": "Our new blog for science",
+"s": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+},
+"https://techcrunch.com/?p=3188757": {
+"t": "Is bad news for Jensen Huang also bad news for the AI industry?",
+"s": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+},
+"https://techcrunch.com/?p=3188820": {
+"t": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+"s": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
 }
 }
