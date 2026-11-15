@@ -1,8 +1,4 @@
 {
-"https://openai.com/index/eu-text-provenance": {
-"t": "Our approach to EU text provenance rules",
-"s": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
-},
 "https://techcrunch.com/?p=3173563": {
 "t": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
 "s": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
@@ -4798,5 +4794,9 @@
 "https://garymarcus.substack.com/p/the-great-generative-ai-unraveling": {
 "t": "The great Generative AI unraveling",
 "s": "Things are starting to fall apart"
+},
+"https://the-decoder.com/?p=42896": {
+"t": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+"s": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton. The article Anthropic's Claude Fable 5.2 doesn't generate images, it paints them appeared first on The Decoder."
 }
 }

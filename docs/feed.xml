@@ -5,13 +5,21 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 15 Nov 2026 11:50:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 18:17:22 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic's Claude Fable 5.2 doesn't generate images, it paints them</title>
+<link>https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42896</guid>
+<pubDate>Sun, 15 Nov 2026 15:42:03 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton. The article Anthropic's Claude Fable 5.2 doesn't generate images, it paints them appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China</title>
 <link>https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=42891</guid>
-<pubDate>Sun, 15 Nov 2026 11:35:12 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 14:45:12 +0000</pubDate>
 <source>the-decoder.com</source>
 <description><![CDATA[【the-decoder.com】Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent, far above the officially reported 7 percent. The article Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/">阅读原文</a>]]></description>
 </item>
@@ -144,14 +152,6 @@
 <description><![CDATA[【marktechpost.com】Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>What could possibly go wrong? Nationwide FAA Ground Stop edition</title>
-<link>https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide</link>
-<guid isPermaLink="false">https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide</guid>
-<pubDate>Sat, 14 Nov 2026 00:20:10 +0000</pubDate>
-<source>garymarcus.substack.com</source>
-<description><![CDATA[【garymarcus.substack.com】A sign of things to come?<br/><br/><a href="https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
 <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3188596</guid>
@@ -176,14 +176,6 @@
 <description><![CDATA[【blog.cloudflare.com】Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.<br/><br/><a href="https://blog.cloudflare.com/kitesurf-open-source/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life</title>
-<link>https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42841</guid>
-<pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purchases, including a planned $250 billion deal with OpenAI. Interim CEO and then-CFO Colette Kress tried to contain the risk, and Huang reportedly didn't like that. The article Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI agent startup LangChain hits $3B valuation</title>
 <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3188474</guid>
@@ -206,14 +198,6 @@
 <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】New research shows the most advanced AI models from China were trained on banned Nvidia chips.<br/><br/><a href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The great Generative AI unraveling</title>
-<link>https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</link>
-<guid isPermaLink="false">https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</guid>
-<pubDate>Fri, 13 Nov 2026 18:26:49 +0000</pubDate>
-<source>garymarcus.substack.com</source>
-<description><![CDATA[【garymarcus.substack.com】Things are starting to fall apart<br/><br/><a href="https://garymarcus.substack.com/p/the-great-generative-ai-unraveling">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -472,6 +456,14 @@
 <description><![CDATA[【techcrunch.com】Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.<br/><br/><a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">阅读原文</a>]]></description>
 </item>
 <item>
+<title>Introducing Gemini 4 Hydrogen</title>
+<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
+<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+<source>deepmind.google</source>
+<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">阅读原文</a>]]></description>
+</item>
+<item>
 <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
 <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3187922</guid>
@@ -486,6 +478,14 @@
 <pubDate>Thu, 12 Nov 2026 14:50:17 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.<br/><br/><a href="https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Gondola doubles revenue as its team builds more with Codex</title>
+<link>https://openai.com/business/customer-stories/gondola</link>
+<guid isPermaLink="false">https://openai.com/business/customer-stories/gondola</guid>
+<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.<br/><br/><a href="https://openai.com/business/customer-stories/gondola">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
