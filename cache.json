@@ -1,8 +1,4 @@
 {
-"https://the-decoder.com/?p=41114": {
-"t": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
-"s": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced. The article OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide appeared first on The Decoder."
-},
 "https://techcrunch.com/?p=3173232": {
 "t": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
 "s": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
@@ -4798,5 +4794,9 @@
 "https://www.marktechpost.com/?p=83903": {
 "t": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
 "s": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3188673": {
+"t": "Where was Nvidia’s security team?",
+"s": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
 }
 }
