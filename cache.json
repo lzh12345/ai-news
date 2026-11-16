@@ -1,116 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82752": {
-"t": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
-"s": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%. The post Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode appeared first on MarkTechPost."
-},
-"https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/": {
-"t": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-"s": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
-},
-"https://www.marktechpost.com/?p=82742": {
-"t": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
-"s": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling. The post Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82739": {
-"t": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
-"s": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026. The post Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3173997": {
-"t": "OpenAI will start watermarking ChatGPT’s text in the EU",
-"s": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
-},
-"https://the-decoder.com/?p=41129": {
-"t": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
-"s": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions. The article Cohere pitches North 2 as the enterprise AI control room that works with any model appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82760": {
-"t": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
-"s": "Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled variant returns a 5.3-second clip in about a second. It is a research preview with no public weights yet. The post Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One appeared first on MarkTechPost."
-},
-"https://huggingface.co/blog/tiiuae/falcon-emirati": {
-"t": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-"s": ""
-},
-"https://www.marktechpost.com/?p=82757": {
-"t": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
-"s": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3166195": {
-"t": "Mirror Particle is building a ‘world model’ of human behavior",
-"s": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy."
-},
-"https://the-decoder.com/?p=41169": {
-"t": "Insurers brace for millions in claims as AI agents spin out of control",
-"s": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout. The article Insurers brace for millions in claims as AI agents spin out of control appeared first on The Decoder."
-},
-"https://openai.com/index/atlassian-partnership": {
-"t": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-"s": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
-},
-"https://techcrunch.com/?p=3174443": {
-"t": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-"s": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
-},
-"https://techcrunch.com/?p=3174448": {
-"t": "LibreOffice says ‘no AI’ is now a software feature",
-"s": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
-},
-"https://techcrunch.com/?p=3174387": {
-"t": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-"s": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
-},
-"https://the-decoder.com/?p=41158": {
-"t": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
-"s": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, GPT-6, and Chinese competitors. Mistral's main pitch is cybersecurity work that closed US models refuse to do. The article Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3174331": {
-"t": "Pinterest’s AI now turns beauty Pins into action plans",
-"s": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs."
-},
-"https://techcrunch.com/?p=3174147": {
-"t": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-"s": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off."
-},
-"https://the-decoder.com/?p=41155": {
-"t": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
-"s": "South Korea wants to develop a homegrown frontier model through government-backed equity investments of 4.7 trillion won ($3.49 billion). The article South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best appeared first on The Decoder."
-},
-"https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": {
-"t": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-"s": "The reports of OpenAI agents harming third-party sites keep coming."
-},
-"https://the-decoder.com/?p=41145": {
-"t": "Reflection's Beam becomes the most capable open-weight model built outside China",
-"s": "Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM 5.2 on coding and reasoning while using three to four times less compute. The strategy against Chinese open-weight rivals like Deepseek and Qwen is efficiency over raw performance. The article Reflection's Beam becomes the most capable open-weight model built outside China appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41135": {
-"t": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
-"s": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine. The effort also produced a liver cancer treatment candidate that showed promise in lab tests, though the study doesn't establish whether it could become an actual therapy. The article Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41132": {
-"t": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-"s": "Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3174722": {
-"t": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-"s": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch."
-},
-"https://github.blog/?p=99275": {
-"t": "Building Git infrastructure for agent-scale development",
-"s": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog."
-},
-"https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/": {
-"t": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-"s": "Like other solutions, it is not especially reliable, and it's easy to circumvent."
-},
-"https://techcrunch.com/?p=3174464": {
-"t": "How AI decision models could change content moderation",
-"s": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
-},
-"https://techcrunch.com/?p=3174674": {
-"t": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-"s": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
-},
 "https://techcrunch.com/?p=3174440": {
 "t": "The next hurdle for AI agents: getting websites to let them in",
 "s": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
@@ -4798,5 +4686,117 @@
 "https://openai.com/index/the-kings-trust-and-openai": {
 "t": "The King’s Trust and OpenAI launch £1m partnership",
 "s": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+},
+"https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/": {
+"t": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+"s": "Robotics startup misses payroll a year after CEO used funds for luxury home."
+},
+"https://techcrunch.com/?p=3189019": {
+"t": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+"s": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
+},
+"https://techcrunch.com/?p=3189115": {
+"t": "California state AG sues OpenAI over rogue agent incidents",
+"s": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
+},
+"https://the-decoder.com/?p=42951": {
+"t": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+"s": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and ran them on its own. The article Google warns that fully automated cyberattacks have arrived and will get worse fast appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42931": {
+"t": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+"s": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before realistic simulations are possible. The article OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3189047": {
+"t": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+"s": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
+},
+"https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/": {
+"t": "US moves to cut China’s remote access to AI chips",
+"s": "Trump bets China won’t mind US blocking remote access to AI chips."
+},
+"https://the-decoder.com/?p=42940": {
+"t": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+"s": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3189053": {
+"t": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+"s": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
+},
+"https://techcrunch.com/?p=3188979": {
+"t": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+"s": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
+},
+"https://techcrunch.com/?p=3188848": {
+"t": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+"s": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+},
+"https://techcrunch.com/?p=3188985": {
+"t": "OpenAI will embed safety researchers to investigate AI subversion",
+"s": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+},
+"https://openai.com/index/expanding-chatgpt-for-academic-researchers": {
+"t": "Broadening access to AI for scientists",
+"s": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+},
+"https://openai.com/index/strengthening-online-child-safety": {
+"t": "Strengthening the fight against online child sexual abuse with new tools and support",
+"s": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+},
+"https://techcrunch.com/?p=3188489": {
+"t": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+"s": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
+},
+"https://the-decoder.com/?p=42918": {
+"t": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+"s": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source. The article Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42916": {
+"t": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+"s": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects. The article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188907": {
+"t": "Audible turns to AI to help users discover audiobooks",
+"s": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
+},
+"https://the-decoder.com/?p=42905": {
+"t": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+"s": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories. The article Anthropic says the key to agent memory is knowing what to forget, not how much to store appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188900": {
+"t": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+"s": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
+},
+"https://techcrunch.com/?p=3188899": {
+"t": "Google Maps can now build trip itineraries with real-time details about each stop",
+"s": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."
+},
+"https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/": {
+"t": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+"s": "Huang is weighing a return just days after resigning amid a deepening scandal."
+},
+"https://openai.com/index/science-at-the-frontier": {
+"t": "Science at the Frontier: How scientists use ChatGPT",
+"s": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+},
+"https://openai.com/index/our-first-phase-of-embedded-assessments": {
+"t": "Our first phase of embedded assessments",
+"s": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+},
+"https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
+"t": "Advancing computer-use agents for healthcare teams",
+"s": ""
+},
+"https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": {
+"t": "More ways to move care forward with ChatGPT for Healthcare",
+"s": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+},
+"https://huggingface.co/blog/openrouter": {
+"t": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+"s": ""
+},
+"https://openai.com/business/customer-stories/holiday-extras-dots": {
+"t": "At Holiday Extras, dots get to work before anyone asks",
+"s": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
 }
 }
