@@ -1,28 +1,4 @@
 {
-"01M45M6M9H2C1A45G0S8EC3KW9": {
-"t": "Everything we launched during Birthday Week 2026",
-"s": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped."
-},
-"01M40C00BDZBKANZ5QVXW0AD7X": {
-"t": "One year later: the power of 1.1.1.1 interns",
-"s": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies human potential instead of replacing it."
-},
-"https://the-decoder.com/?p=41097": {
-"t": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
-"s": "ChatGPT users in the US will soon see display ads while the chatbot generates an image for them. The article ChatGPT's new ad format fills the image generation loading screen with product carousels appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3173325": {
-"t": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-"s": "Safeworld is building digital humans to make sure robots don't hurt the real ones."
-},
-"https://the-decoder.com/?p=41093": {
-"t": "AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds",
-"s": "An MIT expert committee warns that AI is eroding key parts of the college experience: office hours, study groups, and the school's flagship research program for undergraduates are all fading. Trust between faculty and students is breaking down, and some professors are even considering AI agents instead of students as research assistants. The university most closely tied to AI's origin story is now calling for a complete overhaul of higher education. The article AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds appeared first on The Decoder."
-},
-"ontological-boundary-negotiation": {
-"t": "Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems",
-"s": "Designed artifacts are ontological, shaping, and at times limiting, what becomes possible or imaginable. One path toward mitigating such foreclosures is giving people power over how systems are designed and built. Despite decades of scholarship around systems that enable such authorship, these systems are often evaluated on whether or not they are usable, useful, or technically feasible, leaving questions of ontological boundary negotiation, unexamined. We design two open-ended probes that utilize a Wizard of Oz technique to enable the experience of training a personalized machine learning…"
-},
 "https://www.marktechpost.com/?p=82752": {
 "t": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
 "s": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%. The post Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode appeared first on MarkTechPost."
@@ -4798,5 +4774,29 @@
 "https://techcrunch.com/?p=3188803": {
 "t": "Apple launches new app to study how people use AI for health",
 "s": "Apple's new app for a study will answer everyday medical questions"
+},
+"https://techcrunch.com/?p=3188528": {
+"t": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+"s": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
+},
+"https://www.marktechpost.com/?p=83917": {
+"t": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+"s": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83914": {
+"t": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+"s": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83909": {
+"t": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
+"s": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL. The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTechPost."
+},
+"https://openai.com/index/lvmh-media-division-partnership": {
+"t": "LVMH’s Media Division announces strategic partnership with OpenAI",
+"s": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+},
+"https://openai.com/index/the-kings-trust-and-openai": {
+"t": "The King’s Trust and OpenAI launch £1m partnership",
+"s": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
 }
 }

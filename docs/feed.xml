@@ -5,8 +5,48 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 16 Nov 2026 04:00:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 12:33:42 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM</title>
+<link>https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188528</guid>
+<pubDate>Mon, 16 Nov 2026 12:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.<br/><br/><a href="https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands</title>
+<link>https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83917</guid>
+<pubDate>Mon, 16 Nov 2026 10:39:41 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context</title>
+<link>https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83914</guid>
+<pubDate>Mon, 16 Nov 2026 09:44:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro</title>
+<link>https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83909</guid>
+<pubDate>Mon, 16 Nov 2026 09:08:37 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL. The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
+<link>https://openai.com/index/lvmh-media-division-partnership</link>
+<guid isPermaLink="false">https://openai.com/index/lvmh-media-division-partnership</guid>
+<pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.<br/><br/><a href="https://openai.com/index/lvmh-media-division-partnership">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Apple launches new app to study how people use AI for health</title>
 <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
@@ -14,6 +54,14 @@
 <pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Apple's new app for a study will answer everyday medical questions<br/><br/><a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The King’s Trust and OpenAI launch £1m partnership</title>
+<link>https://openai.com/index/the-kings-trust-and-openai</link>
+<guid isPermaLink="false">https://openai.com/index/the-kings-trust-and-openai</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.<br/><br/><a href="https://openai.com/index/the-kings-trust-and-openai">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
@@ -360,14 +408,6 @@
 <description><![CDATA[【marktechpost.com】Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash</title>
-<link>https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83885</guid>
-<pubDate>Fri, 13 Nov 2026 09:45:48 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
 <link>https://openai.com/business/customer-stories/shield</link>
 <guid isPermaLink="false">https://openai.com/business/customer-stories/shield</guid>
@@ -392,14 +432,6 @@
 <description><![CDATA[【github.blog】Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec</title>
-<link>https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83882</guid>
-<pubDate>Thu, 12 Nov 2026 22:43:26 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</title>
 <link>https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3188108</guid>
@@ -416,28 +448,12 @@
 <description><![CDATA[【techcrunch.com】Muse's AI can now place outbound calls to U.S. businesses — but it's not free.<br/><br/><a href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance</title>
-<link>https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83874</guid>
-<pubDate>Thu, 12 Nov 2026 21:45:36 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail. The post CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Nebius tests the neocloud playbook with $40 billion in planned spending</title>
 <link>https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3188119</guid>
 <pubDate>Thu, 12 Nov 2026 21:27:10 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.<br/><br/><a href="https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Jensen Huang was having a third affair, Reuters reports</title>
-<link>https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3188106</guid>
-<pubDate>Thu, 12 Nov 2026 20:26:47 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.<br/><br/><a href="https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
@@ -470,22 +486,6 @@
 <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google faces calls for AI moratoriums in schools after Gemini pilot backlash</title>
-<link>https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/</guid>
-<pubDate>Thu, 12 Nov 2026 18:57:45 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”<br/><br/><a href="https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Introducing Gemini 4 Hydrogen</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
-<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】<br/><br/><a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
