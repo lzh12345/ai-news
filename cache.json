@@ -1,88 +1,4 @@
 {
-"https://the-decoder.com/?p=41190": {
-"t": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
-"s": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open model like Gemma 4, it can run offline RAG apps without sending data to external servers. The article Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41183": {
-"t": "Google's new image model Nano Banana 2.1 generates better images for less money",
-"s": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice. The article Google's new image model Nano Banana 2.1 generates better images for less money appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82768": {
-"t": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
-"s": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=41179": {
-"t": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
-"s": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI companies need to take responsibility for their agents instead of pushing the burden onto volunteer editors. The article Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3174492": {
-"t": "Hark releases an AI personal assistant with a focus on privacy",
-"s": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
-},
-"01M490D3EE2TBV2NFMN6FXMMQ8": {
-"t": "The keys to the Internet change on October 11. Are you ready?",
-"s": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover."
-},
-"https://the-decoder.com/?p=41175": {
-"t": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
-"s": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practical apps that change how work gets done. The article Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82763": {
-"t": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
-"s": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026. The post Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model appeared first on MarkTechPost."
-},
-"https://openai.com/index/jump-trading": {
-"t": "How Jump Trading is scaling quant research with ChatGPT",
-"s": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
-},
-"https://openai.com/index/sharing-ai-progress-in-mathematics": {
-"t": "Sharing AI progress in mathematics",
-"s": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
-},
-"https://openai.com/index/advancing-computer-use-with-ironclad": {
-"t": "Advancing computer use with Ironclad",
-"s": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
-},
-"https://www.marktechpost.com/?p=82772": {
-"t": "A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration",
-"s": "Explore a comprehensive coding guide to Laya, the open-source zero-shot decision engine. Learn how to implement typed decisions, fit custom temperatures, and build reliable abstention gates using real-world CLINC150 banking data. The post A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration appeared first on MarkTechPost."
-},
-"https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
-"t": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-"s": ""
-},
-"rised-multi-environment-selection": {
-"t": "RISED: Rubrics for Agentic Multi-Environment Selection and Self-Distillation",
-"s": "Training a single LLM agent jointly across diverse interactive environments has attracted increasing attention as a route to generalist agents. Existing curriculum and data-selection strategies often allocate training at the environment level or prioritize local reward-based signals, without explicitly considering relationships between current rollouts across environments for prompt-group selection. Meanwhile, as environments are learned at different rates, all-failure and all-success rollout groups can coexist within a batch, leaving those data without group-relative reward signals. Both…"
-},
-"https://the-decoder.com/?p=41196": {
-"t": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
-"s": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal winners warn that mass-producing mathematical truths could destroy fertile ground rather than bring new ideas to life. The article OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82775": {
-"t": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
-"s": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0. The post Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3174749": {
-"t": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-"s": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
-},
-"https://the-decoder.com/?p=41221": {
-"t": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
-"s": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy are funding data, lab equipment, and compute. A first dataset should be ready in about a year. The article Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior appeared first on The Decoder."
-},
-"https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/": {
-"t": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-"s": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties."
-},
-"https://the-decoder.com/?p=41225": {
-"t": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
-"s": "Google's AI watermark detector SynthID is now public. Anyone can check whether images, videos, or audio were created by Google's AI or partners like OpenAI and Nvidia. More than 180 billion pieces of content already carry the watermark, but the tool only identifies SynthID-tagged content, not AI-generated media in general. The article Google says 180 billion images and videos now carry SynthID watermarks as detector goes public appeared first on The Decoder."
-},
-"https://github.blog/?p=99310": {
-"t": "Secret protection must scale with software",
-"s": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog."
-},
 "https://huggingface.co/blog/LiquidAI/open-d1": {
 "t": "Multimodal open d1 decision models for the edge",
 "s": ""
@@ -4798,5 +4714,89 @@
 "https://techcrunch.com/?p=3189297": {
 "t": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
 "s": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+},
+"https://the-decoder.com/?p=42964": {
+"t": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+"s": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including CVS Health and Cigna Healthcare are already deploying the technology. The article AI agents are starting to fill out medical forms and file insurance requests in place of human staff appeared first on The Decoder."
+},
+"https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/": {
+"t": "Google makes it easier to use Gemini without training AI on your data",
+"s": "AI training and chat history will now have separate toggles in the Gemini activity settings."
+},
+"https://the-decoder.com/?p=42962": {
+"t": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+"s": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardware shortage through industrial-scale distillation of US AI models. The article The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3189502": {
+"t": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+"s": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO."
+},
+"https://techcrunch.com/?p=3189498": {
+"t": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+"s": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+},
+"https://the-decoder.com/?p=42966": {
+"t": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+"s": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's already making heavy use of the underlying models. The article OpenAI opens its cybersecurity tool Daybreak to NATO and European governments appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188450": {
+"t": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+"s": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta."
+},
+"https://the-decoder.com/?p=42955": {
+"t": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+"s": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail. Childlight CEO Paul Stanfield wants governments to classify the problem as a preventable public health emergency. The article Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42961": {
+"t": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+"s": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials. The company has no approved drugs yet. The article Isomorphic Labs raises $5 billion in its second mega-round within six months appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42960": {
+"t": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+"s": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3189440": {
+"t": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+"s": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round."
+},
+"https://techcrunch.com/?p=3189451": {
+"t": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+"s": "Science Corp raised a $400 million Series D to scale up its anti-blindness business."
+},
+"https://techcrunch.com/?p=3189442": {
+"t": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+"s": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
+},
+"https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/": {
+"t": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+"s": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
+},
+"https://techcrunch.com/?p=3189147": {
+"t": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+"s": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
+},
+"https://www.marktechpost.com/?p=83928": {
+"t": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
+"s": "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview. The post NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83924": {
+"t": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+"s": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API. The post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83921": {
+"t": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+"s": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1. The post Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index appeared first on MarkTechPost."
+},
+"https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+"t": "Strengthening NATO and allied cyber defenses with AI",
+"s": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+},
+"https://openai.com/index/introducing-openai-for-chile": {
+"t": "Introducing OpenAI for Chile",
+"s": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+},
+"https://openai.com/business/customer-stories/revolut": {
+"t": "How Revolut raises ambition without lowering the bar",
+"s": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
 }
 }
