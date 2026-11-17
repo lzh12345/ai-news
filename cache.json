@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=3174440": {
-"t": "The next hurdle for AI agents: getting websites to let them in",
-"s": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
-},
 "https://the-decoder.com/?p=41190": {
 "t": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
 "s": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open model like Gemma 4, it can run offline RAG apps without sending data to external servers. The article Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size appeared first on The Decoder."
@@ -4798,5 +4794,9 @@
 "https://openai.com/business/customer-stories/holiday-extras-dots": {
 "t": "At Holiday Extras, dots get to work before anyone asks",
 "s": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
+},
+"https://techcrunch.com/?p=3189297": {
+"t": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+"s": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
 }
 }

@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 16 Nov 2026 23:55:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 05:53:18 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
+<link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3189297</guid>
+<pubDate>Mon, 16 Nov 2026 23:32:32 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.<br/><br/><a href="https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Robo-soldier startup backed by Eric Trump misses payroll, may collapse</title>
 <link>https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/</link>
@@ -398,14 +406,6 @@
 <pubDate>Sat, 14 Nov 2026 16:45:48 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
-<link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3188720</guid>
-<pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.<br/><br/><a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs</title>
