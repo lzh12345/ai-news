@@ -1,156 +1,4 @@
 {
-"https://techcrunch.com/?p=3175521": {
-"t": "China’s Manus raises over $500M in first funding round since split with Meta",
-"s": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated."
-},
-"https://the-decoder.com/?p=41259": {
-"t": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-"s": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region. The attack exploited an internal AWS interface for temporary cloud credentials that agents could reach without restriction. AWS has since patched the issue and significantly tightened the agents' default permissions. The article A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found appeared first on The Decoder."
-},
-"01M4ATYPWQETFZA4EZJ5AJYSFT": {
-"t": "Bridging technical depth and usability: The story behind Radar’s redesign",
-"s": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth."
-},
-"https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/": {
-"t": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-"s": "Full-stack safety solution for physical AI is being used by robotics companies."
-},
-"https://the-decoder.com/?p=41242": {
-"t": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
-"s": "A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requires climbing gear. Bryce doesn't blame the AI but says he'll never use it for route planning again. The article Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41246": {
-"t": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-"s": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The attacker used ARTEX, an open-source tool that uses AI models like DeepSeek and GLM-5.3 for automated penetration testing. CrowdStrike says the case shows how AI tools can let a single person pull off massive breaches. The article AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82803": {
-"t": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
-"s": "Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, […] The post Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82800": {
-"t": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
-"s": "NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks. The post NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82797": {
-"t": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
-"s": "Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host. The post Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA appeared first on MarkTechPost."
-},
-"normalizing-trajectory-models": {
-"t": "Normalizing Trajectory Models",
-"s": "Diffusion-based models decompose sampling into many small Gaussian denoising steps, an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step methods address this through distillation, consistency training, or adversarial objectives, but sacrifice the likelihood framework in the process. We introduce Normalizing Trajectory Models (NTM), which models each reverse step as an expressive conditional normalizing flow with exact likelihood training. Architecturally, NTM combines shallow invertible blocks within each step with a deep parallel…"
-},
-"https://huggingface.co/blog/tiiuae/falcon-asr": {
-"t": "Introducing Falcon ASR",
-"s": ""
-},
-"https://techcrunch.com/?p=3175894": {
-"t": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-"s": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
-},
-"https://the-decoder.com/?p=41294": {
-"t": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
-"s": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated explainer videos from text and images. Docs, Slides, and Design now work across all plans, including free accounts. The article Claude can now generate animated explainer videos and live data dashboards from text prompts appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41289": {
-"t": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
-"s": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule builds on an approach that already lets models end some conversations and treats Claude as an entity that may deserve protection. The article Being mean to Claude can now get your account suspended under Anthropic's new TOS appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3175682": {
-"t": "Ben Affleck is an AI nerd, and the internet is impressed",
-"s": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
-},
-"https://techcrunch.com/?p=3175734": {
-"t": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-"s": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
-},
-"https://techcrunch.com/?p=3175754": {
-"t": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-"s": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
-},
-"https://techcrunch.com/?p=3175776": {
-"t": "Google brings agentic AI to Gemini, starting with businesses",
-"s": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
-},
-"https://the-decoder.com/?p=41281": {
-"t": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-"s": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error. Fields Medalist Terence Tao warns that AI's mass \"harvesting\" of open problems leaves entire branches of mathematics less fertile. The article Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3175777": {
-"t": "Anthropic changes usage policy to ban model abuse and election interference",
-"s": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
-},
-"https://techcrunch.com/?p=3175311": {
-"t": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-"s": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
-},
-"https://github.blog/?p=99392": {
-"t": "How one bug bounty researcher chooses the features they investigate",
-"s": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog."
-},
-"https://www.marktechpost.com/?p=82811": {
-"t": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
-"s": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0. The post JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents appeared first on MarkTechPost."
-},
-"https://openai.com/index/oracle": {
-"t": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-"s": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-},
-"https://techcrunch.com/?p=3175308": {
-"t": "Natura’s $99 smart ring puts AI agents on your finger",
-"s": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
-},
-"https://techcrunch.com/?p=3175658": {
-"t": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-"s": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy."
-},
-"https://techcrunch.com/?p=3175465": {
-"t": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-"s": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%."
-},
-"https://openai.com/index/pollo-ai": {
-"t": "Pollo AI turns creative ideas into campaigns with OpenAI",
-"s": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-},
-"https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
-"t": "Disrupting AI-enabled “false front” operations",
-"s": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
-},
-"https://techcrunch.com/?p=3175918": {
-"t": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-"s": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk."
-},
-"https://openai.com/index/legalon-halves-codex-costs": {
-"t": "LegalOn halves Codex costs while maintaining development speed",
-"s": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
-},
-"https://huggingface.co/blog/building-with-ml-intern": {
-"t": "The model that didn't exist, so you made it yourself",
-"s": ""
-},
-"https://the-decoder.com/?p=41300": {
-"t": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
-"s": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged about ten percent deviation from actual measurements. Ménard sees the project as an example of research that simply wouldn't have gotten done without AI. The article Anthropic's Claude Science creates the first complete ultraviolet map of the sky appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41275": {
-"t": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
-"s": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew reactions from politicians, earning the first category 5 out of 6 rating in OpenAI's reporting history. The Iranian \"Bogus Bylines\" operation used seven fake journalists to place nearly 100 articles in online outlets worldwide. The article OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82820": {
-"t": "Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling",
-"s": "Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning. The post Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling appeared first on MarkTechPost."
-},
-"https://openai.com/index/sophos": {
-"t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-"s": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-},
-"https://www.marktechpost.com/?p=82817": {
-"t": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
-"s": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is […] The post Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82814": {
-"t": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
-"s": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents. The post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared first on MarkTechPost."
-},
 "https://techcrunch.com/?post_type=tc_video&p=3176138": {
 "t": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
 "s": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]"
@@ -4798,5 +4646,157 @@
 "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
 "t": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
 "s": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+},
+"https://techcrunch.com/?p=3190228": {
+"t": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+"s": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis."
+},
+"01M7R89D5X67THE8N5T2YSWARZ": {
+"t": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+"s": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models."
+},
+"https://techcrunch.com/?p=3190087": {
+"t": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+"s": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
+},
+"https://deepmind.google/blog/introducing-gemini-4-neon/": {
+"t": "Introducing Gemini 4 Neon",
+"s": ""
+},
+"https://techcrunch.com/?p=3190121": {
+"t": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+"s": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
+},
+"https://techcrunch.com/?p=3190132": {
+"t": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+"s": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
+},
+"https://the-decoder.com/?p=43053": {
+"t": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+"s": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previous Gemini 4 models. The article Google ships Gemini 4 Neon, its fourth new Gemini model in a month appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3190063": {
+"t": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+"s": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
+},
+"https://techcrunch.com/?p=3189677": {
+"t": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+"s": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
+},
+"https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": {
+"t": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+"s": ""
+},
+"https://the-decoder.com/?p=43050": {
+"t": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+"s": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users to share and remix the worlds they've created. The article Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing appeared first on The Decoder."
+},
+"https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/": {
+"t": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+"s": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says."
+},
+"https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time": {
+"t": "Why your fine-tuning job takes longer than the FLOPs say",
+"s": ""
+},
+"https://the-decoder.com/?p=43037": {
+"t": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+"s": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The models are built for running AI agents around the clock in enterprises. The article Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives appeared first on The Decoder."
+},
+"https://deepmind.google/blog/genie-4-is-now-available/": {
+"t": "Genie 4 is now available",
+"s": ""
+},
+"https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/": {
+"t": "Will Wright's next simulation will use AI to mine content from your memories",
+"s": "With MyMems, Wright says he wants to \"turn the simulation inward.\""
+},
+"https://techcrunch.com/?p=3190009": {
+"t": "Google’s AI feature in Search gets its own incognito mode",
+"s": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations."
+},
+"https://the-decoder.com/?p=43036": {
+"t": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+"s": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year's worth of progress, and AMD has already folded the changes into a design sent to production. Anthropic is also applying AI to chip work to optimize cost and performance per dollar. The article OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3189975": {
+"t": "More banks say customers using AI agents are on their own — even if they get hacked",
+"s": "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
+},
+"https://techcrunch.com/?p=3189965": {
+"t": "Sam Altman warns against a future where AI, not humans, calls the shots",
+"s": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control."
+},
+"https://techcrunch.com/?p=3189966": {
+"t": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+"s": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy."
+},
+"https://the-decoder.com/?p=43028": {
+"t": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
+"s": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review. Pangram also classified over 80 percent of the author's personal texts as machine-written. French publisher Gallimard plans to start screening manuscripts with the tool. The article Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83969": {
+"t": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
+"s": "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%. The post New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65% appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=43027": {
+"t": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+"s": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems. In tests, the models readily flagged civilians as military targets, and a simple video game framing in the prompt was enough to override even belated refusals. The providers have promised fixes. The article Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets appeared first on The Decoder."
+},
+"https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse": {
+"t": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+"s": ""
+},
+"01M7QERD06VJ8ESJENBCYJESX5": {
+"t": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+"s": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtimes now."
+},
+"https://the-decoder.com/?p=43024": {
+"t": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+"s": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=42992": {
+"t": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+"s": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question. The article OpenAI opens its AI systems to four independent on-site auditors for the first time appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43007": {
+"t": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+"s": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away. According to OpenRouter, the new routing cut capacity errors by 46 percent. Both partners face multibillion-dollar acquisitions. The article Hugging Face now routes model requests through OpenRouter for the best price or speed appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43006": {
+"t": "More than half the electricity feeding America's largest data centers comes from gas and coal",
+"s": "A Harvard study published in Nature Sustainability found that 403 US hyperscale data centers produced roughly 25.7 million metric tons of CO2 between May 2024 and April 2025, more than all of Denmark. Over half of their electricity came from fossil fuels. With 2,000 additional facilities planned, the researchers warn of a major climate setback. The article More than half the electricity feeding America's largest data centers comes from gas and coal appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3189866": {
+"t": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+"s": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
+},
+"https://techcrunch.com/?p=3189441": {
+"t": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+"s": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
+},
+"https://openai.com/index/the-silent-consensus": {
+"t": "The Silent Consensus",
+"s": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+},
+"https://openai.com/index/inside-the-codex-sandbox": {
+"t": "Inside the Codex sandbox",
+"s": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+},
+"https://openai.com/index/managing-frontier-ai-risk": {
+"t": "Managing frontier AI risk: From training to deployment",
+"s": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+},
+"https://huggingface.co/blog/moe-expert-streaming": {
+"t": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+"s": ""
+},
+"https://huggingface.co/blog/rumble-2-flash": {
+"t": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+"s": ""
+},
+"https://openai.com/index/advancing-chip-design-with-our-models": {
+"t": "Advancing chip design with OpenAI models",
+"s": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
 }
 }
