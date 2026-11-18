@@ -5,8 +5,40 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 18 Nov 2026 01:58:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 12:30:30 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need</title>
+<link>https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3188451</guid>
+<pubDate>Wed, 18 Nov 2026 11:30:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.<br/><br/><a href="https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Suno's new Visuals feature pairs AI-generated music with AI-generated video</title>
+<link>https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42999</guid>
+<pubDate>Wed, 18 Nov 2026 10:22:45 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode</title>
+<link>https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83952</guid>
+<pubDate>Wed, 18 Nov 2026 07:10:53 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript</title>
+<link>https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=83949</guid>
+<pubDate>Wed, 18 Nov 2026 06:53:28 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run. The post Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt</title>
 <link>https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/</link>
@@ -30,6 +62,14 @@
 <pubDate>Wed, 18 Nov 2026 00:16:50 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.<br/><br/><a href="https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+<link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+<guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.<br/><br/><a href="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Nvidia is abandoning China after Jensen Huang’s ouster</title>
@@ -304,22 +344,6 @@
 <description><![CDATA[【techcrunch.com】Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.<br/><br/><a href="https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Science Corporation’s brain tech is worth $3.5 billion after new funding</title>
-<link>https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3189451</guid>
-<pubDate>Tue, 17 Nov 2026 14:26:46 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Science Corp raised a $400 million Series D to scale up its anti-blindness business.<br/><br/><a href="https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.</title>
-<link>https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is</link>
-<guid isPermaLink="false">https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is</guid>
-<pubDate>Tue, 17 Nov 2026 14:21:39 +0000</pubDate>
-<source>garymarcus.substack.com</source>
-<description><![CDATA[【garymarcus.substack.com】Hundreds of companies have been hit. Shit is getting very real.<br/><br/><a href="https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
 <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</guid>
@@ -400,14 +424,6 @@
 <description><![CDATA[【the-decoder.com】Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called "exploit_agent," found on an exposed server, automatically compared code before and after patches, built exploits, and ran them on its own. The article Google warns that fully automated cyberattacks have arrived and will get worse fast appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Is there a case for impeaching Trump over Jensengate?</title>
-<link>https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump</link>
-<guid isPermaLink="false">https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump</guid>
-<pubDate>Mon, 16 Nov 2026 19:34:40 +0000</pubDate>
-<source>garymarcus.substack.com</source>
-<description><![CDATA[【garymarcus.substack.com】We need to know more, but there’s definitely enough smoke now to warrant an investigation<br/><br/><a href="https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump">阅读原文</a>]]></description>
-</item>
-<item>
 <title>OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice</title>
 <link>https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/</link>
 <guid isPermaLink="false">https://the-decoder.com/?p=42931</guid>
@@ -424,14 +440,6 @@
 <description><![CDATA[【arstechnica.com】Trump bets China won’t mind US blocking remote access to AI chips.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten</title>
-<link>https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=42940</guid>
-<pubDate>Mon, 16 Nov 2026 18:52:55 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Broadening access to AI for scientists</title>
 <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
 <guid isPermaLink="false">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
@@ -446,14 +454,6 @@
 <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.<br/><br/><a href="https://openai.com/index/strengthening-online-child-safety">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Game over, man?</title>
-<link>https://garymarcus.substack.com/p/game-over-man</link>
-<guid isPermaLink="false">https://garymarcus.substack.com/p/game-over-man</guid>
-<pubDate>Mon, 16 Nov 2026 16:29:36 +0000</pubDate>
-<source>garymarcus.substack.com</source>
-<description><![CDATA[【garymarcus.substack.com】Looks like the bubble has finally popped<br/><br/><a href="https://garymarcus.substack.com/p/game-over-man">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Jensen Huang allies build a &quot;war room&quot; to get him back at Nvidia</title>

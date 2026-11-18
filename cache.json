@@ -1,24 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82781": {
-"t": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
-"s": "Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. The post Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3175441": {
-"t": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-"s": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%."
-},
-"https://techcrunch.com/?p=3174041": {
-"t": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-"s": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee."
-},
-"https://the-decoder.com/?p=41255": {
-"t": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
-"s": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature schemes within months. Vitalik Buterin broadly agrees but warns against rushed migrations, saying he's personally lost more money to botched transitions than to hacks. So far, no one has actually broken ECDSA in practice. The article AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3175506": {
-"t": "Google releases a new local-first Granola competitor",
-"s": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
-},
 "https://techcrunch.com/?p=3175521": {
 "t": "China’s Manus raises over $500M in first funding round since split with Meta",
 "s": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated."
@@ -4798,5 +4778,25 @@
 "https://garymarcus.substack.com/p/game-over-man": {
 "t": "Game over, man?",
 "s": "Looks like the bubble has finally popped"
+},
+"https://techcrunch.com/?p=3188451": {
+"t": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+"s": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+},
+"https://the-decoder.com/?p=42999": {
+"t": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+"s": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83952": {
+"t": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+"s": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=83949": {
+"t": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+"s": "Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run. The post Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript appeared first on MarkTechPost."
+},
+"https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
+"t": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+"s": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
 }
 }
