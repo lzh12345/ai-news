@@ -1,124 +1,4 @@
 {
-"https://huggingface.co/blog/LiquidAI/open-d1": {
-"t": "Multimodal open d1 decision models for the edge",
-"s": ""
-},
-"https://techcrunch.com/?p=3175177": {
-"t": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-"s": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
-},
-"01M49SJF5QT2EPN5CTQ3C99EZW": {
-"t": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-"s": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded recommendations to Managed Defense Analysts."
-},
-"https://the-decoder.com/?p=41218": {
-"t": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
-"s": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three. The article OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3174992": {
-"t": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-"s": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures."
-},
-"https://the-decoder.com/?p=41212": {
-"t": "Google bets Gemini can turn casual players into game developers with new Playground feature",
-"s": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool with a beta planned for 2026. The article Google bets Gemini can turn casual players into game developers with new Playground feature appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3174791": {
-"t": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-"s": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
-},
-"https://techcrunch.com/?p=3175054": {
-"t": "Google experiments with an AI-powered gaming platform",
-"s": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
-},
-"https://techcrunch.com/?p=3174810": {
-"t": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-"s": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off."
-},
-"https://techcrunch.com/?p=3174825": {
-"t": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-"s": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
-},
-"https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/": {
-"t": "Mistral says \"Le Chonk\" can challenge the best AI models",
-"s": "Mistral says Le Chonk can rival top closed models while remaining open-weight."
-},
-"https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/": {
-"t": "Google rolls out improved SynthID AI content detector, now available globally",
-"s": "The new SynthID website can now identify AI content from Google, OpenAI, and more."
-},
-"https://techcrunch.com/?p=3174903": {
-"t": "Google’s new SynthID website can identify AI-generated media",
-"s": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
-},
-"https://techcrunch.com/?p=3174837": {
-"t": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-"s": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type."
-},
-"https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
-"t": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-"s": ""
-},
-"https://the-decoder.com/?p=41204": {
-"t": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
-"s": "OpenAI's teen safety features for ChatGPT failed an independent audit. After more than 4,000 test prompts, the Common Sense Media Youth AI Safety Institute rated the service an \"unacceptable risk\" for minors. Conversations about suicide and self-harm on test accounts never triggered a parental alert. The institute wants teenagers locked out until safety can be independently verified. The article ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41200": {
-"t": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
-"s": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 confirmed vulnerabilities from April through July 2026, including more than 33,000 rated high-severity or critical. The article Anthropic gives more security teams access to Claude with fewer safety restrictions appeared first on The Decoder."
-},
-"https://openai.com/index/teens-learn-and-plan": {
-"t": "Helping teens learn, plan, and shape the future of AI",
-"s": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
-},
-"https://openai.com/index/radisson": {
-"t": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-"s": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
-},
-"https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/": {
-"t": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-"s": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished."
-},
-"https://techcrunch.com/?p=3175337": {
-"t": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-"s": "The developer of Hermes Agent raised a $90 million Series B."
-},
-"https://techcrunch.com/?p=3175292": {
-"t": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-"s": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
-},
-"https://the-decoder.com/?p=41238": {
-"t": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
-"s": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers get GPT-6 Sol, free users get GPT-6 Luna. The article ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41233": {
-"t": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-"s": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3175232": {
-"t": "Meta’s Muse launches on iPad just a month after its mobile debut",
-"s": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
-},
-"https://www.marktechpost.com/?p=82778": {
-"t": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
-"s": "Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. The target is real-time decisions on the […] The post Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3175219": {
-"t": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-"s": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
-},
-"https://openai.com/index/gpt-6-for-everyone": {
-"t": "GPT-6 and Intelligent UI for everyone",
-"s": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
-},
-"https://www.marktechpost.com/?p=82784": {
-"t": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
-"s": "Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its fingerprint. Flagged weight files are blocked in the load path, package-content findings fail CI, and tools run in probed OS sandboxes. Here is what each checkpoint decides, and what it does not cover. The post What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs appeared first on MarkTechPost."
-},
-"https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/": {
-"t": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-"s": "Get ready for more AI in your Windows and more AI on the desktop."
-},
 "https://www.marktechpost.com/?p=82781": {
 "t": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
 "s": "Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. The post Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens appeared first on MarkTechPost."
@@ -4798,5 +4678,125 @@
 "https://openai.com/business/customer-stories/revolut": {
 "t": "How Revolut raises ambition without lowering the bar",
 "s": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+},
+"https://techcrunch.com/?p=3189878": {
+"t": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+"s": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+},
+"https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/": {
+"t": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+"s": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next."
+},
+"https://techcrunch.com/?p=3189812": {
+"t": "Nvidia promises that revenue will keep soaring — for now",
+"s": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+},
+"https://techcrunch.com/?p=3189789": {
+"t": "Nvidia is abandoning China after Jensen Huang’s ouster",
+"s": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+},
+"https://techcrunch.com/?p=3189779": {
+"t": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+"s": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+},
+"https://www.marktechpost.com/?p=83945": {
+"t": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+"s": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work. The post Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3189778": {
+"t": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+"s": "The former CEO offered to return to his top role at the company after his resignation last week."
+},
+"https://techcrunch.com/?p=3189746": {
+"t": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+"s": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+},
+"https://www.marktechpost.com/?p=83940": {
+"t": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+"s": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index. The post OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3189752": {
+"t": "SEC reportedly investigating Nvidia amid Huang exit",
+"s": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+},
+"https://techcrunch.com/?p=3189743": {
+"t": "Google joins the tech outage trend by announcing it’s not having one",
+"s": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
+},
+"https://www.marktechpost.com/?p=83936": {
+"t": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+"s": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers. The post Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained appeared first on MarkTechPost."
+},
+"https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/": {
+"t": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+"s": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes."
+},
+"https://the-decoder.com/?p=42982": {
+"t": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+"s": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk. The article OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains appeared first on The Decoder."
+},
+"01M7NJA4ESQ31MDVBT2RBP1ZHX": {
+"t": "Quad9’s withdrawal from France: A canary in the coal mine",
+"s": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet."
+},
+"https://techcrunch.com/?p=3189688": {
+"t": "Model ML raises $250M to automate investment banking grunt work",
+"s": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis."
+},
+"https://techcrunch.com/?p=3189640": {
+"t": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+"s": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
+},
+"https://techcrunch.com/?p=3189652": {
+"t": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+"s": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+},
+"https://github.blog/?p=100215": {
+"t": "Maintainers don’t need more AI bug reports. They need fixes.",
+"s": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t need more AI bug reports. They need fixes. appeared first on The GitHub Blog."
+},
+"https://github.blog/?p=100309": {
+"t": "Building the Agent Host Protocol for sessions that continue across devices",
+"s": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3189001": {
+"t": "As decision model use skyrockets, is customization the next frontier?",
+"s": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities."
+},
+"https://techcrunch.com/?p=3189612": {
+"t": "Pedestal AI raises $4.7 million to agentify the supply chain",
+"s": "The company uses agentic AI to make supply chains faster and more reliable."
+},
+"https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+"t": "Introducing GPT-6.2 Astra and Sol",
+"s": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+},
+"https://techcrunch.com/?p=3189535": {
+"t": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+"s": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+},
+"https://techcrunch.com/?p=3189496": {
+"t": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+"s": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+},
+"https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is": {
+"t": "Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.",
+"s": "Hundreds of companies have been hit. Shit is getting very real."
+},
+"https://openai.com/index/introducing-chatgpt-for-sales": {
+"t": "Introducing ChatGPT for Sales",
+"s": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+},
+"https://openai.com/index/astra-law-6-2": {
+"t": "Astra for Law leads in legal intelligence",
+"s": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+},
+"https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump": {
+"t": "Is there a case for impeaching Trump over Jensengate?",
+"s": "We need to know more, but there’s definitely enough smoke now to warrant an investigation"
+},
+"https://garymarcus.substack.com/p/game-over-man": {
+"t": "Game over, man?",
+"s": "Looks like the bubble has finally popped"
 }
 }
