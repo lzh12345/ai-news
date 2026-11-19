@@ -1,36 +1,4 @@
 {
-"https://techcrunch.com/?post_type=tc_video&p=3176138": {
-"t": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-"s": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]"
-},
-"https://techcrunch.com/?post_type=tc_podcast&p=3176135": {
-"t": "Amazon drops data center NDAs, and AI agents want your credit card",
-"s": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]"
-},
-"https://techcrunch.com/?p=3174693": {
-"t": "Danu Robotics’ fight to build a better recycling robot",
-"s": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
-},
-"https://techcrunch.com/?p=3175674": {
-"t": "We can’t help treating AI like it’s human. But should we?",
-"s": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
-},
-"https://github.blog/?p=99381": {
-"t": "Hack the World: Why hackathons are still the best place to learn to build",
-"s": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3176079": {
-"t": "a16z’s Olivia Moore on the state of consumer AI",
-"s": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
-},
-"https://huggingface.co/blog/allenai/impactful-scheduling": {
-"t": "Impactful scheduling for GPU clusters",
-"s": ""
-},
-"https://techcrunch.com/?p=3175987": {
-"t": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-"s": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type."
-},
 "01M497Y0BQ6DVED6YT05KTNA6W": {
 "t": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
 "s": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks."
@@ -4798,5 +4766,37 @@
 "https://openai.com/index/advancing-chip-design-with-our-models": {
 "t": "Advancing chip design with OpenAI models",
 "s": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
+},
+"https://www.marktechpost.com/?p=83972": {
+"t": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
+"s": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. The post Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3190274": {
+"t": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+"s": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+},
+"https://techcrunch.com/?p=3190239": {
+"t": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+"s": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+},
+"https://techcrunch.com/?p=3190290": {
+"t": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+"s": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
+},
+"https://techcrunch.com/?p=3190266": {
+"t": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+"s": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+},
+"https://techcrunch.com/?p=3190264": {
+"t": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+"s": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+},
+"https://openai.com/index/research-acceleration-jagged-frontier": {
+"t": "Research acceleration: The jagged frontier",
+"s": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+},
+"https://openai.com/business/customer-stories/sumitomo-life": {
+"t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+"s": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
 }
 }
