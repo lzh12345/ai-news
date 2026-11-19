@@ -1,48 +1,4 @@
 {
-"01M497Y0BQ6DVED6YT05KTNA6W": {
-"t": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
-"s": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks."
-},
-"01M4EHZFCN5RWBFJJ8WEERWAYZ": {
-"t": "Deno is joining Cloudflare",
-"s": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places."
-},
-"https://the-decoder.com/?p=41309": {
-"t": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
-"s": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how. The article OpenAI's safety crisis keeps getting worse and the company keeps making it worse appeared first on The Decoder."
-},
-"https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/": {
-"t": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-"s": "One damaged data center has supercomputers used for training Yandex’s AI model."
-},
-"https://techcrunch.com/?p=3176290": {
-"t": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-"s": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
-},
-"https://www.marktechpost.com/?p=82827": {
-"t": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
-"s": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture, plus a hosted API option. TL;DR What is Qwen-Image-2.1-Turbo? Qwen-Image-2.1-Turbo is an […] The post Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82823": {
-"t": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-"s": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost."
-},
-"https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/": {
-"t": "AI coding agents generate more code, but not more software",
-"s": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\""
-},
-"https://techcrunch.com/?p=3176212": {
-"t": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-"s": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
-},
-"https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/": {
-"t": "AI disqualification yields new Nikon Small World in Motion winner",
-"s": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus."
-},
-"https://the-decoder.com/?p=41324": {
-"t": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
-"s": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The article Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows appeared first on The Decoder."
-},
 "01M4GV0DTKYJTCM5GPYBCME1T4": {
 "t": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
 "s": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x."
@@ -4798,5 +4754,49 @@
 "https://openai.com/business/customer-stories/sumitomo-life": {
 "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
 "s": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+},
+"https://techcrunch.com/?p=3190440": {
+"t": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+"s": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
+},
+"https://github.blog/?p=100161": {
+"t": "The best things in open source are built together",
+"s": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3190277": {
+"t": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+"s": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
+},
+"https://the-decoder.com/?p=43077": {
+"t": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
+"s": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his early funding may have been an act \"that ended the world.\" The article Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188332": {
+"t": "Superhuman pushes its Go assistant everywhere",
+"s": "Superhuman is making Go its central agent and making it available in Docs and Mail"
+},
+"01M7R5N9JG35DGY66ZG3E9RXSW": {
+"t": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+"s": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks."
+},
+"https://the-decoder.com/?p=43072": {
+"t": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
+"s": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of \"AI slop\" beyond routine tasks. The article OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43064": {
+"t": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+"s": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83990": {
+"t": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
+"s": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue. The post Not If, But How: Responding to Security Incidents in the Age of AI Attackers appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=43058": {
+"t": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
+"s": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models. The article OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=83987": {
+"t": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+"s": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost."
 }
 }
