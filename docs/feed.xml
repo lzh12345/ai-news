@@ -5,8 +5,168 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 20 Nov 2026 12:21:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 22:27:13 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google rolls out new search homepage with AI chat history and no search button</title>
+<link>https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/</guid>
+<pubDate>Fri, 20 Nov 2026 21:58:29 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Google search is making it even easier to access AI tools on the search page.<br/><br/><a href="https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers</title>
+<link>https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/</guid>
+<pubDate>Fri, 20 Nov 2026 21:47:10 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Meta is “re-evaluating” 2030 sustainability goals. Will others follow?<br/><br/><a href="https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
+<link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+<guid isPermaLink="false">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
+<pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Test using prompts with unique, trackable secrets proves that data doesn't stay private.<br/><br/><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI makes it much harder for attackers to extract how its latest AI models think</title>
+<link>https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43142</guid>
+<pubDate>Fri, 20 Nov 2026 20:31:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns. The article OpenAI makes it much harder for attackers to extract how its latest AI models think appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)</title>
+<link>https://blog.cloudflare.com/ruby2shell-waf-protection/</link>
+<guid isPermaLink="false">01M7X91JJQ5CWGQ65DZBAHW4Q9</guid>
+<pubDate>Fri, 20 Nov 2026 20:24:38 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.<br/><br/><a href="https://blog.cloudflare.com/ruby2shell-waf-protection/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws</title>
+<link>https://blog.cloudflare.com/phpaftershell-waf-protection/</link>
+<guid isPermaLink="false">01M7X76K1JK00SF9K4YN83WANQ</guid>
+<pubDate>Fri, 20 Nov 2026 20:00:45 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.<br/><br/><a href="https://blog.cloudflare.com/phpaftershell-waf-protection/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
+<link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3190943</guid>
+<pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.<br/><br/><a href="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats</title>
+<link>https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43124</guid>
+<pubDate>Fri, 20 Nov 2026 19:50:27 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an "existential threat" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should follow suit. The article Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too</title>
+<link>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3190908</guid>
+<pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.<br/><br/><a href="https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working</title>
+<link>https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43135</guid>
+<pubDate>Fri, 20 Nov 2026 18:50:31 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google is bringing "Computer Use" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only</title>
+<link>https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84016</guid>
+<pubDate>Fri, 20 Nov 2026 17:42:29 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Chips can survive the space environment — can their financing?</title>
+<link>https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3190857</guid>
+<pubDate>Fri, 20 Nov 2026 17:40:01 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?<br/><br/><a href="https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others</title>
+<link>https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43119</guid>
+<pubDate>Fri, 20 Nov 2026 15:56:03 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead. The article Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Apple joins the race for AI agents that control your device while raising new barriers for competitors</title>
+<link>https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43117</guid>
+<pubDate>Fri, 20 Nov 2026 15:03:25 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The fallout from Nvidia’s Jensen Huang scandal continues</title>
+<link>https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/</link>
+<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3190825</guid>
+<pubDate>Fri, 20 Nov 2026 14:55:44 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]<br/><br/><a href="https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup</title>
+<link>https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43118</guid>
+<pubDate>Fri, 20 Nov 2026 14:53:50 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The deal would bolster Nvidia's own open-source models and its push into robotics. The article Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B</title>
+<link>https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84009</guid>
+<pubDate>Fri, 20 Nov 2026 14:44:52 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Six AI-powered gadgets that could make your home office smarter</title>
+<link>https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3186208</guid>
+<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.<br/><br/><a href="https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google's latest homepage update pushes its search engine further toward an AI answer engine</title>
+<link>https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43111</guid>
+<pubDate>Fri, 20 Nov 2026 13:19:31 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launching worldwide. Google Search co-lead Robby Stein says the feature should make it easier for users to continue longer web research. The article Google's latest homepage update pushes its search engine further toward an AI answer engine appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Combatting adversarial distillation</title>
+<link>https://openai.com/index/combatting-adversarial-distillation</link>
+<guid isPermaLink="false">https://openai.com/index/combatting-adversarial-distillation</guid>
+<pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.<br/><br/><a href="https://openai.com/index/combatting-adversarial-distillation">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill</title>
 <link>https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/</link>
@@ -38,6 +198,46 @@
 <pubDate>Fri, 20 Nov 2026 00:43:50 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.<br/><br/><a href="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
+<link>https://huggingface.co/blog/inkling2mini</link>
+<guid isPermaLink="false">https://huggingface.co/blog/inkling2mini</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/inkling2mini">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
+<link>https://huggingface.co/blog/harness-adapters-at-scale</link>
+<guid isPermaLink="false">https://huggingface.co/blog/harness-adapters-at-scale</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/harness-adapters-at-scale">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth</title>
+<link>https://machinelearning.apple.com/research/depth-pro-2-monocular</link>
+<guid isPermaLink="false">depth-pro-2-monocular</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<source>machinelearning.apple.com</source>
+<description><![CDATA[【machinelearning.apple.com】We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution. Depth Pro 2 produces depth maps that are metrically accurate, sharp, and temporally consistent all at once, outperforming…<br/><br/><a href="https://machinelearning.apple.com/research/depth-pro-2-monocular">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+<link>https://openai.com/business/customer-stories/hebbia</link>
+<guid isPermaLink="false">https://openai.com/business/customer-stories/hebbia</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.<br/><br/><a href="https://openai.com/business/customer-stories/hebbia">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Can AI help scientists identify promising drug candidates?</title>
+<link>https://openai.com/index/introducing-medchembench</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-medchembench</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.<br/><br/><a href="https://openai.com/index/introducing-medchembench">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Meta’s new Muse Charm device may cost $300</title>
@@ -136,14 +336,6 @@
 <description><![CDATA[【techcrunch.com】In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.<br/><br/><a href="https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears</title>
-<link>https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43081</guid>
-<pubDate>Thu, 19 Nov 2026 17:02:41 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers. A New York Times investigation found that Alibaba had routed Nvidia chips to Chinese military researchers through a web of front companies. The article Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories</title>
 <link>https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3190407</guid>
@@ -184,14 +376,6 @@
 <description><![CDATA[【techcrunch.com】Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.<br/><br/><a href="https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector</title>
-<link>https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43077</guid>
-<pubDate>Thu, 19 Nov 2026 14:02:22 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his early funding may have been an act "that ended the world." The article Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Superhuman pushes its Go assistant everywhere</title>
 <link>https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3188332</guid>
@@ -208,36 +392,12 @@
 <description><![CDATA[【blog.cloudflare.com】On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.<br/><br/><a href="https://blog.cloudflare.com/internet-traffic-2026-us-election/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues</title>
-<link>https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43072</guid>
-<pubDate>Thu, 19 Nov 2026 13:08:35 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of "AI slop" beyond routine tasks. The article OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago</title>
-<link>https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43064</guid>
-<pubDate>Thu, 19 Nov 2026 11:18:18 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Not If, But How: Responding to Security Incidents in the Age of AI Attackers</title>
 <link>https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=83990</guid>
 <pubDate>Thu, 19 Nov 2026 10:45:57 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue. The post Not If, But How: Responding to Security Incidents in the Age of AI Attackers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months</title>
-<link>https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43058</guid>
-<pubDate>Thu, 19 Nov 2026 09:28:01 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models. The article OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
@@ -272,12 +432,12 @@
 <description><![CDATA[【techcrunch.com】Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.<br/><br/><a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Deploying Daybreak Red</title>
-<link>https://openai.com/business/learn/deploying-daybreak-red</link>
-<guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
+<title>Explore the Codex Security Plugin</title>
+<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
+<guid isPermaLink="false">https://openai.com/business/learn/codex-security-plugin-demo</guid>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
-<description><![CDATA[【openai.com】Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.<br/><br/><a href="https://openai.com/business/learn/deploying-daybreak-red">阅读原文</a>]]></description>
+<description><![CDATA[【openai.com】Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.<br/><br/><a href="https://openai.com/business/learn/codex-security-plugin-demo">阅读原文</a>]]></description>
 </item>
 <item>
 <title>See PR scans in action</title>
@@ -288,20 +448,20 @@
 <description><![CDATA[【openai.com】Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.<br/><br/><a href="https://openai.com/business/learn/pr-scans-demo">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Explore the Codex Security Plugin</title>
-<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-<guid isPermaLink="false">https://openai.com/business/learn/codex-security-plugin-demo</guid>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.<br/><br/><a href="https://openai.com/business/learn/codex-security-plugin-demo">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Get started with Daybreak Blue</title>
 <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
 <guid isPermaLink="false">https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.<br/><br/><a href="https://openai.com/business/learn/daybreak-blue-onboarding-demo">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Deploying Daybreak Red</title>
+<link>https://openai.com/business/learn/deploying-daybreak-red</link>
+<guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.<br/><br/><a href="https://openai.com/business/learn/deploying-daybreak-red">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’</title>
@@ -312,38 +472,6 @@
 <description><![CDATA[【techcrunch.com】The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.<br/><br/><a href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’</title>
-<link>https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3190290</guid>
-<pubDate>Wed, 18 Nov 2026 23:25:17 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】“I don’t think [Huang is] disloyal to the United States," Musk said.<br/><br/><a href="https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit</title>
-<link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3190266</guid>
-<pubDate>Wed, 18 Nov 2026 23:17:28 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.<br/><br/><a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Satya Nadella predicts AI agents will reshuffle the economics of the web</title>
-<link>https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3190264</guid>
-<pubDate>Wed, 18 Nov 2026 22:58:11 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.<br/><br/><a href="https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic reportedly prices IPO at $83 a share, above projected range</title>
-<link>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3190228</guid>
-<pubDate>Wed, 18 Nov 2026 22:11:15 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis.<br/><br/><a href="https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team</title>
 <link>https://blog.cloudflare.com/open-clairic/</link>
 <guid isPermaLink="false">01M7R89D5X67THE8N5T2YSWARZ</guid>
@@ -352,140 +480,12 @@
 <description><![CDATA[【blog.cloudflare.com】Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models.<br/><br/><a href="https://blog.cloudflare.com/open-clairic/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Nvidia created a weird bit of intrigue by not filing a routine SEC report</title>
-<link>https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3190087</guid>
-<pubDate>Wed, 18 Nov 2026 21:57:40 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.<br/><br/><a href="https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google ships Gemini 4 Neon, its fourth new Gemini model in a month</title>
-<link>https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43053</guid>
-<pubDate>Wed, 18 Nov 2026 21:03:23 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previous Gemini 4 models. The article Google ships Gemini 4 Neon, its fourth new Gemini model in a month appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
 <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
 <guid isPermaLink="false">https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</guid>
 <pubDate>Wed, 18 Nov 2026 19:54:56 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing</title>
-<link>https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43050</guid>
-<pubDate>Wed, 18 Nov 2026 19:26:25 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users to share and remix the worlds they've created. The article Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Muse privacy invasions are freaking out Meta staffers, internal chats show</title>
-<link>https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/</guid>
-<pubDate>Wed, 18 Nov 2026 19:19:33 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Why your fine-tuning job takes longer than the FLOPs say</title>
-<link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
-<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
-<pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Will Wright's next simulation will use AI to mine content from your memories</title>
-<link>https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/</link>
-<guid isPermaLink="false">https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/</guid>
-<pubDate>Wed, 18 Nov 2026 18:10:33 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】With MyMems, Wright says he wants to "turn the simulation inward."<br/><br/><a href="https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%</title>
-<link>https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83969</guid>
-<pubDate>Wed, 18 Nov 2026 16:07:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%. The post New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65% appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
-<link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
-<pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)</title>
-<link>https://blog.cloudflare.com/java4shell-waf-protection/</link>
-<guid isPermaLink="false">01M7QERD06VJ8ESJENBCYJESX5</guid>
-<pubDate>Wed, 18 Nov 2026 14:52:10 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtimes now.<br/><br/><a href="https://blog.cloudflare.com/java4shell-waf-protection/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>The Silent Consensus</title>
-<link>https://openai.com/index/the-silent-consensus</link>
-<guid isPermaLink="false">https://openai.com/index/the-silent-consensus</guid>
-<pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.<br/><br/><a href="https://openai.com/index/the-silent-consensus">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Research acceleration: The jagged frontier</title>
-<link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-<guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.<br/><br/><a href="https://openai.com/index/research-acceleration-jagged-frontier">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise</title>
-<link>https://openai.com/business/customer-stories/sumitomo-life</link>
-<guid isPermaLink="false">https://openai.com/business/customer-stories/sumitomo-life</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.<br/><br/><a href="https://openai.com/business/customer-stories/sumitomo-life">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Inside the Codex sandbox</title>
-<link>https://openai.com/index/inside-the-codex-sandbox</link>
-<guid isPermaLink="false">https://openai.com/index/inside-the-codex-sandbox</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.<br/><br/><a href="https://openai.com/index/inside-the-codex-sandbox">阅读原文</a>]]></description>
-</item>
-<item>
-<title>SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode</title>
-<link>https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83952</guid>
-<pubDate>Wed, 18 Nov 2026 07:10:53 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript</title>
-<link>https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83949</guid>
-<pubDate>Wed, 18 Nov 2026 06:53:28 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run. The post Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Managing frontier AI risk: From training to deployment</title>
-<link>https://openai.com/index/managing-frontier-ai-risk</link>
-<guid isPermaLink="false">https://openai.com/index/managing-frontier-ai-risk</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.<br/><br/><a href="https://openai.com/index/managing-frontier-ai-risk">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

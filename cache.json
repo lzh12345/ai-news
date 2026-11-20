@@ -1,104 +1,4 @@
 {
-"https://the-decoder.com/?p=41412": {
-"t": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
-"s": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing. The article AI agent teams waste massive tokens for barely measurable quality gains, research finds appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3176054": {
-"t": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-"s": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
-},
-"https://the-decoder.com/?p=41402": {
-"t": "AI agents overstate their results and remain far from autonomous research, study finds",
-"s": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew. The models' biggest weakness is still their inability to critically question their own results. The article AI agents overstate their results and remain far from autonomous research, study finds appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82852": {
-"t": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
-"s": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text. The post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3176490": {
-"t": "Will the HomeView be Apple’s first smart home success?",
-"s": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
-},
-"https://techcrunch.com/?p=3176474": {
-"t": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-"s": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
-},
-"https://www.marktechpost.com/?p=82856": {
-"t": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
-"s": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=41417": {
-"t": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
-"s": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The publication comes as OpenAI faces a boycott for dumping AI proofs on GitHub without peer review. Deepmind had its results reviewed before publishing. The article Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82866": {
-"t": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
-"s": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82859": {
-"t": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
-"s": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. The post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=41463": {
-"t": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
-"s": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled. The article Meta's new frontier model Muse Wonder Full breaks into the AI top tier appeared first on The Decoder."
-},
-"https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/": {
-"t": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-"s": "“I may have information regarding this case,\" Claude AI told Philly police."
-},
-"https://the-decoder.com/?p=41453": {
-"t": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
-"s": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds. But when the model misses the same errors across all three roles, it can mistake them for progress and reinforce them during training. The article Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3176752": {
-"t": "Meta releases its first frontier model, Muse Wonder",
-"s": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
-},
-"https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/": {
-"t": "Russia was not ready for the data center war it started with Ukraine",
-"s": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable."
-},
-"https://github.blog/?p=99409": {
-"t": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-"s": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3176669": {
-"t": "WindBorne wins a hefty US Air Force contract for its balloon data",
-"s": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
-},
-"https://the-decoder.com/?p=41437": {
-"t": "Clearing chat history helps AI agents find better solutions",
-"s": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the chat history but keeps the workspace, achieving up to 66 percent better results on the same compute budget. The article Clearing chat history helps AI agents find better solutions appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3175181": {
-"t": "Honeyjar offers AI tools to improve PR and comms at every company",
-"s": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
-},
-"https://techcrunch.com/?p=3176628": {
-"t": "Microsoft president says UK is best placed to drive AI regulation",
-"s": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
-},
-"https://techcrunch.com/?p=3176454": {
-"t": "This AI startup says it can generate permit-ready blueprints in minutes",
-"s": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
-},
-"https://the-decoder.com/?p=41439": {
-"t": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
-"s": "Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300 should deliver 40 percent more tokens per megawatt than leading GPU systems. CEO Satya Nadella calls it \"our biggest bet yet on our own silicon.\" The article Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027 appeared first on The Decoder."
-},
-"01M4HA4SBV0ANTH6C2775H4SSY": {
-"t": "Filter, reshape, and redact logs before export with Transformers",
-"s": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the destination."
-},
-"https://techcrunch.com/?p=3176499": {
-"t": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-"s": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second."
-},
-"https://the-decoder.com/?p=41425": {
-"t": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
-"s": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency. Diplomatic pressure from AI Minister Kanishka Narayan led to the reversal. The article White House reverses course and restores UK AI Safety Institute's access to frontier models appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=41429": {
 "t": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
 "s": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would take top experts years. The public, at best, sees a weird chatbot. The article Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do appeared first on The Decoder."
@@ -4798,5 +4698,105 @@
 "01M7V6MST3Z48AB8DBH1WGS8EX": {
 "t": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
 "s": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs."
+},
+"https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/": {
+"t": "Google rolls out new search homepage with AI chat history and no search button",
+"s": "Google search is making it even easier to access AI tools on the search page."
+},
+"https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/": {
+"t": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+"s": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
+},
+"https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/": {
+"t": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+"s": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+},
+"https://the-decoder.com/?p=43142": {
+"t": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+"s": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns. The article OpenAI makes it much harder for attackers to extract how its latest AI models think appeared first on The Decoder."
+},
+"01M7X91JJQ5CWGQ65DZBAHW4Q9": {
+"t": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+"s": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap."
+},
+"01M7X76K1JK00SF9K4YN83WANQ": {
+"t": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+"s": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release."
+},
+"https://techcrunch.com/?p=3190943": {
+"t": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+"s": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+},
+"https://the-decoder.com/?p=43124": {
+"t": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+"s": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should follow suit. The article Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3190908": {
+"t": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+"s": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+},
+"https://the-decoder.com/?p=43135": {
+"t": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+"s": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=84016": {
+"t": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+"s": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3190857": {
+"t": "Chips can survive the space environment — can their financing?",
+"s": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+},
+"https://the-decoder.com/?p=43119": {
+"t": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+"s": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead. The article Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43117": {
+"t": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+"s": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The Decoder."
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3190825": {
+"t": "The fallout from Nvidia’s Jensen Huang scandal continues",
+"s": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]"
+},
+"https://the-decoder.com/?p=43118": {
+"t": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+"s": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The deal would bolster Nvidia's own open-source models and its push into robotics. The article Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=84009": {
+"t": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+"s": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3186208": {
+"t": "Six AI-powered gadgets that could make your home office smarter",
+"s": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+},
+"https://the-decoder.com/?p=43111": {
+"t": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+"s": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launching worldwide. Google Search co-lead Robby Stein says the feature should make it easier for users to continue longer web research. The article Google's latest homepage update pushes its search engine further toward an AI answer engine appeared first on The Decoder."
+},
+"https://openai.com/index/combatting-adversarial-distillation": {
+"t": "Combatting adversarial distillation",
+"s": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+},
+"https://huggingface.co/blog/inkling2mini": {
+"t": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+"s": ""
+},
+"https://huggingface.co/blog/harness-adapters-at-scale": {
+"t": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+"s": ""
+},
+"depth-pro-2-monocular": {
+"t": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+"s": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution. Depth Pro 2 produces depth maps that are metrically accurate, sharp, and temporally consistent all at once, outperforming…"
+},
+"https://openai.com/business/customer-stories/hebbia": {
+"t": "Hebbia sees improvements in financial research with GPT-6 Astra",
+"s": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+},
+"https://openai.com/index/introducing-medchembench": {
+"t": "Can AI help scientists identify promising drug candidates?",
+"s": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
 }
 }
