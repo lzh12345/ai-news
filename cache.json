@@ -1,12 +1,4 @@
 {
-"https://www.marktechpost.com/?p=82849": {
-"t": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
-"s": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3176460": {
-"t": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-"s": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
-},
 "https://the-decoder.com/?p=41412": {
 "t": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
 "s": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing. The article AI agent teams waste massive tokens for barely measurable quality gains, research finds appeared first on The Decoder."
@@ -4798,5 +4790,13 @@
 "https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
 "t": "Get started with Daybreak Blue",
 "s": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
+},
+"https://the-decoder.com/?p=43108": {
+"t": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+"s": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill appeared first on The Decoder."
+},
+"01M7V6MST3Z48AB8DBH1WGS8EX": {
+"t": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+"s": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs."
 }
 }

@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 20 Nov 2026 01:33:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 12:21:44 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill</title>
+<link>https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43108</guid>
+<pubDate>Fri, 20 Nov 2026 09:59:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them</title>
+<link>https://blog.cloudflare.com/nginx2root/</link>
+<guid isPermaLink="false">01M7V6MST3Z48AB8DBH1WGS8EX</guid>
+<pubDate>Fri, 20 Nov 2026 01:58:29 +0000</pubDate>
+<source>blog.cloudflare.com</source>
+<description><![CDATA[【blog.cloudflare.com】Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.<br/><br/><a href="https://blog.cloudflare.com/nginx2root/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Apple may be developing its own AI agent that runs your Mac</title>
 <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
@@ -384,14 +400,6 @@
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives</title>
-<link>https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43037</guid>
-<pubDate>Wed, 18 Nov 2026 18:47:36 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The models are built for running AI agents around the clock in enterprises. The article Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Will Wright's next simulation will use AI to mine content from your memories</title>
 <link>https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/</link>
 <guid isPermaLink="false">https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/</guid>
@@ -478,14 +486,6 @@
 <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.<br/><br/><a href="https://openai.com/index/managing-frontier-ai-risk">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Copilot is &quot;the new OS for work,&quot; and now Office runs inside of it</title>
-<link>https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/</link>
-<guid isPermaLink="false">https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/</guid>
-<pubDate>Wed, 18 Nov 2026 00:27:29 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.<br/><br/><a href="https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
