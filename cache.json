@@ -1,88 +1,4 @@
 {
-"01M4GV0DTKYJTCM5GPYBCME1T4": {
-"t": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-"s": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x."
-},
-"https://the-decoder.com/?p=41318": {
-"t": "Anthropic launches a free AI scanner for open-source projects",
-"s": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent. The article Anthropic launches a free AI scanner for open-source projects appeared first on The Decoder."
-},
-"https://openai.com/index/asana-browser-agent": {
-"t": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-"s": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-},
-"https://techcrunch.com/?p=3176323": {
-"t": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-"s": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
-},
-"https://the-decoder.com/?p=41333": {
-"t": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
-"s": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41328": {
-"t": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
-"s": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch. The article Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82834": {
-"t": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
-"s": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A […] The post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82831": {
-"t": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
-"s": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=41370": {
-"t": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
-"s": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing requests through anonymizing relays or building their own FTP clients. The article OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3176326": {
-"t": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-"s": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off."
-},
-"https://the-decoder.com/?p=41365": {
-"t": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
-"s": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests. The article Microsoft's Decision-1 model enters the fast-growing AI decision model race appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41360": {
-"t": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-"s": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working. Fields Medalist Hugo Duminil-Copin wrote, \"I am paralysed.\" The article \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41342": {
-"t": "Few people pay for AI, but those who do spend big",
-"s": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription. The top one percent of payers spend about $900 a month, mostly on professional tools for development and automation. The article Few people pay for AI, but those who do spend big appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3176448": {
-"t": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-"s": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
-},
-"https://www.marktechpost.com/?p=82841": {
-"t": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-"s": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents. The post When the Safety Test Became the Threat: The Machine That Found Its Own Way Out appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3176436": {
-"t": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-"s": "Is Apple hoping to get into the AI-generated podcast business?"
-},
-"https://www.marktechpost.com/?p=82846": {
-"t": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
-"s": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system. The post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared first on MarkTechPost."
-},
-"https://the-decoder.com/?p=41397": {
-"t": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
-"s": "Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that demand flattens, the chain from chip makers to cloud providers takes a hit. The article Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41390": {
-"t": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
-"s": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold. According to arXiv, a small fraction of authors are flooding the platform with low-quality papers, overwhelming its volunteer moderators. The article ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41386": {
-"t": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
-"s": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and Anthropic. The real motive is business: Microsoft risks falling behind as AI labs turn their models into the primary computer interface. The article Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41313": {
-"t": "Odyssey-3 is a new generative world model that you can try for free",
-"s": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top scores on physics benchmarks, though the methodology behind those results has limits. The article Odyssey-3 is a new generative world model that you can try for free appeared first on The Decoder."
-},
 "https://www.marktechpost.com/?p=82849": {
 "t": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
 "s": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appeared first on MarkTechPost."
@@ -4798,5 +4714,89 @@
 "https://www.marktechpost.com/?p=83987": {
 "t": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
 "s": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3190713": {
+"t": "Apple may be developing its own AI agent that runs your Mac",
+"s": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+},
+"https://techcrunch.com/?p=3190498": {
+"t": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+"s": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+},
+"https://techcrunch.com/?p=3190594": {
+"t": "Meta’s new Muse Charm device may cost $300",
+"s": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+},
+"https://www.marktechpost.com/?p=84004": {
+"t": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+"s": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench. The post Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3190572": {
+"t": "These tech outages are giving Y2K, AI agent style",
+"s": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+},
+"https://the-decoder.com/?p=43100": {
+"t": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+"s": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause. The article An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool appeared first on The Decoder."
+},
+"https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/": {
+"t": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+"s": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives."
+},
+"https://the-decoder.com/?p=43092": {
+"t": "AI industry growth remains strong, but the pace is slowing",
+"s": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but revenue momentum is cooling. The article AI industry growth remains strong, but the pace is slowing appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3190534": {
+"t": "Anthropic’s IPO could deliver $156B to charity",
+"s": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+},
+"https://www.marktechpost.com/?p=84001": {
+"t": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+"s": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3190514": {
+"t": "Google gives Gemini the ability to use your Mac for you",
+"s": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
+},
+"https://www.marktechpost.com/?p=83996": {
+"t": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+"s": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route. The post Perplexity Launches Orchestrator API for Failover and Model Routing appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3190466": {
+"t": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+"s": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
+},
+"https://the-decoder.com/?p=43081": {
+"t": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+"s": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers. A New York Times investigation found that Alibaba had routed Nvidia chips to Chinese military researchers through a web of front companies. The article Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3190407": {
+"t": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+"s": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
+},
+"https://techcrunch.com/?p=3190451": {
+"t": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+"s": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
+},
+"https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": {
+"t": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+"s": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+},
+"https://openai.com/business/learn/deploying-daybreak-red": {
+"t": "Deploying Daybreak Red",
+"s": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+},
+"https://openai.com/business/learn/pr-scans-demo": {
+"t": "See PR scans in action",
+"s": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+},
+"https://openai.com/business/learn/codex-security-plugin-demo": {
+"t": "Explore the Codex Security Plugin",
+"s": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+},
+"https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
+"t": "Get started with Daybreak Blue",
+"s": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
 }
 }
