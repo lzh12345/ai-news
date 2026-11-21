@@ -5,8 +5,72 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 21 Nov 2026 04:56:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 15:49:49 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions</title>
+<link>https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43162</guid>
+<pubDate>Sat, 21 Nov 2026 13:32:35 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality. The article OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac</title>
+<link>https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84031</guid>
+<pubDate>Sat, 21 Nov 2026 12:13:50 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min</title>
+<link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84027</guid>
+<pubDate>Sat, 21 Nov 2026 11:46:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft</title>
+<link>https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43157</guid>
+<pubDate>Sat, 21 Nov 2026 11:19:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up. The article Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop</title>
+<link>https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43149</guid>
+<pubDate>Sat, 21 Nov 2026 10:33:02 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost. The article New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up</title>
+<link>https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43153</guid>
+<pubDate>Sat, 21 Nov 2026 10:27:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds are hitting overheated valuations all at once. The article US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model</title>
+<link>https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43145</guid>
+<pubDate>Sat, 21 Nov 2026 09:17:24 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available. The article Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index</title>
+<link>https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84023</guid>
+<pubDate>Sat, 21 Nov 2026 04:01:04 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Google rolls out new search homepage with AI chat history and no search button</title>
 <link>https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/</link>
@@ -128,14 +192,6 @@
 <description><![CDATA[【techcrunch.com】In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]<br/><br/><a href="https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup</title>
-<link>https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43118</guid>
-<pubDate>Fri, 20 Nov 2026 14:53:50 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The deal would bolster Nvidia's own open-source models and its push into robotics. The article Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B</title>
 <link>https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=84009</guid>
@@ -152,28 +208,12 @@
 <description><![CDATA[【techcrunch.com】From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.<br/><br/><a href="https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Google's latest homepage update pushes its search engine further toward an AI answer engine</title>
-<link>https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43111</guid>
-<pubDate>Fri, 20 Nov 2026 13:19:31 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launching worldwide. Google Search co-lead Robby Stein says the feature should make it easier for users to continue longer web research. The article Google's latest homepage update pushes its search engine further toward an AI answer engine appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Combatting adversarial distillation</title>
 <link>https://openai.com/index/combatting-adversarial-distillation</link>
 <guid isPermaLink="false">https://openai.com/index/combatting-adversarial-distillation</guid>
 <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.<br/><br/><a href="https://openai.com/index/combatting-adversarial-distillation">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill</title>
-<link>https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43108</guid>
-<pubDate>Fri, 20 Nov 2026 09:59:51 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them</title>
@@ -264,14 +304,6 @@
 <description><![CDATA[【techcrunch.com】Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.<br/><br/><a href="https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool</title>
-<link>https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43100</guid>
-<pubDate>Thu, 19 Nov 2026 21:15:01 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an "attacker." The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause. The article An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Traumatized teens sue school, cops after Doritos bag triggers AI gun alert</title>
 <link>https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/</link>
 <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/</guid>
@@ -286,14 +318,6 @@
 <pubDate>Thu, 19 Nov 2026 20:18:49 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.<br/><br/><a href="https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>AI industry growth remains strong, but the pace is slowing</title>
-<link>https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43092</guid>
-<pubDate>Thu, 19 Nov 2026 19:28:19 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but revenue momentum is cooling. The article AI industry growth remains strong, but the pace is slowing appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Anthropic’s IPO could deliver $156B to charity</title>
@@ -416,14 +440,6 @@
 <description><![CDATA[【marktechpost.com】Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence</title>
-<link>https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83972</guid>
-<pubDate>Thu, 19 Nov 2026 03:23:50 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. The post Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</title>
 <link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3190274</guid>
@@ -470,22 +486,6 @@
 <pubDate>Wed, 18 Nov 2026 23:45:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.<br/><br/><a href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team</title>
-<link>https://blog.cloudflare.com/open-clairic/</link>
-<guid isPermaLink="false">01M7R89D5X67THE8N5T2YSWARZ</guid>
-<pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate>
-<source>blog.cloudflare.com</source>
-<description><![CDATA[【blog.cloudflare.com】Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models.<br/><br/><a href="https://blog.cloudflare.com/open-clairic/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
-<link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
-<guid isPermaLink="false">https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</guid>
-<pubDate>Wed, 18 Nov 2026 19:54:56 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
