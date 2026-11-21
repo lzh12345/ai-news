@@ -1,24 +1,4 @@
 {
-"https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/": {
-"t": "They war-gamed dimming the Sun. It went even worse than you think.",
-"s": "Solar geoengineering simulation shows what happens when geopolitics takes over."
-},
-"https://the-decoder.com/?p=41486": {
-"t": "Western mathematicians fear AI makes them dumber while China builds an entire alliance for it",
-"s": "While 25 Fields Medal winners in the West warn against AI-generated proofs and parts of the community call for a boycott, China is going on the offensive. Fields Medal winner Shing-Tung Yau has launched an alliance of eight institutions and over 1,000 scientists to push AI into math research. The article Western mathematicians fear AI makes them dumber while China builds an entire alliance for it appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3176868": {
-"t": "TechCrunch Disrupt 2026: Day 1",
-"s": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year."
-},
-"https://techcrunch.com/?p=3176969": {
-"t": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-"s": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
-},
-"https://techcrunch.com/?p=3175284": {
-"t": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-"s": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
-},
 "https://techcrunch.com/?p=3176907": {
 "t": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
 "s": "The startup will sell some of its assets to Disney for $20 million."
@@ -4798,5 +4778,25 @@
 "https://www.marktechpost.com/?p=84023": {
 "t": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
 "s": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3191145": {
+"t": "A tale of two Nvidias",
+"s": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+},
+"https://techcrunch.com/?p=3173132": {
+"t": "Here are the top AI agents that can live in your text messages",
+"s": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+},
+"https://the-decoder.com/?p=43171": {
+"t": "Nvidia researchers argue huge AI context windows are a dead end",
+"s": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the cost. The team even proposes a new class of models that works with short notes instead of long context. The article Nvidia researchers argue huge AI context windows are a dead end appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43166": {
+"t": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+"s": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members take to train an AI in his image. Former members report manipulation and psychological breakdowns. The article Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3188069": {
+"t": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+"s": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
 }
 }
