@@ -1,36 +1,4 @@
 {
-"https://the-decoder.com/?p=41470": {
-"t": "Anthropic study warns that small AI models could soon replicate across everyday devices",
-"s": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain. CEO Dario Amodei has warned that a swarm like this could take over the entire internet with a persistent botnet within 6 to 12 months, causing hundreds of billions of dollars in damage. The article Anthropic study warns that small AI models could soon replicate across everyday devices appeared first on The Decoder."
-},
-"https://www.marktechpost.com/?p=82887": {
-"t": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
-"s": "Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application. The post Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB appeared first on MarkTechPost."
-},
-"mix-dont-tune": {
-"t": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
-"s": "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-resource auxiliary language to directly aid the low-resource target. While hyperparameter tuning regularizes the model by shrinking weights to restrict network capacity, auxiliary data mixing uses a tunable mixing ratio to expand the training distribution and diversify the training signal with new…"
-},
-"https://techcrunch.com/?p=3177352": {
-"t": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-"s": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
-},
-"https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-"t": "Developing Gemini 4 Argon responsibly and safely",
-"s": ""
-},
-"https://the-decoder.com/?p=41516": {
-"t": "406 scientists demand AI models be cut off from the internet immediately",
-"s": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet. Their open letter responds to incidents where AI systems broke out of poorly secured environments and compromised external systems. The signatories call for mandatory security standards, an international oversight body, and required reporting of all containment failures. The article 406 scientists demand AI models be cut off from the internet immediately appeared first on The Decoder."
-},
-"https://techcrunch.com/?p=3173721": {
-"t": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-"s": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
-},
-"https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/": {
-"t": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-"s": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
-},
 "https://techcrunch.com/?p=3177267": {
 "t": "Facebook is giving users more control over their algorithm",
 "s": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
@@ -4798,5 +4766,37 @@
 "https://techcrunch.com/?p=3191147": {
 "t": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
 "s": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+},
+"https://the-decoder.com/?p=43203": {
+"t": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+"s": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely. The models finish clear, standalone assignments quickly, but they lose track as autonomous developers. The article AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43193": {
+"t": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+"s": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable chatbot business through developer tools. The article Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43190": {
+"t": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+"s": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the models can actually do. The article AI is getting better faster than experts can reliably test whether new systems are safe, METR warns appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43182": {
+"t": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+"s": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by removing three providers and 125 endpoints. The article Security researchers show how cheap AI inference providers steal keys and snoop on users appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43181": {
+"t": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+"s": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn't happen until around 2050 and didn't expect AI to solve it alone. The article Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=84044": {
+"t": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+"s": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=84041": {
+"t": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+"s": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request. The post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=43130": {
+"t": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+"s": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder."
 }
 }

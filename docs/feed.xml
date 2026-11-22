@@ -5,8 +5,72 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 22 Nov 2026 04:17:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 15:48:31 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace</title>
+<link>https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43203</guid>
+<pubDate>Sun, 22 Nov 2026 15:15:48 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely. The models finish clear, standalone assignments quickly, but they lose track as autonomous developers. The article AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog</title>
+<link>https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43193</guid>
+<pubDate>Sun, 22 Nov 2026 14:20:28 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable chatbot business through developer tools. The article Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI is getting better faster than experts can reliably test whether new systems are safe, METR warns</title>
+<link>https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43190</guid>
+<pubDate>Sun, 22 Nov 2026 13:00:43 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the models can actually do. The article AI is getting better faster than experts can reliably test whether new systems are safe, METR warns appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Security researchers show how cheap AI inference providers steal keys and snoop on users</title>
+<link>https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43182</guid>
+<pubDate>Sun, 22 Nov 2026 12:07:56 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by removing three providers and 125 endpoints. The article Security researchers show how cheap AI inference providers steal keys and snoop on users appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct</title>
+<link>https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43181</guid>
+<pubDate>Sun, 22 Nov 2026 11:08:31 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn't happen until around 2050 and didn't expect AI to solve it alone. The article Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</title>
+<link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84044</guid>
+<pubDate>Sun, 22 Nov 2026 10:36:17 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries</title>
+<link>https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84041</guid>
+<pubDate>Sun, 22 Nov 2026 10:03:54 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request. The post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude</title>
+<link>https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43130</guid>
+<pubDate>Sun, 22 Nov 2026 09:41:37 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels</title>
 <link>https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/</link>
@@ -96,30 +160,6 @@
 <description><![CDATA[【the-decoder.com】Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up. The article Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop</title>
-<link>https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43149</guid>
-<pubDate>Sat, 21 Nov 2026 10:33:02 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost. The article New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up</title>
-<link>https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43153</guid>
-<pubDate>Sat, 21 Nov 2026 10:27:44 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds are hitting overheated valuations all at once. The article US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model</title>
-<link>https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43145</guid>
-<pubDate>Sat, 21 Nov 2026 09:17:24 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available. The article Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index</title>
 <link>https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/</link>
 <guid isPermaLink="false">https://www.marktechpost.com/?p=84023</guid>
@@ -152,14 +192,6 @@
 <description><![CDATA[【arstechnica.com】Test using prompts with unique, trackable secrets proves that data doesn't stay private.<br/><br/><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI makes it much harder for attackers to extract how its latest AI models think</title>
-<link>https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43142</guid>
-<pubDate>Fri, 20 Nov 2026 20:31:50 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns. The article OpenAI makes it much harder for attackers to extract how its latest AI models think appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)</title>
 <link>https://blog.cloudflare.com/ruby2shell-waf-protection/</link>
 <guid isPermaLink="false">01M7X91JJQ5CWGQ65DZBAHW4Q9</guid>
@@ -184,28 +216,12 @@
 <description><![CDATA[【techcrunch.com】Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.<br/><br/><a href="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats</title>
-<link>https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43124</guid>
-<pubDate>Fri, 20 Nov 2026 19:50:27 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an "existential threat" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should follow suit. The article Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too</title>
 <link>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3190908</guid>
 <pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.<br/><br/><a href="https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working</title>
-<link>https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43135</guid>
-<pubDate>Fri, 20 Nov 2026 18:50:31 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Google is bringing "Computer Use" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only</title>
@@ -384,14 +400,6 @@
 <description><![CDATA[【techcrunch.com】Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.<br/><br/><a href="https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Perplexity Launches Orchestrator API for Failover and Model Routing</title>
-<link>https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83996</guid>
-<pubDate>Thu, 19 Nov 2026 17:47:00 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route. The post Perplexity Launches Orchestrator API for Failover and Model Routing appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says</title>
 <link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3190466</guid>
@@ -438,14 +446,6 @@
 <pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
 <source>blog.cloudflare.com</source>
 <description><![CDATA[【blog.cloudflare.com】On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.<br/><br/><a href="https://blog.cloudflare.com/internet-traffic-2026-us-election/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Not If, But How: Responding to Security Incidents in the Age of AI Attackers</title>
-<link>https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83990</guid>
-<pubDate>Thu, 19 Nov 2026 10:45:57 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue. The post Not If, But How: Responding to Security Incidents in the Age of AI Attackers appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
