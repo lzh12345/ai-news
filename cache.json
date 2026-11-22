@@ -1,20 +1,4 @@
 {
-"https://techcrunch.com/?p=3177267": {
-"t": "Facebook is giving users more control over their algorithm",
-"s": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
-},
-"https://the-decoder.com/?p=41510": {
-"t": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
-"s": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks from months to weeks. The article Gemini 4 Argon is now available worldwide as Google's most capable frontier model appeared first on The Decoder."
-},
-"https://github.blog/?p=99413": {
-"t": "GitHub’s model for secret detection: Finding more secrets with less noise",
-"s": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog."
-},
-"https://techcrunch.com/?p=3166117": {
-"t": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-"s": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
-},
 "https://techcrunch.com/?p=3176775": {
 "t": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
 "s": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon."
@@ -4798,5 +4782,21 @@
 "https://the-decoder.com/?p=43130": {
 "t": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
 "s": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3191164": {
+"t": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+"s": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+},
+"https://www.marktechpost.com/?p=84047": {
+"t": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+"s": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3191157": {
+"t": "Why data centers are at the center of the Big Tech backlash",
+"s": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+},
+"https://openai.com/index/perplexity-and-intelligence": {
+"t": "Perplexity and Intelligence",
+"s": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
 }
 }

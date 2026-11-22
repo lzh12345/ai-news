@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 22 Nov 2026 15:48:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 21:25:15 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+<link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3191164</guid>
+<pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】To establish a speed limit on AI development, you need to agree on how to measure speed.<br/><br/><a href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor</title>
+<link>https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84047</guid>
+<pubDate>Sun, 22 Nov 2026 18:37:57 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Why data centers are at the center of the Big Tech backlash</title>
+<link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3191157</guid>
+<pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Journalist Paris Marx unpacks his new book "Hyperscale."<br/><br/><a href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace</title>
 <link>https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/</link>
@@ -78,6 +102,14 @@
 <pubDate>Sun, 22 Nov 2026 01:51:43 +0000</pubDate>
 <source>marktechpost.com</source>
 <description><![CDATA[【marktechpost.com】TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Perplexity and Intelligence</title>
+<link>https://openai.com/index/perplexity-and-intelligence</link>
+<guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence</guid>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+<source>openai.com</source>
+<description><![CDATA[【openai.com】How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.<br/><br/><a href="https://openai.com/index/perplexity-and-intelligence">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
@@ -384,14 +416,6 @@
 <description><![CDATA[【techcrunch.com】At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.<br/><br/><a href="https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade</title>
-<link>https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=84001</guid>
-<pubDate>Thu, 19 Nov 2026 18:13:21 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Google gives Gemini the ability to use your Mac for you</title>
 <link>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3190514</guid>
@@ -414,22 +438,6 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.<br/><br/><a href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic hits Nasdaq exchanges at $111, 33% above IPO price</title>
-<link>https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3190451</guid>
-<pubDate>Thu, 19 Nov 2026 16:59:23 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.<br/><br/><a href="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development</title>
-<link>https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3190440</guid>
-<pubDate>Thu, 19 Nov 2026 16:19:41 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.<br/><br/><a href="https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>The best things in open source are built together</title>
@@ -456,12 +464,12 @@
 <description><![CDATA[【openai.com】Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.<br/><br/><a href="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Explore the Codex Security Plugin</title>
-<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-<guid isPermaLink="false">https://openai.com/business/learn/codex-security-plugin-demo</guid>
+<title>Deploying Daybreak Red</title>
+<link>https://openai.com/business/learn/deploying-daybreak-red</link>
+<guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
-<description><![CDATA[【openai.com】Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.<br/><br/><a href="https://openai.com/business/learn/codex-security-plugin-demo">阅读原文</a>]]></description>
+<description><![CDATA[【openai.com】Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.<br/><br/><a href="https://openai.com/business/learn/deploying-daybreak-red">阅读原文</a>]]></description>
 </item>
 <item>
 <title>See PR scans in action</title>
@@ -478,14 +486,6 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.<br/><br/><a href="https://openai.com/business/learn/daybreak-blue-onboarding-demo">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Deploying Daybreak Red</title>
-<link>https://openai.com/business/learn/deploying-daybreak-red</link>
-<guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.<br/><br/><a href="https://openai.com/business/learn/deploying-daybreak-red">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
