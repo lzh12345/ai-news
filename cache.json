@@ -1,12 +1,4 @@
 {
-"https://techcrunch.com/?p=3176907": {
-"t": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-"s": "The startup will sell some of its assets to Disney for $20 million."
-},
-"https://the-decoder.com/?p=41475": {
-"t": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
-"s": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moonshot, and has already banned tens of thousands of accounts. The article Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=41470": {
 "t": "Anthropic study warns that small AI models could soon replicate across everyday devices",
 "s": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain. CEO Dario Amodei has warned that a swarm like this could take over the entire internet with a persistent botnet within 6 to 12 months, causing hundreds of billions of dollars in damage. The article Anthropic study warns that small AI models could soon replicate across everyday devices appeared first on The Decoder."
@@ -4798,5 +4790,13 @@
 "https://techcrunch.com/?p=3188069": {
 "t": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
 "s": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+},
+"https://www.marktechpost.com/?p=84036": {
+"t": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+"s": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3191147": {
+"t": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+"s": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
 }
 }

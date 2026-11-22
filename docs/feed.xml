@@ -5,8 +5,24 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 21 Nov 2026 21:22:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 04:17:36 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels</title>
+<link>https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84036</guid>
+<pubDate>Sun, 22 Nov 2026 01:51:43 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
+<link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3191147</guid>
+<pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Signal is limiting users' ability to take screenshots in both its Android and iOS apps.<br/><br/><a href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>A tale of two Nvidias</title>
 <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
@@ -416,14 +432,6 @@
 <description><![CDATA[【github.blog】Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog.<br/><br/><a href="https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic’s IPO puts AI’s circular financing boom to the test</title>
-<link>https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3190277</guid>
-<pubDate>Thu, 19 Nov 2026 14:54:39 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.<br/><br/><a href="https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Internet traffic and attacks during the 2026 U.S. midterm elections</title>
 <link>https://blog.cloudflare.com/internet-traffic-2026-us-election/</link>
 <guid isPermaLink="false">01M7R5N9JG35DGY66ZG3E9RXSW</guid>
@@ -446,14 +454,6 @@
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.<br/><br/><a href="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index</title>
-<link>https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=83987</guid>
-<pubDate>Thu, 19 Nov 2026 06:52:26 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Explore the Codex Security Plugin</title>
