@@ -1,128 +1,4 @@
 {
-"https://the-decoder.com/?p=41504": {
-"t": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
-"s": "Michael I. Jordan, described by Science as \"the most influential computer scientist,\" considers warnings about superintelligence pure science fiction. He calls the resignations of young AI researchers a \"grand moralizing performance\" and companies' demands for regulation \"theater.\" On Hinton's thesis that the brain can be reproduced in silicon and scaled into superintelligence, he's blunt: \"None of the steps in this argument is credible. Here, we're in the land of science fiction.\" The article Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\" appeared first on The Decoder."
-},
-"https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
-"t": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-"s": ""
-},
-"https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/": {
-"t": "Google wants to host your personal vibe-coded apps in the Play Store",
-"s": "Google plans to help turn those personal AI-generated apps into wide releases."
-},
-"https://techcrunch.com/?p=3176600": {
-"t": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-"s": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
-},
-"01M4TZM0P3VSCZHV70ZGX58319": {
-"t": "Under the hood, off the hot path: How D1 scales to millions of databases",
-"s": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively."
-},
-"https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-"t": "Gemini 4 Argon for Robotics",
-"s": ""
-},
-"https://deepmind.google/blog/introducing-gemini-4-argon/": {
-"t": "Gemini 4 Argon: Built to solve your hardest problems",
-"s": ""
-},
-"https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/": {
-"t": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-"s": "Developers will get 50 percent discounted API rates through November."
-},
-"01M4RYTJWRQG5ZF619XNRPYAZB": {
-"t": "Rewinding the exponential: How we keep hardware usage down",
-"s": "Our strategies to optimize our data pipeline throughput without compromising data quality."
-},
-"https://the-decoder.com/?p=41494": {
-"t": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
-"s": "Character.ai has filed for bankruptcy and is looking for a buyer. If none steps up, the platform shuts down. Founded by ex-Google researchers, the company once had over 20 million users but is now battling lawsuits over harm to minors and operational problems. The sale should close by the end of 2026. The article Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy appeared first on The Decoder."
-},
-"https://openai.com/index/higgsfield-longer-videos-voice": {
-"t": "Higgsfield takes AI video from 1 minute to over 10",
-"s": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-},
-"https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-"t": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-"s": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-},
-"https://techcrunch.com/?p=3177396": {
-"t": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-"s": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
-},
-"https://techcrunch.com/?p=3177414": {
-"t": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-"s": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
-},
-"https://techcrunch.com/?p=3173266": {
-"t": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-"s": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
-},
-"https://www.marktechpost.com/?p=82893": {
-"t": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
-"s": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads DeepSWE and SWE-Marathon. The post Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It appeared first on MarkTechPost."
-},
-"https://techcrunch.com/?p=3177406": {
-"t": "Cerebras CEO pushes back on AI doomsday warnings",
-"s": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
-},
-"https://www.marktechpost.com/?p=82890": {
-"t": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
-"s": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placements across racks, handle constraints and goal priorities, and compare local search against the exact HiGHS solver using published benchmarks. The post How to Use Meta’s Rebalancer for Task Placement & Optimization appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82912": {
-"t": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
-"s": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment. The post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82909": {
-"t": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
-"s": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82905": {
-"t": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
-"s": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. The post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost."
-},
-"https://huggingface.co/blog/allenai/hiro-acev2": {
-"t": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-"s": ""
-},
-"https://techcrunch.com/?p=3177470": {
-"t": "Deezer will soon let you filter out AI-generated music",
-"s": "Deezer said that the new toggle will be rolled out by the end of the year."
-},
-"https://techcrunch.com/?p=3177466": {
-"t": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-"s": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
-},
-"https://techcrunch.com/?p=3177533": {
-"t": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-"s": "Zenzap is used by organizations including Starbucks and Taco Bell."
-},
-"https://techcrunch.com/?p=3173327": {
-"t": "Floqer’s AI agents research sales prospects so teams don’t have to",
-"s": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
-},
-"https://techcrunch.com/?p=3177501": {
-"t": "TechCrunch Disrupt 2026: Day 2",
-"s": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass."
-},
-"https://the-decoder.com/?p=41530": {
-"t": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
-"s": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap. The article Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41524": {
-"t": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
-"s": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process. The article AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap appeared first on The Decoder."
-},
-"01M4VK1MXKAPMWG5QXYBFK222G": {
-"t": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
-"s": "While adding MySQL support to Hyperdrive, we found a subtle protocol bug when caching query results. Here is how we tracked down a 0.001% rate error and made Hyperdrive MySQL generally available."
-},
-"https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": {
-"t": "Anthropic warns small AI models could self-replicate through IoT devices",
-"s": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
-},
 "https://the-decoder.com/?p=41519": {
 "t": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
 "s": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he faces up to five years in prison. The article Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account appeared first on The Decoder."
@@ -4798,5 +4674,129 @@
 "https://techcrunch.com/?p=3191173": {
 "t": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
 "s": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+},
+"https://techcrunch.com/?p=3191431": {
+"t": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+"s": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+},
+"https://www.marktechpost.com/?p=84063": {
+"t": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+"s": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work. The post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPost."
+},
+"https://the-decoder.com/?p=43237": {
+"t": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+"s": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among other cuts. The article Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy appeared first on The Decoder."
+},
+"https://garymarcus.substack.com/p/could-jensengate-take-down-the-president": {
+"t": "Could Jensengate take down the President?",
+"s": "Some cynical speculations have already been confirmed, and you can bet your last dollar the incoming Congress is going to take an interest"
+},
+"https://the-decoder.com/?p=43234": {
+"t": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+"s": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds. Pachocki is pushing to make perplexity an industry-wide progress metric and establish shared limits before control over AI behavior erodes. The article OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3191435": {
+"t": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+"s": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+},
+"https://huggingface.co/blog/allenai/robotrack": {
+"t": "RoboTrack: Point tracking for real-world robotic manipulation",
+"s": ""
+},
+"https://techcrunch.com/?p=3191371": {
+"t": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+"s": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+},
+"https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/": {
+"t": "Finding faster quantum algorithms with agents and formal verification",
+"s": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+},
+"https://techcrunch.com/?p=3191267": {
+"t": "Jensen Huang isn’t out of the woods yet",
+"s": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
+},
+"https://techcrunch.com/?p=3191332": {
+"t": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+"s": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC."
+},
+"https://garymarcus.substack.com/p/breaking-jensen-is-back-and-the-market": {
+"t": "Breaking: Jensen is back. And the market is way up. But things will never be the same.",
+"s": "In lieu of writing about the stunning news, here’s a 5 minute guest appearance that I just did on CNN International."
+},
+"https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/": {
+"t": "Jensen Huang reinstated as Nvidia CEO, board chair",
+"s": "Trump says he spoke to the board and that Huang \"did nothing wrong.\""
+},
+"https://the-decoder.com/?p=43216": {
+"t": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+"s": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models. The article Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3191257": {
+"t": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+"s": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+},
+"https://the-decoder.com/?p=43228": {
+"t": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+"s": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3191185": {
+"t": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+"s": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
+},
+"https://the-decoder.com/?p=43225": {
+"t": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
+"s": "Nvidia's board of directors has reinstated Jensen Huang as president, CEO, and board member, effective immediately. The article Nvidia tried life without Jensen Huang and it lasted about two weeks appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3191219": {
+"t": "Nvidia reverses course and brings Jensen Huang back as CEO",
+"s": "The stunning reversal was supported by senior officials in the U.S. government."
+},
+"01M7XNSFEMYQNMHGRYWVF2TQ82": {
+"t": "Probing DNS at Cloudflare",
+"s": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS."
+},
+"https://the-decoder.com/?p=43215": {
+"t": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+"s": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. The article Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43218": {
+"t": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+"s": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports. The surveillance ran parallel to her secret affair with then-Nvidia CEO Jensen Huang. Federal investigators are now looking into whether a network of companies in Southeast Asia was used to smuggle AI chips into China in violation of US export controls. Jensen Huang is scheduled to testify before the US House of Representatives on December 1. The article US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43085": {
+"t": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+"s": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leaderboard with 49 of 56 tasks solved. The article GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy appeared first on The Decoder."
+},
+"https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/": {
+"t": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+"s": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents."
+},
+"https://www.marktechpost.com/?p=84060": {
+"t": "27 Cybersecurity Terms to Prepare You for the Age of AI",
+"s": "AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM’s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 million global […] The post 27 Cybersecurity Terms to Prepare You for the Age of AI appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=84057": {
+"t": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
+"s": "Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core. The post Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=84054": {
+"t": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+"s": "Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs. The post Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD appeared first on MarkTechPost."
+},
+"https://openai.com/business/learn/connected-intelligence-for-in-house-legal": {
+"t": "Connected intelligence for in-house legal",
+"s": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+},
+"https://huggingface.co/blog/agentic-evals": {
+"t": "How to build and maintain an agentic evaluation",
+"s": ""
+},
+"https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann": {
+"t": "Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?",
+"s": "And why isn‘t it immediately rescuing the market?"
+},
+"https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing": {
+"t": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.",
+"s": "Anthropic, which dropped steadily after its opening yesterday, is set to drop nearly 10% more at the opening bell."
 }
 }
