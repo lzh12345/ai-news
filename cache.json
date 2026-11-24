@@ -1,44 +1,4 @@
 {
-"https://the-decoder.com/?p=41519": {
-"t": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
-"s": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he faces up to five years in prison. The article Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account appeared first on The Decoder."
-},
-"https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
-"t": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-"s": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes."
-},
-"https://techcrunch.com/?p=3177088": {
-"t": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-"s": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
-},
-"https://openai.com/index/third-moment-research": {
-"t": "How Third Moment Research runs 10,000 agents for 36+ hours",
-"s": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-},
-"tri-modal-masked-diffusion": {
-"t": "The Design Space of Tri-Modal Masked Diffusion Models",
-"s": "Discrete diffusion models have emerged as strong alternatives to autoregressive language models, with recent work initializing and finetuning a base unimodal model for bi-modal generation. Diverging from previous approaches, we introduce the first tri-modal Masked Diffusion Models (MDM) pretrained from scratch on text, image-text, and audio-text data. We systematically analyze multimodal scaling laws, modality mixing ratios, noise schedules, batch-size effects and provide optimized inference sampling defaults. Our batch-size analysis yields a novel stochastic differential equation (SDE) based…"
-},
-"code-switching-detection": {
-"t": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models",
-"s": "Code-switching (CS), the alternation between languages within an utterance, is common in multilingual speech but underrepresented in pretraining corpora. Increasing CS coverage requires finding relevant utterances in large speech collections so that they can be included in training data. One way to find such utterances is to transcribe the speech and detect language alternation in the text, but this depends on obtaining accurate multilingual transcriptions. We propose a lightweight method that detects CS directly from speech. It uses frame-level language information in pretrained speech…"
-},
-"https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
-"t": "The EU’s next chapter in AI is agentic",
-"s": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-},
-"https://techcrunch.com/?p=3177812": {
-"t": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-"s": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology."
-},
-"https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/": {
-"t": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-"s": "But the new \"Preview\" app \"will have some bugs,\" Epic warns."
-},
-"01M4Y1477Z7DBJHXRZDP6MM2FN": {
-"t": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-"s": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks."
-},
 "https://github.blog/?p=99506": {
 "t": "GitHub availability report: September 2026",
 "s": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog."
@@ -4798,5 +4758,45 @@
 "https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing": {
 "t": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.",
 "s": "Anthropic, which dropped steadily after its opening yesterday, is set to drop nearly 10% more at the opening bell."
+},
+"https://www.marktechpost.com/?p=84067": {
+"t": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+"s": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3191583": {
+"t": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+"s": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+},
+"https://techcrunch.com/?p=3191460": {
+"t": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+"s": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+},
+"https://techcrunch.com/?p=3191575": {
+"t": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+"s": "\"The mistake has been corrected,\" Elon Musk chimed in."
+},
+"https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/": {
+"t": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+"s": "X says every Grok output is screened, but state AGs say Grok is still making CSAM."
+},
+"https://techcrunch.com/?p=3191574": {
+"t": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+"s": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+},
+"https://openai.com/index/introducing-shirudo": {
+"t": "OpenAI and Cisco introduce Shirudo",
+"s": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+},
+"https://the-decoder.com/?p=43242": {
+"t": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+"s": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently. The article OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3191548": {
+"t": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+"s": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+},
+"https://openai.com/business/customer-stories/richpanel-ai-customer-support": {
+"t": "Richpanel helps companies automate 50% of support in 30 days",
+"s": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
 }
 }
