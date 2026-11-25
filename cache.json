@@ -1,76 +1,4 @@
 {
-"https://github.blog/?p=99529": {
-"t": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-"s": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog."
-},
-"01M5072CXFWQ88M9NCXZBSPAF2": {
-"t": "A fully programmable secure web gateway",
-"s": "Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform."
-},
-"https://the-decoder.com/?p=41595": {
-"t": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
-"s": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperforms proprietary competitors in internal tests and runs on GPUs with just 8 GB of VRAM. The article Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41558": {
-"t": "Google wants Gemini 4 Argon to be the only AI model robots need",
-"s": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Google wants Gemini 4 Argon to be the only AI model robots need appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41575": {
-"t": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-"s": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware. The article Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop appeared first on The Decoder."
-},
-"https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
-"t": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-"s": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
-},
-"https://huggingface.co/blog/meta-muse-spark-open": {
-"t": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-"s": ""
-},
-"mlx-distributed-inference": {
-"t": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-"s": ""
-},
-"selection-structured-reasoning": {
-"t": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
-"s": "Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we introduce Selection-based Structured Reasoning (SSR), a framework that reformulates reasoning as selection instead of open-ended generation. SSR represents recurring high-level reasoning as pre-specified, reusable natural-language candidates. At each turn, the model selects from the reasoning candidates based on their…"
-},
-"plan-retrieve-tool-discovery": {
-"t": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
-"s": "Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools via approximate nearest-neighbor search. We study an alternative Plan-then-Retrieve (PtR) paradigm in which the LLM first generates Abstract Tool Stubs (hypothesized function signatures describing needed capabilities) which then serve as retrieval queries against the registry. Evaluating on…"
-},
-"https://huggingface.co/blog/nvidia/scaling-indic-pretraining": {
-"t": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-"s": ""
-},
-"https://techcrunch.com/?p=3178431": {
-"t": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-"s": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
-},
-"https://openai.com/index/sullivan-cromwell": {
-"t": "Sullivan & Cromwell brings legal expertise into agreement review",
-"s": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
-},
-"https://www.marktechpost.com/?p=82963": {
-"t": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
-"s": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index appeared first on MarkTechPost."
-},
-"https://www.marktechpost.com/?p=82960": {
-"t": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
-"s": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost."
-},
-"https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/": {
-"t": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-"s": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab."
-},
-"https://techcrunch.com/?p=3178711": {
-"t": "Jev is Vercel’s fastest-adopted AI model ever",
-"s": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter."
-},
-"https://the-decoder.com/?p=41620": {
-"t": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
-"s": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon also trails rivals in math and software engineering. The article Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months appeared first on The Decoder."
-},
 "https://techcrunch.com/?p=3178550": {
 "t": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
 "s": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
@@ -4798,5 +4726,77 @@
 "https://www.marktechpost.com/?p=84086": {
 "t": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
 "s": "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified. The post ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3192614": {
+"t": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+"s": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+},
+"https://the-decoder.com/?p=43322": {
+"t": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+"s": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months behind US models, and the gap is widening. The article US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43318": {
+"t": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+"s": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\" appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3192524": {
+"t": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+"s": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+},
+"https://techcrunch.com/?p=3192475": {
+"t": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+"s": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+},
+"https://techcrunch.com/?p=3192506": {
+"t": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+"s": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+},
+"https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": {
+"t": "Where scientists draw the line on AI agents",
+"s": ""
+},
+"https://the-decoder.com/?p=43315": {
+"t": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+"s": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3192412": {
+"t": "Want to buy your kid an AI toy this Christmas? Not in New York",
+"s": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+},
+"https://techcrunch.com/?p=3192361": {
+"t": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+"s": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+},
+"https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/": {
+"t": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+"s": "Militaries have many reasons to target data centers and the cloud in wartime."
+},
+"https://the-decoder.com/?p=43312": {
+"t": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+"s": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 billion a year, and Muse already commands 51 percent of all agentic shopping orders. The article Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store. appeared first on The Decoder."
+},
+"https://github.blog/?p=100468": {
+"t": "Art of play in the age of AI",
+"s": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?post_type=tc_podcast&p=3192333": {
+"t": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+"s": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]"
+},
+"https://github.blog/?p=99982": {
+"t": "How to choose the next safe step in application modernization",
+"s": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog."
+},
+"https://techcrunch.com/?p=3192253": {
+"t": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+"s": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+},
+"01M87EHEACB4SNPV680X1CZPQ1": {
+"t": "Introducing Search for Agents",
+"s": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support."
+},
+"https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": {
+"t": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+"s": ""
 }
 }
