@@ -5,8 +5,80 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 25 Nov 2026 03:15:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 13:45:09 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant</title>
+<link>https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43305</guid>
+<pubDate>Wed, 25 Nov 2026 13:23:36 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks. The article AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools</title>
+<link>https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43296</guid>
+<pubDate>Wed, 25 Nov 2026 13:14:27 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures. The article Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages</title>
+<link>https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43304</guid>
+<pubDate>Wed, 25 Nov 2026 13:07:44 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach at the CIA, NGA, and ODNI, in which investigators suspect attackers used the AI defense tool Artex. Both incidents land on a US public that is already on edge. The article Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>The questions Jensen Huang and Nvidia will still have to answer about Megaspeed</title>
+<link>https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/</link>
+<guid isPermaLink="false">https://techcrunch.com/?p=3191841</guid>
+<pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
+<source>techcrunch.com</source>
+<description><![CDATA[【techcrunch.com】Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.<br/><br/><a href="https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>AI may soon change what it means to be a theoretical physicist</title>
+<link>https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/</link>
+<guid isPermaLink="false">https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/</guid>
+<pubDate>Wed, 25 Nov 2026 12:00:28 +0000</pubDate>
+<source>arstechnica.com</source>
+<description><![CDATA[【arstechnica.com】Frontier AI is already solving problems that once took top physicists a full day.<br/><br/><a href="https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values</title>
+<link>https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=43292</guid>
+<pubDate>Wed, 25 Nov 2026 11:51:49 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>MIT team discovers that unrealistic training data makes AI climate predictions more reliable</title>
+<link>https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/</link>
+<guid isPermaLink="false">https://the-decoder.com/?p=42829</guid>
+<pubDate>Wed, 25 Nov 2026 10:47:51 +0000</pubDate>
+<source>the-decoder.com</source>
+<description><![CDATA[【the-decoder.com】MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately unrealistic scenarios with extreme CO2 or methane swings that make the model more robust. Until now, these emulators were often outdated by the time they were finished, according to the researchers. The article MIT team discovers that unrealistic training data makes AI climate predictions more reliable appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>An Indic Voice Agent with CUGA</title>
+<link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
+<pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga">阅读原文</a>]]></description>
+</item>
+<item>
+<title>ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework</title>
+<link>https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84086</guid>
+<pubDate>Wed, 25 Nov 2026 05:42:05 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified. The post ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</title>
 <link>https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</link>
@@ -216,14 +288,6 @@
 <description><![CDATA[【marktechpost.com】OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed "shields" that block exploit paths on running systems while teams test and roll out real patches. The post OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures</title>
-<link>https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43263</guid>
-<pubDate>Tue, 24 Nov 2026 14:02:31 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether, while employee trust in leadership is eroding. The article Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
 <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
 <guid isPermaLink="false">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</guid>
@@ -232,28 +296,12 @@
 <description><![CDATA[【openai.com】GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.<br/><br/><a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities">阅读原文</a>]]></description>
 </item>
 <item>
-<title>German researchers call for computer science to reinvent itself as &quot;Computer and AI Science&quot;</title>
-<link>https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43251</guid>
-<pubDate>Tue, 24 Nov 2026 12:30:49 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】In a position paper, TU Darmstadt researchers call for redefining computer science as "Computer and AI Science." Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness guarantees. The article German researchers call for computer science to reinvent itself as "Computer and AI Science" appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Amazon says hackers' AI agents found and exploited 0-day with little human input</title>
 <link>https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</link>
 <guid isPermaLink="false">https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</guid>
 <pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
 <source>arstechnica.com</source>
 <description><![CDATA[【arstechnica.com】The Cairn AI framework is proving to be a boon for defenders and attackers.<br/><br/><a href="https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own</title>
-<link>https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43253</guid>
-<pubDate>Tue, 24 Nov 2026 11:26:23 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Searching for distant planets with Astra</title>
@@ -344,14 +392,6 @@
 <description><![CDATA[【openai.com】OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.<br/><br/><a href="https://openai.com/index/introducing-shirudo">阅读原文</a>]]></description>
 </item>
 <item>
-<title>OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably</title>
-<link>https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43242</guid>
-<pubDate>Mon, 23 Nov 2026 20:39:18 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently. The article OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ</title>
 <link>https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/</link>
 <guid isPermaLink="false">https://techcrunch.com/?p=3191548</guid>
@@ -376,36 +416,12 @@
 <description><![CDATA[【marktechpost.com】Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work. The post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/">阅读原文</a>]]></description>
 </item>
 <item>
-<title>Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy</title>
-<link>https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/</link>
-<guid isPermaLink="false">https://the-decoder.com/?p=43237</guid>
-<pubDate>Mon, 23 Nov 2026 18:47:53 +0000</pubDate>
-<source>the-decoder.com</source>
-<description><![CDATA[【the-decoder.com】Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among other cuts. The article Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy appeared first on The Decoder.<br/><br/><a href="https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO</title>
-<link>https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/</link>
-<guid isPermaLink="false">https://techcrunch.com/?p=3191435</guid>
-<pubDate>Mon, 23 Nov 2026 18:12:22 +0000</pubDate>
-<source>techcrunch.com</source>
-<description><![CDATA[【techcrunch.com】The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.<br/><br/><a href="https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/">阅读原文</a>]]></description>
-</item>
-<item>
 <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
 <link>https://huggingface.co/blog/allenai/robotrack</link>
 <guid isPermaLink="false">https://huggingface.co/blog/allenai/robotrack</guid>
 <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
 <source>huggingface.co</source>
 <description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/allenai/robotrack">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Finding faster quantum algorithms with agents and formal verification</title>
-<link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
-<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
-<source>deepmind.google</source>
-<description><![CDATA[【deepmind.google】Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.<br/><br/><a href="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Jensen Huang reinstated as Nvidia CEO, board chair</title>
@@ -470,22 +486,6 @@
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.<br/><br/><a href="https://openai.com/business/customer-stories/richpanel-ai-customer-support">阅读原文</a>]]></description>
-</item>
-<item>
-<title>How to build and maintain an agentic evaluation</title>
-<link>https://huggingface.co/blog/agentic-evals</link>
-<guid isPermaLink="false">https://huggingface.co/blog/agentic-evals</guid>
-<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/agentic-evals">阅读原文</a>]]></description>
-</item>
-<item>
-<title>NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor</title>
-<link>https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/</link>
-<guid isPermaLink="false">https://www.marktechpost.com/?p=84047</guid>
-<pubDate>Sun, 22 Nov 2026 18:37:57 +0000</pubDate>
-<source>marktechpost.com</source>
-<description><![CDATA[【marktechpost.com】NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>
