@@ -1,40 +1,4 @@
 {
-"https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/": {
-"t": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-"s": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer."
-},
-"https://techcrunch.com/?p=3177529": {
-"t": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-"s": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods."
-},
-"https://the-decoder.com/?p=41605": {
-"t": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
-"s": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are still debating whether the thesis holds up. The article Is AI interpretability close to a breakthrough? A new essay has researchers divided appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41607": {
-"t": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
-"s": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decoder."
-},
-"https://the-decoder.com/?p=41608": {
-"t": "Anthropic gives METR inside access to audit its AI models and safety practices",
-"s": "Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder."
-},
-"01M510YDY2PS6BYR03DF8HHG2D": {
-"t": "Continuous accountability for Verified bots",
-"s": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time."
-},
-"https://techcrunch.com/?p=3178541": {
-"t": "Replit’s CEO says the future of work is the ‘self-driving company’",
-"s": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
-},
-"https://huggingface.co/blog/reflection-beam": {
-"t": "Welcome Beam: a 501B open model you can own, customize, and scale",
-"s": ""
-},
-"https://the-decoder.com/?p=41633": {
-"t": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
-"s": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans. The article ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs appeared first on The Decoder."
-},
 "https://techcrunch.com/?p=3178813": {
 "t": "India becomes the latest country to report rogue AI agent activity",
 "s": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
@@ -4798,5 +4762,41 @@
 "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": {
 "t": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
 "s": ""
+},
+"https://the-decoder.com/?p=43343": {
+"t": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+"s": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast Mode through year-end. OpenAI is also testing a Chat and Work mode merger. The article GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error appeared first on The Decoder."
+},
+"https://techcrunch.com/?p=3190829": {
+"t": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+"s": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+},
+"https://the-decoder.com/?p=43340": {
+"t": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+"s": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43336": {
+"t": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+"s": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Blue Origin are also working on AI infrastructure in space, but Boston Consulting Group estimates costs will stay well above ground-based data centers for now. The article FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040 appeared first on The Decoder."
+},
+"https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": {
+"t": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+"s": ""
+},
+"https://the-decoder.com/?p=43328": {
+"t": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+"s": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along with criminal organizations, are already using the system. Microsoft recommends deception techniques like honeypots and faked success signals as defenses, but how long those will hold up against agents that learn and adapt remains an open question. The article Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks appeared first on The Decoder."
+},
+"https://the-decoder.com/?p=43327": {
+"t": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+"s": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for thousands of B300 chips, while one cloud executive describes \"chaos\", Loans and major deals are now on the line for Southeast Asia's data centers. The article Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls appeared first on The Decoder."
+},
+"https://huggingface.co/blog/training-swarms": {
+"t": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+"s": ""
+},
+"https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/": {
+"t": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+"s": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
 }
 }
