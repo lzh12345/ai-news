@@ -1,8 +1,4 @@
 {
-"https://techcrunch.com/?p=3178550": {
-"t": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-"s": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
-},
 "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/": {
 "t": "Super Scam Me documentary shows what it takes to catch a romance scammer",
 "s": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer."
@@ -4797,6 +4793,10 @@
 },
 "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": {
 "t": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+"s": ""
+},
+"https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": {
+"t": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
 "s": ""
 }
 }

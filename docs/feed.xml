@@ -5,8 +5,16 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 25 Nov 2026 23:55:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 06:18:26 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+<link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+<guid isPermaLink="false">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
+<pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin">阅读原文</a>]]></description>
+</item>
 <item>
 <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
 <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
@@ -342,14 +350,6 @@
 <pubDate>Tue, 24 Nov 2026 16:46:00 +0000</pubDate>
 <source>techcrunch.com</source>
 <description><![CDATA[【techcrunch.com】The company said it will still accept songs that were made with AI assistance, but not fully generated.<br/><br/><a href="https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
-<link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-<guid isPermaLink="false">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
-<pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
-<source>huggingface.co</source>
-<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance">阅读原文</a>]]></description>
 </item>
 <item>
 <title>Why a Crusoe investor is betting on solar and batteries to power future AI data centers</title>
