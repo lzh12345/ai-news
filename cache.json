@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?p=3178813": {
-"t": "India becomes the latest country to report rogue AI agent activity",
-"s": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-},
-"https://the-decoder.com/?p=41627": {
-"t": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-"s": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight models over Chinese alternatives. The article China plans to tighten export controls on open-weight models and 23 key AI technologies appeared first on The Decoder."
-},
-"https://techcrunch.com/?post_type=tc_video&p=3176211": {
-"t": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-"s": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
-},
 "https://techcrunch.com/?post_type=tc_podcast&p=3176205": {
 "t": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
 "s": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
@@ -4798,5 +4786,17 @@
 "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/": {
 "t": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
 "s": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
+},
+"https://www.marktechpost.com/?p=84093": {
+"t": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+"s": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost."
+},
+"https://techcrunch.com/?p=3192803": {
+"t": "Nvidia hits pause on chip shipments to Southeast Asia",
+"s": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+},
+"https://the-decoder.com/?p=43346": {
+"t": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+"s": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs are sitting on \"one or more bombshells\" in cryptography. The article Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it appeared first on The Decoder."
 }
 }
