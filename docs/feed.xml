@@ -5,8 +5,32 @@
 <link>https://lzh12345.github.io/ai-news/feed.xml</link>
 <description>外文 AI 资讯经 DeepSeek 自动翻译成中文的聚合源</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 27 Nov 2026 02:33:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 13:20:40 +0000</lastBuildDate>
 <atom:link href="https://lzh12345.github.io/ai-news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in</title>
+<link>https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84090</guid>
+<pubDate>Fri, 27 Nov 2026 03:43:35 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache</title>
+<link>https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/</link>
+<guid isPermaLink="false">https://www.marktechpost.com/?p=84097</guid>
+<pubDate>Fri, 27 Nov 2026 03:31:30 +0000</pubDate>
+<source>marktechpost.com</source>
+<description><![CDATA[【marktechpost.com】Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%. The post Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache appeared first on MarkTechPost.<br/><br/><a href="https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/">阅读原文</a>]]></description>
+</item>
+<item>
+<title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+<link>https://huggingface.co/blog/video-trainium3</link>
+<guid isPermaLink="false">https://huggingface.co/blog/video-trainium3</guid>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<source>huggingface.co</source>
+<description><![CDATA[【huggingface.co】<br/><br/><a href="https://huggingface.co/blog/video-trainium3">阅读原文</a>]]></description>
+</item>
 <item>
 <title>Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano</title>
 <link>https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/</link>
@@ -462,30 +486,6 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 <source>openai.com</source>
 <description><![CDATA[【openai.com】<br/><br/><a href="https://openai.com/business/customer-stories/ifood">阅读原文</a>]]></description>
-</item>
-<item>
-<title>Clay helps sales teams win with Codex and ChatGPT</title>
-<link>https://openai.com/business/customer-stories/clay-plugins-openai</link>
-<guid isPermaLink="false">https://openai.com/business/customer-stories/clay-plugins-openai</guid>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.<br/><br/><a href="https://openai.com/business/customer-stories/clay-plugins-openai">阅读原文</a>]]></description>
-</item>
-<item>
-<title>States sue SpaceX to stop Grok from generating child sex images, revenge porn</title>
-<link>https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/</link>
-<guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/</guid>
-<pubDate>Mon, 23 Nov 2026 21:30:44 +0000</pubDate>
-<source>arstechnica.com</source>
-<description><![CDATA[【arstechnica.com】X says every Grok output is screened, but state AGs say Grok is still making CSAM.<br/><br/><a href="https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/">阅读原文</a>]]></description>
-</item>
-<item>
-<title>OpenAI and Cisco introduce Shirudo</title>
-<link>https://openai.com/index/introducing-shirudo</link>
-<guid isPermaLink="false">https://openai.com/index/introducing-shirudo</guid>
-<pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
-<source>openai.com</source>
-<description><![CDATA[【openai.com】OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.<br/><br/><a href="https://openai.com/index/introducing-shirudo">阅读原文</a>]]></description>
 </item>
 </channel>
 </rss>

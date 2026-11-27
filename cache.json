@@ -1,16 +1,4 @@
 {
-"https://techcrunch.com/?post_type=tc_podcast&p=3176205": {
-"t": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-"s": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
-},
-"https://techcrunch.com/?p=3178756": {
-"t": "Elorian’s first AI model wants to reason with images, not just about them",
-"s": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
-},
-"https://techcrunch.com/?p=3178496": {
-"t": "Replit is no longer working with Anthropic, CEO says",
-"s": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
-},
 "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": {
 "t": "OpenAI models hacked a crypto wallet and breached more websites",
 "s": "The actions could have resulted in criminal charges had humans been behind the keyboard."
@@ -4798,5 +4786,17 @@
 "https://the-decoder.com/?p=43346": {
 "t": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
 "s": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs are sitting on \"one or more bombshells\" in cryptography. The article Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it appeared first on The Decoder."
+},
+"https://www.marktechpost.com/?p=84090": {
+"t": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+"s": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost."
+},
+"https://www.marktechpost.com/?p=84097": {
+"t": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+"s": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%. The post Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache appeared first on MarkTechPost."
+},
+"https://huggingface.co/blog/video-trainium3": {
+"t": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+"s": ""
 }
 }
