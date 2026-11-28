@@ -1,12 +1,4 @@
 {
-"https://openai.com/index/benefit-street-partners": {
-"t": "Benefit Street Partners answers questions faster with Codex",
-"s": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
-},
-"https://the-decoder.com/?p=41659": {
-"t": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-"s": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 calls. API users in tools like Claude Code and Codex get free access for now. The article Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs appeared first on The Decoder."
-},
 "https://the-decoder.com/?p=41649": {
 "t": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
 "s": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mistakes in their own work reports, but one sentence in your prompt can help appeared first on The Decoder."
@@ -4798,5 +4790,13 @@
 "https://the-decoder.com/?p=43354": {
 "t": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
 "s": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to cut at least 10,000 jobs as it pivots to AI appeared first on The Decoder."
+},
+"https://garymarcus.substack.com/p/breaking-employees-at-openai-and": {
+"t": "BREAKING: Employees at OpenAI and Anthropic are panicking",
+"s": "And it’s not about stock prices"
+},
+"https://garymarcus.substack.com/p/breaking-when-it-comes-to-generative": {
+"t": "Breaking: When it comes to generative AI, the bump from rehiring Jensen doesn’t appear to be holding",
+"s": "And Anthropic has dropped below its IPO price"
 }
 }
